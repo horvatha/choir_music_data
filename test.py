@@ -9,4 +9,4 @@ table_eras = {
 
 
 def test_table_eras():
-    assert set(get_table_eras(era_config)) ==  table_eras
+    assert set(get_table_eras(era_config)) == table_eras

@@ -95,19 +95,7 @@ def fetch_from_wiki(era_name: str) -> pd.DataFrame:
     with open(f"List of {era_name} composers.wiki".replace(" ", "_")) as f:
         data = []
         for line in f:
-            pattern = r"""\*\s*
-               \[\[
-                 ([^)|]*)
-                 (?:\|([^)]*))?
-               \]\]
-               \s*
-               \(
-                 (
-                    ([^)-]*)
-                      -
-                    ([^)]*)
-                )"""
-            pattern = r"""\*\s*
+            pattern = rf"""\*\s*
                \[\[
                  (?:([^)|]*)\|)?
                  ([^)|]*)
@@ -115,21 +103,36 @@ def fetch_from_wiki(era_name: str) -> pd.DataFrame:
                \s*
                \(
                  (
-                    ([^)-]*)
-                      -
+                    ([^)-–]*)
+                      [-–]
                     ([^)]*)
-                )"""
+                )
+               """
             match = regex.match(pattern, line, regex.VERBOSE)
+            # if line.startswith("*"):
+            #     print(line, match)
             if match:
                 article, name, _, birth, death = match.groups()
                 # if name2 is None:
                 #     name2 = name
                 data.append((article, name, birth, death))
-        print(*[(name, a, len(name), len(a)) for a, name, birth, death in data if a is not None and a != name], sep="\n")
+
+        different_article = [(name, a, birth, death) for a, name, birth, death in data if a is not None and a != name]
+        print(*different_article, sep="\n")
+
+        data = [(a if a else name, name, birth, death) for a, name, birth, death in data]
+        dat = list(zip(['article', 'name', 'birth', 'death'], list(zip(*data))))
+        print(dat[:4])
+        df = pd.DataFrame(dict(dat))
+        df['era'] = era_name
+        print(df.head())
+        df.to_csv(f'composers_{era_name}.csv', index=False)
 
 
 if __name__ == '__main__':
     # main()
     # df = fetch_composer_list("Classical-era")
     # print(df.columns, df.head())
-    fetch_from_wiki("Baroque")
+    # fetch_from_wiki("Baroque")
+    # fetch_from_wiki("Classical-era")
+    fetch_from_wiki("Medieval")
