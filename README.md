@@ -1,3 +1,14 @@
+# Composer database project
+
+This project is about collecting composer data and share them via Internet.
+There is a plan for getting relationships (father, teacher...) using NLP or simpler tool and investigate that network.
+If this project can give back to the data sources we use, it will.
+(I still [made some corrections](https://en.wikipedia.org/wiki/Special:Contributions/Harp) in the Wikipedia composer lists when I found some typo or misleading information.)
+
+You can see the [collected data](https://pyedu.hu/arpad/composers/) here.
+
+If you want to participate in this project, or you can give me some data, [reach me](https://pyedu.hu/arpad/email.png).
+
 ## Lists of composers we use
 
 From this page: https://en.wikipedia.org/wiki/Lists_of_composers
