@@ -1,6 +1,10 @@
 import logging
+
 import pandas as pd
-import regex
+try:
+    import regex
+except ImportError:
+    import re as regex
 import yaml
 
 logging.basicConfig(level=logging.INFO, format='{asctime} {message}', style='{')
@@ -40,7 +44,13 @@ Romantic-era:
     birth_col: Date born
     died_col: Date died
 """
-era_config = yaml.load(era_config)
+era_config = yaml.safe_load(era_config)
+
+
+"""
+PART 1
+This first part was not useful as I remember, use the A1*.ipynb instead
+"""
 
 
 def fetch_composer_list(era_name: str, era_config: dict = era_config) -> pd.DataFrame:
@@ -74,6 +84,7 @@ def get_table_eras(config: dict) -> list:
 
 
 def main():
+    """Does not work well, maybe I should delete it"""
     dfs = []
     columns = 'Name birth death Nationality era'.split()
     exclude = ["Classical-era", "21st-century classical"]
@@ -87,52 +98,240 @@ def main():
         print(len(df), df.columns)
     full_df = pd.concat(dfs, sort=False)
     print([len(df) for df in dfs], len(full_df))
-    full_df.to_csv('composers.csv', index=False)
+    full_df.to_csv('composers_.csv', index=False)
     print(full_df.head())
+
+
+"""
+PART 2
+The useful part
+"""
 
 
 def fetch_from_wiki(era_name: str) -> pd.DataFrame:
     with open(f"List of {era_name} composers.wiki".replace(" ", "_")) as f:
         data = []
         for line in f:
-            pattern = rf"""\*\s*
-               \[\[
-                 (?:([^)|]*)\|)?
-                 ([^)|]*)
-               \]\]
-               \s*
-               \(
-                 (
-                    ([^)-–]*)
-                      [-–]
-                    ([^)]*)
-                )
-               """
-            match = regex.match(pattern, line, regex.VERBOSE)
-            # if line.startswith("*"):
-            #     print(line, match)
-            if match:
-                article, name, _, birth, death = match.groups()
-                # if name2 is None:
-                #     name2 = name
-                data.append((article, name, birth, death))
+            if line.startswith("*"):
+                for regexp, transformation in (
+                        (list_pattern_irregular_dates, list_irregular_transformation),
+                        (list_pattern, list_normal_transformation),
+                        (list_pattern_interwiki_irregular, list_irregular_transformation),
+                        (list_pattern_interwiki, list_normal_transformation),
+                ):
+                    match = regex.match(regexp, line, flags=regex.VERBOSE)
+                    if match:
+                        article, name, birth, death, flourish = transformation(match)
+                        data.append((article, name, birth, death, flourish))
+                        break
+                if not match:
+                    print(line)
 
-        different_article = [(name, a, birth, death) for a, name, birth, death in data if a is not None and a != name]
-        print(*different_article, sep="\n")
 
-        data = [(a if a else name, name, birth, death) for a, name, birth, death in data]
-        dat = list(zip(['article', 'name', 'birth', 'death'], list(zip(*data))))
-        print(dat[:4])
+        # different_article = [(name, a, birth, death) for a, name, birth, death in data if a is not None and a != name]
+        # print(*different_article, sep="\n")
+
+        data = [(a if a else name, name, birth, death, flourish) for a, name, birth, death, flourish in data]
+        dat = list(zip(['article', 'name', 'birth', 'death', 'flourish'], list(zip(*data))))
+        # print(dat[:4])
         df = pd.DataFrame(dict(dat))
         df['era'] = era_name
         print(df.head())
-        df.to_csv(f'composers_{era_name}.csv', index=False)
+        df.to_csv(f'composers_{era_name}_.csv', index=False)
+
+
+def list_normal_transformation(match):
+    """Works for both normal and interwiki link"""
+    article, name, _, _, birth, death, *comment = match.groups()
+    flourish = ''
+    return article, name, birth, death, flourish
+
+
+def list_irregular_transformation(match):
+    """Works for both normal and interwiki link"""
+    article, name, _, date_info, *comment = match.groups()
+    birth, death, flourish = get_date_info(date_info)
+    return article, name, birth, death, flourish
+#
+#
+# def list_irregular_interwiki_transformation(match):
+#     article, name, _, date_info, *comment = match.groups()
+#     birth, death, flourish = get_date_info(date_info)
+#     return article, name, birth, death, flourish
+
+
+def get_date_info(date_info):
+    date_info = date_info.replace(',', ';')
+    date_chunks = date_info.split(';')
+    birth = death = flourish = ''
+    for ch in date_chunks:
+        ch = ch.strip()
+        # TODO refactor
+        if ch.startswith('born '):
+            birth = ch[5:]
+        elif ch.startswith('b. '):
+            birth = ch[3:]
+        elif ch.startswith('died '):
+            death = ch[5:]
+        elif ch.startswith('d. '):
+            death = ch[3:]
+        elif ch.startswith("fl. "):
+            flourish = ch[4:]
+        elif ch.startswith("fl.c. "):
+            flourish = ch[6:]
+        elif ch.startswith("''fl.'' "):
+            flourish = ch[8:]
+        else:
+            print(ch)
+    return birth, death, flourish
+
+
+name_regex = r"""
+   \[\[
+     (?:([^|]*)\|)?
+     ([^|]*)
+   \]\]
+   """
+regular_date_pattern = r"""
+   ([^(]*)
+   \s*
+   \(
+     (
+        ([^-)–]*)
+          [-–]
+        ([^)]*)
+    )
+   \)
+   \s*
+   (.*)"""
+list_pattern = rf"""\*\s*
+   {name_regex}
+   \s*
+    {regular_date_pattern}
+   """
+list_pattern_irregular_dates = rf"""\*
+   \s*
+   {name_regex}
+   \s*
+   ([^(]*)
+   \s*
+   \(
+   (
+     \s*
+        (?:
+        \s*died[^,;)]*(?:[;,])?
+        |
+        \s*born[^,;)]*(?:[;,])?
+        |
+        \s*[bd]\.[^,;)]*(?:[;,])?
+        |
+        \s*(?:'')?fl[^,;)]*(?:[;,])?
+        )+
+     \s*
+   )
+   \)
+   \s*
+   (.*)
+   """
+list_pattern_interwiki = rf"""\*
+   \s*
+   ()
+   \{{\{{
+     [^|}}]*
+     \|
+     ([^|}}]*)
+     \|
+     [^}}]*
+   \}}\}}
+   \s*
+   {regular_date_pattern}
+   """
+list_pattern_interwiki_irregular = r"""\*
+   \s*
+   ()
+   \{\{
+     [^|}]*
+     \|
+     ([^|}]*)
+     \|
+     [^}]*
+   \}\}
+   \s*
+   ([^(]*)
+   \s*
+   \(
+   (
+     \s*
+        (?:
+        \s*died[^,;)]*(?:[;,])?
+        |
+        \s*born[^,;)]*(?:[;,])?
+        |
+        \s*[bd]\.[^,;)]*(?:[;,])?
+        |
+        \s*(?:'')?fl[^,;)]*(?:[;,])?
+        )+
+     \s*
+   )
+   \)
+   \s*
+   (.*)
+   """
+table_separator = "\s*\|\|\s*"
+romantic_pattern = rf"""\|\s*
+   \[\[
+     (?:([^|]*)\|)?
+     ([^)|]*)
+   \]\]
+   {table_separator}
+    ([^|]*?)
+   {table_separator}
+    ([^|]*?)
+   {table_separator}
+    ([^|]*?)
+   {table_separator}
+   """
+
+
+def fetch_from_wiki_romantic(era_name: str = 'Romantic-era') -> pd.DataFrame:
+    with open(f"List of {era_name} composers.wiki".replace(" ", "_")) as f:
+        data = []
+        for line in f:
+            match = regex.match(romantic_pattern, line, regex.VERBOSE)
+            # if line.startswith("*"):
+            #     print(line, match)
+            if match:
+                article, name, birth, death, nationality = match.groups()
+                # if name2 is None:
+                #     name2 = name
+                data.append((article, name, birth, death, nationality))
+
+        df = transform_data(data, era_name)
+        df.to_csv(f'composers_{era_name}_.csv', index=False)
+
+
+def transform_data(data, era_name):
+    different_article = [
+        (name, a, birth, death, nationality)
+        for a, name, birth, death, nationality in data
+        if a is not None and a != name]
+    print(*different_article, sep="\n")
+    data = [(a if a else name, name, birth, death, nationality) for a, name, birth, death, nationality in data]
+    dat = list(zip(['article', 'name', 'birth', 'death', 'nationality'], list(zip(*data))))
+    print(dat[:4])
+    df = pd.DataFrame(dict(dat))
+    df['era'] = era_name
+    print(df.head())
+    return df
 
 
 if __name__ == '__main__':
     # main()
     # df = fetch_composer_list("Classical-era")
     # print(df.columns, df.head())
+    fetch_from_wiki("Renaissance")
     # fetch_from_wiki("Baroque")
     # fetch_from_wiki("Classical-era")
-    fetch_from_wiki("Medieval")
+    # fetch_from_wiki("Medieval")
+    # test_pattern()
+    # fetch_from_wiki_romantic()
