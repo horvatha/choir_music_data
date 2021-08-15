@@ -1,5 +1,7 @@
-from fetch_wikipedia import get_table_eras, era_config, romantic_pattern, regex, list_pattern, \
-    list_pattern_irregular_dates, list_pattern_interwiki_irregular, list_pattern_interwiki
+from fetch_wikipedia import (
+    get_table_eras, era_config, romantic_pattern, regex, list_pattern,
+    list_pattern_irregular_dates, list_pattern_interwiki_irregular,
+    list_pattern_interwiki, get_date_info)
 from investigate_wikipedia_pages import get_redir_name
 
 table_eras = {
@@ -152,3 +154,37 @@ def test_redir_name():
     for s, redir in zip(redirect_texts.splitlines(), redir_names):
         res = get_redir_name(s)
         assert res == redir
+
+
+date_infos = """born 1622
+fl. from 1641, died 1687
+''fl.'' 1666, d. before 1650
+''fl.'' early 17th century; d. before 1650
+died c. 1670
+''fl.'' from 1662; d. 1718
+''fl.'' c. 1670
+''fl.'' 1664
+born 17th century; ''fl.'' from 1705
+d. after 1692
+''fl.'' 1715
+b. 1577; ''fl.'' 1619"""
+date_infos_results = [
+    ('1622', '', ''),
+    ('', '1687', 'from 1641'),
+    ('', 'before 1650', '1666'),
+    ('', 'before 1650', 'early 17th century'),
+    ('', 'c. 1670', ''),
+    ('', '1718', 'from 1662'),
+    ('', '', 'c. 1670'),
+    ('', '', '1664'),
+    ('17th century', '', 'from 1705'),
+    ('', 'after 1692', ''),
+    ('', '', '1715'),
+    ('1577', '', '1619'),
+]
+
+
+def test_get_date_info():
+    for line, expected in zip(date_infos.splitlines(), date_infos_results):
+        res = get_date_info(line)
+        assert res == expected

@@ -28,7 +28,7 @@ From this page: https://en.wikipedia.org/wiki/Lists_of_composers
 
 ## TODO
 
-- Adding nationality to Renaissance
+- Done: Adding nationality to Renaissance
 - Merge Renaissance and Renaissance table (fetched from http tables)
 - Creating the Medieval csv
 - Fetching the missing articles from Wikipedia
@@ -37,6 +37,7 @@ From this page: https://en.wikipedia.org/wiki/Lists_of_composers
 - Web page
 - Search in Web page
 - There is a plan for getting relationships (father, teacher...) using NLP or simpler tool.
+- Find composers not on these lists, like some from here https://en.wikipedia.org/wiki/Category:Cuban_classical_composers
 
 ## Useful data
 

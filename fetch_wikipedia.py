@@ -49,6 +49,7 @@ era_config = yaml.safe_load(era_config)
 
 """
 PART 1
+Fetching tables from internet as HTML and parsing those
 This first part was not useful as I remember, use the A1*.ipynb instead
 """
 
@@ -104,14 +105,23 @@ def main():
 
 """
 PART 2
+Fetching data from wiki articles
 The useful part
 """
 
 
-def fetch_from_wiki(era_name: str) -> pd.DataFrame:
+def fetch_from_wiki(era_name: str, get_nationality_from_title: bool = True) -> pd.DataFrame:
     with open(f"List of {era_name} composers.wiki".replace(" ", "_")) as f:
         data = []
+        nationality = ''
         for line in f:
+
+            if get_nationality_from_title and line.startswith('=='):
+                match = regex.match('==([^=][^=]*)==', line)
+                if match:
+                    nationality = match.group(1).strip()
+                    print(nationality)
+
             if line.startswith("*"):
                 for regexp, transformation in (
                         (list_pattern_irregular_dates, list_irregular_transformation),
@@ -122,17 +132,18 @@ def fetch_from_wiki(era_name: str) -> pd.DataFrame:
                     match = regex.match(regexp, line, flags=regex.VERBOSE)
                     if match:
                         article, name, birth, death, flourish = transformation(match)
-                        data.append((article, name, birth, death, flourish))
                         break
+
                 if not match:
                     print(line)
-
+                else:
+                    data.append((article, name, birth, death, flourish, nationality))
 
         # different_article = [(name, a, birth, death) for a, name, birth, death in data if a is not None and a != name]
         # print(*different_article, sep="\n")
 
-        data = [(a if a else name, name, birth, death, flourish) for a, name, birth, death, flourish in data]
-        dat = list(zip(['article', 'name', 'birth', 'death', 'flourish'], list(zip(*data))))
+        data = [(a if a else name, name, birth, death, flourish, nationality) for a, name, birth, death, flourish, nationality in data]
+        dat = list(zip(['article', 'name', 'birth', 'death', 'flourish', 'nationality'], list(zip(*data))))
         # print(dat[:4])
         df = pd.DataFrame(dict(dat))
         df['era'] = era_name
@@ -152,38 +163,31 @@ def list_irregular_transformation(match):
     article, name, _, date_info, *comment = match.groups()
     birth, death, flourish = get_date_info(date_info)
     return article, name, birth, death, flourish
-#
-#
-# def list_irregular_interwiki_transformation(match):
-#     article, name, _, date_info, *comment = match.groups()
-#     birth, death, flourish = get_date_info(date_info)
-#     return article, name, birth, death, flourish
 
 
 def get_date_info(date_info):
     date_info = date_info.replace(',', ';')
     date_chunks = date_info.split(';')
-    birth = death = flourish = ''
+    prefixes = (
+        ('born ', 'birth'),
+        ('b. ', 'birth'),
+        ('died ', 'death'),
+        ('d. ', 'death'),
+        ("fl. ", 'flourish'),
+        ("fl.c. ", 'flourish'),
+        ("''fl.'' ", 'flourish'),
+    )
+
+    date_dict = dict()
     for ch in date_chunks:
         ch = ch.strip()
-        # TODO refactor
-        if ch.startswith('born '):
-            birth = ch[5:]
-        elif ch.startswith('b. '):
-            birth = ch[3:]
-        elif ch.startswith('died '):
-            death = ch[5:]
-        elif ch.startswith('d. '):
-            death = ch[3:]
-        elif ch.startswith("fl. "):
-            flourish = ch[4:]
-        elif ch.startswith("fl.c. "):
-            flourish = ch[6:]
-        elif ch.startswith("''fl.'' "):
-            flourish = ch[8:]
-        else:
+        for prefix, field in prefixes:
+            if ch.startswith(prefix):
+                date_dict[field] = ch[len(prefix):]
+                break
+        else:  # no break == none of them fit
             print(ch)
-    return birth, death, flourish
+    return tuple(map(lambda k: date_dict.get(k, ''), ("birth", "death", "flourish")))
 
 
 name_regex = r"""
@@ -204,6 +208,18 @@ regular_date_pattern = r"""
    \)
    \s*
    (.*)"""
+irregular_data_pattern = """     \s*
+        (?:
+        \s*died[^,;)]*(?:[;,])?
+        |
+        \s*born[^,;)]*(?:[;,])?
+        |
+        \s*[bd]\.[^,;)]*(?:[;,])?
+        |
+        \s*(?:'')?fl[^,;)]*(?:[;,])?
+        )+
+     \s*
+"""
 list_pattern = rf"""\*\s*
    {name_regex}
    \s*
@@ -217,17 +233,7 @@ list_pattern_irregular_dates = rf"""\*
    \s*
    \(
    (
-     \s*
-        (?:
-        \s*died[^,;)]*(?:[;,])?
-        |
-        \s*born[^,;)]*(?:[;,])?
-        |
-        \s*[bd]\.[^,;)]*(?:[;,])?
-        |
-        \s*(?:'')?fl[^,;)]*(?:[;,])?
-        )+
-     \s*
+      {irregular_data_pattern}
    )
    \)
    \s*
@@ -246,43 +252,30 @@ list_pattern_interwiki = rf"""\*
    \s*
    {regular_date_pattern}
    """
-list_pattern_interwiki_irregular = r"""\*
+list_pattern_interwiki_irregular = rf"""\*
    \s*
    ()
-   \{\{
-     [^|}]*
+   \{{\{{
+     [^|}}]*
      \|
-     ([^|}]*)
+     ([^|}}]*)
      \|
-     [^}]*
-   \}\}
+     [^}}]*
+   \}}\}}
    \s*
    ([^(]*)
    \s*
    \(
    (
-     \s*
-        (?:
-        \s*died[^,;)]*(?:[;,])?
-        |
-        \s*born[^,;)]*(?:[;,])?
-        |
-        \s*[bd]\.[^,;)]*(?:[;,])?
-        |
-        \s*(?:'')?fl[^,;)]*(?:[;,])?
-        )+
-     \s*
+      {irregular_data_pattern}
    )
    \)
    \s*
    (.*)
    """
-table_separator = "\s*\|\|\s*"
+table_separator = r"\s*\|\|\s*"
 romantic_pattern = rf"""\|\s*
-   \[\[
-     (?:([^|]*)\|)?
-     ([^)|]*)
-   \]\]
+   {name_regex}
    {table_separator}
     ([^|]*?)
    {table_separator}
@@ -323,6 +316,18 @@ def transform_data(data, era_name):
     df['era'] = era_name
     print(df.head())
     return df
+
+
+def unify_renaissance_data_frames():
+    """Unify the data from tables and lists into one file.
+
+    Before that create the composers_Renaissance_.csv file and
+    mv composers_Renaissance_.csv composers_Renaissance_list_.csv
+    """
+    dft = pd.read_csv("composers_Renaissance_table_.csv")
+    dfl = pd.read_csv("composers_Renaissance_list_.csv")
+    dfc = pd.concat([dfl, dft])
+    dfc.to_csv("composers_Renaissance_.csv", index=False)
 
 
 if __name__ == '__main__':
