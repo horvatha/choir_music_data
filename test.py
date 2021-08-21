@@ -198,7 +198,7 @@ def test_get_date_info():
         ('fl. 1418 – after 1421', ('', '', '1418 – after 1421')),
         ('1357 – 1423', ('1357', '1423', '')),
         ('died 1418', ('', '1418', '')),
-        ('c.1200 — before 1269', ('c.1200', 'before 1269', '')),
+        ('c.1200 – before 1269', ('c.1200', 'before 1269', '')),
     ])
 def test_birth_death_flourish_from_lifetime(lifetime, expected):
     assert birth_death_flourish_from_lifetime(lifetime) == expected
