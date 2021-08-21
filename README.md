@@ -9,7 +9,7 @@ You can see the [collected data](https://pyedu.hu/arpad/composers/) here.
 
 If you want to participate in this project, or you can give me some data, [reach me](https://pyedu.hu/arpad/email.png).
 
-## Lists of composers we use
+## Lists of composers used so far
 
 From this page: https://en.wikipedia.org/wiki/Lists_of_composers
 
@@ -28,9 +28,7 @@ From this page: https://en.wikipedia.org/wiki/Lists_of_composers
 
 ## TODO
 
-- Done: Adding nationality to Renaissance
-- Merge Renaissance and Renaissance table (fetched from http tables)
-- Creating the Medieval csv
+- Creating the Medieval csv - maybe from html
 - Fetching the missing articles from Wikipedia
   (see save_articles_from_xml.py and investigate_wikipedia_pages.py)
 - Sanity checking

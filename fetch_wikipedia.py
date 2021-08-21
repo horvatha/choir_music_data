@@ -1,4 +1,5 @@
 import logging
+from typing import Tuple
 
 import pandas as pd
 try:
@@ -328,6 +329,19 @@ def unify_renaissance_data_frames():
     dfl = pd.read_csv("composers_Renaissance_list_.csv")
     dfc = pd.concat([dfl, dft])
     dfc.to_csv("composers_Renaissance_.csv", index=False)
+
+
+def birth_death_flourish_from_lifetime(lifetime: str) -> Tuple[str, str, str]:
+    """Used for Medieval composers"""
+    if lifetime.startswith("fl."):
+        return "", "", lifetime[3:].strip()
+    if lifetime.startswith("died"):
+        return "", lifetime[4:].strip(), ""
+    if lifetime.startswith("d."):
+        return "", lifetime[2:].strip(), ""
+    print(lifetime)
+    birth, death = [t.strip() for t in lifetime.split("–")]
+    return birth, death, ""
 
 
 if __name__ == '__main__':

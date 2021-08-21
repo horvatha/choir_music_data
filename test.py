@@ -1,7 +1,9 @@
+import pytest
+
 from fetch_wikipedia import (
     get_table_eras, era_config, romantic_pattern, regex, list_pattern,
     list_pattern_irregular_dates, list_pattern_interwiki_irregular,
-    list_pattern_interwiki, get_date_info)
+    list_pattern_interwiki, get_date_info, birth_death_flourish_from_lifetime)
 from investigate_wikipedia_pages import get_redir_name
 
 table_eras = {
@@ -188,3 +190,16 @@ def test_get_date_info():
     for line, expected in zip(date_infos.splitlines(), date_infos_results):
         res = get_date_info(line)
         assert res == expected
+
+
+@pytest.mark.parametrize(
+    'lifetime,expected',
+    [
+        ('fl. 1418 – after 1421', ('', '', '1418 – after 1421')),
+        ('1357 – 1423', ('1357', '1423', '')),
+        ('died 1418', ('', '1418', '')),
+        ('c.1200 — before 1269', ('c.1200', 'before 1269', '')),
+    ])
+def test_birth_death_flourish_from_lifetime(lifetime, expected):
+    assert birth_death_flourish_from_lifetime(lifetime) == expected
+
