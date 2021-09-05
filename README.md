@@ -28,9 +28,11 @@ From this page: https://en.wikipedia.org/wiki/Lists_of_composers
 
 ## TODO
 
-- Creating the Medieval csv - maybe from html
+- Creating list of composers, removing duplicates
 - Fetching the missing articles from Wikipedia
   (see save_articles_from_xml.py and investigate_wikipedia_pages.py)
+  and handling redirects, false articles
+- Creating unified table and removing duplicates
 - Sanity checking
 - Web page
 - Search in Web page
