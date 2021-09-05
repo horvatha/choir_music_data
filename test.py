@@ -4,7 +4,7 @@ from fetch_wikipedia import (
     get_table_eras, era_config, romantic_pattern, regex, list_pattern,
     list_pattern_irregular_dates, list_pattern_interwiki_irregular,
     list_pattern_interwiki, get_date_info, birth_death_flourish_from_lifetime)
-from investigate_wikipedia_pages import get_redir_name
+from utils import get_name_for_ordering
 
 table_eras = {
     "Classical-era",
@@ -145,19 +145,6 @@ def test_list_pattern_interwiki():
         assert bool(match)
 
 
-redirect_texts = """#REDIRECT [[Richard Wilkins]]
-#REDIRECT [[Sophia Dussek]] {{R from alternate name}}
-#REDIRECT [[Tôn-Thất Tiết]] {{R from title without diacritics}}
-#redirect [[Zacharia Paliashvili]]"""
-
-
-def test_redir_name():
-    redir_names = ["Richard Wilkins", "Sophia Dussek", "Tôn-Thất Tiết", "Zacharia Paliashvili"]
-    for s, redir in zip(redirect_texts.splitlines(), redir_names):
-        res = get_redir_name(s)
-        assert res == redir
-
-
 date_infos = """born 1622
 fl. from 1641, died 1687
 ''fl.'' 1666, d. before 1650
@@ -202,4 +189,21 @@ def test_get_date_info():
     ])
 def test_birth_death_flourish_from_lifetime(lifetime, expected):
     assert birth_death_flourish_from_lifetime(lifetime) == expected
+
+
+@pytest.mark.parametrize(
+    "name, family",
+    [
+        ("George Jeffreys", "Jeffreys"),
+        ("John Hilton the younger", "Hilton"),
+        ("Kir Stefan the Serb", "Stefan"),
+        ("Henry VIII of England", "Henry"),
+        ("John IV of Portugal ", "John"),
+        ("Johannes Tapissier (Jean de Noyers) ", "Tapissier"),
+    ]
+)
+def test_get_family_name(name, family):
+    assert get_name_for_ordering(name) == family
+
+
 
