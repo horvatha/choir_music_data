@@ -77,12 +77,28 @@ CREATE TABLE states (
 -- fetch_us_states.py) -- most other countries don't have same-named-place
 -- ambiguity severe enough to be worth the extra fetch, so it's null
 -- everywhere else rather than attempted for all.
+-- place_type is Wikidata's own P31 (instance of) English label for the
+-- place (e.g. "city", "district of Budapest", "village") -- descriptive
+-- only, not a controlled vocabulary, so it varies in specificity/wording
+-- across different kinds of places. parent_place_id is the place this one
+-- is CURRENTLY administratively part of (Wikidata P131), e.g. a Budapest
+-- district -> Budapest -- distinct from place_predecessors, which is a
+-- historical "used to be its own separate place" link (Buda -> Budapest).
+-- A place is never both: Wikidata's P131 for a genuine historical
+-- predecessor is unreliable (verified: Buda's own P131 claim happens to
+-- point at Budapest too, Pest's and Óbuda's don't, at some other
+-- administrative entity we don't track as a place at all) and the
+-- predecessor/successor relationship is what place_predecessors already
+-- captures deliberately by hand -- so parent_place_id is left null for
+-- any place already listed as somebody's place_predecessors row.
 CREATE TABLE places (
-    id        SERIAL PRIMARY KEY,
-    name      TEXT NOT NULL,
-    latitude  DOUBLE PRECISION,
-    longitude DOUBLE PRECISION,
-    state_id  INTEGER REFERENCES states(id)
+    id              SERIAL PRIMARY KEY,
+    name            TEXT NOT NULL,
+    latitude        DOUBLE PRECISION,
+    longitude       DOUBLE PRECISION,
+    state_id        INTEGER REFERENCES states(id),
+    place_type      TEXT,
+    parent_place_id INTEGER REFERENCES places(id)
 );
 
 -- Every distinct Wikidata item that is or was this place. Most places have

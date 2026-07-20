@@ -1,5 +1,45 @@
 # TODO
 
+## "City of London" (place 1269) has the wrong Wikidata QID
+
+Found while wiring up London's borough hierarchy (2026-07-20). Place 1269
+is named "City of London" but its `place_qids` entry is `Q92561`, which
+is actually **London, Ontario, Canada** -- a different place entirely.
+The real City of London (the historic Square Mile) is `Q23311`, already
+correctly present as a separate place (id 2016) and now linked into
+Greater London's district hierarchy. Not fixed -- pre-existing data
+issue, unrelated to today's work, just noticed in passing. Whichever
+composer(s) currently reference place 1269 need checking: are they
+really tied to London, Ontario (in which case the place just needs
+renaming to stop it looking like a duplicate), or did the wrong QID get
+attached to a composer who's actually tied to the real City of London
+(in which case they should be repointed to place 2016 instead)?
+
+## backfill_wikidata_ids_from_relations.py name-matching: confirmed misfire
+
+`backfill_wikidata_ids_from_relations.py`'s own docstring already warned
+this can misfire when two different real people share a name (citing two
+different "Michael Praetorius"es). Found a second, confirmed case
+2026-07-20: composer 1655 (Thomas Arne, the composer, Q309709) had
+`wikidata_id` wrongly set to `Q18528713` -- his own father, also named
+Thomas Arne (an upholsterer, not a musician), a different Wikidata item
+entirely. This produced two visible bugs: Thomas Arne's own composer
+page showed himself as his own father (composer_relations self-link, via
+`load_composer_relations.py` cross-referencing `composers.wikidata_id`),
+and his son Michael Arne's page showed "Thomas Arne" as father with no
+link at all (the QID composer_by_qid needed, Q309709, wasn't attached to
+any composer since 1655 had the wrong one). Fixed by hand: corrected
+`composers.wikidata_id` to Q309709 (verified via the wikilink-title
+method, which already gave the right answer independently) and reran
+`load_composer_relations.py`.
+
+Worth a systematic pass: any composer whose `wikidata_id` came from
+`backfill_wikidata_ids_from_relations.py` (name-matched, not title-
+matched) rather than `backfill_wikidata_ids_from_wikilinks.py` is at risk
+of this exact failure mode, especially anyone sharing a name with a
+close relative (fathers/sons with the same name are the obvious case,
+per this one).
+
 ## Munkács/Mukachevo: Wikidata's own P17 data is incomplete
 
 Checked as a stress test for the place-history/predecessor work below.
