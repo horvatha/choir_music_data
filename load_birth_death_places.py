@@ -75,6 +75,7 @@ import psycopg2
 # the same way merge_composers.py pairs get confirmed before merging.
 MANUAL_PLACE_CLUSTERS = [
     {"Q4120832", "Q1829"},  # Königsberg -> Kaliningrad
+    {"Q239", "Q111901161", "Q9005"},  # City of Brussels + general "Brussels" concept + "Brussels metropolitan area"
 ]
 
 from fetch_wikidata_relationships import OUTPUT_FILE

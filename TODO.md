@@ -1,5 +1,46 @@
 # TODO
 
+## Country-as-place bug: 34 composers, 10 recovered by hand from Wikipedia prose
+
+Found 2026-07-20: `place_of_birth`/`place_of_death` in Wikidata equal to
+`citizenship` for the same person (a country QID recorded as if it were
+a specific city -- e.g. Jan Van der Roost's P20 claim is literally `Q31`
+Belgium) affected 34 composers (19 birth, 16 death, Duarte Lobo both).
+Fixed by clearing the bogus `birth_place_id`/`death_place_id` rather than
+show a country pretending to be a place.
+
+All 34 were then individually re-checked against their English Wikipedia
+article's actual prose (not just Wikidata's structured claims, which is
+all this repo's pipeline normally reads) to see if a specific place was
+recoverable that way. 10 were -- corrected by hand, place created from
+Wikidata when the place had its own QID (Alcáçovas, Brihuega, Camagüey,
+Delvinë, Hamburg, Tirana, Budapest, New York City, Mexico City all
+already existed or were created the normal way), or created manually
+from just the article text when no Wikidata item exists at all (Siloam,
+South Africa -- Hannes Taljaard's birthplace):
+
+  - Duarte Lobo (819): born Alcáçovas, Alentejo, Portugal.
+  - Sebastián Durón (1270): born Brihuega, Guadalajara, Spain.
+  - María de las Mercedes Adam de Aróstegui (2970): born Camagüey, Cuba.
+  - Ferdinand David (2195): born Hamburg -- same house Felix Mendelssohn
+    was born in the previous year, per the article.
+  - Allen Shawn (5275): born New York City.
+  - Limoz Dizdari (6510): born Delvinë, Albania.
+  - Aleksandër Peçi (6512): born Tirana, Albania.
+  - Hannes Taljaard (7223): born Siloam, Venda, South Africa.
+  - Havasi Balázs (7562): born Budapest.
+  - María Teresa Prieto (3467): died Mexico City.
+
+One more (Charles Camilleri, died Naxxar, Malta) was found but
+deliberately left unfixed -- the article only says he lived there and
+was buried there, doesn't state it as where he died, too inferential to
+apply with confidence.
+
+The remaining 23 were confirmed to genuinely have no more specific place
+recoverable from the article prose either -- mostly because the person
+is still living (no death to place at all), or the article itself only
+gives a country/region with no source for anything narrower.
+
 ## "City of London" (place 1269) has the wrong Wikidata QID
 
 Found while wiring up London's borough hierarchy (2026-07-20). Place 1269
