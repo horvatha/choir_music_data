@@ -61,8 +61,16 @@ DISTRICT_PARENTS = {
     "Q2845761": ("Q90", "former arrondissement of Paris"), "Q2845760": ("Q90", "former arrondissement of Paris"),
     "Q2845753": ("Q90", "former arrondissement of Paris"), "Q15149908": ("Q90", "former arrondissement of Paris"),
     "Q2845750": ("Q90", "former arrondissement of Paris"),
-    # London boroughs + the City of London -> Greater London, not "London"
+    # London boroughs + the City of London -> Greater London (Q23306,
+    # "administrative area and ceremonial county"), not "London" (Q84)
     # directly -- that's what their own P131 claims actually point to.
+    # "London" itself (Q84, "capital and largest city...") is *also* its
+    # own P131 child of Greater London on Wikidata -- the informal/common
+    # city concept nests inside the formal administrative area, same as
+    # the boroughs -- so it needs the same treatment, found 2026-07-20
+    # after a composer search turned up composers on London's own page
+    # missing from Greater London's unified list.
+    "Q84": ("Q23306", "capital city"),  # London
     "Q215030": ("Q23306", "London borough"),  # Lewisham
     "Q205690": ("Q23306", "London borough"),  # Hillingdon
     "Q202059": ("Q23306", "London borough"),  # Lambeth
