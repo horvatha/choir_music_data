@@ -5,7 +5,12 @@ DROP TABLE IF EXISTS works;
 DROP TABLE IF EXISTS composer_relations;
 DROP TABLE IF EXISTS instrument_references;
 DROP TABLE IF EXISTS composer_instruments;
+DROP TABLE IF EXISTS instrument_names;
 DROP TABLE IF EXISTS instruments;
+DROP TABLE IF EXISTS instrument_group_names;
+DROP TABLE IF EXISTS instrument_groups;
+DROP TABLE IF EXISTS composer_tags;
+DROP TABLE IF EXISTS tags;
 DROP TABLE IF EXISTS composer_nationalities;
 DROP TABLE IF EXISTS nationalities;
 DROP TABLE IF EXISTS other_webpages;
@@ -16,6 +21,7 @@ DROP TABLE IF EXISTS composers;
 DROP TABLE IF EXISTS place_periods;
 DROP TABLE IF EXISTS place_names;
 DROP TABLE IF EXISTS place_qids;
+DROP TABLE IF EXISTS place_predecessors;
 DROP TABLE IF EXISTS places;
 DROP TABLE IF EXISTS states;
 DROP TABLE IF EXISTS country_names;
@@ -328,6 +334,61 @@ CREATE TABLE instruments (
     wikidata_id TEXT
 );
 
+-- An instrument's name in another language, e.g. hu: "hegedű" for the
+-- "violin" row -- same (id, language, name) shape as place_names/
+-- work_names/composer_alt_names, not a name_hu column, so adding more
+-- languages later is just more rows, no schema change (see CLAUDE.md's
+-- "Target languages for translated names"). Populated by
+-- fetch_instrument_names.py / load_instrument_names.py from Wikidata
+-- labels on instruments.wikidata_id; an instrument with no wikidata_id
+-- (added by hand) simply has no rows here.
+CREATE TABLE instrument_names (
+    instrument_id INTEGER NOT NULL REFERENCES instruments(id) ON DELETE CASCADE,
+    language      TEXT NOT NULL,
+    name          TEXT NOT NULL,
+    PRIMARY KEY (instrument_id, language)
+);
+
+-- A small, hand-curated family/subfamily taxonomy (winds, strings,
+-- percussion, keyboards, electronic, other; brass/woodwind under winds,
+-- bowed/plucked under strings) -- deliberately NOT derived automatically
+-- from Wikidata's subclass-of (P279) graph, which is inconsistently deep
+-- across instruments (see load_instrument_groups.py's GROUPS constant and
+-- its classify() docstring for why, and the actual per-instrument
+-- assignment logic). parent_group_id is NULL for a top-level group; a
+-- group with no parent and no children (e.g. "other", the catch-all for
+-- instruments the classifier can't place) is valid and expected -- not
+-- every instrument needs two levels. wikidata_id is nullable (the "other"
+-- group has none) and UNIQUE like tags.wikidata_id, same reasoning: it's
+-- the merge key, not name.
+-- display_order is a small hand-assigned rank among siblings (other
+-- top-level groups, or other subfamilies under the same parent) -- not
+-- inferred from insertion order/id, so the display order stays correct
+-- and self-documenting even if load_instrument_groups.py's GROUPS list
+-- is later reordered or re-run out of order. "other" (the catch-all for
+-- instruments the classifier can't place) is always last among top-level
+-- groups.
+CREATE TABLE instrument_groups (
+    id              SERIAL PRIMARY KEY,
+    name            TEXT NOT NULL,
+    wikidata_id     TEXT UNIQUE,
+    parent_group_id INTEGER REFERENCES instrument_groups(id),
+    display_order   INTEGER NOT NULL DEFAULT 0
+);
+
+CREATE TABLE instrument_group_names (
+    group_id INTEGER NOT NULL REFERENCES instrument_groups(id) ON DELETE CASCADE,
+    language TEXT NOT NULL,
+    name     TEXT NOT NULL,
+    PRIMARY KEY (group_id, language)
+);
+
+-- Added via ALTER (not inline on the instruments CREATE TABLE above) since
+-- instrument_groups has to exist first. Each instrument gets at most one
+-- group -- its most specific known one (a subfamily like "brass" when the
+-- classifier could tell, else the top-level family, else NULL/"other").
+ALTER TABLE instruments ADD COLUMN group_id INTEGER REFERENCES instrument_groups(id);
+
 CREATE TABLE composer_instruments (
     composer_id   INTEGER NOT NULL REFERENCES composers(id) ON DELETE CASCADE,
     instrument_id INTEGER NOT NULL REFERENCES instruments(id) ON DELETE CASCADE,
@@ -349,6 +410,57 @@ CREATE TABLE instrument_references (
     PRIMARY KEY (composer_id, instrument_id, source),
     FOREIGN KEY (composer_id, instrument_id)
         REFERENCES composer_instruments (composer_id, instrument_id) ON DELETE CASCADE
+);
+
+-- A loose stylistic/cultural tag a composer is associated with -- sourced
+-- from Wikidata's P135 property, which Wikidata itself calls "movement"
+-- (e.g. Impressionism, Serialism, Second Viennese School), but "movement"
+-- overclaims what most of these actually are: Wikidata's own P31 typing of
+-- the target items splits them into music genre, musical movement, art
+-- movement, composition school, compositional technique, etc. -- e.g.
+-- "Baroque music" is typed as a music genre, not a movement with anything
+-- like a manifesto or a self-identified group behind it, unlike genuine
+-- movements such as Futurism or Fluxus. Deliberately not subcategorized by
+-- that typing here -- flat and unlabeled ("tags"), not exclusive/
+-- hierarchical ("categories"): a composer can carry several overlapping
+-- ones at once, and at ~80 distinct values the flat list is still
+-- browsable as-is. Distinct from eras: eras is a small, curated, purely
+-- chronological backbone (every composer gets 1+ bucket, hand-overridden
+-- where ambiguous); a composer can have zero, one, or several tags, at a
+-- much finer and less chronological granularity, sourced as-is from
+-- Wikidata rather than curated. wikidata_id (not name) is the merge key
+-- and is UNIQUE -- two distinct Wikidata items can carry the identical
+-- English label (e.g. Q2426218 "modernism" = musical modernism, vs Q878985
+-- "modernism" = the general cultural/art movement), so name alone can't be
+-- trusted to identify a tag; NAME_OVERRIDES in load_tags.py renames the
+-- former to "musical modernism" by hand to keep the two readable as
+-- distinct rows, same pattern as this repo's other hand overrides
+-- (ERA_OVERRIDES, MANUAL_PLACE_CLUSTERS). wikidata_id stays nullable so a
+-- tag can still be added by hand with no QID.
+CREATE TABLE tags (
+    id          SERIAL PRIMARY KEY,
+    name        TEXT NOT NULL,
+    wikidata_id TEXT UNIQUE
+);
+
+COMMENT ON TABLE tags IS
+    'Loose, flat, non-hierarchical stylistic/cultural tags for a composer. '
+    'Sourced from Wikidata''s P135 property, which Wikidata calls "movement" '
+    '-- renamed here since most values (e.g. Baroque music, typed by '
+    'Wikidata itself as a music genre) are not movements in the sense of a '
+    'self-identified group with a manifesto (contrast genuine cases like '
+    'Futurism or Fluxus). See the source comment above this table for the '
+    'full rationale.';
+
+COMMENT ON COLUMN tags.wikidata_id IS
+    'The Wikidata QID of the P135 ("movement") target item this tag was '
+    'loaded from. Nullable so a tag can be added by hand with no QID. This '
+    'is the merge key (not name) -- see load_tags.py.';
+
+CREATE TABLE composer_tags (
+    composer_id INTEGER NOT NULL REFERENCES composers(id) ON DELETE CASCADE,
+    tag_id      INTEGER NOT NULL REFERENCES tags(id) ON DELETE CASCADE,
+    PRIMARY KEY (composer_id, tag_id)
 );
 
 -- A composer-to-person relationship (currently from Wikidata's
