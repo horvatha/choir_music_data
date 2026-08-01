@@ -1,5 +1,8 @@
 DROP TABLE IF EXISTS images_composers;
 DROP TABLE IF EXISTS images;
+DROP TABLE IF EXISTS work_genres;
+DROP TABLE IF EXISTS genre_names;
+DROP TABLE IF EXISTS genres;
 DROP TABLE IF EXISTS work_names;
 DROP TABLE IF EXISTS works;
 DROP TABLE IF EXISTS composer_relations;
@@ -491,12 +494,46 @@ CREATE TABLE composer_relations (
 -- loaded today is TRUE, but this lets a future, broader source (e.g. a
 -- full works catalogue, not just Wikidata's curated "notable" subset)
 -- add rows without them being mistaken for Wikidata-flagged notability.
+-- A musical genre/form (Wikidata P7937 "form of creative work", e.g.
+-- "cantata", "mass", "concerto") -- same (id, name, wikidata_id) shape as
+-- tags, kept as its own table rather than reusing tags since a genre and a
+-- movement/tag (P135) are different concepts that happen to share a shape.
+CREATE TABLE genres (
+    id          SERIAL PRIMARY KEY,
+    name        TEXT NOT NULL,
+    wikidata_id TEXT UNIQUE
+);
+
+-- A genre's name in another language -- same (id, language, name) shape as
+-- instrument_names/work_names.
+CREATE TABLE genre_names (
+    genre_id INTEGER NOT NULL REFERENCES genres(id) ON DELETE CASCADE,
+    language TEXT NOT NULL,
+    name     TEXT NOT NULL,
+    PRIMARY KEY (genre_id, language)
+);
+
 CREATE TABLE works (
     id                    SERIAL PRIMARY KEY,
     composer_id           INTEGER NOT NULL REFERENCES composers(id) ON DELETE CASCADE,
     name                  TEXT NOT NULL,
     wikidata_id           TEXT,
     wikidata_notable_work BOOLEAN NOT NULL DEFAULT FALSE,
+    -- Three separate Wikidata date claims, each loaded only from
+    -- year-level precision up -- century/decade-precision claims (e.g. "9th
+    -- century") are left out rather than mapped onto a specific year. The
+    -- *_year column is set whenever that claim exists at all; *_month/*_day
+    -- are only set when Wikidata's claim carries that much precision, so a
+    -- year-only date leaves both NULL. See load_work_dates.py.
+    composed_year         INTEGER,  -- P571 "inception"
+    composed_month        INTEGER,
+    composed_day          INTEGER,
+    premiered_year        INTEGER,  -- P1191 "date of first performance"
+    premiered_month       INTEGER,
+    premiered_day         INTEGER,
+    published_year        INTEGER,  -- P577 "publication date"
+    published_month       INTEGER,
+    published_day         INTEGER,
     UNIQUE (composer_id, wikidata_id)
 );
 
@@ -509,7 +546,18 @@ CREATE TABLE work_names (
     PRIMARY KEY (work_id, language)
 );
 
+-- A work can carry more than one genre (Wikidata P7937 is multi-valued for
+-- ~8% of works, e.g. both "opera" and "tragedy") -- many-to-many, same
+-- pattern as composer_tags/composer_instruments.
+CREATE TABLE work_genres (
+    work_id  INTEGER NOT NULL REFERENCES works(id) ON DELETE CASCADE,
+    genre_id INTEGER NOT NULL REFERENCES genres(id) ON DELETE CASCADE,
+    PRIMARY KEY (work_id, genre_id)
+);
+
 CREATE INDEX idx_composers_birth_year ON composers(birth_year);
 CREATE INDEX idx_composer_eras_era ON composer_eras(era_id);
 CREATE INDEX idx_composer_relations_related_composer ON composer_relations(related_composer_id);
 CREATE INDEX idx_works_composer ON works(composer_id);
+CREATE INDEX idx_works_composed_year ON works(composed_year);
+CREATE INDEX idx_work_genres_genre ON work_genres(genre_id);
