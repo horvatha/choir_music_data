@@ -534,6 +534,12 @@ CREATE TABLE works (
     published_year        INTEGER,  -- P577 "publication date"
     published_month       INTEGER,
     published_day         INTEGER,
+    catalog_code          TEXT,  -- P528, e.g. "BWV 565", "K. 550"
+    -- CPDL (Choral Public Domain Library) page slug, e.g.
+    -- "Stabat_Mater_(Antonio_Vivaldi)" -- not a full URL, since the app
+    -- builds https://www.cpdl.org/wiki/index.php/<slug> from it, same as
+    -- wikidata_id not being a full Wikidata URL either.
+    cpdl_id               TEXT,  -- P2000
     UNIQUE (composer_id, wikidata_id)
 );
 
@@ -553,6 +559,42 @@ CREATE TABLE work_genres (
     work_id  INTEGER NOT NULL REFERENCES works(id) ON DELETE CASCADE,
     genre_id INTEGER NOT NULL REFERENCES genres(id) ON DELETE CASCADE,
     PRIMARY KEY (work_id, genre_id)
+);
+
+-- A work's instrumentation (Wikidata P870) -- reuses the composers'
+-- instruments/instrument_names tables rather than a separate one, since
+-- most instrument QIDs referenced here already exist there (e.g. "organ",
+-- "violin") -- see load_work_instruments.py. Many-to-many since a work
+-- typically names several instruments.
+CREATE TABLE work_instruments (
+    work_id       INTEGER NOT NULL REFERENCES works(id) ON DELETE CASCADE,
+    instrument_id INTEGER NOT NULL REFERENCES instruments(id) ON DELETE CASCADE,
+    PRIMARY KEY (work_id, instrument_id)
+);
+
+-- A musical key/tonality (Wikidata P826, e.g. "D minor") -- named
+-- musical_keys (not "keys") to avoid reading like a schema pun next to
+-- primary/foreign keys. Same (id, name, wikidata_id) + translation-table
+-- shape as genres.
+CREATE TABLE musical_keys (
+    id          SERIAL PRIMARY KEY,
+    name        TEXT NOT NULL,
+    wikidata_id TEXT UNIQUE
+);
+
+CREATE TABLE musical_key_names (
+    musical_key_id INTEGER NOT NULL REFERENCES musical_keys(id) ON DELETE CASCADE,
+    language        TEXT NOT NULL,
+    name            TEXT NOT NULL,
+    PRIMARY KEY (musical_key_id, language)
+);
+
+-- A handful of works (4/106) carry more than one key claim (e.g. a piece
+-- that modulates) -- many-to-many, same reasoning as work_genres.
+CREATE TABLE work_musical_keys (
+    work_id        INTEGER NOT NULL REFERENCES works(id) ON DELETE CASCADE,
+    musical_key_id INTEGER NOT NULL REFERENCES musical_keys(id) ON DELETE CASCADE,
+    PRIMARY KEY (work_id, musical_key_id)
 );
 
 CREATE INDEX idx_composers_birth_year ON composers(birth_year);
