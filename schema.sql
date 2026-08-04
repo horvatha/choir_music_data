@@ -15,6 +15,7 @@ DROP TABLE IF EXISTS instrument_groups;
 DROP TABLE IF EXISTS composer_tags;
 DROP TABLE IF EXISTS tags;
 DROP TABLE IF EXISTS composer_nationalities;
+DROP TABLE IF EXISTS nationality_names;
 DROP TABLE IF EXISTS nationalities;
 DROP TABLE IF EXISTS other_webpages;
 DROP TABLE IF EXISTS composer_alt_names;
@@ -291,6 +292,19 @@ CREATE TABLE other_webpages (
 CREATE TABLE nationalities (
     id   SERIAL PRIMARY KEY,
     name TEXT UNIQUE NOT NULL
+);
+
+-- Translated forms of nationalities.name, same (entity_id, language, name)
+-- shape as genre_names/instrument_names/work_names -- see
+-- translate_nationalities.py for how it's populated (LLM-translated
+-- directly, not sourced from Wikidata -- these are plain demonym
+-- adjectives, not proper nouns, so there's no per-entity QID to fetch a
+-- label from).
+CREATE TABLE nationality_names (
+    nationality_id INTEGER NOT NULL REFERENCES nationalities(id) ON DELETE CASCADE,
+    language       TEXT NOT NULL,
+    name           TEXT NOT NULL,
+    PRIMARY KEY (nationality_id, language)
 );
 
 -- is_origin_only is TRUE when the source text explicitly said a composer
