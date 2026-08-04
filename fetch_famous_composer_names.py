@@ -11,10 +11,18 @@ load_*.py split) since the loading logic here -- filter to
 TARGET_LANGUAGES -- is one-off and specific to this composer list, not
 shared with any other loader.
 
+Only fetches composers not already cached (same --recheck-to-override
+pattern as fetch_instrument_names.py/fetch_genre_names.py/
+fetch_key_names.py) -- COMPOSER_IDS keeps growing across sessions, and
+without this every run would re-fetch everyone already done, not just the
+newly-added names.
+
 Usage:
-    python3 fetch_famous_composer_names.py
+    python3 fetch_famous_composer_names.py            # only composers missing a cached entry
+    python3 fetch_famous_composer_names.py --recheck   # re-fetch everyone too
 """
 import json
+import sys
 
 import psycopg2
 
@@ -75,6 +83,39 @@ COMPOSER_IDS = {
     2212: "Richard Wagner",
     2193: "Robert Schumann",
     3339: "Sergei Prokofiev",
+    3196: "Alban Berg",
+    1279: "Alessandro Scarlatti",
+    2278: "Alexander Borodin",
+    2419: "Alexander Glazunov",
+    2472: "Alexander Scriabin",
+    3171: "Anton Webern",
+    2483: "Arnold Schoenberg",
+    4004: "Benjamin Britten",
+    2286: "Camille Saint-Saëns",
+    3448: "Carl Orff",
+    1678: "Carl Philipp Emanuel Bach",
+    2242: "César Franck",
+    2482: "Charles Ives",
+    7966: "Christoph Willibald Gluck",
+    3553: "Francis Poulenc",
+    1331: "François Couperin",
+    2331: "Gabriel Fauré",
+    2158: "Gaetano Donizetti",
+    2151: "Gioachino Rossini",
+    575: "Giovanni Gabrieli",
+    2171: "Hector Berlioz",
+    3265: "Heitor Villa-Lobos",
+    1444: "Jean-Philippe Rameau",
+    307: "Johannes Ockeghem",
+    1230: "Johann Pachelbel",
+    2175: "Mikhail Glinka",
+    2298: "Mily Balakirev",
+    3441: "Paul Hindemith",
+    194: "Thomas Tallis",
+    2163: "Vincenzo Bellini",
+    209: "William Byrd",
+    164: "Guillaume Dufay",
+    1108: "Dieterich Buxtehude",
 }
 
 UPSERT_ALT_NAME_SQL = """
@@ -85,6 +126,8 @@ UPSERT_ALT_NAME_SQL = """
 
 
 def main():
+    recheck = "--recheck" in sys.argv
+
     with open(OUTPUT_FILE, encoding="utf-8") as f:
         data = json.load(f)
     entries = data.setdefault("composers", {})
@@ -100,12 +143,31 @@ def main():
     finally:
         conn.close()
 
+    # A composer already run through this script (or
+    # fetch_curated_composer_names.py) has a large "labels" dict --
+    # fetch_wikidata_relationships.py's own base fetch only ever caches
+    # BASE_LABEL_LANGUAGES (3) plus one nationality-derived language, so
+    # anything bigger than that can only have come from a full,
+    # unrestricted "props=labels" fetch. Cheap enough that a false
+    # negative (re-fetching something that didn't need it) is harmless;
+    # this is just to skip the common case of re-fetching the whole list
+    # every time a few new composers are added.
+    already_fetched = {
+        int(cid) for cid, entry in entries.items()
+        if cid.isdigit() and len(entry.get("labels", {})) > 5
+    }
+
+    todo = {cid: name for cid, name in COMPOSER_IDS.items() if recheck or cid not in already_fetched}
+    skipped = len(COMPOSER_IDS) - len(todo)
+    print(f"{len(todo)} of {len(COMPOSER_IDS)} composers need fetching"
+          + (f" ({skipped} already cached, skipped)" if skipped and not recheck else ""))
+
     conn = psycopg2.connect()
     loaded = 0
     try:
         with conn:
             with conn.cursor() as cur:
-                for composer_id, name in COMPOSER_IDS.items():
+                for composer_id, name in todo.items():
                     qid = rows.get(composer_id)
                     if not qid:
                         print(f"  skip {composer_id} ({name}): no wikidata_id")
