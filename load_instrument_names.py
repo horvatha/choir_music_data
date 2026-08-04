@@ -11,13 +11,13 @@ from whatever name this repo already uses for that instrument.
 
 NAME_OVERRIDES hand-fixes cases where two distinct instruments' Wikidata
 labels collide in a given language -- same pattern as load_tags.py's
-NAME_OVERRIDES (see its comment). Both entries found so far follow the
+NAME_OVERRIDES (see its comment). Every entry found so far follows the
 same shape: a general category vs. one of its own specific subtypes
-(confirmed via each pair's P279 "subclass of" claim), where Hungarian
-only has one common word for both, normally understood by default to
-mean the specific one -- so the specific instrument keeps the plain
-Wikidata label and the general category gets a "(hangszercsalád)"
-["instrument family"] suffix, not the other way around:
+(confirmed via each pair's P279 "subclass of" claim), where the language
+in question only has one common word for both, normally understood by
+default to mean the specific one -- so the specific instrument keeps the
+plain Wikidata label and the general category gets an "(instrument
+family)" suffix, not the other way around:
   - Q8374 "cimbalom" (the specific Hungarian concert instrument, with its
     own hu Wikipedia article) vs. Q1588017 "hammered dulcimer" (the broad
     worldwide instrument family, no hu article of its own) -- both
@@ -26,6 +26,11 @@ Wikidata label and the general category gets a "(hangszercsalád)"
     (the general category -- covers pipe, reed/harmonium, and electronic
     organs alike) -- both otherwise carry the plain Wikidata hu label
     "orgona".
+  - Q750934 "pipe" (P279 subclass of the next one; Wikidata's own de
+    description calls it "einfache Holzflöte", a specific simple wooden
+    folk instrument) vs. Q11405 "flute" (the general woodwind-family
+    category) -- both otherwise carry the plain Wikidata de label
+    "Flöte".
 
 Usage:
     python3 load_instrument_names.py
@@ -39,6 +44,7 @@ from fetch_wikidata_relationships import OUTPUT_FILE
 NAME_OVERRIDES = {
     ("Q1588017", "hu"): "cimbalom (hangszercsalád)",  # vs Q8374 plain "cimbalom"
     ("Q1444", "hu"): "orgona (hangszercsalád)",  # vs Q281460 "pipe organ", plain "orgona"
+    ("Q11405", "de"): "Flöte (Instrumentenfamilie)",  # vs Q750934 "pipe", plain "Flöte"
 }
 
 UPSERT_INSTRUMENT_NAME_SQL = """

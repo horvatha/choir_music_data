@@ -64,7 +64,16 @@ def load():
     try:
         with conn:
             with conn.cursor() as cur:
-                cur.execute("TRUNCATE works RESTART IDENTITY")
+                # CASCADE: work_names/work_genres/work_musical_keys/
+                # work_instruments all reference works.id and didn't exist
+                # when this plain TRUNCATE was first written -- rerunning
+                # any of load_work_names.py/load_genres.py/
+                # load_musical_keys.py/load_work_instruments.py afterward
+                # is required, same as the composed_*/premiered_*/
+                # published_*/catalog_code/cpdl_id columns on works itself
+                # (load_work_dates.py/load_work_catalog_info.py) needing a
+                # rerun since they're columns on the row just wiped.
+                cur.execute("TRUNCATE works RESTART IDENTITY CASCADE")
                 for composer_id, entry in data["composers"].items():
                     if not entry.get("applied_to_db"):
                         continue
