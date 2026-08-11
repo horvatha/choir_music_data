@@ -43,14 +43,25 @@ def main():
     conn = psycopg2.connect()
     inserted = 0
     composers_touched = 0
+    stale = 0
     try:
         with conn:
             with conn.cursor() as cur:
                 cur.execute("SELECT composer_id, language FROM composer_wikilinks")
                 existing = set(cur.fetchall())
+                cur.execute("SELECT id FROM composers")
+                real_composer_ids = {r[0] for r in cur.fetchall()}
 
                 for key, entry in entries.items():
                     if not key.isdigit() or not entry.get("applied_to_db"):
+                        continue
+                    if int(key) not in real_composer_ids:
+                        # A composer merged/deleted (e.g. by
+                        # merge_composers.py) since this cache entry was
+                        # written -- the cache itself isn't updated by a
+                        # merge, so a stale numeric key can outlive the
+                        # composers row it once pointed to.
+                        stale += 1
                         continue
                     sitelinks = entry.get("sitelinks", {})
                     if not sitelinks:
@@ -74,7 +85,8 @@ def main():
     finally:
         conn.close()
 
-    print(f"Inserted {inserted} wikilinks for {composers_touched} composers.")
+    print(f"Inserted {inserted} wikilinks for {composers_touched} composers"
+          + (f", skipped {stale} stale cache entries" if stale else "") + ".")
 
 
 if __name__ == "__main__":
