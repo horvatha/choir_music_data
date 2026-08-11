@@ -31,30 +31,13 @@ Usage:
 <input.txt>: one "qid|name" per line (no header).
 """
 import json
-import sys
+
+import click
 
 import fetch_wikidata_relationships as fwr
 
 
-def main():
-    args = sys.argv[1:]
-    if not args:
-        sys.exit(f"Usage: {sys.argv[0]} <input.txt> [--socks-port PORT] [--output FILE]")
-    input_path = args[0]
-
-    socks_port = None
-    output_path = fwr.OUTPUT_FILE
-    i = 1
-    while i < len(args):
-        if args[i] == "--socks-port":
-            socks_port = int(args[i + 1])
-            i += 2
-        elif args[i] == "--output":
-            output_path = args[i + 1]
-            i += 2
-        else:
-            sys.exit(f"unknown argument: {args[i]}")
-
+def fetch(input_path, socks_port, output_path):
     qids = []
     with open(input_path, encoding="utf-8") as f:
         for line in f:
@@ -106,5 +89,14 @@ def main():
     print(f"done -- {fetched} newly fetched into {output_path}.")
 
 
+@click.command("candidates")
+@click.argument("input_path", type=click.Path(exists=True))
+@click.option("--socks-port", type=int, default=None, help="Route requests through a local SOCKS5 proxy on this port.")
+@click.option("--output", "output_path", type=click.Path(), default=None, help="Write to this file instead of the main cache (for parallel-fetch splits).")
+def candidates_command(input_path, socks_port, output_path):
+    """Fetch full Wikidata data for every QID in INPUT_PATH (one "qid|name" per line)."""
+    fetch(input_path, socks_port, output_path or fwr.OUTPUT_FILE)
+
+
 if __name__ == "__main__":
-    main()
+    candidates_command()

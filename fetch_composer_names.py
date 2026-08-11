@@ -1,31 +1,37 @@
-"""Fetch *every* language Wikidata has a label for, for a small
-hand-picked list of composers whose name genuinely differs (not just
-transliterates) across languages -- royalty/nobility with regnal names
-and translated epithets (e.g. Q33550 "Frederick the Great" ->
+"""Fetch *every* language Wikidata has a label for, for --ids and/or the
+--curated hand-picked list -- for composers whose translated name is a
+genuine per-language translation, not just a transliteration (regnal
+names + translated epithets/titles, e.g. Q33550 "Frederick the Great" ->
 "Friedrich II. von Preußen" in de, "Frédéric II de Prusse" in fr,
-"Fryderyk II Wielki" in pl, ...) and composers known by a translated
-descriptive byname ("the Elder"/"the Younger"/"the Stammerer"/"of
-Arezzo"/...).
+"Fryderyk II Wielki" in pl, ...; or a translated descriptive byname like
+"the Elder"/"the Younger"/"the Stammerer"/"of Arezzo"). The normal
+`fetch composers` run only ever asks for BASE_LABEL_LANGUAGES (en/hu/ru)
+plus one nationality-derived language -- fine for composers whose name is
+basically the same Latin-script string everywhere, but leaves most of the
+translation on the table for these.
 
-Unlike the rest of the composer population, fetch_wikidata_relationships.py
-only ever asked for a composer's own BASE_LABEL_LANGUAGES (en/hu/ru) plus
-one nationality-derived language -- fine for composers whose name is
-basically the same Latin-script string everywhere, but these composers'
-names are substantively different per language, so the narrower fetch
-leaves most of that translation on the table.
+--ids takes an arbitrary composer_id list (e.g. for a one-off "show me all
+the name variations for the composers on this page" request). --curated
+adds CURATED_COMPOSER_IDS, a small hand-picked list found by searching for
+the English-epithet/noble-title pattern over composers.name -- see each
+entry's own comment for how it was found. Both can be combined; ids from
+either source are deduplicated.
 
 Overwrites each composer's "labels" entry in wikidata_relationships.json
 with the full fetched set (superset of whatever was cached before -- any
 language previously cached is still included if Wikidata still has it).
 load_composer_alt_names.py already loads *every* language present in
-"labels" (not just a target subset), so it just needs rerunning after
-this -- no changes needed there.
+"labels" (not just a target subset) and never overwrites an existing alt
+name, so it just needs rerunning after this -- no changes needed there.
 
 Usage:
-    python3 fetch_curated_composer_names.py
+    python3 fetch_composer_names.py --ids 123 --ids 456
+    python3 fetch_composer_names.py --curated
+    python3 fetch_composer_names.py --ids 123 --curated
 """
 import json
 
+import click
 import psycopg2
 
 from fetch_wikidata_relationships import OUTPUT_FILE, api_get
@@ -71,7 +77,7 @@ CURATED_COMPOSER_IDS = {
 }
 
 
-def main():
+def fetch(composer_ids):
     with open(OUTPUT_FILE, encoding="utf-8") as f:
         data = json.load(f)
     entries = data.setdefault("composers", {})
@@ -79,20 +85,17 @@ def main():
     conn = psycopg2.connect()
     try:
         with conn.cursor() as cur:
-            cur.execute(
-                "SELECT id, wikidata_id FROM composers WHERE id = ANY(%s)",
-                (list(CURATED_COMPOSER_IDS),),
-            )
+            cur.execute("SELECT id, wikidata_id FROM composers WHERE id = ANY(%s)", (composer_ids,))
             rows = cur.fetchall()
     finally:
         conn.close()
 
-    missing = CURATED_COMPOSER_IDS.keys() - {r[0] for r in rows}
+    missing = set(composer_ids) - {r[0] for r in rows}
     if missing:
-        print(f"warning: no DB row (renamed/merged since?) for ids: {sorted(missing)}")
+        print(f"warning: no DB row for ids: {sorted(missing)}")
 
     qids = [(composer_id, wikidata_id) for composer_id, wikidata_id in rows if wikidata_id]
-    print(f"{len(qids)} of {len(CURATED_COMPOSER_IDS)} curated composers have a wikidata_id")
+    print(f"{len(qids)} of {len(composer_ids)} composers have a wikidata_id")
 
     for composer_id, qid in qids:
         result = api_get(
@@ -110,5 +113,16 @@ def main():
     print("done.")
 
 
+@click.command("composer-names")
+@click.option("--ids", multiple=True, type=int, help="Composer ids to fetch full-language labels for (repeatable).")
+@click.option("--curated", is_flag=True, help="Also fetch CURATED_COMPOSER_IDS (the hand-picked royalty/epithet list).")
+def composer_names_command(ids, curated):
+    """Fetch every Wikidata language label for --ids and/or --curated composers."""
+    composer_ids = list(dict.fromkeys(list(ids) + (list(CURATED_COMPOSER_IDS) if curated else [])))
+    if not composer_ids:
+        raise click.UsageError("Give --ids and/or --curated.")
+    fetch(composer_ids)
+
+
 if __name__ == "__main__":
-    main()
+    composer_names_command()
