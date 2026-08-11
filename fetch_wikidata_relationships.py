@@ -170,6 +170,7 @@ ATTRIBUTE_PROPS = {
     "P20": "place_of_death",
     "P463": "member_of",
     "P1416": "affiliation",
+    "P21": "gender",
 }
 
 def use_socks_proxy(port=1080):
@@ -371,6 +372,7 @@ def extract_dates(entity):
     claims = entity.get("claims", {})
     result = {}
     for prop, key in DATE_PROPS.items():
+        candidates = []
         for c in claims.get(prop, []):
             if not _not_deprecated(c):
                 continue
@@ -389,8 +391,19 @@ def extract_dates(entity):
                     date(int(year), int(month), int(day))
                 except ValueError:
                     continue
-                result[key] = f"{int(year):04d}-{month}-{day}"
-                break  # first valid day-precision claim wins if there are several
+                candidates.append((c.get("rank") == "preferred", f"{int(year):04d}-{month}-{day}"))
+        if candidates:
+            # When Wikidata has more than one day-precision claim for the
+            # same property (real case found: Maddalena Laura Sirmen's P569
+            # had a "normal"-rank 1735 imported from enwiki alongside a
+            # "preferred"-rank 1745 sourced to BnF + Grove Music Online),
+            # prefer the one Wikidata's own rank marks as preferred over a
+            # merely-normal one. Falls back to the first valid claim when
+            # there's no preferred one, or several -- not a guarantee of
+            # correctness, just deterministic and better than ignoring rank
+            # entirely.
+            candidates.sort(key=lambda pair: not pair[0])
+            result[key] = candidates[0][1]
     return result
 
 
