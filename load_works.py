@@ -43,6 +43,10 @@ EXCLUDED_QIDS = {
     "Q42189653", # Peter Abelard, "Ethica" -- prose
     "Q42189772", # Peter Abelard, "Expositio in Epistolam ad Romanos" -- prose
     "Q2960332",  # Peter Abelard, "Historia Calamitatum" -- prose
+    "Q54030749", # William Herschel, "Account of a Comet" -- astronomy paper
+    "Q21002732", # William Herschel, discovery of Uranus -- astronomy
+    "Q600076",   # William Herschel, Herschel wedge -- astronomy/optics device
+    "Q11388",    # William Herschel, infrared radiation -- physics discovery
 }
 
 UPSERT_WORK_SQL = """
@@ -61,6 +65,7 @@ def load():
     conn = psycopg2.connect()
     processed = 0
     skipped = 0
+    stale = 0
     try:
         with conn:
             with conn.cursor() as cur:
@@ -74,8 +79,18 @@ def load():
                 # (load_work_dates.py/load_work_catalog_info.py) needing a
                 # rerun since they're columns on the row just wiped.
                 cur.execute("TRUNCATE works RESTART IDENTITY CASCADE")
+                cur.execute("SELECT id FROM composers")
+                real_composer_ids = {r[0] for r in cur.fetchall()}
                 for composer_id, entry in data["composers"].items():
                     if not entry.get("applied_to_db"):
+                        continue
+                    if not composer_id.isdigit() or int(composer_id) not in real_composer_ids:
+                        # A composer merged/deleted (e.g. by
+                        # merge_composers.py) since this cache entry was
+                        # written -- the cache itself isn't updated by a
+                        # merge, so a stale numeric key can outlive the
+                        # composers row it once pointed to.
+                        stale += 1
                         continue
                     work_qids = entry.get("attributes", {}).get("notable_work", [])
                     if not work_qids:
@@ -96,7 +111,9 @@ def load():
                         cur.execute(UPSERT_WORK_SQL, (int(composer_id), name, qid))
     finally:
         conn.close()
-    print(f"Processed {processed} composers with at least one notable work ({skipped} unresolved work names skipped).")
+    print(f"Processed {processed} composers with at least one notable work "
+          f"({skipped} unresolved work names skipped"
+          + (f", {stale} stale cache entries skipped" if stale else "") + ").")
 
 
 if __name__ == "__main__":
