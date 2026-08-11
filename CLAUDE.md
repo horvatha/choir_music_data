@@ -38,11 +38,11 @@ cat schema.sql | podman exec -i composers-pg psql -U composers -d composers
 
 ### Target languages for translated names
 
-Domain-data translations (instrument names, work titles, place names, etc. -- not static UI copy, which is `concert_music_app`'s gettext/.po files) always use an extensible `(entity_id, language, name)` table, e.g. `instrument_names`, `place_names`, `work_names`, `composer_alt_names` -- never a `name_hu`-style column. When fetching a new batch of these from Wikidata (see `fetch_instrument_names.py` for the pattern), the target language list is:
+Domain-data translations (instrument names, work titles, place names, etc. -- not static UI copy, which is `concert_music_app`'s gettext/.po files) always use an extensible `(entity_id, language, name)` table, e.g. `instrument_names`, `place_names`, `work_names`, `composer_alt_names` -- never a `name_hu`-style column. When fetching a new batch of these from Wikidata (see `python3 cli.py fetch labels --entity instrument` for the pattern), the target language list is:
 
 `hu, es, fr, en, de, cs, uk, it, hr, pl, ru, nl` (Hungarian, Spanish, French, English, German, Czech, Ukrainian, Italian, Croatian, Polish, Russian, Dutch)
 
-English is fetched too but only kept when it differs from whatever the row's existing base/default name already is (see `load_instrument_names.py`) -- avoids a redundant duplicate row for the common case where the base name already came from Wikidata's English label. `fetch_wikidata_relationships.py`'s `TARGET_LANGUAGES` is the single source of truth for this list; keep it and this section in sync if it changes.
+English is fetched too but only kept when it differs from whatever the row's existing base/default name already is (see `python3 cli.py load names --entity instrument`) -- avoids a redundant duplicate row for the common case where the base name already came from Wikidata's English label. `fetch_wikidata_relationships.py`'s `TARGET_LANGUAGES` is the single source of truth for this list; keep it and this section in sync if it changes.
 
 ### Composer pictures
 

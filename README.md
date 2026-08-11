@@ -29,20 +29,34 @@ From this page: https://en.wikipedia.org/wiki/Lists_of_composers
 ## Fetcher and loader scripts
 
 The live pipeline pulls composer/work/place/instrument data from Wikidata
-into `wikidata_relationships.json` (a local cache, gitignored) via the
-`fetch_*.py` scripts, then `load_*.py` scripts read that cache and write
-into Postgres. `backfill_*.py` scripts are one-time catch-up passes for
+into `wikidata_relationships.json` (a local cache, gitignored) via `cli.py
+fetch ...` commands (or a handful of remaining standalone `fetch_*.py`
+scripts for jobs that don't fit the shared shape), then `cli.py load ...`
+commands (or standalone `load_*.py` scripts) read that cache and write
+into Postgres. `cli.py backfill cache` is a one-time catch-up pass for
 data added to the fetch after some composers were already fetched. See
 CLAUDE.md for the full schema and the day-to-day workflow; this is just a
-map of what each script does.
+map of what each command/script does.
+
+### `cli.py`: consolidated commands
+
+Run `python3 cli.py --help`, or `--help` on any subcommand, for full option
+lists.
+
+| Command | Replaces (history) | Purpose |
+|---|---|---|
+| `fetch composers --era/--nationality/--ids` | `fetch_wikidata_relationships.py`, `fetch_wikidata_by_era.py`, `fetch_wikidata_for_composer_ids.py` | Main fetch: relationships (father/mother/teacher-student/...), cross-language name labels, and attributes (citizenship, movement, genre, instrument, notable work, ...) for composers, selected by nationality, era, or explicit id. |
+| `fetch composer-names --ids/--curated` | `fetch_curated_composer_names.py`, `fetch_full_language_names_for_composers.py` | Fetches *every* Wikidata language for composers whose name genuinely differs per language (royalty, translated epithets like "the Elder"), not just the base set `fetch composers` asks for. |
+| `fetch labels --entity` | `fetch_instrument_names.py`, `fetch_country_names.py`, `fetch_genre_names.py`, `fetch_key_names.py` | Fetches an instrument/country/genre/key's name in every target (or, for genre/key, every available) language. |
+| `fetch candidates INPUT_PATH` | `fetch_candidate_people.py` | Fetches full Wikidata data for an arbitrary QID list (e.g. relation-graph discovery candidates), regardless of whether they turn out to be composers. |
+| `load names --entity` | `load_country_names.py`, `load_instrument_names.py`, `load_place_names.py`, `load_work_names.py` | Loads `<entity>_names` translations from the corresponding label cache. |
+| `backfill cache --field` | `backfill_dates.py`, `backfill_relationships.py`, `backfill_sitelinks.py`, `backfill_wikidata_attributes.py` | One-time catch-up: patches a missing/stale field into every already-fetched composer's cache entry. |
 
 ### Composers: core
 
 | Script | Purpose |
 |---|---|
-| `fetch_wikidata_relationships.py` | Main fetch: relationships (father/mother/teacher-student/...), cross-language name labels, and attributes (citizenship, movement, genre, instrument, notable work, ...) for composers, selected by nationality. |
-| `fetch_wikidata_by_era.py` | Same as above, but selects composers by era instead of nationality. |
-| `fetch_wikidata_for_composer_ids.py` | Same as above, but targets exact composer IDs (e.g. composers with no nationality set). |
+| `fetch_wikidata_relationships.py` | Shared helpers/constants (`api_get`, `get_entity`, `extract_*`, `TARGET_LANGUAGES`, ...) used by nearly every fetch/backfill command above and script below. No longer has its own entry point -- see `cli.py fetch composers`. |
 | `fetch_full_wikidata_dump.py` | Diagnostic one-off: dumps a QID's *entire* raw Wikidata entity, unfiltered, for inspection. Not part of the DB pipeline. |
 | `load_composers.py` | Loads the English-language era CSVs (`composers_Medieval.csv`, etc.) into `composers`. |
 | `load_hungarian_composers.py` | Merges `composers_Hungarian.csv`, skipping rows flagged `pop` by `classify_hu_wiki_composers.py`. |
@@ -50,17 +64,12 @@ map of what each script does.
 | `load_composer_alt_names.py` | Loads `composer_alt_names` from every language a composer's Wikidata entity has a label in. |
 | `load_birth_death_places.py` | Loads exact birth/death dates and resolves birth/death places to their historical (name, country) window. |
 | `load_nationalities.py` | Parses the free-text `composers.nationality` column into the normalized `nationalities`/`composer_nationalities` tables. |
-| `fetch_curated_composer_names.py` | Fetches *every* Wikidata language for a small hand-picked list of composers whose name genuinely differs per language (royalty, translated epithets like "the Elder"), not just the base set `fetch_wikidata_relationships.py` asks for. |
 
 ### Backfills (one-time catch-up)
 
 | Script | Purpose |
 |---|---|
-| `backfill_dates.py` | Day-level-precision birth/death dates for composers fetched before date support existed. |
-| `backfill_relationships.py` | Rechecks relationships for composers fetched before `child`/`spouse` were added to the fetched props. |
 | `backfill_russian_labels.py` | Adds a Russian label for composers with a Soviet/Russian-Empire signal but no nationality tag to key a Russian fetch off of. |
-| `backfill_sitelinks.py` | Fetches sitelinks (which Wikipedias a composer has an article in) for composers fetched before sitelink support existed. |
-| `backfill_wikidata_attributes.py` | Re-fetches attribute props for every composer already on file with a QID. |
 | `backfill_wikidata_ids_from_relations.py` | Backfills `wikidata_id` for composers who only ever showed up as an unlinked target of someone else's relation. |
 | `backfill_wikidata_ids_from_wikilinks.py` | Backfills `wikidata_id` by matching a composer's own Wikipedia article against Wikidata's sitelinks. |
 | `backfill_manual_alt_names.py` | Loads a small set of hand-constructed `composer_alt_names` not sourced from Wikidata at all (e.g. disambiguating "the Elder"/"the Younger" pairs where Wikidata gives both the same name). |
@@ -69,10 +78,8 @@ map of what each script does.
 
 | Script | Purpose |
 |---|---|
-| `fetch_instrument_names.py` | Fetches each instrument's name in every target language. |
 | `fetch_instrument_classification.py` | Fetches Hornbostel-Sachs codes and P279 ancestor sets, used to sort instruments into groups. |
 | `load_instruments.py` | Loads `instruments`/`composer_instruments` from the fetched `instrument` attribute. |
-| `load_instrument_names.py` | Loads `instrument_names` translations. |
 | `load_instrument_groups.py` | Defines the `instrument_groups` taxonomy and assigns every instrument to one. |
 | `load_lfze_instruments.py` | Loads hand-curated composer/instrument facts (with citation) from Nagy elodok bios, for facts with no Wikidata claim yet. |
 
@@ -80,10 +87,8 @@ map of what each script does.
 
 | Script | Purpose |
 |---|---|
-| `fetch_genre_names.py` | Fetches each genre's name in every language Wikidata has. |
-| `load_genres.py` | Loads `genres`/`genre_names`/`work_genres` from the fetched genre data. |
-| `fetch_key_names.py` | Fetches each musical key's (tonality's) name in every language Wikidata has. |
-| `load_musical_keys.py` | Loads `musical_keys`/`musical_key_names`/`work_musical_keys`. |
+| `load_genres.py` | Loads `genres`/`genre_names`/`work_genres` from the fetched genre data (calls `load_names.upsert_entity_names()` for the name-loading half). |
+| `load_musical_keys.py` | Loads `musical_keys`/`musical_key_names`/`work_musical_keys` (same pattern as `load_genres.py`). |
 
 ### Works
 
@@ -92,7 +97,6 @@ map of what each script does.
 | `fetch_work_details.py` | Fetches each work's name in every language, plus other claims (dates, catalog code, tonality, instrumentation, CPDL ID, ...). |
 | `fetch_work_instrument_labels.py` | Resolves a display name for instrumentation QIDs not already known. |
 | `load_works.py` | Loads `works` from the fetched `notable_work` attribute. |
-| `load_work_names.py` | Loads `work_names` translations. |
 | `load_work_dates.py` | Loads `works.composed_*`/`premiered_*`/`published_*`. |
 | `load_work_catalog_info.py` | Loads `works.catalog_code` and `works.cpdl_id`. |
 | `load_work_instruments.py` | Loads `work_instruments`, reusing the `instruments` table. |
@@ -103,10 +107,7 @@ map of what each script does.
 |---|---|
 | `fetch_place_history.py` | Fetches a place's full history: country-over-time, official-name-over-time, predecessor/successor links, coordinates. |
 | `fetch_us_states.py` | Fetches each U.S. place's state by climbing Wikidata's administrative-territorial-entity chain. |
-| `fetch_country_names.py` | Fetches each country's name in every target language. |
-| `load_place_names.py` | Loads `place_names` translations. |
 | `load_place_hierarchy.py` | Sets `place_type` and `parent_place_id` for places administratively part of a larger tracked place. |
-| `load_country_names.py` | Loads `country_names` translations. |
 | `load_us_states.py` | Loads `states` and `places.state_id`. |
 
 ### Hungarian sources
