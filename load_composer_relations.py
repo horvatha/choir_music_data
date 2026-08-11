@@ -56,6 +56,7 @@ def load():
 
     conn = psycopg2.connect()
     processed = 0
+    stale = 0
     try:
         with conn:
             with conn.cursor() as cur:
@@ -65,9 +66,19 @@ def load():
                 # up once rather than once per relation.
                 cur.execute("SELECT wikidata_id, id, name FROM composers WHERE wikidata_id IS NOT NULL")
                 composer_by_qid = {qid: (cid, name) for qid, cid, name in cur.fetchall()}
+                cur.execute("SELECT id FROM composers")
+                real_composer_ids = {r[0] for r in cur.fetchall()}
 
                 for composer_id, entry in data["composers"].items():
                     if not entry.get("applied_to_db"):
+                        continue
+                    if not composer_id.isdigit() or int(composer_id) not in real_composer_ids:
+                        # A composer merged/deleted (e.g. by
+                        # merge_composers.py) since this cache entry was
+                        # written -- the cache itself isn't updated by a
+                        # merge, so a stale numeric key can outlive the
+                        # composers row it once pointed to.
+                        stale += 1
                         continue
                     relationships = entry.get("relationships", {})
                     if not relationships:
@@ -88,7 +99,8 @@ def load():
                             })
     finally:
         conn.close()
-    print(f"Processed {processed} composers with at least one relationship.")
+    print(f"Processed {processed} composers with at least one relationship"
+          + (f", skipped {stale} stale cache entries" if stale else "") + ".")
 
 
 if __name__ == "__main__":
