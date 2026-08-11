@@ -114,6 +114,13 @@ deliberate judgment call, not a bug:
 - `load_composer_relations.py`'s `EXCLUDED_RELATIONS` -- same reasoning
   for non-musical relationship claims (Herschel's astronomy doctoral
   advisor and student).
+- `load_tags.py`'s `EXCLUDED_QIDS`/`QID_REDIRECTS` -- `P135` "movement"
+  values that aren't real, usable movement concepts (dropped), and one
+  mistagged movement folded into the one it should have been (a composer
+  carrying Q14378 "Neoclassicism," the general art-historical movement,
+  redirected to Q535611, the musical one -- easy to confuse since musical
+  Neoclassicism took its name from the earlier movement as a deliberate
+  allusion).
 - `load_names.py`'s `INSTRUMENT_NAME_OVERRIDES` -- two distinct
   instruments whose Wikidata label collides in a given language.
 - `parse_hu_wiki_composers.py`'s `ERA_OVERRIDES`, `load_place_hierarchy.py`'s

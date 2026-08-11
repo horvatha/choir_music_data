@@ -76,12 +76,23 @@ def load():
 
     conn = psycopg2.connect()
     processed = 0
+    stale = 0
     try:
         with conn:
             with conn.cursor() as cur:
                 cur.execute("TRUNCATE composer_tags, tags RESTART IDENTITY CASCADE")
+                cur.execute("SELECT id FROM composers")
+                real_composer_ids = {r[0] for r in cur.fetchall()}
                 for composer_id, entry in data["composers"].items():
                     if not entry.get("applied_to_db"):
+                        continue
+                    if not composer_id.isdigit() or int(composer_id) not in real_composer_ids:
+                        # A composer merged/deleted (e.g. by
+                        # merge_composers.py) since this cache entry was
+                        # written -- the cache itself isn't updated by a
+                        # merge, so a stale numeric key can outlive the
+                        # composers row it once pointed to.
+                        stale += 1
                         continue
                     tag_qids = entry.get("attributes", {}).get("movement", [])
                     if not tag_qids:
@@ -97,7 +108,8 @@ def load():
                         cur.execute(LINK_TAG_SQL, (int(composer_id), tag_id))
     finally:
         conn.close()
-    print(f"Processed {processed} composers with at least one tag.")
+    print(f"Processed {processed} composers with at least one tag"
+          + (f", skipped {stale} stale cache entries" if stale else "") + ".")
 
 
 if __name__ == "__main__":
