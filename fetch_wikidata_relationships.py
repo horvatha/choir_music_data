@@ -1,27 +1,23 @@
-"""Fetch Wikidata relationships (father, mother, teacher/student-of,
-notable student, doctoral advisor, influenced-by) and cross-language name
-labels for composers, keyed by our own composer_id.
+"""Shared helpers/constants for fetching Wikidata data about composers:
+labels, relationships (father/mother/teacher/student-of/notable student/
+doctoral advisor/influenced-by), attributes (citizenship/movement/genre/
+instrument/...), exact dates, and sitelinks. No `main()` here -- the
+actual composer-selection entry point is `cli.py fetch composers`
+(see fetch_composers.py), which imports the functions/constants below.
 
 Writes to a JSON file only -- nothing is loaded into the database here,
 that's a separate decision for later. The output file's keys double as the
 "already processed" list: rerunning skips composers already in it, so this
 is safe to stop/resume (e.g. across rate limits or across nationality
 groups run on different days).
-
-Usage:
-    python3 fetch_wikidata_relationships.py Hungarian
-    python3 fetch_wikidata_relationships.py Russian Soviet Ukrainian
 """
 import json
 import re
-import sys
 import time
 import urllib.error
 import urllib.parse
 import urllib.request
 from datetime import date
-
-import psycopg2
 
 USER_AGENT = "choir_music_data-wikidata-fetch/1.0 (personal research script)"
 OUTPUT_FILE = "wikidata_relationships.json"
@@ -175,18 +171,6 @@ ATTRIBUTE_PROPS = {
     "P463": "member_of",
     "P1416": "affiliation",
 }
-
-FETCH_COMPOSERS_SQL = """
-    SELECT DISTINCT c.id, c.name
-    FROM composers c
-    JOIN composer_nationalities cn ON cn.composer_id = c.id
-    JOIN nationalities n ON n.id = cn.nationality_id
-    WHERE n.name = ANY(%s)
-    ORDER BY c.id
-"""
-
-FETCH_WIKILINKS_SQL = "SELECT language, title FROM composer_wikilinks WHERE composer_id = %s"
-
 
 def use_socks_proxy(port=1080):
     """Route every socket connection *made from here on* through a local
@@ -423,104 +407,3 @@ def extract_coordinates(entity):
     return None
 
 
-def main():
-    nationalities = sys.argv[1:]
-    if not nationalities:
-        print("Usage: fetch_wikidata_relationships.py <nationality> [<nationality> ...]")
-        return
-
-    try:
-        with open(OUTPUT_FILE, encoding="utf-8") as f:
-            output = json.load(f)
-    except FileNotFoundError:
-        output = {}
-    entries = output.setdefault("composers", {})
-    label_cache = output.setdefault("qid_labels", {})
-
-    conn = psycopg2.connect()
-    # autocommit: this script only reads from the DB. Without it, the first
-    # SELECT below opens a transaction that isn't committed until the whole
-    # (very long, API-call-bound) run finishes, holding a lock that blocks
-    # any concurrent schema change (e.g. ALTER TABLE) on composers/
-    # composer_wikilinks for the entire run.
-    conn.autocommit = True
-    try:
-        with conn.cursor() as cur:
-            cur.execute(FETCH_COMPOSERS_SQL, (nationalities,))
-            composers = cur.fetchall()
-            print(f"{len(composers)} composers for {nationalities}")
-
-            for composer_id, name in composers:
-                key = str(composer_id)
-                if key in entries:
-                    continue
-
-                cur.execute(FETCH_WIKILINKS_SQL, (composer_id,))
-                wikilinks = cur.fetchall()
-                if not wikilinks:
-                    entries[key] = {"name": name, "qid": None, "applied_to_db": True}
-                    continue
-
-                qid = get_qid(wikilinks)
-                if not qid:
-                    entries[key] = {"name": name, "qid": None, "applied_to_db": True}
-                    continue
-
-                cur.execute(FETCH_COMPOSER_NATIONALITIES_SQL, (composer_id,))
-                composer_nationalities = [r[0] for r in cur.fetchall()]
-                languages = label_languages_for(composer_nationalities)
-
-                entity = get_entity(qid, languages)
-                if entity is None:
-                    # QID resolved but the entity itself didn't come back --
-                    # a Wikidata redirect (merged item, data returned under
-                    # a different id than requested) or a deleted item.
-                    # Recorded so a rerun doesn't keep retrying it forever.
-                    entries[key] = {"name": name, "qid": qid, "applied_to_db": True}
-                    print(f"  {composer_id} {name}: qid={qid} but entity not found (redirect/deleted?)")
-                    continue
-                labels = {lang: v["value"] for lang, v in entity.get("labels", {}).items()}
-                relationships = extract_relationships(entity)
-                attributes = extract_attributes(entity)
-                sitelinks = extract_sitelinks(entity)
-                dates = extract_dates(entity)
-                entries[key] = {
-                    "name": name, "qid": qid, "labels": labels,
-                    "relationships": relationships, "attributes": attributes,
-                    "sitelinks": sitelinks, "dates": dates, "applied_to_db": True,
-                }
-                print(f"  {composer_id} {name}: qid={qid} labels={list(labels)} "
-                      f"relationships={list(relationships)} attributes={list(attributes)} "
-                      f"sitelinks={list(sitelinks)}")
-                time.sleep(0.3)
-
-                with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-                    json.dump(output, f, ensure_ascii=False, indent=1, sort_keys=True)
-
-            # Some older entries' "attributes" mix in plain-string summary
-            # fields alongside the QID lists (e.g. "place_of_birth_text":
-            # "Tobolsk, Moscow") -- iterating a string yields its individual
-            # characters, so `qs` must be checked as an actual list before
-            # being folded into the QID set, or a stray batch of single
-            # characters gets treated as "QIDs to resolve" (harmless on its
-            # own, but corrupts the batch it shares with real QIDs).
-            all_qids = {
-                q for e in entries.values()
-                for group in (e.get("relationships", {}), e.get("attributes", {}))
-                for qs in group.values() if isinstance(qs, list)
-                for q in qs
-            }
-            unresolved = [q for q in all_qids if q not in label_cache]
-            if unresolved:
-                print(f"Resolving labels for {len(unresolved)} referenced people (fathers/teachers/students/...)...")
-                label_cache.update(get_labels(unresolved))
-    finally:
-        conn.close()
-
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        json.dump(output, f, ensure_ascii=False, indent=1, sort_keys=True)
-    print(f"\n{len(entries)} composers recorded in {OUTPUT_FILE}")
-
-
-if __name__ == "__main__":
-    main()
