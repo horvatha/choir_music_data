@@ -1,6 +1,6 @@
 """Load musical_keys/musical_key_names/work_musical_keys from the
 "tonality" field (Wikidata P826) of the "work_attributes" cache, and the
-"key_labels" cache fetch_key_names.py wrote -- both in
+"key_labels" cache `cli.py fetch labels --entity key` wrote -- both in
 wikidata_relationships.json. Same structure as load_genres.py.
 
 Fully rebuilds all three tables each run (truncate first) -- reruns after

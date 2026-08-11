@@ -78,13 +78,10 @@ loaded); each script's own docstring says which.
    loader will see them -- `applied_to_db` isn't set on a new composer's
    cache entry until this runs, and every loader below checks that flag
    and silently skips entries missing it.
-2. `load_instruments.py` → `load_work_instruments.py` →
-   `cli.py fetch labels --entity instrument` →
-   `cli.py load names --entity instrument` → `load_instrument_groups.py`.
-   `load_instruments.py`'s `TRUNCATE ... CASCADE` wipes
-   `work_instruments`/`instrument_names` too (a real FK cascade, not
-   incidental) -- all four downstream steps need rerunning after it, not
-   just the ones that look instrument-specific.
+2. The instrument-loading chain has a 5-step required order (`load_instruments.py`'s
+   own `TRUNCATE ... CASCADE` wipes `work_instruments`/`instrument_names`
+   too, a real FK cascade, not incidental) -- see `load_work_instruments.py`'s
+   own docstring for the exact sequence, don't run these piecemeal.
 
 **Two gotchas that will bite you if you don't know about them:**
 - *Stale cache ids after a merge.* `merge_composers.py` deletes the

@@ -24,8 +24,8 @@ Caches into wikidata_relationships.json under:
     predecessor/successor QID no composer directly references).
   - "place_labels": {qid: {language: name, ...}} -- every hu/en/de/ru
     label a place has on Wikidata (not just qid_labels' single "best"
-    pick) -- consumed by load_place_names.py to populate place_names
-    with a real per-language fallback chain.
+    pick) -- consumed by `cli.py load names --entity place` to populate
+    place_names with a real per-language fallback chain.
   - "country_info": {country_qid: {"name": ..., "abbr": ..., "language":
     ...}} -- "name"/"abbr" same shape as the old fetch_place_countries.py;
     "language" is the country's official language (P37), mapped to a code
@@ -34,10 +34,9 @@ Caches into wikidata_relationships.json under:
     claims, consumed by load_birth_death_places.py to set each
     place_periods row's default_language.
 
-Do not run this at the same time as fetch_wikidata_relationships.py /
-fetch_wikidata_by_era.py / fetch_wikidata_for_composer_ids.py / other
-backfill_*.py / fetch_*.py scripts -- same concurrent-write risk noted in
-those files.
+Do not run this at the same time as `cli.py fetch ...`/`cli.py backfill
+...` or another backfill_*.py/fetch_*.py script -- see README.md's
+"Pipeline rules" for the concurrent-cache-write hazard.
 
 Usage:
     python3 fetch_place_history.py            # only places missing a cached entry
@@ -250,7 +249,8 @@ def main():
             json.dump(data, f, ensure_ascii=False, indent=1, sort_keys=True)
 
     # Per-language labels (not just the single "best" one qid_labels picks)
-    # for every place -- lets load_place_names.py offer a real fallback
+    # for every place -- lets `cli.py load names --entity place` offer a
+    # real fallback
     # chain (Hungarian -> English -> German -> ... -> Russian) instead of
     # showing a reader whatever script a place's period name happened to
     # be recorded in on Wikidata (e.g. Cyrillic for most Russian Empire/

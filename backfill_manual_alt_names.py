@@ -20,7 +20,7 @@ Two groups:
    equivalent.
 
 2. ROYALTY_GAPS -- a few remaining gaps for composers in the curated
-   royalty/nobility fetch (see fetch_curated_composer_names.py) where
+   royalty/nobility fetch (see `cli.py fetch composer-names --curated`) where
    Wikidata has no label at all in a target language, filled by mirroring
    an already-Wikidata-sourced pattern for the same person or a close
    relative in this dataset (e.g. Prince Gustaf of Sweden's Croatian name

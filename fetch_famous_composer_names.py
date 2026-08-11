@@ -1,10 +1,10 @@
 """Fetch and load composer_alt_names for a hand-picked list of well-known
 composers, restricted to TARGET_LANGUAGES only -- unlike
-fetch_curated_composer_names.py (whose companion loader,
+`cli.py fetch composer-names --curated` (whose companion loader,
 load_composer_alt_names.py, loads *every* language Wikidata has), this is
-for composers whose base fetch (fetch_wikidata_relationships.py) already
-covers them reasonably, where the ask was specifically "the planned
-languages, not all of them".
+for composers whose base fetch (`cli.py fetch composers`) already covers
+them reasonably, where the ask was specifically "the planned languages,
+not all of them".
 
 Combines fetch and load in one script (unlike the usual fetch_*.py/
 load_*.py split) since the loading logic here -- filter to
@@ -12,10 +12,9 @@ TARGET_LANGUAGES -- is one-off and specific to this composer list, not
 shared with any other loader.
 
 Only fetches composers not already cached (same --recheck-to-override
-pattern as fetch_instrument_names.py/fetch_genre_names.py/
-fetch_key_names.py) -- COMPOSER_IDS keeps growing across sessions, and
-without this every run would re-fetch everyone already done, not just the
-newly-added names.
+pattern as `cli.py fetch labels`) -- COMPOSER_IDS keeps growing across
+sessions, and without this every run would re-fetch everyone already
+done, not just the newly-added names.
 
 Usage:
     python3 fetch_famous_composer_names.py            # only composers missing a cached entry
@@ -168,8 +167,8 @@ def main():
         conn.close()
 
     # A composer already run through this script (or
-    # fetch_curated_composer_names.py) has a large "labels" dict --
-    # fetch_wikidata_relationships.py's own base fetch only ever caches
+    # `cli.py fetch composer-names --curated`) has a large "labels" dict --
+    # `cli.py fetch composers`'s own base fetch only ever caches
     # BASE_LABEL_LANGUAGES (3) plus one nationality-derived language, so
     # anything bigger than that can only have come from a full,
     # unrestricted "props=labels" fetch. Cheap enough that a false

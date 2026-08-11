@@ -56,11 +56,8 @@ def main():
                     if not key.isdigit() or not entry.get("applied_to_db"):
                         continue
                     if int(key) not in real_composer_ids:
-                        # A composer merged/deleted (e.g. by
-                        # merge_composers.py) since this cache entry was
-                        # written -- the cache itself isn't updated by a
-                        # merge, so a stale numeric key can outlive the
-                        # composers row it once pointed to.
+                        # Stale cache id -- see README.md's "Pipeline
+                        # rules" (stale cache ids after a merge).
                         stale += 1
                         continue
                     sitelinks = entry.get("sitelinks", {})

@@ -1,6 +1,6 @@
 """Load works from the "notable_work" (P800) attribute already fetched
-into wikidata_relationships.json by fetch_wikidata_relationships.py /
-fetch_wikidata_by_era.py / fetch_wikidata_for_composer_ids.py.
+into wikidata_relationships.json by `cli.py fetch composers`
+(--era/--nationality/--ids).
 
 Unlike instruments this isn't a junction table -- a work has exactly one
 composer, so works.composer_id is a plain FK, not a many-to-many pair.
@@ -72,7 +72,7 @@ def load():
                 # CASCADE: work_names/work_genres/work_musical_keys/
                 # work_instruments all reference works.id and didn't exist
                 # when this plain TRUNCATE was first written -- rerunning
-                # any of load_work_names.py/load_genres.py/
+                # any of `cli.py load names --entity work`/load_genres.py/
                 # load_musical_keys.py/load_work_instruments.py afterward
                 # is required, same as the composed_*/premiered_*/
                 # published_*/catalog_code/cpdl_id columns on works itself
@@ -85,11 +85,8 @@ def load():
                     if not entry.get("applied_to_db"):
                         continue
                     if not composer_id.isdigit() or int(composer_id) not in real_composer_ids:
-                        # A composer merged/deleted (e.g. by
-                        # merge_composers.py) since this cache entry was
-                        # written -- the cache itself isn't updated by a
-                        # merge, so a stale numeric key can outlive the
-                        # composers row it once pointed to.
+                        # Stale cache id -- see README.md's "Pipeline
+                        # rules" (stale cache ids after a merge).
                         stale += 1
                         continue
                     work_qids = entry.get("attributes", {}).get("notable_work", [])

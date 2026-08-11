@@ -8,10 +8,10 @@ Caches into wikidata_relationships.json under two keys:
 
 - "work_labels": {qid: {language: name, ...}}, all languages included (not
   just TARGET_LANGUAGES -- see CLAUDE.md's "Target languages for
-  translated names"). load_work_names.py reads this and writes
-  work_names, filtering down to TARGET_LANGUAGES at load time. Caching
-  every language means growing that list later only needs a rerun of the
-  loader, not another fetch.
+  translated names"). `cli.py load names --entity work` reads this and
+  writes work_names, filtering down to TARGET_LANGUAGES at load time.
+  Caching every language means growing that list later only needs a
+  rerun of the loader, not another fetch.
 
 - "work_attributes": {qid: {field: [...values], ...}}, one entry per
   CLAIM_PROPERTIES field that the work actually has a claim for (fields

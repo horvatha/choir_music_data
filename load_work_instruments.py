@@ -10,10 +10,14 @@ Run order matters:
    whole instruments table, which would cascade-delete work_instruments)
 2. this script -- adds any new instrument rows work_attributes needs,
    plus the work_instruments links
-3. fetch_instrument_names.py -- picks up translations for newly-added
-   instrument rows automatically (it's incremental, scans the whole
-   instruments table for anything not yet cached)
-4. load_instrument_names.py
+3. `cli.py fetch labels --entity instrument` -- picks up translations for
+   newly-added instrument rows automatically (it's incremental, scans the
+   whole instruments table for anything not yet cached)
+4. `cli.py load names --entity instrument`
+5. load_instrument_groups.py -- step 1's TRUNCATE also clears every
+   instrument's group_id (a plain column on the truncated-and-reinserted
+   row, not preserved by the upsert), so group assignments need
+   reassigning too, not just names/links
 
 Not incremental itself -- truncates work_instruments first (not
 instruments, which this only adds to, never removes from, since other

@@ -56,10 +56,10 @@ rerun after a fresh fetch. birth_year/death_year (used only to pick the
 right window here, not overwritten with a different value) follow the
 same COALESCE-only-if-missing rule as before.
 
-Do not run this at the same time as fetch_wikidata_relationships.py /
-fetch_wikidata_by_era.py / fetch_wikidata_for_composer_ids.py / other
-backfill_*.py / fetch_*.py scripts -- same concurrent-write risk noted in
-those files. This script itself makes no network calls.
+Do not run this at the same time as `cli.py fetch ...`/`cli.py backfill
+...` or another backfill_*.py/fetch_*.py script -- see README.md's
+"Pipeline rules" for the concurrent-cache-write hazard. This script
+itself makes no network calls.
 
 Usage:
     python3 load_birth_death_places.py

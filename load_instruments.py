@@ -1,6 +1,6 @@
 """Load instruments/composer_instruments from the "instrument" (P1303)
 attribute already fetched into wikidata_relationships.json by
-fetch_wikidata_relationships.py / backfill_wikidata_attributes.py.
+`cli.py fetch composers` / `cli.py backfill cache --field attributes`.
 
 Unlike load_nationalities.py there's no free-text parsing here -- each
 attribute value is already a clean Wikidata QID, resolved to a name via the
@@ -64,11 +64,8 @@ def load():
                             # real composers.id yet, so there's nothing to link.
                             continue
                         if not composer_id.isdigit() or int(composer_id) not in real_composer_ids:
-                            # A composer merged/deleted (e.g. by
-                            # merge_composers.py) since this cache entry was
-                            # written -- the cache itself isn't updated by a
-                            # merge, so a stale numeric key can outlive the
-                            # composers row it once pointed to.
+                            # Stale cache id -- see README.md's "Pipeline
+                            # rules" (stale cache ids after a merge).
                             stale += 1
                             continue
                         instrument_qids = entry.get("attributes", {}).get("instrument", [])

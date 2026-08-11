@@ -1,7 +1,8 @@
-"""Fold wikidata_relationships_vm.json (written by fetch_wikidata_by_era.py
---through-vm -- a second instance run locally with its requests proxied
-through a VM over SSH, see that flag's docstring) back into the main
-wikidata_relationships.json, once the proxied run is done.
+"""Fold wikidata_relationships_vm.json (written by `cli.py fetch composers
+--era ... --through-vm` -- a second instance run locally with its requests
+proxied through a VM over SSH, see that flag's help text in
+fetch_composers.py) back into the main wikidata_relationships.json, once
+the proxied run is done.
 
 Only adds composer keys the main file doesn't already have -- never
 overwrites an existing entry, even if the VM file somehow has a different

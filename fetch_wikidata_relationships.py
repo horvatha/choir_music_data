@@ -38,15 +38,15 @@ OUTPUT_FILE = "wikidata_relationships.json"
 BASE_LABEL_LANGUAGES = ["en", "hu", "ru"]
 
 # The languages this repo fetches translated *domain data* names in (e.g.
-# instrument_names, see fetch_instrument_names.py) -- distinct from
-# BASE_LABEL_LANGUAGES above, which is about resolving a single display
-# label for people/places referenced in relationships/attributes, not
-# about building a full per-language translation table. See CLAUDE.md's
-# "Target languages for translated names" for the source of this list;
-# keep the two in sync if it changes. "en" is included in the fetch even
-# though English is usually already the base/default name -- callers
-# should skip writing it when it's identical to the row's existing name
-# (see load_instrument_names.py).
+# instrument_names, see `cli.py fetch labels --entity instrument`) --
+# distinct from BASE_LABEL_LANGUAGES above, which is about resolving a
+# single display label for people/places referenced in relationships/
+# attributes, not about building a full per-language translation table.
+# See CLAUDE.md's "Target languages for translated names" for the source
+# of this list; keep the two in sync if it changes. "en" is included in
+# the fetch even though English is usually already the base/default name
+# -- callers should skip writing it when it's identical to the row's
+# existing name (see `cli.py load names --entity instrument`).
 TARGET_LANGUAGES = ["hu", "es", "fr", "en", "de", "cs", "uk", "it", "hr", "pl", "ru", "nl"]
 
 # Additionally ask for a composer's own native-language label, beyond the

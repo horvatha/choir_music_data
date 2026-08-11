@@ -1,6 +1,7 @@
 """Load genres/genre_names/work_genres from the "form_of_creative_work"
 field (Wikidata P7937) of the "work_attributes" cache, and the "genre_labels"
-cache fetch_genre_names.py wrote -- both in wikidata_relationships.json.
+cache `cli.py fetch labels --entity genre` wrote -- both in
+wikidata_relationships.json.
 
 Fully rebuilds all three tables each run (truncate first) -- same reasoning
 as load_tags.py: reruns after a fresh fetch shouldn't leave stale links for
@@ -10,8 +11,8 @@ wikidata_id (not name) is the upsert key for genres, same as tags -- two
 distinct genre QIDs can share an identical English label.
 
 "en" is skipped in genre_names when it's identical to the genre's own
-genres.name -- same redundancy-avoidance as load_instrument_names.py/
-load_work_names.py.
+genres.name -- same redundancy-avoidance as `cli.py load names` (see
+load_names.py's upsert_entity_names(), which this script also calls).
 
 Usage:
     python3 load_genres.py

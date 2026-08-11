@@ -4,10 +4,11 @@ resolved -- about 45/73 already are, from unrelated fetches that happened
 to reference the same instrument QIDs (e.g. a composer's own played-
 instrument claims).
 
-Unlike fetch_genre_names.py/fetch_key_names.py this doesn't build a
-per-entity translation cache -- instrumentation reuses the composers'
-instruments/instrument_names tables (see load_work_instruments.py), and
-that table's own fetch_instrument_names.py already handles translations
+Unlike `cli.py fetch labels --entity genre`/`--entity key` this doesn't
+build a per-entity translation cache -- instrumentation reuses the
+composers' instruments/instrument_names tables (see
+load_work_instruments.py), and that table's own
+`cli.py fetch labels --entity instrument` already handles translations
 for every row once it exists in instruments, whatever added it. This
 script only needs to get a new instrument QID a *name* good enough to
 insert a row with -- same one-best-label approach load_instruments.py
