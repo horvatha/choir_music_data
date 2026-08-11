@@ -13,7 +13,9 @@ import os
 import re
 from operator import itemgetter
 from pathlib import Path
+from typing import List
 
+import pandas as pd
 import toolz
 
 composers = [
@@ -153,6 +155,30 @@ def get_alternative_names() -> dict:
 def create_composer_dict():
     for file in files.splitlines():
         print(f'mv "composer_articles/old/{file}" composer_articles/old/redirects')
+
+
+def get_not_unique_composers(era1, era2):
+    df1, df2 = get_eras([era1, era2])
+    df = df1.merge(df2, on=['article'])
+    return list(df.article)
+
+
+def get_eras(eras: List[str]) -> List[pd.DataFrame]:
+    return [pd.read_csv(f"composers_{era}.csv") for era in eras]
+
+
+def get_possible_duplicates(df):
+    group_by = toolz.groupby(
+        itemgetter(0),
+        zip(df.name, df.birth)
+    )
+
+    maybe_duplicates = (v for k, v in group_by.items() if len(v) > 1)
+    return maybe_duplicates
+
+
+def print_possible_duplicates(df):
+    print_iterable_separate_lines(str(d) for d in get_possible_duplicates(df))
 
 
 if __name__ == '__main__':
