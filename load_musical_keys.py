@@ -18,6 +18,7 @@ import json
 import psycopg2
 
 from fetch_wikidata_relationships import OUTPUT_FILE, TARGET_LANGUAGES
+from load_names import upsert_entity_names
 
 UPSERT_KEY_SQL = """
     INSERT INTO musical_keys (name, wikidata_id) VALUES (%s, %s)
@@ -58,12 +59,10 @@ def load():
                     base_name = labels.get("en") or next(iter(labels.values()), qid)
                     cur.execute(UPSERT_KEY_SQL, (base_name, qid))
                     key_id_by_qid[qid] = cur.fetchone()[0]
-                    for language, name in labels.items():
-                        if language not in TARGET_LANGUAGES:
-                            continue
-                        if language == "en" and name == base_name:
-                            continue
-                        cur.execute(UPSERT_KEY_NAME_SQL, (key_id_by_qid[qid], language, name))
+                    upsert_entity_names(
+                        cur, UPSERT_KEY_NAME_SQL, key_id_by_qid[qid], qid, labels, base_name,
+                        target_languages=TARGET_LANGUAGES,
+                    )
 
                 links = 0
                 cur.execute("SELECT id, wikidata_id FROM works WHERE wikidata_id IS NOT NULL")
