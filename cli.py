@@ -11,6 +11,7 @@ only wires them together.
 """
 import click
 
+from fetch_labels import labels_command
 from load_names import names_command
 
 
@@ -34,6 +35,7 @@ def backfill():
     """Patch missing/stale fields into the Wikidata cache."""
 
 
+fetch.add_command(labels_command)
 load.add_command(names_command)
 
 
