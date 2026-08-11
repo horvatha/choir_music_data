@@ -1,0 +1,28 @@
+Links:
+* [[Q1267150]] — wrongly-linked QID currently on both DB rows (this is a disambiguation page, not a person)
+* [[Q373961]] — William Reed (Canadian musician), 1859–1945 — correct QID for composers.id 2804
+* [[Q8017433]] — William Reed (English composer), 1910–2002 — correct QID for composers.id 3923
+* https://en.wikipedia.org/wiki/William_Reed — disambiguation page both were matched against
+
+== Wrong QID: two different "William Reed" composers share one disambiguation-page QID ==
+
+Not a Wikidata problem — Wikidata's own data is correct here; [[Q1267150]] is
+correctly typed as a Wikimedia disambiguation page for the many people named
+"William Reed". The bug is on our side: whatever fetch step resolved these
+two composers' QIDs matched the ambiguous name straight to the disambiguation
+page instead of picking the specific person, so both ended up sharing
+[[Q1267150]] as their {{P|214}} (or however wikidata_id got populated) value.
+
+Found while auditing the DB for duplicate composer rows: two rows carry the
+same wikidata_id (Q1267150) but have different birth/death years (1859–1945
+vs 1910–2002), which is what exposed the mismatch — a real duplicate would
+have identical dates.
+
+'''Fix needed (in this repo's DB, not on Wikidata):'''
+* composers.id 2804 "William Reed" (1859–1945, Canadian organist/conductor/composer) → set wikidata_id to [[Q373961]]
+* composers.id 3923 "William Reed" (1910–2002, English composer) → set wikidata_id to [[Q8017433]]
+
+After the wikidata_id correction, re-running the usual alt-name/wikilink
+backfill scripts against each corrected QID would be worth doing too, since
+whatever data those fetches would have pulled from the disambiguation page
+QID (if any) may be wrong or missing entirely.
