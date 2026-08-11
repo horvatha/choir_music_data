@@ -11,6 +11,7 @@ only wires them together.
 """
 import click
 
+from backfill_cache import cache_command
 from fetch_labels import labels_command
 from load_names import names_command
 
@@ -37,6 +38,7 @@ def backfill():
 
 fetch.add_command(labels_command)
 load.add_command(names_command)
+backfill.add_command(cache_command)
 
 
 if __name__ == "__main__":
