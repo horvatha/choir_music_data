@@ -319,6 +319,16 @@ CREATE TABLE composer_nationalities (
     composer_id     INTEGER NOT NULL REFERENCES composers(id) ON DELETE CASCADE,
     nationality_id  INTEGER NOT NULL REFERENCES nationalities(id) ON DELETE CASCADE,
     is_origin_only  BOOLEAN NOT NULL DEFAULT FALSE,
+    -- TRUE when the row was assigned purely by trusting a Wikidata
+    -- citizenship (P27) claim -> nationality mapping at face value (e.g.
+    -- "citizenship: France" -> French), with no independent check of the
+    -- composer's own Wikipedia article or another source -- see the
+    -- nationality_citizenship_review.md "bulk assignment" pass. FALSE
+    -- (default) means either it was cross-checked against a source, or it
+    -- was never citizenship-derived at all (e.g. set by the original CSV
+    -- load). Not itself a correctness signal -- a need_to_check=TRUE row
+    -- may well be right, it just hasn't been verified beyond the raw claim.
+    need_to_check   BOOLEAN NOT NULL DEFAULT FALSE,
     PRIMARY KEY (composer_id, nationality_id)
 );
 

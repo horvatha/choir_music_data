@@ -827,10 +827,21 @@ composer rather than guessing "English" by default.
 - [10011] Cesare Zoilo (?–1626)
 
 ## Principality of Transylvania (1)
-- [10013] Joseph Filtsch (1782–1860)
+- [10013] Joseph Filtsch (1782–1860) -- DELETED. Own Wikidata occupation is simply "priest"
+  (description: "Transylvanian priest"), no music connection at all -- pulled in only via the
+  relation-discovery pipeline as the father of Carl Filtsch (Q577658), the genuinely famous
+  child-prodigy pianist/composer (Chopin/Liszt student, d. age 15), who is already correctly in
+  the DB separately as composer 7511 "Filtsch Károly" (Hungarian). Same pattern as the
+  Popper/Szymanowska deletions above.
 
 ## County of Flanders (1)
-- [10040] Alard du Gaucquier (?–)
+- [10040] Alard du Gaucquier (?–) -- RESOLVED Franco-Flemish. A real composer (not a spurious
+  relation like Popper/Szymanowska/Filtsch) -- choirmaster/vice-Kapellmeister at the Imperial
+  Chapel, born Lille c. 1534. Multiple sources classify him under the standard musicological
+  "Franco-Flemish School" category (data/wikipedia_pages/Q11904736.en.html), which this DB
+  already tracks as its own nationality (matches existing entries like Jean Japart, Johannes de
+  Limburgia) rather than forcing a modern French/Belgian split that wouldn't reflect how this
+  era/region is actually categorized.
 
 ## Ukrainian People's Republic (1)
 - [10052] Hryhoriĭ Mytrofanovych Davydovsʹkyĭ (1866–1952)
@@ -845,7 +856,9 @@ composer rather than guessing "English" by default.
 - [10075] Marcel Khalife (1950–)
 
 ## New Spain (1)
-- [10087] Miguel Pontaza (?–1807)
+- [10087] Miguel Pontaza (?–1807) -- RESOLVED Guatemalan, see the "MULTI-CITIZENSHIP
+  RESOLUTIONS" list near the top of this file -- New Spain was just the colonial-era
+  administrative citizenship, not a personal identity distinct from Guatemala below.
 
 ## Guatemala (1)
 - [10087] Miguel Pontaza (?–1807)
