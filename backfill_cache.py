@@ -27,6 +27,7 @@ from fetch_wikidata_relationships import (
     api_get,
     extract_attributes,
     extract_dates,
+    extract_image,
     extract_relationships,
     extract_sitelinks,
     get_labels,
@@ -61,6 +62,7 @@ def _sitelinks_apply(e, entity, family):
 
 def _attributes_apply(e, entity, family):
     e["attributes"] = extract_attributes(entity)
+    e.update(extract_image(entity))
 
 
 def _relationships_apply(e, entity, family):

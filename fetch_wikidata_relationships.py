@@ -171,6 +171,7 @@ ATTRIBUTE_PROPS = {
     "P463": "member_of",
     "P1416": "affiliation",
     "P21": "gender",
+    "P106": "occupation",
 }
 
 def use_socks_proxy(port=1080):
@@ -355,44 +356,112 @@ def extract_attributes(entity):
     return _extract_props(entity, ATTRIBUTE_PROPS)
 
 
+IMAGE_PROP = "P18"
+
+
+def extract_image(entity):
+    """{"image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ludwig%20van%20Beethoven.jpg"}
+    -- P18 (image) is a Commons media filename, a plain string
+    datavalue, not an entity reference like every ATTRIBUTE_PROPS entry
+    -- can't go through _extract_props (which expects value["id"]), same
+    "different claim shape, keep it separate" reasoning as
+    extract_dates() above. Preferred-rank claim wins when there's more
+    than one, same tiebreak as extract_dates().
+
+    Special:FilePath redirects to the actual file (302, to whichever of
+    Commons' MD5-hashed upload.wikimedia.org paths it currently lives
+    at) without this repo needing to compute that hash itself, and works
+    unchanged for a thumbnail too (append e.g. "?width=300"). Stores the
+    URL, not the bytes -- downloading is a separate, later step."""
+    claims = entity.get("claims", {})
+    candidates = []
+    for c in claims.get(IMAGE_PROP, []):
+        if not _not_deprecated(c):
+            continue
+        datavalue = c.get("mainsnak", {}).get("datavalue", {})
+        if datavalue.get("type") != "string":
+            continue
+        filename = datavalue.get("value")
+        if filename:
+            candidates.append((c.get("rank") == "preferred", filename))
+    if not candidates:
+        return {}
+    candidates.sort(key=lambda pair: not pair[0])
+    filename = candidates[0][1]
+    url = "https://commons.wikimedia.org/wiki/Special:FilePath/" + urllib.parse.quote(filename)
+    return {"image_url": url}
+
+
 DATE_PROPS = {"P569": "birth", "P570": "death"}
 WIKIDATA_DATE_RE = re.compile(r"^([+-]\d+)-(\d{2})-(\d{2})T")
+WIKIDATA_YEAR_RE = re.compile(r"^([+-]\d+)-")
+
+# Wikidata time-value precision -> this repo's date_precision enum
+# (schema.sql), by the same round-number-as-range-start convention
+# load_composers.py's DECADE_RE already uses for CSV text ("1650" for a
+# decade means 1650-1659, not "sometime touching 1650"). 11=day,
+# 10=month, 9=year all resolve to a single known year (year_upper stays
+# None); 8=decade/7=century/6=millennium each get a computed upper bound.
+_YEAR_PRECISION_SPANS = {9: 0, 10: 0, 11: 0, 8: 9, 7: 99, 6: 999}
 
 
 def extract_dates(entity):
-    """{"birth": "1756-01-27", "death": "1791-12-05"} -- only for claims
-    with day-level precision (Wikidata's time values carry their own
-    precision flag, 11=day, 10=month, 9=year, coarser below that); a
-    year-only or month-only date is already covered by birth_year/
-    death_year, so it's skipped here rather than stored as a fake exact
-    date. Kept as its own dict (not folded into attributes) so it can never
-    collide with the "iterating a string yields characters" bug class that
-    attributes' occasional _text fields caused -- see the isinstance(qs,
-    list) guard elsewhere in this file."""
+    """{"birth": "1756-01-27", "death": "1791-12-05", "birth_year_precision":
+    {"year": 1650, "year_upper": None, "precision": "exact"}, ...}.
+
+    "birth"/"death" are only ever set from a day-level-precision claim
+    (Wikidata's time values carry their own precision flag, 11=day,
+    10=month, 9=year, coarser below that) -- these feed composers.
+    birth_date/death_date directly (load_birth_death_places.py), so a
+    fake exact date must never be stored there for a coarser claim.
+
+    "birth_year_precision"/"death_year_precision" are the fallback for
+    composers with no day-precision claim at all -- common (see
+    _YEAR_PRECISION_SPANS above): a composer whose only P569 claim is
+    year/decade/century/millennium precision used to be silently
+    indistinguishable here from one Wikidata has zero birth information
+    for, even though the claim is real and load_composers.py's own CSV
+    parser already treats an equivalent range like "1650" as usable data
+    (COALESCE'd into composers.birth_year/_year_upper/_precision by
+    load_birth_death_places.py, only when nothing more specific already
+    won). Kept as its own dict (not folded into attributes) so it can
+    never collide with the "iterating a string yields characters" bug
+    class that attributes' occasional _text fields caused -- see the
+    isinstance(qs, list) guard elsewhere in this file."""
     claims = entity.get("claims", {})
     result = {}
     for prop, key in DATE_PROPS.items():
-        candidates = []
+        day_candidates = []
+        year_candidates = []
         for c in claims.get(prop, []):
             if not _not_deprecated(c):
                 continue
             datavalue = c.get("mainsnak", {}).get("datavalue", {})
             value = datavalue.get("value", {})
-            if datavalue.get("type") != "time" or value.get("precision") != 11:
+            if datavalue.get("type") != "time":
                 continue
-            m = WIKIDATA_DATE_RE.match(value.get("time", ""))
-            if m:
-                year, month, day = m.groups()
-                # Even a non-deprecated, day-precision claim can still be a
-                # calendar-invalid date in practice (bad upstream data) --
-                # validate before trusting it, same reasoning as the rank
-                # check just above: don't propagate what's already wrong.
-                try:
-                    date(int(year), int(month), int(day))
-                except ValueError:
-                    continue
-                candidates.append((c.get("rank") == "preferred", f"{int(year):04d}-{month}-{day}"))
-        if candidates:
+            precision = value.get("precision")
+            preferred = c.get("rank") == "preferred"
+            if precision == 11:
+                m = WIKIDATA_DATE_RE.match(value.get("time", ""))
+                if m:
+                    year, month, day = m.groups()
+                    # Even a non-deprecated, day-precision claim can still
+                    # be a calendar-invalid date in practice (bad upstream
+                    # data) -- validate before trusting it, same reasoning
+                    # as the rank check above: don't propagate what's
+                    # already wrong.
+                    try:
+                        date(int(year), int(month), int(day))
+                    except ValueError:
+                        pass
+                    else:
+                        day_candidates.append((preferred, f"{int(year):04d}-{month}-{day}"))
+            if precision in _YEAR_PRECISION_SPANS:
+                m = WIKIDATA_YEAR_RE.match(value.get("time", ""))
+                if m:
+                    year_candidates.append((preferred, precision, int(m.group(1))))
+        if day_candidates:
             # When Wikidata has more than one day-precision claim for the
             # same property (real case found: Maddalena Laura Sirmen's P569
             # had a "normal"-rank 1735 imported from enwiki alongside a
@@ -402,8 +471,19 @@ def extract_dates(entity):
             # there's no preferred one, or several -- not a guarantee of
             # correctness, just deterministic and better than ignoring rank
             # entirely.
-            candidates.sort(key=lambda pair: not pair[0])
-            result[key] = candidates[0][1]
+            day_candidates.sort(key=lambda pair: not pair[0])
+            result[key] = day_candidates[0][1]
+        if year_candidates:
+            # Same preferred-first tiebreak, then most precise (highest
+            # precision number) among equally-ranked claims.
+            year_candidates.sort(key=lambda t: (not t[0], -t[1]))
+            _, precision, year = year_candidates[0]
+            span = _YEAR_PRECISION_SPANS[precision]
+            result[f"{key}_year_precision"] = {
+                "year": year,
+                "year_upper": year + span if span else None,
+                "precision": "exact" if span == 0 else "range",
+            }
     return result
 
 

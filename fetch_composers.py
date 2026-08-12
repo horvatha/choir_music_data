@@ -49,6 +49,7 @@ from fetch_wikidata_relationships import (
     OUTPUT_FILE,
     extract_attributes,
     extract_dates,
+    extract_image,
     extract_relationships,
     extract_sitelinks,
     get_entity,
@@ -131,10 +132,12 @@ def _fetch_one(cur, composer_id, name, entries, languages):
     attributes = extract_attributes(entity)
     sitelinks = extract_sitelinks(entity)
     dates = extract_dates(entity)
+    image = extract_image(entity)
     entries[key] = {
         "name": name, "qid": qid, "labels": labels,
         "relationships": relationships, "attributes": attributes,
         "sitelinks": sitelinks, "dates": dates, "applied_to_db": True,
+        **image,
     }
     print(f"  {composer_id} {name}: qid={qid} labels={list(labels)} "
           f"relationships={list(relationships)} attributes={list(attributes)} "

@@ -98,11 +98,32 @@ UPSERT_PLACE_QID_SQL = """
 UPDATE_COMPOSER_SQL = """
     UPDATE composers SET
         birth_date = %(birth_date)s, birth_place_id = %(birth_place_id)s,
-        birth_year = COALESCE(birth_year, EXTRACT(YEAR FROM %(birth_date)s::date)::int),
+        birth_year = COALESCE(birth_year, %(birth_year)s),
+        birth_year_upper = COALESCE(birth_year_upper, %(birth_year_upper)s),
+        birth_precision = COALESCE(birth_precision, %(birth_precision)s::date_precision),
         death_date = %(death_date)s, death_place_id = %(death_place_id)s,
-        death_year = COALESCE(death_year, EXTRACT(YEAR FROM %(death_date)s::date)::int)
+        death_year = COALESCE(death_year, %(death_year)s),
+        death_year_upper = COALESCE(death_year_upper, %(death_year_upper)s),
+        death_precision = COALESCE(death_precision, %(death_precision)s::date_precision)
     WHERE id = %(composer_id)s
 """
+
+
+def _year_fallback(existing_year, date_str, year_precision):
+    """Resolve birth_year/_year_upper/_precision together as one atomic
+    choice, in priority order: existing DB value > day-precision Wikidata
+    date (extract_dates()'s "birth"/"death") > coarser year-precision
+    Wikidata claim ("birth_year_precision"/"death_year_precision", see
+    fetch_wikidata_relationships.py). year_upper/precision are only ever
+    non-None in the third case, so COALESCE-ing them into the DB can
+    never clobber an already-exact date's correctly-NULL year_upper."""
+    if existing_year is not None:
+        return existing_year, None, None
+    if date_str:
+        return int(date_str[:4]), None, None
+    if year_precision:
+        return year_precision["year"], year_precision.get("year_upper"), year_precision.get("precision")
+    return None, None, None
 
 
 def order_chain(qids, place_claims):
@@ -437,15 +458,19 @@ def main():
 
                     cid = int(composer_id)
                     existing_birth_year, existing_death_year = composer_years.get(cid, (None, None))
-                    birth_year = existing_birth_year or (int(dates["birth"][:4]) if dates.get("birth") else None)
-                    death_year = existing_death_year or (int(dates["death"][:4]) if dates.get("death") else None)
+                    birth_year, birth_year_upper, birth_precision = _year_fallback(
+                        existing_birth_year, dates.get("birth"), dates.get("birth_year_precision"))
+                    death_year, death_year_upper, death_precision = _year_fallback(
+                        existing_death_year, dates.get("death"), dates.get("death_year_precision"))
 
                     cur.execute(UPDATE_COMPOSER_SQL, {
                         "composer_id": cid,
                         "birth_date": dates.get("birth"),
                         "birth_place_id": resolve(attributes.get("place_of_birth", []), birth_year),
+                        "birth_year": birth_year, "birth_year_upper": birth_year_upper, "birth_precision": birth_precision,
                         "death_date": dates.get("death"),
                         "death_place_id": resolve(attributes.get("place_of_death", []), death_year),
+                        "death_year": death_year, "death_year_upper": death_year_upper, "death_precision": death_precision,
                     })
                     updated += 1
     finally:
