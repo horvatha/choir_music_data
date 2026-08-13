@@ -1,0 +1,38 @@
+Links:
+* [[Q4453717]] — Ignaz Amadeus Tedesco (1815–1882), pianist and music teacher
+* https://www.jewishencyclopedia.com/articles/14282-tedesco-ignaz-amadeus
+
+== Sole citizenship (P27) claim is unsourced, and doesn't reflect his documented birth/origin ==
+
+Also a request for editors to double-check, not a confirmed error — same
+spirit as the Popper/Szymanowska/Barrie note in this directory.
+
+[[Q4453717]] carries exactly one {{P|27}} (citizenship) value: Russian
+Empire ([[Q34266]]), with '''no reference attached to the claim at all'''.
+No other citizenship claim exists on the item — nothing for the Austrian
+Empire, Bohemia, or any entity matching where he was actually born.
+
+The independent Jewish Encyclopedia entry (linked above) states he was born
+in Prague in 1817 (then part of the Austrian Empire) and studied there under
+Wenzel Tomaschek, only settling in Odesa — within the Russian Empire — in
+1840, as an adult, for his career. Prague/Bohemia does not appear anywhere
+in his Wikidata claims, even though it's his place of birth and musical
+training.
+
+We found this while cross-referencing his citizenship for a nationality
+classification of our own and initially assigned "Russian" purely by
+trusting this claim at face value, before the lack of a source and the
+mismatch with his documented biography prompted a second look.
+
+'''Suggested fix (for Wikidata editors to judge, not something we can do
+ourselves):''' either add a {{P|27}}=Austrian Empire ([[Q28513]]) claim
+reflecting his birth/origin (the existing Russian Empire claim would still
+be correct for his later, adult citizenship — both can coexist, as is
+already the pattern for many composers of this era on Wikidata), or at
+minimum attach a source to the existing claim so its basis is checkable.
+
+(For context: our own database now records him as Austrian rather than
+Russian, based on the Jewish Encyclopedia source above, since that's the
+better-supported description of his primary origin/identity — not a claim
+that Wikidata's Russian Empire citizenship is factually wrong, just that
+it's unsourced and tells only part of the story.)

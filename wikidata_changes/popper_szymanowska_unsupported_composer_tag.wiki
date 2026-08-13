@@ -1,0 +1,60 @@
+Links:
+* [[Q1239198]] — Leó Popper (1886–1911), Hungarian art historian/painter/critic
+* [[Q5058073]] — Celina Szymanowska (1812–1855), Polish, daughter of composer Maria Szymanowska, wife of poet Adam Mickiewicz
+* [[Q19600352]] — Royden Barrie (1890–1948), pseudonym of Rodney Bennett, British writer and poet
+* https://hu.wikipedia.org/wiki/Popper_Le%C3%B3
+* https://en.wikipedia.org/wiki/Celina_Szymanowska
+* https://pl.wikipedia.org/wiki/Celina_Mickiewiczowa
+* https://en.wikipedia.org/wiki/Royden_Barrie
+
+== Three people carry a "composer" ({{P|106}}) occupation with no documented musical work behind it ==
+
+This is a genuine request for Wikidata editors to double-check, not a confirmed
+error on either side — we (a third-party database of concert-music composers,
+not affiliated with Wikidata) found these three while auditing our own data and
+couldn't independently verify the composer tag against any source, but we may
+simply have missed one.
+
+'''Leó Popper''' ([[Q1239198]]) carries four {{P|106}} values: art historian
+([[Q1792450]]), painter ([[Q1028181]]), composer ([[Q36834]]), and art critic
+([[Q4164507]]). Wikidata's own short description is "painter (1886-1911)" —
+no mention of composing. His Hungarian Wikipedia article (linked above)
+describes him only as "magyar művészettörténész, festő, kritikus" (Hungarian
+art historian, painter, critic) and gives no biographical detail suggesting
+any musical activity. He is the son of the cellist-composer David Popper ([[Q354927]]), which may
+be how the composer tag was originally added (by association with his
+father rather than his own work), but we found no direct source for it.
+
+'''Celina Szymanowska''' ([[Q5058073]]) has exactly one {{P|106}} value:
+composer ([[Q36834]]), and no other occupation claim at all. Wikidata's own
+short description is "wife of Polish poet Adam Mickiewicz (1812–1855)". Both
+her English and Polish Wikipedia articles (linked above — Polish being her
+native language and the more detailed of the two) describe her exclusively
+as the daughter of composer/pianist Maria Szymanowska and the wife of poet
+Adam Mickiewicz, mother of his six children — neither mentions any
+composition, performance, or other musical activity of her own, despite
+fairly detailed biographical coverage in both.
+
+'''Royden Barrie''' ([[Q19600352]], a pseudonym used by Rodney Bennett) carries
+four {{P|106}} values including composer ([[Q36834]]), alongside poet
+([[Q36180]]) and writer ([[Q49757]]). Wikidata's own short description is
+"British writer and poet" — no mention of composing. His English Wikipedia
+article (linked above) describes him as a playwright, children's author, and
+lyricist who wrote words for songs by Eric Coates, Hayden Wood, Roger Quilter,
+and Martin Shaw — i.e. he supplied the words, not the music, for those songs.
+He is the father of the actual composer Richard Rodney Bennett, which may be
+the same kind of by-association mix-up as the Popper case above.
+
+'''Why we're reporting this instead of just fixing our own data:''' unlike
+the William Reed case in this same directory, this isn't a QID-matching bug
+on our side — we're confident these are the correct Wikidata items for all
+three people, we're just unable to confirm the composer occupation claim
+itself from either their Wikidata entry's references or the Wikipedia
+articles linked from it. If a source does exist for any of them actually
+having composed something, please disregard this note — we'd genuinely
+rather be wrong here than remove a real (if minor/uncredited) composer's
+data.
+
+(For context: all three were removed from our own composers database as a
+result of this finding, since our project's scope is specifically people
+whose primary documented reputation is as a composer of concert music.)

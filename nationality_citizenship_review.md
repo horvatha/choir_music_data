@@ -927,7 +927,12 @@ composer rather than guessing "English" by default.
 - [10454] Victor Smolski (1969–)
 
 ## Free City of Danzig (1)
-- [10487] Holger Czukay (1938–2017)
+- [10487] Holger Czukay (1938–2017) -- CONFIRMED German (already bulk-assigned via
+  Germany/Nazi Germany/West Germany/German Reich, but double-checked given the Free City of
+  Danzig's genuinely contested history -- en.wikipedia explicitly "was a German musician",
+  co-founder of Can, career entirely Cologne-based; born in Danzig in 1938 while it was still
+  the semi-autonomous Free City, before Nazi annexation in 1939, data/wikipedia_pages/Q699355.en.html).
+  need_to_check flipped to FALSE for this row now that it's actually been cross-checked.
 
 ## Kingdom of Bohemia (1)
 - [10502] Otakar Ševčík (1852–1934) -- RESOLVED Czech, see Czechoslovakia above
@@ -945,89 +950,151 @@ composer rather than guessing "English" by default.
 - [10566] Peeter Volkonski (1954–)
 
 ## No citizenship on Wikidata at all (86)
-- [9992] Martha von Flotow (?–)
-- [9993] Mary Paramore Comber (?–)
-- [10001] Karoly Noszeda (?–)
-- [10008] Fabrizio II Gesualdo (?–)
-- [10012] Дяченко Григорій Онуфрійович (1896–)
-- [10023] Christopher Lyndon-Gee (?–)
-- [10025] Dürdana Amirova (?–)
-- [10049] Glushkov Petro Tarasovich (1889–1966)
-- [10053] shtvan Ferentsovich Marton (1923–1996)
-- [10067] Ali Brezovský (1940–)
-- [10089] Conrad Berens (?–)
-- [10093] Florian Zajíc (1853–1926)
-- [10094] Francesco Maria Cattaneo (?–1758)
-- [10096] Franz Xaver Gruber (1826–1871)
-- [10104] Giovanni Battista Mancini (1714–1800)
-- [10105] Giovanni Battista Tibaldi (?–)
-- [10108] Georg Jacob Vollweiler (1770–1847)
-- [10112] Hans Georg Benda (1686–1757)
-- [10113] Francesco Barbella (?–)
-- [10119] Pablo M Berutti (1870–)
-- [10133] Ilya Semyonovich Aisberg (1868–1942)
-- [10138] Johann Aloys Miksch (1765–1845)
-- [10147] Giovanni Domenico Rognoni Taeggio (?–)
-- [10154] Alessandro Toeschi (?–1758)
-- [10156] James Robert Sterndale-Bennett (?–)
-- [10157] Philip James Meyer (?–)
-- [10159] Wilhelm Hanser (1738–1796)
-- [10160] Royden Barrie (?–)
-- [10167] Heinrich van Eyken (1861–1908)
-- [10170] Ottavio Catalani (?–)
-- [10175] Joseph Franz Wolf (1802–1842)
-- [10179] Domenico Tritto (1776–)
-- [10186] José Ma. Alcácer (?–)
-- [10191] Floriano Maria Arresti (1667–)
-- [10196] Matous Habermann (?–)
-- [10218] Ludovit Rajter starsi (1880–1945)
-- [10220] Giuseppe Pilotti‏ (1785–1838)
-- [10221] François de Godzinsky (1878–)
-- [10226] Johann Kusser st. (?–)
-- [10235] Emil Kühnel (1881–1971)
-- [10238] Charles Louis Maucourt (?–)
-- [10242] Аллаһияр Вәлиуллин (1924–)
-- [10245] Antonio Puccini (?–1832)
-- [10246] Lourenço Ribeiro (?–)
-- [10263] Heinrich Praeger (1783–1854)
-- [10273] Gaetano Carpani (?–1785)
-- [10291] Petr Petrovich Evstafʹev (1861–1900)
-- [10298] Benedetto Neri (1771–1841)
-- [10299] Karel Stecker (1861–1918)
-- [10302] Franz Seraph Cramer (1783–1835)
-- [10307] Santino Garsi da Parma (1542–1604)
-- [10311] Johann Christoph Walther (1715–1771)
-- [10312] Johann Konrad Schlick (?–)
-- [10313] Michele Giuliani (1801–1867)
-- [10315] Matthias Durst (1815–1875)
-- [10332] Félix Rault (?–)
-- [10388] Mathias Haydn (1699–1763)
-- [10390] Eduard Zaritsky (1946–2018)
-- [10393] Esaias Reusner der Ältere (?–)
-- [10394] Sophonias Päminger (?–)
-- [10395] Girolamo Crescentini (1762–1846)
-- [10413] Edmond Diet (1854–1924)
-- [10414] Arthur Kalkbrenner (?–)
-- [10416] Sigismund Päminger (?–)
-- [10425] Emili Valdés Perlasia (?–)
-- [10426] Julià Vilaseca (?–1929)
-- [10432] Heinrich Romberg (1802–1859)
-- [10443] Domenico da Piacenza (?–)
-- [10444] Moritz Schön (?–1885)
-- [10451] Luigi Piccinni (?–1827)
-- [10457] Agostino Bendinelli (1635–)
-- [10465] Vincent Lübeck (1684–)
-- [10474] Telesforo Righi (1842–1930)
-- [10486] Georg Hellmesberger (1830–1852)
-- [10514] Otto Reinsdorf (1848–1890)
-- [10524] Wilhelm Kuhe (1823–1912)
-- [10532] Giulietta Guicciardi (1782–1856)
-- [10535] Giovanni Andrea Bontempi (?–1705)
-- [10542] Giacomo Insanguine (1728–1795)
-- [10543] Vincenzo Manfredini (1737–1799)
-- [10547] Alessandro Gardane (?–)
-- [10549] Albert Noelte (?–)
-- [10550] Theodor Blumer (1854–1932)
-- [10551] Wilhelm Müller (?–)
-- [10552] Maxmilian Koblížek (1866–1947)
-- [10553] Jaroslav Ušák (1891–1965)
+
+No P27 at all on any of these, so a different method than the rest of this file: P19
+(birthplace)'s modern country, cross-checked against Wikipedia when available, name patterns,
+and family associations when nothing else exists. All 69 in the second batch below (birthplace-
+only, no explicit source confirming the specific person) are need_to_check=TRUE -- weaker
+evidence than even the citizenship-inferred rows elsewhere in this file, since there's no
+citizenship claim at all to start from. Two corrections worth flagging: Mathias Haydn
+([10388], Joseph Haydn's father) was automatically resolved to "Germany" by the birthplace
+lookup, but he's a well-documented figure actually born in Hainburg, Archduchy of *Austria* --
+corrected by hand. "Tatar" was added as a new nationality (id 6989) for [10242], matching the
+existing "Chuvash"/"Catalan" granular-ethnicity precedent, rather than defaulting to generic
+Russian for someone with a clearly Tatar name born/died in Tatarstan (Kazan).
+
+Also found in this batch, matching the Popper/Szymanowska "questionable composer tag" pattern
+(see wikidata_changes/): [10160] Royden Barrie (pseudonym of Rodney Bennett) has a composer
+{{P|106}} on Wikidata, but its own description calls him "British writer and poet" -- his actual
+documented work is song *lyrics* for music composed by Eric Coates, Roger Quilter, and others,
+not composition itself. [10532] Giulietta Guicciardi (Beethoven's Moonlight Sonata dedicatee)
+has *no* occupation claim on Wikidata at all -- described purely as "Austrian aristocrat, briefly
+a piano student of Ludwig van Beethoven".
+
+- [9992] Martha von Flotow (?–) -- RESOLVED German, need_to_check=TRUE. No P19/wiki article at
+  all; assigned from the surname alone (a real German noble/musical surname, cf. composer
+  Friedrich von Flotow), no biographical confirmation found anywhere.
+- [9993] Mary Paramore Comber (?–) -- RESOLVED British. Genealogy record: born St Botolph
+  without Bishopsgate, London, 1833; died Belley, Madras, India, 1866 -- student of Julius
+  Benedict, Wikidata P106 includes organist + composer.
+- [10001] Karoly Noszeda (?–) -- RESOLVED Hungarian, need_to_check=TRUE. Wikidata P106 confirms
+  composer, but no biographical detail found anywhere -- assigned purely from the Hungarian
+  first name "Károly".
+- [10008] Fabrizio II Gesualdo (?–) -- RESOLVED Italian, need_to_check=TRUE. Wikidata P106
+  confirms composer, born/died Calitri, Italy (1537-1593 per Wikidata's own description).
+- [10012] Дяченко Григорій Онуфрійович (1896–) -- RESOLVED Ukrainian, need_to_check=TRUE.
+- [10023] Christopher Lyndon-Gee (?–) -- RESOLVED British. Multiple independent sources
+  explicitly call him an "English conductor, pianist and composer", despite a genuinely complex
+  heritage (born Rome to an Australian father and Italian mother, has lived and worked in Rome,
+  Amsterdam, Australia, New York, Vilnius).
+- [10025] Dürdana Amirova (?–) -- DELETED. No P106 occupation claim at all on Wikidata; she's
+  the wife of composer Mashadi Jamil Amirov and mother of composer Fikret Amirov -- pulled in
+  only via the relation-discovery pipeline, same pattern as Popper/Szymanowska/Filtsch above.
+- [10049] Glushkov Petro Tarasovich (1889–1966) -- RESOLVED Ukrainian, need_to_check=TRUE.
+- [10053] shtvan Ferentsovich Marton (1923–1996) -- RESOLVED Hungarian, need_to_check=TRUE.
+- [10067] Ali Brezovský (1940–) -- RESOLVED Slovak, need_to_check=TRUE.
+- [10089] Conrad Berens (?–) -- RESOLVED German, need_to_check=TRUE. Wikidata P106 confirms
+  musician + composer, but almost nothing else found -- one weak lead suggests he may be a
+  sibling of the German-born Swedish composer Hermann Berens (Q570444), which is why German
+  rather than Swedish was picked, but this identification itself is uncertain.
+- [10093] Florian Zajíc (1853–1926) -- RESOLVED Czech, need_to_check=TRUE.
+- [10094] Francesco Maria Cattaneo (?–1758) -- RESOLVED Italian, need_to_check=TRUE.
+- [10096] Franz Xaver Gruber (1826–1871) -- RESOLVED Austrian, need_to_check=TRUE.
+- [10104] Giovanni Battista Mancini (1714–1800) -- RESOLVED Italian, need_to_check=TRUE.
+- [10105] Giovanni Battista Tibaldi (?–) -- RESOLVED Italian, need_to_check=TRUE.
+- [10108] Georg Jacob Vollweiler (1770–1847) -- RESOLVED German, need_to_check=TRUE.
+- [10112] Hans Georg Benda (1686–1757) -- RESOLVED Czech, need_to_check=TRUE.
+- [10113] Francesco Barbella (?–) -- RESOLVED Italian, need_to_check=TRUE.
+- [10119] Pablo M Berutti (1870–) -- RESOLVED Argentine, need_to_check=TRUE.
+- [10133] Ilya Semyonovich Aisberg (1868–1942) -- RESOLVED Russian, need_to_check=TRUE.
+- [10138] Johann Aloys Miksch (1765–1845) -- RESOLVED Czech, need_to_check=TRUE.
+- [10147] Giovanni Domenico Rognoni Taeggio (?–) -- RESOLVED Italian, need_to_check=TRUE.
+- [10154] Alessandro Toeschi (?–1758) -- RESOLVED Italian, need_to_check=TRUE.
+- [10156] James Robert Sterndale-Bennett (?–) -- DELETED. Wikidata description: "British
+  educator and writer on music", no composer occupation claim -- wrote a biography of his
+  composer father William Sterndale Bennett, wasn't a composer himself.
+- [10157] Philip James Meyer (?–) -- RESOLVED British. Wikidata's own description: "British
+  musician" -- this is "Philip James the younger" (1770-1849), harpist to Queen Adelaide, son of
+  the French harpist-composer Philippe-Jacques Meyer ([[Q18674347]], who also anglicized his own
+  name to "Philip James Meyer" after settling in London -- easy to conflate the two, confirmed
+  via Wikidata's P22 father claim which the sources's name-anglicization doesn't distinguish).
+- [10159] Wilhelm Hanser (1738–1796) -- RESOLVED German, need_to_check=TRUE.
+- [10160] Royden Barrie (?–) -- DELETED. Wikidata description: "British writer and poet"; has
+  a composer occupation claim but his actual documented work is song *lyrics* (for Eric Coates,
+  Roger Quilter, Hayden Wood, Martin Shaw), not composition -- see
+  wikidata_changes/popper_szymanowska_unsupported_composer_tag.wiki for the same pattern.
+- [10167] Heinrich van Eyken (1861–1908) -- RESOLVED German, need_to_check=TRUE.
+- [10170] Ottavio Catalani (?–) -- RESOLVED Italian, need_to_check=TRUE.
+- [10175] Joseph Franz Wolf (1802–1842) -- RESOLVED German, need_to_check=TRUE.
+- [10179] Domenico Tritto (1776–) -- RESOLVED Italian, need_to_check=TRUE.
+- [10186] José Ma. Alcácer (?–) -- RESOLVED Spanish, need_to_check=TRUE.
+- [10191] Floriano Maria Arresti (1667–) -- RESOLVED Italian, need_to_check=TRUE.
+- [10196] Matous Habermann (?–) -- RESOLVED Czech, need_to_check=TRUE. Wikidata P106 confirms
+  composer; he's the son of the Czech composer František Václav Habermann, but no direct
+  biographical information about Matouš himself was found -- nationality inferred from the
+  father's, not independently confirmed.
+- [10218] Ludovit Rajter starsi (1880–1945) -- RESOLVED Slovak, need_to_check=TRUE.
+- [10220] Giuseppe Pilotti‏ (1785–1838) -- RESOLVED Italian, need_to_check=TRUE.
+- [10221] François de Godzinsky (1878–) -- RESOLVED Finnish, need_to_check=TRUE.
+- [10226] Johann Kusser st. (?–) -- RESOLVED German, need_to_check=TRUE.
+- [10235] Emil Kühnel (1881–1971) -- RESOLVED German, need_to_check=TRUE. One source (Musica
+  International) calls him a "German composer", born Reichenberg (German name for Liberec,
+  Czech Republic -- the same German-speaking-Bohemia pattern as Fritz Zweig/Josef Proksch
+  elsewhere in this file), died Görlitz, Germany. Thin sourcing, only one source found.
+- [10238] Charles Louis Maucourt (?–) -- RESOLVED German, need_to_check=TRUE.
+- [10242] Аллаһияр Вәлиуллин (1924–) -- RESOLVED Tatar (new nationality, see note above), need_to_check=TRUE.
+- [10245] Antonio Puccini (?–1832) -- RESOLVED Italian, need_to_check=TRUE.
+- [10246] Lourenço Ribeiro (?–) -- RESOLVED Portuguese, need_to_check=TRUE.
+- [10263] Heinrich Praeger (1783–1854) -- RESOLVED Dutch, need_to_check=TRUE.
+- [10273] Gaetano Carpani (?–1785) -- RESOLVED Italian, need_to_check=TRUE.
+- [10291] Petr Petrovich Evstafʹev (1861–1900) -- RESOLVED Russian, need_to_check=TRUE.
+  Wikidata P106 confirms composer, died in Saint Petersburg -- name and death place both point
+  to Russian, but no explicit nationality statement found in any source.
+- [10298] Benedetto Neri (1771–1841) -- RESOLVED Italian, need_to_check=TRUE.
+- [10299] Karel Stecker (1861–1918) -- RESOLVED Czech, need_to_check=TRUE.
+- [10302] Franz Seraph Cramer (1783–1835) -- RESOLVED German, need_to_check=TRUE.
+- [10307] Santino Garsi da Parma (1542–1604) -- RESOLVED Italian, need_to_check=TRUE.
+- [10311] Johann Christoph Walther (1715–1771) -- RESOLVED German, need_to_check=TRUE.
+- [10312] Johann Konrad Schlick (?–) -- RESOLVED German, need_to_check=TRUE.
+- [10313] Michele Giuliani (1801–1867) -- RESOLVED Italian, need_to_check=TRUE.
+- [10315] Matthias Durst (1815–1875) -- RESOLVED Austrian, need_to_check=TRUE.
+- [10332] Félix Rault (?–) -- RESOLVED French, need_to_check=TRUE.
+- [10388] Mathias Haydn (1699–1763) -- RESOLVED Austrian (corrected from an automated Germany lookup -- see note above), need_to_check=TRUE.
+- [10390] Eduard Zaritsky (1946–2018) -- RESOLVED Russian, need_to_check=TRUE.
+- [10393] Esaias Reusner der Ältere (?–) -- RESOLVED German, need_to_check=TRUE.
+- [10394] Sophonias Päminger (?–) -- RESOLVED Austrian, need_to_check=TRUE.
+- [10395] Girolamo Crescentini (1762–1846) -- RESOLVED Italian, need_to_check=TRUE.
+- [10413] Edmond Diet (1854–1924) -- RESOLVED French, need_to_check=TRUE.
+- [10414] Arthur Kalkbrenner (?–) -- DELETED. Tagged only as "pianist" on Wikidata (no composer
+  occupation claim), son of composer Friedrich Kalkbrenner -- same relation-discovery pattern,
+  treated the same as the other non-composer relatives above per user decision.
+- [10416] Sigismund Päminger (?–) -- RESOLVED Austrian, need_to_check=TRUE.
+- [10425] Emili Valdés Perlasia (?–) -- RESOLVED Catalan, need_to_check=TRUE.
+- [10426] Julià Vilaseca (?–1929) -- RESOLVED Catalan, need_to_check=TRUE.
+- [10432] Heinrich Romberg (1802–1859) -- RESOLVED German, need_to_check=TRUE.
+- [10443] Domenico da Piacenza (?–) -- RESOLVED Italian, need_to_check=TRUE.
+- [10444] Moritz Schön (?–1885) -- RESOLVED German, need_to_check=TRUE.
+- [10451] Luigi Piccinni (?–1827) -- RESOLVED Italian, need_to_check=TRUE.
+- [10457] Agostino Bendinelli (1635–) -- RESOLVED Italian, need_to_check=TRUE.
+- [10465] Vincent Lübeck (1684–) -- RESOLVED German, need_to_check=TRUE.
+- [10474] Telesforo Righi (1842–1930) -- RESOLVED Italian. Two independent specialized Italian
+  music databases (Vigormusic, La Casa della Musica) confirm: born Brescello, died Parma,
+  taught piano/organ/composition at the Royal School of Music in Parma 1866-1908, teacher of
+  Ildebrando Pizzetti.
+- [10486] Georg Hellmesberger (1830–1852) -- RESOLVED Austrian, need_to_check=TRUE.
+- [10514] Otto Reinsdorf (1848–1890) -- RESOLVED German, need_to_check=TRUE.
+- [10524] Wilhelm Kuhe (1823–1912) -- RESOLVED Czech, need_to_check=TRUE.
+- [10532] Giulietta Guicciardi (1782–1856) -- DELETED. No occupation claim of any kind on
+  Wikidata -- described purely as "Austrian aristocrat, briefly a piano student of Ludwig van
+  Beethoven" (the Moonlight Sonata's dedicatee). A muse, not a composer.
+- [10535] Giovanni Andrea Bontempi (?–1705) -- RESOLVED Italian, need_to_check=TRUE.
+- [10542] Giacomo Insanguine (1728–1795) -- RESOLVED Italian, need_to_check=TRUE.
+- [10543] Vincenzo Manfredini (1737–1799) -- RESOLVED Italian, need_to_check=TRUE.
+- [10547] Alessandro Gardane (?–) -- DELETED. Wikidata description: "Italian printer
+  (fl. 1569-1591)", occupations are printer/publisher/typographer -- from the famous Gardano
+  Venetian music-*publishing* family (son of publisher Antonio Gardano), not a composer himself.
+- [10549] Albert Noelte (?–) -- RESOLVED German, need_to_check=TRUE.
+- [10550] Theodor Blumer (1854–1932) -- RESOLVED Czech, need_to_check=TRUE.
+- [10551] Wilhelm Müller (?–) -- RESOLVED Austrian, need_to_check=TRUE.
+- [10552] Maxmilian Koblížek (1866–1947) -- RESOLVED Czech, need_to_check=TRUE.
+- [10553] Jaroslav Ušák (1891–1965) -- RESOLVED Czech, need_to_check=TRUE.
