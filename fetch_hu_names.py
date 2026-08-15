@@ -23,7 +23,8 @@ Usage:
 """
 
 from adapters.json_cache import load_cache, save_cache
-from fetch_wikidata_relationships import OUTPUT_FILE, get_hu_labels
+from adapters.wikidata_api import get_hu_labels
+from fetch_wikidata_relationships import OUTPUT_FILE
 
 
 def main():

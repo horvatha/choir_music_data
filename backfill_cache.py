@@ -23,15 +23,14 @@ import click
 
 from adapters import wikidata_entities_store
 from adapters.json_cache import load_cache, save_cache
+from adapters.wikidata_api import api_get, get_labels
 from fetch_wikidata_relationships import (
     OUTPUT_FILE,
-    api_get,
     extract_attributes,
     extract_dates,
     extract_image,
     extract_relationships,
     extract_sitelinks,
-    get_labels,
 )
 
 FAMILY_PROPS = {"P40": "child", "P26": "spouse"}

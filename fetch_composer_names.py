@@ -34,7 +34,8 @@ import click
 import psycopg2
 
 from adapters.json_cache import load_cache, save_cache
-from fetch_wikidata_relationships import OUTPUT_FILE, api_get
+from adapters.wikidata_api import api_get
+from fetch_wikidata_relationships import OUTPUT_FILE
 
 # Composer IDs whose translated name is a genuine per-language translation
 # (regnal name + translated epithet/title, or a translated descriptive

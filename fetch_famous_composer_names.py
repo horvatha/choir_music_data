@@ -25,7 +25,8 @@ import sys
 import psycopg2
 
 from adapters.json_cache import load_cache, save_cache
-from fetch_wikidata_relationships import OUTPUT_FILE, TARGET_LANGUAGES, api_get
+from adapters.wikidata_api import api_get
+from fetch_wikidata_relationships import OUTPUT_FILE, TARGET_LANGUAGES
 
 # Requested by name in chat; resolved to composer_id by hand against the
 # composers table.

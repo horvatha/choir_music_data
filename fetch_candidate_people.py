@@ -33,8 +33,15 @@ Usage:
 
 import click
 
-import fetch_wikidata_relationships as fwr
 from adapters.json_cache import load_cache, save_cache
+from adapters.wikidata_api import api_get, use_socks_proxy
+from fetch_wikidata_relationships import (
+    OUTPUT_FILE,
+    extract_attributes,
+    extract_dates,
+    extract_relationships,
+    extract_sitelinks,
+)
 
 
 def fetch(input_path, socks_port, output_path):
@@ -46,7 +53,7 @@ def fetch(input_path, socks_port, output_path):
     print(f"{len(qids)} QIDs in {input_path}, writing to {output_path}")
 
     if socks_port is not None:
-        fwr.use_socks_proxy(socks_port)
+        use_socks_proxy(socks_port)
         print(f"routing through SOCKS proxy on port {socks_port}")
 
     try:
@@ -62,7 +69,7 @@ def fetch(input_path, socks_port, output_path):
     for i in range(0, len(todo), 50):
         batch = todo[i:i + 50]
         ids = "|".join(qid for qid, _ in batch)
-        result = fwr.api_get(
+        result = api_get(
             "https://www.wikidata.org/w/api.php",
             {"action": "wbgetentities", "format": "json", "ids": ids,
              "props": "labels|descriptions|claims|sitelinks"},
@@ -76,8 +83,8 @@ def fetch(input_path, socks_port, output_path):
             descriptions = {lang: v["value"] for lang, v in entity.get("descriptions", {}).items()}
             entries[f"new:{qid}"] = {
                 "name": name, "qid": qid, "labels": labels, "descriptions": descriptions,
-                "relationships": fwr.extract_relationships(entity), "attributes": fwr.extract_attributes(entity),
-                "dates": fwr.extract_dates(entity), "sitelinks": fwr.extract_sitelinks(entity),
+                "relationships": extract_relationships(entity), "attributes": extract_attributes(entity),
+                "dates": extract_dates(entity), "sitelinks": extract_sitelinks(entity),
                 "source": input_path, "checked": True,
             }
             fetched += 1
@@ -93,7 +100,7 @@ def fetch(input_path, socks_port, output_path):
 @click.option("--output", "output_path", type=click.Path(), default=None, help="Write to this file instead of the main cache (for parallel-fetch splits).")
 def candidates_command(input_path, socks_port, output_path):
     """Fetch full Wikidata data for every QID in INPUT_PATH (one "qid|name" per line)."""
-    fetch(input_path, socks_port, output_path or fwr.OUTPUT_FILE)
+    fetch(input_path, socks_port, output_path or OUTPUT_FILE)
 
 
 if __name__ == "__main__":

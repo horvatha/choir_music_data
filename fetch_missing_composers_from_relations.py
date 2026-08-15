@@ -29,8 +29,9 @@ Usage:
 import csv
 
 from adapters.json_cache import load_cache, save_cache
+from adapters.wikidata_api import api_get
 from fetch_wikidata_relationships import (
-    OUTPUT_FILE, api_get, extract_attributes, extract_dates,
+    OUTPUT_FILE, extract_attributes, extract_dates,
     extract_relationships, extract_sitelinks,
 )
 

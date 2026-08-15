@@ -20,7 +20,8 @@ Usage:
 import psycopg2
 
 from adapters.json_cache import load_cache
-from fetch_wikidata_relationships import OUTPUT_FILE, TARGET_LANGUAGES, api_get
+from adapters.wikidata_api import api_get
+from fetch_wikidata_relationships import OUTPUT_FILE, TARGET_LANGUAGES
 
 # (key, wikidata_id | None, parent_key | None, display_order). wikidata_id
 # is None only for "other", which has no single Wikidata concept -- it's

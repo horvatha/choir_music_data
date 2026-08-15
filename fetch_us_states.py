@@ -30,7 +30,8 @@ Usage:
 """
 
 from adapters.json_cache import load_cache, save_cache
-from fetch_wikidata_relationships import OUTPUT_FILE, _not_deprecated, api_get, get_labels
+from adapters.wikidata_api import api_get, get_labels
+from fetch_wikidata_relationships import OUTPUT_FILE, _not_deprecated
 
 US_QID = "Q30"
 US_STATE_TYPE = "Q35657"

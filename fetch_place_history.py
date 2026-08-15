@@ -47,12 +47,11 @@ import sys
 import time
 
 from adapters.json_cache import load_cache, save_cache
+from adapters.wikidata_api import api_get, get_labels
 from fetch_wikidata_relationships import (
     OUTPUT_FILE,
     _not_deprecated,
-    api_get,
     extract_coordinates,
-    get_labels,
 )
 
 TIME_RE = re.compile(r"^([+-]\d+)-")

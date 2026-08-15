@@ -36,7 +36,8 @@ Usage:
 import csv
 
 from adapters.json_cache import load_cache, save_cache
-from fetch_wikidata_relationships import OUTPUT_FILE, api_get
+from adapters.wikidata_api import api_get
+from fetch_wikidata_relationships import OUTPUT_FILE
 
 OUTPUT_CSV = "unloaded_candidates.csv"
 COMPOSER_QID = "Q36834"

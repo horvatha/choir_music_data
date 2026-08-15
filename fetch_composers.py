@@ -45,6 +45,7 @@ import psycopg2
 
 from adapters import wikidata_entities_store
 from adapters.json_cache import load_cache, save_cache
+from adapters.wikidata_api import get_entity, get_labels, get_qid, use_socks_proxy
 from fetch_wikidata_relationships import (
     FETCH_COMPOSER_NATIONALITIES_SQL,
     OUTPUT_FILE,
@@ -53,11 +54,7 @@ from fetch_wikidata_relationships import (
     extract_image,
     extract_relationships,
     extract_sitelinks,
-    get_entity,
-    get_labels,
-    get_qid,
     label_languages_for,
-    use_socks_proxy,
 )
 
 VM_OUTPUT_FILE = "wikidata_relationships_vm.json"

@@ -24,7 +24,8 @@ Usage:
 """
 
 from adapters.json_cache import load_cache, save_cache
-from fetch_wikidata_relationships import OUTPUT_FILE, api_get, get_labels
+from adapters.wikidata_api import api_get, get_labels
+from fetch_wikidata_relationships import OUTPUT_FILE
 
 
 def _resolve_any_language(qids: list[str]) -> dict:
