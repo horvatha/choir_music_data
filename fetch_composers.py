@@ -44,6 +44,7 @@ import time
 import click
 import psycopg2
 
+import wikidata_entities_store
 from fetch_wikidata_relationships import (
     FETCH_COMPOSER_NATIONALITIES_SQL,
     OUTPUT_FILE,
@@ -246,6 +247,10 @@ def fetch(era, nationality, ids, through_vm, only):
     conn.autocommit = True
     if through_vm:
         # After connecting, not before -- see use_socks_proxy's docstring.
+        # Same reasoning applies to wikidata_entities_store's connection,
+        # which otherwise connects lazily from inside the fetch loop, i.e.
+        # after the proxy patch -- warm it up first too.
+        wikidata_entities_store.warm_up()
         use_socks_proxy()
     try:
         with conn.cursor() as cur:

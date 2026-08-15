@@ -50,3 +50,21 @@ def store_entity(qid: str, entity: dict) -> None:
     except Exception as error:
         print(f"wikidata_entities_store: could not store raw entities ({error}); continuing without it.")
         _disabled = True
+
+
+def warm_up() -> None:
+    """Opens the connection eagerly. Callers that monkey-patch socket.socket
+    afterward (fetch_composers.py's --through-vm / use_socks_proxy()) must
+    call this first -- store_entity() connects lazily on first use, which
+    would otherwise happen from inside the per-composer fetch loop, after
+    the proxy patch is already in effect, silently routing this DB
+    connection through the SOCKS tunnel instead of straight to Postgres.
+    Same failure handling as store_entity(): never raises."""
+    global _disabled
+    if _disabled:
+        return
+    try:
+        _get_connection()
+    except Exception as error:
+        print(f"wikidata_entities_store: could not store raw entities ({error}); continuing without it.")
+        _disabled = True
