@@ -33,6 +33,7 @@ DROP TABLE IF EXISTS countries;
 DROP TABLE IF EXISTS eras;
 DROP TYPE IF EXISTS date_precision;
 DROP TYPE IF EXISTS wikidata_calendar;
+DROP TYPE IF EXISTS gender;
 
 -- Lets name search be accent-insensitive: unaccent('Kodály') = 'Kodaly'.
 CREATE EXTENSION IF NOT EXISTS unaccent;
@@ -47,6 +48,13 @@ CREATE TYPE date_precision AS ENUM ('exact', 'circa', 'before', 'after', 'range'
 -- Wikidata doesn't always carry a Julian claim even for historically-Julian
 -- people.
 CREATE TYPE wikidata_calendar AS ENUM ('gregorian', 'julian');
+
+-- Wikidata P21 (sex or gender), restricted to the two values actually
+-- present across every composer fetched so far (Q6581097 male, Q6581072
+-- female -- checked directly, nothing else has turned up) -- optional
+-- (NULL when not fetched/not on Wikidata), and deliberately just these
+-- two for now rather than modeling Wikidata's full P21 value space.
+CREATE TYPE gender AS ENUM ('female', 'male');
 
 CREATE TABLE eras (
     id   SERIAL PRIMARY KEY,
@@ -205,6 +213,7 @@ CREATE TABLE composers (
     name              TEXT NOT NULL,
     nationality       TEXT,
     wikidata_id       TEXT,
+    gender            gender,
 
     birth_raw         TEXT,
     birth_year        INTEGER,
