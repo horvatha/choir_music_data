@@ -22,6 +22,7 @@ import json
 
 import click
 
+import wikidata_entities_store
 from fetch_wikidata_relationships import (
     OUTPUT_FILE,
     api_get,
@@ -171,7 +172,24 @@ def backfill(field, family):
     todo = [(cid, e) for cid, e in entries.items() if config["todo"](cid, e)]
     print(f"{len(todo)} composers to backfill {field} for" + (" (+ child/spouse)" if family else ""))
 
-    runner = _run_one_at_a_time(todo, config, family) if config["batch_size"] == 1 else _run_batched(todo, config)
+    # Every extractor this module uses reads only entity["claims"]/
+    # ["sitelinks"] -- both fully present in a cached raw entity
+    # (get_entity() requests exactly props=labels|claims|sitelinks) -- so
+    # anything already in wikidata_entities needs no live API call at all.
+    # Only composers with no cached raw entity fall through to the
+    # existing narrower live fetch below, unchanged.
+    cached_entities = wikidata_entities_store.fetch_entities([e["qid"] for _, e in todo])
+    cached = [(cid, e) for cid, e in todo if e["qid"] in cached_entities]
+    live = [(cid, e) for cid, e in todo if e["qid"] not in cached_entities]
+
+    if cached:
+        print(f"  {len(cached)}/{len(todo)} served from wikidata_entities cache (no API call)")
+        for cid, e in cached:
+            config["apply"](e, cached_entities[e["qid"]], family)
+        with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+            json.dump(data, f, ensure_ascii=False, indent=1, sort_keys=True)
+
+    runner = _run_one_at_a_time(live, config, family) if config["batch_size"] == 1 else _run_batched(live, config)
     for _ in runner:
         with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
             json.dump(data, f, ensure_ascii=False, indent=1, sort_keys=True)

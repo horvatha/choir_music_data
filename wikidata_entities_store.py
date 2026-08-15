@@ -52,6 +52,28 @@ def store_entity(qid: str, entity: dict) -> None:
         _disabled = True
 
 
+def fetch_entities(qids) -> dict:
+    """Bulk-read cached raw entities: {qid: entity} for whichever of the
+    given QIDs already have a row. A QID missing from the result means
+    "not cached", not an error -- callers fall back to a live fetch for
+    it. Same failure-handling convention as store_entity()/warm_up(): a DB
+    problem disables the cache for the rest of the process and returns {}
+    rather than raising, so callers always have a safe, correct fallback
+    (behave exactly as if nothing were cached)."""
+    global _disabled
+    if _disabled or not qids:
+        return {}
+    try:
+        conn = _get_connection()
+        with conn.cursor() as cur:
+            cur.execute("SELECT qid, entity FROM entities WHERE qid = ANY(%s)", (list(qids),))
+            return dict(cur.fetchall())
+    except Exception as error:
+        print(f"wikidata_entities_store: could not read cached entities ({error}); continuing without it.")
+        _disabled = True
+        return {}
+
+
 def warm_up() -> None:
     """Opens the connection eagerly. Callers that monkey-patch socket.socket
     afterward (fetch_composers.py's --through-vm / use_socks_proxy()) must

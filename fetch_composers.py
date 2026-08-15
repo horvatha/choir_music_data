@@ -63,10 +63,10 @@ from fetch_wikidata_relationships import (
 VM_OUTPUT_FILE = "wikidata_relationships_vm.json"
 
 FETCH_WIKILINKS_SQL = "SELECT language, title FROM composer_wikilinks WHERE composer_id = %s"
-FETCH_NAME_SQL = "SELECT name FROM composers WHERE id = %s"
+FETCH_NAME_SQL = "SELECT name, wikidata_id FROM composers WHERE id = %s"
 
 FETCH_COMPOSERS_BY_NATIONALITY_SQL = """
-    SELECT DISTINCT c.id, c.name
+    SELECT DISTINCT c.id, c.name, c.wikidata_id
     FROM composers c
     JOIN composer_nationalities cn ON cn.composer_id = c.id
     JOIN nationalities n ON n.id = cn.nationality_id
@@ -75,7 +75,7 @@ FETCH_COMPOSERS_BY_NATIONALITY_SQL = """
 """
 
 FETCH_COMPOSERS_BY_ERA_SQL = """
-    SELECT DISTINCT c.id, c.name
+    SELECT DISTINCT c.id, c.name, c.wikidata_id
     FROM composers c
     JOIN composer_eras ce ON ce.composer_id = c.id
     JOIN eras e ON e.id = ce.era_id
@@ -87,7 +87,7 @@ FETCH_COMPOSERS_BY_ERA_SQL = """
 # list -- e.g. `--era 20th-century --only` skips a composer tagged both
 # Romantic-era and 20th-century, already covered by a Romantic-era run.
 FETCH_COMPOSERS_BY_ERA_ONLY_SQL = """
-    SELECT DISTINCT c.id, c.name
+    SELECT DISTINCT c.id, c.name, c.wikidata_id
     FROM composers c
     JOIN composer_eras ce ON ce.composer_id = c.id
     JOIN eras e ON e.id = ce.era_id
@@ -103,21 +103,34 @@ FETCH_COMPOSERS_BY_ERA_ONLY_SQL = """
 """
 
 
-def _fetch_one(cur, composer_id, name, entries, languages):
+def _fetch_one(cur, composer_id, name, wikidata_id, entries, languages):
     """Fetch one composer's full Wikidata record into `entries`. Returns
     True if an entity was actually fetched (vs. a no-wikilinks/no-QID/
-    not-found short-circuit), so callers only sleep after a real request."""
-    key = str(composer_id)
-    cur.execute(FETCH_WIKILINKS_SQL, (composer_id,))
-    wikilinks = cur.fetchall()
-    if not wikilinks:
-        entries[key] = {"name": name, "qid": None, "applied_to_db": True}
-        return False
+    not-found short-circuit), so callers only sleep after a real request.
 
-    qid = get_qid(wikilinks)
+    Prefers the already-known composers.wikidata_id over re-deriving the
+    QID from a wikilink (get_qid() makes a live Wikipedia pageprops call,
+    one per language tried, for every composer -- wasteful when we already
+    have the answer). This never skips get_entity() itself: the Wikidata
+    fetch always happens live, so --ids's "always re-fetches" guarantee is
+    unaffected -- only the redundant Wikipedia lookup is skipped. Composers
+    with no wikidata_id yet (~5% of the table) still fall back to the
+    wikilinks/get_qid() path exactly as before; deliberately not written
+    back to composers.wikidata_id from here -- that column already has a
+    proper, validated owner (backfill_wikidata_ids_from_wikilinks.py)."""
+    key = str(composer_id)
+    qid = wikidata_id
     if not qid:
-        entries[key] = {"name": name, "qid": None, "applied_to_db": True}
-        return False
+        cur.execute(FETCH_WIKILINKS_SQL, (composer_id,))
+        wikilinks = cur.fetchall()
+        if not wikilinks:
+            entries[key] = {"name": name, "qid": None, "applied_to_db": True}
+            return False
+
+        qid = get_qid(wikilinks)
+        if not qid:
+            entries[key] = {"name": name, "qid": None, "applied_to_db": True}
+            return False
 
     entity = get_entity(qid, languages)
     if entity is None:
@@ -167,7 +180,7 @@ def _fetch_by_selector(cur, composers, entries, label_cache, sleep):
     """Shared loop for --nationality/--era: skip composers already in
     `entries`, look up each one's nationality-derived language set."""
     already_done = 0
-    for composer_id, name in composers:
+    for composer_id, name, wikidata_id in composers:
         key = str(composer_id)
         if key in entries:
             already_done += 1
@@ -177,7 +190,7 @@ def _fetch_by_selector(cur, composers, entries, label_cache, sleep):
         composer_nationalities = [r[0] for r in cur.fetchall()]
         languages = label_languages_for(composer_nationalities)
 
-        fetched = _fetch_one(cur, composer_id, name, entries, languages)
+        fetched = _fetch_one(cur, composer_id, name, wikidata_id, entries, languages)
         if fetched:
             time.sleep(sleep)
             yield
@@ -195,13 +208,13 @@ def _fetch_by_ids(cur, composer_ids, entries):
         if row is None:
             print(f"  {composer_id}: no such composer, skipping")
             continue
-        name = row[0]
+        name, wikidata_id = row
 
         cur.execute(FETCH_COMPOSER_NATIONALITIES_SQL, (composer_id,))
         composer_nationalities = [r[0] for r in cur.fetchall()]
         languages = label_languages_for(composer_nationalities)
 
-        fetched = _fetch_one(cur, composer_id, name, entries, languages)
+        fetched = _fetch_one(cur, composer_id, name, wikidata_id, entries, languages)
         if fetched:
             time.sleep(0.3)
             yield
@@ -288,15 +301,13 @@ def fetch(era, nationality, ids, through_vm, only):
 @click.option("--era", multiple=True, help="Select composers by era (repeatable). Mutually exclusive with --nationality/--ids.")
 @click.option("--nationality", multiple=True, help="Select composers by nationality (repeatable). Mutually exclusive with --era/--ids.")
 @click.option("--ids", multiple=True, type=int, help="Select composers by id (repeatable, always re-fetched). Mutually exclusive with --era/--nationality.")
-@click.option("--through-vm", is_flag=True, help="Only with --era: route through a local SOCKS5 proxy and write to a separate VM output file.")
+@click.option("--through-vm", is_flag=True, help="Route through a local SOCKS5 proxy and write to a separate VM output file -- for running a second fetch in parallel with a direct one, so they don't share a rate-limit bucket.")
 @click.option("--only", is_flag=True, help="Only with --era: exclude composers who also belong to an era outside the given list.")
 def composers_command(era, nationality, ids, through_vm, only):
     """Fetch full Wikidata records for composers selected by --era, --nationality, or --ids."""
     selectors_given = sum(bool(x) for x in (era, nationality, ids))
     if selectors_given != 1:
         raise click.UsageError("Give exactly one of --era, --nationality, --ids.")
-    if through_vm and not era:
-        raise click.UsageError("--through-vm is only valid with --era.")
     if only and not era:
         raise click.UsageError("--only is only valid with --era.")
     fetch(era, nationality, ids, through_vm, only)
