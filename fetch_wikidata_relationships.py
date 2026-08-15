@@ -19,6 +19,8 @@ import urllib.parse
 import urllib.request
 from datetime import date
 
+import wikidata_entities_store
+
 USER_AGENT = "choir_music_data-wikidata-fetch/1.0 (personal research script)"
 OUTPUT_FILE = "wikidata_relationships.json"
 
@@ -245,7 +247,10 @@ def get_entity(qid, languages):
         {"action": "wbgetentities", "format": "json", "ids": qid,
          "props": "labels|claims|sitelinks", "languages": "|".join(languages)},
     )
-    return data.get("entities", {}).get(qid)
+    entity = data.get("entities", {}).get(qid)
+    if entity is not None:
+        wikidata_entities_store.store_entity(qid, entity)
+    return entity
 
 
 # Wikidata site IDs are "<langcode>wiki" for the language's own Wikipedia
@@ -404,10 +409,33 @@ WIKIDATA_YEAR_RE = re.compile(r"^([+-]\d+)-")
 # None); 8=decade/7=century/6=millennium each get a computed upper bound.
 _YEAR_PRECISION_SPANS = {9: 0, 10: 0, 11: 0, 8: 9, 7: 99, 6: 999}
 
+# Wikidata's calendarmodel value on a time claim -- these two specific QIDs
+# (not the general "Julian calendar"/"Gregorian calendar" Wikipedia-article
+# items) are what actually appears on P569/P570 claims. See composers.
+# birth_calendar/death_calendar (schema.sql) for why this matters: a date
+# recorded in Julian (e.g. pre-1918 Russia, pre-1752 England, pre-1700
+# Protestant Germany) can be off by 10-13 days from its Gregorian form, and
+# Wikidata doesn't always carry a Julian claim even for historically-Julian
+# people (Purcell's entry, checked directly, has Gregorian-only claims) --
+# so this must be read per-claim, never assumed from nationality/era.
+_CALENDAR_MODELS = {
+    "http://www.wikidata.org/entity/Q1985727": "gregorian",
+    "http://www.wikidata.org/entity/Q1985786": "julian",
+}
+
 
 def extract_dates(entity):
-    """{"birth": "1756-01-27", "death": "1791-12-05", "birth_year_precision":
+    """{"birth": "1756-01-27", "birth_calendar": "gregorian", "death":
+    "1791-12-05", "death_calendar": "gregorian", "birth_year_precision":
     {"year": 1650, "year_upper": None, "precision": "exact"}, ...}.
+
+    "birth_calendar"/"death_calendar" come from the same claim that won
+    "birth"/"death" (a composer can carry claims on both calendars --
+    e.g. Tchaikovsky's preferred-rank P569/P570 are both Julian, Glinka's
+    preferred birth is Julian but preferred death is Gregorian -- so this
+    must track whichever claim the preferred-rank tiebreak above actually
+    picked, not just "any" claim). None when calendarmodel is missing or
+    unrecognized, which is common -- most claims don't need this at all.
 
     "birth"/"death" are only ever set from a day-level-precision claim
     (Wikidata's time values carry their own precision flag, 11=day,
@@ -456,7 +484,8 @@ def extract_dates(entity):
                     except ValueError:
                         pass
                     else:
-                        day_candidates.append((preferred, f"{int(year):04d}-{month}-{day}"))
+                        calendar = _CALENDAR_MODELS.get(value.get("calendarmodel"))
+                        day_candidates.append((preferred, f"{int(year):04d}-{month}-{day}", calendar))
             if precision in _YEAR_PRECISION_SPANS:
                 m = WIKIDATA_YEAR_RE.match(value.get("time", ""))
                 if m:
@@ -473,6 +502,7 @@ def extract_dates(entity):
             # entirely.
             day_candidates.sort(key=lambda pair: not pair[0])
             result[key] = day_candidates[0][1]
+            result[f"{key}_calendar"] = day_candidates[0][2]
         if year_candidates:
             # Same preferred-first tiebreak, then most precise (highest
             # precision number) among equally-ranked claims.

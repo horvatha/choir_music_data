@@ -32,11 +32,21 @@ DROP TABLE IF EXISTS country_names;
 DROP TABLE IF EXISTS countries;
 DROP TABLE IF EXISTS eras;
 DROP TYPE IF EXISTS date_precision;
+DROP TYPE IF EXISTS wikidata_calendar;
 
 -- Lets name search be accent-insensitive: unaccent('Kodály') = 'Kodaly'.
 CREATE EXTENSION IF NOT EXISTS unaccent;
 
 CREATE TYPE date_precision AS ENUM ('exact', 'circa', 'before', 'after', 'range', 'unknown');
+-- Which calendar birth_date/death_date's day-precision Wikidata claim was
+-- recorded in -- NULL when unknown/not applicable (e.g. no day-precision
+-- claim at all). See fetch_wikidata_relationships.py's extract_dates() and
+-- _CALENDAR_MODELS. Matters for pre-1918 Russia, pre-1752 England, pre-1700
+-- Protestant Germany, etc., where a Julian-calendar date can differ from
+-- its Gregorian form by 10-13 days -- never assume from nationality alone,
+-- Wikidata doesn't always carry a Julian claim even for historically-Julian
+-- people.
+CREATE TYPE wikidata_calendar AS ENUM ('gregorian', 'julian');
 
 CREATE TABLE eras (
     id   SERIAL PRIMARY KEY,
@@ -205,6 +215,7 @@ CREATE TABLE composers (
     -- e.g. year-only vs year+month vs full date) -- birth_year above stays
     -- the source of truth for "what year", this is purely an enrichment.
     birth_date        DATE,
+    birth_calendar    wikidata_calendar,
     -- References a place_periods row, not places directly -- already
     -- resolved to whichever historical window covers this composer's
     -- birth year (see place_periods above). ON DELETE SET NULL (not the
@@ -220,6 +231,7 @@ CREATE TABLE composers (
     death_year_upper  INTEGER,
     death_precision   date_precision,
     death_date        DATE,
+    death_calendar    wikidata_calendar,
     death_place_id    INTEGER REFERENCES place_periods(id) ON DELETE SET NULL,
 
     flourish_raw      TEXT,

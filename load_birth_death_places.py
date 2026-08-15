@@ -98,10 +98,12 @@ UPSERT_PLACE_QID_SQL = """
 UPDATE_COMPOSER_SQL = """
     UPDATE composers SET
         birth_date = %(birth_date)s, birth_place_id = %(birth_place_id)s,
+        birth_calendar = %(birth_calendar)s::wikidata_calendar,
         birth_year = COALESCE(birth_year, %(birth_year)s),
         birth_year_upper = COALESCE(birth_year_upper, %(birth_year_upper)s),
         birth_precision = COALESCE(birth_precision, %(birth_precision)s::date_precision),
         death_date = %(death_date)s, death_place_id = %(death_place_id)s,
+        death_calendar = %(death_calendar)s::wikidata_calendar,
         death_year = COALESCE(death_year, %(death_year)s),
         death_year_upper = COALESCE(death_year_upper, %(death_year_upper)s),
         death_precision = COALESCE(death_precision, %(death_precision)s::date_precision)
@@ -466,9 +468,11 @@ def main():
                     cur.execute(UPDATE_COMPOSER_SQL, {
                         "composer_id": cid,
                         "birth_date": dates.get("birth"),
+                        "birth_calendar": dates.get("birth_calendar"),
                         "birth_place_id": resolve(attributes.get("place_of_birth", []), birth_year),
                         "birth_year": birth_year, "birth_year_upper": birth_year_upper, "birth_precision": birth_precision,
                         "death_date": dates.get("death"),
+                        "death_calendar": dates.get("death_calendar"),
                         "death_place_id": resolve(attributes.get("place_of_death", []), death_year),
                         "death_year": death_year, "death_year_upper": death_year_upper, "death_precision": death_precision,
                     })

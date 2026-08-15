@@ -1,0 +1,16 @@
+   podman run -d \                                                                                                                                                                 
+     --name composers-pg \                                                                                                                                                         
+     -e POSTGRES_PASSWORD=composers_dev \                                                                                                                                          
+     -e POSTGRES_DB=composers \                                                                                                                                                    
+     -e POSTGRES_USER=composers \                                                                                                                                                  
+     -p 5432:5432 \                                                                                                                                                                
+     -v composers-pg-data:/var/lib/postgresql/data \                                                                                                                               
+     docker.io/library/postgres:17
+
+# Separate "wikidata_entities" database on the same container/cluster,
+# for raw Wikidata entity JSONB storage (see schema_wikidata_entities.sql).
+# One-time setup:
+#   podman exec -i composers-pg psql -U composers -d composers -c "CREATE DATABASE wikidata_entities;"
+#   cat schema_wikidata_entities.sql | podman exec -i composers-pg psql -U composers -d wikidata_entities
+# Connect with:
+#   podman exec -i composers-pg psql -U composers -d wikidata_entities  
