@@ -16,10 +16,10 @@ for a composer whose notable-work list changed upstream.
 Usage:
     python3 load_works.py
 """
-import json
 
 import psycopg2
 
+from adapters.json_cache import load_cache
 from fetch_wikidata_relationships import OUTPUT_FILE
 
 # QIDs that turned up as P800 "notable work" values but are the composer's
@@ -58,8 +58,7 @@ UPSERT_WORK_SQL = """
 
 
 def load():
-    with open(OUTPUT_FILE, encoding="utf-8") as f:
-        data = json.load(f)
+    data = load_cache(OUTPUT_FILE)
     qid_labels = data.get("qid_labels", {})
 
     conn = psycopg2.connect()

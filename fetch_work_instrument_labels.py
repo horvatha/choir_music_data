@@ -17,14 +17,13 @@ already relies on qid_labels for.
 Usage:
     python3 fetch_work_instrument_labels.py
 """
-import json
 
+from adapters.json_cache import load_cache, save_cache
 from fetch_wikidata_relationships import OUTPUT_FILE, get_labels
 
 
 def main():
-    with open(OUTPUT_FILE, encoding="utf-8") as f:
-        data = json.load(f)
+    data = load_cache(OUTPUT_FILE)
     work_attributes = data.get("work_attributes", {})
     qid_labels = data.setdefault("qid_labels", {})
 
@@ -34,8 +33,7 @@ def main():
 
     if todo:
         qid_labels.update(get_labels(todo))
-        with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-            json.dump(data, f, ensure_ascii=False, indent=1, sort_keys=True)
+        save_cache(OUTPUT_FILE, data)
 
     print("done.")
 

@@ -13,10 +13,10 @@ reviewing the full tag list by hand (same spirit as classify_hu_wiki_
 composers.py's category-keyword review, just for tags instead of pop-vs-
 concert-music). See the entries below for why each one was added.
 """
-import json
 
 import psycopg2
 
+from adapters.json_cache import load_cache
 from fetch_wikidata_relationships import OUTPUT_FILE
 
 # Hand-maintained renames for tags whose plain Wikidata label collides with
@@ -70,8 +70,7 @@ def load():
     """Fully rebuilds tags/composer_tags from wikidata_relationships.json.
     Not incremental -- truncates first, so reruns after a fresh fetch don't
     leave stale links for composers whose recorded tags changed upstream."""
-    with open(OUTPUT_FILE, encoding="utf-8") as f:
-        data = json.load(f)
+    data = load_cache(OUTPUT_FILE)
     qid_labels = data.get("qid_labels", {})
 
     conn = psycopg2.connect()

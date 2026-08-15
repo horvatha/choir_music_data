@@ -13,10 +13,10 @@ genres/tags -- two distinct key QIDs could in principle share a label.
 Usage:
     python3 load_musical_keys.py
 """
-import json
 
 import psycopg2
 
+from adapters.json_cache import load_cache
 from fetch_wikidata_relationships import OUTPUT_FILE, TARGET_LANGUAGES
 from load_names import upsert_entity_names
 
@@ -40,8 +40,7 @@ LINK_KEY_SQL = """
 
 
 def load():
-    with open(OUTPUT_FILE, encoding="utf-8") as f:
-        data = json.load(f)
+    data = load_cache(OUTPUT_FILE)
     work_attributes = data.get("work_attributes", {})
     key_labels = data.get("key_labels", {})
 

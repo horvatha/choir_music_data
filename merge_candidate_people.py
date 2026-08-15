@@ -12,9 +12,9 @@ somehow overlapped.
 Usage:
     python3 merge_candidate_people.py <temp_file.json>
 """
-import json
 import sys
 
+from adapters.json_cache import load_cache, save_cache
 from fetch_wikidata_relationships import OUTPUT_FILE
 
 
@@ -23,12 +23,10 @@ def main():
         sys.exit(f"Usage: {sys.argv[0]} <temp_file.json>")
     temp_path = sys.argv[1]
 
-    with open(temp_path, encoding="utf-8") as f:
-        temp_data = json.load(f)
+    temp_data = load_cache(temp_path)
     temp_entries = temp_data.get("composers", {})
 
-    with open(OUTPUT_FILE, encoding="utf-8") as f:
-        data = json.load(f)
+    data = load_cache(OUTPUT_FILE)
     entries = data.setdefault("composers", {})
 
     added = 0
@@ -40,8 +38,7 @@ def main():
         entries[key] = entry
         added += 1
 
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=1, sort_keys=True)
+    save_cache(OUTPUT_FILE, data)
     print(f"Merged {added} entries from {temp_path} into {OUTPUT_FILE} ({skipped} already present, skipped).")
 
 

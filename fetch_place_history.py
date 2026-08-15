@@ -42,11 +42,11 @@ Usage:
     python3 fetch_place_history.py            # only places missing a cached entry
     python3 fetch_place_history.py --recheck   # re-fetch every referenced place too
 """
-import json
 import re
 import sys
 import time
 
+from adapters.json_cache import load_cache, save_cache
 from fetch_wikidata_relationships import (
     OUTPUT_FILE,
     _not_deprecated,
@@ -204,8 +204,7 @@ def extract_string_claim(entity, prop):
 def main():
     recheck = "--recheck" in sys.argv
 
-    with open(OUTPUT_FILE, encoding="utf-8") as f:
-        data = json.load(f)
+    data = load_cache(OUTPUT_FILE)
     entries = data["composers"]
     qid_labels = data.setdefault("qid_labels", {})
     place_claims = data.setdefault("place_claims", {})
@@ -238,15 +237,13 @@ def main():
             }
         time.sleep(0.3)
         print(f"  {min(i + 50, len(todo))}/{len(todo)}...")
-        with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-            json.dump(data, f, ensure_ascii=False, indent=1, sort_keys=True)
+        save_cache(OUTPUT_FILE, data)
 
     unresolved_labels = sorted(q for q in place_claims if q not in qid_labels)
     if unresolved_labels:
         print(f"Resolving labels for {len(unresolved_labels)} places...")
         qid_labels.update(get_labels(unresolved_labels))
-        with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-            json.dump(data, f, ensure_ascii=False, indent=1, sort_keys=True)
+        save_cache(OUTPUT_FILE, data)
 
     # Per-language labels (not just the single "best" one qid_labels picks)
     # for every place -- lets `cli.py load names --entity place` offer a
@@ -270,8 +267,7 @@ def main():
                 place_labels[qid] = labels
             time.sleep(0.3)
             print(f"  {min(i + 50, len(unresolved_place_labels))}/{len(unresolved_place_labels)}...")
-            with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-                json.dump(data, f, ensure_ascii=False, indent=1, sort_keys=True)
+            save_cache(OUTPUT_FILE, data)
 
     country_qids = sorted({
         w["country_qid"]
@@ -294,11 +290,9 @@ def main():
                 "language": extract_official_language(entity),
             }
         time.sleep(0.3)
-        with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-            json.dump(data, f, ensure_ascii=False, indent=1, sort_keys=True)
+        save_cache(OUTPUT_FILE, data)
 
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=1, sort_keys=True)
+    save_cache(OUTPUT_FILE, data)
     print(f"done -- {len(place_claims)} distinct place QIDs cached")
 
 

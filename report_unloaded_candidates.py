@@ -34,8 +34,8 @@ Usage:
     python3 report_unloaded_candidates.py
 """
 import csv
-import json
 
+from adapters.json_cache import load_cache, save_cache
 from fetch_wikidata_relationships import OUTPUT_FILE, api_get
 
 OUTPUT_CSV = "unloaded_candidates.csv"
@@ -72,8 +72,7 @@ def fetch_occupations(qids):
 
 
 def main():
-    with open(OUTPUT_FILE, encoding="utf-8") as f:
-        data = json.load(f)
+    data = load_cache(OUTPUT_FILE)
     entries = data["composers"]
 
     # A handful of "new:" entries have no resolved qid at all (e.g.
@@ -90,8 +89,7 @@ def main():
     if todo:
         print(f"fetching occupations for {len(todo)} not-yet-checked candidates...")
         occupations.update(fetch_occupations(todo))
-        with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-            json.dump(data, f, ensure_ascii=False, indent=1, sort_keys=True)
+        save_cache(OUTPUT_FILE, data)
 
     rows = []
     for entry in not_loaded.values():

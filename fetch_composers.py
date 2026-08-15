@@ -38,13 +38,13 @@ Usage:
     python3 fetch_composers.py --era 20th-century --only --through-vm
     python3 fetch_composers.py --ids 7968 --ids 7971 --ids 7975
 """
-import json
 import time
 
 import click
 import psycopg2
 
-import wikidata_entities_store
+from adapters import wikidata_entities_store
+from adapters.json_cache import load_cache, save_cache
 from fetch_wikidata_relationships import (
     FETCH_COMPOSER_NATIONALITIES_SQL,
     OUTPUT_FILE,
@@ -222,8 +222,7 @@ def _fetch_by_ids(cur, composer_ids, entries):
 
 def fetch(era, nationality, ids, through_vm, only):
     try:
-        with open(OUTPUT_FILE, encoding="utf-8") as f:
-            output = json.load(f)
+        output = load_cache(OUTPUT_FILE)
     except FileNotFoundError:
         output = {}
     entries = output.setdefault("composers", {})
@@ -236,8 +235,7 @@ def fetch(era, nationality, ids, through_vm, only):
     if through_vm:
         write_path = VM_OUTPUT_FILE
         try:
-            with open(VM_OUTPUT_FILE, encoding="utf-8") as f:
-                vm_output = json.load(f)
+            vm_output = load_cache(VM_OUTPUT_FILE)
         except FileNotFoundError:
             vm_output = {}
         new_entries = vm_output.setdefault("composers", {})
@@ -249,8 +247,7 @@ def fetch(era, nationality, ids, through_vm, only):
         new_label_cache = label_cache
 
     def save():
-        with open(write_path, "w", encoding="utf-8") as f:
-            json.dump(vm_output, f, ensure_ascii=False, indent=1, sort_keys=True)
+        save_cache(write_path, vm_output)
 
     conn = psycopg2.connect()
     # autocommit: these selectors only read from the DB. Without it, the

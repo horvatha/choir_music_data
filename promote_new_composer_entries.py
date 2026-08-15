@@ -13,16 +13,15 @@ of which fetch script originally cached it.
 Usage:
     python3 promote_new_composer_entries.py
 """
-import json
 
 import psycopg2
 
+from adapters.json_cache import load_cache, save_cache
 from fetch_wikidata_relationships import OUTPUT_FILE
 
 
 def main():
-    with open(OUTPUT_FILE, encoding="utf-8") as f:
-        data = json.load(f)
+    data = load_cache(OUTPUT_FILE)
     entries = data["composers"]
 
     conn = psycopg2.connect()
@@ -46,8 +45,7 @@ def main():
         entries[str(composer_id)] = entry
         promoted += 1
 
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=1, sort_keys=True)
+    save_cache(OUTPUT_FILE, data)
     print(f"Promoted {promoted} \"new:\" entries to their real composer_id.")
 
 

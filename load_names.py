@@ -25,11 +25,11 @@ Usage:
     python3 load_names.py --entity place
     python3 load_names.py --entity work
 """
-import json
 
 import click
 import psycopg2
 
+from adapters.json_cache import load_cache
 from fetch_wikidata_relationships import OUTPUT_FILE, TARGET_LANGUAGES
 
 INSTRUMENT_NAME_OVERRIDES = {
@@ -105,8 +105,7 @@ def upsert_entity_names(cur, upsert_sql, entity_id, wikidata_id, labels, base_na
 
 def load(entity):
     config = NAME_ENTITIES[entity]
-    with open(OUTPUT_FILE, encoding="utf-8") as f:
-        data = json.load(f)
+    data = load_cache(OUTPUT_FILE)
     label_cache = data.get(config["cache_key"], {})
 
     conn = psycopg2.connect()

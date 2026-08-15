@@ -26,10 +26,10 @@ things may already reference existing rows).
 Usage:
     python3 load_work_instruments.py
 """
-import json
 
 import psycopg2
 
+from adapters.json_cache import load_cache
 from fetch_wikidata_relationships import OUTPUT_FILE
 
 UPSERT_INSTRUMENT_SQL = """
@@ -47,8 +47,7 @@ LINK_WORK_INSTRUMENT_SQL = """
 
 
 def load():
-    with open(OUTPUT_FILE, encoding="utf-8") as f:
-        data = json.load(f)
+    data = load_cache(OUTPUT_FILE)
     work_attributes = data.get("work_attributes", {})
     qid_labels = data.get("qid_labels", {})
 

@@ -27,8 +27,8 @@ Usage:
     python3 fetch_missing_composers_from_relations.py
 """
 import csv
-import json
 
+from adapters.json_cache import load_cache, save_cache
 from fetch_wikidata_relationships import (
     OUTPUT_FILE, api_get, extract_attributes, extract_dates,
     extract_relationships, extract_sitelinks,
@@ -42,8 +42,7 @@ def main():
         candidates = list(csv.DictReader(f))
     print(f"{len(candidates)} candidates in {INPUT_CSV}")
 
-    with open(OUTPUT_FILE, encoding="utf-8") as f:
-        data = json.load(f)
+    data = load_cache(OUTPUT_FILE)
     entries = data.setdefault("composers", {})
 
     todo = [c for c in candidates if f"new:{c['wikidata_id']}" not in entries]
@@ -74,8 +73,7 @@ def main():
             }
             fetched += 1
         print(f"  {min(i + 50, len(todo))}/{len(todo)}...")
-        with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-            json.dump(data, f, ensure_ascii=False, indent=1, sort_keys=True)
+        save_cache(OUTPUT_FILE, data)
 
     print(f"done -- {fetched} newly fetched, {len(entries)} total composer entries in cache.")
 

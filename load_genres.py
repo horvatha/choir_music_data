@@ -17,10 +17,10 @@ load_names.py's upsert_entity_names(), which this script also calls).
 Usage:
     python3 load_genres.py
 """
-import json
 
 import psycopg2
 
+from adapters.json_cache import load_cache
 from fetch_wikidata_relationships import OUTPUT_FILE, TARGET_LANGUAGES
 from load_names import upsert_entity_names
 
@@ -44,8 +44,7 @@ LINK_GENRE_SQL = """
 
 
 def load():
-    with open(OUTPUT_FILE, encoding="utf-8") as f:
-        data = json.load(f)
+    data = load_cache(OUTPUT_FILE)
     work_attributes = data.get("work_attributes", {})
     genre_labels = data.get("genre_labels", {})
 

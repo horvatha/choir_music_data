@@ -37,11 +37,11 @@ Herschel's son is both his "child" -- kept, a plain genealogical fact --
 and his "notable_student" -- excluded, since that claim is about
 astronomy/mathematics mentorship, not music).
 """
-import json
 import re
 
 import psycopg2
 
+from adapters.json_cache import load_cache
 from fetch_wikidata_relationships import OUTPUT_FILE
 
 FETCH_COMPOSER_ID_BY_WIKIDATA_SQL = "SELECT id FROM composers WHERE wikidata_id = %s"
@@ -71,8 +71,7 @@ def load():
     Not incremental -- truncates first, so reruns after a fresh fetch don't
     leave stale relations for composers whose recorded relationships
     changed upstream."""
-    with open(OUTPUT_FILE, encoding="utf-8") as f:
-        data = json.load(f)
+    data = load_cache(OUTPUT_FILE)
     qid_labels = data.get("qid_labels", {})
 
     conn = psycopg2.connect()

@@ -30,11 +30,11 @@ Usage:
 
 <input.txt>: one "qid|name" per line (no header).
 """
-import json
 
 import click
 
 import fetch_wikidata_relationships as fwr
+from adapters.json_cache import load_cache, save_cache
 
 
 def fetch(input_path, socks_port, output_path):
@@ -50,8 +50,7 @@ def fetch(input_path, socks_port, output_path):
         print(f"routing through SOCKS proxy on port {socks_port}")
 
     try:
-        with open(output_path, encoding="utf-8") as f:
-            data = json.load(f)
+        data = load_cache(output_path)
     except FileNotFoundError:
         data = {}
     entries = data.setdefault("composers", {})
@@ -83,8 +82,7 @@ def fetch(input_path, socks_port, output_path):
             }
             fetched += 1
         print(f"  {min(i + 50, len(todo))}/{len(todo)}...")
-        with open(output_path, "w", encoding="utf-8") as f:
-            json.dump(data, f, ensure_ascii=False, indent=1, sort_keys=True)
+        save_cache(output_path, data)
 
     print(f"done -- {fetched} newly fetched into {output_path}.")
 

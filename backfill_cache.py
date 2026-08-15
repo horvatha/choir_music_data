@@ -18,11 +18,11 @@ Usage:
     python3 backfill_cache.py --field attributes
     python3 backfill_cache.py --field relationships
 """
-import json
 
 import click
 
-import wikidata_entities_store
+from adapters import wikidata_entities_store
+from adapters.json_cache import load_cache, save_cache
 from fetch_wikidata_relationships import (
     OUTPUT_FILE,
     api_get,
@@ -164,8 +164,7 @@ def _run_batched(todo, config):
 def backfill(field, family):
     config = BACKFILL_FIELDS[field]
 
-    with open(OUTPUT_FILE, encoding="utf-8") as f:
-        data = json.load(f)
+    data = load_cache(OUTPUT_FILE)
     entries = data["composers"]
     label_cache = data.setdefault("qid_labels", {})
 
@@ -186,13 +185,11 @@ def backfill(field, family):
         print(f"  {len(cached)}/{len(todo)} served from wikidata_entities cache (no API call)")
         for cid, e in cached:
             config["apply"](e, cached_entities[e["qid"]], family)
-        with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-            json.dump(data, f, ensure_ascii=False, indent=1, sort_keys=True)
+        save_cache(OUTPUT_FILE, data)
 
     runner = _run_one_at_a_time(live, config, family) if config["batch_size"] == 1 else _run_batched(live, config)
     for _ in runner:
-        with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-            json.dump(data, f, ensure_ascii=False, indent=1, sort_keys=True)
+        save_cache(OUTPUT_FILE, data)
 
     referenced_qids = config["resolve_qids"](entries, todo)
     if referenced_qids:
@@ -201,8 +198,7 @@ def backfill(field, family):
             print(f"Resolving labels for {len(unresolved)} referenced entities...")
             label_cache.update(get_labels(unresolved))
 
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=1, sort_keys=True)
+    save_cache(OUTPUT_FILE, data)
     print("done")
 
 

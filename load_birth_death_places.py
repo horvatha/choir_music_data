@@ -22,9 +22,8 @@ reshuffle" using only P1365/P1366, so instead: every Wikidata item is its
 own canonical place by default, and genuine same-place successions are
 merged via MANUAL_PLACE_CLUSTERS below -- a small hand-maintained list of
 QID groups, same pattern as this repo's other hand-maintained override
-lists (e.g. ERA_OVERRIDES in parse_hu_wiki_composers.py, the COMPOSER_IDS
-list in backfill_russian_labels.py) -- explicit human judgment call per
-group, not a heuristic.
+lists (e.g. ERA_OVERRIDES in parse_hu_wiki_composers.py) -- explicit
+human judgment call per group, not a heuristic.
 
 Modeling, in order:
   1. Group Wikidata items per MANUAL_PLACE_CLUSTERS into one canonical
@@ -64,7 +63,6 @@ itself makes no network calls.
 Usage:
     python3 load_birth_death_places.py
 """
-import json
 
 import psycopg2
 
@@ -78,6 +76,7 @@ MANUAL_PLACE_CLUSTERS = [
     {"Q239", "Q111901161", "Q9005"},  # City of Brussels + general "Brussels" concept + "Brussels metropolitan area"
 ]
 
+from adapters.json_cache import load_cache
 from fetch_wikidata_relationships import OUTPUT_FILE
 
 UPSERT_COUNTRY_SQL = """
@@ -289,8 +288,7 @@ def resolve_period(periods, year):
 
 
 def main():
-    with open(OUTPUT_FILE, encoding="utf-8") as f:
-        data = json.load(f)
+    data = load_cache(OUTPUT_FILE)
     entries = data["composers"]
     qid_labels = data.get("qid_labels", {})
     place_claims = data.get("place_claims", {})

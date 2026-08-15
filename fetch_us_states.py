@@ -28,8 +28,8 @@ Do not run this at the same time as `cli.py fetch ...`/`cli.py backfill
 Usage:
     python3 fetch_us_states.py
 """
-import json
 
+from adapters.json_cache import load_cache, save_cache
 from fetch_wikidata_relationships import OUTPUT_FILE, _not_deprecated, api_get, get_labels
 
 US_QID = "Q30"
@@ -73,8 +73,7 @@ def fetch_entities(qids, entity_cache):
 
 
 def main():
-    with open(OUTPUT_FILE, encoding="utf-8") as f:
-        data = json.load(f)
+    data = load_cache(OUTPUT_FILE)
 
     place_countries = data.get("place_countries", {})
     us_places = [qid for qid, country_qid in place_countries.items() if country_qid == US_QID]
@@ -84,8 +83,7 @@ def main():
     place_state = data.setdefault("place_state", {})
 
     def save():
-        with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-            json.dump(data, f, ensure_ascii=False, indent=1, sort_keys=True)
+        save_cache(OUTPUT_FILE, data)
 
     current = {q: q for q in us_places if q not in place_state}
     print(f"{len(current)} places still need resolving")

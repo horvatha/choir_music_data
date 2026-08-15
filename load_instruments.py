@@ -8,10 +8,10 @@ file's qid_labels cache. instruments.name is the upsert key (not
 wikidata_id), since wikidata_id is nullable -- an instrument added by hand
 later with no QID still needs a stable identity to merge onto.
 """
-import json
 
 import psycopg2
 
+from adapters.json_cache import load_cache
 from fetch_wikidata_relationships import OUTPUT_FILE
 
 LOG_FILE = "data.log"
@@ -42,8 +42,7 @@ def load():
     data.log, in batches of LOG_BATCH_SIZE per line (overwritten each run,
     so it always reflects the most recent load, matching the truncate-and-
     rebuild behavior above)."""
-    with open(OUTPUT_FILE, encoding="utf-8") as f:
-        data = json.load(f)
+    data = load_cache(OUTPUT_FILE)
     qid_labels = data.get("qid_labels", {})
 
     conn = psycopg2.connect()

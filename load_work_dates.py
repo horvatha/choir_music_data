@@ -16,10 +16,10 @@ year-or-finer one found is used.
 Usage:
     python3 load_work_dates.py
 """
-import json
 
 import psycopg2
 
+from adapters.json_cache import load_cache
 from fetch_wikidata_relationships import OUTPUT_FILE
 
 # (work_attributes field, year column, month column, day column)
@@ -62,8 +62,7 @@ def extract_date(attrs, field):
 
 
 def load():
-    with open(OUTPUT_FILE, encoding="utf-8") as f:
-        data = json.load(f)
+    data = load_cache(OUTPUT_FILE)
     work_attributes = data.get("work_attributes", {})
 
     conn = psycopg2.connect()

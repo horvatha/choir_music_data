@@ -21,11 +21,11 @@ Usage:
     python3 fetch_labels.py --entity genre
     python3 fetch_labels.py --entity key
 """
-import json
 
 import click
 import psycopg2
 
+from adapters.json_cache import load_cache, save_cache
 from fetch_wikidata_relationships import OUTPUT_FILE, TARGET_LANGUAGES, api_get
 
 LABEL_ENTITIES = {
@@ -77,8 +77,7 @@ def _qids_from_cache(work_attributes, field):
 def fetch(entity, recheck):
     config = LABEL_ENTITIES[entity]
 
-    with open(OUTPUT_FILE, encoding="utf-8") as f:
-        data = json.load(f)
+    data = load_cache(OUTPUT_FILE)
     label_cache = data.setdefault(config["cache_key"], {})
 
     if config["source"] == "db":
@@ -98,8 +97,7 @@ def fetch(entity, recheck):
         for qid, entity_data in result.get("entities", {}).items():
             label_cache[qid] = {lang: v["value"] for lang, v in entity_data.get("labels", {}).items()}
         print(f"  {min(i + 50, len(todo))}/{len(todo)}...")
-        with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-            json.dump(data, f, ensure_ascii=False, indent=1, sort_keys=True)
+        save_cache(OUTPUT_FILE, data)
 
     print(f"done -- {len(label_cache)} distinct {entity} QIDs cached.")
 

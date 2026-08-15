@@ -17,17 +17,15 @@ this repo's fetch_*.py/backfill_*.py scripts.
 Usage:
     python3 merge_vm_fetch.py
 """
-import json
 
+from adapters.json_cache import load_cache, save_cache
 from fetch_wikidata_relationships import OUTPUT_FILE
 from fetch_composers import VM_OUTPUT_FILE
 
 
 def main():
-    with open(OUTPUT_FILE, encoding="utf-8") as f:
-        main_data = json.load(f)
-    with open(VM_OUTPUT_FILE, encoding="utf-8") as f:
-        vm_data = json.load(f)
+    main_data = load_cache(OUTPUT_FILE)
+    vm_data = load_cache(VM_OUTPUT_FILE)
 
     main_entries = main_data.setdefault("composers", {})
     main_labels = main_data.setdefault("qid_labels", {})
@@ -44,8 +42,7 @@ def main():
             main_labels[qid] = label
             added_labels += 1
 
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        json.dump(main_data, f, ensure_ascii=False, indent=1, sort_keys=True)
+    save_cache(OUTPUT_FILE, main_data)
 
     print(f"Merged {added_composers} new composers and {added_labels} new labels into {OUTPUT_FILE}.")
     print(f"({VM_OUTPUT_FILE} left untouched -- safe to delete once you've confirmed the merge looks right.)")

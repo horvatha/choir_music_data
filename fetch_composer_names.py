@@ -29,11 +29,11 @@ Usage:
     python3 fetch_composer_names.py --curated
     python3 fetch_composer_names.py --ids 123 --curated
 """
-import json
 
 import click
 import psycopg2
 
+from adapters.json_cache import load_cache, save_cache
 from fetch_wikidata_relationships import OUTPUT_FILE, api_get
 
 # Composer IDs whose translated name is a genuine per-language translation
@@ -78,8 +78,7 @@ CURATED_COMPOSER_IDS = {
 
 
 def fetch(composer_ids):
-    with open(OUTPUT_FILE, encoding="utf-8") as f:
-        data = json.load(f)
+    data = load_cache(OUTPUT_FILE)
     entries = data.setdefault("composers", {})
 
     conn = psycopg2.connect()
@@ -108,8 +107,7 @@ def fetch(composer_ids):
         entry["labels"] = labels
         print(f"  {composer_id} ({qid}): {len(labels)} labels")
 
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=1, sort_keys=True)
+    save_cache(OUTPUT_FILE, data)
     print("done.")
 
 

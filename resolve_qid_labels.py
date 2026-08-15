@@ -22,8 +22,8 @@ a usable label once *any* language is allowed, not just the narrow three
 Usage:
     python3 resolve_qid_labels.py
 """
-import json
 
+from adapters.json_cache import load_cache, save_cache
 from fetch_wikidata_relationships import OUTPUT_FILE, api_get, get_labels
 
 
@@ -48,8 +48,7 @@ def _resolve_any_language(qids: list[str]) -> dict:
 
 
 def main():
-    with open(OUTPUT_FILE, encoding="utf-8") as f:
-        data = json.load(f)
+    data = load_cache(OUTPUT_FILE)
     entries = data["composers"]
     label_cache = data.setdefault("qid_labels", {})
 
@@ -72,8 +71,7 @@ def main():
     if self_referential:
         label_cache.update(_resolve_any_language(self_referential))
 
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=1, sort_keys=True)
+    save_cache(OUTPUT_FILE, data)
     print("done.")
 
 

@@ -22,10 +22,10 @@ with no cached entry at all (never fetched by this pipeline).
 Usage:
     python3 load_missing_wikilinks.py
 """
-import json
 
 import psycopg2
 
+from adapters.json_cache import load_cache
 from fetch_wikidata_relationships import OUTPUT_FILE, TARGET_LANGUAGES
 
 INSERT_WIKILINK_SQL = """
@@ -36,8 +36,7 @@ INSERT_WIKILINK_SQL = """
 
 
 def main():
-    with open(OUTPUT_FILE, encoding="utf-8") as f:
-        data = json.load(f)
+    data = load_cache(OUTPUT_FILE)
     entries = data["composers"]
 
     conn = psycopg2.connect()

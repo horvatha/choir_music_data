@@ -11,7 +11,9 @@ that's a separate decision for later. The output file's keys double as the
 is safe to stop/resume (e.g. across rate limits or across nationality
 groups run on different days).
 """
+import gzip
 import json
+import os
 import re
 import time
 import urllib.error
@@ -19,9 +21,17 @@ import urllib.parse
 import urllib.request
 from datetime import date
 
-import wikidata_entities_store
+from adapters import wikidata_entities_store
 
-USER_AGENT = "choir_music_data-wikidata-fetch/1.0 (personal research script)"
+# WIKIDATA_CONTACT_EMAIL is optional -- set it in your shell (never
+# hardcoded/committed) to identify yourself to Wikimedia per their API
+# etiquette guidelines; omitted from the User-Agent entirely if unset.
+_contact = os.environ.get("WIKIDATA_CONTACT_EMAIL")
+USER_AGENT = (
+    f"choir_music_data-wikidata-fetch/1.0 (personal research script; {_contact})"
+    if _contact
+    else "choir_music_data-wikidata-fetch/1.0 (personal research script)"
+)
 OUTPUT_FILE = "wikidata_relationships.json"
 
 # Every composer gets these, regardless of nationality. "ru" is here
@@ -201,11 +211,16 @@ def use_socks_proxy(port=1080):
 
 def api_get(url, params, retries=5):
     full_url = f"{url}?{urllib.parse.urlencode(params)}"
-    req = urllib.request.Request(full_url, headers={"User-Agent": USER_AGENT})
+    req = urllib.request.Request(
+        full_url, headers={"User-Agent": USER_AGENT, "Accept-Encoding": "gzip"}
+    )
     for attempt in range(retries):
         try:
             with urllib.request.urlopen(req, timeout=15) as resp:
-                return json.load(resp)
+                raw = resp.read()
+                if resp.headers.get("Content-Encoding") == "gzip":
+                    raw = gzip.decompress(raw)
+                return json.loads(raw)
         except urllib.error.HTTPError as e:
             if e.code != 429 or attempt == retries - 1:
                 raise

@@ -32,11 +32,11 @@ Usage:
     python3 fetch_work_details.py            # only works missing a cached entry
     python3 fetch_work_details.py --recheck   # re-fetch every work too
 """
-import json
 import sys
 
 import psycopg2
 
+from adapters.json_cache import load_cache, save_cache
 from fetch_wikidata_relationships import OUTPUT_FILE, api_get
 
 FETCH_WORKS_SQL = "SELECT id, wikidata_id FROM works WHERE wikidata_id IS NOT NULL"
@@ -73,8 +73,7 @@ def extract_claim_values(claims, datatype):
 def main():
     recheck = "--recheck" in sys.argv
 
-    with open(OUTPUT_FILE, encoding="utf-8") as f:
-        data = json.load(f)
+    data = load_cache(OUTPUT_FILE)
     work_labels = data.setdefault("work_labels", {})
     work_attributes = data.setdefault("work_attributes", {})
 
@@ -112,8 +111,7 @@ def main():
                 work_attributes[qid] = attributes
 
         print(f"  {min(i + 50, len(todo))}/{len(todo)}...")
-        with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-            json.dump(data, f, ensure_ascii=False, indent=1, sort_keys=True)
+        save_cache(OUTPUT_FILE, data)
 
     print(f"done -- {len(work_labels)} distinct work QIDs cached "
           f"({len(work_attributes)} with at least one extra attribute).")

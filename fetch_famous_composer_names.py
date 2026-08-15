@@ -20,11 +20,11 @@ Usage:
     python3 fetch_famous_composer_names.py            # only composers missing a cached entry
     python3 fetch_famous_composer_names.py --recheck   # re-fetch everyone too
 """
-import json
 import sys
 
 import psycopg2
 
+from adapters.json_cache import load_cache, save_cache
 from fetch_wikidata_relationships import OUTPUT_FILE, TARGET_LANGUAGES, api_get
 
 # Requested by name in chat; resolved to composer_id by hand against the
@@ -151,8 +151,7 @@ UPSERT_ALT_NAME_SQL = """
 def main():
     recheck = "--recheck" in sys.argv
 
-    with open(OUTPUT_FILE, encoding="utf-8") as f:
-        data = json.load(f)
+    data = load_cache(OUTPUT_FILE)
     entries = data.setdefault("composers", {})
 
     conn = psycopg2.connect()
@@ -218,8 +217,7 @@ def main():
     finally:
         conn.close()
 
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=1, sort_keys=True)
+    save_cache(OUTPUT_FILE, data)
     print(f"done -- {loaded} alt names loaded across {len(COMPOSER_IDS)} composers.")
 
 

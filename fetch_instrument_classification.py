@@ -33,11 +33,11 @@ load_instrument_groups.py for the actual classification logic):
 Usage:
     python3 fetch_instrument_classification.py
 """
-import json
 import time
 
 import psycopg2
 
+from adapters.json_cache import load_cache, save_cache
 from fetch_wikidata_relationships import OUTPUT_FILE, api_get
 
 MAX_DEPTH = 4
@@ -68,8 +68,7 @@ def _fetch_claims_batch(qids, props):
 
 
 def main():
-    with open(OUTPUT_FILE, encoding="utf-8") as f:
-        data = json.load(f)
+    data = load_cache(OUTPUT_FILE)
     hs_codes = data.setdefault("instrument_hornbostel_sachs", {})
     ancestors = data.setdefault("instrument_ancestors", {})
 
@@ -106,8 +105,7 @@ def main():
                 hs_result[qid] = codes[0]
         time.sleep(0.3)
     hs_codes.update(hs_result)
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=1, sort_keys=True)
+    save_cache(OUTPUT_FILE, data)
     print(f"  {len(hs_result)} Hornbostel-Sachs codes fetched")
 
     # Wave-based bounded BFS up P279, shared across all instruments in
@@ -139,8 +137,7 @@ def main():
     for qid, found in result_ancestors.items():
         ancestors[qid] = sorted(found)
 
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=1, sort_keys=True)
+    save_cache(OUTPUT_FILE, data)
     print(f"done -- {len(hs_codes)} Hornbostel-Sachs codes, {len(ancestors)} ancestor sets cached.")
 
 

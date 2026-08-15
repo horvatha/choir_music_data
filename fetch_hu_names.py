@@ -21,14 +21,13 @@ Do not run this at the same time as `cli.py fetch ...`/`cli.py backfill
 Usage:
     python3 fetch_hu_names.py
 """
-import json
 
+from adapters.json_cache import load_cache, save_cache
 from fetch_wikidata_relationships import OUTPUT_FILE, get_hu_labels
 
 
 def main():
-    with open(OUTPUT_FILE, encoding="utf-8") as f:
-        data = json.load(f)
+    data = load_cache(OUTPUT_FILE)
 
     hu_names = data.setdefault("hu_names", {})
 
@@ -53,8 +52,7 @@ def main():
         for qid in batch:
             hu_names[qid] = fresh.get(qid)
         print(f"  {min(i + 50, len(todo))}/{len(todo)}...")
-        with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-            json.dump(data, f, ensure_ascii=False, indent=1, sort_keys=True)
+        save_cache(OUTPUT_FILE, data)
 
     found = sum(1 for v in hu_names.values() if v)
     print(f"done -- {found}/{len(hu_names)} QIDs have an Hungarian label")

@@ -59,12 +59,12 @@ single "native" language from citizenship.
 Usage:
     python3 load_missing_composers.py
 """
-import json
 import re
 import unicodedata
 
 import psycopg2
 
+from adapters.json_cache import load_cache
 from fetch_wikidata_relationships import OUTPUT_FILE, TARGET_LANGUAGES
 
 NON_COMPOSER_RELATION_PATTERN = re.compile(
@@ -172,8 +172,7 @@ def _is_composer_description(descriptions: dict) -> bool:
 
 
 def main():
-    with open(OUTPUT_FILE, encoding="utf-8") as f:
-        data = json.load(f)
+    data = load_cache(OUTPUT_FILE)
     entries = data.get("composers", {})
 
     candidates = [

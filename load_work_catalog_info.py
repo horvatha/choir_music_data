@@ -11,10 +11,10 @@ is used, same tradeoff as load_work_dates.py's date fields.
 Usage:
     python3 load_work_catalog_info.py
 """
-import json
 
 import psycopg2
 
+from adapters.json_cache import load_cache
 from fetch_wikidata_relationships import OUTPUT_FILE
 
 UPDATE_WORK_CATALOG_INFO_SQL = """
@@ -23,8 +23,7 @@ UPDATE_WORK_CATALOG_INFO_SQL = """
 
 
 def load():
-    with open(OUTPUT_FILE, encoding="utf-8") as f:
-        data = json.load(f)
+    data = load_cache(OUTPUT_FILE)
     work_attributes = data.get("work_attributes", {})
 
     conn = psycopg2.connect()

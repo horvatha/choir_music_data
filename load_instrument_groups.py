@@ -16,10 +16,10 @@ explicit fallback when nothing resolves).
 Usage:
     python3 load_instrument_groups.py
 """
-import json
 
 import psycopg2
 
+from adapters.json_cache import load_cache
 from fetch_wikidata_relationships import OUTPUT_FILE, TARGET_LANGUAGES, api_get
 
 # (key, wikidata_id | None, parent_key | None, display_order). wikidata_id
@@ -155,8 +155,7 @@ def classify(hs_code, ancestor_qids):
 
 
 def load():
-    with open(OUTPUT_FILE, encoding="utf-8") as f:
-        data = json.load(f)
+    data = load_cache(OUTPUT_FILE)
     hs_codes = data.get("instrument_hornbostel_sachs", {})
     ancestors = data.get("instrument_ancestors", {})
 
