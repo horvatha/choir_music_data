@@ -37,6 +37,14 @@ EXCLUDED_QIDS = {
                   # XIXème siècle" -- has no Wikidata description and no P31
                   # (instance of) claim at all; looks like a mis-scraped
                   # sheet-music collection/publication title, not a movement.
+    "Q213457",    # "Beat Generation" -- a literary movement, not a musical
+                  # one; picked up via Paul Bowles's P135 claims (he's a
+                  # genuine composer -- studied under Copland, wrote
+                  # theatrical/concert works -- but his Beat Generation
+                  # association is literary, from his later writing career).
+                  # Not a case of one mistagged composer: this movement
+                  # concept itself isn't a musical-composer classification,
+                  # so it's excluded outright rather than per-composer.
 }
 
 # QID -> QID: silently redirect a mistagged movement value to the one it
