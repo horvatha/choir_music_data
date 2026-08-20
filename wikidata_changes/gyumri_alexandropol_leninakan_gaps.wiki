@@ -1,0 +1,19 @@
+Links:
+* [[Q199500]] — Gyumri, Armenia (formerly Alexandropol, then Leninakan)
+* [[Q656]] — Saint Petersburg, referenced below for comparison (has the Latin-script coverage Gyumri lacks)
+
+== Missing {{P|17}} (country) claim for the ~1837/1840–1922 "Alexandropol" period ==
+
+The item's {{P|17}} history currently only has:
+* [[Q15180]] (Soviet Union), 1922–1991
+* [[Q399]] (Armenia), 1991–present, preferred
+
+Nothing covers the pre-1922 period, even though the item's own {{P|1448}} (official name) claims record the town as "Ալեքսանդրապոլ"/"Александрополь" (Alexandropol) from at least 1837/1840 through 1922 — during which it was part of the Russian Empire ([[Q34266]], the same item already used as this repo's own composers' {{P|27}} citizenship value for other Russian-Empire-era people). A {{P|17}}=[[Q34266]] claim, time-qualified to roughly 1837/1840–1917 or 1840–1922 (whatever an editor settles on against the existing 1922 Soviet claim's start), would close this gap.
+
+We found this as a downstream issue: a third-party database resolving a person's birth country from their birth place's {{P|17}} history over time shows no country at all for anyone born in Alexandropol before 1922, purely because Wikidata has nothing recorded for that span.
+
+== Missing Latin-script {{P|1448}} (official name) claims for the historical names ==
+
+The item has {{P|1448}} claims for "Ալեքսանդրապոլ"/"Александрополь"/"Александропаль" (hy/ru/be, ~1837–1924) and "Լենինական"/"Ленинакан" (hy/hyw/ru, 1924–1990), but no equivalent claim in any Latin-script language (en, de, ...) for either period — unlike Saint Petersburg's item ([[Q656]]), which has German/Hungarian/Polish/Romanian/Catalan Latin-script claims alongside its Cyrillic ones for its own analogous Soviet-era "Leningrad" period. "Alexandropol" and "Leninakan" are both standard, unambiguous transliterations, were an editor to want to add them.
+
+'''Minor, lower-priority:''' the existing hy claim for the Alexandropol period is time-qualified 1840–1924, while the ru/be claims for what looks like the same period are qualified 1837–1924 — a 3-year mismatch across languages for what's presumably meant to be the same historical window. Not clearly wrong (a name's start date can legitimately differ by source), just inconsistent — worth an editor's judgment call rather than a clear-cut fix.

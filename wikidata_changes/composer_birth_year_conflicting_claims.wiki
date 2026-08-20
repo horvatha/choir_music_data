@@ -1,0 +1,18 @@
+Links:
+* [[Q27732062]] — Semyon Viktorovich Panchenko (1867 or 1887–1937), composer, our composer id 10234
+* [[Q19869123]] — Isidore Bertheaume (1751 or 1752–1802), violinist/composer, our composer id 9563
+* https://ru.wikipedia.org/wiki/Панченко,_Семён_Викторович — ru.wikipedia article; cites the Brockhaus-Efron dictionary (1906) for 1867 twice (direct + Wikisource transcription), a single GND record for 1887
+* https://fr.wikipedia.org/wiki/Isidore_Bertheaume — fr.wikipedia article; gives "vers 1752" (circa 1752)
+
+== Conflicting {{P|569}} claims with neither marked preferred ==
+
+Both composers carry two mutually-exclusive birth-year claims, both "normal" rank, with no "preferred" rank set on either — so a downstream consumer resolving {{P|569}} has to guess which one is right (our own pipeline picked arbitrarily by claim order until we checked each by hand).
+
+'''[[Q27732062]] (Panchenko): 1867 vs. 1887.'''
+* 1867 is referenced (via {{P|248}}) to the Brockhaus-Efron Encyclopedic Dictionary (1906) — a near-contemporary Russian source (Panchenko died in 1937), corroborated independently via both a direct dictionary reference and a Wikisource transcription of the same entry.
+* 1887 is referenced only to a Deutsche Nationalbibliothek (GND) authority record — downstream library-catalog metadata, not an original biographical source.
+* Recommend marking the 1867 claim preferred (or reviewing/deprecating 1887, if an editor agrees GND is the weaker source here).
+
+'''[[Q19869123]] (Bertheaume): 1751 (qualified "circa" via {{P|1480}}) vs. 1752 (plain, no qualifier).'''
+* fr.wikipedia's own article gives "vers 1752" (circa 1752) — leans toward 1752 rather than the already-circa-qualified 1751 claim, though this is genuinely less clear-cut than the Panchenko case.
+* Recommend an editor review the sourcing behind both claims and mark whichever is better-attested as preferred.
