@@ -22,6 +22,7 @@ DROP TABLE IF EXISTS composer_alt_names;
 DROP TABLE IF EXISTS composer_wikilinks;
 DROP TABLE IF EXISTS composer_eras;
 DROP TABLE IF EXISTS composers;
+DROP TABLE IF EXISTS place_period_names;
 DROP TABLE IF EXISTS place_periods;
 DROP TABLE IF EXISTS place_names;
 DROP TABLE IF EXISTS place_qids;
@@ -183,6 +184,24 @@ CREATE TABLE place_names (
     language TEXT NOT NULL,
     name     TEXT NOT NULL,
     PRIMARY KEY (place_id, language)
+);
+
+-- A place_period's name in another language, e.g. de: "Leningrad" / hu:
+-- "Leningrád" for the 1924-1991 Ленинград window on Saint Petersburg's
+-- timeline -- same shape as place_names, but keyed to a specific
+-- historical window instead of the place as a whole (a period's name in
+-- one language is often a genuinely different word than that language's
+-- name for the place in another period, not just a translation -- see
+-- place_periods' own comment). Sourced from the same per-window P1448
+-- "official name" Wikidata claims place_periods.name itself is picked
+-- from (load_place_period_names.py); place_periods.name/default_language
+-- remains the single fallback name for a period Wikidata has no
+-- language-appropriate entry for here.
+CREATE TABLE place_period_names (
+    period_id INTEGER NOT NULL REFERENCES place_periods(id) ON DELETE CASCADE,
+    language  TEXT NOT NULL,
+    name      TEXT NOT NULL,
+    PRIMARY KEY (period_id, language)
 );
 
 -- Links a place to an earlier, now-absorbed place -- for composer
