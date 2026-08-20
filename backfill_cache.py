@@ -102,7 +102,22 @@ def _relationships_resolve_qids(entries, todo):
 BACKFILL_FIELDS = {
     "dates": {
         "props": "claims", "batch_size": 1, "sleep": 0.3,
-        "todo": lambda cid, e: bool(e.get("qid")) and "dates" not in e,
+        # "dates" being present isn't enough -- extract_dates() used to
+        # silently drop a birth/death that only had a year/decade/century-
+        # precision claim (no day-precision claim to win "birth"/"death",
+        # and no "birth_year_precision"/"death_year_precision" fallback
+        # existed yet), so an entry fetched before that fallback was added
+        # can have "dates" with e.g. only "death" and no birth information
+        # at all even though Wikidata has a (possibly ambiguous) year claim
+        # for it. Re-check both sides explicitly rather than trusting the
+        # key's mere presence.
+        "todo": lambda cid, e: bool(e.get("qid")) and (
+            "dates" not in e
+            or any(
+                key not in e["dates"] and f"{key}_year_precision" not in e["dates"]
+                for key in ("birth", "death")
+            )
+        ),
         "apply": _dates_apply, "resolve_qids": _dates_resolve_qids,
     },
     "sitelinks": {
@@ -160,7 +175,7 @@ def _run_batched(todo, config):
         yield
 
 
-def backfill(field, family):
+def backfill(field, family, cache_only=False):
     config = BACKFILL_FIELDS[field]
 
     data = load_cache(OUTPUT_FILE)
@@ -186,9 +201,13 @@ def backfill(field, family):
             config["apply"](e, cached_entities[e["qid"]], family)
         save_cache(OUTPUT_FILE, data)
 
-    runner = _run_one_at_a_time(live, config, family) if config["batch_size"] == 1 else _run_batched(live, config)
-    for _ in runner:
-        save_cache(OUTPUT_FILE, data)
+    if cache_only:
+        if live:
+            print(f"  skipping {len(live)}/{len(todo)} with no cached raw entity (--cache-only, no API calls)")
+    else:
+        runner = _run_one_at_a_time(live, config, family) if config["batch_size"] == 1 else _run_batched(live, config)
+        for _ in runner:
+            save_cache(OUTPUT_FILE, data)
 
     referenced_qids = config["resolve_qids"](entries, todo)
     if referenced_qids:
@@ -204,7 +223,8 @@ def backfill(field, family):
 @click.command("cache")
 @click.option("--field", type=click.Choice(sorted(BACKFILL_FIELDS)), required=True, help="Which cache field to backfill.")
 @click.option("--family", is_flag=True, help="With --field dates: also extract child/spouse from the same fetch.")
-def cache_command(field, family):
+@click.option("--cache-only", is_flag=True, help="Only reprocess composers with an already-cached raw entity; skip live API calls entirely.")
+def cache_command(field, family, cache_only):
     """Backfill --field into every already-fetched composer's cache entry.
 
     Do not run concurrently with fetch composers or another backfill cache
@@ -212,7 +232,7 @@ def cache_command(field, family):
     """
     if family and field != "dates":
         raise click.UsageError("--family is only valid with --field dates")
-    backfill(field, family)
+    backfill(field, family, cache_only)
 
 
 if __name__ == "__main__":
