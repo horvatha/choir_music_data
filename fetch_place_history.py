@@ -22,10 +22,11 @@ Caches into wikidata_relationships.json under:
   - "qid_labels": (shared cache, see fetch_wikidata_relationships.py) --
     extended here for any place QID not already resolved (e.g. a
     predecessor/successor QID no composer directly references).
-  - "place_labels": {qid: {language: name, ...}} -- every hu/en/de/ru
-    label a place has on Wikidata (not just qid_labels' single "best"
-    pick) -- consumed by `cli.py load names --entity place` to populate
-    place_names with a real per-language fallback chain.
+  - "place_labels": {qid: {language: name, ...}} -- every TARGET_LANGUAGES
+    (fetch_wikidata_relationships.py) label a place has on Wikidata (not
+    just qid_labels' single "best" pick) -- consumed by `cli.py load names
+    --entity place` to populate place_names with a real per-language
+    fallback chain.
   - "country_info": {country_qid: {"name": ..., "abbr": ..., "language":
     ...}} -- "name"/"abbr" same shape as the old fetch_place_countries.py;
     "language" is the country's official language (P37), mapped to a code
@@ -34,22 +35,41 @@ Caches into wikidata_relationships.json under:
     claims, consumed by load_birth_death_places.py to set each
     place_periods row's default_language.
 
+place_claims and place_labels are both derived from the *same* live
+request per place QID (props=claims|labels, one combined call -- no more
+separate claims-only/labels-only passes), and the full raw entity behind
+that request is also stored in the wikidata_entities Postgres DB (see
+adapters/wikidata_entities_store.py) exactly the way composer entities
+already are. That means a rerun can reprocess an already-fetched place
+straight from that DB cache -- re-deriving place_claims/place_labels with
+zero API calls -- instead of only ever being able to skip a place
+entirely or re-fetch it live.
+
 Do not run this at the same time as `cli.py fetch ...`/`cli.py backfill
 ...` or another backfill_*.py/fetch_*.py script -- see README.md's
 "Pipeline rules" for the concurrent-cache-write hazard.
 
 Usage:
-    python3 fetch_place_history.py            # only places missing a cached entry
-    python3 fetch_place_history.py --recheck   # re-fetch every referenced place too
+    python3 fetch_place_history.py                      # only places missing a cached entry
+    python3 fetch_place_history.py --recheck             # re-fetch every referenced place live,
+                                                          # ignoring the wikidata_entities cache
+    python3 fetch_place_history.py --max-age-days 30     # also refresh any place (even one
+                                                          # already fully cached) whose
+                                                          # wikidata_entities row is older than
+                                                          # this many days -- live if not fresh
+                                                          # enough there either, otherwise
+                                                          # re-derived from that cached entity
 """
 import re
 import sys
 import time
 
+from adapters import wikidata_entities_store
 from adapters.json_cache import load_cache, save_cache
 from adapters.wikidata_api import api_get, get_labels
 from fetch_wikidata_relationships import (
     OUTPUT_FILE,
+    TARGET_LANGUAGES,
     _not_deprecated,
     extract_coordinates,
 )
@@ -132,12 +152,17 @@ def extract_single_qid(entity, prop):
     return preferred or normal
 
 
-# Wikidata QID -> two-letter code, for the handful of languages this repo
-# actually fetches place names in (see fetch_hu_names.py and the hu/en/de/
-# ru languages requested for place_labels above). Verified against
-# Wikidata directly, not from memory (Q1860/Q9067/Q7737/Q188 == English/
-# Hungarian/Russian/German respectively) -- extend this if more languages
-# get added to that set later.
+# Wikidata QID -> two-letter code, for the languages a place_periods row's
+# default_language can actually resolve to -- deliberately narrower than
+# place_labels' TARGET_LANGUAGES fetch above: this only needs to cover a
+# country's *own* official language (P37), used purely to flag whether a
+# period's own recorded name is already in a Latin-script language (see
+# extract_official_language below and concert_music_app's
+# services/places.py) -- widening place_labels' translation coverage
+# doesn't change what "the country's own language" can be. Verified
+# against Wikidata directly, not from memory (Q1860/Q9067/Q7737/Q188 ==
+# English/Hungarian/Russian/German respectively) -- extend this if more
+# languages turn out to matter for that check.
 LANGUAGE_QID_TO_CODE = {
     "Q1860": "en",
     "Q9067": "hu",
@@ -190,6 +215,28 @@ def extract_official_language(entity):
     return preferred or normal
 
 
+def _apply_entity(qid, entity, place_claims, place_labels):
+    """Derives this run's place_claims[qid]/place_labels[qid] from one raw
+    entity -- shared by both the DB-cache-hit path and the live-fetch path
+    below, so a place reprocessed straight from wikidata_entities ends up
+    identical to one just fetched live."""
+    coords = extract_coordinates(entity)
+    place_claims[qid] = {
+        "p17": extract_p17_windows(entity),
+        "p1448": extract_p1448_windows(entity),
+        "predecessor": extract_single_qid(entity, "P1365"),
+        "successor": extract_single_qid(entity, "P1366"),
+        "coordinates": list(coords) if coords else None,
+    }
+    # entity["labels"] is already restricted to whatever `languages` the
+    # request that produced it asked for (unlike claims, Wikidata's
+    # "labels" prop is filtered server-side by the languages param) -- so
+    # this is only as complete as TARGET_LANGUAGES was at fetch time; a
+    # future widening of that list still needs a live re-fetch, same
+    # limitation composer labels already have.
+    place_labels[qid] = {lang: v["value"] for lang, v in entity.get("labels", {}).items()}
+
+
 def extract_string_claim(entity, prop):
     for c in entity.get("claims", {}).get(prop, []):
         if not _not_deprecated(c):
@@ -202,6 +249,9 @@ def extract_string_claim(entity, prop):
 
 def main():
     recheck = "--recheck" in sys.argv
+    max_age_days = None
+    if "--max-age-days" in sys.argv:
+        max_age_days = float(sys.argv[sys.argv.index("--max-age-days") + 1])
 
     data = load_cache(OUTPUT_FILE)
     entries = data["composers"]
@@ -216,26 +266,46 @@ def main():
         seed_qids.update(attributes.get("place_of_birth", []))
         seed_qids.update(attributes.get("place_of_death", []))
 
-    todo = sorted(q for q in seed_qids if recheck or q not in place_claims)
+    if recheck:
+        todo = sorted(seed_qids)
+    else:
+        already_complete = {q for q in seed_qids if q in place_claims and q in place_labels}
+        if max_age_days is not None and already_complete:
+            # Even a fully-processed place doesn't get a free pass once a
+            # max age is given -- same idea as HTTP's max-age not
+            # exempting a "complete" cached response from expiring.
+            fresh = set(wikidata_entities_store.fetch_entities(sorted(already_complete), max_age_days=max_age_days))
+            todo = sorted(q for q in seed_qids if q not in already_complete or q not in fresh)
+        else:
+            todo = sorted(q for q in seed_qids if q not in already_complete)
     print(f"{len(todo)} distinct places to fetch history for" + (" (rechecking all)" if recheck else ""))
 
-    for i in range(0, len(todo), 50):
-        batch = todo[i:i + 50]
+    # Every already-cached-in-wikidata_entities QID in `todo` (e.g. one
+    # that just aged out of max_age_days, or one whose place_claims/
+    # place_labels entry predates this DB cache existing at all) gets
+    # reprocessed straight from that stored raw entity -- zero API calls.
+    # --recheck bypasses this entirely: every QID goes live, matching its
+    # existing "ignore whatever's cached" meaning.
+    cached_entities = {} if recheck else wikidata_entities_store.fetch_entities(todo, max_age_days=max_age_days)
+    live_qids = [q for q in todo if q not in cached_entities]
+    if cached_entities:
+        print(f"  {len(cached_entities)}/{len(todo)} served from wikidata_entities cache (no API call)")
+        for qid, entity in cached_entities.items():
+            _apply_entity(qid, entity, place_claims, place_labels)
+        save_cache(OUTPUT_FILE, data)
+
+    for i in range(0, len(live_qids), 50):
+        batch = live_qids[i:i + 50]
         result = api_get(
             "https://www.wikidata.org/w/api.php",
-            {"action": "wbgetentities", "format": "json", "ids": "|".join(batch), "props": "claims"},
+            {"action": "wbgetentities", "format": "json", "ids": "|".join(batch),
+             "props": "claims|labels", "languages": "|".join(TARGET_LANGUAGES)},
         )
         for qid, entity in result.get("entities", {}).items():
-            coords = extract_coordinates(entity)
-            place_claims[qid] = {
-                "p17": extract_p17_windows(entity),
-                "p1448": extract_p1448_windows(entity),
-                "predecessor": extract_single_qid(entity, "P1365"),
-                "successor": extract_single_qid(entity, "P1366"),
-                "coordinates": list(coords) if coords else None,
-            }
+            wikidata_entities_store.store_entity(qid, entity)
+            _apply_entity(qid, entity, place_claims, place_labels)
         time.sleep(0.3)
-        print(f"  {min(i + 50, len(todo))}/{len(todo)}...")
+        print(f"  {min(i + 50, len(live_qids))}/{len(live_qids)}...")
         save_cache(OUTPUT_FILE, data)
 
     unresolved_labels = sorted(q for q in place_claims if q not in qid_labels)
@@ -243,30 +313,6 @@ def main():
         print(f"Resolving labels for {len(unresolved_labels)} places...")
         qid_labels.update(get_labels(unresolved_labels))
         save_cache(OUTPUT_FILE, data)
-
-    # Per-language labels (not just the single "best" one qid_labels picks)
-    # for every place -- lets `cli.py load names --entity place` offer a
-    # real fallback
-    # chain (Hungarian -> English -> German -> ... -> Russian) instead of
-    # showing a reader whatever script a place's period name happened to
-    # be recorded in on Wikidata (e.g. Cyrillic for most Russian Empire/
-    # Soviet-era places, unreadable to a Hungarian or English reader).
-    unresolved_place_labels = sorted(q for q in place_claims if q not in place_labels)
-    if unresolved_place_labels:
-        print(f"Resolving hu/en/de/ru labels for {len(unresolved_place_labels)} places...")
-        for i in range(0, len(unresolved_place_labels), 50):
-            batch = unresolved_place_labels[i:i + 50]
-            result = api_get(
-                "https://www.wikidata.org/w/api.php",
-                {"action": "wbgetentities", "format": "json", "ids": "|".join(batch),
-                 "props": "labels", "languages": "hu|en|de|ru"},
-            )
-            for qid, entity in result.get("entities", {}).items():
-                labels = {lang: v["value"] for lang, v in entity.get("labels", {}).items()}
-                place_labels[qid] = labels
-            time.sleep(0.3)
-            print(f"  {min(i + 50, len(unresolved_place_labels))}/{len(unresolved_place_labels)}...")
-            save_cache(OUTPUT_FILE, data)
 
     country_qids = sorted({
         w["country_qid"]

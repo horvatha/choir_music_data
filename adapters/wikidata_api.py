@@ -113,7 +113,21 @@ def get_qid(wikilinks):
     return None
 
 
-def get_entity(qid, languages):
+def get_entity(qid, languages, max_age_days=None):
+    """A single entity's full labels|claims|sitelinks, for `languages`.
+
+    max_age_days is opt-in and None by default -- when None, this *always*
+    makes a live request, exactly as before: fetch_composers.py's --ids
+    relies on that ("this never skips get_entity() itself" -- see its
+    _fetch_one() docstring) to guarantee a forced re-fetch actually re-
+    fetches, so a cache-trusts-forever default here would silently break
+    that guarantee. Passing a numeric max_age_days opts a caller into
+    checking wikidata_entities first and skipping the live call when a
+    fresh-enough row is already there."""
+    if max_age_days is not None:
+        cached = wikidata_entities_store.fetch_entities([qid], max_age_days=max_age_days)
+        if qid in cached:
+            return cached[qid]
     data = api_get(
         "https://www.wikidata.org/w/api.php",
         {"action": "wbgetentities", "format": "json", "ids": qid,

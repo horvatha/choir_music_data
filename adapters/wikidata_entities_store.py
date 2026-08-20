@@ -52,21 +52,33 @@ def store_entity(qid: str, entity: dict) -> None:
         _disabled = True
 
 
-def fetch_entities(qids) -> dict:
+def fetch_entities(qids, max_age_days=None) -> dict:
     """Bulk-read cached raw entities: {qid: entity} for whichever of the
     given QIDs already have a row. A QID missing from the result means
     "not cached", not an error -- callers fall back to a live fetch for
     it. Same failure-handling convention as store_entity()/warm_up(): a DB
     problem disables the cache for the rest of the process and returns {}
     rather than raising, so callers always have a safe, correct fallback
-    (behave exactly as if nothing were cached)."""
+    (behave exactly as if nothing were cached).
+
+    max_age_days: when given, a cached row whose fetched_at is older than
+    this many days is treated the same as "not cached" -- same idea as
+    HTTP's Cache-Control max-age. None (the default) means any cached row
+    is trusted regardless of age, i.e. unchanged from this function's
+    original behavior."""
     global _disabled
     if _disabled or not qids:
         return {}
     try:
         conn = _get_connection()
         with conn.cursor() as cur:
-            cur.execute("SELECT qid, entity FROM entities WHERE qid = ANY(%s)", (list(qids),))
+            if max_age_days is None:
+                cur.execute("SELECT qid, entity FROM entities WHERE qid = ANY(%s)", (list(qids),))
+            else:
+                cur.execute(
+                    "SELECT qid, entity FROM entities WHERE qid = ANY(%s) AND fetched_at >= now() - %s * INTERVAL '1 day'",
+                    (list(qids), max_age_days),
+                )
             return dict(cur.fetchall())
     except Exception as error:
         print(f"wikidata_entities_store: could not read cached entities ({error}); continuing without it.")
