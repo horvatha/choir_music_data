@@ -148,6 +148,35 @@ def order_chain(qids, place_claims):
     return order
 
 
+def _clip_undated_name_window(name_windows):
+    """A P1448 "official name" claim with no P580/P582 time qualifiers at
+    all usually represents Wikidata's *current* value for the property --
+    left without a start time simply because it's still true today, not
+    because it applies since the dawn of time. _window_active (below)
+    turns that missing start/end into an unbounded (-inf, +inf) range, so
+    without this clip it wins over every *other*, dated window for any
+    point before the earliest dated claim starts too -- backwards. Real
+    case that surfaced this (Q157688, Oranienbaum/Lomonosov): a dated
+    P1448 claim gives "Oranienbaum" for 1780-1948, and a separate,
+    undated claim gives "Lomonosov" -- the real 1948 rename, not a name
+    that predates 1780 -- but naive merging put "Lomonosov" on the
+    pre-1780 window instead, because nothing bounded its start.  Clips
+    any undated window to start no earlier than the latest end of the
+    other, dated windows in the same list, so it only fills the gap
+    *after* them, matching Wikidata's usual convention (dated windows
+    for historical/former names, an undated one for the current name).
+    Left alone when every window in the list is already dated, or when
+    every window is undated (nothing to clip against)."""
+    dated_ends = [end for start, end, _v in name_windows if (start is not None or end is not None) and end is not None]
+    if not dated_ends:
+        return name_windows
+    floor = max(dated_ends)
+    return [
+        (floor, None, value) if start is None and end is None else (start, end, value)
+        for start, end, value in name_windows
+    ]
+
+
 def build_qid_windows(qid, claims, qid_labels):
     """(country_windows, name_windows) for one Wikidata item, each a list
     of (start, end, value) tuples. name_windows is None when the item has
@@ -181,7 +210,7 @@ def build_qid_windows(qid, claims, qid_labels):
             or sorted(group, key=lambda w: w["language"])[0]
         )
         name_windows.append((start, end, best["name"]))
-    return country_windows, name_windows
+    return country_windows, _clip_undated_name_window(name_windows)
 
 
 def _clip_after(windows, floor):
