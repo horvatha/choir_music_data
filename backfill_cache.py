@@ -110,11 +110,20 @@ BACKFILL_FIELDS = {
         # can have "dates" with e.g. only "death" and no birth information
         # at all even though Wikidata has a (possibly ambiguous) year claim
         # for it. Re-check both sides explicitly rather than trusting the
-        # key's mere presence.
+        # key's mere presence. Same reasoning for "_calendar": an entry
+        # fetched before extract_dates() correctly propagated the winning
+        # claim's calendarmodel can have a day-precision "birth"/"death"
+        # with no "birth_calendar"/"death_calendar" alongside it, even
+        # though the cached raw entity's claim does carry a recognized
+        # calendarmodel (verified directly for Ferdinando Provesi/
+        # Q3068736 -- 2,639 composers affected, discovered via
+        # concert_music_app's O.S./N.S. display work not showing a
+        # bracket for composers who should have one).
         "todo": lambda cid, e: bool(e.get("qid")) and (
             "dates" not in e
             or any(
-                key not in e["dates"] and f"{key}_year_precision" not in e["dates"]
+                (key not in e["dates"] and f"{key}_year_precision" not in e["dates"])
+                or (key in e["dates"] and f"{key}_calendar" not in e["dates"])
                 for key in ("birth", "death")
             )
         ),
