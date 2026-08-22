@@ -253,6 +253,26 @@ CREATE TABLE composers (
     -- start pointing at them -- the nulled-out FK gets re-resolved to a
     -- freshly-inserted period row later in that same script run.
     birth_place_id    INTEGER REFERENCES place_periods(id) ON DELETE SET NULL,
+    -- TRUE via either of two different paths, both recorded in
+    -- birth_year_verified_note: (1) a human resolved genuine ambiguity/
+    -- conflict in birth_year specifically (e.g. two mutually-exclusive
+    -- Wikidata P569 claims, neither ranked preferred) and picked which
+    -- one is correct -- see verify_exact_agreeing_dates.py's module
+    -- docstring for path (2), where nothing was ever ambiguous and TRUE
+    -- just records that birth_raw/birth_year/Wikidata's exact-precision
+    -- claim(s) all mechanically agree, no judgment call involved. Neither
+    -- path is a claim that birth_date's day/month (if any) was
+    -- independently checked, which is a separate, narrower kind of
+    -- confidence this doesn't cover. Any future bulk "reload dates from
+    -- Wikidata" pass must skip rows where this is TRUE rather than re-run
+    -- WD's own (still-ambiguous, still-unranked) claim resolution and
+    -- silently undo either kind of confirmation. Note also that this is a
+    -- point-in-time snapshot, not a standing guarantee -- a later
+    -- Wikidata edit adding a new conflicting claim won't retroactively
+    -- flip this back to FALSE. birth_year_verified_note records *why* --
+    -- the sourcing argument, not just the fact that a choice was made.
+    birth_year_verified      BOOLEAN NOT NULL DEFAULT FALSE,
+    birth_year_verified_note TEXT,
 
     death_raw         TEXT,
     death_year        INTEGER,
@@ -261,6 +281,8 @@ CREATE TABLE composers (
     death_date        DATE,
     death_calendar    wikidata_calendar,
     death_place_id    INTEGER REFERENCES place_periods(id) ON DELETE SET NULL,
+    death_year_verified      BOOLEAN NOT NULL DEFAULT FALSE,
+    death_year_verified_note TEXT,
 
     flourish_raw      TEXT,
     flourish_start    INTEGER,

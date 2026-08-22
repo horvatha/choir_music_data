@@ -21,6 +21,7 @@ import urllib.parse
 from datetime import date
 
 from adapters.wikidata_api import BASE_LABEL_LANGUAGES
+from domain import dates
 
 OUTPUT_FILE = "wikidata_relationships.json"
 
@@ -257,14 +258,6 @@ DATE_PROPS = {"P569": "birth", "P570": "death"}
 WIKIDATA_DATE_RE = re.compile(r"^([+-]\d+)-(\d{2})-(\d{2})T")
 WIKIDATA_YEAR_RE = re.compile(r"^([+-]\d+)-")
 
-# Wikidata time-value precision -> this repo's date_precision enum
-# (schema.sql), by the same round-number-as-range-start convention
-# load_composers.py's DECADE_RE already uses for CSV text ("1650" for a
-# decade means 1650-1659, not "sometime touching 1650"). 11=day,
-# 10=month, 9=year all resolve to a single known year (year_upper stays
-# None); 8=decade/7=century/6=millennium each get a computed upper bound.
-_YEAR_PRECISION_SPANS = {9: 0, 10: 0, 11: 0, 8: 9, 7: 99, 6: 999}
-
 # Wikidata's calendarmodel value on a time claim -- these two specific QIDs
 # (not the general "Julian calendar"/"Gregorian calendar" Wikipedia-article
 # items) are what actually appears on P569/P570 claims. See composers.
@@ -289,9 +282,9 @@ def extract_dates(entity):
     "birth"/"death" (a composer can carry claims on both calendars --
     e.g. Tchaikovsky's preferred-rank P569/P570 are both Julian, Glinka's
     preferred birth is Julian but preferred death is Gregorian -- so this
-    must track whichever claim the preferred-rank tiebreak above actually
-    picked, not just "any" claim). None when calendarmodel is missing or
-    unrecognized, which is common -- most claims don't need this at all.
+    must track whichever claim actually won, not just "any" claim). None
+    when calendarmodel is missing or unrecognized, which is common --
+    most claims don't need this at all.
 
     "birth"/"death" are only ever set from a day-level-precision claim
     (Wikidata's time values carry their own precision flag, 11=day,
@@ -300,76 +293,89 @@ def extract_dates(entity):
     fake exact date must never be stored there for a coarser claim.
 
     "birth_year_precision"/"death_year_precision" are the fallback for
-    composers with no day-precision claim at all -- common (see
-    _YEAR_PRECISION_SPANS above): a composer whose only P569 claim is
-    year/decade/century/millennium precision used to be silently
-    indistinguishable here from one Wikidata has zero birth information
-    for, even though the claim is real and load_composers.py's own CSV
-    parser already treats an equivalent range like "1650" as usable data
-    (COALESCE'd into composers.birth_year/_year_upper/_precision by
-    load_birth_death_places.py, only when nothing more specific already
-    won). Kept as its own dict (not folded into attributes) so it can
-    never collide with the "iterating a string yields characters" bug
-    class that attributes' occasional _text fields caused -- see the
-    isinstance(qs, list) guard elsewhere in this file."""
+    composers with no day-precision claim at all -- common: a composer
+    whose only P569 claim is year/decade/century/millennium precision
+    used to be silently indistinguishable here from one Wikidata has
+    zero birth information for, even though the claim is real and
+    load_composers.py's own CSV parser already treats an equivalent
+    range like "1650" as usable data (COALESCE'd into composers.
+    birth_year/_year_upper/_precision by load_birth_death_places.py,
+    only when nothing more specific already won). Kept as its own dict
+    (not folded into attributes) so it can never collide with the
+    "iterating a string yields characters" bug class that attributes'
+    occasional _text fields caused -- see the isinstance(qs, list) guard
+    elsewhere in this file.
+
+    The actual "what do we believe" judgment -- which claim wins when
+    there's more than one, century/decade/millennium block math -- is
+    domain.dates.resolve_wd_claims()/resolve_winning_claim()'s job; this
+    function's own job is just translating Wikidata's JSON claim shape
+    into the plain WDClaim tuples that module works with. A genuinely
+    ambiguous property (domain.dates.AMBIGUOUS) is treated the same as
+    "no usable claims at all" here -- neither result key gets set --
+    rather than silently guessing one candidate the way this function
+    used to (real cases that used to get guessed wrong: Wang Xilin/
+    Q7967693's two disagreeing day-precision claims picked by sort order
+    alone; Pietro Antonio Fiocco/Q771208's two *different* day-precision
+    claims that are both "preferred")."""
     claims = entity.get("claims", {})
     result = {}
     for prop, key in DATE_PROPS.items():
-        day_candidates = []
-        year_candidates = []
-        for c in claims.get(prop, []):
-            if not _not_deprecated(c):
-                continue
-            datavalue = c.get("mainsnak", {}).get("datavalue", {})
-            value = datavalue.get("value", {})
-            if datavalue.get("type") != "time":
-                continue
-            precision = value.get("precision")
-            preferred = c.get("rank") == "preferred"
-            if precision == 11:
-                m = WIKIDATA_DATE_RE.match(value.get("time", ""))
-                if m:
-                    year, month, day = m.groups()
-                    # Even a non-deprecated, day-precision claim can still
-                    # be a calendar-invalid date in practice (bad upstream
-                    # data) -- validate before trusting it, same reasoning
-                    # as the rank check above: don't propagate what's
-                    # already wrong.
-                    try:
-                        date(int(year), int(month), int(day))
-                    except ValueError:
-                        pass
-                    else:
-                        calendar = _CALENDAR_MODELS.get(value.get("calendarmodel"))
-                        day_candidates.append((preferred, f"{int(year):04d}-{month}-{day}", calendar))
-            if precision in _YEAR_PRECISION_SPANS:
-                m = WIKIDATA_YEAR_RE.match(value.get("time", ""))
-                if m:
-                    year_candidates.append((preferred, precision, int(m.group(1))))
-        if day_candidates:
-            # When Wikidata has more than one day-precision claim for the
-            # same property (real case found: Maddalena Laura Sirmen's P569
-            # had a "normal"-rank 1735 imported from enwiki alongside a
-            # "preferred"-rank 1745 sourced to BnF + Grove Music Online),
-            # prefer the one Wikidata's own rank marks as preferred over a
-            # merely-normal one. Falls back to the first valid claim when
-            # there's no preferred one, or several -- not a guarantee of
-            # correctness, just deterministic and better than ignoring rank
-            # entirely.
-            day_candidates.sort(key=lambda pair: not pair[0])
-            result[key] = day_candidates[0][1]
-            result[f"{key}_calendar"] = day_candidates[0][2]
-        if year_candidates:
-            # Same preferred-first tiebreak, then most precise (highest
-            # precision number) among equally-ranked claims.
-            year_candidates.sort(key=lambda t: (not t[0], -t[1]))
-            _, precision, year = year_candidates[0]
-            span = _YEAR_PRECISION_SPANS[precision]
+        wd_claims = extract_time_claims(entity, prop)
+
+        winner = dates.resolve_winning_claim(wd_claims)
+        if winner is None or winner is dates.AMBIGUOUS:
+            continue
+        if winner.precision == 11:
+            result[key] = f"{winner.year:04d}-{winner.month:02d}-{winner.day:02d}"
+            result[f"{key}_calendar"] = winner.calendar
+        else:
+            estimate = dates.resolve_wd_claims(wd_claims)
             result[f"{key}_year_precision"] = {
-                "year": year,
-                "year_upper": year + span if span else None,
-                "precision": "exact" if span == 0 else "range",
+                "year": estimate.year, "year_upper": estimate.year_upper, "precision": estimate.precision,
             }
+    return result
+
+
+def extract_time_claims(entity, prop):
+    """Every non-deprecated time claim for one property (P569/P570), as
+    plain domain.dates.WDClaim tuples -- the Wikidata-JSON-shape parsing
+    that both extract_dates() above and verify_exact_agreeing_dates.py
+    need identically, factored out so there's exactly one place that
+    understands this shape (precision/rank/calendarmodel, the day-
+    precision-only month/day fields, calendar-invalid date filtering)
+    rather than each caller re-parsing it slightly differently."""
+    result = []
+    for c in entity.get("claims", {}).get(prop, []):
+        if not _not_deprecated(c):
+            continue
+        datavalue = c.get("mainsnak", {}).get("datavalue", {})
+        if datavalue.get("type") != "time":
+            continue
+        value = datavalue.get("value", {})
+        precision = value.get("precision")
+        m = WIKIDATA_YEAR_RE.match(value.get("time", ""))
+        if not m:
+            continue
+        month = day = None
+        if precision == 11:
+            dm = WIKIDATA_DATE_RE.match(value.get("time", ""))
+            if not dm:
+                continue
+            y2, mo, da = dm.groups()
+            # Even a non-deprecated, day-precision claim can still be a
+            # calendar-invalid date in practice (bad upstream data) --
+            # validate before trusting it, don't propagate what's
+            # already wrong.
+            try:
+                date(int(y2), int(mo), int(da))
+            except ValueError:
+                continue
+            month, day = int(mo), int(da)
+        result.append(dates.WDClaim(
+            year=int(m.group(1)), month=month, day=day, precision=precision,
+            rank=c.get("rank"), calendar=_CALENDAR_MODELS.get(value.get("calendarmodel")),
+        ))
     return result
 
 

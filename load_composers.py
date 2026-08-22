@@ -16,6 +16,8 @@ import re
 import pandas as pd
 import psycopg2
 
+from domain.dates import as_tuple, parse_free_text
+
 # era -> csv file
 SOURCES = {
     "Medieval": "composers_Medieval.csv",
@@ -26,62 +28,6 @@ SOURCES = {
     "20th-century": "composers_20th_century.csv",
     "21st-century": "composers_21st_century.csv",
 }
-
-YEAR = r"(\d{3,4})"
-
-RANGE_RE = re.compile(rf"^{YEAR}\s*/\s*{YEAR}$")
-BEFORE_RE = re.compile(rf"^before\s+{YEAR}$", re.IGNORECASE)
-AFTER_RE = re.compile(rf"^after\s+{YEAR}$", re.IGNORECASE)
-CIRCA_RE = re.compile(rf"^c\.?a?\.?\s*{YEAR}\??$", re.IGNORECASE)
-# A bare 3-digit year followed by '?' (e.g. "198?", "175?") is source shorthand
-# for "this decade, exact year unknown" -- the leading "1" of the 4-digit year
-# is omitted and the '?' stands in for the missing last digit, so "198?" means
-# 1980-1989, not "circa year 198". A 4-digit year + '?' (e.g. "1899?") is the
-# ordinary circa case (PLAIN_RE below) and is unaffected.
-DECADE_RE = re.compile(r"^(\d{3})\?$")
-PLAIN_RE = re.compile(rf"^{YEAR}(\?)?$")
-ANY_YEAR_RE = re.compile(YEAR)
-
-
-def parse_date(raw):
-    """Parse a birth/death field into (year, year_upper, precision)."""
-    if raw is None or (isinstance(raw, float) and pd.isna(raw)):
-        return None, None, None
-    text = str(raw).strip()
-    if not text:
-        return None, None, None
-
-    m = RANGE_RE.match(text)
-    if m:
-        return int(m.group(1)), int(m.group(2)), "range"
-
-    m = BEFORE_RE.match(text)
-    if m:
-        return int(m.group(1)), None, "before"
-
-    m = AFTER_RE.match(text)
-    if m:
-        return int(m.group(1)), None, "after"
-
-    m = CIRCA_RE.match(text)
-    if m:
-        return int(m.group(1)), None, "circa"
-
-    m = DECADE_RE.match(text)
-    if m:
-        decade = int(m.group(1)) * 10
-        return decade, decade + 9, "range"
-
-    m = PLAIN_RE.match(text)
-    if m:
-        return int(m.group(1)), None, "circa" if m.group(2) else "exact"
-
-    m = ANY_YEAR_RE.search(text)
-    if m:
-        return int(m.group(1)), None, "unknown"
-
-    return None, None, "unknown"
-
 
 FLOURISH_DASH_RE = re.compile(r"\s*[–—]\s*")  # en dash / em dash
 SHORT_YEAR_RE = re.compile(r"\b(\d{1,2})\b")
@@ -235,8 +181,8 @@ def looks_like_different_person(existing_birth, existing_death, new_birth, new_d
 def rows_for_csv(path):
     df = pd.read_csv(path)
     for _, row in df.iterrows():
-        birth_year, birth_year_upper, birth_precision = parse_date(row.get("birth"))
-        death_year, death_year_upper, death_precision = parse_date(row.get("death"))
+        birth_year, birth_year_upper, birth_precision = as_tuple(parse_free_text(row.get("birth")))
+        death_year, death_year_upper, death_precision = as_tuple(parse_free_text(row.get("death")))
         flourish_start, flourish_end = parse_flourish(row.get("flourish"))
 
         yield {
