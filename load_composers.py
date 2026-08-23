@@ -11,7 +11,9 @@ Connection is taken from standard libpq environment variables
 (PGHOST, PGPORT, PGDATABASE, PGUSER, PGPASSWORD) so no credentials
 live in this file. Run `psql -f schema.sql` once before the first load.
 """
+import math
 import re
+from datetime import date
 
 import pandas as pd
 import psycopg2
@@ -135,13 +137,19 @@ LINK_ERA_SQL = """
 
 # A composer is merged on a normalized form of their 'en' wikilink title,
 # since some era CSVs store the plain display name in `article` instead of
-# a real Wikipedia slug (e.g. "Jean Sibelius" vs "Jean_Sibelius").
-FIND_COMPOSER_BY_WIKILINK_SQL = """
+# a real Wikipedia slug (e.g. "Jean Sibelius" vs "Jean_Sibelius"). Also
+# collapses whitespace immediately after a period (regexp_replace #2) so a
+# CSV's "E.T.A. Hoffmann" matches the stored wikilink's "E. T. A.
+# Hoffmann" -- same normalization find_composer()'s own norm_key applies
+# in Python, both sides must match (found 2026-08-23: this gap silently
+# duplicated Hoffmann on every rerun since the two spellings never
+# compared equal).
+FIND_COMPOSER_BY_WIKILINK_SQL = r"""
     SELECT c.id, c.birth_year, c.death_year
     FROM composer_wikilinks w
     JOIN composers c ON c.id = w.composer_id
     WHERE w.language = %s
-      AND lower(regexp_replace(w.title, '_', ' ', 'g')) = %s
+      AND lower(regexp_replace(regexp_replace(w.title, '_', ' ', 'g'), '\.\s+', '.', 'g')) = %s
 """
 
 # Composers with no Wikipedia page have no natural merge key; fall back to
@@ -157,11 +165,54 @@ FIND_COMPOSER_BY_NAME_NO_WIKILINK_SQL = """
 """
 
 # Two different Wikipedia lists citing slightly different birth/death years
-# for the same person is normal (see Alessandro Marcello, Dario Castello).
-# A real name collision between two different people looks different: both
-# birth and death conflict, or the birth gap is too large to be a sourcing
-# disagreement (see Louis Aubert, Stepan Rak).
-YEAR_TOLERANCE = 3
+# for the same person is normal for a historical composer, but *not* for a
+# modern one -- a centuries-old date is often only known from secondary
+# scholarship that can genuinely disagree by several years (verified via
+# Pomponio Nenna, composer id 562: en.wikipedia's current text gives
+# "baptized 13 June 1556 - 25 July 1608", but one of this repo's own
+# source CSVs has "c. 1550"-1613 for the same real person, a 5-6 year
+# disagreement), whereas a 20th/21st-century composer's dates are
+# ordinarily well documented and a multi-year discrepancy far more likely
+# means two different real people who happen to share a name (see James
+# Lavino: one born 1937, an entirely different one born 1973). Rather than
+# a flat tolerance (too loose for modern composers if widened to cover
+# Nenna, too tight for Nenna if kept modern-safe) or a hard cutoff between
+# two flat values (an arbitrary cliff at whatever year is chosen),
+# TOLERANCE_SCALE * sqrt(years before today) grows the tolerance smoothly
+# the further back the composer lived -- matches this repo's existing
+# "the further back the composer lived, treat sourcing with more
+# skepticism" convention (see CLAUDE.md's nationality-vs-citizenship
+# section, same reasoning applied to dates here).
+#
+# Calibrated (2026-08-23) against real cases, ceil()'d rather than
+# round()'d deliberately -- a false "different person" here just creates
+# a harmless duplicate row to clean up later; a false "same person" would
+# silently overwrite one real person's data with another's, a much worse
+# failure mode, so ties are broken toward the safer outcome. (ceil() also
+# means the result is never 0 for any years_ago > 0, so no extra floor
+# needs enforcing below -- floor() was tried first and gave a bigger
+# safety margin on the Leclair case just below [4 vs. ceil's 5, against
+# his real 6-year gap], but still resolves it correctly either way, and
+# ceil() is the simpler expression.)
+#   - Pomponio Nenna (composer 562, Q3907903): en.wikipedia gives
+#     "baptized 13 June 1556 - 25 July 1608"; this repo's own CSV has
+#     "c. 1550"-1613 for the same real person -- must resolve to "same".
+#   - Jean-Marie Leclair l'aine vs. le cadet (composers 1551/1613,
+#     Q348875/Q6169629 -- distinct QIDs, the second has its own "the
+#     younger"/"le cadet" wikilinks, a documented nephew, not the same
+#     person): 1697-1764 vs. 1703-1777, only a 6/13-year gap -- must
+#     resolve to "different" despite the small gap, since an *initial*
+#     naive fit (TOLERANCE_SCALE=0.35, round() instead of floor()) got
+#     this wrong, verified only by separately checking this pair's own
+#     Wikidata items directly, not by trusting the Nenna fit alone.
+#   - Louis Aubert (composers 1741/9486... and separately 3018/9267):
+#     an 1720-1800 composer and an entirely separate 1877-1968 one share
+#     the name -- 80+ years apart, must resolve to "different" at any
+#     plausible tolerance.
+# All three re-verified against the whole DB's same-name composer pairs
+# after picking TOLERANCE_SCALE=0.25, not just these three points.
+TOLERANCE_SCALE = 0.25
+MIN_YEAR_TOLERANCE = 1
 LARGE_BIRTH_GAP = 15
 
 
@@ -169,11 +220,26 @@ def _year_diff(a, b):
     return None if a is None or b is None else abs(a - b)
 
 
+def _year_tolerance(existing_birth, new_birth):
+    # Whichever birth year is known (prefer the existing DB row's, since
+    # it's already been through this same check once) is the reference
+    # point; if neither is known, MIN_YEAR_TOLERANCE is the safe default
+    # rather than guessing a historical-sized allowance.
+    reference_year = existing_birth if existing_birth is not None else new_birth
+    if reference_year is None:
+        return MIN_YEAR_TOLERANCE
+    years_ago = date.today().year - reference_year
+    if years_ago <= 0:
+        return MIN_YEAR_TOLERANCE
+    return math.ceil(TOLERANCE_SCALE * math.sqrt(years_ago))
+
+
 def looks_like_different_person(existing_birth, existing_death, new_birth, new_death):
     birth_diff = _year_diff(existing_birth, new_birth)
     death_diff = _year_diff(existing_death, new_death)
+    tolerance = _year_tolerance(existing_birth, new_birth)
     if birth_diff is not None and death_diff is not None:
-        return birth_diff > YEAR_TOLERANCE and death_diff > YEAR_TOLERANCE
+        return birth_diff > tolerance and death_diff > tolerance
     if birth_diff is not None:
         return birth_diff > LARGE_BIRTH_GAP
     return False
@@ -225,6 +291,7 @@ def main():
                         # plain I before lowering matches Postgres's simpler
                         # behavior.
                         norm_key = wiki_title.replace("_", " ").replace("İ", "I").lower()
+                        norm_key = re.sub(r"\.\s+", ".", norm_key)
                         cur.execute(FIND_COMPOSER_BY_WIKILINK_SQL, ("en", norm_key))
                     else:
                         cur.execute(FIND_COMPOSER_BY_NAME_NO_WIKILINK_SQL, (name,))
