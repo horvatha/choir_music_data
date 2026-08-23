@@ -45,6 +45,78 @@ EXCLUDED_QIDS = {
                   # Not a case of one mistagged composer: this movement
                   # concept itself isn't a musical-composer classification,
                   # so it's excluded outright rather than per-composer.
+
+    # Era-duplicates: bare era names and "X music"/"X period" variants that
+    # add nothing composer_eras doesn't already say (see
+    # eras/composer_eras in schema.sql). Found via reports/tags_review.md's
+    # full hand-review of every tag, 2026-08-23.
+    "Q8361",      # Baroque music
+    "Q37853",     # Baroque
+    "Q4692",      # Renaissance
+    "Q201405",    # Renaissance music
+    "Q163775",    # medieval music
+    "Q207591",    # Romantic music
+    "Q37068",     # Romanticism
+    "Q17723",     # Classical period
+    "Q170292",    # Classicism
+    "Q9730",      # classical music -- also just too generic: nearly every
+                  # composer in this database is a classical-music composer
+                  # by definition, and it was only inconsistently applied.
+    "Q1338153",   # 20th-century classical music
+    "Q4631020",   # 21st-century classical music
+    "Q612024",    # contemporary classical music
+    "Q65937946",  # modern classical music
+    "Q2534081",   # pre-classical music
+    "Q8011523",   # contemporary music
+
+    # Era + nationality combinations: derivable from era + the composer's
+    # own nationality (composer_nationalities), both already tracked
+    # structurally -- not a distinct named school the way e.g. "Franco-
+    # Flemish School" or "Roman School" are (those stay as real tags).
+    "Q2455000",   # German Renaissance
+    "Q3328590",   # French baroque music
+    "Q2477112",   # German Romanticism
+    "Q1542287",   # Ukrainian Baroque
+    "Q5249786",   # New Spanish Baroque
+
+    # Clearly non-musical (philosophy, religion, politics, or another art
+    # form entirely, with no real musical anchor).
+    "Q169390",    # abolitionism
+    "Q177725",    # abstract expressionism
+    "Q34636",     # Art Nouveau
+    "Q59104",     # continental philosophy
+    "Q10710179",  # Enlightenment philosophy
+    "Q1246516",   # feminist art
+    "Q290209",    # Flemish Movement
+    "Q151843",    # Frankfurt School
+    "Q41726",     # freemasonry
+    "Q3401112",   # medieval poetry
+    "Q202253",    # nominalism
+    "Q23540",     # Protestantism
+    "Q12562",     # Protestant Reformation
+    "Q877848",    # Republicanism
+    "Q5977111",   # Romantic literature
+    "Q263985",    # romantic nationalism -- political/cultural-historical
+                  # concept; "musical nationalism" (Q1196170) stays as the
+                  # music-scoped version of the same idea.
+    "Q41679",     # scholasticism
+    "Q164800",    # Symbolism -- primarily literary/visual-art, no specific
+                  # musical anchor the way e.g. "impressionism in music"
+                  # (kept) explicitly has.
+
+    # Too generic -- a more specific, music-scoped tag already covers the
+    # same ground.
+    "Q6235",      # nationalism (vs "musical nationalism", kept)
+    "Q878985",    # modernism (vs "musical modernism", kept)
+    "Q47783",     # Postmodernism (vs "postmodern music", kept)
+
+    # Redundant with structured data already tracked elsewhere.
+    "Q155858",    # music of Ukraine -- redundant with composer_nationalities.
+
+    # Likely a P135 mistagging of the musical *form* "Romance" (a piece
+    # type, like Nocturne/Ballade) as a "movement", not a genuine
+    # stylistic movement.
+    "Q599510",    # romance
 }
 
 # QID -> QID: silently redirect a mistagged movement value to the one it
