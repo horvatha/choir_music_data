@@ -23,6 +23,10 @@ import sys
 
 import psycopg2
 
+from adapters.json_cache import load_cache
+from domain.nationalities import predict_need_to_check
+from fetch_wikidata_relationships import OUTPUT_FILE
+
 # Combining-form prefixes: never a nationality on their own, and a compound
 # starting with one names a specific identity (e.g. the Franco-Flemish
 # School) rather than "has both nationalities" -- kept whole, not split.
@@ -197,7 +201,7 @@ def parse_nationality(raw: str) -> list[tuple[str, bool, bool]]:
 
 
 FETCH_NATIONALITIES_SQL = """
-    SELECT id, nationality FROM composers
+    SELECT id, nationality, wikidata_id FROM composers
     WHERE nationality IS NOT NULL AND nationality != ''
 """
 
@@ -254,7 +258,18 @@ def load():
     composers.nationality. Not incremental -- truncates first, so reruns
     after a parsing/canonicalization change don't leave stale rows behind
     (e.g. an old "Georgia" nationality orphaned after it's renamed to
-    "Georgian")."""
+    "Georgian").
+
+    need_to_check is the OR of two independent sources: parse_nationality's
+    own either/or-field detection (a bare "X or Y" in the raw text), and
+    domain.nationalities.predict_need_to_check (a citizenship-claim-only
+    bulk assignment with no independent verification -- see that module's
+    docstring for the full history of why this needs predicting rather
+    than just hardcoding, same TRUNCATE-wipes-hand-patch lesson as
+    load_tags.py/load_place_period_names.py elsewhere in this repo)."""
+    data = load_cache(OUTPUT_FILE)
+    entries = data.get("composers", {})
+
     conn = psycopg2.connect()
     try:
         with conn:
@@ -262,10 +277,14 @@ def load():
                 cur.execute("TRUNCATE composer_nationalities, nationalities RESTART IDENTITY CASCADE")
                 cur.execute(FETCH_NATIONALITIES_SQL)
                 rows = cur.fetchall()
-                for composer_id, raw in rows:
+                for composer_id, raw, wikidata_id in rows:
+                    citizenship_qids = entries.get(str(composer_id), {}).get("attributes", {}).get("citizenship", [])
                     for name, is_origin_only, need_to_check in parse_nationality(raw):
                         if not name:
                             continue
+                        need_to_check = need_to_check or predict_need_to_check(
+                            composer_id, wikidata_id, name, citizenship_qids
+                        )
                         cur.execute(UPSERT_NATIONALITY_SQL, (name,))
                         nationality_id = cur.fetchone()[0]
                         cur.execute(LINK_NATIONALITY_SQL, (composer_id, nationality_id, is_origin_only, need_to_check))
