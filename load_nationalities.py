@@ -24,7 +24,7 @@ import sys
 import psycopg2
 
 from adapters.json_cache import load_cache
-from domain.nationalities import predict_need_to_check
+from domain.nationalities import predict_need_to_check, suggest_nationality_from_birthplace
 from fetch_wikidata_relationships import OUTPUT_FILE
 
 # Combining-form prefixes: never a nationality on their own, and a compound
@@ -219,6 +219,24 @@ LINK_NATIONALITY_SQL = """
             need_to_check = composer_nationalities.need_to_check OR EXCLUDED.need_to_check
 """
 
+# Composers with no nationality at all after the CSV pass above (blank
+# composers.nationality, so FETCH_NATIONALITIES_SQL never even saw them)
+# -- candidates for domain.nationalities.suggest_nationality_from_
+# birthplace, keyed off their already-resolved birth country rather than
+# a citizenship claim. See that module's docstring for the restrictions
+# (MIN_BIRTHPLACE_SUGGESTION_YEAR, VOLATILE_BIRTH_COUNTRIES) and
+# reports/birthplace_nationality_suggestions.md (gitignored) for the
+# research behind them.
+FETCH_BIRTHPLACE_CANDIDATES_SQL = """
+    SELECT c.id, c.birth_year, co.wikidata_id
+    FROM composers c
+    JOIN place_periods pp ON pp.id = c.birth_place_id
+    JOIN countries co ON co.id = pp.country_id
+    WHERE NOT EXISTS (
+        SELECT 1 FROM composer_nationalities cn WHERE cn.composer_id = c.id
+    )
+"""
+
 
 def report():
     """Print, for every distinct raw nationality string, how it parses --
@@ -266,7 +284,14 @@ def load():
     bulk assignment with no independent verification -- see that module's
     docstring for the full history of why this needs predicting rather
     than just hardcoding, same TRUNCATE-wipes-hand-patch lesson as
-    load_tags.py/load_place_period_names.py elsewhere in this repo)."""
+    load_tags.py/load_place_period_names.py elsewhere in this repo).
+
+    Three sources, in order, same priority CSV data has always had over
+    a guess: (1) composers.nationality free text, (2) citizenship-claim
+    prediction layered onto (1)'s need_to_check, (3) only for composers
+    (1) left with *no* nationality row at all, domain.nationalities.
+    suggest_nationality_from_birthplace -- always need_to_check=TRUE,
+    since a birthplace is explicitly a guess, never asserted as fact."""
     data = load_cache(OUTPUT_FILE)
     entries = data.get("composers", {})
 
@@ -288,9 +313,23 @@ def load():
                         cur.execute(UPSERT_NATIONALITY_SQL, (name,))
                         nationality_id = cur.fetchone()[0]
                         cur.execute(LINK_NATIONALITY_SQL, (composer_id, nationality_id, is_origin_only, need_to_check))
+
+                cur.execute(FETCH_BIRTHPLACE_CANDIDATES_SQL)
+                birthplace_rows = cur.fetchall()
+                birthplace_suggested = 0
+                for composer_id, birth_year, country_wikidata_id in birthplace_rows:
+                    suggested_name = suggest_nationality_from_birthplace(birth_year, country_wikidata_id)
+                    if not suggested_name:
+                        continue
+                    cur.execute(UPSERT_NATIONALITY_SQL, (suggested_name,))
+                    nationality_id = cur.fetchone()[0]
+                    cur.execute(LINK_NATIONALITY_SQL, (composer_id, nationality_id, False, True))
+                    birthplace_suggested += 1
     finally:
         conn.close()
-    print(f"Processed {len(rows)} composers with a nationality.")
+    print(f"Processed {len(rows)} composers with a nationality."
+          f" Suggested {birthplace_suggested} more from birthplace"
+          f" ({len(birthplace_rows)} candidates with no other nationality).")
 
 
 if __name__ == "__main__":
