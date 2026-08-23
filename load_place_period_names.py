@@ -37,6 +37,34 @@ from fetch_wikidata_relationships import OUTPUT_FILE
 # special-casing None on either side.
 _NEG, _POS = -10 ** 9, 10 ** 9
 
+# QID -> {language: fn(start, end) -> name or None} -- hand-maintained
+# period names for a language Wikidata's own P1448 claims don't cover at
+# all (checked directly: fetch_place_history.py's cache has no claim in
+# these languages for these QIDs), applied automatically every run so
+# they aren't lost the next time this script or load_birth_death_places.py
+# reruns -- same pattern as MANUAL_PLACE_CLUSTERS (that script) and
+# ERA_OVERRIDES (parse_hu_wiki_composers.py): a hand-maintained override
+# baked into the loader itself rather than a one-off manual DB patch that
+# has to be remembered and reapplied by hand (which is exactly what
+# happened here before this was added -- see wikidata_changes/
+# kolozsvar_missing_hungarian_period_names.wiki for the full sourcing per
+# language, and for why Wikidata itself can't just be fixed directly:
+# semi-protected). A rule returning None for a given (start, end) means
+# "don't override this period" -- falls through to whatever Wikidata/
+# place_names would otherwise resolve to (e.g. the modern name from 1974
+# onward already resolves correctly via place_names, so most rules below
+# only fire for the pre-1974 or pre-1918 windows that actually need it).
+MANUAL_PERIOD_NAMES = {
+    "Q100188": {  # Kolozsvár / Klausenburg / Cluj-Napoca
+        "hu": lambda start, end: "Kolozsvár",
+        "de": lambda start, end: "Klausenburg",
+        "cs": lambda start, end: "Kološvár" if (end or _POS) <= 1918 else ("Kluž" if (end or _POS) <= 1974 else None),
+        "pl": lambda start, end: "Koloszwar" if (end or _POS) <= 1918 else ("Kluż" if (end or _POS) <= 1974 else None),
+        "hr": lambda start, end: "Kološvar" if (end or _POS) <= 1918 else None,
+        "uk": lambda start, end: "Клуж" if (end or _POS) <= 1974 else None,
+    },
+}
+
 
 def _bounds(start, end):
     return (_NEG if start is None else start), (_POS if end is None else end)
@@ -89,6 +117,10 @@ def load():
                         # hasn't been observed in practice.
                         for language, name in _names_for_period(p1448, start, end).items():
                             names_by_language.setdefault(language, name)
+                        for language, rule in MANUAL_PERIOD_NAMES.get(qid, {}).items():
+                            name = rule(start, end)
+                            if name is not None:
+                                names_by_language[language] = name
                     if not names_by_language:
                         continue
                     cur.execute("DELETE FROM place_period_names WHERE period_id = %s", (period_id,))
