@@ -37,10 +37,10 @@ English label is vaguer than their other-language ones -- e.g. Amanda
 Röntgen-Maier's English description is "Swedish musician (1853-1894)"
 while German/French/Spanish/Polish/Russian/Dutch all say composer outright
 ("schwedische Violinistin und Komponistin", "compositrice et violoniste
-suédoise", ...). _is_composer_description now checks every
-TARGET_LANGUAGES description (not just "en"), each against its own
-localized composer-word and relation-word pattern in
-COMPOSER_WORD_PATTERNS/RELATION_WORD_PATTERNS -- a description only counts
+suédoise", ...). is_composer_description (composer_description_
+classification.py) checks every TARGET_LANGUAGES description (not just
+"en"), each against its own localized composer-word and relation-word
+pattern -- a description only counts
 if it mentions the composer word *and* doesn't also read as being about a
 relation in that same language. Found via the same by-hand review that
 turned up Amanda: of ~6000 still-unlinked notable_student/student_of/
@@ -56,67 +56,26 @@ yet for the usual NATIVE_LANGUAGE_BY_NATIONALITY lookup to key off of, so
 this checks the label's actual script directly instead of guessing a
 single "native" language from citizenship.
 
+Also re-keys each newly-inserted composer's cache entry from its "new:<qid>"
+key to its real composer_id and marks it applied_to_db -- used to be a
+separate manual step (promote_new_composer_entries.py), folded in here
+since this loop already knows composer_id right after inserting, no need
+for that script's own DB lookup. Every other loader
+(load_composer_relations.py, load_instruments.py, load_tags.py,
+load_works.py, ...) checks applied_to_db before processing an entry, so
+skipping this used to mean no other loader could see a newly-added
+composer until a separate script ran.
+
 Usage:
     python3 load_missing_composers.py
 """
-import re
 import unicodedata
 
 import psycopg2
 
-from adapters.json_cache import load_cache
+from adapters.json_cache import load_cache, save_cache
+from composer_description_classification import is_composer_description
 from fetch_wikidata_relationships import OUTPUT_FILE, TARGET_LANGUAGES
-
-NON_COMPOSER_RELATION_PATTERN = re.compile(
-    r"\b(mother|father|wife|husband|widow|son|daughter|brother|sister|niece|nephew|cousin|aunt|"
-    r"uncle|grandmother|grandfather|grandson|granddaughter|parent|child|spouse|fianc[ée]e?|lover|"
-    r"mistress|muse|friend|patron|pupil of|student of|teacher of|relative) of\b.*composer",
-    re.IGNORECASE,
-)
-
-# Per-language "composer" word stem, for checking descriptions in
-# languages other than English (see docstring). Simple substring stems,
-# not full-word regexes -- e.g. "compositor" also matches "compositora".
-COMPOSER_WORD_PATTERNS = {
-    "en": "composer",
-    "de": "komponist",
-    "fr": "composit",
-    "es": "compositor",
-    "it": "composit",
-    "hr": "skladatelj",
-    "pl": "kompozytor",
-    "ru": "композитор",
-    "uk": "композитор",
-    "cs": "skladatel",
-    "nl": "componist",
-    "hu": "zeneszerz",
-}
-
-# Per-language relation-word stems -- basic family/relation vocabulary
-# ("mother", "wife", "daughter of", ...), same purpose as
-# NON_COMPOSER_RELATION_PATTERN but for the other 11 target languages.
-# Not exhaustive grammar, just enough stems to catch "Tochter des
-# Komponisten X" / "compositrice, fille de Y" style descriptions that are
-# about a relation, not the person's own occupation.
-RELATION_WORD_PATTERNS = {
-    "de": ("mutter", "vater", "ehefrau", "ehemann", "tochter", "sohn", "witwe", "enkel", "schwester", "bruder"),
-    "fr": ("mère", "père", "épouse", "époux", "femme de", "fille de", "fils de", "veuve", "veuf", "sœur", "frère"),
-    "es": ("madre", "padre", "esposa", "esposo", "viuda", "viudo", "hija de", "hijo de", "hermana", "hermano"),
-    "it": ("madre", "padre", "moglie", "marito", "vedova", "vedovo", "figlia di", "figlio di", "sorella", "fratello"),
-    "cs": ("matka", "otec", "manželka", "manžel", "dcera", "syn ", "vdova", "vdovec", "sestra", "bratr"),
-    "uk": ("мати", "батько", "дружина", "чоловік", "донька", "дочка", "вдова", "сестра", "брат"),
-    "ru": ("мать ", "отец", "жена", "муж ", "дочь", "вдова", "сестра", "брат"),
-    "pl": ("matka", "ojciec", "żona", "mąż", "córka", "wdowa", "wdowiec", "siostra", "brat"),
-    "hr": ("majka", "otac", "supruga", "suprug", "kći", "udovica", "udovac", "sestra", "brat"),
-    "nl": ("moeder", "vader", "echtgenote", "echtgenoot", "dochter", "zoon van", "weduwe", "zus ", "broer"),
-    # anya/apa, öcs/báty are irregular in the possessive ("his mother" is
-    # "anyja", not "anyája"; "his father" is "apja", not "apája") -- the
-    # base forms alone missed Paula Voit ("...zeneszerző édesanyja", "the
-    # composer's mother") and Béla Bartók Sr. ("...zeneszerző apja", "the
-    # composer's father"), both loaded by mistake on 2026-08-11 before this
-    # was caught by hand and these forms were added.
-    "hu": ("anya", "anyja", "apa", "apja", "felesége", "férje", "lánya", "fia ", "öccse", "bátyja", "özvegy"),
-}
 
 INSERT_COMPOSER_SQL = "INSERT INTO composers (name, wikidata_id) VALUES (%s, %s) RETURNING id"
 CHECK_EXISTING_SQL = "SELECT id FROM composers WHERE wikidata_id = %s"
@@ -150,35 +109,14 @@ def _pick_display_name(labels: dict, fallback: str) -> str:
     return fallback
 
 
-def _is_composer_description(descriptions: dict) -> bool:
-    en = descriptions.get("en", "")
-    if "composer" in en.lower() and not NON_COMPOSER_RELATION_PATTERN.search(en):
-        return True
-    for language in TARGET_LANGUAGES:
-        if language == "en":
-            continue
-        word = COMPOSER_WORD_PATTERNS.get(language)
-        text = descriptions.get(language, "")
-        if not word or not text:
-            continue
-        lower = text.lower()
-        if word not in lower:
-            continue
-        relation_words = RELATION_WORD_PATTERNS.get(language, ())
-        if any(rw in lower for rw in relation_words):
-            continue
-        return True
-    return False
-
-
 def main():
     data = load_cache(OUTPUT_FILE)
     entries = data.get("composers", {})
 
     candidates = [
-        entry for key, entry in entries.items()
+        (key, entry) for key, entry in entries.items()
         if key.startswith("new:")
-        and _is_composer_description(entry.get("descriptions", {}))
+        and is_composer_description(entry.get("descriptions", {}), TARGET_LANGUAGES)
     ]
     print(f"{len(candidates)} candidates pass the description filter")
 
@@ -189,7 +127,7 @@ def main():
     try:
         with conn:
             with conn.cursor() as cur:
-                for entry in candidates:
+                for key, entry in candidates:
                     qid = entry["qid"]
                     cur.execute(CHECK_EXISTING_SQL, (qid,))
                     existing = cur.fetchone()
@@ -219,9 +157,24 @@ def main():
                         cur.execute(UPSERT_ALT_NAME_SQL, (composer_id, language, label))
                         if cur.rowcount:
                             alt_names_loaded += 1
+
+                    # Re-key this cache entry to its real composer_id and
+                    # mark it applied_to_db, same as
+                    # promote_new_composer_entries.py used to do as a
+                    # separate manual step -- folded in here since this
+                    # loop already knows composer_id, no need for that
+                    # script's own DB lookup. Every other loader
+                    # (load_composer_relations.py, load_instruments.py,
+                    # load_tags.py, load_works.py, ...) checks
+                    # applied_to_db before processing an entry.
+                    entries.pop(key)
+                    entry["applied_to_db"] = True
+                    entries[str(composer_id)] = entry
     finally:
         conn.close()
 
+    if inserted:
+        save_cache(OUTPUT_FILE, data)
     print(f"Inserted {inserted} new composers ({already_present} already present, skipped), "
           f"{alt_names_loaded} alt names loaded.")
 

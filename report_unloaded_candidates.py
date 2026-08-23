@@ -23,8 +23,8 @@ batched 50/call, and caches the result under data["occupations"] (QID ->
 list of occupation QIDs) so a rerun only fetches newly-added candidates.
 
 Doesn't touch the DB at all -- any entry still keyed "new:<qid>" in
-wikidata_relationships.json is, by construction, not loaded (loading +
-promote_new_composer_entries.py re-keys it to a numeric composer_id), so
+wikidata_relationships.json is, by construction, not loaded (loading it
+via load_missing_composers.py re-keys it to a numeric composer_id), so
 the cache alone is enough to compute this.
 
 Columns: name, wikidata_id, en description, en Wikipedia article URL (from

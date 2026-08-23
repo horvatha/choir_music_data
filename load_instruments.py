@@ -89,6 +89,11 @@ def load():
     print(f"Processed {processed} composers with at least one instrument"
           + (f", skipped {stale} stale cache entries" if stale else "")
           + f". See {LOG_FILE} for names.")
+    print("You should also run, in order: load_work_instruments.py, "
+          "cli.py fetch labels --entity instrument, "
+          "cli.py load names --entity instrument, load_instrument_groups.py "
+          "-- this TRUNCATE just wiped work_instruments/instrument_names and "
+          "every instrument's group_id.")
 
 
 if __name__ == "__main__":

@@ -73,21 +73,21 @@ few are genuinely incremental (only touch composers/entities not yet
 loaded); each script's own docstring says which.
 
 **Hard run-order dependencies within one session:**
-1. `promote_new_composer_entries.py` must run once after
-   `load_missing_composers.py` inserts new composers, before *any* other
-   loader will see them -- `applied_to_db` isn't set on a new composer's
-   cache entry until this runs, and every loader below checks that flag
-   and silently skips entries missing it.
-2. The instrument-loading chain has a 5-step required order (`load_instruments.py`'s
+1. The instrument-loading chain has a 5-step required order (`load_instruments.py`'s
    own `TRUNCATE ... CASCADE` wipes `work_instruments`/`instrument_names`
    too, a real FK cascade, not incidental) -- see `load_work_instruments.py`'s
    own docstring for the exact sequence, don't run these piecemeal.
-3. `load_tag_wikilinks.py` must be rerun after every `load_tags.py` run --
-   `load_tags.py`'s own `TRUNCATE composer_tags, tags ... CASCADE` wipes
-   `tag_wikilinks` too (an FK cascade off `tags.id`), even for a run that
-   only touched one composer's tags. No re-fetch needed for this, just the
-   load step -- `fetch_tag_wikilinks.py`'s cache in `wikidata_relationships.json`
-   survives the DB truncate untouched.
+2. `load_place_period_names.py` must be rerun after every `load_birth_death_places.py`
+   run -- the latter regenerates every `place_periods` row with fresh ids
+   on every run (even one that only touches a single composer), which
+   cascades into wiping `place_period_names` too (an FK off
+   `place_periods.id`). No re-fetch needed, just the load step --
+   `load_place_period_names.py`'s own `MANUAL_PERIOD_NAMES` overrides are
+   self-healing once it's rerun, they just don't help if it isn't rerun
+   at all. (`load_tags.py`/`tag_wikilinks` and `load_missing_composers.py`/
+   `promote_new_composer_entries.py` used to have this same shape of
+   problem -- both fixed by folding the two scripts into one, so those
+   dependencies no longer exist.)
 
 **Two gotchas that will bite you if you don't know about them:**
 - *Stale cache ids after a merge.* `merge_composers.py` deletes the

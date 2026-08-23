@@ -510,6 +510,8 @@ def main():
           f"({len(place_id_by_qid)} place QIDs across {len(periods_by_place)} canonical places, "
           f"{len(country_id_by_qid)} distinct countries, {skipped_place} places skipped -- "
           f"QID not in place_claims cache, rerun fetch_place_history.py first).")
+    print("You should also run load_place_period_names.py now -- this just "
+          "regenerated place_periods with fresh ids, which wiped place_period_names.")
 
 
 if __name__ == "__main__":

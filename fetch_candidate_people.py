@@ -10,10 +10,10 @@ against a name that turns up again elsewhere doesn't need a re-fetch.
 
 Entries are keyed "new:<qid>" (see fetch_new_21st_century_wikidata.py's
 convention) with a "checked" flag distinguishing "fetched and confirmed
-not a composer" from "not looked at yet" -- promote_new_composer_entries.py
-and load_missing_composers.py only care about entries that got loaded,
-this flag is for the reverse question (skip re-fetching, but also don't
-mistake "no composer occupation found" for "never checked").
+not a composer" from "not looked at yet" -- load_missing_composers.py only
+cares about entries that got loaded, this flag is for the reverse question
+(skip re-fetching, but also don't mistake "no composer occupation found"
+for "never checked").
 
 Supports --socks-port to route through an SSH SOCKS tunnel (see
 fetch_wikidata_relationships.use_socks_proxy and this repo's pyedu.hu
