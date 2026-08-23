@@ -170,7 +170,7 @@ MANUAL_COMPOSER_TAGS = {
     "Q143059": ['Q185858'],  # Johannes Ockeghem -- Franco-Flemish School
     "Q143100": ['Q185858'],  # Josquin des Prez -- Franco-Flemish School
     "Q153469": ['Q615418'],  # Krzysztof Penderecki -- sonorism
-    "Q154770": ['Q1362030', 'Q248243', 'Q507246'],  # Arnold Schoenberg -- Second Viennese School, expressionism, serialism
+    "Q154770": ['Q1362030', 'Q248243', 'Q507246', 'Q221686'],  # Arnold Schoenberg -- Second Viennese School, expressionism, serialism, twelve-tone technique
     "Q154792": ['Q185858'],  # Orlande de Lassus -- Franco-Flemish School
     "Q154812": ['Q154432'],  # Carl Maria von Weber -- Biedermeier
     "Q15520837": ['Q5303621'],  # Elodie Lauten -- Downtown music
@@ -183,7 +183,7 @@ MANUAL_COMPOSER_TAGS = {
     "Q180727": ['Q1972942'],  # John Cage -- New York School
     "Q189534": ['Q572901'],  # Arvo Pärt -- minimalist music
     "Q189729": ['Q5303621'],  # Philip Glass -- Downtown music
-    "Q190933": ['Q1362030', 'Q248243', 'Q507246'],  # Anton Webern -- Second Viennese School, expressionism, serialism
+    "Q190933": ['Q1362030', 'Q248243', 'Q507246', 'Q221686'],  # Anton Webern -- Second Viennese School, expressionism, serialism, twelve-tone technique
     "Q1947131": ['Q3100481'],  # Ramón Barce -- Generación del 51
     "Q1988679": ['Q185858'],  # Arnold de Lantins -- Franco-Flemish School
     "Q206275": ['Q163491', 'Q830881'],  # Pérotin (Perotinus) -- Notre Dame school, ars antiqua
@@ -253,11 +253,13 @@ MANUAL_COMPOSER_TAGS = {
     "Q715624": ['Q615418'],  # Witold Szalonek -- sonorism
     "Q7311": ['Q1935489'],  # Giacomo Puccini -- Scapigliatura
     "Q7312": ['Q154432'],  # Franz Schubert -- Biedermeier
+    "Q7314": ['Q507246', 'Q221686'],  # Igor Stravinsky -- serialism, twelve-tone technique
     "Q7349": ['Q702207'],  # Joseph Haydn -- First Viennese School
     "Q7351": ['Q154432'],  # Robert Schumann -- Biedermeier
     "Q76428": ['Q989478'],  # Carl Philipp Emanuel Bach -- empfindsamkeit
-    "Q78475": ['Q1362030', 'Q248243', 'Q507246'],  # Alban Berg -- Second Viennese School, expressionism, serialism
+    "Q78475": ['Q1362030', 'Q248243', 'Q507246', 'Q221686'],  # Alban Berg -- Second Viennese School, expressionism, serialism, twelve-tone technique
     "Q8008040": ['Q5303621'],  # William Duckworth -- Downtown music
+    "Q86359": ['Q221686'],  # Josef Matthias Hauer -- twelve-tone technique
     "Q9726": ['Q154432'],  # Gioachino Rossini -- Biedermeier
     "Q975576": ['Q185858'],  # Loyset Compère -- Franco-Flemish School
     "Q983103": ['Q131784556'],  # Grzegorz Fitelberg -- młoda polska
