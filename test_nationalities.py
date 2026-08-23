@@ -1,9 +1,12 @@
 from domain.nationalities import (
     CITIZENSHIP_TO_NATIONALITY,
+    MIN_BIRTHPLACE_SUGGESTION_YEAR,
     MIN_RELATION_DISCOVERY_COMPOSER_ID,
     NEED_TO_CHECK_EXCEPTIONS,
     VERIFIED_NOT_NEEDING_CHECK,
+    VOLATILE_BIRTH_COUNTRIES,
     predict_need_to_check,
+    suggest_nationality_from_birthplace,
 )
 
 
@@ -67,3 +70,42 @@ def test_explicit_exception_does_not_fire_for_wrong_nationality_name():
 
 def test_unknown_composer_not_predicted():
     assert predict_need_to_check(1, "Q_unknown_composer", "German", []) is False
+
+
+# --- suggest_nationality_from_birthplace ----------------------------------
+
+def test_suggests_from_stable_country_after_threshold():
+    qid, nat = next(iter((q, n) for q, n in CITIZENSHIP_TO_NATIONALITY.items() if q not in VOLATILE_BIRTH_COUNTRIES))
+    assert suggest_nationality_from_birthplace(MIN_BIRTHPLACE_SUGGESTION_YEAR, qid) == nat
+
+
+def test_no_suggestion_before_threshold_year():
+    # Abraham Megerle, ~1600s Salzburg -- an independent Prince-
+    # Archbishopric at the time, not reliably "German" or "Austrian"
+    # from birthplace alone.
+    qid, nat = next(iter((q, n) for q, n in CITIZENSHIP_TO_NATIONALITY.items() if q not in VOLATILE_BIRTH_COUNTRIES))
+    assert suggest_nationality_from_birthplace(1600, qid) is None
+
+
+def test_no_suggestion_for_volatile_country_even_after_threshold():
+    # Moritz Brosig (German, born in what's now Poland) and Bolesław
+    # Woytowicz (Polish, born in what's now Ukraine) -- both well after
+    # 1800, both wrong from birth-country alone.
+    qid = next(iter(VOLATILE_BIRTH_COUNTRIES))
+    assert suggest_nationality_from_birthplace(1900, qid) is None
+
+
+def test_no_suggestion_for_unmapped_country():
+    assert suggest_nationality_from_birthplace(1900, "Q_not_in_any_dict") is None
+
+
+def test_no_suggestion_for_missing_birth_year_or_country():
+    qid = next(iter(CITIZENSHIP_TO_NATIONALITY))
+    assert suggest_nationality_from_birthplace(None, qid) is None
+    assert suggest_nationality_from_birthplace(1900, None) is None
+
+
+def test_year_boundary_is_inclusive():
+    qid, nat = next(iter((q, n) for q, n in CITIZENSHIP_TO_NATIONALITY.items() if q not in VOLATILE_BIRTH_COUNTRIES))
+    assert suggest_nationality_from_birthplace(MIN_BIRTHPLACE_SUGGESTION_YEAR - 1, qid) is None
+    assert suggest_nationality_from_birthplace(MIN_BIRTHPLACE_SUGGESTION_YEAR, qid) == nat

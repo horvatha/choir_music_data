@@ -258,3 +258,119 @@ def predict_need_to_check(composer_id, wikidata_id, nationality_name, citizenshi
     if composer_id >= MIN_RELATION_DISCOVERY_COMPOSER_ID and len(citizenship_qids) == 1:
         return CITIZENSHIP_TO_NATIONALITY.get(citizenship_qids[0]) == nationality_name
     return False
+
+
+# --- Birthplace-derived nationality suggestions (NOT wired into any load
+# script yet -- see reports/birthplace_nationality_suggestions.md for the
+# research this is based on, and CLAUDE.md's "Testing DB changes safely"
+# for how to verify against a scratch copy before ever writing this to
+# the real DB). Reuses CITIZENSHIP_TO_NATIONALITY above (a birth country
+# is looked up the same way a citizenship claim is), but for composers
+# with *no* nationality at all rather than adjusting need_to_check on an
+# existing one. Always pair the result with need_to_check=True -- a
+# birthplace is explicitly a guess here, never an asserted fact, since a
+# composer can move/emigrate young and be known by a different identity
+# than where they were born.
+#
+# Two restrictions beyond the citizenship version, both found via a real
+# spot-check against Wikipedia (8 composers checked, 3 wrong -- see the
+# report): birthplace is a meaningfully weaker signal than citizenship,
+# and fails in two distinct, identifiable ways.
+
+# Composers born before this year aren't reliably describable by a
+# *modern* country's nationality at all -- see Abraham Megerle (Q330328,
+# born ~1600s in Salzburg, then an independent Prince-Archbishopric that
+# only became Austrian territory in 1803; the birth-country mapping said
+# "German", en.wikipedia says "Austrian"). 1800 matches this repo's
+# existing "the further back the composer lived, treat sourcing with
+# more skepticism" convention elsewhere (CLAUDE.md's nationality-vs-
+# citizenship section; also the historical/modern boundary
+# load_composers.py's own date-tolerance scaling uses).
+MIN_BIRTHPLACE_SUGGESTION_YEAR = 1800
+
+# Countries whose borders shifted enough in the 19th-20th centuries that
+# "born within today's borders" doesn't reliably mean "of that
+# nationality", even for a composer born well after 1800 -- excluded
+# regardless of year. Found two real examples of this failure (opposite
+# directions of the same trap): Moritz Brosig (Q109870, German, born in
+# what's now Poland -- historically German Silesia) and Bolesław
+# Woytowicz (Q891327, Polish, born in what's now Ukraine -- a historically
+# Polish borderland).
+#
+# The general rule, not just a per-country judgment call: exclude a
+# country-QID whenever *the QID itself* spans more than one border
+# configuration -- either a generic, no-period item (Q183 "Germany", Q28
+# "Hungary" -- Wikidata's own description has no date range, so it's used
+# for claims from any era) or an item explicitly dated across a border
+# change (Q171150 "Kingdom of Hungary", described as 1000-1946, covering
+# both the huge pre-Trianon kingdom and the much smaller post-1920 one --
+# not currently in CITIZENSHIP_TO_NATIONALITY, but would need excluding
+# the moment it were added). By contrast, an item tightly dated to a
+# period *after* the relevant border settled is safe even though it's
+# "historical" -- Q16957 "German Democratic Republic" (1949-1990) and
+# Q16410 "Hungarian People's Republic" (1949-1989) both fall entirely
+# within today's German/Hungarian borders, so a claim citing either is
+# fine to keep un-excluded (neither happens to be in the dict yet
+# either, but wouldn't need this exclusion if added).
+#
+# Applying that rule found a real gap on the German side: Q43287 "German
+# Empire" (1871-1918) and Q1206012 "German Reich" (1871-1945/49) both
+# include the same lost territory as Q27306 "Kingdom of Prussia" below
+# (Alsace-Lorraine, Silesia, East Prussia) and needed excluding too, but
+# the individual pre-unification kingdoms mapped to "German" elsewhere in
+# CITIZENSHIP_TO_NATIONALITY (Saxony, Bavaria, Württemberg, Baden,
+# Brunswick, plus the city-state Hamburg) do NOT need excluding -- their
+# historical borders are still entirely within Germany today, same shape
+# as the GDR/Hungarian People's Republic case above.
+#
+# This list is still a first-pass judgment call, not authoritative or
+# exhaustive -- meant for review/revision, evaluated against the rule
+# above rather than re-guessed from scratch each time a QID is added.
+VOLATILE_BIRTH_COUNTRIES = {
+    "Q183",       # Germany -- generic, no-period item.
+    "Q43287",     # German Empire (1871-1918) -- included Alsace-Lorraine,
+                  # Silesia, East Prussia.
+    "Q1206012",   # German Reich (1871-1945/49) -- same territory as the
+                  # Empire above, plus further wartime losses.
+    "Q27306",     # Kingdom of Prussia -- territory scattered across
+                  # what's now Germany, Poland, Russia (Kaliningrad), and
+                  # Lithuania.
+    "Q207272",    # Poland -- modern Republic item seen among birth-
+                  # country claims.
+    "Q36",        # Poland (a different Wikidata item for the modern
+                  # Republic seen among birth-country claims; kept as a
+                  # separate entry rather than assumed identical to
+                  # Q207272 above).
+    "Q221457",    # Poland (a third Polish-state QID seen in the data --
+                  # possibly the interwar Second Polish Republic
+                  # specifically).
+    "Q212",       # Ukraine
+    "Q28",        # Hungary -- generic, no-period item; lost roughly
+                  # two-thirds of its territory at the 1920 Treaty of
+                  # Trianon.
+    "Q159",       # Russia -- Russian Empire/Soviet Union border and
+                  # ethnic-vs-citizenship questions, same category as
+                  # this repo's own Soviet/Yugoslav nationality cleanup
+                  # elsewhere.
+    "Q40",        # Austria -- volatile as the Austrian Empire/Austria-
+                  # Hungary before 1918; modern (post-1918/1955) Austria
+                  # itself is comparatively stable, so this entry may be
+                  # too broad -- worth revisiting per-era rather than as
+                  # a blanket exclusion.
+}
+
+
+def suggest_nationality_from_birthplace(birth_year, country_wikidata_id):
+    """Suggest a nationality for a composer with none at all yet, from
+    their birth country -- or None if birth_year/country_wikidata_id is
+    missing, too early (MIN_BIRTHPLACE_SUGGESTION_YEAR), a volatile
+    country (VOLATILE_BIRTH_COUNTRIES), or not in CITIZENSHIP_TO_
+    NATIONALITY at all. Caller must always set need_to_check=True on
+    whatever this returns -- see module comment above for why."""
+    if birth_year is None or country_wikidata_id is None:
+        return None
+    if birth_year < MIN_BIRTHPLACE_SUGGESTION_YEAR:
+        return None
+    if country_wikidata_id in VOLATILE_BIRTH_COUNTRIES:
+        return None
+    return CITIZENSHIP_TO_NATIONALITY.get(country_wikidata_id)
