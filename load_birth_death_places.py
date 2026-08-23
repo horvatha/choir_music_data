@@ -207,14 +207,23 @@ def build_qid_windows(qid, claims, qid_labels):
         en_match = next((w for w in group if w["language"] == "en"), None)
         if en_match:
             best_name = en_match["name"]
-        elif qid_labels.get(qid):
-            # No English P1448 claim for this window -- qid_labels (Wikidata's
-            # own best-label pick, already fetched) is far more reliable than
-            # picking "ru" as a blanket second choice: that language-code
-            # fallback used to fire for any place lacking an English name
-            # claim regardless of any actual connection to Russian, e.g.
-            # Liège -> "Льеж", Wrocław -> "Вроцлав", Guadalajara ->
-            # "Гвадалахара" -- all wrong, none Cyrillic-script places.
+        elif end is None and qid_labels.get(qid):
+            # No English P1448 claim for this window, but it's the item's
+            # current/open-ended one (end is None) -- qid_labels (Wikidata's
+            # own best-label pick, already fetched, always reflects the
+            # *current* name) is far more reliable than picking "ru" as a
+            # blanket second choice: that language-code fallback used to
+            # fire for any place lacking an English name claim regardless of
+            # any actual connection to Russian, e.g. Liège -> "Льеж",
+            # Guadalajara -> "Гвадалахара" -- all wrong, none Cyrillic-script
+            # places. Restricted to the open window specifically: qid_labels
+            # is one time-invariant "current" label, so applying it to a
+            # *closed* historical window too (an item with real per-era
+            # renames, e.g. Leningrad/St Petersburg's four periods, or
+            # Wrocław/Breslau) would flatten a genuine historical name into
+            # the modern one -- caught in testing when Leningrad's own
+            # 1924-1991 window (no "en" claim) silently became "Saint
+            # Petersburg" under an earlier, window-blind version of this fix.
             best_name = qid_labels[qid]
         else:
             best_name = (
