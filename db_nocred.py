@@ -11,14 +11,14 @@ from cloudant.client import Cloudant
 from cloudant.client import CloudantDatabase
 # client = Cloudant(USERNAME, PASSWORD, account=ACCOUNT_NAME, connect=True)
 # or using url
-USERNAME = 'horvath.arpad.ingatlan@gmail.com'
-ACCOUNT_NAME = 'horvath.arpad.ingatlan@gmail.com'
+USERNAME = 'horvath.arpad.ingatil.com'
+ACCOUNT_NAME = 'horvath.arpad.icom'
 PASSWORD = 'Ibm4Mikka'
 # client = Cloudant(USERNAME, PASSWORD, url='https://b1598dbc-97a9-45ed-9b63-3a98176dd1bf-bluemix.cloudantnosqldb.appdomain.cloud')
 
-ACCOUNT_NAME = 'b1598dbc-97a9-45ed-9b63-3a98176dd1bf-bluemix'
+ACCOUNT_NAME = 'b1598dbc-97a9-4bf-bluemix'
 # API_KEY = "JFA-m5cqje-ntjFWqaJCHOJOEuE4J2rFXEvF4tcPcz49"
-API_KEY = "ue1d6t9wKNzLBvuk6qjx14EhPcl9FnoYu849jyV5CgU_"
+API_KEY = "u9FnoYu849jyV5CgU_"
 client = Cloudant.iam(ACCOUNT_NAME, API_KEY, connect=True)
 
 # or with a 429 replay adapter that includes configured retries and initial backoff

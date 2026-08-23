@@ -155,8 +155,8 @@ lists.
 |---|---|
 | `fetch_wikidata_relationships.py` | Shared helpers/constants (`api_get`, `get_entity`, `extract_*`, `TARGET_LANGUAGES`, ...) used by nearly every fetch/backfill command above and script below. No longer has its own entry point -- see `cli.py fetch composers`. |
 | `fetch_full_wikidata_dump.py` | Diagnostic one-off: dumps a QID's *entire* raw Wikidata entity, unfiltered, for inspection. Not part of the DB pipeline. |
-| `load_composers.py` | Loads the English-language era CSVs (`composers_Medieval.csv`, etc.) into `composers`. |
-| `load_hungarian_composers.py` | Merges `composers_Hungarian.csv`, skipping rows flagged `pop` by `classify_hu_wiki_composers.py`. |
+| `load_composers.py` | Loads the English-language era CSVs (`data/eras/composers_Medieval.csv`, etc.) into `composers`. |
+| `load_hungarian_composers.py` | Merges `data/composers_Hungarian.csv`, skipping rows flagged `pop` by `classify_hu_wiki_composers.py`. |
 | `load_composer_relations.py` | Loads `composer_relations` from the fetched relationship props. |
 | `load_composer_alt_names.py` | Loads `composer_alt_names` from every language a composer's Wikidata entity has a label in. |
 | `load_birth_death_places.py` | Loads exact birth/death dates and resolves birth/death places to their historical (name, country) window. |

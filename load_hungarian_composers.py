@@ -31,7 +31,7 @@ from load_composers import (
     clean,
 )
 
-SOURCE = "composers_Hungarian.csv"
+SOURCE = "data/composers_Hungarian.csv"
 LANGUAGE = "hu"
 
 INSERT_ALT_NAME_SQL = """

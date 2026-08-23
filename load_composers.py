@@ -20,17 +20,18 @@ from domain.dates import as_tuple, parse_free_text
 
 # era -> csv file
 SOURCES = {
-    "Medieval": "composers_Medieval.csv",
-    "Renaissance": "composers_Renaissance.csv",
-    "Baroque": "composers_Baroque.csv",
-    "Classical-era": "composers_Classical-era.csv",
-    "Romantic-era": "composers_Romantic-era.csv",
-    "20th-century": "composers_20th_century.csv",
-    "21st-century": "composers_21st_century.csv",
+    "Medieval": "data/eras/composers_Medieval.csv",
+    "Renaissance": "data/eras/composers_Renaissance.csv",
+    "Baroque": "data/eras/composers_Baroque.csv",
+    "Classical-era": "data/eras/composers_Classical-era.csv",
+    "Romantic-era": "data/eras/composers_Romantic-era.csv",
+    "20th-century": "data/eras/composers_20th_century.csv",
+    "21st-century": "data/eras/composers_21st_century.csv",
 }
 
 FLOURISH_DASH_RE = re.compile(r"\s*[–—]\s*")  # en dash / em dash
 SHORT_YEAR_RE = re.compile(r"\b(\d{1,2})\b")
+ANY_YEAR_RE = re.compile(r"(\d{3,4})")
 
 
 def parse_flourish(raw):

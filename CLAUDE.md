@@ -27,6 +27,84 @@ cat schema.sql | podman exec -i composers-pg psql -U composers -d composers
 
 `schema.sql` starts with `DROP TABLE IF EXISTS ...` — running it wipes and recreates every table. This is the intended workflow for schema changes in this project (rerun the loaders after) rather than hand-written migrations; the `migrate_*.sql` files at the root are one-off historical migrations already applied, not a live migration chain.
 
+### Syncing local dev data to the production server
+
+Local dev (this podman DB) and the production server's DB (`pyedu.hu`, native Postgres install — see its own CLAUDE.md/memory for topology) are **independent databases that drift apart** as pipeline scripts get rerun locally. There's no live replication; syncing is a manual, one-shot dump/restore:
+
+```bash
+./backup_database.sh
+```
+
+This dumps the local DB, then automatically `scp`s it to `pyedu.hu:~/` and prints the exact restore command. The upload is automatic (safe — just copies a file); the restore is deliberately **not** automated, since it's destructive to the production DB (`pg_restore --clean --if-exists`, drops and recreates everything). Run it yourself:
+
+```bash
+ssh pyedu.hu
+bash restore_database.sh ~/composers_backup_<timestamp>.dump
+```
+
+Note `restore_database.sh` isn't on the server's non-interactive `PATH` (only `/usr/local/bin:/usr/bin:/bin:/usr/games`) — from a plain `ssh host command` invocation (not an interactive login shell) it must be run as `bash restore_database.sh ...` or with an explicit path, not as a bare command, even though it works bare in an interactive shell sitting in `$HOME`.
+
+Before syncing, it's worth checking whether local dev itself has an unapplied backlog first — rerunning a loader like `load_composer_alt_names.py` or `load_birth_death_places.py` can surface a large batch of names/places that were fetched into the Wikidata cache but never actually loaded into Postgres (these loaders are idempotent and safe to rerun anytime; `load_birth_death_places.py`'s own output tells you if `fetch_place_history.py` needs a rerun first, via its "N places skipped" count).
+
+### Testing DB changes safely
+
+Local dev is not a throwaway sandbox — it accumulates real hand-curated
+state (manual composer merges/deletes, `MANUAL_COMPOSER_TAGS`-style
+overrides, nationality/place fixes) that isn't all reconstructable just by
+rerunning loaders from source. Before rerunning a script whose correctness
+you're not already confident of — a script with a new/changed code path,
+or a `TRUNCATE`-based loader you haven't rerun recently — take a **local**
+safety snapshot first, skipping the production upload:
+
+```bash
+./backup_database.sh --no-copy
+```
+
+This is fast (a local `pg_dump`, no `scp`) — cheap enough to run before any
+rerun you're even slightly unsure about, not just big destructive ones.
+
+**Verifying "did we actually reach the same state" — don't just eyeball
+row counts on the live DB.** Restore the snapshot into a disposable
+scratch container (never overwrite the real `composers-pg`) and diff
+against it directly:
+
+```bash
+podman run -d --name composers-pg-verify \
+  -e POSTGRES_PASSWORD=scratch -e POSTGRES_DB=composers_scratch -e POSTGRES_USER=composers \
+  docker.io/library/postgres:17
+sleep 3
+podman cp pg_dumps/composers_backup_<timestamp>.dump composers-pg-verify:/tmp/backup.dump
+podman exec -i composers-pg-verify pg_restore -U composers -d composers_scratch --no-owner --no-privileges /tmp/backup.dump
+
+# compare row counts per table, then diff actual rows for anything that differs
+for tbl in composers composer_wikilinks composer_alt_names nationalities composer_nationalities tags composer_tags; do
+  b=$(podman exec -i composers-pg-verify psql -U composers -d composers_scratch -At -c "SELECT count(*) FROM $tbl;")
+  l=$(podman exec -i composers-pg psql -U composers -d composers -At -c "SELECT count(*) FROM $tbl;")
+  echo "$tbl: backup=$b live=$l"
+done
+
+# once done:
+podman stop composers-pg-verify && podman rm composers-pg-verify
+```
+
+A row-count match isn't proof by itself — diff the actual rows for any
+table that differs (e.g. `SELECT c.name, t.name FROM composer_tags ct JOIN
+composers c ... JOIN tags t ...` on both sides, `diff` the sorted output)
+to confirm every difference is one you actually intended, not a stray
+side effect. This exact workflow caught a real bug on 2026-08-23:
+rerunning `load_composers.py` to verify an unrelated CSV path change
+silently inserted 73 duplicate composer rows via a false-positive in its
+`looks_like_different_person` name-collision heuristic — invisible from
+the loader's own success output, only found by diffing against a backup
+taken minutes earlier.
+
+Row-count matching only works if nothing legitimate changed between the
+backup and the state you're checking — if real work happened in between
+(e.g. an intentional tag backfill), diff the specific rows affected by
+that work separately and confirm they, and only they, account for the
+difference (as opposed to assuming any list of unequal counts must be
+your bug).
+
 ### Schema shape
 
 - `composers` — one row per person. No `article` column (moved out, see below).
@@ -73,10 +151,10 @@ directly.
 
 ## The live pipeline
 
-1. **Source → CSV**: Each era/language has its own CSV (`composers_Medieval.csv`, `composers_Baroque.csv`, ..., `composers_Hungarian.csv`), columns `article,name,birth,death,nationality[,era]`. `parse_hu_wiki_composers.py` is the pattern for turning a raw Wikipedia list wikitext dump (e.g. `zeneszerzok_hu_wiki.txt`) into one of these CSVs — bullet-list wikilinks (`*[[Article|Display]] (birth – death)`) parsed into rows, with hand-maintained `ERA_OVERRIDES` for composers whose era isn't derivable from the source list itself.
-2. **CSV → DB**: `load_composers.py` loads the English-language era CSVs (`SOURCES` dict), merging a composer onto an existing row by their normalized `en` wikilink title (falling back to exact name match for composers with no Wikipedia page), so rerunning it is idempotent. `load_hungarian_composers.py` does the equivalent for `composers_Hungarian.csv`, but merges by (birth year, death year, name-as-a-set-of-words) instead — this catches same-alphabet reordering (Hungarian "Ligeti György" ↔ existing "György Ligeti") but *not* translated or transliterated names, which land as new rows.
+1. **Source → CSV**: Each era has its own CSV under `data/eras/` (`data/eras/composers_Medieval.csv`, `data/eras/composers_Baroque.csv`, ...), columns `article,name,birth,death,nationality[,era]`; the Hungarian-language list is `data/composers_Hungarian.csv` (sits directly under `data/`, not `data/eras/`, since it's a language split rather than an era). `parse_hu_wiki_composers.py` is the pattern for turning a raw Wikipedia list wikitext dump (e.g. `zeneszerzok_hu_wiki.txt`) into one of these CSVs — bullet-list wikilinks (`*[[Article|Display]] (birth – death)`) parsed into rows, with hand-maintained `ERA_OVERRIDES` for composers whose era isn't derivable from the source list itself.
+2. **CSV → DB**: `load_composers.py` loads the English-language era CSVs (`SOURCES` dict), merging a composer onto an existing row by their normalized `en` wikilink title (falling back to exact name match for composers with no Wikipedia page), so rerunning it is idempotent. `load_hungarian_composers.py` does the equivalent for `data/composers_Hungarian.csv`, but merges by (birth year, death year, name-as-a-set-of-words) instead — this catches same-alphabet reordering (Hungarian "Ligeti György" ↔ existing "György Ligeti") but *not* translated or transliterated names, which land as new rows.
 3. **Dedup**: `find_duplicate_composers.py` reports composers sharing an exact birth+death year (narrowed to groups touching a non-`en` wikilink, otherwise too noisy — most collisions among the thousands of other composers are coincidental). This is the tool for finding same-person-different-spelling duplicates (translated names, Russian transliterations, etc.) that the loaders' automatic matching misses. Nothing here is auto-merged — `merge_composers.py <keep_id> <drop_id> <language>` does the actual merge once you've confirmed a pair by hand.
-4. **Classification**: `classify_hu_wiki_composers.py` flags Hungarian-list composers who are pop/rock/light-music figures rather than concert-music composers, using hu.wikipedia.org category membership via the MediaWiki API (cached in `hu_wiki_categories_cache.json`). It's a heuristic (category keyword match, e.g. `Kategória:Magyar könnyűzenei előadók`), not authoritative — writes `flag`/`flag_reason` columns back onto `composers_Hungarian.csv` rather than deleting anything, so wrong flags get fixed by hand later. `load_hungarian_composers.py` skips rows with `flag == 'pop'`.
+4. **Classification**: `classify_hu_wiki_composers.py` flags Hungarian-list composers who are pop/rock/light-music figures rather than concert-music composers, using hu.wikipedia.org category membership via the MediaWiki API (cached in `hu_wiki_categories_cache.json`). It's a heuristic (category keyword match, e.g. `Kategória:Magyar könnyűzenei előadók`), not authoritative — writes `flag`/`flag_reason` columns back onto `data/composers_Hungarian.csv` rather than deleting anything, so wrong flags get fixed by hand later. `load_hungarian_composers.py` skips rows with `flag == 'pop'`.
 
 Running the whole pipeline from scratch: apply `schema.sql`, then `python3 load_composers.py`, then `python3 load_hungarian_composers.py`.
 
