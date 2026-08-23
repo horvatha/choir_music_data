@@ -68,6 +68,13 @@ EXCLUDED_QIDS = {
     "Q65937946",  # modern classical music
     "Q2534081",   # pre-classical music
     "Q8011523",   # contemporary music
+    "Q21662779",  # Neue Musik -- German-language synonym for "contemporary
+                  # classical music"/"contemporary music" above, not a named
+                  # school with a defined membership (Wikidata's own
+                  # description: "collective term for a vast number of
+                  # different currents... from about 1910 to the present").
+                  # Only Wolfgang Rihm carried it; no defensible backfill
+                  # target the way First Viennese School/Biedermeier had.
 
     # Era + nationality combinations: derivable from era + the composer's
     # own nationality (composer_nationalities), both already tracked
