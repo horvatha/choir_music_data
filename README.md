@@ -82,6 +82,12 @@ loaded); each script's own docstring says which.
    own `TRUNCATE ... CASCADE` wipes `work_instruments`/`instrument_names`
    too, a real FK cascade, not incidental) -- see `load_work_instruments.py`'s
    own docstring for the exact sequence, don't run these piecemeal.
+3. `load_tag_wikilinks.py` must be rerun after every `load_tags.py` run --
+   `load_tags.py`'s own `TRUNCATE composer_tags, tags ... CASCADE` wipes
+   `tag_wikilinks` too (an FK cascade off `tags.id`), even for a run that
+   only touched one composer's tags. No re-fetch needed for this, just the
+   load step -- `fetch_tag_wikilinks.py`'s cache in `wikidata_relationships.json`
+   survives the DB truncate untouched.
 
 **Two gotchas that will bite you if you don't know about them:**
 - *Stale cache ids after a merge.* `merge_composers.py` deletes the

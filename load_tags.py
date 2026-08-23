@@ -157,6 +157,7 @@ QID_REDIRECTS = {
 MANUAL_COMPOSER_TAGS = {
     "Q1093593": ['Q704073'],  # Antonio Zacara da Teramo -- ars subtilior
     "Q1254597": ['Q5303621'],  # Richard Maxfield -- Downtown music
+    "Q1268": ['Q154432'],  # Frédéric Chopin -- Biedermeier
     "Q1277459": ['Q1972942'],  # Earle Brown -- New York School
     "Q1406473": ['Q615418'],  # Witold Rudziński -- sonorism
     "Q143059": ['Q185858'],  # Johannes Ockeghem -- Franco-Flemish School
@@ -164,6 +165,7 @@ MANUAL_COMPOSER_TAGS = {
     "Q153469": ['Q615418'],  # Krzysztof Penderecki -- sonorism
     "Q154770": ['Q1362030', 'Q248243', 'Q507246'],  # Arnold Schoenberg -- Second Viennese School, expressionism, serialism
     "Q154792": ['Q185858'],  # Orlande de Lassus -- Franco-Flemish School
+    "Q154812": ['Q154432'],  # Carl Maria von Weber -- Biedermeier
     "Q15520837": ['Q5303621'],  # Elodie Lauten -- Downtown music
     "Q156472": ['Q615418'],  # Witold Lutosławski -- sonorism
     "Q1664987": ['Q507246'],  # Jan Klusák -- serialism
@@ -190,7 +192,7 @@ MANUAL_COMPOSER_TAGS = {
     "Q235066": ['Q5303621'],  # Laurie Anderson -- Downtown music
     "Q245348": ['Q615418'],  # Zygmunt Krauze -- sonorism
     "Q254": ['Q702207'],  # Wolfgang Amadeus Mozart -- First Viennese School
-    "Q255": ['Q702207'],  # Ludwig van Beethoven -- First Viennese School
+    "Q255": ['Q702207', 'Q154432'],  # Ludwig van Beethoven -- First Viennese School, Biedermeier
     "Q2602845": ['Q3100481'],  # Carmelo Bernaola -- Generación del 51
     "Q2617839": ['Q3100481'],  # Luis de Pablo -- Generación del 51
     "Q2622143": ['Q615418'],  # Andrzej Dobrowolski -- sonorism
@@ -221,12 +223,14 @@ MANUAL_COMPOSER_TAGS = {
     "Q378148": ['Q704073'],  # Johannes Ciconia -- ars subtilior
     "Q3847499": ['Q3100481'],  # Tomás Marco -- Generación del 51
     "Q386172": ['Q704073'],  # Jacob Senleches -- ars subtilior
+    "Q41309": ['Q154432'],  # Franz Liszt -- Biedermeier
     "Q432299": ['Q702207'],  # Johann Adam Hiller -- First Viennese School
     "Q432822": ['Q5303621'],  # La Monte Young -- Downtown music
     "Q433661": ['Q5303621'],  # Glenn Branca -- Downtown music
     "Q438090": ['Q185858'],  # Jacob Clemens non Papa -- Franco-Flemish School
     "Q452352": ['Q248243'],  # Nikos Skalkottas -- Second Viennese School
     "Q45909": ['Q5303621'],  # John Cale -- Downtown music
+    "Q46096": ['Q154432'],  # Felix Mendelssohn -- Biedermeier
     "Q465396": ['Q615418'],  # Bogusław Schaeffer -- sonorism
     "Q508891": ['Q131784556'],  # Mieczysław Karłowicz -- młoda polska
     "Q514391": ['Q704073'],  # Paolo da Firenze (Paolo Tenorista) -- ars subtilior
@@ -241,10 +245,13 @@ MANUAL_COMPOSER_TAGS = {
     "Q689576": ['Q702207'],  # Georg Matthias Monn -- First Viennese School
     "Q715624": ['Q615418'],  # Witold Szalonek -- sonorism
     "Q7311": ['Q1935489'],  # Giacomo Puccini -- Scapigliatura
+    "Q7312": ['Q154432'],  # Franz Schubert -- Biedermeier
     "Q7349": ['Q702207'],  # Joseph Haydn -- First Viennese School
+    "Q7351": ['Q154432'],  # Robert Schumann -- Biedermeier
     "Q76428": ['Q989478'],  # Carl Philipp Emanuel Bach -- empfindsamkeit
     "Q78475": ['Q1362030', 'Q248243', 'Q507246'],  # Alban Berg -- Second Viennese School, expressionism, serialism
     "Q8008040": ['Q5303621'],  # William Duckworth -- Downtown music
+    "Q9726": ['Q154432'],  # Gioachino Rossini -- Biedermeier
     "Q975576": ['Q185858'],  # Loyset Compère -- Franco-Flemish School
     "Q983103": ['Q131784556'],  # Grzegorz Fitelberg -- młoda polska
 }

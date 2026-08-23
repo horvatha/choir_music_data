@@ -13,6 +13,7 @@ DROP TABLE IF EXISTS instruments;
 DROP TABLE IF EXISTS instrument_group_names;
 DROP TABLE IF EXISTS instrument_groups;
 DROP TABLE IF EXISTS composer_tags;
+DROP TABLE IF EXISTS tag_wikilinks;
 DROP TABLE IF EXISTS tags;
 DROP TABLE IF EXISTS composer_nationalities;
 DROP TABLE IF EXISTS nationality_names;
@@ -550,6 +551,19 @@ CREATE TABLE composer_tags (
     composer_id INTEGER NOT NULL REFERENCES composers(id) ON DELETE CASCADE,
     tag_id      INTEGER NOT NULL REFERENCES tags(id) ON DELETE CASCADE,
     PRIMARY KEY (composer_id, tag_id)
+);
+
+-- A tag's own Wikipedia article per language edition (the movement/school
+-- itself, e.g. "ars antiqua" -- not to be confused with composer_wikilinks,
+-- which is a composer's own article). Wiped along with tags on every
+-- load_tags.py TRUNCATE (ON DELETE CASCADE); load_tag_wikilinks.py just
+-- gets rerun afterward to repopulate it, same as load_missing_wikilinks.py
+-- does for composer_wikilinks.
+CREATE TABLE tag_wikilinks (
+    tag_id   INTEGER NOT NULL REFERENCES tags(id) ON DELETE CASCADE,
+    language TEXT NOT NULL,
+    title    TEXT NOT NULL,
+    PRIMARY KEY (tag_id, language)
 );
 
 -- A composer-to-person relationship (currently from Wikidata's
