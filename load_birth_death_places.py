@@ -204,12 +204,24 @@ def build_qid_windows(qid, claims, qid_labels):
         groups.setdefault((w["start"], w["end"]), []).append(w)
     name_windows = []
     for (start, end), group in groups.items():
-        best = (
-            next((w for w in group if w["language"] == "en"), None)
-            or next((w for w in group if w["language"] == "ru"), None)
-            or sorted(group, key=lambda w: w["language"])[0]
-        )
-        name_windows.append((start, end, best["name"]))
+        en_match = next((w for w in group if w["language"] == "en"), None)
+        if en_match:
+            best_name = en_match["name"]
+        elif qid_labels.get(qid):
+            # No English P1448 claim for this window -- qid_labels (Wikidata's
+            # own best-label pick, already fetched) is far more reliable than
+            # picking "ru" as a blanket second choice: that language-code
+            # fallback used to fire for any place lacking an English name
+            # claim regardless of any actual connection to Russian, e.g.
+            # Liège -> "Льеж", Wrocław -> "Вроцлав", Guadalajara ->
+            # "Гвадалахара" -- all wrong, none Cyrillic-script places.
+            best_name = qid_labels[qid]
+        else:
+            best_name = (
+                next((w for w in group if w["language"] == "ru"), None)
+                or sorted(group, key=lambda w: w["language"])[0]
+            )["name"]
+        name_windows.append((start, end, best_name))
     return country_windows, _clip_undated_name_window(name_windows)
 
 

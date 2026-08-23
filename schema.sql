@@ -121,14 +121,29 @@ CREATE TABLE states (
 -- predecessor/successor relationship is what place_predecessors already
 -- captures deliberately by hand -- so parent_place_id is left null for
 -- any place already listed as somebody's place_predecessors row.
+-- located_in_place_id is a *different*, deliberately separate relationship:
+-- the settlement a non-administrative landmark (a street, a building, a
+-- specific address) physically sits inside -- e.g. boulevard Saint-Michel
+-- (Wikidata P20 target for César Franck's death place) -> Paris. Unlike
+-- parent_place_id, this is NOT "administratively part of" (a street has no
+-- local government the way a district/borough does), so it never feeds the
+-- Parts/"Kerületek" admin-hierarchy grouping (concert_music_app's
+-- fetch_child_places only reads parent_place_id) -- but it DOES feed the
+-- same unified composer list a district's parent_place_id triggers
+-- (fetch_composers_for_place_group), same as a district's composers: a
+-- landmark-linked composer intentionally shows up on both the landmark's
+-- own page and its settlement's page, "twice rather than never" findable.
+-- Set for a landmark-type place only; a district/borough/arrondissement
+-- should use parent_place_id instead, never both.
 CREATE TABLE places (
-    id              SERIAL PRIMARY KEY,
-    name            TEXT NOT NULL,
-    latitude        DOUBLE PRECISION,
-    longitude       DOUBLE PRECISION,
-    state_id        INTEGER REFERENCES states(id),
-    place_type      TEXT,
-    parent_place_id INTEGER REFERENCES places(id)
+    id                  SERIAL PRIMARY KEY,
+    name                TEXT NOT NULL,
+    latitude            DOUBLE PRECISION,
+    longitude           DOUBLE PRECISION,
+    state_id            INTEGER REFERENCES states(id),
+    place_type          TEXT,
+    parent_place_id     INTEGER REFERENCES places(id),
+    located_in_place_id INTEGER REFERENCES places(id)
 );
 
 -- Every distinct Wikidata item that is or was this place. Most places have

@@ -1,14 +1,17 @@
 """Set places.place_type (Wikidata P31 label) and places.parent_place_id
 (current administrative parent, Wikidata P131) for places that are
 currently part of a larger place we track -- e.g. a Budapest district or
-an NYC borough -- and populate place_predecessors for places that used to
-be their own separate administrative entity but no longer exist in that
+an NYC borough -- populate place_predecessors for places that used to be
+their own separate administrative entity but no longer exist in that
 form -- e.g. Tokyo City (dissolved 1943) or East/West Berlin (reunified
-1990). See the place_type/parent_place_id comment above CREATE TABLE
-places, and place_predecessors' own table comment, in schema.sql for why
-these are two different relationships rather than one.
+1990) -- and set places.located_in_place_id for a non-administrative
+landmark (a street, a building) physically located inside a settlement
+-- e.g. boulevard Saint-Michel -> Paris. See the place_type/
+parent_place_id/located_in_place_id comment above CREATE TABLE places,
+and place_predecessors' own table comment, in schema.sql for why these
+are different relationships rather than one.
 
-Both dicts below are hand-confirmed judgment calls, the same way
+All dicts below are hand-confirmed judgment calls, the same way
 MANUAL_PLACE_CLUSTERS in load_birth_death_places.py is: verified against
 Wikidata's own P31/P131/P1366 claims one city at a time rather than
 derived automatically, since blindly trusting P131 breaks down close to
@@ -103,6 +106,44 @@ TYPE_ONLY = {
     "Q60": "consolidated city-county",  # New York City
 }
 
+# landmark_qid -> (settlement_qid, place_type) -- a non-administrative
+# landmark (a street, a building) physically located inside a settlement,
+# written to located_in_place_id, NOT parent_place_id: unlike a district/
+# borough/arrondissement, a street has no local government of its own, so
+# it's not "administratively part of" the city the way DISTRICT_PARENTS'
+# entries are (see schema.sql's CREATE TABLE places comment). Never feeds
+# the Parts/"Kerületek" admin-hierarchy grouping, but does feed the same
+# unified composer list a district's parent_place_id triggers -- a
+# landmark-linked composer shows up on both the landmark's own page and
+# its settlement's page.
+LANDMARK_LOCATIONS = {
+    "Q895078": ("Q90", "street"),  # boulevard Saint-Michel -> Paris
+    "Q2873662": ("Q90", "street"),  # avenue Gourgaud -> Paris
+    "Q2921974": ("Q90", "street"),  # boulevard de Courcelles -> Paris
+    "Q2922078": ("Q90", "street"),  # boulevard du Montparnasse -> Paris
+    "Q2921894": ("Q90", "street"),  # boulevard Pereire -> Paris
+    "Q3447053": ("Q90", "street"),  # rue Ballu -> Paris
+    "Q3447168": ("Q90", "street"),  # rue Blanche -> Paris
+    "Q3447453": ("Q90", "street"),  # rue Christophe-Colomb -> Paris
+    "Q3447626": ("Q90", "street"),  # rue Dauphine -> Paris
+    "Q3450713": ("Q90", "street"),  # rue de Douai -> Paris
+    "Q1640681": ("Q90", "street"),  # rue de la Chaussée-d'Antin -> Paris
+    "Q3451594": ("Q90", "street"),  # rue de la Verrerie -> Paris
+    "Q48748327": ("Q90", "street"),  # Rue d'Enfer -> Paris
+    "Q3451060": ("Q90", "street"),  # rue de Steinkerque -> Paris
+    "Q3452235": ("Q90", "street"),  # rue du Conservatoire -> Paris
+    "Q2378296": ("Q90", "street"),  # rue Louise-Émilie-de-La-Tour-d'Auvergne -> Paris
+    "Q3449529": ("Q90", "street"),  # rue Pierre-Larousse -> Paris
+    "Q3449728": ("Q90", "street"),  # rue Richer -> Paris
+    "Q1356926": ("Q90", "street"),  # rue Saint-Jacques -> Paris
+    "Q3450116": ("Q90", "street"),  # rue Taitbout -> Paris
+    "Q3450316": ("Q90", "street"),  # rue Victor-Massé -> Paris
+    "Q137475146": ("Q42810", "street"),  # Rue Robert de la Villehervé -> Le Havre (NOT Paris -- verified via Wikidata P131)
+    "Q24929623": ("Q48958", "street"),  # Boulevard d'Inkermann -> Neuilly-sur-Seine (NOT Paris -- verified via Wikidata P131)
+    "Q3452020": ("Q3992", "street"),  # Rue des Récollets -> Liège (NOT Paris -- verified via Wikidata P131)
+    "Q22249019": ("Q30974", "street"),  # Rue aux Ours, Rouen -> Rouen (own name already says Rouen; place_link's substring guard avoids "Rouen, Rouen")
+}
+
 
 def _place_id_for_qid(cur, qid):
     cur.execute("SELECT place_id FROM place_qids WHERE wikidata_id = %s", (qid,))
@@ -148,6 +189,17 @@ def main():
                     print(f"skip {qid}: not yet tracked")
                     continue
                 cur.execute("UPDATE places SET place_type=%s WHERE id=%s", (place_type, place_id))
+
+            for landmark_qid, (settlement_qid, place_type) in LANDMARK_LOCATIONS.items():
+                landmark_id = _place_id_for_qid(cur, landmark_qid)
+                settlement_id = _place_id_for_qid(cur, settlement_qid)
+                if landmark_id is None or settlement_id is None:
+                    print(f"skip {landmark_qid} -> {settlement_qid}: not yet tracked")
+                    continue
+                cur.execute(
+                    "UPDATE places SET place_type=%s, located_in_place_id=%s WHERE id=%s",
+                    (place_type, settlement_id, landmark_id),
+                )
 
     conn.close()
     print("done")
