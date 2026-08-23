@@ -133,6 +133,122 @@ QID_REDIRECTS = {
     "Q14378": "Q535611",
 }
 
+# composers.wikidata_id -> [tags.wikidata_id, ...] -- hand-added
+# composer/tag associations for real, named schools/movements found via a
+# full tag-review pass (choir_music_data's reports/tags_review.md,
+# gitignored, not committed) where Wikidata itself simply has no P135
+# claim at all for a composer who's a documented member -- e.g. none of
+# Haydn/Mozart/Beethoven have a "First Viennese School" P135 claim,
+# despite it being close to the definition of the term. Full sourcing
+# per composer/tag pair is in wikidata_changes/tags_missing_p135_backfill.wiki.
+#
+# Applied automatically after the normal Wikidata-claim pass below, since
+# this script TRUNCATEs both tags and composer_tags on every run -- an
+# earlier version of this fix was a raw, undocumented psql patch applied
+# once by hand, which got silently wiped the very next time this script
+# ran (triggered by adding one new composer, Ramón Barce, to
+# Generación del 51) and had to be reconstructed from scratch. Keyed by
+# wikidata_id on both sides (not internal ids) because TRUNCATE ...
+# RESTART IDENTITY resets every tag's own id on every run -- same
+# self-healing pattern as load_place_period_names.py's
+# MANUAL_PERIOD_NAMES. Includes a handful of composer/tag pairs that
+# also have a genuine Wikidata claim (harmless duplication via
+# ON CONFLICT DO NOTHING -- simpler than maintaining two separate lists).
+MANUAL_COMPOSER_TAGS = {
+    "Q1093593": ['Q704073'],  # Antonio Zacara da Teramo -- ars subtilior
+    "Q1254597": ['Q5303621'],  # Richard Maxfield -- Downtown music
+    "Q1277459": ['Q1972942'],  # Earle Brown -- New York School
+    "Q1406473": ['Q615418'],  # Witold Rudziński -- sonorism
+    "Q143059": ['Q185858'],  # Johannes Ockeghem -- Franco-Flemish School
+    "Q143100": ['Q185858'],  # Josquin des Prez -- Franco-Flemish School
+    "Q153469": ['Q615418'],  # Krzysztof Penderecki -- sonorism
+    "Q154770": ['Q1362030', 'Q248243', 'Q507246'],  # Arnold Schoenberg -- Second Viennese School, expressionism, serialism
+    "Q154792": ['Q185858'],  # Orlande de Lassus -- Franco-Flemish School
+    "Q15520837": ['Q5303621'],  # Elodie Lauten -- Downtown music
+    "Q156472": ['Q615418'],  # Witold Lutosławski -- sonorism
+    "Q1664987": ['Q507246'],  # Jan Klusák -- serialism
+    "Q1720016": ['Q615418'],  # Kazimierz Serocki -- sonorism
+    "Q1775599": ['Q704073'],  # Trebor -- ars subtilior
+    "Q180026": ['Q163491'],  # Petrus de Cruce -- ars antiqua
+    "Q1800718": ['Q131784556'],  # Ludomir Różycki -- młoda polska
+    "Q180727": ['Q1972942'],  # John Cage -- New York School
+    "Q189534": ['Q572901'],  # Arvo Pärt -- minimalist music
+    "Q189729": ['Q5303621'],  # Philip Glass -- Downtown music
+    "Q190933": ['Q1362030', 'Q248243', 'Q507246'],  # Anton Webern -- Second Viennese School, expressionism, serialism
+    "Q1947131": ['Q3100481'],  # Ramón Barce -- Generación del 51
+    "Q1988679": ['Q185858'],  # Arnold de Lantins -- Franco-Flemish School
+    "Q206275": ['Q163491', 'Q830881'],  # Pérotin (Perotinus) -- Notre Dame school, ars antiqua
+    "Q207390": ['Q1935489'],  # Amilcare Ponchielli -- Scapigliatura
+    "Q207717": ['Q2007658'],  # Guillaume Dufay (Guillaume Du Fay) -- Burgundian School
+    "Q2116807": ['Q704073'],  # Johannes CuvelierJean; Jacquemart le Cuvelier -- ars subtilior
+    "Q214964": ['Q2007658'],  # Gilles Binchois (Gilles de Bins) -- Burgundian School
+    "Q219491": ['Q1935489'],  # Arrigo Boito -- Scapigliatura
+    "Q2202999": ['Q185858'],  # Johannes Martini -- Franco-Flemish School
+    "Q2265181": ['Q704073'],  # Philippus de Caserta (Philipoctus de Caserta) -- ars subtilior
+    "Q230978": ['Q615418'],  # Grażyna Bacewicz -- sonorism
+    "Q2343880": ['Q704073'],  # Matteo da Perugia -- ars subtilior
+    "Q235066": ['Q5303621'],  # Laurie Anderson -- Downtown music
+    "Q245348": ['Q615418'],  # Zygmunt Krauze -- sonorism
+    "Q254": ['Q702207'],  # Wolfgang Amadeus Mozart -- First Viennese School
+    "Q255": ['Q702207'],  # Ludwig van Beethoven -- First Viennese School
+    "Q2602845": ['Q3100481'],  # Carmelo Bernaola -- Generación del 51
+    "Q2617839": ['Q3100481'],  # Luis de Pablo -- Generación del 51
+    "Q2622143": ['Q615418'],  # Andrzej Dobrowolski -- sonorism
+    "Q262791": ['Q5303621'],  # Steve Reich -- Downtown music
+    "Q277029": ['Q185858'],  # Philippe de Monte -- Franco-Flemish School
+    "Q28480": ['Q1362030'],  # Max Brod -- expressionism
+    "Q286273": ['Q185858'],  # Balduin Hoyoul -- Franco-Flemish School
+    "Q294568": ['Q572901', 'Q615418'],  # Henryk Górecki -- minimalist music, sonorism
+    "Q295400": ['Q131784556'],  # Karol Szymanowski -- młoda polska
+    "Q297501": ['Q163491', 'Q830881'],  # Léonin -- Notre Dame school, ars antiqua
+    "Q298726": ['Q5303621'],  # John Zorn -- Downtown music
+    "Q3018260": ['Q5303621'],  # David Lang -- Downtown music
+    "Q3038778": ['Q3100481'],  # Joan Guinjoan -- Generación del 51
+    "Q312615": ['Q185858'],  # Adrian Willaert -- Franco-Flemish School
+    "Q314019": ['Q702207'],  # Ignaz Pleyel -- First Viennese School
+    "Q316427": ['Q1972942', 'Q5303621'],  # Morton Feldman -- Downtown music, New York School
+    "Q317350": ['Q572901'],  # John Tavener -- minimalist music
+    "Q317937": ['Q2007658'],  # Antoine Busnois -- Burgundian School
+    "Q3184122": ['Q3100481'],  # Josep Soler i Sardà -- Generación del 51
+    "Q319777": ['Q615418'],  # Wojciech Kilar -- sonorism
+    "Q324253": ['Q989478'],  # Johann Gottlieb Janitsch -- empfindsamkeit
+    "Q327040": ['Q572901'],  # Hans Otte -- minimalist music
+    "Q3308220": ['Q5303621'],  # Michael Gordon -- Downtown music
+    "Q352722": ['Q1935489'],  # Alfredo Catalani -- Scapigliatura
+    "Q370512": ['Q185858'],  # Johannes Tinctoris -- Franco-Flemish School
+    "Q375388": ['Q3100481'],  # Cristóbal Halffter -- Generación del 51
+    "Q376521": ['Q163491'],  # Albertus Parisiensis -- ars antiqua
+    "Q378148": ['Q704073'],  # Johannes Ciconia -- ars subtilior
+    "Q3847499": ['Q3100481'],  # Tomás Marco -- Generación del 51
+    "Q386172": ['Q704073'],  # Jacob Senleches -- ars subtilior
+    "Q432299": ['Q702207'],  # Johann Adam Hiller -- First Viennese School
+    "Q432822": ['Q5303621'],  # La Monte Young -- Downtown music
+    "Q433661": ['Q5303621'],  # Glenn Branca -- Downtown music
+    "Q438090": ['Q185858'],  # Jacob Clemens non Papa -- Franco-Flemish School
+    "Q452352": ['Q248243'],  # Nikos Skalkottas -- Second Viennese School
+    "Q45909": ['Q5303621'],  # John Cale -- Downtown music
+    "Q465396": ['Q615418'],  # Bogusław Schaeffer -- sonorism
+    "Q508891": ['Q131784556'],  # Mieczysław Karłowicz -- młoda polska
+    "Q514391": ['Q704073'],  # Paolo da Firenze (Paolo Tenorista) -- ars subtilior
+    "Q545594": ['Q615418'],  # Tadeusz Baird -- sonorism
+    "Q554780": ['Q5303621'],  # Rhys Chatham -- Downtown music
+    "Q610544": ['Q3100481'],  # Antón García Abril -- Generación del 51
+    "Q6306853": ['Q5303621'],  # Julia Wolfe -- Downtown music
+    "Q631120": ['Q704073'],  # Solage -- ars subtilior
+    "Q642456": ['Q185858'],  # Philippe Rogier -- Franco-Flemish School
+    "Q652558": ['Q615418'],  # Krzysztof Meyer -- sonorism
+    "Q658733": ['Q1972942'],  # Christian Wolff -- New York School
+    "Q689576": ['Q702207'],  # Georg Matthias Monn -- First Viennese School
+    "Q715624": ['Q615418'],  # Witold Szalonek -- sonorism
+    "Q7311": ['Q1935489'],  # Giacomo Puccini -- Scapigliatura
+    "Q7349": ['Q702207'],  # Joseph Haydn -- First Viennese School
+    "Q76428": ['Q989478'],  # Carl Philipp Emanuel Bach -- empfindsamkeit
+    "Q78475": ['Q1362030', 'Q248243', 'Q507246'],  # Alban Berg -- Second Viennese School, expressionism, serialism
+    "Q8008040": ['Q5303621'],  # William Duckworth -- Downtown music
+    "Q975576": ['Q185858'],  # Loyset Compère -- Franco-Flemish School
+    "Q983103": ['Q131784556'],  # Grzegorz Fitelberg -- młoda polska
+}
+
 UPSERT_TAG_SQL = """
     INSERT INTO tags (name, wikidata_id) VALUES (%s, %s)
     ON CONFLICT (wikidata_id) DO UPDATE SET name = EXCLUDED.name
@@ -182,10 +298,28 @@ def load():
                         cur.execute(UPSERT_TAG_SQL, (name, qid))
                         tag_id = cur.fetchone()[0]
                         cur.execute(LINK_TAG_SQL, (int(composer_id), tag_id))
+
+                cur.execute("SELECT id, wikidata_id FROM composers WHERE wikidata_id IS NOT NULL")
+                composer_id_by_qid = {qid: cid for cid, qid in cur.fetchall()}
+                manual_added = 0
+                manual_skipped = 0
+                for composer_qid, tag_qids in MANUAL_COMPOSER_TAGS.items():
+                    composer_id = composer_id_by_qid.get(composer_qid)
+                    if composer_id is None:
+                        manual_skipped += 1
+                        continue
+                    for qid in tag_qids:
+                        name = NAME_OVERRIDES.get(qid, qid_labels.get(qid, qid))
+                        cur.execute(UPSERT_TAG_SQL, (name, qid))
+                        tag_id = cur.fetchone()[0]
+                        cur.execute(LINK_TAG_SQL, (composer_id, tag_id))
+                        manual_added += 1
     finally:
         conn.close()
     print(f"Processed {processed} composers with at least one tag"
-          + (f", skipped {stale} stale cache entries" if stale else "") + ".")
+          + (f", skipped {stale} stale cache entries" if stale else "") + "."
+          + f" Applied {manual_added} MANUAL_COMPOSER_TAGS overrides"
+          + (f" ({manual_skipped} composer(s) not found, skipped)" if manual_skipped else "") + ".")
 
 
 if __name__ == "__main__":
