@@ -1,0 +1,137 @@
+{
+  "_forrás": "Balázs István szkennelt könyvoldalak, Photos-1-001.zip, 5 fotó (324. o. vége - 328. o.)",
+  "_megjegyzés": "Nevek többnyire úgy, ahogy a könyvben szerepelnek (magyarul, ahol az szerepel). Néhány tétel a fotó minősége/elforgatása miatt bizonytalan -- lásd a végén. Egy jelölést változtattam: ahol két névváltozat van ott azt | jelöli, mert a zárójel túl sokféle értelemben szerepel. A zárójel általában a keresztnevet given name | first name) jelöli, Tinódinál viszont a név részévé vált jelzőt",
+
+  "A középkor zenéje (a 15. század végéig)": [
+    "Dufay", "Dunstable", "Isaac", "Josquin", "Landino", "Machaut",
+    "Obrecht", "Ockeghem", "Perotinus Magnus", "Tinctoris (Johann Verwere)", "Vitry"
+  ],
+
+  "Reneszánsz (16-17. század első fele)": [
+    "Agazzari", "Agricola (Martin)", "Altenburg", "Banchieri", "Byrd", "Caccini",
+    "Cavalli", "Cesti", "Dowland", "Forster", "Frescobaldi",
+    "Gabrieli (Andrea)", "Gabrieli (Giovanni)", "Gesualdo", "Hassler", "Lasso",
+    "Monteverdi", "Palestrina", "Peri", "Praetorius", "Sachs", "Tallis",
+    "Tinódi (Lantos) Sebestyén", "Willaert", "Zarlino"
+  ],
+
+  "Barokk (17. század második fele - 18. század)": {
+    "angol": ["Purcell"],
+    "cseh": ["Benda (František)", "Benda (Jiří Antonín)", "Zelenka"],
+    "francia": ["Charpentier (Marc-Antoine)", "Couperin", "Lully", "Marchand", "Rameau", "Rebel"],
+    "magyar": ["Esterházy"],
+    "német": [
+      "Agricola (Johann Friedrich)", "Altnikol", "Angiolini",
+      "Bach (Carl Philipp Emanuel)", "Bach (Johann Christian)", "Bach (Johann Sebastian)",
+      "Bach (Wilhelm Friedemann)", "Buxtehude", "Händel", "Hasse", "Kuhnau",
+      "Mattheson", "Monn", "Pachelbel", "Pepusch", "Quantz", "Richter", "Schütz", "Telemann"
+    ],
+    "olasz": [
+      "Albinoni", "Boccherini", "Carissimi", "Cimarosa", "Corelli", "Geminiani",
+      "Jommelli | Jomelli", "Locatelli", "Marcello", "Pergolesi", "Porpora",
+      "Sammartini (Giovanni Battista)", "Sammartini (Giuseppe)", "Scarlatti (Domenico)",
+      "Tartini", "Tessarini", "Torelli", "Veracini", "Vivaldi"
+    ]
+  },
+
+  "Klasszikus zene (18. század második fele - 19. század eleje)": {
+    "cseh": ["Reicha (Rejha)", "Stamic (Stamitz)", "Tomášek"],
+    "francia": ["Boieldieu", "Grétry"],
+    "olasz": ["Paisiello", "Piccini", "Salieri", "Traëtta"],
+    "osztrák-német": [
+      "Albrechtsberger", "Beethoven", "Dittersdorf", "Gluck",
+      "Haydn (Joseph)", "Haydn (Michael)", "Hummel", "Mozart (Wolfgang Amadeus)",
+      "Süßmayr", "Zelter"
+    ]
+  },
+
+  "19. század (Romantika)": {
+    "korai romantika": ["Berlioz", "Cornelius", "Mendelssohn", "Nicolai", "Schubert", "Spohr", "Weber"],
+    "biedermeier": ["Flotow", "Lortzing"],
+    "érett romantika": [
+      "Adam", "Chopin", "Delibes", "Fall", "Gounod", "Halévy", "Ibert",
+      "Hervé (Florimond Ronger)", "Lanner", "Liszt", "Massenet", "Meyerbeer", "Millöcker",
+      "Offenbach", "Paganini", "Schrammel", "Schumann", "Spontini",
+      "Strauss (Johann, id.)", "Strauss (Johann, ifj.)", "Suppé"
+    ],
+    "kései romantika": [
+      "Albert (Eugen d')", "Alnaes", "Brahms", "Bruch", "Bruckner", "Catalani",
+      "Charpentier", "Cilèa", "Čiurlionis", "Fauré", "Franck", "Glazunov",
+      "Goldmark", "Humperdinck", "Joachim", "Kienzl", "Lalo", "Ljadov", "Mahler",
+      "Nielsen", "Paderewski", "Reger", "Rubinstein", "Saint-Saëns", "Sibelius",
+      "Strauss (Richard)", "Szerov", "Szkrjabin", "Tanyejev"
+    ],
+    "impresszionizmus": ["Debussy"],
+    "nemzeti iskolák": [
+      "Albéniz", "Bihari", "Borogyin", "Cui (Kjui)", "Csajkovszkij", "Csermák",
+      "Dargomizsszkij", "Dvořák", "Erkel", "Glinka", "Grieg", "Lavotta",
+      "Mosonyi (Brand)", "Muszorgszkij", "Rimszkij-Korszakov", "Smetana", "Sibelius"
+    ]
+  },
+
+  "20-21. század": {
+    "amerikai": [
+      "Adams", "Antheil", "Babbitt", "Barber", "Berlin", "Bernstein", "Bloch",
+      "Cage", "Carter", "Copland", "Cowell", "Crumb", "Feldman", "Gershwin",
+      "Glass", "Hanson", "Harris", "Ives", "Loewe", "Menotti", "Piston",
+      "Reich", "Rzewski", "Sessions", "Still"
+    ],
+    "angol": ["Adès", "Bax", "Berkeley", "Birtwistle", "Cardew", "Davies", "Elgar", "Vaughan Williams", "Walton"],
+    "argentin": ["Ginastera", "Piazzolla"],
+    "belga": ["Pousseur"],
+    "bolgár": ["Goleminov", "Vladigerov"],
+    "brazil": ["Villa-Lobos"],
+    "cseh": ["Bartoš", "Fišer", "Hába", "Janáček", "Krása", "Martinů", "Novák", "Ullmann"],
+    "észt": ["Pärt", "Rääts", "Tormis", "Tüür"],
+    "finn": ["Lindberg", "Rautavaara", "Saariaho"],
+    "francia": [
+      "Boulez", "Boulanger (Lili)", "Boulanger (Nadia)", "Debussy", "Dusapin", "Dutilleux", "Ferrari",
+      "Ibert", "Honegger", "Jolivet", "Mâche", "Manoury", "Messiaen", "Milhaud",
+      "Murail", "Poulenc", "Risset", "Satie", "Schaeffer", "Varèse"
+    ],
+    "görög": ["Theodorakisz", "Xenakis"],
+    "grúz": ["Kancheli | Kancseli"],
+    "horvát": ["Kelemen"],
+    "izraeli": ["Brod (cseh)"],
+    "lengyel": [
+      "Bacewicz", "Baird", "Górecki", "Kilar", "Kotoński", "Krauze", "Lutosławski",
+      "Meyer", "Panufnik", "Penderecki", "Schäffer", "Serocki", "Sikorski", "Szymanowski"
+    ],
+    "litván": ["Bacevičius (amerikai)"],
+    "magyar": [
+      "Ábrahám", "Balassa", "Bartók", "Bozay", "Csapó", "Csemiczky", "Csíky", "Dávid",
+      "Decsényi", "Dohnányi", "Dubrovay", "Durkó", "Dukay", "Eötvös", "Farkas", "Fekete",
+      "Gyöngyösi", "Hidas", "Hollós", "Hubay", "Huszka", "Járdányi", "Jemnitz", "Jeney",
+      "Kacsóh", "Kadosa", "Kálmán", "Károlyi", "Kocsár", "Kodály", "Kókai", "Kósa",
+      "Kurtág", "Kurtág (ifj.)", "Lajtha", "Láng", "Lehár", "Ligeti", "Maros (Miklós)",
+      "Maros (Rudolf)", "Márta", "Mihály", "Orbán", "Petrovics", "Poldini", "Pongrátz",
+      "Ránki", "Sári", "Sáry", "Selmeczi", "Soós", "Soproni", "Sugár (Miklós)",
+      "Sugár (Rezső)", "Szabó", "Szervánszky", "Szokolay", "Szőllősy", "Szőnyi",
+      "Szunyogh", "Tallér", "Tihanyi", "Vajda", "Varga", "Veress", "Vermesy",
+      "Vidovszky", "Viski", "Weiner"
+    ],
+    "német": [
+      "Adorno (Wiesengrund)", "Dessau", "Egk", "Eisler", "Henze", "Hindemith",
+      "Kagel", "Koessler", "Lachenmann", "Orff", "Pfitzner", "Rihm", "Schnebel",
+      "Stockhausen", "Weill", "Widmann", "Zimmermann (Bernd Alois)", "Zimmermann (Udo)", "Zimmermann (Walter)"
+    ],
+    "olasz": [
+      "Alfano", "Berio", "Busoni", "Bussotti", "Casella", "Dallapiccola",
+      "Evangelisti", "Lombardi", "Maderna", "Malipiero", "Manzoni", "Nono",
+      "Petrassi", "Puccini", "Respighi", "Rota", "Wolf-Ferrari"
+    ],
+    "orosz": [
+      "Aszafjev", "Dunajevszkij", "Dzserzsinszkij", "Gnyeszin", "Gubajdulina",
+      "Gyenyiszov", "Gyeszjatnyikov", "Kabalevszkij", "Mjaszkovszkij", "Prokofjev",
+      "Rachmaninov", "Ribnyikov", "Schnittke", "Sosztakovics", "Sztravinszkij", "Tiscsenko", "Usztvolszkaja"
+    ],
+    "osztrák": ["Berg", "Cerha", "Einem (von)", "Hauer", "Křenek | Krenek", "Schönberg", "Webern", "Wellesz", "Zemlinsky"],
+    "örmény": ["Hacsaturján"],
+    "román": ["Bretan", "Enescu"],
+    "spanyol": ["(De) Falla"],
+    "svájci": ["Holliger", "Martin"],
+    "svéd": ["Nilsson"],
+    "szlovák": ["Cikker", "Suchoň"]
+  }
+
+}
