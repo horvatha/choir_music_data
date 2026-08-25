@@ -85,6 +85,71 @@ CONFIRMED_PICKS = {
     "Usztvolszkaja": "Q255300",        # Galina Ustvolskaya (1919-2006)
 }
 
+# Picks made interactively via review_ambiguous.py (name -> qid), merged
+# on top of CONFIRMED_PICKS below. Kept in a separate JSON file rather
+# than hand-edited into the dict above so the interactive script only
+# ever needs to write JSON, never touch this source file.
+CONFIRMED_PICKS_FILE = HERE / "confirmed_picks_interactive.json"
+if CONFIRMED_PICKS_FILE.exists():
+    CONFIRMED_PICKS.update(json.loads(CONFIRMED_PICKS_FILE.read_text(encoding="utf-8")))
+
+# Not human-confirmed -- this script's own best guess among an ambiguous
+# round1 candidate set, reasoned from each candidate's real name/dates
+# already fetched from the DB (birth/death year, era/nationality fit,
+# general notability), never invented from outside the candidate list.
+# review_ambiguous.py shows this as the Enter-to-accept default; nothing
+# here is applied automatically by resolve_name() the way CONFIRMED_PICKS
+# is -- a suggestion is not a confirmation.
+SUGGESTED_PICKS = {
+    "Adam": "Q189544", "Albéniz": "Q185812", "Chopin": "Q1268", "Dvořák": "Q7298",
+    "Erkel": "Q316820", "Franck": "Q50187", "Goldmark": "Q239214", "Joachim": "Q159976",
+    "Ljadov": "Q348282", "Mahler": "Q7304", "Mendelssohn": "Q46096", "Nicolai": "Q154602",
+    "Nielsen": "Q205139", "Offenbach": "Q41555", "Paganini": "Q66075", "Rubinstein": "Q87567",
+    "Schubert": "Q7312", "Schumann": "Q7351", "Strauss (Johann, id.)": "Q184178",
+    "Strauss (Johann, ifj.)": "Q83309", "Weber": "Q154812", "Adams": "Q84114",
+    "Bacevičius (amerikai)": "Q950243", "Berg": "Q78475", "Berkeley": "Q514975",
+    "Bernstein": "Q152505", "Bloch": "Q123234", "Carter": "Q318835", "Crumb": "Q356804",
+    "Davies": "Q139223", "Dunajevszkij": "Q638638", "Durkó": "Q227337", "Eötvös": "Q389851",
+    "Feldman": "Q316427", "Ferrari": "Q1279889", "Glass": "Q189729", "Górecki": "Q294568",
+    "Hanson": "Q382748", "Harris": "Q959136", "Kurtág": "Q48184", "Kurtág (ifj.)": "Q24951657",
+    "Kálmán": "Q153818", "Ligeti": "Q154331", "Lindberg": "Q503672", "Láng": "Q1160132",
+    "Malipiero": "Q318968", "Meyer": "Q652558", "Mihály": "Q516047", "Orbán": "Q721637",
+    "Panufnik": "Q442963", "Piazzolla": "Q172505", "Puccini": "Q7311", "Respighi": "Q243837",
+    "Schaeffer": "Q315744", "Schnittke": "Q158078", "Schönberg": "Q154770", "Still": "Q1397729",
+    "Stockhausen": "Q154556", "Szabó": "Q898138", "Sári": "Q773685", "Sáry": "Q897037",
+    "Theodorakisz": "Q151976", "Vajda": "Q1400969", "Vladigerov": "Q528781", "Walton": "Q310939",
+    "Weill": "Q55004", "Weiner": "Q535323", "Benda (František)": "Q161328",
+    "Esterházy": "Q655687", "Hasse": "Q164732", "Lully": "Q1192", "Pachelbel": "Q76485",
+    "Purcell": "Q9695", "Rebel": "Q954589", "Richter": "Q113911", "Vivaldi": "Q1340",
+    "Albrechtsberger": "Q314164", "Grétry": "Q210962", "Reicha (Rejha)": "Q311387",
+    "Traëtta": "Q266084", "Caccini": "Q215308", "Dowland": "Q207355", "Gesualdo": "Q192958",
+    "Praetorius": "Q108278",
+}
+
+# Latin alphabet with the accented vowels slotted into their real
+# Hungarian dictionary position (Á right after A, É after E, Í after I,
+# Ó/Ö/Ő after O, Ú/Ü/Ű after U) -- deliberately NOT full Hungarian
+# collation (no Cs/Gy/Ly/Ny/Sz/Ty/Zs digraph-as-one-letter handling),
+# which is more than this needs.
+_HUNGARIAN_ALPHABET = "aábcdeéfghiíjklmnoóöőpqrstuúüűvwxyz"
+_HUNGARIAN_RANK = {ch: i for i, ch in enumerate(_HUNGARIAN_ALPHABET)}
+
+
+def hungarian_sort_key(s):
+    """Case-insensitive sort key using _HUNGARIAN_ALPHABET's ordering. A
+    character outside that alphabet (a non-Hungarian diacritic, digit,
+    punctuation...) falls back to its accent-stripped form if that's a
+    known letter, otherwise sorts after every known letter, by codepoint
+    (stable, not correct for any particular language, but this repo's
+    names are otherwise Latin already)."""
+    key = []
+    for ch in s.lower():
+        rank = _HUNGARIAN_RANK.get(ch)
+        if rank is None:
+            rank = _HUNGARIAN_RANK.get(strip_accents(ch))
+        key.append((0, rank) if rank is not None else (1, ord(ch)))
+    return key
+
 
 def strip_accents(s):
     return "".join(c for c in unicodedata.normalize("NFKD", s) if not unicodedata.combining(c))
@@ -135,7 +200,7 @@ def word_match(haystack, needle):
 
 def load_all(conn):
     with conn.cursor(cursor_factory=psycopg2.extras.RealDictCursor) as cur:
-        cur.execute("SELECT id, name, wikidata_id, birth_year FROM composers")
+        cur.execute("SELECT id, name, wikidata_id, birth_year, death_year FROM composers")
         composers = cur.fetchall()
         cur.execute("SELECT composer_id, language, name FROM composer_alt_names")
         alt_rows = cur.fetchall()
