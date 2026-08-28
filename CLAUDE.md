@@ -162,4 +162,4 @@ Running the whole pipeline from scratch: apply `schema.sql`, then `python3 load_
 
 ## Tests
 
-`test.py` and `test_investigate_wikipedia_pages.py` use pytest, but pytest is **not currently installed** in `.venv` — install it first (`pip install pytest`) before trying to run them.
+`test.py` uses pytest, but pytest is **not currently installed** in `.venv` — install it first (`pip install pytest`) before trying to run it.

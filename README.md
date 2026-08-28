@@ -225,7 +225,7 @@ lists.
 
 - Creating list of composers, removing duplicates
 - Fetching the missing articles from Wikipedia
-  (see save_articles_from_xml.py and investigate_wikipedia_pages.py)
+  (see save_articles_from_xml.py)
   and handling redirects, false articles
 - Creating unified table and removing duplicates
 - Sanity checking
