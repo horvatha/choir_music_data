@@ -1,4 +1,4 @@
-from load_birth_death_places import build_qid_windows
+from load_birth_death_places import _window_active, build_qid_windows
 
 
 def _p1448(*entries):
@@ -67,3 +67,30 @@ def test_no_p1448_claims_returns_none_name_windows():
     country_windows, name_windows = build_qid_windows("Q4", claims, {"Q4": "Somewhere"})
     assert name_windows is None
     assert country_windows == [(None, None, "Q40")]
+
+
+# --- _window_active ---------------------------------------------------
+
+def test_narrowest_window_wins_over_an_earlier_open_ended_one():
+    # Regression case found 2026-08-28: Pécs/Debrecen/Szeged/Eger/etc. all
+    # collapsed their entire 1867-1989 regime chain into one
+    # "Austria-Hungary" period. Wikidata's claim order is insertion order,
+    # not chronological -- Austria-Hungary (start=1867, genuinely no P582
+    # on Wikidata) was listed before the later, more specific claims
+    # (Kingdom of Hungary 1920-1946, etc.), so the old "return the first
+    # match" behavior let it silently win for every point up to 1989,
+    # even though a narrower, more specific claim also covered that point.
+    windows = [
+        (1867, None, "Q28513"),          # Austria-Hungary -- open-ended, listed first
+        (1920, 1946, "Q600018"),         # Kingdom of Hungary -- narrower, listed second
+        (1946, 1949, "Q940741"),         # Second Hungarian Republic
+    ]
+    assert _window_active(windows, 1930) == "Q600018"
+    assert _window_active(windows, 1947) == "Q940741"
+    # Still correctly falls through to the open-ended claim wherever no
+    # narrower window covers the point.
+    assert _window_active(windows, 1900) == "Q28513"
+
+
+def test_window_active_returns_none_when_nothing_matches():
+    assert _window_active([(1920, 1946, "Q600018")], 1800) is None

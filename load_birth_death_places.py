@@ -253,12 +253,27 @@ def _clip_after(windows, floor):
 
 
 def _window_active(windows, point):
+    """Among every window containing `point`, picks the narrowest one --
+    not just the first in list order. Wikidata's claim order is insertion
+    order, not chronological order, so an open-ended claim (no P582 --
+    e.g. an "Austria-Hungary" claim someone only ever gave a start date)
+    can sit earlier in the list than several later, more specific dated
+    claims that fall inside its own now-unbounded span. Picking "first
+    match" there silently swallows every later claim for its entire
+    open-ended range (found 2026-08-28: Pécs/Debrecen/Szeged/etc.'s whole
+    1867-1989 regime chain collapsed into one "Austria-Hungary" period,
+    since its claim had a start but Wikidata genuinely has no P582 on it,
+    and it happened to be listed before the newer claims that do have
+    both bounds). Narrowest-window-wins matches this repo's own
+    "specific beats generic" convention elsewhere."""
+    best = None
+    best_span = None
     for start, end, value in windows:
         lo = float("-inf") if start is None else start
         hi = float("inf") if end is None else end
-        if lo <= point < hi:
-            return value
-    return None
+        if lo <= point < hi and (best_span is None or hi - lo < best_span):
+            best, best_span = value, hi - lo
+    return best
 
 
 def merge_windows_to_periods(country_windows, name_windows):
