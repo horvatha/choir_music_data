@@ -29,23 +29,35 @@ Renaissance:
 Baroque:
     type: list
 Classical-era:
+    csv: Classical
     type: table
     birth_col: Date born
     died_col: Date died
 Romantic-era:
+    csv: Romantic
     type: table
     birth_col: Date born
     died_col: Date died
 20th-century classical:
+    csv: 20th_century
     type: table
     birth_col: Year of birth
     died_col: Year of death
 21st-century classical:
+    csv: 21st_century
     type: table
     birth_col: Date born
     died_col: Date died
 """
 era_config = yaml.safe_load(era_config)
+
+
+def get_csv_file_names(era_config=era_config):
+    file_names = []
+    for k in era_config:
+        base = era_config[k].get('csv', k)
+        file_names.append((base, f"composers_{base}.csv"))
+    return file_names
 
 
 """
@@ -302,6 +314,7 @@ def fetch_from_wiki_romantic(era_name: str = 'Romantic-era') -> pd.DataFrame:
 
         df = transform_data(data, era_name)
         df.to_csv(f'composers_{era_name}_.csv', index=False)
+        return df
 
 
 def transform_data(data, era_name):
