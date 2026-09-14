@@ -100,7 +100,7 @@ FETCH_COMPOSERS_BY_ERA_ONLY_SQL = """
 """
 
 
-def _fetch_one(cur, composer_id, name, wikidata_id, entries, languages):
+def _fetch_one(cur, composer_id, name, wikidata_id, entries, languages, progress=""):
     """Fetch one composer's full Wikidata record into `entries`. Returns
     True if an entity was actually fetched (vs. a no-wikilinks/no-QID/
     not-found short-circuit), so callers only sleep after a real request.
@@ -122,11 +122,13 @@ def _fetch_one(cur, composer_id, name, wikidata_id, entries, languages):
         wikilinks = cur.fetchall()
         if not wikilinks:
             entries[key] = {"name": name, "qid": None, "applied_to_db": True}
+            print(f"{progress}{composer_id} {name}: no wikidata_id and no wikilinks to resolve one from, skipping")
             return False
 
         qid = get_qid(wikilinks)
         if not qid:
             entries[key] = {"name": name, "qid": None, "applied_to_db": True}
+            print(f"{progress}{composer_id} {name}: no QID resolved from wikilinks, skipping")
             return False
 
     entity = get_entity(qid, languages)
@@ -135,7 +137,7 @@ def _fetch_one(cur, composer_id, name, wikidata_id, entries, languages):
         # Wikidata redirect (merged item) or a deleted item. Recorded so
         # a rerun doesn't keep retrying it forever.
         entries[key] = {"name": name, "qid": qid, "applied_to_db": True}
-        print(f"  {composer_id} {name}: qid={qid} but entity not found (redirect/deleted?)")
+        print(f"{progress}{composer_id} {name}: qid={qid} but entity not found (redirect/deleted?)")
         return False
 
     labels = {lang: v["value"] for lang, v in entity.get("labels", {}).items()}
@@ -150,7 +152,7 @@ def _fetch_one(cur, composer_id, name, wikidata_id, entries, languages):
         "sitelinks": sitelinks, "dates": dates, "applied_to_db": True,
         **image,
     }
-    print(f"  {composer_id} {name}: qid={qid} labels={list(labels)} "
+    print(f"{progress}{composer_id} {name}: qid={qid} labels={list(labels)} "
           f"relationships={list(relationships)} attributes={list(attributes)} "
           f"sitelinks={list(sitelinks)}")
     return True
@@ -199,11 +201,13 @@ def _fetch_by_selector(cur, composers, entries, label_cache, sleep):
 def _fetch_by_ids(cur, composer_ids, entries):
     """--ids always re-fetches every id given, regardless of whether it's
     already cached -- matches the original script's behavior."""
-    for composer_id in composer_ids:
+    total = len(composer_ids)
+    for i, composer_id in enumerate(composer_ids, 1):
+        progress = f"[{i}/{total}] "
         cur.execute(FETCH_NAME_SQL, (composer_id,))
         row = cur.fetchone()
         if row is None:
-            print(f"  {composer_id}: no such composer, skipping")
+            print(f"{progress}{composer_id}: no such composer, skipping")
             continue
         name, wikidata_id = row
 
@@ -211,7 +215,7 @@ def _fetch_by_ids(cur, composer_ids, entries):
         composer_nationalities = [r[0] for r in cur.fetchall()]
         languages = label_languages_for(composer_nationalities)
 
-        fetched = _fetch_one(cur, composer_id, name, wikidata_id, entries, languages)
+        fetched = _fetch_one(cur, composer_id, name, wikidata_id, entries, languages, progress=progress)
         if fetched:
             time.sleep(0.3)
             yield
