@@ -1,0 +1,34 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/winroth-gustaf-edvard/",
+  "title": "Gustaf Edvard Winroth (1821-1856)",
+  "name": "Gustaf Edvard Winroth",
+  "years": "1821-1856",
+  "description": "Gustaf Edvard Winroth föddes i Stockholms Storkyrkoförsamling den 26 februari 1821. Avled i S:t Laurentii församling (Söderköping) den 17 juli 1856 (var dock skriven i Piteå stadsförsamling). Tjänstgjorde som musikledare i Karlskrona, var därefter verksam i Piteå innan han flyttade till Söderköping.",
+  "birth": {
+    "place": "Stockholms Storkyrkoförsamling",
+    "date": "26 februari 1821",
+    "raw": "föddes i Stockholms Storkyrkoförsamling den 26 februari 1821"
+  },
+  "death": {
+    "place": "S:t Laurentii församling (Söderköping)",
+    "date": "17 juli 1856",
+    "raw": "Avled i S:t Laurentii församling (Söderköping) den 17 juli 1856"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "Karlsson, Leif : Gustaf Winroth - en musikpedagog och tonsättare i Karlskrona . Karlskrona (2011)",
+  "sources": null,
+  "links": [],
+  "works_summary": "Symphonie Skärgårdsflickan, På hafvet, Sparfven, Windkyssen, Sotaregossen, Längtan (solosånger) Gammal folkmelodi från Roslagen i Upland [sic] (för piano)",
+  "works": [
+    {
+      "category": "Voice and piano",
+      "title": "Skärgårdsflickan",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/winroth-gustaf-edvard/SMH-W1538-Skargardsflickan",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "winroth-gustaf-edvard"
+}

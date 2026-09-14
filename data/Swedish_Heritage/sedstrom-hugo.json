@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/sedstrom-hugo/",
+  "title": "Hugo Sedström (1862-1940)",
+  "name": "Hugo Sedström",
+  "years": "1862-1940",
+  "description": "Hugo Axel Wilhelm Sedström, föddes i Uppsala domkyrkoförsamling den 9 oktober 1862. Avled den 31 augusti 1940 i Gustav Vasa församling, Stockholm. Tonsättare.",
+  "birth": {
+    "place": "Uppsala domkyrkoförsamling",
+    "date": "9 oktober 1862",
+    "raw": "föddes i Uppsala domkyrkoförsamling den 9 oktober 1862"
+  },
+  "death": {
+    "place": "Gustav Vasa församling",
+    "date": "31 augusti 1940",
+    "raw": "Avled den 31 augusti 1940 i Gustav Vasa församling"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": null,
+  "sources": null,
+  "links": [],
+  "works_summary": "Verk för orkester: bl a Orkestersvit nr 3 (1932), Orkestersvit nr 4 (1930-34). Kamarmusik: bl a Romance för violin och piano op 23. Körverk.",
+  "works": [],
+  "slug": "sedstrom-hugo"
+}

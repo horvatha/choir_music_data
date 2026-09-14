@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/sandberg-norrlander-alva/",
+  "title": "Alva Sandberg-Norrlander (1899-1961)",
+  "name": "Alva Sandberg-Norrlander",
+  "years": "1899-1961",
+  "description": "Född 25 september 1899 Misterhult (Kalmar län), död 1 mars 1961 i Stockholm. Musiklärare och tonsättare. Gift med komminister Åke Hilding Norrlander. Musiklärare vid Stockholms högre allmänna läroverk för flickor å Norrmalm (Sveaplan). Organist i Swedenborgs minneskyrka.",
+  "birth": {
+    "place": null,
+    "date": "25 september 1899",
+    "raw": "Född 25 september 1899"
+  },
+  "death": {
+    "place": "Stockholm",
+    "date": "1 mars 1961",
+    "raw": "död 1 mars 1961 i Stockholm"
+  },
+  "biography": "x",
+  "publications": "Elementarbok i musik för högre allmänna läroverk, seminarier och därmed jämställda läroanstalter . 2. uppl. (1941)",
+  "bibliography": null,
+  "sources": null,
+  "links": [],
+  "works_summary": "Sånger, verk för kör (särskilt för skolbruk)",
+  "works": [],
+  "slug": "sandberg-norrlander-alva"
+}

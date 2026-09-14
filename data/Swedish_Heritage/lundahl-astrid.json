@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/lundahl-astrid/",
+  "title": "Astrid Lundahl (1898-1982)",
+  "name": "Astrid Lundahl",
+  "years": "1898-1982",
+  "description": "Astrid Elisabet Teresia Nyman född i Höganäs den 29 maj 1898. Avled i Lidingö den 10 januari 1982.",
+  "birth": {
+    "place": "Höganäs",
+    "date": "29 maj 1898",
+    "raw": "född i Höganäs den 29 maj 1898"
+  },
+  "death": {
+    "place": "Lidingö",
+    "date": "10 januari 1982",
+    "raw": "Avled i Lidingö den 10 januari 1982"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": null,
+  "sources": "Musik- och teaterbiblioteket",
+  "links": [],
+  "works_summary": "Sånger",
+  "works": [],
+  "slug": "lundahl-astrid"
+}

@@ -1,0 +1,34 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/kempe-harald/",
+  "title": "Harald Kempe (1900-1974)",
+  "name": "Harald Kempe",
+  "years": "1900-1974",
+  "description": "David Harald Kempe, föddes i Adolf Fredriks församling, Stockholm 17 januari 1900, avled i Slottsstadens församling, Malmö 8 april 1974. Ingenjör och tonsättare, verksam i Malmö. Studerade bl a för John Fernström.",
+  "birth": {
+    "place": "Adolf Fredriks församling, Stockholm",
+    "date": "17 januari 1900",
+    "raw": "föddes i Adolf Fredriks församling, Stockholm 17 januari 1900"
+  },
+  "death": {
+    "place": "Slottsstadens församling, Malmö",
+    "date": "8 april 1974",
+    "raw": "avled i Slottsstadens församling, Malmö 8 april 1974"
+  },
+  "biography": "Ur Vem är vem? Skåne, Halland, Blekinge 1966: KEMPE, D HARALD , ingenjör, Malmö, f i Sthlm 17/1/00 av yrkesinsp David K o Signe Törnqvist. Ing :ex Malmö tekn elem:sk 17, ing o ch bibl :avd Patentbyrån A W Anderson sed 38. - Medl Skånska ing:klubben. -Komp: Obrexis, konsertuvertyr, uruppf Stift Malmö konserthus (51), Trio senza pretese, f klarinett, viola o violoncell, uruppf Sv:es radio (57), Tre rapsodiska stycken för klarinett, uruppf Sv:es radio (60). - Hobbies: komposition, fotografering.",
+  "publications": null,
+  "bibliography": "artikel i Vem är vem? Skåne, Halland, Blekinge (1966)",
+  "sources": null,
+  "links": [],
+  "works_summary": "Orkesterverk (bl a Concerto i två satser, konsertuvertyren Obrexis, Partita piccola, Preludio innominato, Sinfonietta da chiesa, Tre stycken, Två miniatyrer), Kammarmusik (bl a Sonatin för viola och piano, Tre små kapriser för violoncell och piano, Divertimento för stråktrio, Eskapader för violin och viola), Malmgårdsmusik för flöjt och stråkorkester, Serenad för oboe och stråkorkester, Serenad för violoncell och orkester, Tre Danser för flöjt och stråkorkester",
+  "works": [
+    {
+      "category": "Viola and piano",
+      "title": "Sonatin för viola och piano [Sonatina for viola and piano]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/kempe-harald/SMH-W1559-Sonatin_for_viola_och_piano_Sonatina_for_viola_and_piano",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "kempe-harald"
+}

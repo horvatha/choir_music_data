@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/quanten-carl-von/",
+  "title": "Carl von Quanten (Qvanten) (1734-1789)",
+  "name": "Carl von Quanten (Qvanten)",
+  "years": "1734-1789",
+  "description": "Carl Jacob von Quanten (Qvanten) föddes enligt den julianska kalendern den 30 juni 1734 i Sahalahti (sv Sahalax) i landskapet Birkaland, Finland. Avled i Bolstads församling (Mellerud) den 25 december 1789. Militär och amatörmusiker (violin och flöjt). En av Kungl. Musikaliska akademiens stiftare 1771, föreståndare för \"Instrumentaldivisionen\". Gift med Charlotta Magdalena von Scheiding (1758-1835).",
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": "Bolstads församling (Mellerud)",
+    "date": "25 december 1789",
+    "raw": "Avled i Bolstads församling (Mellerud) den 25 december 1789"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": null,
+  "sources": "Krigsarkivet, Musik- och teaterbiblioteket",
+  "links": [],
+  "works_summary": "Under uppbyggnad",
+  "works": [],
+  "slug": "quanten-carl-von"
+}

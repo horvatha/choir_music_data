@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/johansson-martin/",
+  "title": "Martin Johanson (1892-1956)",
+  "name": "Martin Johanson",
+  "years": "1892-1956",
+  "description": "Martin Samuel Johans(s)on föddes den 11 maj 1892 i Adolf Fredriks församling, Stockholm. Avled i Gustav Vasa församling (Stockholm) den 19 februari 1956. Organist och tonsättare. Organist i Sankta Clara kyrka i Stockholm. Denne tonsättares verk skyddas fortfarande av upphovsrätten och ingår därför inte i Levande Musikarvs utgivning. För mer information om liv och verk hänvisar vi till Svensk Musiks hemsida.",
+  "birth": {
+    "place": null,
+    "date": "11 maj 1892",
+    "raw": "föddes den 11 maj 1892"
+  },
+  "death": {
+    "place": "Gustav Vasa församling (Stockholm)",
+    "date": "19 februari 1956",
+    "raw": "Avled i Gustav Vasa församling (Stockholm) den 19 februari 1956"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": null,
+  "sources": null,
+  "links": [],
+  "works_summary": "Orgelverk, mm",
+  "works": [],
+  "slug": "johansson-martin"
+}

@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/norman-carl-adam/",
+  "title": "Carl Adam Norman (1773-1812)",
+  "name": "Carl Adam Norman",
+  "years": "1773-1812",
+  "description": "Troligen född 1773. Avled den 24 mars 1812 i Hovförsamlingen, Stockholm. Violinist i Kungl. Hovkapellet 1793-1812, andre konsertmästare 1811-1812. Anställd vid hovstaten 1796-1812, andre försteviolinist 1796-1807, förste försteviolinist 1807-1812 och valthornist 1807-1811.",
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": "Hovförsamlingen",
+    "date": "24 mars 1812",
+    "raw": "Avled den 24 mars 1812 i Hovförsamlingen"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "Karle, Gunhild : Kungl. Hovkapellet och dess musiker 1772-1818 . Uppsala (2000) Nisser, Carl : Svensk Instrumentalkomposition 1770-1830, Nominalkatalog. Stockholm (1943) Strand, Sigfrid : Operainstitutionen under Gustaf III. Organisation och arbetsfördelning. Uppsats i musikforskning, Stockholms universitet. (1966) S. 47",
+  "sources": null,
+  "links": [],
+  "works_summary": "Orkesterverk, försv.",
+  "works": [],
+  "slug": "norman-carl-adam"
+}

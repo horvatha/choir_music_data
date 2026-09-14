@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/borjesson-fredrika/",
+  "title": "Fredrika Börjesson (1797-1854)",
+  "name": "Fredrika Börjesson",
+  "years": "1797-1854",
+  "description": "Fredrika (Fredrica) Gustava Börjesson (f Fock) föddes i Kaland (finska Kalanti), Nystad, Finland, den 17 december 1797. Avled i Veckholms församling (Enköping) den 7 juni 1854.",
+  "birth": {
+    "place": "Kaland (finska Kalanti), Nystad, Finland,",
+    "date": "17 december 1797",
+    "raw": "föddes i Kaland (finska Kalanti), Nystad, Finland, den 17 december 1797"
+  },
+  "death": {
+    "place": "Veckholms församling (Enköping)",
+    "date": "7 juni 1854",
+    "raw": "Avled i Veckholms församling (Enköping) den 7 juni 1854"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": null,
+  "sources": "Kungl. Biblioteket, Musik- och teaterbiblioteket, etc",
+  "links": [],
+  "works_summary": "Pianoverk, verk för röst och piano, etc",
+  "works": [],
+  "slug": "borjesson-fredrika"
+}

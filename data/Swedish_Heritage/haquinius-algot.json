@@ -1,0 +1,282 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/haquinius-algot/",
+  "title": "Algot Haquinius (1886-1966)",
+  "name": "Algot Haquinius",
+  "years": "1886-1966",
+  "description": "Johan Algot Haquinius, född i Sveg 30 juli 1886, död i Stockholm 6 februari 1966. Tonsättare, pianist, pianopedagog. LMA",
+  "birth": {
+    "place": "Sveg",
+    "date": "30 juli 1886",
+    "raw": "född i Sveg 30 juli 1886"
+  },
+  "death": {
+    "place": "Stockholm",
+    "date": "6 februari 1966",
+    "raw": "död i Stockholm 6 februari 1966"
+  },
+  "biography": "Algot Haquinius studerade vid konservatoriet i Stockholm åren 1898-1904 och därefter för Moritz Moszkowski (1854-1925) och Ignaz Friedman (1882-1948). Han betraktades som en av sin tids främsta svenska pianister och var en uppskattad lärare. Hans musik har en nordisk ton med impressionistiska inslag. I hans produktion märks stråkkvartetterna, många romanser, en pianokonsert och baletten Offerlunden. Han valdes in i Kungl. Musikaliska akademien 28 april 1941, som ledamot nr 629.",
+  "publications": null,
+  "bibliography": "Gabrielsson, Cecilia: \"Offerlunden\", \"Blotoffret\" eller \"Åsa\"?: studier kring Algot Haquinius' balettmusik . C-uppsats. Uppsala: Uppsala universitet, Institutionen för musikvetenskap (1983) Helmer, Axel : Algot Haquinius , i Svenskt biografiskt lexikon , bd 18 (1969-71) Seymer, W : Gestalter i Stockholms musikliv i nutid, i Idun 16/3 1919 Sjögren, Berit : Algot Haquinius (1886-1918). Svensk pianist, tonsättare och pedagog . Kandidatuppsats i musikvetenskap, Stockholms universitet (1990)",
+  "sources": "Musik- och teaterbiblioteket",
+  "links": [],
+  "works_summary": "verk för orkester (bl a \"Dikt\", \"Fordomtima\", \"Karolinsk svit\", \"Svensk svit\", \"Pastorale\", \"Mälarouvertyr\", \"Två melodier för stråkorkester\", mm), Pianokonsert h-moll, Romans för violin och orkester, 3 stråkkvartetter, Violinsonat (1934), verk för piano (bl a \"Preludier\", \"Svenska danser\"), ca 150 sånger med piano, baletten \"Offerlunden\" (1923)",
+  "works": [
+    {
+      "category": "Male choir a cappella",
+      "title": "Serenade",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/haquinius-algot/SMH-W478-Serenade",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Att älska blev att glömma dig",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/haquinius-algot/SMH-W477-Att_alska_blev_att_glomma_dig",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Barcarole, from 'Dryaden'",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/haquinius-algot/SMH-W492-Barcarole_from_Dryaden",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Det underliga",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/haquinius-algot/SMH-W1276-Det_underliga",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Dödspolka",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/haquinius-algot/SMH-W481-Dodspolka",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Elden och altaret",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/haquinius-algot/SMH-W467-Elden_och_altaret",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "En natt i värdshuset",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/haquinius-algot/SMH-W1273-En_natt_i_vardshuset",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "En vårvisa",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/haquinius-algot/SMH-W491-En_varvisa",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Gamla vägar",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/haquinius-algot/SMH-W1277-Gamla_vagar",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Gammal ramsa",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/haquinius-algot/SMH-W487-Gammal_ramsa",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Höstpsalm",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/haquinius-algot/SMH-W483-Hostpsalm",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Kinesiska sånger [Chinese songs]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/haquinius-algot/SMH-W466-Kinesiska_sanger_Chinese_songs",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Kung Eriks visor",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/haquinius-algot/SMH-W1275-Kung_Eriks_visor",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Lillebarn",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/haquinius-algot/SMH-W485-Lillebarn",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Maj",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/haquinius-algot/SMH-W482-Maj",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Mönsterbo",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/haquinius-algot/SMH-W489-Monsterbo",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Möte i skymningen",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/haquinius-algot/SMH-W480-Mote_i_skymningen",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "När du sluter mina ögon",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/haquinius-algot/SMH-W488-Nar_du_sluter_mina_ogon",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Regnvisan",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/haquinius-algot/SMH-W479-Regnvisan",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Sommarljuset",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/haquinius-algot/SMH-W490-Sommarljuset",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Stormar",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/haquinius-algot/SMH-W486-Stormar",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Vad skall man sjunga?",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/haquinius-algot/SMH-W484-Vad_skall_man_sjunga",
+      "has_published_edition": false
+    },
+    {
+      "category": "Violin and piano",
+      "title": "Suite for violin and piano",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/haquinius-algot/SMH-W956-Suite_for_violin_and_piano",
+      "has_published_edition": false
+    },
+    {
+      "category": "Violin and piano",
+      "title": "Swedish dance for violin and piano",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/haquinius-algot/SMH-W957-Swedish_dance_for_violin_and_piano",
+      "has_published_edition": false
+    },
+    {
+      "category": "Cello and piano",
+      "title": "Vaggsång",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/haquinius-algot/SMH-W3016-Vaggsang",
+      "has_published_edition": false
+    },
+    {
+      "category": "Piano",
+      "title": "Prelude for piano",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/haquinius-algot/SMH-W468-Prelude_for_piano",
+      "has_published_edition": false
+    },
+    {
+      "category": "Piano",
+      "title": "Préludes",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/haquinius-algot/SMH-W1117-Preludes",
+      "has_published_edition": false
+    },
+    {
+      "category": "Piano",
+      "title": "Small pieces for piano",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/haquinius-algot/SMH-W493-Small_pieces_for_piano",
+      "has_published_edition": false
+    },
+    {
+      "category": "Piano",
+      "title": "Waltz for clavier",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/haquinius-algot/SMH-W469-Waltz_for_clavier",
+      "has_published_edition": false
+    },
+    {
+      "category": "String quartet",
+      "title": "String quartet (no. 2 in A major)",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/haquinius-algot/SMH-W346-String_quartet_no_2_in_A_major",
+      "has_published_edition": false
+    },
+    {
+      "category": "String quartet",
+      "title": "String quartet no. 3 (E minor)",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/haquinius-algot/SMH-W369-String_quartet_no_3_E_minor",
+      "has_published_edition": false
+    },
+    {
+      "category": "String quartet",
+      "title": "Stråkkvartett (nr 1, a-moll) [String quartet (no. 1 in A minor)]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/haquinius-algot/SMH-W50-Strakkvartett_nr_1_a-moll_String_quartet_no_1_in_A_minor",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "haquinius-algot"
+}

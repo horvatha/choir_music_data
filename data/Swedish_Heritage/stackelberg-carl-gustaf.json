@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/stackelberg-carl-gustaf/",
+  "title": "Carl Gustaf (Karl Gustav) Stackelberg (1780-1806)",
+  "name": "Carl Gustaf (Karl Gustav) Stackelberg",
+  "years": "1780-1806",
+  "description": "Troligen född 23 augusti 1780. Avliden i Sankt Petersburg, Ryssland, 17 december 1806. Nämnd i Carl Nissers Svensk Instrumentalkomposition 1770-1830, Nominalkatalog, Stockholm 1943.",
+  "birth": {
+    "place": null,
+    "date": "23 augusti 1780",
+    "raw": "född 23 augusti 1780"
+  },
+  "death": {
+    "place": "Sankt Petersburg, Ryssland,",
+    "date": "17 december 1806",
+    "raw": "Avliden i Sankt Petersburg, Ryssland, 17 december 1806"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "Nisser, Carl: Svensk Instrumentalkomposition 1770-1830, Nominalkatalog (Stockholm, 1943)",
+  "sources": null,
+  "links": [],
+  "works_summary": "Pianoverk XII Variations pour le Piano Forte D-dur/g-moll dediées [sic] à Monsieur F.A. de Stackelberg par son fils C.G. Stackelberg Ecossaise för pianoforte",
+  "works": [],
+  "slug": "stackelberg-carl-gustaf"
+}

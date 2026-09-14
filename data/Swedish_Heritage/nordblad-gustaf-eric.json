@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/nordblad-gustaf-eric/",
+  "title": "Gustaf Eric Nordblad (1796-1861)",
+  "name": "Gustaf Eric Nordblad",
+  "years": "1796-1861",
+  "description": "Född 9 augusti 1796 i Hedvig Eleonora församling, Stockholm. Avliden 17 november 1861 i Maria Magdalena församling (Stockholm). Enligt dödboken var han f d revisor i Kungl. Kammarrätten. Nämnd i Carl Nissers Svensk Instrumentalkomposition 1770-1830, Nominalkatalog, Stockholm 1943.",
+  "birth": {
+    "place": "Hedvig Eleonora församling",
+    "date": "9 augusti 1796",
+    "raw": "Född 9 augusti 1796 i Hedvig Eleonora församling"
+  },
+  "death": {
+    "place": "Maria Magdalena församling (Stockholm)",
+    "date": "17 november 1861",
+    "raw": "Avliden 17 november 1861 i Maria Magdalena församling (Stockholm)"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "Nisser, Carl: Svensk Instrumentalkomposition 1770-1830, Nominalkatalog (Stockholm, 1943)",
+  "sources": null,
+  "links": [],
+  "works_summary": "Pianoverk Marche (för pianoforte) fiss-moll [tryckt i Musikaliskt Tidsfördif nr 4 1821]",
+  "works": [],
+  "slug": "nordblad-gustaf-eric"
+}

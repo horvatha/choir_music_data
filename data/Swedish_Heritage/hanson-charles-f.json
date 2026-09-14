@@ -1,0 +1,34 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/hanson-charles-f/",
+  "title": "Charles F. Hanson (1849-1921)",
+  "name": "Charles F. Hanson",
+  "years": "1849-1921",
+  "description": "Carl [Charles] Fredrik Hanson, född i Uddevalla 9 september 1849, död i Worcester (USA) 10 februari 1921. Svensk-amerikansk tonsättare. Han begav sig 1865 till Amerika, där han fick anställning i en pianofirma. Han grundade 1866 en manskör i Boston och öppnade 1867 en musikhandel i Worcester. Han bildade även en dubbelkvartett och var överledare för den stora sångarfesten 1899. Hanson har huvudsakligen skrivit operor och operetter.",
+  "birth": {
+    "place": "Uddevalla",
+    "date": "9 september 1849",
+    "raw": "född i Uddevalla 9 september 1849"
+  },
+  "death": {
+    "place": "Worcester (USA)",
+    "date": "10 februari 1921",
+    "raw": "död i Worcester (USA) 10 februari 1921"
+  },
+  "biography": "Följande finns att läsa i History of Worcester and its People (band 4) av Charles Nutt (Lewis Historical Publishing Company, New York City 1919): CHARLES FREDERICK HANSON, Music dealer, music teacher and conductor, the first Swede to settle in this city, was born in Uddevalla, Sweden, September 9, 1849, son of John and Christina A. Hanson. He attended school there and remained a student in the high school until he was sixteen years old, when he came to this country. He was employed during the next three years in a piano factory in Boston. He came to Worcester, September 28, 1868, and it is conceded that he was the first Swedish citizen of this city. He was employed at his trade in piano repairing and tuning for S. R. Leland &amp; Son, but engaged in business on his own account about eighteen months later after coming to Worcester and he has continued to the present time, dealing in pianos and other musical instruments, music and musical merchandise of all kinds. For many years his store was at No. 242 Main Street; since 1914 he has occupied several floors of the building at No. 260 Main street. After the Thule building was erected, he was located in a large store there, but to allow the better renting of the property to the Stearns Furniture Company, removed to his present location. In many ways Mr. Hanson is one of the best known Swedes of the city. From the time he came to the present he has been active in musical organizations, the founder of several very successful societies, leader of many, conductor of many orchestras and instructor on various musical instruments, being musical director of several churches in Worcester for many years. Not only among the Swedish musical people, but in all musical organizations of the city, he has been prominent. Mention is made of his activity in the account of the various Swedish societies in another chapter. He has taken part in every movement for the welfare of his fellow-citizens, whether charitable, reform or political, and has served on a great number of public committees from time to time. As a merchant his standing is high. In politics he has always been a Republican, and though often requested to accept nominations he has always declined public office. He was the originator of our evening schools, which started in 1879. His recreation, as well as his business, is music; his musical gift was inherited, and all the Hanson family are musicians. He is especially skillful with the violin-cello and piano. He is a member of Atherston Lodge, Ancient Free and Accepted Masons; Thule Lodge, Independent Order of Odd Fellows; and the First Universalist church. Mr. Hanson owns considerable real estate, including his residence at No. 37 Kendall Street. Mr. Hanson married, in Boston, November 28, 1867, Eliza Ann Hazall, who was a native of Boston, daughter of Charles and Ann (Palmer) Hazall. Four children were born to them, namely; Lillian Ann, a famous singer, wife of Herbert J. Russell, of this city; Charles Arthur, piano maker; Frederick T., died aged twenty-six years; Flora M., died at the age of thirteen years. Mr. Hanson's father, John Hanson, was born in Sweden, and died there at the age of forty-four years. He was a professional musician. He married Christina A. Hanson, who died in Belmont, Massachusetts, aged 81 years. They had six children, of whom two are living: Charles F., mentioned above, and Mathilda, who married James Sargent, of Belmont.",
+  "publications": "Lays of Sweden and Norway (sångsamling) Oldtime Songs (sångsamling)",
+  "bibliography": "Malmberg Helge : artikel i Sohlmans Musiklexikon , band 2, spalt 889-890 (Stockholm 1950) Norlind, Tobias : artikel i Musiklexikon (Wahlström och Widstrand, Stockholm 1927)",
+  "sources": null,
+  "links": [],
+  "works_summary": "\"Ave Maria\" för sopran, violin och piano, kantaten \"Coming of the Bridgeroom\" (enl. Tobias Norlind), operor (\"Fridthjof and Ingeborg\" Chicago 1898, \"Enchanted Forest\" 1899, \"Countess of Tivoli\" 1902), operetter (\"Tyrolian Queen\" Worchester 1879, \"Princess Phosa\", \"Gipsy Queen\")",
+  "works": [
+    {
+      "category": "Opera",
+      "title": "Fridthjof and Ingeborg, Opera in three acts",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/hanson-charles-f/SMH-W1093-Fridthjof_and_Ingeborg_Opera_in_three_acts",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "hanson-charles-f"
+}

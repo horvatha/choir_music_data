@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/bergstrom-axel/",
+  "title": "Carl Axel Bergström (1864-1907)",
+  "name": "Carl Axel Bergström",
+  "years": "1864-1907",
+  "description": "Carl Axel Bergström. Född i Garpenbergs församling (Hedemora) den 3 februari 1864. Avled i Hovförsamlingen (Stockholm) den 31 oktober 1907. Altviolinist, tonsättare och militärmusiker, verksam i Stockholm. LMA.",
+  "birth": {
+    "place": "Garpenbergs församling (Hedemora)",
+    "date": "3 februari 1864",
+    "raw": "Född i Garpenbergs församling (Hedemora) den 3 februari 1864"
+  },
+  "death": {
+    "place": "Hovförsamlingen (Stockholm)",
+    "date": "31 oktober 1907",
+    "raw": "Avled i Hovförsamlingen (Stockholm) den 31 oktober 1907"
+  },
+  "biography": "Studerade violin i Stockholm för Fridolf Book (1836-1913), som i sin tur studerat för Edouard d'Aubert, Hubert Léonard och Joseph Joachim. Bergström tog även Militärmusikerexamen 1885. Anställd i Kungliga Hovkapellet som altviolinist 1882-94 och spelade också viola i Aulinkvartetten från 1887. Parallellt med detta var han från 1888 anställd som musikanförare vid Kungl. Upplands regemente, där han 1890 blev musikdirektör. Därefter var han musikdirektör vid Göta Livgarde i Stockholm 1903-07. Invald i Kungl. Musikaliska akademien 26 mars 1903, som ledamot nr 509.",
+  "publications": null,
+  "bibliography": null,
+  "sources": null,
+  "links": [],
+  "works_summary": "marscher (bl a Kongl. Uplands Regementes marsch), mm",
+  "works": [],
+  "slug": "bergstrom-axel"
+}

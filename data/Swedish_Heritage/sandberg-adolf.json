@@ -1,0 +1,34 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/sandberg-adolf/",
+  "title": "Adolf Sandberg (1808-1863)",
+  "name": "Adolf Sandberg",
+  "years": "1808-1863",
+  "description": "Adolf (Adolph) Sandberg föddes i Helsingborgs stadsförsamling den 21 februari 1808. Avled i Karlskrona amiralitetsförsamling den 24 oktober 1863. Militärmusikdirektör och tonsättare. Musikdirektör vid Nerkes Husarer 1843, sedermera vid Marinregementet i Karlskrona.",
+  "birth": {
+    "place": "Helsingborgs stadsförsamling",
+    "date": "21 februari 1808",
+    "raw": "föddes i Helsingborgs stadsförsamling den 21 februari 1808"
+  },
+  "death": {
+    "place": "Karlskrona amiralitetsförsamling",
+    "date": "24 oktober 1863",
+    "raw": "Avled i Karlskrona amiralitetsförsamling den 24 oktober 1863"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": null,
+  "sources": null,
+  "links": [],
+  "works_summary": "Musik för bleckblåsinstrument, Fyra sånger ur Frithiofs saga, m m",
+  "works": [
+    {
+      "category": "Voice and piano",
+      "title": "Fyra sånger utur Frithiofs saga med accompagnement af FortePiano [Four songs from Frithiof's Saga with accompaniment of the fortepiano]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/sandberg-adolf/SMH-W669-Fyra_sanger_utur_Frithiofs_saga_med_accompagnement_af_FortePiano_Four",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "sandberg-adolf"
+}

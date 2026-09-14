@@ -1,0 +1,242 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/larsson-lars-erik/",
+  "title": "Lars-Erik Larsson (1908-1986)",
+  "name": "Lars-Erik Larsson",
+  "years": "1908-1986",
+  "description": "Lars-Erik Vilner Larsson, född i Åkarp (Burlövs socken, Skåne), 15 maj 1908, död 27 december 1986. Tonsättare, musikrecensent, dirigent, pedagog. Organistexamen i Växjö 1924. Studerade vid Musikkonservatoriet i Stockholm 1925-29 (bl a komposition för Ernst Ellberg och dirigering för Olallo Morales). Åren 1929-30 studerade han (på statens tonsättarstipendium) i Wien för Alban Berg och i Leipzig för Fritz Reuter. Repetitör vid Kungl. Teatern 1930-31, musikanmälare i Lunds Dagblad 1933-37, dirigent för Radioorkestern i Stockholm 1947-59, director musices vid Uppsala Universitet 1961-67. Styrelseledamot i Kungl. Musikaliska akademien 1945-46, i Föreningen Svenska Tonsättare 1939-63, i Stockholms Konsertförening 1950-61. LMA",
+  "birth": {
+    "place": "Åkarp (Burlövs socken, Skåne),",
+    "date": "15 maj 1908",
+    "raw": "född i Åkarp (Burlövs socken, Skåne), 15 maj 1908"
+  },
+  "death": {
+    "place": null,
+    "date": "27 december 1986",
+    "raw": "död 27 december 1986"
+  },
+  "biography": "Gift 1936 med Brita Elisabeth Holm. Invald i Kungl. Musikaliska akademien 28 januari 1943, som ledamot 635.",
+  "publications": "Hur jag började (Musikvärlden, 1946) Missa Brevis (Modern nordisk musik, 1957) Om svenske tonsättarens situation (Nutida Musik, 1970/71)",
+  "bibliography": "Bergendahl, Göran : Att behålla sitt gamla ansikte (Nutida Musik 1961/62) —— : Trettiotalisten som blev dodekafonist (Musikrevy, 1962) —— : Nya stycken av Lars-Erik Larsson (Nutida Musik, 1970/71) —— : 33 svenska komponister (1972) —— : artikel i Sohlmans musiklexikon , band 4, s 262-264 (Stockholm, 1977) Connor, Herbert : Samtal med tonsättare (1971) Jacobsson, Stig : Lars-Erik Larsson (1987) Larsén, Carlhåkan : Lars-Erik Larsson (Atlantis förlag, Stockholm, 2008; Kungl. Musikaliska akademiens skriftserie) Olsson, L : Lars-Erik Larsson som filmkompositör (1992) Pergament, Moses : Svenska tonsättare (1943) Seymer, William : artikel i Svenska Män och Kvinnor , band 4, s 479 (Albert Bonniers förlag, Stockholm, 1948) Stare, I : Förklädd gud — lyrisk svit (Musikrevy, 1953) Wallner, Bo : Lars-Erik Larsson (Tidskrift för det folkliga musiklivet, Vår sång, 1950) —— : Missa brevis (Tidskrift för det folkliga musiklivet, Vår sång, 1954) —— : Lars-Erik Larsson och hans concertinor (1957, med verkförteckning) —— : Vår tids musik i Norden (1968)",
+  "sources": "Göteborgs universitetsbibliotek, Kungliga Biblioteket Stockholm, Musikmuseet Stockholm, Riksarkivet Stockholm, Musik- och teaterbiblioteket Stockholm, Stockholms stadsarkiv",
+  "links": [],
+  "works_summary": "3 symfonier, verk för orkester (bl a \"Pastoralsvit\", \"Musik för orkester\", \"Due Auguri\"), saxofonkonsert, violinkonsert, cellokonsert, 12 concertini för olika instrument, 3 stråkkvartetter, andra verk för stråkkvartett (bl a \"Intima miniatyrer\", \"Quartetto alla serenata\", \"Fem skisser\"), andra kammarmusikverk (bl a \"Quattro tempi\" för blåsarkvintett, Sonatin för violoncell och piano, Sonatin g-moll för violin och piano, Tre stycken för klarinett och piano, Aubade för oboe och stråktrio), verk för piano (bl a 3 sonatiner), sånger med piano, verk för kör (bl a \"Förklädd Gud\", \"Missa Brevis\"), operorna \"Prinsessan av Cypern\" och \"Arresten på Bohus\", musik till skådespel, musik till ca 20 filmer",
+  "works": [
+    {
+      "category": "Orchestral works in one movement",
+      "title": "Andante serioso Opus 32 no. 2",
+      "opus": "32",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/larsson-lars-erik/SMH-W7201-Andante_serioso",
+      "has_published_edition": false
+    },
+    {
+      "category": "Orchestral works in one movement",
+      "title": "Andante sostenuto Opus 32 no. 1",
+      "opus": "32",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/larsson-lars-erik/SMH-W7200-Andante_sostenuto",
+      "has_published_edition": false
+    },
+    {
+      "category": "Orchestral works in one movement",
+      "title": "Folkvisenatt for string orchestra [from Det svenska landet] opus 27",
+      "opus": "27",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/larsson-lars-erik/SMH-W3359-Folkvisenatt_for_string_orchestra_from_Det_svenska_landet",
+      "has_published_edition": false
+    },
+    {
+      "category": "Orchestral works in one movement",
+      "title": "Lyrical fantasy for small orchestra opus 54",
+      "opus": "54",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/larsson-lars-erik/SMH-W2405-Lyrical_fantasy_for_small_orchestra",
+      "has_published_edition": false
+    },
+    {
+      "category": "Orchestral works in one movement",
+      "title": "Romance, [from Pastoral suite] opus 19",
+      "opus": "19",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/larsson-lars-erik/SMH-W2427-Romance_from_Pastoral_suite",
+      "has_published_edition": false
+    },
+    {
+      "category": "Orchestral works in several movements",
+      "title": "Barococo, suite for orchestra opus 64",
+      "opus": "64",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/larsson-lars-erik/SMH-W2419-Barococo_suite_for_orchestra",
+      "has_published_edition": false
+    },
+    {
+      "category": "Orchestral works in several movements",
+      "title": "Four vignettes to Shakespeare's The Winter's Tale",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/larsson-lars-erik/SMH-W2418-Four_vignettes_to_Shakespeares_The_Winters_Tale",
+      "has_published_edition": false
+    },
+    {
+      "category": "Orchestral works in several movements",
+      "title": "Gustaviansk svit [Gustavian suite] Opus 28",
+      "opus": "28",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/larsson-lars-erik/SMH-W7407-Gustaviansk_svit_Gustavian_suite",
+      "has_published_edition": false
+    },
+    {
+      "category": "Orchestral works in several movements",
+      "title": "Liten serenad [Little Serenade], Kleine Serenade opus 12",
+      "opus": "12",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/larsson-lars-erik/SMH-W7414-Liten_serenad_Little_Serenade_Kleine_Serenade",
+      "has_published_edition": false
+    },
+    {
+      "category": "Orchestral works in several movements",
+      "title": "Pastoral suite opus 19",
+      "opus": "19",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/larsson-lars-erik/SMH-W2426-Pastoral_suite",
+      "has_published_edition": false
+    },
+    {
+      "category": "Symphony",
+      "title": "Symfoni (nr 1) D-dur [Symphony (no. 1) in D-major] opus 2",
+      "opus": "2",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/larsson-lars-erik/SMH-W7464-Symfoni_nr_1_D-dur_Symphony_no_1_in_D-major",
+      "has_published_edition": false
+    },
+    {
+      "category": "Violin and orchestra",
+      "title": "Violin concerto opus 42",
+      "opus": "42",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/larsson-lars-erik/SMH-W6701-Violin_concerto",
+      "has_published_edition": false
+    },
+    {
+      "category": "Bassoon and orchestra",
+      "title": "Concertino for bassoon and string orchestra opus 45 no. 4",
+      "opus": "45",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/larsson-lars-erik/SMH-W2420-Concertino_for_bassoon_and_string_orchestra",
+      "has_published_edition": false
+    },
+    {
+      "category": "Trumpet and orchestra",
+      "title": "Concertino för trumpet och stråkorkester [Concertino for trumpet and string orchestra] opus 45 no. 6",
+      "opus": "45",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/larsson-lars-erik/SMH-W7138-Concertino_for_trumpet_och_strakorkester_Concertino_for_trumpet_and_st",
+      "has_published_edition": false
+    },
+    {
+      "category": "Trombone and orchestra",
+      "title": "Concertino for trombone and string orchestra opus 45 no. 7",
+      "opus": "45",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/larsson-lars-erik/SMH-W4710-Concertino_for_trombone_and_string_orchestra",
+      "has_published_edition": false
+    },
+    {
+      "category": "Piano and orchestra",
+      "title": "Concertino for piano and string orchestra opus 45 no. 12",
+      "opus": "45",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/larsson-lars-erik/SMH-W2421-Concertino_for_piano_and_string_orchestra",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Three citations opus 59",
+      "opus": "59",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/larsson-lars-erik/SMH-W1871-Three_citations",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir with solo voice(s) and orchestra",
+      "title": "Förklädd gud opus 24",
+      "opus": "24",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/larsson-lars-erik/SMH-W2423-Forkladd_gud",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "I tystnad",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/larsson-lars-erik/SMH-W1405-I_tystnad",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Nine songs to poems by Hjalmar Gullberg Opus 35",
+      "opus": "35",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/larsson-lars-erik/SMH-W1296-Nine_songs_to_poems_by_Hjalmar_Gullberg",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Även lyckan blev mig tung",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/larsson-lars-erik/SMH-W1406-Aven_lyckan_blev_mig_tung",
+      "has_published_edition": false
+    },
+    {
+      "category": "String quartet",
+      "title": "[Movement 5 from] Five Sketches for String Quartet",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/larsson-lars-erik/SMH-W364-Movement_5_from_Five_Sketches_for_String_Quartet",
+      "has_published_edition": false
+    },
+    {
+      "category": "String quartet",
+      "title": "Intima miniatyrer för stråkkvartett opus 20",
+      "opus": "20",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/larsson-lars-erik/SMH-W736-Intima_miniatyrer_for_strakkvartett",
+      "has_published_edition": false
+    },
+    {
+      "category": "String quartet",
+      "title": "Quartetto alla serenata, String quartet no. 2 opus 44",
+      "opus": "44",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/larsson-lars-erik/SMH-W737-Quartetto_alla_serenata_String_quartet_no_2",
+      "has_published_edition": false
+    },
+    {
+      "category": "Wind quintet",
+      "title": "Quattro Tempi — Divertimento for wind orchestra opus 55",
+      "opus": "55",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/larsson-lars-erik/SMH-W738-Quattro_Tempi_-_Divertimento_for_wind_orchestra",
+      "has_published_edition": false
+    },
+    {
+      "category": "2 Instruments",
+      "title": "Three nocturnes for Harp (Piano) and Violoncello",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/larsson-lars-erik/SMH-W2411-Three_nocturnes_for_Harp_Piano_and_Violoncello",
+      "has_published_edition": false
+    },
+    {
+      "category": "4 Instruments",
+      "title": "Aubade opus 63",
+      "opus": "63",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/larsson-lars-erik/SMH-W99-Aubade",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "larsson-lars-erik"
+}

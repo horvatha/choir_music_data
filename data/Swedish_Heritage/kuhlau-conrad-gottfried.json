@@ -1,0 +1,34 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/kuhlau-conrad-gottfried/",
+  "title": "Conrad Gottfried Kuhlau (1762-1827)",
+  "name": "Conrad Gottfried Kuhlau",
+  "years": "1762-1827",
+  "description": "Conrad Gottfried Kuhlau föddes i Hovförsamlingen, Stockholm, 23 maj 1762. Avled där 31 augusti 1827. Bankokommissarie, tonsättare. Far till Conrad Ludvig Kuhlau (1796-1866). Nämnd i Carl Nissers Svensk Instrumentalkomposition 1770-1830, Nominalkatalog, Stockholm 1943.",
+  "birth": {
+    "place": "Hovförsamlingen, Stockholm,",
+    "date": "23 maj 1762",
+    "raw": "föddes i Hovförsamlingen, Stockholm, 23 maj 1762"
+  },
+  "death": {
+    "place": "Hovförsamlingen, Stockholm,",
+    "date": "31 augusti 1827",
+    "raw": "Avled där 31 augusti 1827"
+  },
+  "biography": "Invald den 28/12 1822 i den s k andra klassen i Kungl. Musikaliska akademien.",
+  "publications": null,
+  "bibliography": null,
+  "sources": "Musik- och teaterbiblioteket",
+  "links": [],
+  "works_summary": "Violinverk, sonater, stråkkvartett, pianoverk Tre sonater för claver med Accompagnement af en Violin; \"Hennes Maj:t Drottningen aller underdångst tilegnade\" (opus 1): Sonata a-moll, Sonata C-dur, Sonata D-dur Andante med variationer D-dur [för pianoforte] Fyra Quartetter för Två Violer [sic], Viola och Violoncello: Sonata C-dur, Sonata d-moll, Sonata C-dur, Sonata G-dur Menuetto D-dur [för pianoforte] Preludier och utgångsstycken för Orgor [sic]: Preludier (24 adagios Ess-dur - D-dur, f-moll - e-moll) Utgångsstycken (Adagio g-moll - Andante B-dur - Andante A-dur - Allegro moderato D-dur - Allegro moderato g-moll - Maestoso C-dur - andante C-dur - Allegro moderato C-dur) Triple-Concert för 3:ne Fagotter",
+  "works": [
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Midsommarsdagen [sic] (\"Helig, helig Herre Gud!\") [Midsummer Day]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/kuhlau-conrad-gottfried/SMH-W5498-Midsommarsdagen_sic_Helig_helig_Herre_Gud_Midsummer_Day",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "kuhlau-conrad-gottfried"
+}

@@ -1,0 +1,66 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/sjoberg-carl/",
+  "title": "Carl Sjöberg (1861−1900)",
+  "name": "Carl Sjöberg",
+  "years": "1861−1900",
+  "description": "Carl Leopold Sjöberg was born 28 May 1861 in Gävle and died 26 January 1900 in Hedemora. Trained in medicine with a vocation as a physician, he was essentially a self-taught composer. He composed mostly songs, of which the posthumously published ‘Tonerna’ is particularly well known.",
+  "birth": {
+    "place": "Gävle",
+    "date": "28 May 1861",
+    "raw": "born 28 May 1861 in Gävle and died"
+  },
+  "death": {
+    "place": "Hedemora",
+    "date": "26 January 1900",
+    "raw": "died 26 January 1900 in Hedemora."
+  },
+  "biography": "Life Carl Leopold Sjöberg grew up in Gävle. His father, Leopold Sjöberg, was an accountant at Gefle-Dala Railways, but died when his son was only seven years old. His mother, Karin Sjöberg (née Lundström), supported herself and her three children by opening a store in which she sold china and toys. One of her deceased husband’s relatives, school principal Jonas Selggren, also a well-to-do Member of Parliament, supported the family in need economically, enabling Carl Sjöberg to finish high school in 1879. His music teacher at the school, composer Wilhelm Björkgren (1847−1917), turned out to be an important role model for Carl’s education. The young Carl made such progress under Björkgren that not only was he allowed to play the organ for morning prayers, but even substituted as an organist at the church. It is probable that through Björkgren, Carl also gained insight into theoretical music analysis, which would lay the foundation for his compositional techniques. With continuing financial support from Selggren, Carl Sjöberg studied medicine: first at Uppsala University, where in 1888 he completed his bachelor’s degree, then at the Karolinska Institute in Stockholm, where he received his medical licentiate in 1893. His study years were spent in the company of music. In Uppsala he became a member of both the Orphei Drängar and the Allmänna sången, both male choirs. It was also during this period that Carl Sjöberg began to write songs − that is, compose melodies to pre-existing texts. As far as is known, he did this without taking any courses in music subjects, other than those that transpired during his school years. A piano quartet and a piece for violin and piano are preserved, which demonstrate how he exercised his creative musical efforts by writing chamber music. Despite a limited production, most of what he wrote was closely related to musical endeavours that he personally took part in. He stopped studying in 1893, the same year that he married Sofia Abelin (1866−1945), whom he had met in 1888 while working one summer at the Sätra Brunn health spa. The following year Carl Sjöberg started employment as a small town doctor in Hedemora. From 1898 he also worked as a doctor at the local cottage hospital. He grew to be immensely appreciated as a physician while pursuing music as a side interest. He sang and played the piano in addition to leading music ensembles. This included founding and leading a choir. He also headed the Hedemora music society and started a string quartet, which he augmented with his piano playing. However, his composing in Hedemora appears to have been less extensive than during his study years. Carl Sjöberg was often spoken of as being a sociable person, with ‘a refined nature, a quick wit’. Moreover, Carl Sjöberg was a skilful illustrator and watercolourist. He gladly depicted city motives, and existing artworks reveal views from several of his residences in Stockholm, Uppsala and Hedemora. Carl Sjöberg died unexpectedly when he was only 38 years old. His wife was expecting their third child. Compositions Carl Sjöberg’s production as a composer is not extensive, encompassing only a few songs, a piano quartet in three movements, and a piece for violin and piano. But, one of his songs has made his name immortal: ʻTonernaʼ, with text by Swedish writer and historian Erik Gustaf Geijer. It is said to have come about in 1892, during Sjöberg’s year in Stockholm, after he had attended the Kungliga Teatern (the Royal Opera) one evening and was thus inspired to set Geijer’s short poem from 1829 to music. The song was first published in 1901, one year after Sjöberg died. This meant that the composer did not live to see the song’s tremendous success. The Swedish tenor Jussi Björling and many other acclaimed singers have had this piece in their repertoire, but it also been performed instrumentally. The song ʻTonernaʼ would have never experienced such an outreach if Carl Sjöberg had not really been capable of writing competent vocal works. The extant songs are not great works, but they are well crafted and were certainly appreciated in the circle of friends for which they were written. Sjöberg adopted text for his songs from a variety of authors, implying that he had a keen interest in literature. Gunnar Ternhag © 2015 Trans. Thalia Thunander",
+  "publications": null,
+  "bibliography": "Bzt : Tonernas Sjöberg, Borlänge Tidning , julnumret, 1933, pp. 4−5. Carlsson, Magnus: 'Carl Sjöberg: doktorn med \"Tonerna”', in: Medicinhistoriska promenader, Stockholm: Ekerlid, 2001, pp. 77−88. Lindeberg, Wilhelm : 'Förbiskymtande skuggor', Gefle Dagblad , 13 Aug. 1938. Marsk, Axe l: Livsöden i en svensk släkt där en medlem skrev in sig i musikhistorien, Orsa, 1986. 'Tonsättaren från Gävle som gjorde succé efter sin död', Arbetarbladet , 31 Aug. 2008.",
+  "sources": "Uppsala University Library",
+  "links": [],
+  "works_summary": "Chamber music (piano quintet and 1 piece for violin and piano), songs (Tonerna, etc.).",
+  "works": [
+    {
+      "category": "Voice and piano",
+      "title": "Three songs bequeathed by C.L. Sjöberg",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/sjoberg-carl/SMH-W4313-Three_songs_bequeathed_by_CL_Sjoberg",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Tonerna (hög sättning) [The tones (high setting)]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/sjoberg-carl/SMH-W3878-Tonerna_hog_sattning_The_tones_high_setting",
+      "has_published_edition": true
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Tonerna (låg sättning) [The tones (low setting)]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/sjoberg-carl/SMH-W3877-Tonerna_lag_sattning_The_tones_low_setting",
+      "has_published_edition": true
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Two songs by Carl Sjöberg (composer of 'Tonernas')",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/sjoberg-carl/SMH-W4312-Two_songs_by_Carl_Sjoberg_composer_of_Tonernas",
+      "has_published_edition": true
+    },
+    {
+      "category": "Piano quartet",
+      "title": "Quartet for Piano, Violin, Viola and Cello",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/sjoberg-carl/SMH-W391-Quartet_for_Piano_Violin_Viola_and_Cello",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "sjoberg-carl"
+}

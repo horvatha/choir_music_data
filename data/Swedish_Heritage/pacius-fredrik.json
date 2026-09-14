@@ -1,0 +1,71 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/pacius-fredrik/",
+  "title": "Fredrik Pacius (1809-1891)",
+  "name": "Fredrik Pacius",
+  "years": "1809-1891",
+  "description": "Violinist. dirigent och tonsättare, huvudsakligen verksam i Finland. Fredrik (Friedrich) Pacius föddes den 19 mars 1809 i Hamburg. Avled i Helsingfors den 8 januari 1891. Verksam i Stockholm 1828-34, bl a som förste violinist i Kungl. Hovkapellet 1828-30 och 1831-34.",
+  "birth": {
+    "place": null,
+    "date": "19 mars 1809",
+    "raw": "föddes den 19 mars 1809"
+  },
+  "death": {
+    "place": "Helsingfors",
+    "date": "8 januari 1891",
+    "raw": "Avled i Helsingfors den 8 januari 1891"
+  },
+  "biography": "Invald som utländsk ledamot nr 115 i Kungl. Musikaliska akademien den 15/12 1856.",
+  "publications": null,
+  "bibliography": "Andersson, Otto: Den unge Pacius och musiklivet i Helsingfors på 1930-talet . Helsingfors (1938) Collan-Beaurain, Maria : Fredrik Pacius, Lefnadsteckning (1921) Flodin, Karl : Fredrik Pacius Kung Karls jakt , Euterpe nr 22 (1902) Geisler-Baum, Silja &amp; Geibel, Emanuel: Die Loreley in Finnland: zur Entstehung, Aufführung und Rezeption der Oper von Fredrik Pacius und Emanuel Geibel . Mainz (2004) Lappalainen, Seija (red.): Fredrik Pacius. Musiken som hemland . Helsingfors (2009) Lappalainen, Seija : Fredrik Pacius , i Biografiskt lexikon för Finland Mäkelä, Tomi : Fredrik Pacius, Kompositör i Finland . Helsingfors (2009) Rosas, John : Fredrik Pacius som tonsättare. Åbo (1949) Rosas, John: Till frågan om Pacius' körstil. Åbo (1951) Savolainen, Pentti : Ooppera suomalaisen kulttuuri-identiteetin rakentajana: Fredrik Paciuksen, Kaarlo Bergbomin, Aino Acktén ja Martti Talvelan vaikutus suomalaiseen oopperataiteeseen ja kulttuuri-identiteettiin . Diss. Jyväskyläs universitet (1999) Sjöqvist, Gunnar: Fredrik Pacius: finländsk pionjär, i Musikrevy . 1992 (47), s. 187-188 Vainio, Matti: Pacius: suomalaisen musiikin isä . Jyväskylä (2009)",
+  "sources": null,
+  "links": [
+    {
+      "title": "Biografi i Biografiskt lexikon för Finland",
+      "url": "http://www.blf.fi/artikel.php?id=1441"
+    }
+  ],
+  "works_summary": "Orkesterverk (en symfoni), violinkonsert, kammarmusikverk, sånger, tre operor (Kung Karls jakt, Princessan av Cypern, Loreley). Melodin till \"Vårt land, vårt land\" (text av J L Runeberg)",
+  "works": [
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Suomis sång (\"Hör hur härligt sången skallar\") [Suomi's song]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/pacius-fredrik/SMH-W5360-Suomis_sang_Hor_hur_harligt_sangen_skallar_Suomis_song",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Vallgossen (\"Hur skön bland österns skyar\") [The herdboy]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/pacius-fredrik/SMH-W5361-Vallgossen_Hur_skon_bland_osterns_skyar_The_herdboy",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Vårt land (\"Vårt land, vårt land, vårt fosterland\") [Maamme / 'Our Land'; i.e., the national anthem of Finland]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/pacius-fredrik/SMH-W5362-Vart_land_Vart_land_vart_land_vart_fosterland_Maamme__Our_Land_ie_the",
+      "has_published_edition": false
+    },
+    {
+      "category": "Male choir a cappella",
+      "title": "Suomis sång (\"Hör hur härligt sången skallar\")",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/pacius-fredrik/SMH-W5473-Suomis_sang_Hor_hur_harligt_sangen_skallar",
+      "has_published_edition": true
+    },
+    {
+      "category": "Male choir a cappella",
+      "title": "Vårt land (\"Vårt land, vårt land, vårt fosterland\") [Finnish title: Maamme]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/pacius-fredrik/SMH-W5396-Vart_land_Vart_land_vart_land_vart_fosterland_Finnish_title_Maamme",
+      "has_published_edition": true
+    }
+  ],
+  "slug": "pacius-fredrik"
+}

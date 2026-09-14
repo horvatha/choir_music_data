@@ -1,0 +1,42 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/bortz-daniel/",
+  "title": "Daniel Börtz (1943-)",
+  "name": "Daniel Börtz",
+  "years": "1943-",
+  "description": "För aktuell verkförteckning och biografisk information om nu levande tonsättare hänvisar vi till Svensk Musik och tonsättarens egen hemsida.",
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "biography": "-",
+  "publications": null,
+  "bibliography": "Norling, Sara: Daniel Börtz (KMA 2017)",
+  "sources": null,
+  "links": [],
+  "works_summary": "---",
+  "works": [
+    {
+      "category": "Incidental music",
+      "title": "Karl XII",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/bortz-daniel/SMH-W4697-Karl_XII",
+      "has_published_edition": false
+    },
+    {
+      "category": "Orchestral works in several movements",
+      "title": "Fyra bagateller för stråkar [Four bagatelles for strings]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/bortz-daniel/SMH-W7238-Fyra_bagateller_for_strakar_Four_bagatelles_for_strings",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "bortz-daniel"
+}

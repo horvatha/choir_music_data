@@ -1,0 +1,138 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/skold-yngve/",
+  "title": "Yngve Sköld (1899-1992)",
+  "name": "Yngve Sköld",
+  "years": "1899-1992",
+  "description": "Denne tonsättares verk skyddas fortfarande av upphovsrätten och ingår därför inte i Levande Musikarvs utgivning. För mer information om liv och verk hänvisar vi till Svensk Musiks hemsida.",
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "biography": "-",
+  "publications": null,
+  "bibliography": null,
+  "sources": null,
+  "links": [],
+  "works_summary": "---",
+  "works": [
+    {
+      "category": "Voice and piano",
+      "title": "Oktoberkväll",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/skold-yngve/SMH-W1395-Oktoberkvall",
+      "has_published_edition": false
+    },
+    {
+      "category": "Violin and piano",
+      "title": "Melodi [Melody]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/skold-yngve/SMH-W1551-Melodi_Melody",
+      "has_published_edition": false
+    },
+    {
+      "category": "Viola and piano",
+      "title": "Consolation",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/skold-yngve/SMH-W1557-Consolation",
+      "has_published_edition": false
+    },
+    {
+      "category": "Viola and organ",
+      "title": "Alla Leggenda opus 31",
+      "opus": "31",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/skold-yngve/SMH-W1554-Alla_Leggenda",
+      "has_published_edition": false
+    },
+    {
+      "category": "Viola and organ",
+      "title": "Consolation",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/skold-yngve/SMH-W1556-Consolation",
+      "has_published_edition": false
+    },
+    {
+      "category": "Viola and organ",
+      "title": "Fantasi opus 12",
+      "opus": "12",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/skold-yngve/SMH-W1553-Fantasi",
+      "has_published_edition": false
+    },
+    {
+      "category": "Cello and piano",
+      "title": "Five Pieces for violoncello and piano opus 41",
+      "opus": "41",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/skold-yngve/SMH-W1565-Five_Pieces_for_violoncello_and_piano",
+      "has_published_edition": false
+    },
+    {
+      "category": "Cello and piano",
+      "title": "Sonat [Sonata] opus 26",
+      "opus": "26",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/skold-yngve/SMH-W51-Sonat_Sonata",
+      "has_published_edition": false
+    },
+    {
+      "category": "Flute and piano",
+      "title": "Small suite",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/skold-yngve/SMH-W1550-Small_suite",
+      "has_published_edition": false
+    },
+    {
+      "category": "Flute and piano",
+      "title": "Sonatina per flauto e pianoforte opus 57",
+      "opus": "57",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/skold-yngve/SMH-W1552-Sonatina_per_flauto_e_pianoforte",
+      "has_published_edition": false
+    },
+    {
+      "category": "String trio",
+      "title": "Divertimento opus 70",
+      "opus": "70",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/skold-yngve/SMH-W359-Divertimento",
+      "has_published_edition": false
+    },
+    {
+      "category": "String quartet",
+      "title": "String Quartet no. 2 opus 55",
+      "opus": "55",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/skold-yngve/SMH-W392-String_Quartet_no_2",
+      "has_published_edition": false
+    },
+    {
+      "category": "String quartet",
+      "title": "String Quartet no. 3 opus 65",
+      "opus": "65",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/skold-yngve/SMH-W393-String_Quartet_no_3",
+      "has_published_edition": false
+    },
+    {
+      "category": "String quartet",
+      "title": "String quartet no. 4 opus 72",
+      "opus": "72",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/skold-yngve/SMH-W386-String_quartet_no_4",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "skold-yngve"
+}

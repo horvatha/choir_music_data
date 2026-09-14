@@ -1,0 +1,458 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/klint-fredrik-wilhelm/",
+  "title": "Fredrik Wilhelm Klint (1811−1894)",
+  "name": "Fredrik Wilhelm Klint",
+  "years": "1811−1894",
+  "description": "Fredrik Wilhelm Klint. Organist, music teacher and composer. Born 7 February, 1811 in Visby, died 1 June, 1894 in Stockholm. Studied at Uppsala University, later at the Royal Conservatory of Music in Stockholm. Organist for the French Reformed Church in Stockholm from 1842, active on the island of Gotland from 1854 as organist for Östergarn Church 1859−1878.",
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": "Stockholm",
+    "date": "1 June, 1894",
+    "raw": "died 1 June, 1894 in Stockholm."
+  },
+  "biography": "Life Fredrik Wilhelm Klint’s path in the service of music was as remarkable as it was unusual: he was active in two completely different environments − first in central Stockholm, later in Östergarn on Eastern Gotland, the island in the middle of the Baltic Sea − and appreciated equally in both. His compositions reflect his time in both places: chamber music works and light music from his Stockholm period, and Gebrauchsmusik (utility music) for organ and choir from his years on Gotland. Many of his works lack information about the period and context of their composition, and our image of Fredrik Wilhelm Klint the composer is thus far from complete. Klint was born in Visby. His father, Georg Fredrik Klint, was a pharmacist born in Stockholm who came to Visby to take over the city’s pharmacy, and to marry his predecessor’s widow, Johanna Elisabeth Fägersten. The couple had two sons, Johan Georg and Fredrik Wilhelm. Fredrik Wilhelm Klint received his first musical education as a pupil in the Musikaliska sällskapet (the Musical Society) in Visby, which is still active today. In his hometown he also took lessons from the city chaplain Carl Enequist, who was a prominent figure in Visby’s musical life. Although Fredrik Wilhelm Klint attended secondary school at Visby Läroverk (Visby’s secondary school) he graduated in Uppsala, where he then registered at the university and Gotland’s student nation in the autumn of 1829. His studies at Uppsala University and later Karolinska Institute would accredit him as a pharmacist and allow him the possibility of taking over his father’s pharmacy. However, his passion for music was stronger than the desire for a stable career in his father’s footsteps. While a student Klint took lessons from the esteemed Dutch pianist Jan van Boom, who had lived in Stockholm from the age of 18. Klint’s change of career was cemented when he started studies at the Musikkonservatoriet (the Royal Conservatory of Music), from which he graduated in 1844. Upon graduation Klint was hired as the organist for the French Reformed Church in Stockholm. The position was not full-time, and Klint taught and composed on the side. His compositions from these years recall good contacts in the city’s musical life. In 1846 Fredrik Wilhelm Klint married Euphrosyne Dorothea Christoffersson, an actress at the Kungliga Dramatiska teatern (the Royal Dramatic Theatre). They had two children: a son, Frans Wilhelm (b. 1847), and a daughter, Dorothea Johanna (b. 1848). In the autumn of 1854 Klint left his position at the French Reformed Church to return to Visby with his family. Once back in his hometown he started teaching. Among his students were sisters Fredrika (married Stenhammar) who later on became a prominent opera singer, and Elfrida Andrée, subsequently a successful organist and composer. Klint also became active in Visby’s Musikaliska sällskapet. From 1856−1858 he was its music director. In 1858 Fredrik Wilhelm Klint was hired as ‘school teacher, teacher of singing and organist’ in the Östergarn parish, a big change for him and his wife, but regardless something that provided a secure income. The work included far more than just music. Rather, his duties varied greatly and were, to say the least, exhausting. In spite of this he was still able to compose and give music lessons. He composed for more than just his own work in the church and the local musical life. He also wrote music alluding to that which lay beyond little Östergarn’s horizons. A song for male choir, ‘Skogsblomman’, (The Forest Flower) was dedicated to Princess Eugenie, who lived for long periods in Fridhem outside of Visby. Another example is Minnen af Stockholm 1866 for violin and piano that Klint dedicated to the well-regarded violinist and composer Adolf Fredrik Lindroth. One of Klint’s students during his years in Östergarn was Jakob Adolf Hägg (1850−1928) who would later become an accomplished pianist and composer. In 1877 Klint left his position in Östergarn. A year later he and his wife moved back to Stockholm where his son lived. In 1882, after a successful application, they were granted a place in the retirement home at Danviks Hospital where Fredrik Wilhelm Klint ended his days in 1894. Works Fredrik Wilhelm Klint did not compose any larger works, which could explain his absence from musical-historical descriptions. Chamber and light music, as well as Gebrauchsmusik for the church dominate his output. Although his solo pieces and choral works are not few, his body of work stands out as something special due to two types of compositions. Klint’s six string quartets, most of which were composed before he moved back to Gotland, demonstrate his good technical knowledge and his great ambitions as a composer. According to music historian Bo Wallner, they were ‘composed more in a classical than a romantic style’. Musikaliska konstföreningen (the Swedish Art Music Society) demonstrated a contemporary appreciation for Klint the composer in their decision to publish his sixth quartet in 1882, after he had returned to live in Stockholm. Klint made an equally conscious effort to compose and publish Gebrauchsmusik for the country’s organists. He wrote chorale preludes and other liturgical music in a simple style, often for three parts. The music was not innovative, but certainly gladly received by Klint’s less experienced colleagues. Or, as contemporary descriptions express it, the compositions are noteworthy for ‘their tidy harmony, their sacred style, their briefness and for the few difficulties the less advanced have in mastering them’ (from the newspaper Gotlands tidning, 15 Nov. 1873). Gunnar Ternhag © 2013 Trans. Nicole Vickers",
+  "publications": null,
+  "bibliography": "Hedin, Svante : Fredrik Wilhelm Klint, 1811−1894 − folkskollärare, klockare, orgelnist, tonsättare (photo copied article from Visby landsarkiv).",
+  "sources": "Musik- och teaterbiblioteket",
+  "links": [],
+  "works_summary": "6 string quartets, works for piano (among others the Sonata in D minor), works for organ, songs with piano, choral works.",
+  "works": [
+    {
+      "category": "Mixed choir and instruments",
+      "title": "Juldags-Sång. Ur Tvänne andeliga körer för blandade röster [Song on Christmas Day. From Two spiritual choruses for mixed voices] Op. 17:1",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/klint-fredrik-wilhelm/SMH-W2474-Juldags-Sang_Ur_Tvanne_andeliga_korer_for_blandade_roster_Song_on_Chri",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir and instruments",
+      "title": "Lof-Sång. Ur Tvänne andeliga körer för blandade röster [Song of Praise. From From Two spiritual choruses for mixed voices] Op. 17:2",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/klint-fredrik-wilhelm/SMH-W2475-Lof-Sang_Ur_Tvanne_andeliga_korer_for_blandade_roster_Song_of_Praise_F",
+      "has_published_edition": false
+    },
+    {
+      "category": "Male choir a cappella",
+      "title": "Den gamle ungkarlen [The old bachelor]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/klint-fredrik-wilhelm/SMH-W2484-Den_gamle_ungkarlen_The_old_bachelor",
+      "has_published_edition": false
+    },
+    {
+      "category": "Male choir a cappella",
+      "title": "Den älskades gåfva [The beloved's gift] Op. 8:4",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/klint-fredrik-wilhelm/SMH-W2491-Den_alskades_gafva_The_beloveds_gift",
+      "has_published_edition": false
+    },
+    {
+      "category": "Male choir a cappella",
+      "title": "Fosterländsk sång [Patriotic song]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/klint-fredrik-wilhelm/SMH-W4857-Fosterlandsk_sang_Patriotic_song",
+      "has_published_edition": false
+    },
+    {
+      "category": "Male choir a cappella",
+      "title": "För fosterlandet [For the homeland]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/klint-fredrik-wilhelm/SMH-W4855-For_fosterlandet_For_the_homeland",
+      "has_published_edition": false
+    },
+    {
+      "category": "Male choir a cappella",
+      "title": "Skogsblomman [The forest flower]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/klint-fredrik-wilhelm/SMH-W2485-Skogsblomman_The_forest_flower",
+      "has_published_edition": false
+    },
+    {
+      "category": "Male choir a cappella",
+      "title": "Svensk Folk-Sång [Swedish Folk Song]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/klint-fredrik-wilhelm/SMH-W2470-Svensk_Folk-Sang_Swedish_Folk_Song",
+      "has_published_edition": false
+    },
+    {
+      "category": "Male choir a cappella",
+      "title": "Svensk folkvisa [Swedish folk song]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/klint-fredrik-wilhelm/SMH-W2490-Svensk_folkvisa_Swedish_folk_song",
+      "has_published_edition": false
+    },
+    {
+      "category": "Male choir a cappella",
+      "title": "Svensk Folkvisa. Upptecknad och arrangerad av F W Klint [Swedish folk song. Transcribed and arranged by F W Klint]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/klint-fredrik-wilhelm/SMH-W2488-Svensk_Folkvisa_Upptecknad_och_arrangerad_av_F_W_Klint_Swedish_folk_so",
+      "has_published_edition": false
+    },
+    {
+      "category": "Male choir a cappella",
+      "title": "Svensk folkvisa. Upptecknad och arrangerad av F W Klint [Swedish folk song. Transcribed and arranged by F W Klint]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/klint-fredrik-wilhelm/SMH-W2489-Svensk_folkvisa_Upptecknad_och_arrangerad_av_F_W_Klint_Swedish_folk_so",
+      "has_published_edition": false
+    },
+    {
+      "category": "Male choir a cappella",
+      "title": "Till de sköna [To the beautiful ones]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/klint-fredrik-wilhelm/SMH-W2483-Till_de_skona_To_the_beautiful_ones",
+      "has_published_edition": false
+    },
+    {
+      "category": "Male choir a cappella",
+      "title": "Till tonerna [To the music (lit. tones)]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/klint-fredrik-wilhelm/SMH-W2487-Till_tonerna_To_the_music_lit_tones",
+      "has_published_edition": false
+    },
+    {
+      "category": "Male choir a cappella",
+      "title": "Tonerna (Enkel Manns-qvartett) [The tones (Single male quartet, i.e., one voice per part)] Op. 22:2",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/klint-fredrik-wilhelm/SMH-W2471-Tonerna_Enkel_Manns-qvartett_The_tones_Single_male_quartet_ie_one_voic",
+      "has_published_edition": false
+    },
+    {
+      "category": "Male choir a cappella",
+      "title": "Våren [The spring]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/klint-fredrik-wilhelm/SMH-W2492-Varen_The_spring",
+      "has_published_edition": false
+    },
+    {
+      "category": "Male choir a cappella",
+      "title": "Wid grafven [At the grave]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/klint-fredrik-wilhelm/SMH-W4856-Wid_grafven_At_the_grave",
+      "has_published_edition": false
+    },
+    {
+      "category": "Several choirs a cappella",
+      "title": "Ur Cantate vid Häradshöfdingen mm Hr D. Wistrands och Madame M. Lindmans bröllopsfest den 18de Junii [sic] 1837 [From Cantata at District judge etc. Mr. D. Wistrand and Madame M. Lindman’s wedding reception on 18 June, 1837] opus 6",
+      "opus": "6",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/klint-fredrik-wilhelm/SMH-W6522-Ur_Cantate_vid_Haradshofdingen_mm_Hr_D_Wistrands_och_Madame_M_Lindmans",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Aftonbön [Evening prayer] op. 12:5",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/klint-fredrik-wilhelm/SMH-W4845-Aftonbon_Evening_prayer",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Corsaren [The Corsair (privateer)] opus 8d",
+      "opus": "8d",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/klint-fredrik-wilhelm/SMH-W6525-Corsaren_The_Corsair_privateer",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Den gamle ungkarlen [The old bachelor] op. 14:3",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/klint-fredrik-wilhelm/SMH-W4853-Den_gamle_ungkarlen_The_old_bachelor",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Den älskades gåfva [The beloved's gift] op. 8:2",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/klint-fredrik-wilhelm/SMH-W4846-Den_alskades_gafva_The_beloveds_gift",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Harmonien [The harmony] op. 12:2",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/klint-fredrik-wilhelm/SMH-W4854-Harmonien_The_harmony",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Hjertats hem [The heart's home]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/klint-fredrik-wilhelm/SMH-W4851-Hjertats_hem_The_hearts_home",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Hoppet [The hope] op.12:1",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/klint-fredrik-wilhelm/SMH-W4842-Hoppet_The_hope",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Hvar är du? [Where are you?] op. 21:5",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/klint-fredrik-wilhelm/SMH-W4841-Hvar_ar_du_Where_are_you",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Hösten [The autumn] op. 21:3",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/klint-fredrik-wilhelm/SMH-W4848-Hosten_The_autumn",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Korsaren [The Corsair (privateer)] op. 8:1",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/klint-fredrik-wilhelm/SMH-W4849-Korsaren_The_Corsair_privateer",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Kärlek [Love] op. 14:2",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/klint-fredrik-wilhelm/SMH-W4847-Karlek_Love",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Morgonbön [Morning prayer] op. 12:4",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/klint-fredrik-wilhelm/SMH-W4844-Morgonbon_Morning_prayer",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Romance. Den första kärleken [Romance. The first love] opus 14 nr 2",
+      "opus": "14",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/klint-fredrik-wilhelm/SMH-W6519-Romance_Den_forsta_karleken_Romance_The_first_love",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Skogsblomman [The forest flower] op. 21:1",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/klint-fredrik-wilhelm/SMH-W4850-Skogsblomman_The_forest_flower",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Sommaren [The summer] op. 9:2",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/klint-fredrik-wilhelm/SMH-W4839-Sommaren_The_summer",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Sömnen [The sleep] op. 12:3",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/klint-fredrik-wilhelm/SMH-W4843-Somnen_The_sleep",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Trennungs-Klage",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/klint-fredrik-wilhelm/SMH-W6526-Trennungs-Klage",
+      "has_published_edition": false
+    },
+    {
+      "category": "Piano",
+      "title": "Elegi [Elegy] op. 27",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/klint-fredrik-wilhelm/SMH-W4852-Elegi_Elegy",
+      "has_published_edition": false
+    },
+    {
+      "category": "Piano",
+      "title": "Introduction & Rondeau Fantastique opus 7",
+      "opus": "7",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/klint-fredrik-wilhelm/SMH-W6523-Introduction_-_Rondeau_Fantastique",
+      "has_published_edition": false
+    },
+    {
+      "category": "Piano",
+      "title": "La Convalescence. Grand Valse pour la Piano",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/klint-fredrik-wilhelm/SMH-W2482-La_Convalescence_Grand_Valse_pour_la_Piano",
+      "has_published_edition": false
+    },
+    {
+      "category": "Piano",
+      "title": "Minne af Stockholm 1866 [Memory of Stockholm]. Impromptu quasi Elegia Op. 27",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/klint-fredrik-wilhelm/SMH-W2473-Minne_af_Stockholm_1866_Memory_of_Stockholm_Impromptu_quasi_Elegia",
+      "has_published_edition": false
+    },
+    {
+      "category": "Piano",
+      "title": "Sonate for pianoforte",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/klint-fredrik-wilhelm/SMH-W4704-Sonate_for_pianoforte",
+      "has_published_edition": true
+    },
+    {
+      "category": "Piano",
+      "title": "Vals, componerad för stor Orchester (här satt för piano) [Waltz, composed for large orchestra (here set for piano)] opus 5 nr 2",
+      "opus": "5",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/klint-fredrik-wilhelm/SMH-W6520-Vals_componerad_for_stor_Orchester_har_satt_for_piano_Waltz_composed_f",
+      "has_published_edition": false
+    },
+    {
+      "category": "Piano 4 hands",
+      "title": "Thema med variationer [Theme and variatioins] opus 7",
+      "opus": "7",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/klint-fredrik-wilhelm/SMH-W6524-Thema_med_variationer_Theme_and_variatioins",
+      "has_published_edition": false
+    },
+    {
+      "category": "Piano 4 hands",
+      "title": "Tre Quadriller componerade för stor Orchester [Three quadrilles (dances) composed for large orchestra] opus 5 nr 3",
+      "opus": "5",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/klint-fredrik-wilhelm/SMH-W6521-Tre_Quadriller_componerade_for_stor_Orchester_Three_quadrilles_dances",
+      "has_published_edition": false
+    },
+    {
+      "category": "Organ",
+      "title": "Efterspel: Efter allmän gudstjänst, nr 1 [Postlude: After regular church service, no. 1]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/klint-fredrik-wilhelm/SMH-W2478-Efterspel_Efter_allman_gudstjanst_nr_1_Postlude_After_regular_church_s",
+      "has_published_edition": false
+    },
+    {
+      "category": "Organ",
+      "title": "Efterspel: Efter allmän gudstjänst, nr 2 [Postlude: After regular church service, no. 2]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/klint-fredrik-wilhelm/SMH-W2479-Efterspel_Efter_allman_gudstjanst_nr_2_Postlude_After_regular_church_s",
+      "has_published_edition": false
+    },
+    {
+      "category": "Organ",
+      "title": "Fantasi för orgel [Fantasia for organ] Op. 16:1",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/klint-fredrik-wilhelm/SMH-W2472-Fantasi_for_orgel_Fantasia_for_organ",
+      "has_published_edition": false
+    },
+    {
+      "category": "Organ",
+      "title": "Marsch nr 1 [March no. 1]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/klint-fredrik-wilhelm/SMH-W2476-Marsch_nr_1_March_no_1",
+      "has_published_edition": false
+    },
+    {
+      "category": "Organ",
+      "title": "Marsch nr 2 [March no. 2]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/klint-fredrik-wilhelm/SMH-W2477-Marsch_nr_2_March_no_2",
+      "has_published_edition": false
+    },
+    {
+      "category": "Organ",
+      "title": "Preludium [Prelude] opus 1c",
+      "opus": "1c",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/klint-fredrik-wilhelm/SMH-W6518-Preludium_Prelude",
+      "has_published_edition": false
+    },
+    {
+      "category": "String quartet",
+      "title": "Qvartett för två Violiner, Viola och Violoncell. Quartetto 6 (A-dur) [Quartet for two Violins, Viola and Violoncello. Quartetto 6 (in A major)] op. 25 no. 2",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/klint-fredrik-wilhelm/SMH-W38-Qvartett_for_tva_Violiner_Viola_och_Violoncell_Quartetto_6_A-dur_Quart",
+      "has_published_edition": false
+    },
+    {
+      "category": "String quartet",
+      "title": "Stråk-qvartett nr 5 (F-dur) [String Quartet no. 5 (in F major)] op. 25 no. 1",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/klint-fredrik-wilhelm/SMH-W78-Strak-qvartett_nr_5_F-dur_String_Quartet_no_5_in_F_major",
+      "has_published_edition": false
+    },
+    {
+      "category": "String quartet",
+      "title": "Stråk-qvartett. Quartetto 1 (g-moll) [String Quartet. Quartetto no. 1 (in G minor)] op. 10 no. 1",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/klint-fredrik-wilhelm/SMH-W142-Strak-qvartett_Quartetto_1_g-moll_String_Quartet_Quartetto_no_1_in_G_m",
+      "has_published_edition": false
+    },
+    {
+      "category": "String quartet",
+      "title": "Stråk-qvartett. Quartetto 2 (d-moll) |String Quartet, Quartetto 2 (in D minor)] op. 10 no. 2",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/klint-fredrik-wilhelm/SMH-W164-Strak-qvartett_Quartetto_2_d-moll_String_Quartet_Quartetto_2_in_D_mino",
+      "has_published_edition": false
+    },
+    {
+      "category": "String quartet",
+      "title": "Stråk-qvartett. Quartetto 3 (d-moll) [String Quartet. Quartetto 3 (in D minor)] op. 11 no. 1",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/klint-fredrik-wilhelm/SMH-W165-Strak-qvartett_Quartetto_3_d-moll_String_Quartet_Quartetto_3_in_D_mino",
+      "has_published_edition": false
+    },
+    {
+      "category": "String quartet",
+      "title": "Stråk-qvartett. Quartetto 4 (a-moll) [String Quartet. Quartetto 4 (in A minor)] op. 11 no. 2",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/klint-fredrik-wilhelm/SMH-W166-Strak-qvartett_Quartetto_4_a-moll_String_Quartet_Quartetto_4_in_A_mino",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "klint-fredrik-wilhelm"
+}

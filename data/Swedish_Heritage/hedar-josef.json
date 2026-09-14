@@ -1,0 +1,42 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/hedar-josef/",
+  "title": "Josef Hedar (1894-1960)",
+  "name": "Josef Hedar",
+  "years": "1894-1960",
+  "description": "Josef Albin (Andersson) Hedar, född i S:t Petri församling, Malmö 16 oktober 1894, avliden i Lunds domkyrkoförsamling 2 december 1960. Kyrkomusiker och tonsättare. Verksam som organist och musiklärare i Södertälje 1920-31 och som domkyrkoorganist i Lund 1931-61. LMA",
+  "birth": {
+    "place": "S:t Petri församling, Malmö",
+    "date": "16 oktober 1894",
+    "raw": "född i S:t Petri församling, Malmö 16 oktober 1894"
+  },
+  "death": {
+    "place": "Lunds domkyrkoförsamling",
+    "date": "2 december 1960",
+    "raw": "avliden i Lunds domkyrkoförsamling 2 december 1960"
+  },
+  "biography": "Hedar blev invald i Kungl. Musikaliska akademien den 28 januari 1943, som ledamot nr 633.",
+  "publications": "Kring nyfunna Buxtehudekompositioner i Lunds Universitetsbibliotek (Svensk Tidskrift för Musikforskning, 1940) Dietrich Buxtehudes Orgelwerke — Zur Geschichte des norddeutschen Orgelstils (diss. Lund, 1951) Utg. Dietrich Buxtehude: Sämtliche Orgelwerke 1—3 (1952)",
+  "bibliography": "Jansson, Henrik : artikel i Svenskt Biografiskt Lexikon 18 (1971) —— : artikel i Sohlmans musiklexikon , band 3, s 385-386 (1976) Verkförteckning i Lunds universitetsmatrikel (1959-60, 1962)",
+  "sources": null,
+  "links": [],
+  "works_summary": "verk för kör (kantater, mm), manskvartetter",
+  "works": [
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Kring valnötsträdets tomma grenar",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/hedar-josef/SMH-W1843-Kring_valnotstradets_tomma_grenar",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Musik",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/hedar-josef/SMH-W1844-Musik",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "hedar-josef"
+}

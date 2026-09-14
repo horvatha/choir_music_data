@@ -1,0 +1,34 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/simson-johan-gustaf/",
+  "title": "Johan Gustaf Simson (1756-1787)",
+  "name": "Johan Gustaf Simson",
+  "years": "1756-1787",
+  "description": "Johan Gustaf Simson, född i Stockholm 1756 (senast den 8 mars). Avliden i Göteborg den 23 november 1787. Kammarmusicus.",
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": "Göteborg",
+    "date": "23 november 1787",
+    "raw": "Avliden i Göteborg den 23 november 1787"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": null,
+  "sources": "Statens Musik- och teaterbibliotek, Landsarkivet Visby",
+  "links": [],
+  "works_summary": "Under uppbyggnad",
+  "works": [
+    {
+      "category": "String duo",
+      "title": "Un Duos a Violon & Violoncelle Composées par Joh: Gus: Simson — Sonata I",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/simson-johan-gustaf/SMH-W259-Un_Duos_a_Violon_-_Violoncelle_Composees_par_Joh_Gus_Simson_-_Sonata_I",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "simson-johan-gustaf"
+}

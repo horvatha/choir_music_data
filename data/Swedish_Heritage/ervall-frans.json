@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/ervall-frans/",
+  "title": "Frans Ervall [Erwall] (1877-1949)",
+  "name": "Frans Ervall [Erwall]",
+  "years": "1877-1949",
+  "description": "Frans Ervall [ibland: Erwall], föddes i Hällaryd (Karlshamn) som Frans Oskar Ferdinand Persson 21 juni 1877. Avled i Skeppsholms församling, Stockholm, 30 november 1949. Militärmusiker, dirigent, tonsättare. Verkade som musikdirektör vid Kungl. Vaxholms Kustartilleriregimente. Tilldelades Vasa orden.",
+  "birth": {
+    "place": "Hällaryd (Karlshamn) som Frans Oskar Ferdinand Persson",
+    "date": "21 juni 1877",
+    "raw": "föddes i Hällaryd (Karlshamn) som Frans Oskar Ferdinand Persson 21 juni 1877"
+  },
+  "death": {
+    "place": "Skeppsholms församling, Stockholm,",
+    "date": "30 november 1949",
+    "raw": "Avled i Skeppsholms församling, Stockholm, 30 november 1949"
+  },
+  "biography": "År 1899 kom Ervall till Livregementets husarer i Skövde. Mellan 1916 och 1936 var han musikdirektör vid Vaxholms Kustartilleriregemente. Han grundade 1936 den s k \"Elitorkestern\", som var sammansatt av högklassiga blåsare. Efter ett par år ändrades namnet till \"Parkorkestern\". Denna ensemble, under ledning av Frans Ervall, turnerade i Stockholms parker under ett flertal år. Under vintern var han också dirigent för Göteborgs Spårvägsmusikkår.",
+  "publications": null,
+  "bibliography": "Lindeberg, Erik: artikel i Sohlmans musiklexikon, band 2, s 480 (1975)",
+  "sources": null,
+  "links": [],
+  "works_summary": "Ett 10-tal marscher (bl a \"Vita snören\", \"Stabstrumpetaren\", \"Våra svenska flygare\"), valser och annan musik, samt ett stort antal arrangemang för blåsare, mm",
+  "works": [],
+  "slug": "ervall-frans"
+}

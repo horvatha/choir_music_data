@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/damm-sixten/",
+  "title": "Sixten Damm (1899-1977)",
+  "name": "Sixten Damm",
+  "years": "1899-1977",
+  "description": "Ernst Sixten Damm, född 16 februari 1899 i Särna, död i Ekerö församling, Stockholm, 1 december 1977. Musikdirektör och tonsättare.",
+  "birth": {
+    "place": "Särna",
+    "date": "16 februari 1899",
+    "raw": "född 16 februari 1899 i Särna"
+  },
+  "death": {
+    "place": "Ekerö församling, Stockholm,",
+    "date": "1 december 1977",
+    "raw": "död i Ekerö församling, Stockholm, 1 december 1977"
+  },
+  "biography": "Studerade på musikkonservatoriet i Stockholm för Melcher Melchers (1882-1961), samt i Paris.",
+  "publications": null,
+  "bibliography": null,
+  "sources": null,
+  "links": [],
+  "works_summary": "Orkesterverk (bl a Balettsvit, Bymarknaden, Sagospelsuvertyr, Symfonisk svit), pianokonsert, kammarmusik (bl a Lyrisk svit nr 2, för violin och piano, samt Sonat för violoncell och piano), pianoverk, orgelverk, sånger med piano, körverk.",
+  "works": [],
+  "slug": "damm-sixten"
+}

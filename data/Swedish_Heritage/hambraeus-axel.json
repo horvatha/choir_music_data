@@ -1,0 +1,34 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/hambraeus-axel/",
+  "title": "Axel Hambraeus (1890-1983)",
+  "name": "Axel Hambraeus",
+  "years": "1890-1983",
+  "description": "Axel Edvard Hambræus, född 1 januari 1890 i Nora Örebro län död 22 februari 1983 i Orsa Kopparbergs län. Författare, kompositör och präst - verksam 1942-1957 i Orsa. Morbror till tonsättaren och musikforskaren Bengt Hambræus.",
+  "birth": {
+    "place": "Nora Örebro län död 22 februari 1983 i Orsa Kopparbergs län",
+    "date": "1 januari 1890",
+    "raw": "född 1 januari 1890 i Nora Örebro län död 22 februari 1983 i Orsa Kopparbergs län"
+  },
+  "death": {
+    "place": "Orsa Kopparbergs län",
+    "date": "22 februari 1983",
+    "raw": "död 22 februari 1983 i Orsa Kopparbergs län"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": "Mästare i tonernas värld: en samling musikerporträtt. 2. uppl. Uppsala 1940: Lindblad Vandringspräst. Stockholm 1970: Lindblad Prästen i Uddarbo: sången om en vän. [Ny utg.] Älvsjö 1985: Verbum",
+  "bibliography": "\" Hambraeus, släkter \", i Svensk biografiskt lexikon, bd 18 (1969-71) Tamm-Götlind, Märta : Axel Hambræus: personliga intryck. Hedemora 1974",
+  "sources": null,
+  "links": [],
+  "works_summary": "Under uppbyggnad",
+  "works": [
+    {
+      "category": "Voice and piano",
+      "title": "Stilla meditation i julkvällen",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/hambraeus-axel/SMH-W2008-Stilla_meditation_i_julkvallen",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "hambraeus-axel"
+}

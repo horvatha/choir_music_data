@@ -1,0 +1,42 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/safstrom-august/",
+  "title": "August Säfström (1813-1888)",
+  "name": "August Säfström",
+  "years": "1813-1888",
+  "description": "August Säfström was born in Uppsala on 1 October 1813 and died on 12 April 1888 in Stockholm. He worked for a time as a writer in a government agency and later on he entirely devoted himself to theatre productions in Stockholm. Säfström wrote and translated almost one hundred plays. Apart from composing the music to several plays, he also wrote songs with piano accompaniment.",
+  "birth": {
+    "place": "Uppsala",
+    "date": "1 October 1813",
+    "raw": "born in Uppsala on 1 October 1813"
+  },
+  "death": {
+    "place": "Stockholm",
+    "date": "12 April 1888",
+    "raw": "died on 12 April 1888 in Stockholm."
+  },
+  "biography": "Life After completing academic studies in finance and law ( kameral- och hovrättsexamina ) at Uppsala University 1835−36, Säfström worked in the state administration, but quit after several years when his interest in the theatre took over. The first known performance related to Säfström is the comic opera Fiskarstugan , a work in one act with spoken dialogue. Säfström wrote the libretto, while the music was a collaboration between him and the concertmaster of the Hovkapellet (the Royal Court Orchestra), Andreas Randel. In 1844, the piece was performed five times at the Kungliga Teatern (the Royal Opera). During the second half of the 1840’s, Säfström lived in Copenhagen in order to study music. Around 1850 he returned to Stockholm and began to work actively as a translator and transcriber of predominantly French and German plays, but also as the author of his own works. The pieces Säfström translated or wrote were not performed at the Kungliga Teatern, but at the private theatres which had begun to compete for the Stockholm audience in the late 1840’s. Säfström also began a long-term collaboration with Ladugårdslandsteatern (a theatre at Östermalmstorg in Stockholm). Over twenty works by Säfström were staged at this theatre, together with music by the theatre’s orchestra conductor, E. Becker. The repertoire was dominated by comedies in one or two acts. One of the most successful shows was Malins korgar a ‘vaudeville-monologue’, which Säfström rewrote after the Danish original, with music arranged by Johan Wilhelm Söderman. It was staged at the popular theatres Davidsons paviljong, Södra teatern, Mindre teatern, Humlegårdsteatern and Ladugårdslandsteatern over 100 times during the years 1850−63. Flickorna på Söder was a ‘dramatic joke in two scenes with songs’ written by Säfström, with music arranged by J.W. Söderman. During the 1850’s it was staged nearly 50 times at several of Stockholm’s theatres. However, these works were exceptions. Usually plays were performed at theatres for only one season. Thus, there was a great demand for new plays, and Säfström, with his translations and authorship, was an important intermediary of current plays. Existing melodies were most often used within this genre, with new texts by the author and music arranged by the theatre’s orchestra conductor. One must therefore assume that Säfström only wrote the music to the plays in exceptional cases. Säfström was also a contributing writer for Tidning för Musik 1854−56, and published a collection of poems in the 1850’s. Works Säfström’s songs in the comic opera Fiskarstugan were arranged by Andreas Randel. In a coeval review, Säfström’s lack of experience as a composer was mentioned, although he was also complemented for his sense of ‘beautiful melodies’. This description can also be applied to the songs with accompaniment which Säfström wrote outside the theatre business. One of Säfström’s most famous songs was ‘Sjung liten fågel’ (Sing Little Bird), a tune in classical style with chordal accompaniment. This song infiltrated the music-making home audience through the collection of typical of the times parlour music Med gitarren i hand (With Guitar in Hand), published in the late 1890’s. A couple of duets from the 1840’s have been linked to several famous singers at the Kungliga Operan. ‘Ungdomsminnet’ (Memory of Youth) for two sopranos was dedicated to the singers Elma Ström and Julia Widerberg, while ‘Soldaternas farväl’ (the Soldiers’ Farewell) for tenor and bass was dedicated to Isidor Dannström and Olof Strandberg; the latter sung in performances of Fiskarstugan . The duets are written in a classical style but with lyrics fluctuating between various subjects. While the women sing about longing for youth, the men sing about their country and comrades in battle. A consistent motion of quavers in the accompaniment of ‘Ungdomsminnet’ provides an undulating rhythm in 12/8. This is combined with a slow-paced melancholic text, underlying the character of quiet retrospection. ‘Soldaternas farväl’ has a clear march character, which is achieved partly with a melody dominated by broken triads and dotted rhythms in a solid 4/4 tempo. The music works together with the content of the text, conveying a sense of action and ambition. Regardless of whether or not he was a talented composer, one can conclude that Säfström was capable of depicting emotional character in his music as a result of his familiarity with contemporary musical conventions. Karin Hallgren © 2015 Trans. Thalia Thunander",
+  "publications": "Säfström's play scripts Flickorna på Söder, 1849. Flickorna på norr, 1851. Amuletten, 1852. Gubben på rendezvous, 1852. Studenten och hans älskarinna, 1852. Nipperboden, 1853. Malins korgar, 1853. Malins bröllop, 1854. Trädgårdsflickan, 1854. En fru som har ledsamt, 1856. Den förtrollade prinsen, 1859. På Hasselbacken, 1860. I Tyskbagarbergen, 1861. Lilla Joujou, 1861. Också en Orpheus i underjorden, 1861. Skarpskyttarne, 1861. Säfström's writings Skymnings-qvitter: rimmade småsaker. Stockholm: Bonnier, 1853.",
+  "bibliography": "Dahlgren, F A : Anteckningar om Stockholms theatrar, Stockholm, 1866. Hofberg, Herman: 'Thure August Säfström', in: Svenskt biografiskt handlexikon , Stockholm: Bonnier, 1906. Nordin Hennel, Ingeborg : Mod och försakelse: livs- och yrkesbetingelser för Konglig Theaterns skådespelerskor 1813−1863 , Stockholm: Gidlunds, 1997. 'August Säfström', in: Svensk Musiktidning , no. 8, 1888.",
+  "sources": null,
+  "links": [],
+  "works_summary": "1 comic opera (Fiskarstugan), incidental music (Flickorna på Söder, Studenten och hans älskarinna), songs.",
+  "works": [
+    {
+      "category": "Operetta / Comic opera",
+      "title": "Fiskarstugan [The fisherman's cottage]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/safstrom-august/SMH-W6428-Fiskarstugan_The_fishermans_cottage",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Sånger ur operetten Fiskar-Stugan [Songs from the operetta Fiskar-Stugan (The fisherman's cottage)]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/safstrom-august/SMH-W6128-Sanger_ur_operetten_Fiskar-Stugan_Songs_from_the_operetta_Fiskar-Stuga",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "safstrom-august"
+}

@@ -1,0 +1,74 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/anduaga-forssling-manolita-de/",
+  "title": "Manolita de Anduaga (1875−1968)",
+  "name": "Manolita de Anduaga",
+  "years": "1875−1968",
+  "description": "Manolita de Anduaga, married name Forssling, later Rosetti, later Andolfi, born in Stockholm 4 August 1875, died in Rome 23 March 1968. Concert pianist and composer.",
+  "birth": {
+    "place": "Stockholm",
+    "date": "4 August 1875",
+    "raw": "born in Stockholm 4 August 1875"
+  },
+  "death": {
+    "place": "Rome",
+    "date": "23 March 1968",
+    "raw": "died in Rome 23 March 1968"
+  },
+  "biography": "Manolita de Anduaga’s path is a difficult one to trace. She lived a life on the move, which means that her biographical information can be found in several quarters. In addition she was married three times and performed under different last names, a fact that makes her elusive for music historians. Background Manolita de Anduaga was born in Stockholm in 1875. She was the daughter of the Spanish diplomat (secretary of the Spanish legation) in Stockholm, Frederico José Raymundo de Anduaga y Luna (1841−1877), and his wife, Hedvig Kristina (neé Thyselius, 1849−1927), who was herself the daughter of Charlotta Thyselius (neé Melart, 1828−1902) and Carl Johan Thyselius (1811−1891) − the first commoner to become Prime Minister of Sweden. Previously Thyselius had been the Minister of Education and Religion as well as Minister of Public Administration. At the age of five Manolita de Anduaga moved to Rome with her mother and stepfather − after her father’s death in 1877 in St. Petersburg her mother remarried the Swedish Minister (a diplomatic position ranked just below that of ambassador) in Rome at the time. Manolita moved back to Sweden, however, in the beginning of 1890. We know from this information that Manolita de Anduaga grew up in an environment with international contacts and with politics close at hand – which also certainly included interests in culture and music. Music studies in Stockholm and Berlin Manolita began her music studies already during her childhood years in Rome. In Stockholm she studied piano technique with Richard Andersson, the leading name among piano teachers of the time. Her fellow classmates included the likes of Wilhelm Stenhammar. Additionally we know that she later continued her studies in Berlin, where she lived with her first husband for the first years of the 20 th century. There she had lessons with the Venezuelan pianist and composer, Teresa Carreño and the Portuguese piano teacher José Vianna da Motta. Manolita de Anduaga performed as both a solo pianist and together with singers. It is difficult to know the extent of her concert activities since there is no systematically compiled information. One review of a performance in Stockholm in 1904 describes her positive growth as a pianist: ‘One remembers from Richard Andersson’s student exhibitions this young lady’s nervously sophisticated style; now it is much more poised and polished’ (Svenska Dagbladet 8/1 1904). Familial constellations Manolita de Anduaga was married three times. In 1896 came her first engagement to Oskar Ström, a second lieutenant (underlöjtnant) at the Livregementets dragoner (The Life Regiment Dragoons, a regiment of mounted infantry based in Stockholm). Between the years 1898−1906 she was married to Ivar Enoch Forssling (1867−1942), an officer in the reserves and a certified gymnastics instructor. Her second husband was the Italian artist Luigi Rosetti (1881−1912) who committed suicide at their divorce court proceedings. ‘It is reported that the grounds of the divorce proceedings was an affair that Mrs. Rosetti was having with the editor of a Roman music journal’ (Kalmar 19/6 1912). She entered her third marriage in 1913 with the cellist and writer Otello Andolfi (1887−1971), the editor of whom the above quote speaks. Together they performed both in Sweden and in his homeland of Italy. Between Italy and Sweden The Andolfis lived in Italy but spent WWI in Sweden, including in the town of Falun. They returned to Italy in 1921. During their years in Sweden they opened a ‘Scuola italiana di musica’ in Stockholm. Both they and Giovanni Turicchia taught there, who was the concertmaster in the Kungliga Hovkapellet (the Royal Court Orchestra) at the time. An advertisement states that Manolita de Anduaga as a pianist had been a student of ‘Richard Andersson, X. Scharwenka, L. Borwick, Moszkowski, Sgambati och Teresa Carreño’ (Svenska Dagbladet 21/3 1915). In Rome Manolita de Anduaga performed as a pianist, although only a few of her concerts are known to posterity. In 1911 she gave a solo concert in connection with the 100-year celebration of Franz Liszt’s birth. She is also said to have, ‘to great acclaim’, given a series of ‘historical concerts, which presented a strict sequence of various composers’ (Svenska Dagbladet 18/4 1915). Furthermore, there is evidence that she performed at Dadaist events with works by the avant-garde of the time, including Arnold Schönberg, Igor Stravinsky and Julius Evola. Manolita de Anduaga died in Rome in 1968. Extant works Her creative output as a composer is not large, at least when one considers the few extant works. She was the composer of a smaller number of songs − some of which were published in Stockholm. Presumably she composed during her many years in Italy, although there is no known trace of her work there. Gunnar Ternhag trans. Jill Ann Johnson, Nicole Vickers",
+  "publications": null,
+  "bibliography": null,
+  "sources": "Musik- och teaterbiblioteket",
+  "links": [],
+  "works_summary": "Songs, including ‘Og der gik Dage’, ‘Det er Sommerkvæld som da’.",
+  "works": [
+    {
+      "category": "Voice and piano",
+      "title": "Berceuse opus 3",
+      "opus": "3",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anduaga-forssling-manolita-de/SMH-W181-Berceuse",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Canzonetta Frascatana, Musica di Manolita de Anduaga-Rossetti",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anduaga-forssling-manolita-de/SMH-W203-Canzonetta_Frascatana_Musica_di_Manolita_de_Anduaga-Rossetti",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Det er Sommerkveld som da, Wieder Sommerabend lacht",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anduaga-forssling-manolita-de/SMH-W102-Det_er_Sommerkveld_som_da_Wieder_Sommerabend_lacht",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Im Park, I Parken [In the park]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anduaga-forssling-manolita-de/SMH-W182-Im_Park_I_Parken_In_the_park",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Og der gik Dage, Es gingen Tage",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anduaga-forssling-manolita-de/SMH-W101-Og_der_gik_Dage_Es_gingen_Tage",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Traurig sind meine Lieder, Sorgligt min sång nu klingar",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anduaga-forssling-manolita-de/SMH-W183-Traurig_sind_meine_Lieder_Sorgligt_min_sang_nu_klingar",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "anduaga-forssling-manolita-de"
+}

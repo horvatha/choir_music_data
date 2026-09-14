@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/ulrika-eleonora-da-drottning/",
+  "title": "Drottning Ulrika Eleonora [d.ä.] (1656-1693)",
+  "name": "Drottning Ulrika Eleonora [d.ä.]",
+  "years": "1656-1693",
+  "description": "Drottning Ulrika Eleonora föddes den 11 september 1656 på Köpenhamns slott (Danmark) och avled på Karlbergs slott (Stockholm) den 26 juli 1693. Hon är begravd i Riddarholmskyrkan (Stockholm). Gift med kung Karl XI den 5 maj 1680 på Skottorps slott (Halland). Hon ska ha haft särdeles goda språkkunskaper och var skicklig i teckning och målning.",
+  "birth": {
+    "place": null,
+    "date": "11 september 1656",
+    "raw": "föddes den 11 september 1656"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "Dansk biografisk leksikon / grundlagt af C.F. Bricka; redigeret af Povl Engelstoft under medvirkning af Svend Dahl. København : Schultz, 1933-1944, band 24 (1943)",
+  "sources": "Uppsala Universitetsbibliotek",
+  "links": [],
+  "works_summary": "Under uppbyggnad",
+  "works": [],
+  "slug": "ulrika-eleonora-da-drottning"
+}

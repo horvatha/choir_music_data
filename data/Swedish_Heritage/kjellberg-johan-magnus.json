@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/kjellberg-johan-magnus/",
+  "title": "Johan Magnus Kjellberg (1757-1791)",
+  "name": "Johan Magnus Kjellberg",
+  "years": "1757-1791",
+  "description": "Troligen född slutet av 1757. Avliden i Hovförsamlingen, Stockholm, 1 juni 1791 (med uppgift om att hans ålder då var 33 år 6 mån). Inträdde 1779 eller 1780 som violinist på operastaten, därefter hovstaten. Solistmedverkan 1781 vid konsert dirigerad av Uttini. Detta är en av de tonsättare som den svenska arbetsgruppen av \"Répertoire international des sources musicales\" har speciellt ansvar för. (ref. Mattias Lundberg)",
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": "Hovförsamlingen, Stockholm,",
+    "date": "1 juni 1791",
+    "raw": "Avliden i Hovförsamlingen, Stockholm, 1 juni 1791"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "Karle, Gunhild: Kungl. Hovkapellet i Stockholm och dess musiker 1772-1818. Uppsala (2000)",
+  "sources": "Musikmuseet Stockholm",
+  "links": [],
+  "works_summary": "Under uppbyggnad",
+  "works": [],
+  "slug": "kjellberg-johan-magnus"
+}

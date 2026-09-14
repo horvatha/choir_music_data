@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/brendler-johann-franz/",
+  "title": "Johann Franz Brendler (1773-1807)",
+  "name": "Johann Franz Brendler",
+  "years": "1773-1807",
+  "description": "Johann Franz (Johan Frans) Brendler föddes i Dresden 1773. Avled i S:ta Eugenia Katolska församling, Stockholm, den 12 juni 1807. Flöjtist i Kungl. Hovkapellet i Stockholm. Far till tonsättaren Frans Fredrik Eduard Brendler (1800-1831). Nämnd i Carl Nissers Svensk Instrumentalkomposition 1770-1830, Nominalkatalog, Stockholm 1943.",
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": "S:ta Eugenia Katolska församling, Stockholm,",
+    "date": "12 juni 1807",
+    "raw": "Avled i S:ta Eugenia Katolska församling, Stockholm, den 12 juni 1807"
+  },
+  "biography": "Musiker (flöjtist) från Dresden som flyttade till Stockholm 1802 och blev medlem av Kungl. Hovkapellet. Gift med Henriette Louise Stölzel. Far till tonsättaren Frans Fredrik Eduard Brendler (1800-1831).",
+  "publications": null,
+  "bibliography": null,
+  "sources": null,
+  "links": [],
+  "works_summary": "Försv.",
+  "works": [],
+  "slug": "brendler-johann-franz"
+}

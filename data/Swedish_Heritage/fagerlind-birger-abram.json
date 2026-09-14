@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/fagerlind-birger-abram/",
+  "title": "Birger Abram [Abraham] Fagerlind (1767-1813)",
+  "name": "Birger Abram [Abraham] Fagerlind",
+  "years": "1767-1813",
+  "description": "Birger Abram [Abraham enligt födelseboken] föddes i Berga församling (Ljungby) den 14 december 1767. Avled i Jönköping Sofia församling den 21 april 1813. Chirurg (enligt kyrkböckerna), prästman (enligt andra källor; möjligen förväxling med 'prästson' eller beroende på hans avhandling). Disputerade i Lund 1791 med avhandlingen 'In dictum Apost. I Cor. XI:9 de Bove triturante non capistrando Annotationes Philologicæ'.",
+  "birth": {
+    "place": "Berga församling (Ljungby)",
+    "date": "14 december 1767",
+    "raw": "föddes i Berga församling (Ljungby) den 14 december 1767"
+  },
+  "death": {
+    "place": "Jönköping Sofia församling",
+    "date": "21 april 1813",
+    "raw": "Avled i Jönköping Sofia församling den 21 april 1813"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "Lundin, August Herman : Skånska nationen i Lund. Biografiska och genealogiska anteckningar . Lund (1882) Nisser, Carl : Svensk instrumentalkomposition 1770-1830. Nominalkatalog (1943)",
+  "sources": "Musik- och teaterbiblioteket",
+  "links": [],
+  "works_summary": "Deux Pièces pour Le Clavecin ou Piano Forte Dediées [sic] à Monsieur Charles Fr. Fallén Maitre [sic] en Philosophie &amp; Coc: à L'academie de Lund: Moderato c-moll respektive Rondo Allegretto F-dur Klarinettmusik",
+  "works": [],
+  "slug": "fagerlind-birger-abram"
+}

@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/odencrants-gerhard/",
+  "title": "Gerard Odencrants (1888-1967)",
+  "name": "Gerard Odencrants",
+  "years": "1888-1967",
+  "description": "Gerard (Gerhard) Hartvig Odencrants föddes enligt Uddevalla församlings födelsebok i Göteborg den 11 augusti 1888. Avled i Engelbrekts församling, Stockholm, den 23 juni 1967. Läkare och tonsättare. Studerade musikämnen för Ruben Liljefors. Verksam som läkare i Stockholm 1927-67.",
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": "Engelbrekts församling, Stockholm,",
+    "date": "23 juni 1967",
+    "raw": "Avled i Engelbrekts församling, Stockholm, den 23 juni 1967"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "H G-m : Odencrants, släkt , i: Svenskt biografiskt lexikon , bd 28, 1992-94",
+  "sources": null,
+  "links": [],
+  "works_summary": "1 orkestersvit, 1 stråktrio, pianoverk, sånger.",
+  "works": [],
+  "slug": "odencrants-gerhard"
+}

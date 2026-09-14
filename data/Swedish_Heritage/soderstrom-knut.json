@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/soderstrom-knut/",
+  "title": "Knut Söderström (1878-1952)",
+  "name": "Knut Söderström",
+  "years": "1878-1952",
+  "description": "Knut Widolf (Vidolf) Söderström föddes i Järvsö församling den 31 mars 1878. Avled i Ludvika församling den 24 juli 1952. Efter att ha avlagt musikdirektör-, organist-, kyrkosångar- och musiklärarexamen var han verksam som musiklärare vid Kjellström-Sydowska musikinstitutet i Stockholm. 1915 blev han organist i Ludvika. Var även ledare för såväl orkesterföreningar som körer.",
+  "birth": {
+    "place": "Järvsö församling",
+    "date": "31 mars 1878",
+    "raw": "föddes i Järvsö församling den 31 mars 1878"
+  },
+  "death": {
+    "place": "Ludvika församling",
+    "date": "24 juli 1952",
+    "raw": "Avled i Ludvika församling den 24 juli 1952"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": null,
+  "sources": null,
+  "links": [],
+  "works_summary": "I sommarnatt (vals), Frisk bris (polka), barnvisor m m",
+  "works": [],
+  "slug": "soderstrom-knut"
+}

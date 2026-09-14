@@ -1,0 +1,34 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/tullberg-otto/",
+  "title": "Otto Tullberg (1802-1853)",
+  "name": "Otto Tullberg",
+  "years": "1802-1853",
+  "description": "Otto Fredrik Tullberg föddes i Nöbbele församling (Växjö) den 26 september 1802. Avled i Uppsala domkyrkoförsamling den 12 april 1853. Tonsättare och orientalist. Inledde studier i Uppsala 1832, docent i österländska språk 1832, professor i detta ämne 1843. Deltog i grundadet av Allmänna Sången 1830.",
+  "birth": {
+    "place": "Nöbbele församling (Växjö)",
+    "date": "26 september 1802",
+    "raw": "föddes i Nöbbele församling (Växjö) den 26 september 1802"
+  },
+  "death": {
+    "place": "Uppsala domkyrkoförsamling",
+    "date": "12 april 1853",
+    "raw": "Avled i Uppsala domkyrkoförsamling den 12 april 1853"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": "Strödda anmärkningar rörande Indien och sanskritlitteraturen. Uppsala 1839 Hebreisk läsebok med anmärkningar och ordregister. Uppsala 1845: Leffler och Sebell På biblioteket - där har jag min största förnöjelse: en svensk orientalists brev till sin hustru från lärdomscentra i Europa under 1800-talets förra hälft : ett urval med inledning och kommentarer. Stockholm 1972: Almqvist &amp; Wiksell",
+  "bibliography": "Grönberg, Lennart : Otto Fredrik Tullberg. Uppsala (1950) Jagesten, Thore : Fyra bröder, i I Värend och Sunnerbo (1998). 2007(48):3, s. 11-13 Rundgren, Claes Herman: Minnes-ord då konungens trotjenare professoren i österländska litteraturen vid Upsala kongl. academi mag. Otto Fredrik Tullberg jordfästades i Upsala domkyrka den 19 april 1853 . Uppsala (1853)",
+  "sources": "Uppsala universitetsbibliotek",
+  "links": [],
+  "works_summary": "Under uppbyggnad",
+  "works": [
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Marsch den 6 november [March on 6 November] (\"Hjältar, som bedjen\")",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/tullberg-otto/SMH-W6252-Marsch_den_6_november_March_on_6_November_Hjaltar_som_bedjen",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "tullberg-otto"
+}

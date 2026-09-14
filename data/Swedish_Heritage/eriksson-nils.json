@@ -1,0 +1,50 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/eriksson-nils/",
+  "title": "Nils Eriksson (1902-1978)",
+  "name": "Nils Eriksson",
+  "years": "1902-1978",
+  "description": "Nils Fredrik Eriksson föddes i Norrköpings Matteus församling den 3 september 1902. Avled i samma församling den 12 mars 1978. Tonsättare, organist, violinist och dirigent. Huvudsakligen verksam i Norrköping. Denne tonsättares verk skyddas fortfarande av upphovsrätten och ingår därför inte i Levande Musikarvs utgivning. För mer information om liv och verk hänvisar vi till Svensk Musiks hemsida.",
+  "birth": {
+    "place": "Norrköpings Matteus församling",
+    "date": "3 september 1902",
+    "raw": "föddes i Norrköpings Matteus församling den 3 september 1902"
+  },
+  "death": {
+    "place": "samma församling",
+    "date": "12 mars 1978",
+    "raw": "Avled i samma församling den 12 mars 1978"
+  },
+  "biography": "Studerade för Ernst Ellberg (1868-1948) och Otto Olsson (1879-1964) vid Musikkonservatoriet i Stockholm. Han avlade organistexamen 1927 samt musiklärarexamen 1929. Han var violinist i Norrköpings orkesterförening 1921-23. Åren 1929-68 var han organist och kantor i Norrköpings Matteus församling. Från 1941 även dirigent i Linköpings stifts kyrkosångsförbund.",
+  "publications": null,
+  "bibliography": "Wallner, Bo: artikeln \"Eriksson, Nils\" (Sohlmans musiklexikon, band 2, s 475 (1975)",
+  "sources": null,
+  "links": [],
+  "works_summary": "Orkesterverk (bl a \"Lyrisk svit\" och ouvertyren \"Shanghai\"), Violinkonsert g-moll, flöjtkonsert, fagottkonsert, verk för kör (bl a \"Svensk mässa\", kantater, motetter, hymner, mm)",
+  "works": [
+    {
+      "category": "Orchestral works in several movements",
+      "title": "Elegiacal Suite",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/eriksson-nils/SMH-W1094-Elegiacal_Suite",
+      "has_published_edition": false
+    },
+    {
+      "category": "Violin and orchestra",
+      "title": "Concerto in G minor for violin and orchestra",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/eriksson-nils/SMH-W1085-Concerto_in_G_minor_for_violin_and_orchestra",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir with solo voice(s) and orchestra",
+      "title": "Swedish Mass, for recitation, mixed choir and chamber orchestra",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/eriksson-nils/SMH-W1110-Swedish_Mass_for_recitation_mixed_choir_and_chamber_orchestra",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "eriksson-nils"
+}

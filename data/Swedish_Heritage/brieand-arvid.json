@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/brieand-arvid/",
+  "title": "Arvid Brieand (1885-1963)",
+  "name": "Arvid Brieand",
+  "years": "1885-1963",
+  "description": "Arvid Olof Vilhelm Brieand (f Nilsson), föddes i Lomma församling den 8 augusti 1885. Avled i Värmdö församling den 3 oktober 1963. Köpman, sångare, sångpedagog och sångtonsättare. Studerade musik i Stockholm och Berlin. Från 1921 bosatt i Stockholm.",
+  "birth": {
+    "place": "Lomma församling",
+    "date": "8 augusti 1885",
+    "raw": "föddes i Lomma församling den 8 augusti 1885"
+  },
+  "death": {
+    "place": "Värmdö församling",
+    "date": "3 oktober 1963",
+    "raw": "Avled i Värmdö församling den 3 oktober 1963"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "Forslin, Alfhild : Runeberg i musiken . Helsingfors: Svenska litteratursällskapet, s. 35",
+  "sources": "Uppsala universitetsbibliotek, Musik- och teaterbiblioteket",
+  "links": [],
+  "works_summary": "Sånger, m m",
+  "works": [],
+  "slug": "brieand-arvid"
+}

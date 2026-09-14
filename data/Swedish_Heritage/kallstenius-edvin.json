@@ -1,0 +1,98 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/kallstenius-edvin/",
+  "title": "Edvin Kallstenius (1881-1967)",
+  "name": "Edvin Kallstenius",
+  "years": "1881-1967",
+  "description": "Edvin Kallstenius, född i Filipstad 29 augusti 1881, död i Stockholm 22 november 1967. Tonsättare och musikadministratör. Tog studenten i Helsingborg 1898 och fortsatte studeirena vid naturvetenskapliga fakulteten vid Lunds universitet 1898-1904. Sedan studerade han komposition vid Musikkonservatoriet i Leipzig 1904-07 för tonsättaren Stephan Krehl (1864-1924), varefter han bodde omväxlande i Lund och Leipzig fram till 1915, då han bosatte sig i Stockholm. Musikkritiker i Lunds Dagblad och Folkets Tidning i Lund 1908-10 samt i Svenska Dagbladet 1927-28. Musikbibliotekarie vid AB Radiotjänst 1928-46. Ledamot av Föreningen Svenska Tonsättares styrelse 1933-61, samt i STIM:s styrelse 1939-57. LMA.",
+  "birth": {
+    "place": "Filipstad",
+    "date": "29 augusti 1881",
+    "raw": "född i Filipstad 29 augusti 1881"
+  },
+  "death": {
+    "place": "Stockholm",
+    "date": "22 november 1967",
+    "raw": "död i Stockholm 22 november 1967"
+  },
+  "biography": "-",
+  "publications": "Edvin Kallstenius om sig själv, i Musikvärlden (1948) Verket, exekutören och tonsättaren, i Musikvärlden (1949) Original det enda \"rätta\"?, i Musikrevy (1950) Min första symfoni mot bakgrunden av allmänna och speciella drag i mitt komponerande, i Modern nordisk musik (1957) Musiktermer . 8. uppl. Stockholm (1986)",
+  "bibliography": "Bengtsson, Ingmar (red.): Modern nordisk musik: fjorton tonsättare om egna verk . Stockholm (1957) Castegren, Nils : Kallstenius, Edvin i Svenskt biografisk lexikon , bd 20 (1973/75) Franzén, A : artikel i Sohlmans Musiklexikon , band 3, s 758-759 (Stockholm 1976) Hedwall, Lennart: 3 x Dalarapsodi, i Alfvéniana, 1997:1, s. 3-9 Liljefors, Ingemar : Till minnet av Edvin Kallstenius, i Musikrevy (1968) Lindberg, Folke : Sveriges Radios musikbibliotek, en undersökning om dess tillkomst och första år , i Svensk tidskrift för musikforskning (1961) Reimers, Lennart : artikel i Die Musik in Geschichte und Gegenwart 7 (1958) Seymer, William : artikel i Svenska Män och Kvinnor , band 4, s 162 (Bonniers förlag, Stockholm 1948) Wallin, Nils L : Edvin Kallstenius, i Musikrevy (1952) Wallner, Bo : Vår tid musik i Norden. Stockholm (1968)",
+  "sources": "Lunds universitetsbibliotek, Musik- och teatermuseet Stockholm, Musik- och teaterbiblioteket, Stockholms stadsarkiv, Teaterhistoriska museet Göteborg, Kungl. Musikaliska akademien (ledamotformulär nr 90)",
+  "links": [],
+  "works_summary": "5 symfonier, 4 sinfoniettor, verk för orkester (bl a \"Dalarapsodi\", \"Scherzo fugato\", \"Allegro sinfonico\", \"Tragisk uvertyr\"), \"Cavatina\" för violin och orkester, \"Sinfonia concertata\" för piano och orkester, \"Sonata concertante\" för cello och orkester), 8 stråkkvartetter, kammarmusikverk (bl a Violinsonat e-moll op 7, Sonat för violoncell och orkester, Klarinettkvintett, Sonat för soloviolin op 62, Sonat för solocello), sånger med piano, sånger med orkester (bl a \"Sångoffer\"), verk för kör (bl a \"När vi dö\" — ett svenskt requiem, flera kantater)",
+  "works": [
+    {
+      "category": "Orchestral works in one movement",
+      "title": "Dalarapsodi, ('Dalecarlia'), Erste schwedische Rhapsodie, 1:st Swedish rhapsody opus 18",
+      "opus": "18",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/kallstenius-edvin/SMH-W2403-Dalarapsodi_Dalecarlia_Erste_schwedische_Rhapsodie_1st_Swedish_rhapsod",
+      "has_published_edition": false
+    },
+    {
+      "category": "Orchestral works in several movements",
+      "title": "Väckarepolska and Serenade, from Divertimento alla Serenata opus 14",
+      "opus": "14",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/kallstenius-edvin/SMH-W2402-Vackarepolska_and_Serenade_from_Divertimento_alla_Serenata",
+      "has_published_edition": false
+    },
+    {
+      "category": "Violin and piano",
+      "title": "Sonata for violin and piano opus 7",
+      "opus": "7",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/kallstenius-edvin/SMH-W1074-Sonata_for_violin_and_piano",
+      "has_published_edition": false
+    },
+    {
+      "category": "String trio",
+      "title": "String trio opus 61",
+      "opus": "61",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/kallstenius-edvin/SMH-W356-String_trio",
+      "has_published_edition": false
+    },
+    {
+      "category": "String quartet",
+      "title": "[Movement 2 from] Five Sketches for String Quartet ,",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/kallstenius-edvin/SMH-W362-Movement_2_from_Five_Sketches_for_String_Quartet",
+      "has_published_edition": false
+    },
+    {
+      "category": "String quartet",
+      "title": "Divertimento alla Serenata, ('På serenad') ('Wir bringen eine Serenade'), String Quartet no. 4, 4.tes Streichquartett opus 14",
+      "opus": "14",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/kallstenius-edvin/SMH-W2404-Divertimento_alla_Serenata_Pa_serenad_Wir_bringen_eine_Serenade_String",
+      "has_published_edition": false
+    },
+    {
+      "category": "String quartet",
+      "title": "Quartet 3 opus 8",
+      "opus": "8",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/kallstenius-edvin/SMH-W340-Quartet_3",
+      "has_published_edition": false
+    },
+    {
+      "category": "5 Instruments",
+      "title": "Clarinet Quintet opus 17",
+      "opus": "17",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/kallstenius-edvin/SMH-W425-Clarinet_Quintet",
+      "has_published_edition": false
+    },
+    {
+      "category": "Chamber ensemble (7 or more instruments)",
+      "title": "Suite for 9 [nine] instruments opus 23 b",
+      "opus": "23",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/kallstenius-edvin/SMH-W1176-Suite_for_9_nine_instruments",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "kallstenius-edvin"
+}

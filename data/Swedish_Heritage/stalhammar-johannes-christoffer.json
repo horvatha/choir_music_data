@@ -1,0 +1,34 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/stalhammar-johannes-christoffer/",
+  "title": "Johannes Christoffer Stålhammar (1868-1900)",
+  "name": "Johannes Christoffer Stålhammar",
+  "years": "1868-1900",
+  "description": "Johannes Christoffer Stålhammar, född i S:ta Klara församling, Stockholm, 30 december 1868. Avled i Hedvig Eleonora församling (Stockholm) 1 maj 1900. Organist och tonsättare. Studerade vid Konservatoriet i Stockholm 1886-90, tf organist i St Jacobs kyrka, Stockholm, 1889-91.",
+  "birth": {
+    "place": "S:ta Klara församling, Stockholm,",
+    "date": "30 december 1868",
+    "raw": "född i S:ta Klara församling, Stockholm, 30 december 1868"
+  },
+  "death": {
+    "place": "Hedvig Eleonora församling (Stockholm)",
+    "date": "1 maj 1900",
+    "raw": "Avled i Hedvig Eleonora församling (Stockholm) 1 maj 1900"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": null,
+  "sources": null,
+  "links": [],
+  "works_summary": "verk för piano, orgel, violin",
+  "works": [
+    {
+      "category": "Piano",
+      "title": "Elegi [Elegy]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/stalhammar-johannes-christoffer/SMH-W1653-Elegi_Elegy",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "stalhammar-johannes-christoffer"
+}

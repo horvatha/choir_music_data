@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/milveden-ingmar/",
+  "title": "Ingmar Milveden (1920-2007)",
+  "name": "Ingmar Milveden",
+  "years": "1920-2007",
+  "description": "Tonsättare, musikforskare och organist. Jan Ingmar Georg (f. Carlsson) föddes den 15 februari 1920 i Göteborgs Kristine församling. Avled i Uppsala domkyrkoförsamling den 16 september 2007. Son till kyrkomusikern Werther Carlsson och hans hustru, sångerskan Emma, född Christensson. Huvudsakligen verksam i Uppsala. Som tonsättare ägnade han sig mestadels åt musik för kyrkliga sammanhang: motetter, psalmmelodier, större verk för röster och instrumentalensemble, etc. Hans forskningsintresse rörde svensk gregorianik.",
+  "birth": {
+    "place": null,
+    "date": "15 februari 1920",
+    "raw": "föddes den 15 februari 1920"
+  },
+  "death": {
+    "place": "Uppsala domkyrkoförsamling",
+    "date": "16 september 2007",
+    "raw": "Avled i Uppsala domkyrkoförsamling den 16 september 2007"
+  },
+  "biography": "-",
+  "publications": "Fragment av en hittills okänd Historia de BMV in Visitatione. Lund: Gleerup, 1963 Manuskript, Mönch och Mond: ein Hauptteil des Cod. Upsal. C 23 in quellenkritischer Beleuchtung . Stockholm: 1964 Om kyrkomusik under nordisk medeltid: artiklar ur Kulturhistoriskt lexikon för nordisk medeltid. Till Ingmar Milveden 15.2. 1970 från vännerna vid Institutionen för musikvetenskap, Uppsala universitet. Uppsala, 1970 Zu den liturgischen Hystorie in Schweden: liturgie- und choralgeschichtliche Untersuchungen. Diss. (sammanfattning) Uppsala: Uppsala universitet. 1972 Sjungen ödmjukhet. [Appendix till] Andreas Lindblom: Vadstena klosters öden . Vadstena 1973, s. 145–159. Per omnia humilis reflexioner kring en birgittinsk sångspegel. Svenskt Gudstjänstliv. 49 (1974), s. 35-48. Stella Maria maris paris expers: om och kring Pseudo-Brynolf Mariahystoria. Maria i Sverige under tusen år - Red.: Sven-Erik Brodd &amp; Alf Härdelin. 1. 1996, s. 181-226.",
+  "bibliography": "Folke Bohlin: Minnesord över Ingmar Milveden. KMA:s årsskrift 2007 , s. 72-73.",
+  "sources": "Uppsala universitetsbibliotek",
+  "links": [],
+  "works_summary": "Orkesterverk (varav flera med körmedverkan), kammarmusik, körverk (främst med kyrkliga texter), verk för röst och piano, orgelverk samt psalmmelodier.",
+  "works": [],
+  "slug": "milveden-ingmar"
+}

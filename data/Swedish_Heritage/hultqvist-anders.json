@@ -1,0 +1,34 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/hultqvist-anders/",
+  "title": "Anders Hultqvist (1955-)",
+  "name": "Anders Hultqvist",
+  "years": "1955-",
+  "description": "För aktuell verkförteckning och biografisk information om nu levande tonsättare hänvisar vi till Svensk Musik och tonsättarens egen hemsida.",
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "biography": "Anders HULTQVISTs egen hemsida",
+  "publications": null,
+  "bibliography": null,
+  "sources": null,
+  "links": [],
+  "works_summary": "---",
+  "works": [
+    {
+      "category": "Orchestral works in one movement",
+      "title": "Skog III [Forest III]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/hultqvist-anders/SMH-W7328-Skog_III_Forest_III",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "hultqvist-anders"
+}

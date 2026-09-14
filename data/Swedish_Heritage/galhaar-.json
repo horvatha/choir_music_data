@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/galhaar-/",
+  "title": "Carl Sigismund Gelhaar (1767-1814)",
+  "name": "Carl Sigismund Gelhaar",
+  "years": "1767-1814",
+  "description": "Carl Sigismund Gelhaar (enligt vissa källor Geelhaar, även Galhaar förekommer) föddes i Dresden 1767. Avled i Tyska S:ta Gertruds församling (Stockholm) den 11 mars 1814. Verksam i Kungl. Hovkapellet som klarinettist och pukslagare. Far till oboisterna Bror August och Fredrik Otto samt flöjtisten Christian August (samtliga hovkapellister). Även hans tre döttrar var mycket musikaliska och trakterade flöjt, violin och violoncell. Nämnd i Carl Nissers Svensk Instrumentalkomposition 1770-1830, Nominalkatalog, Stockholm 1943.",
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": "Tyska S:ta Gertruds församling (Stockholm)",
+    "date": "11 mars 1814",
+    "raw": "Avled i Tyska S:ta Gertruds församling (Stockholm) den 11 mars 1814"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "Nisser, Carl: Svensk Instrumentalkomposition 1770-1830, Nominalkatalog (1943)",
+  "sources": null,
+  "links": [],
+  "works_summary": "Trio för två violiner och violoncell Ess-dur",
+  "works": [],
+  "slug": "galhaar-"
+}

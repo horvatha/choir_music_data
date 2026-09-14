@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/provost-heinz/",
+  "title": "Heinz Provost (1891-1959)",
+  "name": "Heinz Provost",
+  "years": "1891-1959",
+  "description": "Heinz Provost (f. Ferdinand Heinrich Proboscht), född i Wien den 12 maj 1891, död i Stockholm den 24 februari 1959 (hans adress var då Baden bei Wien, Österrike). Pianist och tonsättare. Var verksam i Örebro i början av 1930-talet och deltog 1935 i en av Svensk Filmindustri (SF) utlyst tävling om musiken till filmen \"Intermezzo\", som han vann med stycket \"Souvenir de Vienne\". I slutet av 1940-talet bosatte han sig i Stockholm, där han blev kvar till sin död.",
+  "birth": {
+    "place": "Wien",
+    "date": "12 maj 1891",
+    "raw": "född i Wien den 12 maj 1891"
+  },
+  "death": {
+    "place": "Stockholm",
+    "date": "24 februari 1959",
+    "raw": "död i Stockholm den 24 februari 1959"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": null,
+  "sources": null,
+  "links": [],
+  "works_summary": "kammarmusik, filmmusik, mm",
+  "works": [],
+  "slug": "provost-heinz"
+}

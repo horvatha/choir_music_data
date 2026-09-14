@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/konig-johan-adolf-benjamin/",
+  "title": "Johan Adolf (Adolph) Benjamin König (1764-1854)",
+  "name": "Johan Adolf (Adolph) Benjamin König",
+  "years": "1764-1854",
+  "description": "Född i S:ta Klara församling, Stockholm, 19 januari 1764. Avled i Kungsholms församling (Stockholm) 5 juni 1854. Överste. Nämnd i Carl Nissers Svensk Instrumentalkomposition 1770-1830, Nominalkatalog, Stockholm 1943.",
+  "birth": {
+    "place": "S:ta Klara församling, Stockholm,",
+    "date": "19 januari 1764",
+    "raw": "Född i S:ta Klara församling, Stockholm, 19 januari 1764"
+  },
+  "death": {
+    "place": "Kungsholms församling (Stockholm)",
+    "date": "5 juni 1854",
+    "raw": "Avled i Kungsholms församling (Stockholm) 5 juni 1854"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "Nisser, Carl: Svensk Instrumentalkomposition 1770-1830, Nominalkatalog (Stockholm, 1943)",
+  "sources": null,
+  "links": [],
+  "works_summary": "Pianoverk Adagio Ess-dur [för pianoforte] Andante con Expressione g-moll [för pianoforte]",
+  "works": [],
+  "slug": "konig-johan-adolf-benjamin"
+}

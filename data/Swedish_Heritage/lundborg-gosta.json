@@ -1,0 +1,42 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/lundborg-gosta/",
+  "title": "Gösta Lundborg (1903-1966)",
+  "name": "Gösta Lundborg",
+  "years": "1903-1966",
+  "description": "Nils Gösta Lundborg, född i Fläckebo församling (Sala) 20 januari 1903. Avled i Vasa församling, Göteborg, 26 november 1966. Organist och tonsättare. Studerade vid Musikkonservatoriet i Stockholm där han avlade organistexamen 1921 och musiklärar- och kyrkosångarexamen 1923. Han studerade även orgelspel i Hamburg för organisten Alfred Sittard (1878-1942). Åren 1926-29 ledde han Bellmankören i Stockholm. Därefter var han 1930-54 organist och kantor i Gamlestadens församling, Göteborg, för att sedan verka som domkyrkoorganist i Göteborg 1955-66. Han var även musiklärare vid Vasa allmänna läroverk 1942-54.",
+  "birth": {
+    "place": "Fläckebo församling (Sala)",
+    "date": "20 januari 1903",
+    "raw": "född i Fläckebo församling (Sala) 20 januari 1903"
+  },
+  "death": {
+    "place": "Vasa församling, Göteborg,",
+    "date": "26 november 1966",
+    "raw": "Avled i Vasa församling, Göteborg, 26 november 1966"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": "Från lyra till saxofon (tillsammans med T Holmsten och B Anrep-Nordin, 1941)",
+  "bibliography": "Malmberg, Helge : artikel i Sohlmans Musiklexikon , band 4, s 384 (Stockholm, 1977)",
+  "sources": null,
+  "links": [],
+  "works_summary": "verk för orgel, solosånger, verk för kör (med och utan ackompanjemang)",
+  "works": [
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Det vackraste",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/lundborg-gosta/SMH-W1870-Det_vackraste",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Visa i Juli, [From Three Songs]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/lundborg-gosta/SMH-W1495-Visa_i_Juli_From_Three_Songs",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "lundborg-gosta"
+}

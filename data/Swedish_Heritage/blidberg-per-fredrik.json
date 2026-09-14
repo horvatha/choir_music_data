@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/blidberg-per-fredrik/",
+  "title": "Per Fredrik Blidberg (1784-1866)",
+  "name": "Per Fredrik Blidberg",
+  "years": "1784-1866",
+  "description": "Per Fredrik Blidberg. Född 30 juli 1784 i Tjällmo församling (Motala), död 10 september 1866 i Klara församling, Stockholm. Tonsättare, musikkritiker, sångare, verksam i Stockholm. LMA.",
+  "birth": {
+    "place": "Tjällmo församling (Motala)",
+    "date": "30 juli 1784",
+    "raw": "Född 30 juli 1784 i Tjällmo församling (Motala)"
+  },
+  "death": {
+    "place": "Klara församling",
+    "date": "10 september 1866",
+    "raw": "död 10 september 1866 i Klara församling"
+  },
+  "biography": "Under studieåren i Linköping fick han musikundervisning av Adolph Mecklin (1761-1802, kyrkomusiker, tonsättare och poet). Blidberg bedrev senare studier vid Uppsala Universitet. För försörjningen arbetade han som protokollsekreterare i lantbruksdepartementet från 1817. Han var under en tid musikkritiker i Dagligt Allehanda. Invald i Kungl. Musikaliska akademien 18 mars 1848, som ledamot nr 315.",
+  "publications": null,
+  "bibliography": null,
+  "sources": null,
+  "links": [],
+  "works_summary": "framför allt sånger med piano",
+  "works": [],
+  "slug": "blidberg-per-fredrik"
+}

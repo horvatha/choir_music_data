@@ -1,0 +1,50 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/brandh-constance/",
+  "title": "Constance Brandh (1810-1901)",
+  "name": "Constance Brandh",
+  "years": "1810-1901",
+  "description": "Constance (Adolphina/Adolfina Constantia) Brandh föddes i Storkyrkoförsamlingen, Stockholm, den 12 januari 1810. Avled i Katarina församling (Stockholm), den 6 november 1901.",
+  "birth": {
+    "place": "Storkyrkoförsamlingen, Stockholm,",
+    "date": "12 januari 1810",
+    "raw": "föddes i Storkyrkoförsamlingen, Stockholm, den 12 januari 1810"
+  },
+  "death": {
+    "place": "Katarina församling (Stockholm),",
+    "date": "6 november 1901",
+    "raw": "Avled i Katarina församling (Stockholm), den 6 november 1901"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "Öhrström, Eva : Borgerliga kvinnors musicerande i 1800-talets Sverige. Diss. Göteborg (1987) S. 201",
+  "sources": "Musik- och teaterbiblioteket",
+  "links": [],
+  "works_summary": "Pianoverk (Variationer för pianoforte ur Frithiofs saga, Eugenia-wals, m fl)",
+  "works": [
+    {
+      "category": "Piano",
+      "title": "Etude i ciss-moll för Piano-forte [Etude in C-sharp minor for the Piano-forte] opus 7",
+      "opus": "7",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/brandh-constance/SMH-W4588-Etude_i_ciss-moll_for_Piano-forte_Etude_in_C-sharp_minor_for_the_Piano",
+      "has_published_edition": false
+    },
+    {
+      "category": "Piano",
+      "title": "Polka de Salon opus 6",
+      "opus": "6",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/brandh-constance/SMH-W4589-Polka_de_Salon",
+      "has_published_edition": false
+    },
+    {
+      "category": "Piano",
+      "title": "Variationer för pianoforte öfver en favoritmelodie ur Frithiofs Saga [Variations for pianoforte over a favourite melody from Frithiof's Saga]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/brandh-constance/SMH-W4590-Variationer_for_pianoforte_ofver_en_favoritmelodie_ur_Frithiofs_Saga_V",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "brandh-constance"
+}

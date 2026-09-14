@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/naezen-daniel-eric/",
+  "title": "Daniel Eric Naezén (1752-1808)",
+  "name": "Daniel Eric Naezén",
+  "years": "1752-1808",
+  "description": "Läkare, pianist och tonsättare. Föddes den 27 februari 1752 i Skövde stadsförsamling, avled den 1 december 1808 i Umeå stadsförsamling.",
+  "birth": {
+    "place": null,
+    "date": "27 februari 1752",
+    "raw": "Föddes den 27 februari 1752"
+  },
+  "death": {
+    "place": "Umeå stadsförsamling",
+    "date": "1 december 1808",
+    "raw": "avled den 1 december 1808 i Umeå stadsförsamling"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "Nisser, Carl : Svensk Instrumentalkomposition 1770-1830, Nominalkatalog. Stockholm (1943) Sandblad, Henrik : Daniel Erik Naezén , i Svenskt biografiskt lexikon, bd 26 (1987-89)",
+  "sources": null,
+  "links": [],
+  "works_summary": "Pianoverk",
+  "works": [],
+  "slug": "naezen-daniel-eric"
+}

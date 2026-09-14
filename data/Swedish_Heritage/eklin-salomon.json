@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/eklin-salomon/",
+  "title": "Salomon Eklin (1756-1803)",
+  "name": "Salomon Eklin",
+  "years": "1756-1803",
+  "description": "Född i Växjö sannolikt den 5 (senast den 7) mars 1756, avliden där den 15 augusti 1803. Studerade i Uppsala från den 7 oktober 1774, disputerade där 1777. Magister 1779, Cantor Figurativus i Växjö 1780 (titeln avser särskild musiklärare vid Växjö gymnasium; posten inrättades 1649), kantor i Växjö domkyrka.",
+  "birth": {
+    "place": "Växjö sannolikt den 5 (senast den 7) mars 1756, avliden där",
+    "date": "15 augusti 1803",
+    "raw": "Född i Växjö sannolikt den 5 (senast den 7) mars 1756, avliden där den 15 augusti 1803"
+  },
+  "death": {
+    "place": "Växjö sannolikt den 5 (senast den 7) mars 1756, avliden där",
+    "date": "15 augusti 1803",
+    "raw": "avliden där den 15 augusti 1803"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "Gustafsson, Magnus: \"Innehållet ej användbart för denna tid...\": om Theorins och Vieslanders notböcker, i Musikrevy, 1991 (46:4), s. 213-215 Gustafsson, Magnus : \"Vare underviste i rudimentus musicae\": musiken vid skola och gymnasium i 1700-talets Växjö, i Linné : en småländsk resa , 2006, s. 72-93 Massengale, James Rhea: Bellmaniana in the Contradance book of Salomon Eklin, i Gustav III and the Swedish stage. Bertil H. van Boer (ed.), 1993, s. 147-165 Sitell, Knut: Musiken i Växjö domkyrka, i I Värend och Sunnerbo . 1992(33):1, s. 20-21 Hjelmerus, Jonas Zacharias : Matrikel öfver Wexiö stifts tjenstemän, utgifven den 1 september 1799. Wexiö Uppsala universitets matrikel, band 3 (1750-1800) Orgelgruppen i Växjö : Växjö domkyrkas organister, kantorer och klockare 1647-2003. Växjö (2004)",
+  "sources": "Kalmar läns museum, Växjö stadsbibliotek (avd. Stiftsbiblioteket), Smålands musikarkiv Växjö",
+  "links": [],
+  "works_summary": "Under uppbyggnad",
+  "works": [],
+  "slug": "eklin-salomon"
+}

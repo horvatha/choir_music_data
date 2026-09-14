@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/reddevigh-carl-fredrik/",
+  "title": "Carl Fredrik Reddewigh (1750-1827)",
+  "name": "Carl Fredrik Reddewigh",
+  "years": "1750-1827",
+  "description": "Född i Maria Magdalena församling (Stockholm) den 1 februari 1750. Avled i Jakob och Johannes församling (Stockholm) den 25 december 1827. Altviolinist och tonsättare. Son till Johan Hinrich Reddewigh, kanslist och envoyé vid ryska legationen i Stockholm. Anställd på operastaten som altviolinist ca 1774, definitiv anställning 1776. Från 1812 violinist i orkestern vid Kungl. Dramatiska teatern. Även altviolinist i Frimurarordens orkester. Ordenskapellmästare i Par Bricole efter J Chr F Haeffner. Nämnd i Carl Nissers Svensk Instrumentalkomposition 1770-1830, Nominalkatalog, Stockholm 1943.",
+  "birth": {
+    "place": "Maria Magdalena församling (Stockholm)",
+    "date": "1 februari 1750",
+    "raw": "Född i Maria Magdalena församling (Stockholm) den 1 februari 1750"
+  },
+  "death": {
+    "place": "Jakob och Johannes församling (Stockholm)",
+    "date": "25 december 1827",
+    "raw": "Avled i Jakob och Johannes församling (Stockholm) den 25 december 1827"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "Karle, Gunhild : Kungl. Hovkapellet i Stockholm och dess musiker 1772-1818 . Uppsala Nisser, Carl : Svensk Instrumentalkomposition 1770-1830 , Nominalkatalog (Stockholm, 1943) [Här stavas efternamnet Reddevigh.]",
+  "sources": "Musik- och teaterbiblioteket",
+  "links": [],
+  "works_summary": "Duos för violin och viola",
+  "works": [],
+  "slug": "reddevigh-carl-fredrik"
+}

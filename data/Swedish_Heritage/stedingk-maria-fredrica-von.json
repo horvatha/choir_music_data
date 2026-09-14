@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/stedingk-maria-fredrica-von/",
+  "title": "Maria Fredrica von Stedingk (1799-1868)",
+  "name": "Maria Fredrica von Stedingk",
+  "years": "1799-1868",
+  "description": "Maria Fredrica (Fredrika) von Stedingk, föddes i Sankta Katarina (svenska) församling, Sankt Petersburg den 31 oktober 1799. Avled i S:ta Klara församling, Stockholm, den 15 juni 1868. Hovfröken (hos drottning Desideria) och tonsättare.",
+  "birth": {
+    "place": "Sankta Katarina (svenska) församling, Sankt Petersburg",
+    "date": "31 oktober 1799",
+    "raw": "föddes i Sankta Katarina (svenska) församling, Sankt Petersburg den 31 oktober 1799"
+  },
+  "death": {
+    "place": "S:ta Klara församling, Stockholm,",
+    "date": "15 juni 1868",
+    "raw": "Avled i S:ta Klara församling, Stockholm, den 15 juni 1868"
+  },
+  "biography": "Hon var dotter till fältmarskalken med mera greve Curt (Bogislaus Ludvig Christoffer) von Stedingk och Ulrika Fredrika Ekström. Föräldrarna gifte sig först 1804. Till Stedingks kompositioner hör Nocturne för melodiinstrument (upptecknad av Mathilda Berwald). Mathilda d'Orozco tillägnade henne Sex Sånger för Piano (1842).",
+  "publications": null,
+  "bibliography": null,
+  "sources": null,
+  "links": [],
+  "works_summary": "bl a Nocturne för melodiinstrument (upptecknad av Mathilda Berwald)",
+  "works": [],
+  "slug": "stedingk-maria-fredrica-von"
+}

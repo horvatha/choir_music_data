@@ -1,0 +1,34 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/soderman-fritz/",
+  "title": "Fritz Söderman (1838−1883)",
+  "name": "Fritz Söderman",
+  "years": "1838−1883",
+  "description": "Fredrik (Fritz) Adolph Christopher Söderman was born on 4 January 1838 in Stockholm and died on 15 July 1883 in the same city. He was employed as a cellist in the Royal Court Orchestra for the majority of his life. His half-brother August Söderman was a successful composer. Fritz Söderman’s compositions consisted mainly of songs with piano accompaniment. He became a member of the Royal Swedish Academy of Music in 1866.",
+  "birth": {
+    "place": "Stockholm",
+    "date": "4 January 1838",
+    "raw": "born on 4 January 1838 in Stockholm and died"
+  },
+  "death": {
+    "place": "the same city",
+    "date": "15 July 1883",
+    "raw": "died on 15 July 1883 in the same city."
+  },
+  "biography": "Life Fritz Söderman was born into a family of musicians. His father Johan Wilhelm was an orchestra conductor at the Stockholm theatres Djurgårdsteatern and the Södra teatern, and his well-known half-brother August was a composer, musician and assistant conductor of the Kungliga Teatern (the Royal Opera). In the autumn of 1856 Fritz travelled to the music conservatory in Leipzig to take lessons in music theory and cello. While August, who was employed at the Mindre teatern in Stockholm, received a grant from the theatre director Edvard Stjernström also to study in Leipzig, Fritz’s stay was presumably financed by his father. In a letter to the brothers from Johan Wilhelm Söderman in February 1857, he concedes to their request for additional financial help while at the same time admonishing them to be more frugal with the money. August returned to Stockholm in the summer of 1857, while Fritz remained in Leipzig a little longer. In his role as orchestra conductor for the Mindre teatern, August planned a reorganisation of the theatre’s instrumental ensemble. The group would consist of a permanently employed string quartet that would then be supplemented with additional musicians according to the theatre’s needs. August had the idea that the quartet’s cello role would be filled by his bother Fritz. The creation of a permanent string quartet never materialised at the Mindre teatern and neither did a job for Fritz. Instead, in the summer of 1859 Fritz was employed as a cellist in the Hovkapellet (the Royal Court Orchestra), a post he would hold for much of his work life, up until 1878. It is unclear why he eventually quit this position, but from 1878 until his death in 1883 he worked as a librarian at the Kungliga Musikaliska akademien (the Royal Swedish Academy of Music). The musicians in the Hovkapellet also performed chamber music, commonly for various kinds of subscription events. Söderman often played in these quartet concerts. Works by Haydn, Mozart, Beethoven and Schubert were part of the repertoire, which, among others, included the Danish composer Niels W. Gade and the Swedish Franz Berwald as part of the programme. During the 1860s and 1870s, the Hovkapellet became more strongly connected to the Kungliga Musikaliska akademien’s conservatory. After completing their final examinations, students from the conservatory could be employed in the Hovkapellet and sometimes even had the opportunity to participate in certain concerts as students. The conservatory’s violin and cello teachers were drawn from the Hovkapellet’s musicians. Fritz Söderman was a cello teacher during1866−67, followed the next year by his colleague from the Hovkapellet, cellist Andreas Gehrman. Works There is very little documentation about Söderman’s compositions. Composer J.P. Cronhamn, in a letter from 1871, states that Söderman composed works for cello as well as writing music for the comic opera En galgfågel and the lyrical drama Madonnabilden , both of which were performed at the Kungliga Teatern. Except for a preserved Andante for cello there is no other information about these compositions. Söderman’s extant compositions consist of a number of songs with piano accompaniment, all of which were published. The songs are smaller works with a singable melody and a regular, strophic form. The musical compositions of the texts are consistently syllabic. The accompaniment follow, for the most part, the singing parts, but also give a romantic feeling to the songs through suspensions and chordal colouration. Despite the fact that these are comparatively short songs, modulations occur quite often, as in ‘Kyrkan i skogen’, ‘Aning’, and three songs to texts from Idyll och Epigram by Johan Ludvig Runeberg: ‘Minna satt i lunden’, ‘Förr när min vän var här’ and ‘Vid en flickas fönster’. While the author of the text to ‘Kyrkan i skogen’ is unknown, ‘Aning’ is set to a poem by Edvard Bäckström – a very popular poet of the time. The song was published in the Ny Illustrerad Tidning from 1876 as a special insert with advertisements on one side and the musical notation on the other. Exploitation of the growing pressure to spread notation for home music making became common in the second half of the 19 th century. The three songs to Runeberg’s texts were also published in the same way, as inserts in Ny Illustrerad Tidning . Karin Hallgren © 2015 Trans. Jill Ann Johnson",
+  "publications": null,
+  "bibliography": "Dahlgren, Fredrik August : Anteckningar om Stockholms theatrar , Stockholm: Norstedt, 1866. Hallgren, Karin: Borgerlighetens teater: Om verksamhet, musiker och repertoar vid Mindre Teatern i Stockholm 1842−1863 , diss., Uppsala University, 2000. Jeanson, Gunnar : August Söderman: En svensk tondiktares liv och verk , Stockholm: Bonnier, 1926. Lomnäs, Erling (ed.): Franz Berwald. Die Dokumente seines Lebens , Kassel: Bärenreiter, 1979. Morales, Olallo &amp; Tobias Norlind : Kungl. Musikaliska akademien 1771−1921: Minnesskrift, Stockholm: Bröderna Lagerströms förlag, 1921. Norlind, Tobias &amp; Emil Trobäck : Kungl. Hovkapellets historia 1526−1926: Minnesskrift , Stockholm: Wahlström &amp; Widstrand, 1926.",
+  "sources": null,
+  "links": [],
+  "works_summary": "Comic opera (En galgfågel), lyrical drama (Madonnabilden), chamber music (Andante for cello), songs with piano accompaniment.",
+  "works": [
+    {
+      "category": "Cello and piano",
+      "title": "Andante för Violoncello [Andante for the violoncello]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/soderman-fritz/SMH-W1510-Andante_for_Violoncello_Andante_for_the_violoncello",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "soderman-fritz"
+}

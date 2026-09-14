@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/petterson-petter/",
+  "title": "Petter Petterson (1813-1891)",
+  "name": "Petter Petterson",
+  "years": "1813-1891",
+  "description": "(Pehr) Petter Pet(t)terson föddes den 17 februari 1813 i Gottröra församling (Norrtälje). Avled på Karlberg, Solna församling, den 18 augusti 1891. Sångpedagog, kyrkomusiker och tonsättare. Studerade vid Musikaliska akademiens undervisningsverk (sannolikt) 1828-33, t f sånglärare där 1835, samma år som han startade ett sånginstitut i Stockholm. Organist i Karlbergs slottskapell 1850, musiklärare vid Krigsskolan där 1850-1873.",
+  "birth": {
+    "place": null,
+    "date": "17 februari 1813",
+    "raw": "föddes den 17 februari 1813"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "biography": "Petter Petterson invaldes som agré nr 3 i Kungl. Musikaliska akademien den 17/6 1834 och blev ledamot nr 30 den 10/6 1843.",
+  "publications": null,
+  "bibliography": "Wennerström, Thorsten : Kungl. krigsakademien och Kungl. krigsskolan: åren 1792-1935, personhistoriska uppgifter . Stockholm (1936)",
+  "sources": null,
+  "links": [],
+  "works_summary": "Sånger för manskör, en kantat (1847)",
+  "works": [],
+  "slug": "petterson-petter"
+}

@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/taube-evert/",
+  "title": "Evert Taube (1890-1976)",
+  "name": "Evert Taube",
+  "years": "1890-1976",
+  "description": "Axel Evert Taube föddes den 12 mars 1890 i det s k Keillerska huset (numera rivet) med adress Stora Badhusgatan 7/Bryggaregatan i Göteborg (där farfadern bodde), men skrevs in i födelseboken för Styrsö församling. Avled i Maria församling, Stockholm, den 31 januari 1976. Hör till en obetitlad gren av den tysk-baltiska adliga ätten Taube. Författare, kompositör, trubadur, konstnär. Ledamot av Kungl. Musikaliska akademien. Även argentisk medborgare.",
+  "birth": {
+    "place": null,
+    "date": "12 mars 1890",
+    "raw": "föddes den 12 mars 1890"
+  },
+  "death": {
+    "place": "Maria församling, Stockholm,",
+    "date": "31 januari 1976",
+    "raw": "Avled i Maria församling, Stockholm, den 31 januari 1976"
+  },
+  "biography": "Invald i Kungl. Musikaliska akademien den 15 oktober 1970, som ledamot nr 743.",
+  "publications": null,
+  "bibliography": null,
+  "sources": null,
+  "links": [],
+  "works_summary": "Visor och sånger",
+  "works": [],
+  "slug": "taube-evert"
+}

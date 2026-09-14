@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/grill-adolf-ulrik/",
+  "title": "Adolf Ulrik Grill (1752-1797)",
+  "name": "Adolf Ulrik Grill",
+  "years": "1752-1797",
+  "description": "Adolf Ulrik (Adolph Ulric/Ulrich) Grill föddes i Stockholm (oklart vilket datum), döptes den 10 mars 1752 i Tyska S:ta Gertruds församling (Stockholm. Avled på Söderfors bruk i Söderfors församling (Tierp) den 1 oktober 1797. Bruksägare, samlare av naturalier och amatörtonsättare. Gift med sin kusin Anna Johanna Grill. Undervisades i musik av Johan Wikmanson. Grill höll hemkonserter i sin bostad i det s k Grillska huset vid Stortorget i Stockholm, senare också i Söderfors herrgård.",
+  "birth": {
+    "place": "Stockholm (oklart vilket datum), döptes",
+    "date": "10 mars 1752",
+    "raw": "föddes i Stockholm (oklart vilket datum), döptes den 10 mars 1752"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "biography": "Adolf Ulrik Grill invaldes som ledamot nr 45 i Kungl. Musikaliska akademien den 16 juni 1772.",
+  "publications": null,
+  "bibliography": "Nisser, Carl : Svensk Instrumentalkomposition 1770-1830, Nominalkatalog (1943) Sjöberg, Sven : Adolf Ulrik Grill , i Svenskt biografiskt lexikon , bd 17 (1967-69)",
+  "sources": "Musik- och teaterbiblioteket",
+  "links": [],
+  "works_summary": "Pianoverk",
+  "works": [],
+  "slug": "grill-adolf-ulrik"
+}

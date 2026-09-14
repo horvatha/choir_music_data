@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/beer-johann-adolph/",
+  "title": "Johann Adolph Beer (1792-1864)",
+  "name": "Johann Adolph Beer",
+  "years": "1792-1864",
+  "description": "Johann Adolph Ferdinand Beer (tilltalsnamn Johann, enligt Sohlmans musiklexikon 1975, enligt andra källor var tilltalsnamnet Adolph; enligt KMA:s förteckning verkar det ha varit Johann Adolph). Föddes den 3 september i 1792 i Hamburg (Tyskland). Avled i Berlin den 30 december 1864. Violinist och tonsättare, verksam i Stockholm i Kungl. Hovkapellet 1822-34. Åren 1834-44 arbetade han vid Kejserliga operan i Sankt Petersburg och var därefter bosatt i Berlin. Han gästade dock Stockholm 1860-61. LMA.",
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": "Berlin",
+    "date": "30 december 1864",
+    "raw": "Avled i Berlin den 30 december 1864"
+  },
+  "biography": "Beer var avlägset släkt med tonsättaren Giacomo Meyerbeer. Åren 1822-34 var han anställd som violinist i Kungl. Hovkapellet i Stockholm, från 1832 som konsertmästare. Tillsammans med sin hustru, som var pianist, bedrev han omfattande kammarmusikverksamhet i Stockholm. Mellan 1834 och 1844 arbetade han vid Kejserliga operan i St. Petersburg och var därefter bosatt i Berlin. Han gästade dock Stockholm 1860-61. Invald i Kungl. Musikaliska akademien den 30 november 1827, som ledamot nr 249.",
+  "publications": null,
+  "bibliography": null,
+  "sources": null,
+  "links": [],
+  "works_summary": "\"Thema med Introduktion och variationer\" E-dur [för orkester] [Ouverture för orkester] 1er Concert pour le Violon avec accompagnement de l'Orchestre composé et dedié [sic] à Monsieur G. Müller Maître de Concert de S. A. le Duc de Bronswic par A. Beer Maître de Concert de S. M. le Roi de Suede [sic] et Norwege etc. etc. etc. [sic] A-dur [Violinkonsert] [Air varié] för violin och orkester Polonoise [sic] pour le Violon avec accompagnement de Violon, Viola et Violoncelle, composée et dediée [sic] à son ami O. J. Arenander à Stockholm, Opus 3 Morceaux de Salon pour Violon et Piano: Nr 1 Allegro molto moderato quasi andante D-dur Nr 2 Allegro vivace E-dur Nr 3 Andante con moto d-moll Nr 4 Allegro molto agitato a-moll Nr 5 Grave e-moll - Allegro passionato e-moll Nr 6 Andantino moto [sic] G-dur Nr 7 Allegro moderato a-moll Nr 8 Andante non troppo (Liebeslied) A-dur Nr 9 Recit. - Adagio - Allegro - Andante - Andante non troppo - Allegro tempo primo - Polka B-dur Trois grands duos Concertants pour deux Violons [Rondo och variationer för violin på romancen utur \"Joseph\" af Méhul] [Riksdags-Walsen för Piano Forte] E-dur",
+  "works": [],
+  "slug": "beer-johann-adolph"
+}

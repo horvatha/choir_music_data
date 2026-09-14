@@ -1,0 +1,130 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/jacobsson-john/",
+  "title": "John Jacobsson (1835−1909)",
+  "name": "John Jacobsson",
+  "years": "1835−1909",
+  "description": "John (Jacques) Jacobsson, born on 2 August 1835 in Stockholm and died in the same place on 4 June 1919, was a music dealer, composer and organist. He was employed at Edvard Josephson’s music business in 1849, was the owner of that business during 1861−1876 as well as Edvard Josephson’s piano and organ store from 1870 until 1898. He became a music dealer for the royal court in 1870 and was an organist at the Great Synagogue of Stockholm during 1870−1890. As a composer he was recognised during his lifetime for his numerous songs. In 1866 he was awarded the Swedish royal medal Litteris et artibus, and in 1888 he became a member of the Royal Swedish Academy of Music.",
+  "birth": {
+    "place": "Stockholm",
+    "date": "2 August 1835",
+    "raw": "born on 2 August 1835 in Stockholm and died"
+  },
+  "death": {
+    "place": "the same place",
+    "date": "4 June 1919",
+    "raw": "died in the same place on 4 June 1919"
+  },
+  "biography": "Background, studies and time as a music dealer John Jacobsson was the son of the clothing manufacturer, Herman Jacobsson and his wife Sare (neé Assur), and grew up in a Jewish home with strong musical interests. He received his basic music education from his mother who was a singer – having been the student of the singing master for the Kungliga Teatern (the Royal Opera), Carl Magnus Craelius. In 1849 he was employed at Edvard Josephson’s music and piano store. Josephson introduced Jacobsson to Ludvig Norman who gave him lessons in composition, harmony and piano. Jacobsson also studied organ with Gustaf Mankell and, for a short time, was a composition student of Franz Berwald. Because he was working, he was not able to study at the conservatory and so pursued his music studies privately. John Jacobsson eventually took over and successfully ran the whole of Josephson’s music business; the music dealership in 1861 and the piano store in 1870. Beginning in 1870 he was also named a music dealer for the Swedish royal court. His yearly music business trips abroad gave him the opportunity to familiarise himself with contemporary music trends on the European continent. During trips to Germany he also pursued his studies in composition with the orchestra conductor, Gustav Schmidt. In 1876 Jacobsson sold his music business to Georges Wilhelm Beer, but retained the piano store. Work for the Mosaic congregation During 1870−90 John Jacobsson was the organist and choir leader for the Mosaic (Jewish) congregation in Stockholm where he composed liturgical music for Jewish worship services. At the time, most of Stockholm’s Jewish families had roots in Germany. Through these family connections and professional networks within German-speaking Europe, they had an important role as purveyors of cultural trends from the continent to Sweden. Jacobsson was the first organist for the new synagogue, located on Stockholm’s Wahrendorffsgatan, and he composed a cantata for the 1870 inauguration. The Jewish congregation in Stockholm was strongly reform-oriented, closely linked to the liberal German-Jewish reform movement of the time. The organ, which has no place in traditional ‘orthodox’ synagogues, was a powerful symbol for the efforts of modernization that were aimed at developing a liturgy that used art music as a starting point – often in stark contrast to the esthetic of traditional cantorial singing. Jacobsson seems to have associated himself to the liturgical forms that were influenced by the famous Viennese cantor, Salomon Sulzer, which the congregation considered exemplary. After twenty years of service, Jacobsson was dismissed on 2 March 1890 after a dispute with a choir member. The congregation’s records show that Jacobsson had long had tense relationships with the leadership as well other associates in the congregation. Besides these facts about Jacobsson’s career, information about him as a person and a musician is scant. He was a member of the Par Bricole society, which suggests that he willingly participated in a musical social life. However, in general it seems that he lived a withdrawn life as a bachelor, mainly devoting himself to his many musical activities – with which, not the least through his music business, he had an important role in the musical life of Stockholm. The Composer Jacobsson John Jacobsson’s creative productivity reflects many of the stylistic impulses that reached Swedish music life after the middle of the 19 th century – mainly from Felix Mendelssohn and Robert Schumann – but also from contemporary Scandinavian composers. Perhaps his least remarkable compositions are his chamber music works, which are well done, but fairly conventionally formulated. Jacobsson became known largely through his songs. In these songs, his versatility and ability to create a renewed expression comes out. Development of style, among others a deepened application of Schumman’s stylistic tools, can be followed in the reworking of certain works. Virtually all branches of the genre are represented in Jacobsson’s output: songs written in folk style, comic songs, large arranged ballad works, mood-creating emotional songs. To a large extent, he used texts from German authors. Not least of all, through his focus on contemporary German music and through his transformations of impulses from that direction in his work, Jacobsson is one of the most representative agents for the wide spreading of trends in music of his time. This also applies to his activities within the Stora synagogan in Stockholm. It can be noted here that Jacobsson also composed Catholic sacred music – a mass and a musical setting of a passage from Stabat mater (‘Quando morietur …’). Anders Hammarlund © 2016 Trans. Jill Ann Johnson",
+  "publications": null,
+  "bibliography": "Helmer, Axel : Svensk solosång 1850−1890 , diss., Stockholm: Svenskt musikhistoriskt arkiv, 1972. Helmer, Axel : ‘John Jacobsson’, in: Svenskt biografiskt lexikon, vol. 20, Stockholm: Svenskt biografiskt lexikon, 1973−75. Glimstedt, Herman : ‘John Jacobsson’, in: Svenska män och kvinnor , vol. 4, Stockholm: Bonnier, 1948. ‘John Jacobsson’ [obituary], Svensk Musiktidning , vol. 29, 1909. Wiberg, Albert: Den svenska musikhandelns historia , Stockholm: Svenska musikhandlareföreningen, 1955. Åkerberg, Erik : Musiklifvet inom Par Bricole 1779−1890: biografiska skizzer och anteckningar , Stockholm: Bonnier, 1910.",
+  "sources": null,
+  "links": [],
+  "works_summary": "Operetta (Ungmors kusin), orchestral works (overtures, marches, celebratory music etc.), chamber music (string quartet, piano quartet, piano trio etc.), piano works, church music (Catholic mass, etc.), Jewish liturgical music, songs (ca. 130, with piano accompaniment, some with orchestra), choral works.",
+  "works": [
+    {
+      "category": "Male choir a cappella",
+      "title": "Vid Festpokalen",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/jacobsson-john/SMH-W5123-Vid_Festpokalen",
+      "has_published_edition": true
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Flygtigt [Transient]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/jacobsson-john/SMH-W6365-Flygtigt_Transient",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "I Solnedgången [At sunset]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/jacobsson-john/SMH-W6366-I_Solnedgangen_At_sunset",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Italiensk Serenad [Italian serenade]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/jacobsson-john/SMH-W6367-Italiensk_Serenad_Italian_serenade",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Lönnen [The maple]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/jacobsson-john/SMH-W6368-Lonnen_The_maple",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Saga på Kämpens hög [Saga on the Warrior's mound]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/jacobsson-john/SMH-W6371-Saga_pa_Kampens_hog_Saga_on_the_Warriors_mound",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Vid Mälarns strand. Cavatina [On the shore of Lake Malar. Cavatina]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/jacobsson-john/SMH-W6372-Vid_Malarns_strand_Cavatina_On_the_shore_of_Lake_Malar_Cavatina",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Vårsång [Spring song]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/jacobsson-john/SMH-W6370-Varsang_Spring_song",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Önskevisa [Wishing song]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/jacobsson-john/SMH-W6369-Onskevisa_Wishing_song",
+      "has_published_edition": false
+    },
+    {
+      "category": "Piano",
+      "title": "Idyll [Idyl] (Idylle) opus 22",
+      "opus": "22",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/jacobsson-john/SMH-W1040-Idyll_Idyl_Idylle",
+      "has_published_edition": false
+    },
+    {
+      "category": "Piano",
+      "title": "Lyriskt intermezzo [Lyrical intermezzo]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/jacobsson-john/SMH-W6373-Lyriskt_intermezzo_Lyrical_intermezzo",
+      "has_published_edition": false
+    },
+    {
+      "category": "Piano",
+      "title": "Under Stjernorna [Under the stars], Sous les étoiles, SÉRÉNADE",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/jacobsson-john/SMH-W2094-Under_Stjernorna_Under_the_stars_Sous_les_etoiles_SERENADE",
+      "has_published_edition": false
+    },
+    {
+      "category": "3 Instruments",
+      "title": "Three pieces for Clarinet, Viola and Piano opus 45",
+      "opus": "45",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/jacobsson-john/SMH-W383-Three_pieces_for_Clarinet_Viola_and_Piano",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "jacobsson-john"
+}

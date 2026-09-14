@@ -1,0 +1,34 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/lowegren-ludvig/",
+  "title": "Ludvig Löwegren (1817-1894)",
+  "name": "Ludvig Löwegren",
+  "years": "1817-1894",
+  "description": "Ludvig Leonard Löwegren, föddes i Storkyrkoförsamlingen (Stockholm) den 15 december 1817, avled i Alingsås stadsförsamling den 15 juni 1894. Militär (major), pianist och tonsättare. Kapten vid Kongl. Westgötha-Dals regemente. Bror till C E Löwegren som var musikalisk ledare vid flera regementen.",
+  "birth": {
+    "place": "Storkyrkoförsamlingen (Stockholm)",
+    "date": "15 december 1817",
+    "raw": "föddes i Storkyrkoförsamlingen (Stockholm) den 15 december 1817"
+  },
+  "death": {
+    "place": "Alingsås stadsförsamling",
+    "date": "15 juni 1894",
+    "raw": "avled i Alingsås stadsförsamling den 15 juni 1894"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": null,
+  "sources": null,
+  "links": [],
+  "works_summary": "Verk för piano",
+  "works": [
+    {
+      "category": "Piano",
+      "title": "Trois Nocturnes pour le Piano par Louis [sic] Löwegren opus 3 nr 1-3",
+      "opus": "3",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/lowegren-ludvig/SMH-W4291-Trois_Nocturnes_pour_le_Piano_par_Louis_sic_Lowegren",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "lowegren-ludvig"
+}

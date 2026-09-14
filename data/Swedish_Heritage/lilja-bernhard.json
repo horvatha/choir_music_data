@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/lilja-bernhard/",
+  "title": "Bernhard Lilja (1895-1984)",
+  "name": "Bernhard Lilja",
+  "years": "1895-1984",
+  "description": "Bernhard Josef Lilja, född i Stockholm 2 januari 1895, död Stockholm 26 mars 1984. Tonsättare och musikpedagog. Studerade på Musikkonservatoriet i Stockholm 1915-19 (komposition för Harald Fryklöf, komposition och kontrapunkt för Ernst Ellberg) samt utomlands. Lärare vid Karl Wohlfarts musikskola 1918-27, vid Richard Anderssons musikskola 1933-43, samt lärare i piano och musikteori vid Operahögskolan i Stockholm 1936-43. Lärare i musik- och gehörslära vid Musikhögskolan i Stockholm 1928-60, samt lärare i piano vid samma skola 1931-38. Professors namn 1954. LMA",
+  "birth": {
+    "place": "Stockholm",
+    "date": "2 januari 1895",
+    "raw": "född i Stockholm 2 januari 1895"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "biography": "Gift 1930 med Ebba Kjellberg. Invald i Kungl. Musikaliska akademien den 24 februari 1949, som ledamot nr 656. Styrelseledamot i Kungl. Musikaliska akademien 1941-43.",
+  "publications": "Gehörslära: orientering i dur- och molltonart . Stockholm (1982)",
+  "bibliography": "Brandel, Åke : artikel i Sohlmans musiklexikon , band 4, 318 (Stockholm, 1977) Seymer, William : artikel i Svenska Män och Kvinnor , band 4, s 574 (Albert Bonniers förlag, Stockholm 1948)",
+  "sources": "Musik- och teaterbiblioteket",
+  "links": [],
+  "works_summary": "verk för orkester (bl a \"Spelmansvisa\", \"Riddarspel\", \"En liten serenad\" för stråkorkester), Stråkkvartett A-dur, verk för piano (bl a sviten \"En sommardröm\"), verk för orgel (bl a \"Andante religioso\"), sånger med piano (bl a samlingarna \"Vårlyrik I &amp; II\", \"Höstlyrik I &amp; II\"), verk för kör, musik till skådespelet \"En kärleksfest i Neapel\"",
+  "works": [],
+  "slug": "lilja-bernhard"
+}

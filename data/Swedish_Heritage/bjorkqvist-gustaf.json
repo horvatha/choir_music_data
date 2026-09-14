@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/bjorkqvist-gustaf/",
+  "title": "Gustaf Björkquist (1877−1968)",
+  "name": "Gustaf Björkquist",
+  "years": "1877−1968",
+  "description": "Gustaf Magnus Wilhelm Björkquist föddes den 28 september 1877 i Västra Vingåkers församling. Avled den 8 mars 1968 i Olaus Petri församling, Örebro. Tonsättare, musikdirektör, dirigent och debattör i militärmusikfrågor. Framförallt känd for marschen Vara vita grenadjärer och sina inlägg i debatten om militärmusikens betydelse som folkmusik.",
+  "birth": {
+    "place": null,
+    "date": "28 september 1877",
+    "raw": "föddes den 28 september 1877"
+  },
+  "death": {
+    "place": "Olaus Petri församling",
+    "date": "8 mars 1968",
+    "raw": "Avled den 8 mars 1968 i Olaus Petri församling"
+  },
+  "biography": "Gustaf Björkquist var son till handlanden Gustaf Björkquist och Charlotta Adolfina Rydberg. Han blev elev vid Kungl. Svea Livgarde 1890, studerade vid Kungl. Musikkonservatoriet, Stockholm, 1896-1905 och avlade musikdirektörsexamen 1902. Han var musikanförare vid Livregementets Grenadjärer 1909 (I 3:s musikkår), musikunderlöjtnant 1912 och kapten vid Livregementets Grenadjärer 1926. Pensionerad 1930. Dirigent för Örebro musikförening 1912-15, för Folkorkestern Lyran 1934-1954 Björkquist utgav ett femtontal skrifter och böcker, komponerade ett tiotal marscher, diverse dansmusik, konserter och fantasier. Han gav över 500 konserter för välgörande ändamål vid sjukhus, vårdhem och krigsinvalider. Inspektör och instruktör för musikkårer, ordförande för Folkorkestern Lyran, ledamot av Stockholms orkesterförenings styrelse och Svenska Militärmusikdirektörföreningens styrelse.",
+  "publications": "Är svensk musikkultur värd att uppmuntras?, Köping, u.å. Inlägg i militärmusikfrågan , Stockholm, 1915 Armémusiken vår folkmusik , Örebro, 1918 Armémusikens sociala betydelse , Örebro, 1924 Har svenska folket kännedom om armémusikens betydelse för det allmänna? . Stockholm, 1925.",
+  "bibliography": "Kleberg, H.J.S .: Kungliga svenska riddarordnarna, bd 2, Stockholm, 1936, s. 126 Swahn, Waldemar : Föreningen 1877 års män minnesskrift , Stockholm, 1937, sid. 62 f. och s. 123. Tauson, Axel : Svenska Musikerförbundets minnesskrift 1908-1918 , Stockholm, 1917, s. 27f.",
+  "sources": null,
+  "links": [],
+  "works_summary": "Marscher, dansmusik.",
+  "works": [],
+  "slug": "bjorkqvist-gustaf"
+}

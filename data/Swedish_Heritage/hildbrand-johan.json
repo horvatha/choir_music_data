@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/hildbrand-johan/",
+  "title": "Johan(n) Hildebrand(t) (1614-1684)",
+  "name": "Johan(n) Hildebrand(t)",
+  "years": "1614-1684",
+  "description": "Johann Hildebrand, även Hildebrandt, född i Pretzsch an der Elbe i Juni 1614, död i Eilenburg 5 juli 1684. Tysk tonsättare, organist och poet.",
+  "birth": {
+    "place": "Pretzsch an der Elbe i Juni 1614, död i Eilenburg",
+    "date": "5 juli 1684",
+    "raw": "född i Pretzsch an der Elbe i Juni 1614, död i Eilenburg 5 juli 1684"
+  },
+  "death": {
+    "place": "Eilenburg",
+    "date": "5 juli 1684",
+    "raw": "död i Eilenburg 5 juli 1684"
+  },
+  "biography": "Organist i St. Nicolai-kyrkan i Eilenburg fråm 1637 och till sin död.",
+  "publications": null,
+  "bibliography": null,
+  "sources": null,
+  "links": [],
+  "works_summary": "framför allt känd för fredsmotetten \"Krieges-Angst-Seufftzer\" bey itzigen grund-bösen kriegerischen Zeiten instendig zu gebrauchen (1645)",
+  "works": [],
+  "slug": "hildbrand-johan"
+}

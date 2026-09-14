@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/hjertstrand-peter-magnus/",
+  "title": "Peter Magnus Hjertstrand (1809-1848)",
+  "name": "Peter Magnus Hjertstrand",
+  "years": "1809-1848",
+  "description": "Peter Magnus Hjertstrand, född i Långaryds församling (Hylte, Halland) 30 november 1809, avliden i Landskrona stadsförsamling 13 september 1848. Kyrkomusiker och tonsättare. Organistexamen i Växjö 1827, organist och klockare i Årstad och Alsige 1828, organist i Landskrona 1833-48 (från 1838 även klockare). Nämnd i Carl Nissers Svensk Instrumentalkomposition 1770-1830, Nominalkatalog, Stockholm 1943. LMA",
+  "birth": {
+    "place": "Långaryds församling (Hylte, Halland)",
+    "date": "30 november 1809",
+    "raw": "född i Långaryds församling (Hylte, Halland) 30 november 1809"
+  },
+  "death": {
+    "place": "Landskrona stadsförsamling",
+    "date": "13 september 1848",
+    "raw": "avliden i Landskrona stadsförsamling 13 september 1848"
+  },
+  "biography": "Organistexamen i Växjö 1827, organist och klockare i Årstad och Alsige 1828, organist i Landskrona 1833-48 (från 1838 även klockare).",
+  "publications": null,
+  "bibliography": "Lovén, N E : Landskrona under Sverigetiden , del 3 (1909) Nisser, Carl : Svensk Instrumentalkomposition 1770-1830, Nominalkatalog (Stockholm, 1943)",
+  "sources": null,
+  "links": [],
+  "works_summary": "verk för orgel, sånger, verk för kör Orgelstycke B-dur",
+  "works": [],
+  "slug": "hjertstrand-peter-magnus"
+}

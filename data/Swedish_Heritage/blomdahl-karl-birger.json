@@ -1,0 +1,58 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/blomdahl-karl-birger/",
+  "title": "Karl-Birger Blomdahl (1916-1968)",
+  "name": "Karl-Birger Blomdahl",
+  "years": "1916-1968",
+  "description": "Denne tonsättares verk skyddas fortfarande av upphovsrätten och ingår därför inte i Levande Musikarvs utgivning. För mer information om liv och verk hänvisar vi till Svensk Musiks hemsida.",
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "biography": "-",
+  "publications": null,
+  "bibliography": null,
+  "sources": null,
+  "links": [],
+  "works_summary": "---",
+  "works": [
+    {
+      "category": "Incidental music",
+      "title": "Agamemnons hemkomst",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/blomdahl-karl-birger/SMH-W4693-Agamemnons_hemkomst",
+      "has_published_edition": false
+    },
+    {
+      "category": "Incidental music",
+      "title": "Mordet på Kiron",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/blomdahl-karl-birger/SMH-W4694-Mordet_pa_Kiron",
+      "has_published_edition": false
+    },
+    {
+      "category": "Incidental music",
+      "title": "Theseus (Teseus). A dramatic poem.",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/blomdahl-karl-birger/SMH-W4668-Theseus_Teseus__A_dramatic_poem",
+      "has_published_edition": false
+    },
+    {
+      "category": "Incidental music",
+      "title": "Trojanskorna",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/blomdahl-karl-birger/SMH-W4669-Trojanskorna",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "blomdahl-karl-birger"
+}

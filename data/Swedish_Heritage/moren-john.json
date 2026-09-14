@@ -1,0 +1,594 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/moren-john/",
+  "title": "John (Theodor/Teodor) Morén (1854-1932)",
+  "name": "John (Theodor/Teodor) Morén",
+  "years": "1854-1932",
+  "description": "Kyrkomusiker (organist och violinist), kördirigent, musiklärare och tonsättare. Född den 26 maj 1854 i Kalmar stadsförsamling, död den 7 april 1932 i Bromma församling. Folkskollärarexamen i Uppsala 1875, musiklärarexamen vid Musikkonservatoriet 1888. Musiklärare i Norrtälje. Klockare och körledare i Hedvig Eleonora kyrka, Stockholm från 1892, kantor där 1906-1927.",
+  "birth": {
+    "place": null,
+    "date": "26 maj 1854",
+    "raw": "Född den 26 maj 1854"
+  },
+  "death": {
+    "place": "Bromma församling",
+    "date": "7 april 1932",
+    "raw": "död den 7 april 1932 i Bromma församling"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": "Folkskolebarnens sångbok. Stockholm (1893) Helig eller profan musik i våra tempel?: föredrag vid Kyrkosångens vänners inom Göteborgs stift möte i Göteborg den 30 april - 1 maj 1907. Göteborg (1907) Kritiken af förslaget till kyrkomusikaliska bilagor . Stockholm (1915) Femtio koralförspel . Stockholm (1916) Svensk koralbok . Stockholm (1922)",
+  "bibliography": "Åberg, Jan-Håkan : John Morén , i Svenskt biografiskt lexikon , bd 25 (1985-87)",
+  "sources": "Musik- och teaterbiblioteket",
+  "links": [],
+  "works_summary": "Körverk, verk för orgel, psalmmelodier, etc",
+  "works": [
+    {
+      "category": "Mixed choir a cappella",
+      "title": "\"De som med tårar så\" from Motetter och hymner [Motets and hymns]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/moren-john/SMH-W5308-De_som_med_tarar_sa_from_Motetter_och_hymner_Motets_and_hymns",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "\"Frukta dig icke\" (Luke 12:32)",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/moren-john/SMH-W5456-Frukta_dig_icke_Luke_1232",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "\"För alla helgon\" [\"For all saints\"] from Motetter och hymner [Motets and hymns]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/moren-john/SMH-W5316-For_alla_helgon_For_all_saints_from_Motetter_och_hymner_Motets_and_hym",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "\"I Jesu namn\" (Philippians 2:10, 11; New Testament)",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/moren-john/SMH-W5454-I_Jesu_namn_Philippians_210_11_New_Testament",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "\"Saliga äro de döda\" [Blessed are the dead] from Motetter och hymner [Motets and hymns]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/moren-john/SMH-W5320-Saliga_aro_de_doda_Blessed_are_the_dead_from_Motetter_och_hymner_Motet",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "\"Statt upp\" (Es. 60:1) [Jesaja 60:1] [\"Arise, shine\" (Old Testament, Isaiah 60:1)]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/moren-john/SMH-W5256-Statt_upp_Es_601_Jesaja_601_Arise_shine_Old_Testament_Isaiah_601",
+      "has_published_edition": true
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "At confirmation (\"Villigt kommer ditt folk\") from Motetter och hymner [Motets and hymns]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/moren-john/SMH-W5307-At_confirmation_Villigt_kommer_ditt_folk_from_Motetter_och_hymner_Mote",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Ave crux (\"Ave crux, spes unica salutis\") from Motetter och hymner [Motets and hymns]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/moren-john/SMH-W5325-Ave_crux_Ave_crux_spes_unica_salutis_from_Motetter_och_hymner_Motets_a",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Ave verum corpus from Motetter och hymner [Motets and hymns]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/moren-john/SMH-W5306-Ave_verum_corpus_from_Motetter_och_hymner_Motets_and_hymns",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "David's Psalm [The Book of Psalms, Old Testament] 100 (\"Fröjdens Herranom\")",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/moren-john/SMH-W5469-Davids_Psalm_The_Book_of_Psalms_Old_Testament_100_Frojdens_Herranom",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "David's Psalm [The Book of Psalms, Old Testament] 26:8 (\"Herre Gud din helga boning kär jag haver\")",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/moren-john/SMH-W5455-Davids_Psalm_The_Book_of_Psalms_Old_Testament_268_Herre_Gud_din_helga",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Den frommes död (\"Säg, vad är den frommes död?\") from Motetter och hymner [Motets and hymns]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/moren-john/SMH-W5324-Den_frommes_dod_Sag_vad_ar_den_frommes_dod_from_Motetter_och_hymner_Mo",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Detta är Guds vilja. Motet for the twenty-fourth Sunday after Trinity Sunday from Tolv nya motetter [Twelve new motets]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/moren-john/SMH-W5298-Detta_ar_Guds_vilja_Motet_for_the_twenty-fourth_Sunday_after_Trinity_S",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Efesierdoxologien (\"Honom, som förmår att göra\") [Doxology from Ephesians 3:20-21 \"Now unto him that is able to do\", New Testament] From Motetter och hymner [för blandad kör och damkör] [Motets and hymns (set for mixed or female choir)].",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/moren-john/SMH-W5303-Efesierdoxologien_Honom_som_formar_att_gora_Doxology_from_Ephesians_32",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "En kristens svanesång (\"Med Simeon jag far i frid\") from Motetter och hymner [Motets and hymns]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/moren-john/SMH-W5323-En_kristens_svanesang_Med_Simeon_jag_far_i_frid_from_Motetter_och_hymn",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Extra böndagen \"Kommen, låtom oss gå\" [Come ye, and let us go] from Motetter och hymner [Motets and hymns]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/moren-john/SMH-W5322-Extra_bondagen_Kommen_latom_oss_ga_Come_ye_and_let_us_go_from_Motetter",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Femton hymner och motetter [Fifteen hymns and motets]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/moren-john/SMH-W5260-Femton_hymner_och_motetter_Fifteen_hymns_and_motets",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Femton hymner och motetter [Fifteen hymns and motets]. 1. Oss är fött ett barn. Juldagen [Christmas Day]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/moren-john/SMH-W5261-Femton_hymner_och_motetter_Fifteen_hymns_and_motets_1_Oss_ar_fott_ett",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Femton hymner och motetter [Fifteen hymns and motets]. 10. Herre Jesu, herde god. Vid ungdomens första nattvardsgång [At the youths’ first communion]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/moren-john/SMH-W5270-Femton_hymner_och_motetter_Fifteen_hymns_and_motets_10_Herre_Jesu_herd",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Femton hymner och motetter [Fifteen hymns and motets]. 11. Vårt hus, o Herre, färdigt står. Vid invigning av församlingshus [At the inauguration of church halls]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/moren-john/SMH-W5271-Femton_hymner_och_motetter_Fifteen_hymns_and_motets_11_Vart_hus_o_Herr",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Femton hymner och motetter [Fifteen hymns and motets]. 12. Herren är min herde. Davids 23:e psalm [Book of Psalms 23, Old Testament]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/moren-john/SMH-W5272-Femton_hymner_och_motetter_Fifteen_hymns_and_motets_12_Herren_ar_min_h",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Femton hymner och motetter [Fifteen hymns and motets]. 13. Så bida ej i fjärran. Vid församlings- eller diakonihögtid [At church or diaconate festivals]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/moren-john/SMH-W5273-Femton_hymner_och_motetter_Fifteen_hymns_and_motets_13_Sa_bida_ej_i_fj",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Femton hymner och motetter [Fifteen hymns and motets]. 14. Fridsriket kommer",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/moren-john/SMH-W5274-Femton_hymner_och_motetter_Fifteen_hymns_and_motets_14_Fridsriket_komm",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Femton hymner och motetter [Fifteen hymns and motets]. 15. Fader vår [The Lord’s Prayer]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/moren-john/SMH-W5275-Femton_hymner_och_motetter_Fifteen_hymns_and_motets_15_Fader_var_The_L",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Femton hymner och motetter [Fifteen hymns and motets]. 3. O Jesu, Du Guds rena Lamm. Långfredagen [Good Friday]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/moren-john/SMH-W5263-Femton_hymner_och_motetter_Fifteen_hymns_and_motets_3_O_Jesu_Du_Guds_r",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Femton hymner och motetter [Fifteen hymns and motets]. 4. O påskafröjd, o segerbud. (Körkoral [Chorale set for choir].) Påskdagen [Easter Sunday]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/moren-john/SMH-W5264-Femton_hymner_och_motetter_Fifteen_hymns_and_motets_4_O_paskafrojd_o_s",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Femton hymner och motetter [Fifteen hymns and motets]. 5. Ingen, så ditt ord oss lär. (Chorale set for choir.) Mikaelidagen [Michaelmas]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/moren-john/SMH-W5265-Femton_hymner_och_motetter_Fifteen_hymns_and_motets_5_Ingen_sa_ditt_or",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Femton hymner och motetter [Fifteen hymns and motets]. 7. Fördenskull, Jesu, led du mig. [Botdagen (i.e., the former Swedish Day of Penance)]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/moren-john/SMH-W5267-Femton_hymner_och_motetter_Fifteen_hymns_and_motets_7_Fordenskull_Jesu",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Femton hymner och motetter [Fifteen hymns and motets]. 8. Herre, gå ej till doms. Botdagen [former Swedish Day of Penance], Nyårsafton [New Year’s Eve]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/moren-john/SMH-W5268-Femton_hymner_och_motetter_Fifteen_hymns_and_motets_8_Herre_ga_ej_till",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Femton hymner och motetter [Fifteen hymns and motets]. 9. Med tacksam röst och tacksam själ. (Chorale set for choir) Nyårsdagen eller vid födelsedagsfirning [New Year’s Eve or at birthday celebrations]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/moren-john/SMH-W5269-Femton_hymner_och_motetter_Fifteen_hymns_and_motets_9_Med_tacksam_rost",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Herre, till dig upplyfter jag min själ. Motet for prayer on New Year's Eve from Tolv nya motetter [Twelve new motets]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/moren-john/SMH-W5292-Herre_till_dig_upplyfter_jag_min_sjal_Motet_for_prayer_on_New_Years_Ev",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Huru ljuvliga äro icke dina boningar. Motet for the first Sunday after Epiphany from Tolv nya motetter [Twelve new motets]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/moren-john/SMH-W5293-Huru_ljuvliga_aro_icke_dina_boningar_Motet_for_the_first_Sunday_after",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "I signad julekväll (\"I helig, signad julekväll\") from Motetter och hymner [Motets and hymns]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/moren-john/SMH-W5326-I_signad_julekvall_I_helig_signad_julekvall_from_Motetter_och_hymner_M",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Jag är vägen, sanningen och livet. Motet for the third Sunday after Easter from Tolv nya motetter [Twelve new motets]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/moren-john/SMH-W5295-Jag_ar_vagen_sanningen_och_livet_Motet_for_the_third_Sunday_after_East",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Jul [Christmas] (\"Till jord, som låg i natt så lång\") from Motetter och hymner [Motets and hymns]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/moren-john/SMH-W5312-Jul_Christmas_Till_jord_som_lag_i_natt_sa_lang_from_Motetter_och_hymne",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Julens gåva. Motett (Ur juldagsepisteln, gamla översättningen) [The Gift of Christmas. Motet. (From the epistle for Christmas Day. Old translation into Swedish)]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/moren-john/SMH-W5257-Julens_gava_Motett_Ur_juldagsepisteln_gamla_oversattningen_The_Gift_of",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Julsång [Christmas song] (\"Uti en krubba Jesus låg\") from Motetter och hymner [Motets and hymns]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/moren-john/SMH-W5315-Julsang_Christmas_song_Uti_en_krubba_Jesus_lag_from_Motetter_och_hymne",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Kommen till mig. Motet for the fourteenth Sunday after Trinity Sunday from Tolv nya motetter [Twelve new motets]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/moren-john/SMH-W5296-Kommen_till_mig_Motet_for_the_fourteenth_Sunday_after_Trinity_Sunday_f",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Koral [Chorale] (\"Kom, lös mig själavän\")",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/moren-john/SMH-W5470-Koral_Chorale_Kom_los_mig_sjalavan",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Kristlig optimism [Christian optimism] (\"I världen haven I tvång\") from Motetter och hymner [Motets and hymns]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/moren-john/SMH-W5310-Kristlig_optimism_Christian_optimism_I_varlden_haven_I_tvang_from_Mote",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Land, hör Herrens ord. Motet for the Day of Penance from Tolv nya motetter [Twelve new motets]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/moren-john/SMH-W5301-Land_hor_Herrens_ord_Motet_for_the_Day_of_Penance_from_Tolv_nya_motett",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Livets vatten (\"Var och en som dricker av detta vatten\") from Motetter och hymner [Motets and hymns]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/moren-john/SMH-W5309-Livets_vatten_Var_och_en_som_dricker_av_detta_vatten_from_Motetter_och",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Motet on All Saints' Day (\"Dig lyft, min själ\") from Motetter och hymner [Motets and hymns]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/moren-john/SMH-W5327-Motet_on_All_Saints_Day_Dig_lyft_min_sjal_from_Motetter_och_hymner_Mot",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Motet. Saliga, saliga äro de (Luk. 11:28) [Blessed, blessed are they (Luke 11.28)]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/moren-john/SMH-W5259-Motet_Saliga_saliga_aro_de_Luk_1128_Blessed_blessed_are_they_Luke_1128",
+      "has_published_edition": true
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Motetter och hymner [för blandad kör och damkör] [Motets and hymns (set for mixed or female choir)].",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/moren-john/SMH-W5302-Motetter_och_hymner_for_blandad_kor_och_damkor_Motets_and_hymns_set_fo",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "O Herre Gud, var mild och god. Motet for the sixteenth Sunday after Trinity Sunday. The twenty-fourth Sunday after Trinity Sunday. Michaelmas. At funeral. From Tolv nya motetter [Twelve new motets]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/moren-john/SMH-W5297-O_Herre_Gud_var_mild_och_god_Motet_for_the_sixteenth_Sunday_after_Trin",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Pingst [Pentecost] (\"Veni, sancte spiritus\") from Motetter och hymner [Motets and hymns]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/moren-john/SMH-W5311-Pingst_Pentecost_Veni_sancte_spiritus_from_Motetter_och_hymner_Motets",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "På Mikaelidagen [On Michaelmas] \"När livet skall upphöra\" from Motetter och hymner [Motets and hymns]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/moren-john/SMH-W5321-Pa_Mikaelidagen_On_Michaelmas_Nar_livet_skall_upphora_from_Motetter_oc",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Sannerlig, han bar vår krankhet. Motet for Good Friday from Tolv nya motetter [Twelve new motets]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/moren-john/SMH-W5294-Sannerlig_han_bar_var_krankhet_Motet_for_Good_Friday_from_Tolv_nya_mot",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Se, vi gå upp till Jerusalem",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/moren-john/SMH-W5276-Se_vi_ga_upp_till_Jerusalem",
+      "has_published_edition": true
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Sommarsång (\"I denna ljuva sommartid\")",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/moren-john/SMH-W5258-Sommarsang_I_denna_ljuva_sommartid",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Så biden tåligt. Motet for the second Sunday of Advent from Tolv nya motetter [Twelve new motets]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/moren-john/SMH-W5291-Sa_biden_taligt_Motet_for_the_second_Sunday_of_Advent_from_Tolv_nya_mo",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Så älskade Gud världen. Motet for Whit Monday from Tolv nya motetter [Twelve new motets]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/moren-john/SMH-W5299-Sa_alskade_Gud_varlden_Motet_for_Whit_Monday_from_Tolv_nya_motetter_Tw",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Tacksägelsedagen [Swedish Thanksgiving] (\"Halleluja! Herren vår Gud\") from Motetter och hymner [Motets and hymns]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/moren-john/SMH-W5319-Tacksagelsedagen_Swedish_Thanksgiving_Halleluja_Herren_var_Gud_from_Mo",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Till Mikaelidagen [For Michaelmas] (\"O mänskor, vänden om till Gud\") from Motetter och hymner [Motets and hymns]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/moren-john/SMH-W5314-Till_Mikaelidagen_For_Michaelmas_O_manskor_vanden_om_till_Gud_from_Mot",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Ve världen för förförelsers skull. Motet for Michaelmas from Tolv nya motetter [Twelve new motets]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/moren-john/SMH-W5300-Ve_varlden_for_forforelsers_skull_Motet_for_Michaelmas_from_Tolv_nya_m",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Vid kyrkoinvigning [At church consecration] (\"Herre Gud må dina ögon\") from Motetter och hymner [Motets and hymns]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/moren-john/SMH-W5304-Vid_kyrkoinvigning_At_church_consecration_Herre_Gud_ma_dina_ogon_from",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Vid skördefest (Tacksägelsedagen) [At harvest festivals (Swedish Thanksgiving)] [\"Allas ögon vänta efter dig\"] from Motetter och hymner [Motets and hymns]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/moren-john/SMH-W5317-Vid_skordefest_Tacksagelsedagen_At_harvest_festivals_Swedish_Thanksgiv",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Världens ljus (\"Jag är världens ljus\") [\"I am the light of the world\"] from Motetter och hymner [Motets and hymns]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/moren-john/SMH-W5318-Varldens_ljus_Jag_ar_varldens_ljus_I_am_the_light_of_the_world_from_Mo",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir and instruments",
+      "title": "Femton hymner och motetter [Fifteen hymns and motets]. 2. Jag sjunga vill min julesång. Vid julbönen i kyrkan eller familjen",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/moren-john/SMH-W5262-Femton_hymner_och_motetter_Fifteen_hymns_and_motets_2_Jag_sjunga_vill",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir and instruments",
+      "title": "Femton hymner och motetter [Fifteen hymns and motets]. 6. O, hur sälla äro ej de fromma. Allhelgonadagen [ All Saints’ Day]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/moren-john/SMH-W5266-Femton_hymner_och_motetter_Fifteen_hymns_and_motets_6_O_hur_salla_aro",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir and instruments",
+      "title": "Guds lov i sång och \"psaltarespel\" (\"Loven Gud i hans helgedom\") from Motetter och hymner [Motets and hymns]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/moren-john/SMH-W5313-Guds_lov_i_sang_och_psaltarespel_Loven_Gud_i_hans_helgedom_from_Motett",
+      "has_published_edition": false
+    },
+    {
+      "category": "Male choir a cappella",
+      "title": "\"Jordens oro viker\"",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/moren-john/SMH-W5485-Jordens_oro_viker",
+      "has_published_edition": false
+    },
+    {
+      "category": "Male choir a cappella",
+      "title": "David's Psalm [The Book of Psalms, Old Testament] 104 (\"Herre, vår Gud, du härlig är\")",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/moren-john/SMH-W5511-Davids_Psalm_The_Book_of_Psalms_Old_Testament_104_Herre_var_Gud_du_har",
+      "has_published_edition": false
+    },
+    {
+      "category": "Male choir a cappella",
+      "title": "Gud bevare Sverge! [sic; Sverige] (\"När i välgångs goda dar\")",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/moren-john/SMH-W5505-Gud_bevare_Sverge_sic_Sverige_Nar_i_valgangs_goda_dar",
+      "has_published_edition": false
+    },
+    {
+      "category": "Male choir a cappella",
+      "title": "Hymn. Sv. ps. [Swedish hymnal] 262:8 (\"Hör den bön, dig hjärtat ägnar\")",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/moren-john/SMH-W5512-Hymn_Sv_ps_Swedish_hymnal_2628_Hor_den_bon_dig_hjartat_agnar",
+      "has_published_edition": false
+    },
+    {
+      "category": "Male choir a cappella",
+      "title": "Sv. ps. [Swedish hymnal] 487 (\"Ack, att jag dit ur sorg och strid må komma\") [tune from Västergötland]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/moren-john/SMH-W5508-Sv_ps_Swedish_hymnal_487_Ack_att_jag_dit_ur_sorg_och_strid_ma_komma_tu",
+      "has_published_edition": false
+    },
+    {
+      "category": "Male choir a cappella",
+      "title": "Sv. ps. 124 (\"Vår Gud är oss en väldig borg\") [Swedish hymnal 124; \"A Mighty Fortress Is Our God\"] by Martin Luther",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/moren-john/SMH-W5516-Sv_ps_124_Var_Gud_ar_oss_en_valdig_borg_Swedish_hymnal_124_A_Mighty_Fo",
+      "has_published_edition": false
+    },
+    {
+      "category": "Male choir a cappella",
+      "title": "Sv. ps. 265 i gammalrytmisk form [Swedish hymnal 265 in old rhythmic form] (\"Dig vare lof och pris, o Krist!\")",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/moren-john/SMH-W5514-Sv_ps_265_i_gammalrytmisk_form_Swedish_hymnal_265_in_old_rhythmic_form",
+      "has_published_edition": false
+    },
+    {
+      "category": "Children's choir and instruments",
+      "title": "Underbar en stjärna blid (for unison children's choir and organ; by Danish composer Andreas Peter Berggreen, 1801-1880; setting by John Morén)",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/moren-john/SMH-W5634-Underbar_en_stjarna_blid_for_unison_childrens_choir_and_organ_by_Danis",
+      "has_published_edition": false
+    },
+    {
+      "category": "Several choirs a cappella",
+      "title": "Trettondag jul [Epiphany] (\"En stjärna gick på himlen fram\") from Motetter och hymner [Motets and hymns]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/moren-john/SMH-W5305-Trettondag_jul_Epiphany_En_stjarna_gick_pa_himlen_fram_from_Motetter_o",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "moren-john"
+}

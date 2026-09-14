@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/zaar-johan-gottfried/",
+  "title": "Johan Gottfried Zaar (1754-1818)",
+  "name": "Johan Gottfried Zaar",
+  "years": "1754-1818",
+  "description": "Johan Gottfried (Gotfrid) Zaar föddes den 15 maj 1754 i Karlshamns församling. Avled i Hedvig Eleonora församling, Stockholm, den 30 juli 1818. Sångare vid Kungl. Teatern 1773-1780. Kantor i Gustavii församling i Göteborg 1786-1788. Altviolinist i Hovkapellet 1811-1815, Från 1814 till sin död kyrkomusiker i Hedvig Eleonora församling. Nämnd i Carl Nissers Svensk Instrumentalkomposition 1770-1830, Nominalkatalog, Stockholm 1943.",
+  "birth": {
+    "place": null,
+    "date": "15 maj 1754",
+    "raw": "föddes den 15 maj 1754"
+  },
+  "death": {
+    "place": "Hedvig Eleonora församling, Stockholm,",
+    "date": "30 juli 1818",
+    "raw": "Avled i Hedvig Eleonora församling, Stockholm, den 30 juli 1818"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": "En swensk acteurs egen berättelse, om desz ungdoms händelser . (Tryckt anonymt). Stockholm (1780) Bey der Ankunft dero Durchleutigkeiten von Baden zu Örebro 1801. Allerunterthänigst von Joh. G. Zaar. Örebro (1801) Julklappar till kongliga famillen i djupaste underdånighet af en laglydig och tropligtigste undersåte Joh. G. Zaar . Stockholm (1811)",
+  "bibliography": "Hillbom, Rune : Blekingesonen Johan Gottfrid Zaar: hans konstnärliga gärning och äventyrliga liv, i Blekingeboken . 1985, s. 31-54 Nisser, Carl : Svensk Instrumentalkomposition 1770-1830, Nominalkatalog (Stockholm, 1943)",
+  "sources": null,
+  "links": [],
+  "works_summary": "Försv.",
+  "works": [],
+  "slug": "zaar-johan-gottfried"
+}

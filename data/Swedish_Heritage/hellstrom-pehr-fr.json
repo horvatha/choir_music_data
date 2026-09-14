@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/hellstrom-pehr-fr/",
+  "title": "Pehr Fredric Hellström (1802-1847)",
+  "name": "Pehr Fredric Hellström",
+  "years": "1802-1847",
+  "description": "Född i S:t Johannes församling, Norrköping, 9 december 1802. (Fadern var 'cantor'.) Avliden i S:t Olai församling (Norrköping) 24 maj 1847. Organistexemen 1825, Direktörsexamen 1828. Under en period musiklärare i Karlstad, från 1836 kantor och klockare i S:t Olai församling. Nämnd i Carl Nissers Svensk Instrumentalkomposition 1770-1830, Nominalkatalog, Stockholm 1943.",
+  "birth": {
+    "place": "S:t Johannes församling, Norrköping,",
+    "date": "9 december 1802",
+    "raw": "Född i S:t Johannes församling, Norrköping, 9 december 1802"
+  },
+  "death": {
+    "place": "S:t Olai församling (Norrköping)",
+    "date": "24 maj 1847",
+    "raw": "Avliden i S:t Olai församling (Norrköping) 24 maj 1847"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "Nisser, Carl: Svensk Instrumentalkomposition 1770-1830, Nominalkatalog (1943)",
+  "sources": null,
+  "links": [],
+  "works_summary": "XXIV Preludier för Orgwerk [sic] \"författade och kongl. Secreteraren Herr Per [sic] Frigel ödmjukt tillegnade af P.F. Hellström\" (F-dur - A-dur, d-moll - f-moll)",
+  "works": [],
+  "slug": "hellstrom-pehr-fr"
+}

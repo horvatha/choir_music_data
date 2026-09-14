@@ -1,5 +1,81 @@
 # TODO
 
+## National composer-heritage sites: Hungarian + Swedish done, more languages found
+
+Started 2026-09-14. Pattern: crawl a national music-heritage/institution
+site for its own composer biography pages (name, birth/death, bio prose,
+works list) and save one file per composer, similar in shape across
+sites but each site's own markup needs its own scraper. Shared fetch
+helpers (retry/backoff GET, tag-stripping) live in `adapters/page_fetch.py`.
+
+- **Hungarian**: `fetch_lfze_nagy_elodok.py` crawls the Liszt Academy's
+  "Nagy elődök" pages (lfze.hu/nagy-elodok) -- done. 208 people saved as
+  markdown into `data/lfze/`, 42 with a portrait picture (composers
+  only, per the script's "zeneszerz" stem classifier); a CSV of the
+  composer subset feeds `load_lfze_nagy_elodok.py`.
+- **Swedish**: `fetch_swedish_heritage.py` crawls
+  swedishmusicalheritage.com/composers/ (single index page, ~1044
+  composers, no pagination) -- structured JSON per composer (not
+  markdown) into `data/Swedish_Heritage/`, one file per composer:
+  `composer_url`, `title`, `name`, `years`, `description`, `birth`/
+  `death` (`date`/`place`/`raw`, day-precision when the source has it),
+  `biography`, `publications`, `bibliography`, `sources`, `links`,
+  `works_summary`, and a `works` list (category, title, opus, Rudén no.,
+  its own URL, whether it has a published edition). Bio sentences turned
+  out to come in at least 6 different English shapes plus Swedish-only
+  entries for roughly half the composers (no site-wide language toggle
+  exists) -- both are now parsed, not just English. `--csv` is a
+  separate, no-network step that rebuilds a name/birth/death summary CSV
+  from whatever's already saved, so it can be rerun after improving the
+  regexes without re-fetching. Fetch is resumable (skips slugs whose
+  JSON already exists) and skips-and-continues past a page that's
+  broken on the site's own end rather than crashing the run. **Done**
+  2026-09-14: 1015/1025 composers saved (10 genuinely dead links on the
+  site's own end: `andren-adolf`, `arvinder-jalmar`,
+  `enderberg-august`, `hjorth-fredrik`, `hagg-torsten`, `linde-bo`,
+  `nystroem-gosta`, `preumayr-frans-carl`, `rendahl-edwin`,
+  `thegerstrom-robert`). 504/1015 have a parsed day-precision birth
+  and/or death date (after 5 rounds of spot-checking the no-date ones
+  against their actual source text and fixing real regex gaps each
+  time -- started at 406/609 no-date, ended at 504/511; see
+  `data/Swedish_Heritage/no_day_precision.csv` for the log, and
+  `fetch_swedish_heritage.py`'s regex comments for the specific bugs
+  found: missing Swedish case-insensitivity/word-order/"there"-phrasing,
+  optional "on" before a date, no-place sentences, "b."/"d."
+  abbreviated form. Of the 511 still undated: 378 are living composers
+  with boilerplate "see Svensk Musik" text, 93 are copyright-restricted
+  stubs, 40 are genuine remaining gaps (year-only source dates, a
+  date split by a bracketed source-disagreement aside, a source-side
+  typo, a couple of unhandled sentence/date shapes like Month-Day-Year
+  order) -- not chased further, diminishing returns). 328/1015 have a
+  works list.
+
+Researched further national sites for the rest of this repo's
+translation target-language list (see CLAUDE.md's "Target languages for
+translated names"), to gauge whether more of these are worth scraping:
+
+- **Polish -- strong candidate, do next**: POLMIC (polmic.pl), "first
+  Polish online music encyclopedia," 2,600+ entries, has an English
+  version. Verified real per-composer URLs (e.g.
+  `polmic.pl/en/encyclopedia/subject-entries/p/panufnik-andrzej-en`)
+  with structured birth/death shown directly on the page.
+- **Czech -- worth a closer look**: MusicBase (musicbase.cz), run by the
+  (government-supported) Czech Music Information Centre -- composer +
+  works database confirmed to exist; didn't verify individual composer
+  page shape yet.
+- **Croatian, Dutch, Russian -- weak leads**: real institutions/sites
+  exist (Croatian MIC/HGZ; Nederlands Muziek Instituut + Donemus;
+  belcanto.ru) but didn't verify a consistent one-page-per-composer
+  structure worth scraping.
+- **Ukrainian, Spanish, French, Italian -- not good scrape targets**:
+  Ukrainian's online presence is thin (a couple of small ~25-composer
+  projects, not a real database); Spanish's closest analogue
+  (*Diccionario de la Música Española e Hispanoamericana*) is a
+  10-volume print encyclopedia only scanned on Internet Archive, not
+  structured web pages; French's CDMC (cdmc.asso.fr), which used to have
+  composer biography pages, now looks down/defunct (connection
+  refused); no centralized Italian site was found at all.
+
 ## Country-as-place bug: 34 composers, 10 recovered by hand from Wikipedia prose
 
 Found 2026-07-20: `place_of_birth`/`place_of_death` in Wikidata equal to

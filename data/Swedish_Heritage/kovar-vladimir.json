@@ -1,0 +1,34 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/kovar-vladimir/",
+  "title": "Vladimir Kovàr (1947-1997)",
+  "name": "Vladimir Kovàr",
+  "years": "1947-1997",
+  "description": "Denne tonsättares verk skyddas fortfarande av upphovsrätten och ingår därför inte i Levande Musikarvs utgivning. För mer information om liv och verk hänvisar vi till Svensk Musiks hemsida.",
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "biography": "-",
+  "publications": null,
+  "bibliography": null,
+  "sources": null,
+  "links": [],
+  "works_summary": "---",
+  "works": [
+    {
+      "category": "Symphony",
+      "title": "Symfoni",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/kovar-vladimir/SMH-W6894-Symfoni",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "kovar-vladimir"
+}

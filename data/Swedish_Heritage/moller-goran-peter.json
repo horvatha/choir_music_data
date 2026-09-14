@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/moller-goran-peter/",
+  "title": "Göran Peter Möller (1824-1908)",
+  "name": "Göran Peter Möller",
+  "years": "1824-1908",
+  "description": "Föddes den 8 november 1824 i Brödarp, Västra Ingelstads församling, Malmöhus län. Avled i Norrköpings Matteus församling den 20 augusti 1908. Studerade vid Musikkonservatoriet 1847, 1849-50 violinist i Kungl. Hovkapellet, därefter kapellmästare vid Ellforska teatersällskapet. Musikdirektör för Norrköpings stad 1851. Mångsidigt verksam i Norrköpings musikliv, bl a som ledare för Möllerska orkestern. Drivande kraft i Musikaliska sällskapet i Norrköping.",
+  "birth": {
+    "place": null,
+    "date": "8 november 1824",
+    "raw": "Föddes den 8 november 1824"
+  },
+  "death": {
+    "place": "Norrköpings Matteus församling",
+    "date": "20 augusti 1908",
+    "raw": "Avled i Norrköpings Matteus församling den 20 augusti 1908"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "Allberg, Th .: Minnesskrift i anledning av Musikaliska sällskapets i Norrköping 100-åriga tillvaro. Norrköping (1928)",
+  "sources": "Norrköpings stadsmuseum, Musik- och teaterbiblioteket",
+  "links": [],
+  "works_summary": "Orkesterverk, sånger, m m. Mest kända verk är sången \"En liten fågel satt en gång\" (text. Mathilda Langlet)",
+  "works": [],
+  "slug": "moller-goran-peter"
+}

@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/svensson-johan/",
+  "title": "Johan(nes) Svensson (1775-1845)",
+  "name": "Johan(nes) Svensson",
+  "years": "1775-1845",
+  "description": "Johan (Johannes enligt födelseboken) Svensson föddes den 4 augusti 1775 i Åseda församling och avled den 17 juni 1845 i Växjö domkyrkoförsamling. Domkyrkoorganist i Växjö. Invald som svensk associé i KMA 1822. Nämnd i Carl Nissers Svensk Instrumentalkomposition 1770-1830, Nominalkatalog, Stockholm 1943.",
+  "birth": {
+    "place": null,
+    "date": "4 augusti 1775",
+    "raw": "föddes den 4 augusti 1775"
+  },
+  "death": {
+    "place": "Växjö domkyrkoförsamling",
+    "date": "17 juni 1845",
+    "raw": "avled den 17 juni 1845 i Växjö domkyrkoförsamling"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "Nisser, Carl: Svensk Instrumentalkomposition 1770-1830, Nominalkatalog (Stockholm, 1943)",
+  "sources": null,
+  "links": [],
+  "works_summary": "Pianoverk, orgelverk",
+  "works": [],
+  "slug": "svensson-johan"
+}

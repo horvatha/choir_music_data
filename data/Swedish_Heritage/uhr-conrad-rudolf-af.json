@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/uhr-conrad-rudolf-af/",
+  "title": "Conrad Rudolf af Uhr (1819-1871)",
+  "name": "Conrad Rudolf af Uhr",
+  "years": "1819-1871",
+  "description": "Musiker och tonsättare. Född 19 maj 1819 i Gävle. Död 12 mars 1871 i Stockholm. Altviolinist i Kungl. Hovkapellet 1846-1871.",
+  "birth": {
+    "place": "Gävle",
+    "date": "19 maj 1819",
+    "raw": "Född 19 maj 1819 i Gävle"
+  },
+  "death": {
+    "place": "Stockholm",
+    "date": "12 mars 1871",
+    "raw": "Död 12 mars 1871 i Stockholm"
+  },
+  "biography": "Conrad Rudolf af Uhr invaldes som associé i Kungl. Musikaliska akademien 1850.",
+  "publications": null,
+  "bibliography": null,
+  "sources": null,
+  "links": [],
+  "works_summary": "Orkesterverk, kammarmusik, scenisk musik, bl a till baletten Vid Chinas kust (uppf på Kungl. Teatern 1860), till skådespelet Brödraskulden (av Johan Börjesson, uppf på Kungl. Teatern 1861)",
+  "works": [],
+  "slug": "uhr-conrad-rudolf-af"
+}

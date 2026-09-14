@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/gernandt-johan/",
+  "title": "Johan (Johannes) Gernandt (1769-1850)",
+  "name": "Johan (Johannes) Gernandt",
+  "years": "1769-1850",
+  "description": "Född i Vittskövle församling (Kristianstad) 22 april 1769. Avled i Lunds domkyrkoförsamling 25 december 1850. Var verksam som akademiträdgårdsmästare i Botaniska trädgården, Lund, 1809-1824. Far till tonsättaren Georg Fredric Gernandt (1799-1844). Nämnd i Carl Nissers Svensk Instrumentalkomposition 1770-1830, Nominalkatalog, Stockholm 1943.",
+  "birth": {
+    "place": "Vittskövle församling (Kristianstad)",
+    "date": "22 april 1769",
+    "raw": "Född i Vittskövle församling (Kristianstad) 22 april 1769"
+  },
+  "death": {
+    "place": "Lunds domkyrkoförsamling",
+    "date": "25 december 1850",
+    "raw": "Avled i Lunds domkyrkoförsamling 25 december 1850"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "Nisser, Carl : Svensk Instrumentalkomposition 1770-1830, Nominalkatalog (1943)",
+  "sources": "Uppsala Universitetsbibliotek, Statens Musik- och teaterbibliotek",
+  "links": [],
+  "works_summary": "Pianoverk Anglais D-dur Långdans (\"Fröken M. Montgommerii\" [sic]) Menuetto allegretto D-dur [för pianoforte] Menuetto allegretto F-dur [för pianoforte] Menuetto allegretto Ess-dur [för pianoforte] Menuetto allegretto G-dur [för pianoforte] Rondo B-dur [för pianoforte]",
+  "works": [],
+  "slug": "gernandt-johan"
+}

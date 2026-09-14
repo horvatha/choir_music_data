@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/roosval-ellen/",
+  "title": "Ellen Roosval (1867-1952)",
+  "name": "Ellen Roosval",
+  "years": "1867-1952",
+  "description": "Ellen Friedrike (Fredrika) Wilhelmina (Vilhelmina) Roosval (f. von Hallwyl) föddes den 29 juli 1867 i Västerljungs församling, Trosa (enligt födelseboken i Tyska S:ta Gertruds församling, Stockholm). Avled den 9 april 1952 i Oscars församling, Stockholm. Målare, skulptör och tonsättare. Gift 1. med militärattachén Henrik de Maré 1887-1906, 2. 1907 med konsthistorikern John(ny) Roosval (1879-1965).",
+  "birth": {
+    "place": null,
+    "date": "29 juli 1867",
+    "raw": "föddes den 29 juli 1867"
+  },
+  "death": {
+    "place": "Oscars församling",
+    "date": "9 april 1952",
+    "raw": "Avled den 9 april 1952 i Oscars församling"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "Cassel-Pihl, Eva Helena (red.) : Wilhelminas döttrar , Hallwylska museet, Stockholm, 1992 Lepp, Hans : Ellen Roosval: en studie kring greveparet von Hallwyls dotter målarinnan och skulptrisen Ellen de Maré-Roosval , Hallwylska museet, Stockholm, 1986 Wisaeus, Lena : \"Som berusad av din närhet -\": en berättelse om Ellen von Hallwyl och Johnny Roosval , Stockholm, Carlssons, 2003",
+  "sources": null,
+  "links": [],
+  "works_summary": "Sånger",
+  "works": [],
+  "slug": "roosval-ellen"
+}

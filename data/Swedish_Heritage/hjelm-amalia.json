@@ -1,0 +1,98 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/hjelm-amalia/",
+  "title": "Amalia Hjelm (1846−1916)",
+  "name": "Amalia Hjelm",
+  "years": "1846−1916",
+  "description": "Amalia Hjelm is the pen name that Amalia Kristina Hjelmstierna (née Munktell) used as a composer. She was born in Grycksbo, just outside of Falun, on 30 January 1846 and died in Stockholm on 7 October 1916. Her surviving works are limited to songs, but she was also active as a writer and it is significant that she wrote the texts to her musical works. Amalia Hjelm is the older sister of the well-regarded composer Helena Munktell.",
+  "birth": {
+    "place": "Grycksbo, just outside of Falun,",
+    "date": "30 January 1846",
+    "raw": "born in Grycksbo, just outside of Falun, on 30 January 1846"
+  },
+  "death": {
+    "place": "Stockholm",
+    "date": "7 October 1916",
+    "raw": "died in Stockholm on 7 October 1916"
+  },
+  "biography": "Amalia Hjelm’s family background is a reminder that factory estates provided a meaningful musical environment in which the family members could engage in music making, which often was a life changing motivation for them to become performers and composers. A keyboard instrument stood in the salon of every manor home, and was most often played by the woman of the house and her daughters. Highly regarded musicians often provided music lessons for the children. Social gatherings at the estates were usually large and musical making was an obvious part − both for listening and for dancing. The music was often the most modern of the time. A substantial number of instrumentalists, singers and composers were cultivated in these sorts of milieus. Amalia Hjelm is one of them. Life Amalia Hjelm was born in 1846 in Grycksbo, a paper mill just outside of Falun. Her father was the mill owner and manager Johan Henric Munktell, and her mother was Augusta (née Eggertz), both enlightened and multi-talented individuals. The couple had nine children, of whom three daughters later devoted themselves to artistic endeavours. Besides Amalia Hjelm, her two younger sisters were engaged in the arts: Helena Munktell became a prominent composer, and Emma (married Sparre) chose the visual arts path. The manor house was filled with music and this, along with being wealthy, was an essential pre-condition for the musical, artistic and general cultural growth of the children. Their father was a good pianist and during his years in Uppsala he socialised in circles that included author Erik Gustaf Geijer and composer Adolf Fredrik Lindblad. Amalia Hjelm likely received her initial music training at home, although the details of her early musical life are not preserved. When she was fifteen years old, her father died. Her mother then took over the operation of the paper mill, but also spent long periods of time in Stockholm with her large brood of children. In Stockholm Amalia took piano lessons from pedagogue and composer Ludvig Norman, a well as singing from baritone Fritz Arlberg. Sometime around 1870, she took piano lessons with Marie Louise Öberg. This was roughly the same time that three of her sisters, Helena, Emma and Clara studied with the same teacher. Hjelm’s music education took place under the best conditions, which not only reflects her mother’s ability to pay for good teachers, but also speaks to Amalia’s talent. In 1865 at the age of nineteen, she married the naval officer August Hjelmstierna in Stockholm. The marriage was an unhappy one and dissolved after a few years. As a composer, she went by the pen name Amalia Hjelm, possibly to indicate a certain independence in comparison to the title Mrs Hjelmstierna, the name she otherwise would have been known by. The contours of Amalia Hjelm’s adult life are rather vague, and although there are only few works extant, there is, in fact, more information about those, than about her own life. She lived abroad for several years, in Cannes, France and in Switzerland, something the family’s wealth afforded her. She reportedly worked as a pianist and piano teacher, composed music, and also wrote literary works. It is said that she promoted the spread of Swedish music, and perhaps her sister Helena’s compositions as well. During the unrest that heralded the First World War she moved back to Sweden and to Stockholm, where she died in 1916. Her obituary notes that ‘through her original and witty personality, she made herself well liked by a number of circles of friends’. Works Amalia Hjelm’s musical productivity was not large, at least if one judges by the number of surviving works, which are limited to works for voice and piano. She composed no larger works, unlike her older sister, Helena, who did so quite successfully (the relationship between the sisters’ musical creativity has not yet been researched). A special feature of Hjelm’s songs is that she consistently set music to her own texts. In practice, she was as much a writer as she was a composer, which is underscored by two works published in her older years − one is a collection of poetry (1893), and the other an anthology of stories (1911). The structures and expressiveness of her songs show that they were meant for private contexts, not the stage. Although she seemingly composed very little, she nevertheless published three individual songs and two song collections. These publications came out when she was in her older years. The range of her productivity is virtually unknown, but one can conceive that she never received much recognition as a composer. Gunnar Ternhag © 2015 Trans. Jill Ann Johnson",
+  "publications": "Tvenne storgubbar och annat axplock, Stockholm, 1893. Kisse Misses Tankar om människan och om hunden Azor, Stockholm, 1911/1982.",
+  "bibliography": "Castegren, Nils : 'Franz Berwalds kompositionselever vid Musikkonservatoriet 1867−68', in Svensk tidskrift för musikforskning , 1974, p. 22. Kvinnoporträtt till dagskrönikan , Idun , 5 November 1916, p. 723.",
+  "sources": "Musik- och teaterbiblioteket, Kungl. biblioteket",
+  "links": [],
+  "works_summary": "Works for voice and piano (including, the collections 3 Dal-låtar and Fem Sange).",
+  "works": [
+    {
+      "category": "Voice and piano",
+      "title": "3 (Tre) Dal-låtar [3 (Three) Dalecarlian Songs] opus 2",
+      "opus": "2",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/hjelm-amalia/SMH-W4452-3_Tre_Dal-latar_3_Three_Dalecarlian_Songs",
+      "has_published_edition": true
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Bjursgummans visa ur 3 Dal-låtar 3 [from 3 (Three) Dal-låtar] opus 2",
+      "opus": "2",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/hjelm-amalia/SMH-W6356-Bjursgummans_visa_ur_3_Dal-latar_3_from_3_Three_Dal-latar",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Fem sange (Fem sånger) [Five songs]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/hjelm-amalia/SMH-W4454-Fem_sange_Fem_sanger_Five_songs",
+      "has_published_edition": true
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Näckrosen [The water lily]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/hjelm-amalia/SMH-W4423-Nackrosen_The_water_lily",
+      "has_published_edition": true
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Synvidder opus 3",
+      "opus": "3",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/hjelm-amalia/SMH-W4456-Synvidder",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Täppliss Annas visa ur 3 Dal-låtar [from 3 (Three) Dal-låtar] opus 2",
+      "opus": "2",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/hjelm-amalia/SMH-W6355-Tappliss_Annas_visa_ur_3_Dal-latar_from_3_Three_Dal-latar",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Vaggsång [Cradle Song]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/hjelm-amalia/SMH-W4455-Vaggsang_Cradle_Song",
+      "has_published_edition": true
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Vallkullans visa ur 3 Dal-låtar [from 3 (Three) Dal-låtar] opus 2",
+      "opus": "2",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/hjelm-amalia/SMH-W6354-Vallkullans_visa_ur_3_Dal-latar_from_3_Three_Dal-latar",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Vårvisa [Spring Song]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/hjelm-amalia/SMH-W4453-Varvisa_Spring_Song",
+      "has_published_edition": true
+    }
+  ],
+  "slug": "hjelm-amalia"
+}

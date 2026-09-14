@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/meder-johann-valentin/",
+  "title": "Johann Valentin Meder (1649-1719)",
+  "name": "Johann Valentin Meder",
+  "years": "1649-1719",
+  "description": "Johann Valentin Meder, född i Wasungen i Thüringen i Tyskland döpt 3 maj 1649, död i Riga i juli 1719. Tysk tonsättare, organist och sångare, verksam som kantor i Reval (Talinn) i Estland 1674-1683 samt kantor i Riga 1700-1719. Under denna senare period blev Riga svenskt (1710) och han kan därför anses vara en (delvis) svensk tonsättare.",
+  "birth": {
+    "place": "Wasungen i Thüringen i Tyskland döpt",
+    "date": "3 maj 1649",
+    "raw": "född i Wasungen i Thüringen i Tyskland döpt 3 maj 1649"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": null,
+  "sources": null,
+  "links": [],
+  "works_summary": "Under uppbyggnad",
+  "works": [],
+  "slug": "meder-johann-valentin"
+}

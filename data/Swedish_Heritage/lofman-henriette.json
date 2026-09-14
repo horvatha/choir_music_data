@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/lofman-henriette/",
+  "title": "Henriette Löfman (1784-1836)",
+  "name": "Henriette Löfman",
+  "years": "1784-1836",
+  "description": "(Catharina) Henriette Löfman föddes i Jakob och Johannes församling, Stockholm, den 23 (ev 22) augusti 1784. Avled i Örby församling (Kinna), Älvsborgs län den 16 mars 1836. Gift med generallöjtnant Casimir Reuterskiöld (1770–1848).",
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": "Örby församling (Kinna), Älvsborgs län",
+    "date": "16 mars 1836",
+    "raw": "Avled i Örby församling (Kinna), Älvsborgs län den 16 mars 1836"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "Nisser, Carl : Svensk Instrumentalkomposition 1770-1830, Nominalkatalog (Stockholm, 1943)",
+  "sources": null,
+  "links": [],
+  "works_summary": "Verk för harpa",
+  "works": [],
+  "slug": "lofman-henriette"
+}

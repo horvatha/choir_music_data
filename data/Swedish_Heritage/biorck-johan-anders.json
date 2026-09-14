@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/biorck-johan-anders/",
+  "title": "Johan Anders Biörck (1789-1856)",
+  "name": "Johan Anders Biörck",
+  "years": "1789-1856",
+  "description": "Johan Anders Biörck. Född i Katarina församling, Stockholm, 4 mars 1789. Avled där 2 november 1856. Tonsättare, amatörmusiker och rådman i Stockholm. LMA.",
+  "birth": {
+    "place": "Katarina församling, Stockholm,",
+    "date": "4 mars 1789",
+    "raw": "Född i Katarina församling, Stockholm, 4 mars 1789"
+  },
+  "death": {
+    "place": "Katarina församling, Stockholm,",
+    "date": "2 november 1856",
+    "raw": "Avled där 2 november 1856"
+  },
+  "biography": "Flitig amatörmusiker (violinist, cellist, kontrabasist och sångare) och tonsättare. Medlem av Par Bricole. En av stiftarna av Harmoniska sällskapet, 1820. Styrelseledamot i Mazerska kvartettsällskapet 1849, där han varit aktiv sedan 1823. Gift med violinisten Lovisa Charlotta Biörck (f. Borgman, 1798-1884), som företog konsertresor i Sverige, Norge, Finland och Ryssland. Hon var framför allt verksam under 1820-talet, innan hon gifte sig. Den 16 december 1853 blev hon invald i Kungl. Musikaliska akademien som ledamot nr 338. Johan Anders Biörck var rådman i Stockholm 1827, ledamot av Handelskollegium 1827-30, av Justitiekollegium 1834-45, lagman 1836, handelsborgmästare 1845. Han blev invald i Kungl. Musikaliska akademien 30 april 1825, som ledamot nr 247.",
+  "publications": null,
+  "bibliography": null,
+  "sources": null,
+  "links": [],
+  "works_summary": "sånger (bl a \"Om jag lefver tills i morgon\", som ingår i den av P. Westerstrand utgivna samlingen \"Sillsallaten\") Etude en quatour F-dur [för stråkar]",
+  "works": [],
+  "slug": "biorck-johan-anders"
+}

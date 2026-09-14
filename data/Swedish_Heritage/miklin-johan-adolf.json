@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/miklin-johan-adolf/",
+  "title": "Johan Miklin (1726-1787)",
+  "name": "Johan Miklin",
+  "years": "1726-1787",
+  "description": "Sannolikt född i Gagnef 1726 (troligen den 4 mars), avliden i Linköpings domkyrkoförsamling den 21 juni 1787. Organist i Uppsala domkyrka (möjligen även Västerås). Hovkapellist 1751 (alternativt 1752). Domkyrkoorganist och Director musices i Linköping 1754-1787. Far till tonsättaren och poeten Johan Adolph Mecklin.",
+  "birth": {
+    "place": "Gagnef 1726 (troligen den 4 mars), avliden i Linköpings domkyrkoförsamling",
+    "date": "21 juni 1787",
+    "raw": "född i Gagnef 1726 (troligen den 4 mars), avliden i Linköpings domkyrkoförsamling den 21 juni 1787"
+  },
+  "death": {
+    "place": "Linköpings domkyrkoförsamling",
+    "date": "21 juni 1787",
+    "raw": "avliden i Linköpings domkyrkoförsamling den 21 juni 1787"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "Bengtsson, Britta (Pia Nyström, red) : 1751 års män. Anteckningar om amatörer och hovkapellister vid \"Kongl. Begrafnings och Kongl. Krönings Musiquerne år 1751\" . Statens musikbibliotek, Stockholm (2001) Göransson, Nil s: Sancta Cecilias tjänare i Linköping : klockare, organister, kantorer, orglar och klockspel i Linköpings tre äldsta kyrkor samt körer, sångsolister, instrumentalister, psalm- och sångdiktare, tonsättare av kyrkomusik och orgelbyggare i Linköping . Linköping (1983; tryckt av Noteria, Borensberg)",
+  "sources": "Statens Musik- och teaterbibliotek, Musikmuseet Stockholm, Linköpings stadsbibliotek (avd. Stiftsbiblioteket), Lunds Universitetsbibliotek",
+  "links": [],
+  "works_summary": "Under uppbyggnad",
+  "works": [],
+  "slug": "miklin-johan-adolf"
+}

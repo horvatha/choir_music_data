@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/franzen-franz-michael/",
+  "title": "Frans Michael Franzén (1772-1847)",
+  "name": "Frans Michael Franzén",
+  "years": "1772-1847",
+  "description": "Frans Michael Franzén, född 9 februari 1772 i Uleåborg, Finland, död 14 augusti 1847 i Säbrå församling, Härnösand. Finlandssvensk skald, psalmdiktare och kyrkoman. Han var ledamot av Svenska akademien från 1808 och dess ständige sekreterare 1824–1834, samt medlem av psalmbokskommittén 1811–1819. Franzén var Kyrkoherde i Kumla, därefter i Klara kyrka, samt biskop i Härnösand från 1834.",
+  "birth": {
+    "place": "Uleåborg",
+    "date": "9 februari 1772",
+    "raw": "född 9 februari 1772 i Uleåborg"
+  },
+  "death": {
+    "place": "Säbrå församling",
+    "date": "14 augusti 1847",
+    "raw": "död 14 augusti 1847 i Säbrå församling"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": null,
+  "sources": null,
+  "links": [],
+  "works_summary": "sånger och psalmer",
+  "works": [],
+  "slug": "franzen-franz-michael"
+}

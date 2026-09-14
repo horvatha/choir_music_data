@@ -1,0 +1,66 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/tubin-eduard/",
+  "title": "Eduard Tubin (1905-1982)",
+  "name": "Eduard Tubin",
+  "years": "1905-1982",
+  "description": "Denne tonsättares verk skyddas fortfarande av upphovsrätten och ingår därför inte i Levande Musikarvs utgivning. För mer information om liv och verk hänvisar vi till Svensk Musiks hemsida.",
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "biography": "-",
+  "publications": null,
+  "bibliography": "Rumessen, Vardo: Eduard Tubin: 1905-1982 . Tallinn: SE&amp;JS (2001) Rumessen, Vardo: The works of Eduard Tubin: thematic and bibliographic catalogue of works. Tallinn: International Eduard Tubin Society (2003) Rumessen, Vardo, Larsson, Gunnar &amp; Olt, Harry (red.): Eduard Tubin: piano works : papers given at the conferences organized by the Baltic Institute ... 1981 and 1985 . Stockholm: [Musikaliska akadamien (1986) Tubin, Eino &amp; Lund, Tobias : Eduard Tubin . Stockholm: Atlantis (2011)",
+  "sources": null,
+  "links": [],
+  "works_summary": "---",
+  "works": [
+    {
+      "category": "Orchestral works in one movement",
+      "title": "Estonian dance suite",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/tubin-eduard/SMH-W2540-Estonian_dance_suite",
+      "has_published_edition": false
+    },
+    {
+      "category": "Orchestral works in several movements",
+      "title": "Suite from the ballet Kratt",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/tubin-eduard/SMH-W2539-Suite_from_the_ballet_Kratt",
+      "has_published_edition": false
+    },
+    {
+      "category": "Symphony",
+      "title": "Sinfonia lirica, (No. 4)",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/tubin-eduard/SMH-W2542-Sinfonia_lirica_No_4",
+      "has_published_edition": false
+    },
+    {
+      "category": "Symphony",
+      "title": "Symphony No. 5 in B minor",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/tubin-eduard/SMH-W2543-Symphony_No_5_in_B_minor",
+      "has_published_edition": false
+    },
+    {
+      "category": "Violin solo",
+      "title": "Sonata for solo violin",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/tubin-eduard/SMH-W757-Sonata_for_solo_violin",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "tubin-eduard"
+}

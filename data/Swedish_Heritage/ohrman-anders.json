@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/ohrman-anders/",
+  "title": "Anders Öhrman (1733-1794)",
+  "name": "Anders Öhrman",
+  "years": "1733-1794",
+  "description": "Anders Öhrman föddes (troligen) 1733 och avled i Hovförsamlingen (Stockholm) den 31 oktober 1794. Violinist i Kungl. Hovkapellet 1780-1782, altviolinist i denna orkester 1782-1794. Nämnd i Carl Nissers Svensk Instrumentalkomposition 1770-1830, Nominalkatalog, Stockholm 1943.",
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": "Hovförsamlingen (Stockholm)",
+    "date": "31 oktober 1794",
+    "raw": "avled i Hovförsamlingen (Stockholm) den 31 oktober 1794"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "Karle, Gunhild: Kungl. Hovkapellet i Stockholm och dess musiker 1772-1818 . Uppsala (2001) Nisser, Carl : Svensk Instrumentalkomposition 1770-1830. Nominalkatalog. Stockholm (1943)",
+  "sources": "Musik- och teaterbiblioteket",
+  "links": [],
+  "works_summary": "Sonata [d-moll] per il Violino Solo et [sic] Basso Dell [sic] Sig:r Öhrman Sonata [d-moll] per il Violino decordata Solo et [sic] Basso Dell [sic] Sig:r A: Öhrman (verket dock ej belagt enligt Musik- och teaterbiblioteket)",
+  "works": [],
+  "slug": "ohrman-anders"
+}

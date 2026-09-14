@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/broman-sten/",
+  "title": "Sten Broman (1902-1983)",
+  "name": "Sten Broman",
+  "years": "1902-1983",
+  "description": "Född 25 mars 1902 i Uppsala, men uppvuxen i Lund, död 29 oktober 1983 i Lund. Tonsättare, musikkritiker, m m",
+  "birth": {
+    "place": "Uppsala",
+    "date": "25 mars 1902",
+    "raw": "Född 25 mars 1902 i Uppsala"
+  },
+  "death": {
+    "place": "Lund",
+    "date": "29 oktober 1983",
+    "raw": "död 29 oktober 1983 i Lund"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": "Den svenska musikforskningen 1750-1900. Framlagd som diss. vid Lunds universitet 1927, men ej godkänd Upplevelser av 1900-talet: första kvartseklet . Stockholm (1982) Världsmusikfestens facit: en krönika över de av International society for contemporary music anordnade världsmusikfesterna 1926-67 i Sydsvenska dagbladet Snällposten . Stockholm (1982)",
+  "bibliography": "Broman, Erik &amp; Åstrand, Hans (red.): Sten Broman: en man med kontrapunkter . Stockholm (1984) Holdar Davidsson, Margareta: Sten Broman och Musikfrågan kontrapunkt . C-uppsats i musikvetenskap, Stockholms universitet (1998) Larsén, Carlhåkan : Sten Broman: en man med många kostymer. Lund (2002) Mårtensson, Jan: Sten Broman: mästerlig berättare, i Lundaprofiler under tusen år . Lund (1999) S. 106-108 Ohlmarks, Åke : Boken om Sten Broman. Malmö (1984) Svensson, Bertil: Sten Broman - en av Skånska Akademiens grundare, i Skånska hopp och övertramp . Malmö (2002) S. 179-201",
+  "sources": null,
+  "links": [],
+  "works_summary": "Under uppbyggnad",
+  "works": [],
+  "slug": "broman-sten"
+}

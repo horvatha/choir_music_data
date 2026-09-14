@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/richards-florence/",
+  "title": "Florence Richards (1877-1948)",
+  "name": "Florence Richards",
+  "years": "1877-1948",
+  "description": "Ida Florence Richards, född den 24 juni 1877 i London. Avliden i Stockholm den 3 mars 1948. Brittisk medborgare.",
+  "birth": {
+    "place": null,
+    "date": "24 juni 1877",
+    "raw": "född den 24 juni 1877"
+  },
+  "death": {
+    "place": "Stockholm",
+    "date": "3 mars 1948",
+    "raw": "Avliden i Stockholm den 3 mars 1948"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": null,
+  "sources": "Musik- och teaterbiblioteket",
+  "links": [],
+  "works_summary": "Verk för röst och piano",
+  "works": [],
+  "slug": "richards-florence"
+}

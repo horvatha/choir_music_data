@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/skagerberg-einar/",
+  "title": "Einar Skagerberg (1876−1969)",
+  "name": "Einar Skagerberg",
+  "years": "1876−1969",
+  "description": "Einar Skagerberg, född 16 november 1876 i Åmots bruk och död i Växjö 19 april 1969, var organist, musiklärare och tonsättare. Han var organist i Söderhamn 1899−1914 och därefter i Falu Kristine kyrka 1914−1923. Från 1923 till 1938 var Skagerberg lärare i musik och sång vid Växjö folkskoleseminarium.",
+  "birth": {
+    "place": "Åmots bruk och död i Växjö 19 april 1969",
+    "date": "16 november 1876",
+    "raw": "född 16 november 1876 i Åmots bruk och död i Växjö 19 april 1969"
+  },
+  "death": {
+    "place": "Växjö",
+    "date": "19 april 1969",
+    "raw": "död i Växjö 19 april 1969"
+  },
+  "biography": "Einar Skagerberg, född 16 november 1876 i Åmots bruk och död i Växjö 19 april 1969, var organist, musiklärare och tonsättare. Han avlade organistexamen vid Kungl. Musikkonservatoriet i Stockholm 1895 och följande år musiklärar- och kyrkosångarexamen. Skagerberg bedrev kompositionsstudier för Ellberg och Lindegren samt i Paris, Berlin och Köpenhamn på statligt tonsättarstipendium. Han var organist i Söderhamn 1899−1914 och därefter i Falu Kristine kyrka 1914−23. Från 1923 till 1938 var Skagerberg lärare i musik och sång vid Växjö folkskoleseminarium. Einar Skagerberg skrev verk för orkester (däribland två symfonier), kör, piano och orgel. Gift med Judith Skagerberg, född Schnürer. Sonen Lars Skagerberg donerade 1995 till Smålands musikarkiv i Växjö en omfattande samling med Einar Skagerbergs originalmanuskript. Manuskriptsamlingen återspeglar hela dennes livsverk som tonsättare. Samlingen är noggrant förtecknad och genomgången av Lars Skagerberg. Mathias Boström © 2017",
+  "publications": null,
+  "bibliography": "Larsson, Mats : \"En anspråkslös mästare: om Einar Skagerberg och hans orgelmusik\", i: Orgelforum , 1996 (17[d.v.s. 18]:4), s. 3−13. Sjögren, Josef : Organisterna i Västerås stift, Stockholm: Nordiska museet, 1958.",
+  "sources": "Smålands musikarkiv, Växjö.",
+  "links": [],
+  "works_summary": "Orkesterverk (2 symfonier m.m.), verk för kör, piano och orgel.",
+  "works": [],
+  "slug": "skagerberg-einar"
+}

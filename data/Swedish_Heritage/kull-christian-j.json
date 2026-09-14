@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/kull-christian-j/",
+  "title": "Christian Kull (1765-1815)",
+  "name": "Christian Kull",
+  "years": "1765-1815",
+  "description": "Född i Ängelholm den 10 september 1765, avliden i Göteborgs Domkyrkoförsamling den 22 februari 1815. Från 1783 organist i Kristianstad, därefter Filipstad 1796-98 respektive musiklärare i Skara 1798-ca 1803. Domkyrkoorganist i Skara 1798 och från 1813 i Göteborg. Nämnd i Carl Nissers Svensk Instrumentalkomposition 1770-1830, Nominalkatalog, Stockholm 1943. Detta är en av de tonsättare som den svenska arbetsgruppen av \"Répertoire international des sources musicales\" har speciellt ansvar för. (ref. Mattias Lundberg)",
+  "birth": {
+    "place": "Ängelholm",
+    "date": "10 september 1765",
+    "raw": "Född i Ängelholm den 10 september 1765"
+  },
+  "death": {
+    "place": "Göteborgs Domkyrkoförsamling",
+    "date": "22 februari 1815",
+    "raw": "avliden i Göteborgs Domkyrkoförsamling den 22 februari 1815"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "Nisser, Carl: Svensk Instrumentalkomposition 1770-1830, Nominalkatalog (Stockholm, 1943)",
+  "sources": "Statens Musik- och teaterbibliotek, Strängnäs stifts- och landsbibliotek, Blekinge läns museum Karlskrona",
+  "links": [],
+  "works_summary": "Pianoverk",
+  "works": [],
+  "slug": "kull-christian-j"
+}

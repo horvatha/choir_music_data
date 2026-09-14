@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/bjorkgren-wilhelm/",
+  "title": "Wilhelm Björkgren (1847-1917)",
+  "name": "Wilhelm Björkgren",
+  "years": "1847-1917",
+  "description": "Gustaf Wilhelm Leonard Björkgren föddes den 15 maj 1847 i Hjorteds församling (Västervik). Avled den 29 juni 1917 i Gävle Heliga Trefaldighets församling. Musiklärare, organist och tonsättare. Inledde studier vid Musikkonservatoriet 1864, organist- och kantorsexamen 1867, musikdirektörsexamen 1870. Organist och kantor vid Borgerskapets enkehus 1867-71, sånglärare vid Jakobs och Johannes folkskolor 1868-71. Violinist vid Kungl. Dramatiska teatern och Mindre teatern 1866-71. Flyttade till Gävle 1871 för en organist- och kantorstjänst vid Gävle stadsförsamling. Musiklärare vid stadens läroverk 1872-1912. Dirigent för Musiksällskapet Concordia. En av Björkgrens elever vid läroverket var Carl Sjöberg som skapade sången Tonerna.",
+  "birth": {
+    "place": null,
+    "date": "15 maj 1847",
+    "raw": "föddes den 15 maj 1847"
+  },
+  "death": {
+    "place": "Gävle Heliga Trefaldighets församling",
+    "date": "29 juni 1917",
+    "raw": "Avled den 29 juni 1917 i Gävle Heliga Trefaldighets församling"
+  },
+  "biography": "Wilhelm Björkgren invaldes i Kungl. Musikaliska akademien den 24/2 1910 som ledamot nr 531.",
+  "publications": null,
+  "bibliography": "Dahlbom, Roland : Glimtar ur Gävles musikliv , i Oknytt. Johan Nordlander-sällskapets tidskrift, 1996, 1-2, s. 44-57 Marsk, Axel : Livsöden i en svensk släkt där en medlem skrev in sig i musikhistorien . Orsa (1986) S. 48 Minnesblad öfver Musiksällskapet Concordia i Gävle. Gävle (1905)",
+  "sources": "Kungl. Biblioteket, Uppsala universitetsbibliotek, Länsmuseet Gävleborg",
+  "links": [],
+  "works_summary": "Vokalverk, kantater, sånger för manskör",
+  "works": [],
+  "slug": "bjorkgren-wilhelm"
+}

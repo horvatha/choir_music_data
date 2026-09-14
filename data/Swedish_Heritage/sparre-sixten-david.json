@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/sparre-sixten-david/",
+  "title": "Sixten David Sparre (1787-1843)",
+  "name": "Sixten David Sparre",
+  "years": "1787-1843",
+  "description": "Sixten (David) Sparre föddes den 20 april 1787 Rydaholms församling (Värnamo). Avled i Svea livgardes församling den 22 april 1843. Nämnd i Carl Nissers Svensk Instrumentalkomposition 1770-1830, Nominalkatalog, Stockholm 1943.",
+  "birth": {
+    "place": null,
+    "date": "20 april 1787",
+    "raw": "föddes den 20 april 1787"
+  },
+  "death": {
+    "place": "Svea livgardes församling",
+    "date": "22 april 1843",
+    "raw": "Avled i Svea livgardes församling den 22 april 1843"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "Nisser, Carl : Svensk Instrumentalkomposition 1770-1830, Nominalkatalog . Stockholm (1943) Gillingstam, Hans : Sparre, släkt , i Svenskt biografiskt lexikon , bd 32 (2003-2006= Grawallius, Carl Olo f: Wid general-majoren och secund-chefen vid Kongl. Svea lif-garde m.m. friherre Sixten David Sparres jordfästning i S:t Jacobs kyrka, d. 4 maj 1843/ af regementets pastor . Stockholm (1943)",
+  "sources": null,
+  "links": [],
+  "works_summary": "Arrangemang för harpa",
+  "works": [],
+  "slug": "sparre-sixten-david"
+}

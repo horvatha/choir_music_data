@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/holmstrom-af/",
+  "title": "Adolf Fredrik (Adolph Fredric) Holmström (1796-1865)",
+  "name": "Adolf Fredrik (Adolph Fredric) Holmström",
+  "years": "1796-1865",
+  "description": "Född i Bälinge församling, Uppland, 3 maj 1796. (Fadern var trumpetare.) Avliden i Uppsala 27 februari 1865. Organistexamen 1820, Direktörsexemen 1825. Musikdirektör och domkyrkoorganist i Västerås. Klockare och organist i Torstuna församling (Enköping) från 1832. Nämnd i Carl Nissers Svensk Instrumentalkomposition 1770-1830, Nominalkatalog, Stockholm 1943.",
+  "birth": {
+    "place": "Bälinge församling, Uppland,",
+    "date": "3 maj 1796",
+    "raw": "Född i Bälinge församling, Uppland, 3 maj 1796"
+  },
+  "death": {
+    "place": "Uppsala",
+    "date": "27 februari 1865",
+    "raw": "Avliden i Uppsala 27 februari 1865"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "Nisser, Carl: Svensk Instrumentalkomposition 1770-1830, Nominalkatalog (1943)",
+  "sources": null,
+  "links": [],
+  "works_summary": "Pianoverk (Marche D-dur, Marsch Maestoso D-dur)",
+  "works": [],
+  "slug": "holmstrom-af"
+}

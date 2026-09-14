@@ -1,0 +1,34 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/dijkman-ludert/",
+  "title": "Lüdert Dijkman (1640-tal−1717)",
+  "name": "Lüdert Dijkman",
+  "years": "1640-tal−1717",
+  "description": "Lüdert Dijkman (Dykman), probably born in the 1640s in Hedemora, died in Stockholm in 1717 and worked as an organist and musician at various locations in Sweden. His only surviving composition is Klagan och Sorge-Stämma , composed and published on the occasion of the two princes Gustav and Ulrik’s funeral in Stockholm in 1685.",
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "biography": "Life Lüdert Dijkman’s father, Petter Engelbreksson Dijkman, was an organist in Gävle, as well as in Hedemora, which was the place where his son was born, most likely in the 1640s. It is believed that Lüdert Dijkman received his training from his father. Dijkman served as an organist at several locations in Sweden: Avesta from 1669, in Västerås in 1673 and in Gävle from 1676. In 1680, he was appointed Director musices et cantus at Karlstad trivial school, whilst also being organist at the city’s cathedral. During the first half of the 1680s, Lüdert Dijkman moved to Stockholm. His first permanent engagement in the capital was probably at St Mary’s Church, where he was salaried as organist from 1684−88. In 1689, he was appointed Rector Cantus at the Great Church trivial school, also becoming the organist of the church. He held both positions until his death in 1717. As an organist at the church, Dijkman was also the leader of its musicians, comprising around six instrumentalists and singers. Lüdert Dijkman married Sabina Rutha on 6 August 1689. For the wedding, Michael Zethrin (1660s−1731) composed a wedding verse, ‘Skull’ nu det ädla Apollos följe’ (preserved in Uppsala University Library, Nordin 1135), to be sung to a melody of Jean-Baptiste Lully. Dijkman’s four sons all came to be active as musicians: Petter the younger (1690−1742), Jonas (1698−1763), Lüdert the younger (d. 1764) and Carl (d. 1771). Work Lüdert Dijkman was a diligent occasional poet, and several poems for weddings and funerals in his hand are preserved. He composed music for at least two major events. The first was for the joint funeral of the two young princes Ulrik and Gustav in 1685, and the second was for Magnus Gabriel De la Gardie’s funeral the following year. In the latter case, only the text of the composition is preserved. The music to the princes’ funeral was published and was one of the most extensive private music pressings in Sweden during the 1600s. The publication includes both the text − possibly authored by Dijkman himself − and the music, although some parts of the original composition appear to have been excluded. Both funeral compositions constitute settings of secular texts, and were thus likely not performed at the church services, but on other occasions in connection with the funerals. Maria Schildt © 2015 Trans. Robin McGinley",
+  "publications": null,
+  "bibliography": "Berg, Ingegerd : 'Musiklivet i Gävle i gången tid', Uppsala University, Uppsala 1947. Drei Vokalwerke der schwedischen Grossmachtepoche ( Three vocal compositions from the Swedish great power period ), Carl-Allan Moberg &amp; Jan Olof Rudén (eds), Stockholm: Almqvist &amp; Wiksell, 1968. Kyhlberg, Bengt &amp; Jan Olof Rudén : 'Dijkman, Lüdert', Sohlmans musiklexikon , vol. 2, Stockholm: Sohlman, 1975, pp. 288−289. Niedt, Friederich Erhard : Musicalische Handleitung Anderer Theil, Von der Variation des General-Basses, Samt eine Anweisung, Wie man aus einem schlechten General-Baß allerley Sachen als Præludia, Ciaconen, Allemanden, &amp;c. erfinden könne. Die Zweyte Auflage, Verbessert, vermehret, mit verschiedenen Grund-richtigen Anmerckungen, und einem Anhang von mehr als 60. Orgel-Wercken versehen durch J. Mattheson , 2 ed. publ. by Johann Mattheson, Hamburg: Benjamin Schillers Wittwe &amp; Joh. Christoph Kißner, 1721. Norberg, Petrus : Avesta under kopparbrukets tid , Stockholm: Törnqvists bokh. (distr.), 1956. Norlind, Tobias : Från Tyska kyrkans glansdagar: bilder ur svenska musikens historia från Vasaregenterna till karolinska tidens slut , vol. 3, Stormaktstidens senare skede 1660−1720 , Stockholm: Musikhistoriska museet, 1945. Sehlberg, Erik , 'Gävle och dess slägter' (−1842). Handwritten manuscript in Gävle stadsbibliotek (Gävle högre allmänna läroverks handskriftssamling) and transcription in KB, handwritten manuscript section. St Nikolai eller Storkyrkan i Stockholm, konsthistoriskt inventarium , Johnny Roosval (ed.), (Sveriges kyrkor, Stockholm vol. 1), Stockholm, 1924.",
+  "sources": null,
+  "links": [],
+  "works_summary": "Klagan och Sorge-Stämma (the only surviving work).",
+  "works": [
+    {
+      "category": "Voices and other instruments",
+      "title": "Lamentum eller [or] En Sorge-Music [sic]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/dijkman-ludert/SMH-W6051-Lamentum_eller_or_En_Sorge-Music_sic",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "dijkman-ludert"
+}

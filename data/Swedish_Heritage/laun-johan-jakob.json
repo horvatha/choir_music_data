@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/laun-johan-jakob/",
+  "title": "Johan Jakob Laun (1731-1774)",
+  "name": "Johan Jakob Laun",
+  "years": "1731-1774",
+  "description": "Johan Jakob (Jacob) Laun föddes troligen i Wien. Avled i Jakob och Johannes församling den 28 november 1774. 1760 verksam i Stockholm, från 1762 benämnd \"hovmusicus\". Även kammartjänare hos prins Fredrik Adolf (Adolph). Detta är en av de tonsättare som den svenska arbetsgruppen av \"Répertoire international des sources musicales\" har speciellt ansvar för. Han räknas alltså som svensk. (ref. Mattias Lundberg)",
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": "Jakob och Johannes församling",
+    "date": "28 november 1774",
+    "raw": "Avled i Jakob och Johannes församling den 28 november 1774"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "Holm, Anna-Lena : Anckarströms dansbok och Johan Jacob Laun , i Svensk tidskrift för musikforskning , 1984, s. 79-84",
+  "sources": "Musik- och teaterbiblioteket",
+  "links": [],
+  "works_summary": "Danssatser i en bevarad dansbok",
+  "works": [],
+  "slug": "laun-johan-jakob"
+}

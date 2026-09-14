@@ -1,0 +1,34 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/sillen-carl/",
+  "title": "Carl Sillén (1818-1888)",
+  "name": "Carl Sillén",
+  "years": "1818-1888",
+  "description": "Carl (Karl) Sillén föddes i Torstuna församling (Enköping) den 17 juli 1818. Avled i Hovförsamlingen (Stockholm) den 20 december 1888. Pedagog och tonsättare. Musikdirektörsexamen vid Musikkkonservatoriet i Stockholm 1840. Lärare i pianostämning vid samma skola 1858-86. Organist i Storkyrkan, violinlärare för prins Oscar. Kamrerare i Kungl. Musikaliska akademien 1868-88 och en av initiativtagarna till KMA:s hus vid Nybroviken. LMA",
+  "birth": {
+    "place": "Torstuna församling (Enköping)",
+    "date": "17 juli 1818",
+    "raw": "föddes i Torstuna församling (Enköping) den 17 juli 1818"
+  },
+  "death": {
+    "place": "Hovförsamlingen (Stockholm)",
+    "date": "20 december 1888",
+    "raw": "Avled i Hovförsamlingen (Stockholm) den 20 december 1888"
+  },
+  "biography": "Invald i Kungl. Musikaliska akademien den 24 april 1845, som associé nr 41, senare invald som ledamot av första klassen nr 366, den 19 december 1857.",
+  "publications": "100 dagliga övningar vid piano. Stockholm: Meyer Rytmiska tonskalor... för piano . Stockholm: Elkan &amp; Schildknecht",
+  "bibliography": "Morales, Olallo &amp; Norlind, Tobias : Kungl. Musikaliska Akademien 1771-1921 , Stockholm (1921) S. 128",
+  "sources": "Musik- och teatermuseet, Stockholm",
+  "links": [],
+  "works_summary": "-",
+  "works": [
+    {
+      "category": "Voices and piano",
+      "title": "Ungdoms-dröm",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/sillen-carl/SMH-W1529-Ungdoms-drom",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "sillen-carl"
+}

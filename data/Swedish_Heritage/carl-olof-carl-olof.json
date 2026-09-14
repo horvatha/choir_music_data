@@ -1,0 +1,50 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/carl-olof-carl-olof/",
+  "title": "Carl-Olof Anderberg (1914-1972)",
+  "name": "Carl-Olof Anderberg",
+  "years": "1914-1972",
+  "description": "Denne tonsättares verk skyddas fortfarande av upphovsrätten och ingår därför inte i Levande Musikarvs utgivning. För mer information om liv och verk hänvisar vi till Svensk Musiks hemsida.",
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "biography": "-",
+  "publications": null,
+  "bibliography": null,
+  "sources": null,
+  "links": [],
+  "works_summary": "---",
+  "works": [
+    {
+      "category": "Incidental music",
+      "title": "Musical vignettes [sic] for Charlotte Löwensköld (Musikvinjetter till Charlotte Löwensköld)",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/carl-olof-carl-olof/SMH-W4602-Musical_vignettes_sic_for_Charlotte_Lowenskold_Musikvinjetter_till_Cha",
+      "has_published_edition": false
+    },
+    {
+      "category": "Incidental music",
+      "title": "Rid i natt",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/carl-olof-carl-olof/SMH-W4604-Rid_i_natt",
+      "has_published_edition": false
+    },
+    {
+      "category": "Incidental music",
+      "title": "The Emigrant from Brisbane",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/carl-olof-carl-olof/SMH-W4603-The_Emigrant_from_Brisbane",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "carl-olof-carl-olof"
+}

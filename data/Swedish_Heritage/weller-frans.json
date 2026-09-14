@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/weller-frans/",
+  "title": "Frans Weller (1817-1860)",
+  "name": "Frans Weller",
+  "years": "1817-1860",
+  "description": "Frans (Franz) Weller föddes i Berlin den 5 augusti, enligt vissa källor 1815, enligt andra 1817 (det senare är mest troligt). Avled i Tyska S:ta Gertruds församling, Stockholm, den 15 juli 1860. Enligt mantalsuppgift \"Hautboist vid Kongl. Lif Regmt. Grenadier Corps\". Tillsammans med Anton Schnötzinger en av Stockholms valskungar, båda verksamma bl a på De la Croix's salong.",
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": "Tyska S:ta Gertruds församling, Stockholm,",
+    "date": "15 juli 1860",
+    "raw": "Avled i Tyska S:ta Gertruds församling, Stockholm, den 15 juli 1860"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": null,
+  "sources": null,
+  "links": [],
+  "works_summary": "Dansmusik för piano, orginalkompositioner och arrangemang",
+  "works": [],
+  "slug": "weller-frans"
+}

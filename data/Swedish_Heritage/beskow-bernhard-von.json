@@ -1,0 +1,34 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/beskow-bernhard-von/",
+  "title": "Bernhard von Beskow (1796-1868)",
+  "name": "Bernhard von Beskow",
+  "years": "1796-1868",
+  "description": "Bernhard von Beskow, född i Stockholm den 22 april 1796, död den 17 oktober 1868. Friherre, författare, publicist och dramatiker. Ledamot av Svenska Akademien från 1828 (stol nr 12). LMA",
+  "birth": {
+    "place": "Stockholm",
+    "date": "22 april 1796",
+    "raw": "född i Stockholm den 22 april 1796"
+  },
+  "death": {
+    "place": null,
+    "date": "17 oktober 1868",
+    "raw": "död den 17 oktober 1868"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": null,
+  "sources": null,
+  "links": [],
+  "works_summary": "Sånger med piano, mm",
+  "works": [
+    {
+      "category": "Voice and piano",
+      "title": "Wälkommen och farväl [Welcome and goodbye]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/beskow-bernhard-von/SMH-W131-Walkommen_och_farval_Welcome_and_goodbye",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "beskow-bernhard-von"
+}

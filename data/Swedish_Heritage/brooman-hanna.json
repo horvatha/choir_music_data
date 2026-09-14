@@ -1,0 +1,34 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/brooman-hanna/",
+  "title": "Hanna Brooman (1809−1887)",
+  "name": "Hanna Brooman",
+  "years": "1809−1887",
+  "description": "Hanna (Johanna) Amalia Brooman was born 21 August 1809 in Stockholm. Nothing is known about her parents. She grew up as a foster child under the care of Jan Erik Brooman, an actor and singer at the Stockholm Royal Opera. During the period 1847−84 she worked as a teacher at the Royal Opera’s preparatory school. She died in Stockholm 7 February 1887.",
+  "birth": {
+    "place": "Stockholm",
+    "date": "21 August 1809",
+    "raw": "born 21 August 1809 in Stockholm."
+  },
+  "death": {
+    "place": "Stockholm",
+    "date": "7 February 1887",
+    "raw": "died in Stockholm 7 February 1887"
+  },
+  "biography": "Life Information concerning Hanna Brooman’s life before 1847, when she began teaching at Kungliga Teatern (the Royal Opera) in Stockholm, is sparse. Her foster father, the singer Jan Erik Brooman, died when she was 14 years old, and nothing is known about her personal life after that. She likely taught foreign languages and piano prior to her position at Kungliga Teatern. During this period in history, many children with poor backgrounds were accepted into the Kungliga Teatern’s preparatory school program, which included general subjects in addition to training for the stage. Hanna Brooman thus taught languages, Christianity, history, and to some extent, piano. She appears to have been a respected teacher, as revealed by many instances in which she exhibited a benevolent attitude and commitment to her young students. Parallel to her work at Kungliga Teatern, Brooman gave private lessons in singing, piano and languages. During the summer months, when there were fewer opportunities to teach at the educational institutions, Brooman taught for individual families. From her numerous advertisements for teaching privately during the summer, published regularly in the daily press, one can infer that it must have been difficult for a single woman to support herself as a teacher in Stockholm. Later in life, she sought ‘a position as a housekeeper in the home of a widower with children.’ In 1882, for the 100th anniversary of Kungliga Teatern, performers and employees were awarded medals for meritorious contributions. However, as the press noted, Hanna Brooman did not receive any such recognition. One letter to the editor particularly emphasized her tireless work teaching young students the basics in a loving, yet meticulous manner. Some of her students later became prominent artists, including the sopranos Mathilda Ebeling, Louise Michaëli and Mina Gelhaar. The following year, Brooman was awarded a royal medal for lengthy service. She retired the year after with a pension from the Royal Treasury. Hanna Brooman died in 1887. Singers from Kungliga Teatern performed at her funeral, which was held at St. James’s Church. Works Nothing is known about Hanna Brooman’s music education. All of her extant works are songs with piano accompaniment. Her songs are in strophic form, with the piano playing a supporting role. There is no evidence of musical interpretation of the text, nor of any extended introductions or interludes. Her songs are typical of the pervasive repertoire of the 19 th century: salon music intended for amateur music making at home. Brooman composed music for widely recognised poems by poets such as Anders Abraham Grafström and Erik Johan Stagnelius. Her most famous song, ‘Norrlänningens hemlängtan’, is a setting of the 1833 poem by Elias Sehlstedt. Brooman’s composition was first published in 1839, followed by several different editions. This song is an excellent example of the parlor music repertoire that had its heyday during the mid − 1800’s. The fact that it was very popular for a long time is supported by its inclusion in the song collection Sjung! 200 äldre och nyare omtyckta sånger vid piano. Samlade av J.P. Cronhamn. The first part, Första delen , was published in 1873. The collection includes 100 songs with compositions by contemporary Swedish composers such as Johan Erik Nordblom, Adolf Fredrik Lindblad, Gunnar Wennerberg, Isidor Dannström, Jacob Axel Josephson and Andreas Randel. It was one of many contemporary collections distributed widely to a bourgeois audience. Brooman also edited the text to the play Herr och fru Tapperman , a musical comedy in two acts of French origin. It was first performed at the Djurgårdsteatern theatre during the summer of 1848 and later on several other occasions at the Södra Teatern and Ladugårdslandsteatern theatres. The music was composed by Isidor Dannström, and arranged by Johan Wilhelm Söderman. It is unclear whether Brooman’s contribution was translating the play from the French or something else. Karin Hallgren © 2016 Trans. Thalia Thunander",
+  "publications": null,
+  "bibliography": "Berg, P. G. &amp; Ståhlberg, Wilhelmina : Anteckningar om svenska qvinnor , Stockholm: Berg: 1864−66. Dahlgren, F.A. : Förteckning öfver svenska skådespel uppförda på Stockholms teatrar 1737−1863 och Kongl. Theatrarnes personal 1773−1863 med flera anteckningar , Stockholm: Norstedt, 1866. Hedberg, Frans : ‘Hanna Brooman’, Svensk Musiktidning , vol. 7, no. 4, 1887. Luterkort, Ingrid : Om igen, herr Molander! Kungl. Dramatiska teaterns elevskola 1787−1964 , Stockholm: Stockholmia förlag, 1998. Norlind, Tobias : ‘Hanna A Brooman’, in: Svenskt biografiskt lexikon , vol. 6, Stockholm: Bonnier, 1926. Schmidt, Pia : Kvinnliga tonsättare i Sverige 1800−1935. En verkförteckning , specialarbete, Bibliotekshögskolan i Borås, 1982. Tegen, Martin : ‘Tonernas vågor’ eller Vilken musik var populär på 1860-talet? , Stockholm: Stockholms universitet, 1982.",
+  "sources": "Kungliga Biblioteket, daily newspapers, the archive of Kungliga Teatrarna, Musik- och teaterbiblioteket.",
+  "links": [],
+  "works_summary": "Songs (Norrlänningens hemlängtan etc.).",
+  "works": [
+    {
+      "category": "Voice and piano",
+      "title": "Tre sånger vid Piano [Three songs at the Piano]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/brooman-hanna/SMH-W129-Tre_sanger_vid_Piano_Three_songs_at_the_Piano",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "brooman-hanna"
+}

@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/jahn-gosta/",
+  "title": "Gösta Jahn (1895-1980)",
+  "name": "Gösta Jahn",
+  "years": "1895-1980",
+  "description": "Gustaf (Gösta) Adolf Fredrik Jahn (f. Jansson; enligt Kungl. Musikkonservatoriets matriklar Jahn fr o m vt 1914) föddes i Guldsmedshyttan i Linde socken, Lindesbergs församling den 14 augusti 1895. Avled i Marbäcks församling (Ulricehamn) den 6 januari 1980. Tonsättare, pianist, organist, musikdirektör, konstnär. Studerade vid Musikkonservatoriet i Stockholm med examen 1914 och därefter för Isidore Philipp vid Musikkonservatoriet i Paris 1920-21 samt för Walter Fischer i Berlin. Framträdde som pianist och organist i Sverige och utomlands. Samverkade bl a med Dan Andersson.",
+  "birth": {
+    "place": "Guldsmedshyttan i Linde socken, Lindesbergs församling",
+    "date": "14 augusti 1895",
+    "raw": "föddes i Guldsmedshyttan i Linde socken, Lindesbergs församling den 14 augusti 1895"
+  },
+  "death": {
+    "place": "Marbäcks församling (Ulricehamn)",
+    "date": "6 januari 1980",
+    "raw": "Avled i Marbäcks församling (Ulricehamn) den 6 januari 1980"
+  },
+  "biography": "Föräldrar: köpmannen Fredrik Jansson och Anna Mathilda Ohlsson. Gift 1918-29 med Marie Louise Magdalena Junghagen och 1932 med Inga Mathilda Andersson.",
+  "publications": null,
+  "bibliography": "Brandel, Åke : artikel i Sohlmans Musiklexikon , band 3, s 638 (1976) Lamby, Roland : artikel i Svenska Män och Kvinnor , band 4, s 35 (Bonniers förlag, Stockholm, 1948)",
+  "sources": null,
+  "links": [],
+  "works_summary": "Verk för orkester: bl a 4 symfonier, Midsommarnatt op 14 (dikt för stor orkester), Nocturne op 53 (för orkester). Pianokonsert i Ass-dur, Violinkonsert c-moll op 16. Kammarmusik: bl a 3 stråkkvartetter, 2 pianokvartetter, pianokvintett, verk för violin och piano, Sonate in Es-dur für Violoncello und Klavier (1979), pianoverk. Orgelverk (bl a orgelsymfonier). Verk för röst och orkester, bl a Silkesslottet (1923). Körverk.",
+  "works": [],
+  "slug": "jahn-gosta"
+}

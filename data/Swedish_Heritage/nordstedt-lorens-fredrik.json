@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/nordstedt-lorens-fredrik/",
+  "title": "Lorens Fredrik Nordstedt (1770-1828)",
+  "name": "Lorens Fredrik Nordstedt",
+  "years": "1770-1828",
+  "description": "Född i Hedvig Eleonora församling, Stockholm, 8 januari 1770. Avliden i Ingarö församling (Stockholm) 15 oktober 1828. Altviolinist i Kungl. Hovkapellet 1793(?)-1805(06?). Organist och klockare i Värmdö församling. Flyttade 1813 till Blidö, där han i husförhörslängden benämns \"skolmäster\".",
+  "birth": {
+    "place": "Hedvig Eleonora församling, Stockholm,",
+    "date": "8 januari 1770",
+    "raw": "Född i Hedvig Eleonora församling, Stockholm, 8 januari 1770"
+  },
+  "death": {
+    "place": "Ingarö församling (Stockholm)",
+    "date": "15 oktober 1828",
+    "raw": "Avliden i Ingarö församling (Stockholm) 15 oktober 1828"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "Nisser, Carl : Svensk Instrumentalkomposition 1770-1830, Nominalkatalog (1943) Karle, Gunhild : Kungl. Hovkapellet i Stockholm och dess musiker 1772-1818 . Uppsala (2000) [Här stavas namnet 'Norstedt']",
+  "sources": null,
+  "links": [],
+  "works_summary": "Sex Duetter För 2ne Violiner (Sonata F-dur [2 st], Sonata C-dur [2 st], Sonata G-dur, Sonata D-dur)",
+  "works": [],
+  "slug": "nordstedt-lorens-fredrik"
+}

@@ -1,0 +1,34 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/satter-gustav-da/",
+  "title": "Gustav Satter (1832-1883)",
+  "name": "Gustav Satter",
+  "years": "1832-1883",
+  "description": "Född den 12 februari 1832 i Rann, Österrike (Brežice i nuvarande Slovenien), troligen död 1883 (eventuellt senare) i Savannah, Georgia i USA. Verksam bland annat i Göteborg 1867-68 respektive Stockholm 1868-73. Flyttade därefter utomlands. Även verksam som journalist. Utländsk ledamot av Kungl. Musikaliska akademien 1872.",
+  "birth": {
+    "place": null,
+    "date": "12 februari 1832",
+    "raw": "Född den 12 februari 1832"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "Karle, Gunhild : Ludvig Norman och Kungl. Hovkapellet i Stockholm 1861-90 : med flera . Uppsala. Gustave Satter, A biographical sketch In memoriam of the great pianist and composer . Published by Seifert, Savannah, Georgia (1879) Johnson, H Earle : Gustav Satter Eccentric. JAMS (1963, sid 61-73)",
+  "sources": null,
+  "links": [],
+  "works_summary": "Pianoverk, m m",
+  "works": [
+    {
+      "category": "Piano",
+      "title": "Souvenir d'Öfverås, Deuxième Sérénade opus 23",
+      "opus": "23",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/satter-gustav-da/SMH-W6872-Souvenir_dOfveras_Deuxieme_Serenade",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "satter-gustav-da"
+}

@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/lethin-per-waldemar/",
+  "title": "Per Waldemar Lethin (1786-1858)",
+  "name": "Per Waldemar Lethin",
+  "years": "1786-1858",
+  "description": "Per Waldemar Lethin döptes den 1 januari 1786 i Hörja församling (Hässleholm; oklart födelsedatum). Avled den 25 april 1858 i Lunds domkyrkoförsamling. Växte upp i Trolleholm i Torrlösa socken. Kom till Lund för studier 1808 och blev kvar i staden. Nämnd i Carl Nissers Svensk Instrumentalkomposition 1770-1830, Nominalkatalog, Stockholm 1943.",
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": "Lunds domkyrkoförsamling",
+    "date": "25 april 1858",
+    "raw": "Avled den 25 april 1858 i Lunds domkyrkoförsamling"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "Nisser, Carl: Svensk Instrumentalkomposition 1770-1830, Nominalkatalog (Stockholm, 1943) Sjöström, C : Skånska nationen före avdelningarnas tid , Lund (1897) S. 540",
+  "sources": null,
+  "links": [],
+  "works_summary": "Pianoverk Anglois [sic] för pianoforte B-dur",
+  "works": [],
+  "slug": "lethin-per-waldemar"
+}

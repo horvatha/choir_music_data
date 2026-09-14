@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/taube-sigrid/",
+  "title": "Sigrid Taube (1888-1981)",
+  "name": "Sigrid Taube",
+  "years": "1888-1981",
+  "description": "Sigrid Taube [gift Rabe], född i Malmö 7 januari 1888, död i Danderyd 30 september 1981. Pianist och tonsättare.",
+  "birth": {
+    "place": "Malmö",
+    "date": "7 januari 1888",
+    "raw": "född i Malmö 7 januari 1888"
+  },
+  "death": {
+    "place": "Danderyd",
+    "date": "30 september 1981",
+    "raw": "död i Danderyd 30 september 1981"
+  },
+  "biography": "Studerade i Berlin. Var verksam som pianist i Stockholm från 1915. Gift med musikkritikern och radiochefen Johan Julius Rabe (1890-1969).",
+  "publications": null,
+  "bibliography": "Reimers, Lennart : Julius Rabe , i Svenskt biografiskt lexikon , bd 29 (1995-97) - med vissa uppgifter om hustrun Sigrid",
+  "sources": null,
+  "links": [],
+  "works_summary": "Pianoverk, sånger med piano, kammarmusik",
+  "works": [],
+  "slug": "taube-sigrid"
+}

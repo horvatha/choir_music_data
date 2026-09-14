@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/peter-hans-adolf/",
+  "title": "Hans Adolf Peter (pseudonym) (1904-1977)",
+  "name": "Hans Adolf Peter (pseudonym)",
+  "years": "1904-1977",
+  "description": "Hans Adolf Peter är synonym för Peter Adolf Fleischner, född i Wien den 10 november 1904. Avliden i Borås den 13 april 1977.",
+  "birth": {
+    "place": "Wien",
+    "date": "10 november 1904",
+    "raw": "född i Wien den 10 november 1904"
+  },
+  "death": {
+    "place": "Borås",
+    "date": "13 april 1977",
+    "raw": "Avliden i Borås den 13 april 1977"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": null,
+  "sources": null,
+  "links": [],
+  "works_summary": "Under uppbyggnad",
+  "works": [],
+  "slug": "peter-hans-adolf"
+}

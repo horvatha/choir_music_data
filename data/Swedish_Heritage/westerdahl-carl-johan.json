@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/westerdahl-carl-johan/",
+  "title": "Carl (Johan) Westerdahl (1779-1820)",
+  "name": "Carl (Johan) Westerdahl",
+  "years": "1779-1820",
+  "description": "Carl Westerdahl (enligt vissa källor Carl Johan) föddes i Lunds domkyrkoförsamling 27 september 1779. Avled i S:ta Klara församling, Stockholm, 16 mars 1820. I bouppteckningsregistret angiven som 'koncertmästare'. Nämnd i Carl Nissers Svensk Instrumentalkomposition 1770-1830, Nominalkatalog, Stockholm 1943.",
+  "birth": {
+    "place": "Lunds domkyrkoförsamling",
+    "date": "27 september 1779",
+    "raw": "föddes i Lunds domkyrkoförsamling 27 september 1779"
+  },
+  "death": {
+    "place": "S:ta Klara församling, Stockholm,",
+    "date": "16 mars 1820",
+    "raw": "Avled i S:ta Klara församling, Stockholm, 16 mars 1820"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "Nisser, Carl: Svensk Instrumentalkomposition 1770-1830, Nominalkatalog (Stockholm, 1943)",
+  "sources": null,
+  "links": [],
+  "works_summary": "Violinduo a-moll Polonaise för soloviolin",
+  "works": [],
+  "slug": "westerdahl-carl-johan"
+}

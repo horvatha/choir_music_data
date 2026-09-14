@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/barck-nils-anton-augustin/",
+  "title": "Nils Anton Augustin Bark (Barck) (1760-1822)",
+  "name": "Nils Anton Augustin Bark (Barck)",
+  "years": "1760-1822",
+  "description": "Nils Anton Augustin Bark (Barck enligt vissa källor) föddes i Wien den 27 augusti 1760. Avled enligt Solna församlings dödbok (och KMA:s matrikel) den 30 september 1822 (andra källor anger den 29 september). Ämbetsman, diplomat och musiker. Statssekreterare i Utrikesexpeditionen 1793, guvenör i Wismar 1799-1802, i Pommern 1803-10. Medlem i Gustav III:s amatörteatergrupp. Preses i Kungl. Musikaliska akademien 1788-89",
+  "birth": {
+    "place": "Wien",
+    "date": "27 augusti 1760",
+    "raw": "föddes i Wien den 27 augusti 1760"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "biography": "Barck invaldes som ledamot nr 91 i Kungl. Musikaliska akademien den 12/12 1783",
+  "publications": null,
+  "bibliography": "Boethius, Bertil : Nils A A Bark , i Svenskt biografiskt lexikon , bd 2 (1920)",
+  "sources": "Kungl. Biblioteket, Krigsarkivet, Uppsala universitetsbibliotek, Musik- och teaterbiblioteket",
+  "links": [],
+  "works_summary": "Marche [för pianoforte] A-dur Scherzando [för pianoforte] B-dur Tempo de Menuett [för pianoforte] D-dur",
+  "works": [],
+  "slug": "barck-nils-anton-augustin"
+}

@@ -1,0 +1,82 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/myrberg-melcher/",
+  "title": "Melcher Myrberg (1825-1917)",
+  "name": "Melcher Myrberg",
+  "years": "1825-1917",
+  "description": "August Melcher Myrberg föddes den 23 december 1825 i Gustav domkyrkoförsamling, Göteborg. Avled i Klara församling, Stockholm, den 7 maj 1917. Systerson till Pehr Fredrik Blidberg. Magisterexamen vid Uppsala universitet 1854 och ledde under sin studietid körer i Uppsala. 1858-1891 lärare i matematik och tyska vid olika skolor i Stockholm, bl a Norra latin. Anställd vid Telegrafverket 1857-1886. Dirigent i Sällskapet Par Bricole. Vice ordförande i Svenska sällskapet för kvartettsångens befrämjande 1891-1905. Vid sin bortgång titulerad Filosofie jubeldoktor.",
+  "birth": {
+    "place": null,
+    "date": "23 december 1825",
+    "raw": "föddes den 23 december 1825"
+  },
+  "death": {
+    "place": "Klara församling, Stockholm,",
+    "date": "7 maj 1917",
+    "raw": "Avled i Klara församling, Stockholm, den 7 maj 1917"
+  },
+  "biography": "Melcher Myrberg invaldes som ledamot nr 526 i Kungl. Musikaliska Akademien den 30 mars 1908",
+  "publications": "Sångarveteranens minne af 1867 . Vadstena (1912)",
+  "bibliography": "H G-m : Myrberg, släkt , i Svenskt biografiskt lexikon , bd 26 (1987-1989) Kube, Michae l: Konventionen und Originalität in den \"Östersjön\"-Vertonungen von Franz Berwald, August Melcher Myrberg und Carl Fredrik Ullman, i Lied und Liedidee im Ostseeraum zwischen 1750 und 1900 . Frankfurt am Main (2002) S. 219-235 Åkerberg, Bengt: Ur Mazers gömmor, i 150 år med kammarmusik. Mazerska kvartettsällskapet . Stockholm (1999) S. 173-176",
+  "sources": "Musik- och teaterbiblioteket, Uppsala universitetsbibliotek",
+  "links": [],
+  "works_summary": "Pianoverk (bl a samlingarna Taflor ur barnens lif), körverk (bl a kvartettcykeln Skördefesten), solosånger",
+  "works": [
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Sommarnatt (\"Vinden har somnat redan, allt är tyst i skogens sal\") [Summer night]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/myrberg-melcher/SMH-W5409-Sommarnatt_Vinden_har_somnat_redan_allt_ar_tyst_i_skogens_sal_Summer_n",
+      "has_published_edition": false
+    },
+    {
+      "category": "Male choir a cappella",
+      "title": "Dalen (\"Du underbara grönskande dal\") [The valley]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/myrberg-melcher/SMH-W5507-Dalen_Du_underbara_gronskande_dal_The_valley",
+      "has_published_edition": false
+    },
+    {
+      "category": "Male choir a cappella",
+      "title": "Hymn (\"Dig allsmäktige Herre vare lof och pris\")",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/myrberg-melcher/SMH-W5513-Hymn_Dig_allsmaktige_Herre_vare_lof_och_pris",
+      "has_published_edition": false
+    },
+    {
+      "category": "Male choir a cappella",
+      "title": "Serenad (\"Slumra, hulda, vid min sång\")",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/myrberg-melcher/SMH-W4910-Serenad_Slumra_hulda_vid_min_sang",
+      "has_published_edition": true
+    },
+    {
+      "category": "Male choir a cappella",
+      "title": "Till stjärnorna (\"Klara stjärnor, rymdens tärnor\") [To the stars]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/myrberg-melcher/SMH-W5561-Till_stjarnorna_Klara_stjarnor_rymdens_tarnor_To_the_stars",
+      "has_published_edition": false
+    },
+    {
+      "category": "Piano",
+      "title": "Polonaise",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/myrberg-melcher/SMH-W2100-Polonaise",
+      "has_published_edition": false
+    },
+    {
+      "category": "Piano",
+      "title": "Romans (Romance) [Romanza]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/myrberg-melcher/SMH-W1057-Romans_Romance_Romanza",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "myrberg-melcher"
+}

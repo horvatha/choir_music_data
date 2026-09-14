@@ -1,0 +1,50 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/hertzmann-frithiof/",
+  "title": "Frithiof Hertzman (1837-1910)",
+  "name": "Frithiof Hertzman",
+  "years": "1837-1910",
+  "description": "Fredrik Ludvig Frithiof Hertzman was born in Västra Ny near Motala in the region of Östergötland on 12 December 1837 and died, ‘after a long, debilitating illness’, on 4 September 1910 in Stockholm. He was a teacher and composer and later developed into a song and piano composer with an extensive creative output. Aside from songs and piano pieces he wrote only a small number of chamber music and orchestral works.",
+  "birth": {
+    "place": "Västra Ny near Motala in the region of Östergötland",
+    "date": "12 December 1837",
+    "raw": "born in Västra Ny near Motala in the region of Östergötland on 12 December 1837"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "biography": "(Svenskt Porträttarkiv) Frithiof Hertzman studied at the educational institution of the Kungliga Musikaliska akademien (the Royal Swedish Academy of Music) from 1854 to 1860. He was not particularly recognised by the music establishment, but some of his songs were performed and did receive ‘acclaim from audiences and critics’. He supported himself as a music teacher and piano tuner and for several decades was frequently engaged by, among others, the royal court (Oscar II and Gustav V). From 1889 until his death, he worked as a teacher at the Tomteboda institute for the blind in Solna parish outside of Stockholm, where he taught piano tuning. Works Frithiof Hertzman wrote a small number of chamber music works that have made little impact. However, in 1889 the work Romans for violin and piano op. 24 is mentioned when it was performed by one of the era’s greatest violinists: ‘A beautiful romance by Herzman (sic) … was played by violinist Mr Aulin with a fine and warm execution’. Hertzman’s piano pieces encompass exclusively short, salon-centred genre pieces that are a few minutes long, with a level of difficulty that is quite appropriate for music making in the home. Several of these works have also been set for orchestra, chamber ensemble or organ. In relation to the different music making situations in the home, some of Hertzman’s songs have had, perhaps ironic, notes in the manuscript. The song, ‘Näckrosen’ is thus ‘a song for one, two or three female voices or for one tenor part with accompaniment for piano and violin or cello, together with harmonium (ad lib) … This piece can even be played as a duet for piano and harmonium (without song)’. Vocal music dominates Frithiof Hertzman’s creative output. He wrote some thirty songs and about as many vocal quartets and choral pieces. Three collections with a total of a dozen songs were featured in print. Most of his works are, however, unpublished and unfortunately also undated − most likely they were composed from the end of the 1870s up until around 1908. He seems to have achieved his artistic peak during the years 1903−1905, at a time when the childless Hertzman became widowed and perhaps took solace in his creativity. It was also during this time that he wrote his songs to the texts by the Finnish-Swedish poet Emil von Qvanten (or Quanten) (1827−1903), who had lived in Stockholm since 1853 and was, among other things, a frequent music critic, but moved to Italy in the 1890s for health reasons. Qvanten’s poems themselves contain a palpable rhythm and musicality, which meant that, during this period, they were set to music by names such as Ivar Hallström, Ludvig Norman, August Söderman, Vilhelm Svedbom and Sigurd von Koch. For his vocal quartets, Hertzman chose more freely among the texts. Here one can find sacred musical settings as well as drinking songs, along with poems including those of Erik Johan Stagnelius, Johan Ludvig Runeberg and Zacharias Topelius. It is difficult to trace coeval opinions of his music, however in Svensk Musiktidning (Swedish music journal) from 1892, one finds the following review: ‘The Allmänna sångföreningen [choir] sang a choral piece with organ by F. Hertzman, “Pilgrimernas bön vid Jerusalems portar”, a less significant composition’. Frithiof Hertzman frequently composed texts with regular lines of verse, whose accentuations also create musical weight that often enhances the words. However, he also desired to give the songs and vocal quartets an overarching musical form, sometimes without support from the text. There might be, for instance, slow sarabands or quick mazurkas, with clear rhythmic motifs. A closeness to the inflections of folk music is clear in certain ballad-like songs such as ‘Jungfrun i det gröna’. Stig Jacobsson © 2015 Trans. Jill Ann Johnson",
+  "publications": null,
+  "bibliography": "Malmberg, Helge : 'Frithiof Hertzman', in: Sohlmans musiklexikon , vol. 3, Stockholm, 1976, p. 427. Norlind, Tobias : 'Frithiof Hertzman', in: Allmänt Musiklexikon , vol. 1, p. 517 (Wahlström &amp; Widstrand, Stockholm, 1927.",
+  "sources": "Musik- och teaterbiblioteket, Det Kongelige Bibliotek, Copenhagen.",
+  "links": [],
+  "works_summary": "Piano music, choral pieces and songs, manuscripts in the Music and Theatre Library of Sweden, most undated.",
+  "works": [
+    {
+      "category": "Piano",
+      "title": "Fest-Marsch [Festive March]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/hertzmann-frithiof/SMH-W2571-Fest-Marsch_Festive_March",
+      "has_published_edition": false
+    },
+    {
+      "category": "Piano",
+      "title": "Scherzando",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/hertzmann-frithiof/SMH-W3872-Scherzando",
+      "has_published_edition": false
+    },
+    {
+      "category": "Piano",
+      "title": "Serenad [Serenade], Sérénade",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/hertzmann-frithiof/SMH-W2135-Serenad_Serenade_Serenade",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "hertzmann-frithiof"
+}

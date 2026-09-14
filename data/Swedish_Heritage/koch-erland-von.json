@@ -1,0 +1,154 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/koch-erland-von/",
+  "title": "Erland von Koch (1910-2009)",
+  "name": "Erland von Koch",
+  "years": "1910-2009",
+  "description": "Sigurd Christian Jag Erland Vogt von Koch, född i Stockholm 26 april 1910, död i Stockholm 31 januari 2009. Tonsättare och dirigent. Studerade vid Musikkonservatoriet 1931-35. Fortsatta studier i Berlin 1936-37 (piano för Claudio Arrau, dirigering för Clemens Krauss, komposition för Paul Höffer). Lärare i musikteori vid Karl Wohlfarts musikskola 1939-53, lärare i harmonilära vid Musikhögskolan i Stockholm 1935-75, professors namn 1968. Ordförande i Fylkingen 1946-48, styrelseledamot i Föreningen Svenska Tonsättare 1947-63. LMA",
+  "birth": {
+    "place": "Stockholm",
+    "date": "26 april 1910",
+    "raw": "född i Stockholm 26 april 1910"
+  },
+  "death": {
+    "place": "Stockholm",
+    "date": "31 januari 2009",
+    "raw": "död i Stockholm 31 januari 2009"
+  },
+  "biography": "Erland von Koch invaldes i Kungl. Musikaliska akademien den 14 november 1957, som ledamot nr 677.",
+  "publications": "Musik och minnen. Sthlm 1989: Författarförlaget (med översiktlig verkförteckning)",
+  "bibliography": "Bergendahl, Göran : Erland von Koch och sextiotalet, i Musikrevy 1967) Connor, Herbert : Samtal med med tonsättare (1971) Haglund, Rolf : artikel i Sohlmans Musiklexikon , band 4, s 120 (1977) Helmer, Axel : Erland von Koch, i Musikrevy 1958:4 Liljefors, Ingmar : Erland von Koch, i Musiklivet/Vår sång 1949:1 Thoor, Alf : Erland von Koch berättar om sin fjärde symfoni, i Röster i radio 1954:14 Wallin, Nils : artikel i Svenska Män och Kvinnor , band 4, s 308 (Bonniers förlag, Stockholm 1948)",
+  "sources": "Göteborgs universitetsbibliotek, Kungliga Biblioteket Stockholm, Musik- och teatermuseet Stockholm, Musik- och teaterbiblioteket, Stockholms stadsarkiv, Kungl. Musikaliska akademien (ledamotformulär nr 124)",
+  "links": [],
+  "works_summary": "6 symfonier, verk för orkester (bl a Nordiskt Capriccio, Lapplandsmetamorfoser, mm), 3 pianokonserter, violinkonsert, violakonsert, cellokonsert, flöjtkonsert, saxofonkonsert, gitarrkonsert, tubakonsert (samt flera andra verk för soloinstrument och orkester), 7 stråkkvartetter, kammarmusik (bl a \"Varianti virtuosi\" för violin och piano, \"Tubania\" för tuba och piano, mm), verk för piano, verk för soloinstrument utan ackompanjemang (bl a 12 st \"Monologer\" för alla orkesterinstrumenten, flera gitarrstycken), sånger med piano, verk för kör, sångspelet \"Lasse Lucidor\", sångspelet för barn \"Pelle Svanslös\", baletterna \"Askungen\" och \"Simson och Delila\"",
+  "works": [
+    {
+      "category": "Orchestral works in one movement",
+      "title": "Oxberg-Variationen, über ein Thema aus Dalekarlien",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/koch-erland-von/SMH-W2414-Oxberg-Variationen_uber_ein_Thema_aus_Dalekarlien",
+      "has_published_edition": false
+    },
+    {
+      "category": "Orchestral works in one movement",
+      "title": "Popular March no. 2, Marcia Populare no. 2",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/koch-erland-von/SMH-W2398-Popular_March_no_2_Marcia_Populare_no_2",
+      "has_published_edition": false
+    },
+    {
+      "category": "Orchestral works in several movements",
+      "title": "Cantilena e Marcia populare no. 1",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/koch-erland-von/SMH-W7295-Cantilena_e_Marcia_populare_no_1",
+      "has_published_edition": false
+    },
+    {
+      "category": "Orchestral works in several movements",
+      "title": "Concertino, For string orchestra opus 16",
+      "opus": "16",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/koch-erland-von/SMH-W2111-Concertino_For_string_orchestra",
+      "has_published_edition": false
+    },
+    {
+      "category": "Orchestral works in several movements",
+      "title": "Drei Orchesterminiaturen",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/koch-erland-von/SMH-W2416-Drei_Orchesterminiaturen",
+      "has_published_edition": false
+    },
+    {
+      "category": "Orchestral works in several movements",
+      "title": "Lantlig svit för stråkorkester [Rustic suite for string orchestra] opus 32",
+      "opus": "32",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/koch-erland-von/SMH-W6090-Lantlig_svit_for_strakorkester_Rustic_suite_for_string_orchestra",
+      "has_published_edition": false
+    },
+    {
+      "category": "Orchestral works in several movements",
+      "title": "Musica intima",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/koch-erland-von/SMH-W2412-Musica_intima",
+      "has_published_edition": false
+    },
+    {
+      "category": "Orchestral works in several movements",
+      "title": "Musica malinconica, (Melancholic music) opus 50",
+      "opus": "50",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/koch-erland-von/SMH-W2409-Musica_malinconica_Melancholic_music",
+      "has_published_edition": false
+    },
+    {
+      "category": "Orchestral works in several movements",
+      "title": "Rytmiska stråkbagateller [(approx.) Rhythmical trifles for strings]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/koch-erland-von/SMH-W7323-Rytmiska_strakbagateller_approx_Rhythmical_trifles_for_strings",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Blåklint",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/koch-erland-von/SMH-W1859-Blaklint",
+      "has_published_edition": false
+    },
+    {
+      "category": "Viola and piano",
+      "title": "Scherzo für Violoncello oder Viola und Klavier",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/koch-erland-von/SMH-W1563-Scherzo_fur_Violoncello_oder_Viola_und_Klavier",
+      "has_published_edition": false
+    },
+    {
+      "category": "Cello and piano",
+      "title": "Canzona för violoncell och piano [Canzona for violoncello and piano]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/koch-erland-von/SMH-W64-Canzona_for_violoncell_och_piano_Canzona_for_violoncello_and_piano",
+      "has_published_edition": false
+    },
+    {
+      "category": "Cello and piano",
+      "title": "Scherzo für Violoncello oder Viola und Klavier",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/koch-erland-von/SMH-W1564-Scherzo_fur_Violoncello_oder_Viola_und_Klavier",
+      "has_published_edition": false
+    },
+    {
+      "category": "Cello solo",
+      "title": "Monolog 17 [Monologue no. 17], Monologue on a Swedish folk tune ('Vallåt från Enviken' [Herding tune from Enviken, Dalecarlia)]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/koch-erland-von/SMH-W65-Monolog_17_Monologue_no_17_Monologue_on_a_Swedish_folk_tune_Vallat_fra",
+      "has_published_edition": false
+    },
+    {
+      "category": "String quartet",
+      "title": "[Movement 4 from] Five Sketches for String Quartet",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/koch-erland-von/SMH-W363-Movement_4_from_Five_Sketches_for_String_Quartet",
+      "has_published_edition": false
+    },
+    {
+      "category": "String quartet",
+      "title": "Musica intima",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/koch-erland-von/SMH-W2413-Musica_intima",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "koch-erland-von"
+}

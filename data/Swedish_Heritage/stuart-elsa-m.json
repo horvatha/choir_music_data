@@ -1,0 +1,42 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/stuart-elsa-m/",
+  "title": "Elsa M. Stuart (1889-1970)",
+  "name": "Elsa M. Stuart",
+  "years": "1889-1970",
+  "description": "Elsa Marianne Stuart-Bergström föddes den 26 april 1889 i Adolf Fredriks församling, Stockholm. Avled i Skara den 19 maj 1970. Författare, musikrecensent och tonsättare. Uppvuxen i Söderköping, studerade konst- och litteraturhistoria, samt musikhistoria i Stockholm. Studier i piano, harmonilära och komposition för Felix Saul, kantor i mosaiska församlingen i Stockholm. Musikrecensent i Socialdemokraten och Politiken, ofta under pseudonymerna E.M.S. eller Kaimen. Skrev även för The Musical Times i London. Skrev flera musikbiografiska verk. Gifte sig 1932 med Richard Bergström och flyttade till Skara, där hon blev kvar till sin död.",
+  "birth": {
+    "place": null,
+    "date": "26 april 1889",
+    "raw": "föddes den 26 april 1889"
+  },
+  "death": {
+    "place": "Skara",
+    "date": "19 maj 1970",
+    "raw": "Avled i Skara den 19 maj 1970"
+  },
+  "biography": "Så här står det i Svensk Biografisk Handbok, 1943: Stuart-Bergström, Elsa Marianne,skriftställarinna, tonsättarinna, Sthlm, f. i Sthlm 26/4/89 av riddarhussekr. John S. o. Hanna Hjerpe; stud:ex. 09, konst-, litteratur- o. musikhist. studier v. Sthlms högsk. o. musikkonserv., pianostud. f. prof.L. Lundberg o. Kerstin Strömberg, musikteori f.Felix Saul, besökt 12 europ. länder f. musikstud., musikkrit. i Sthlmspressen fr. 17 o. korresp. t. utl. tidskr., bl. a. The Musical Times, London, föredr:hållare över skilda kulturella ämnen, komp. ett 60-tal romanser o. visor samt ett ant. orktstycken. Skr: Johann Sebastian Bach (22), biografier (Alfvén, Atterberg, Peterson-Berger, Rangström m. fl. sv. tonsättare). Pseud: Kaimen; sign: E. M. S. Gm. (32) konsul Richard Bergström, f. 84.",
+  "publications": "Tonsättarbiografier: Johann Sebastian Bach (1922) Anton Bruckner (1924) Elfria Andrée (1925) Kurt Atterberg (1925) Jenny Lind och Aubers opera Jenny Bell. Stockholm 1920: Svenska samfundet för musikforskning",
+  "bibliography": null,
+  "sources": "Stifts- och landsbiblioteket i Skara",
+  "links": [],
+  "works_summary": "verk för piano, ca 60 sånger med piano, verk för salongsorkester",
+  "works": [
+    {
+      "category": "Voice and piano",
+      "title": "Song in folk tone",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/stuart-elsa-m/SMH-W1483-Song_in_folk_tone",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Spelare-Jan",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/stuart-elsa-m/SMH-W1482-Spelare-Jan",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "stuart-elsa-m"
+}

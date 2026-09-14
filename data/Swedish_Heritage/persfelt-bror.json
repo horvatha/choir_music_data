@@ -1,0 +1,42 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/persfelt-bror/",
+  "title": "Bror Persfelt (1881-1975)",
+  "name": "Bror Persfelt",
+  "years": "1881-1975",
+  "description": "Cellist, musikpedagog och tonsättare. Bror Edvin Persfelt (f. Pettersson) föddes den 27 maj 1881 i Storkyrkoförsamlingen, Stockholm. Avled den 28 oktober 1975 i Täby församling. Studerade vid Musikkonservatoriet 1894-1899 (för bl a Anton Jörgen Andersén). Fortsatta studier i Frankfurt am Main. Lärare vid Helsingfors musikinstitut 1905-1918. Därefter bosatt i Berlin, varifrån han reste som konserterande cellist. Anställd som cellist i Kungl. Hovkapellet 1922, stämledare 1930-1941.",
+  "birth": {
+    "place": null,
+    "date": "27 maj 1881",
+    "raw": "föddes den 27 maj 1881"
+  },
+  "death": {
+    "place": "Täby församling",
+    "date": "28 oktober 1975",
+    "raw": "Avled den 28 oktober 1975 i Täby församling"
+  },
+  "biography": "Bror Persfelt invaldes som associé nr 160 i Kungl. Musikaliska akademien den 24 maj 1932 och överfördes till ordinarie ledamot nr 750 den 1 juli 1971.",
+  "publications": "Cellospelets ABC . Stockholm (1949)",
+  "bibliography": null,
+  "sources": null,
+  "links": [],
+  "works_summary": "Under uppbyggnad",
+  "works": [
+    {
+      "category": "Cello and piano",
+      "title": "Mazurka no. 2 [arranged for cello and piano of the Konzert Studie no. 5 for solo cello; arrangement by Gustaf Arwidsson?] opus 1 no 5",
+      "opus": "1",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/persfelt-bror/SMH-W2341-Mazurka_no_2_arranged_for_cello_and_piano_of_the_Konzert_Studie_no_5_f",
+      "has_published_edition": false
+    },
+    {
+      "category": "Cello solo",
+      "title": "Konzert Studien für Cello [solo] no 4: Bagatelle, opus 1 no 4",
+      "opus": "1",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/persfelt-bror/SMH-W2340-Konzert_Studien_fur_Cello_solo_no_4_Bagatelle",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "persfelt-bror"
+}

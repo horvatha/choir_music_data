@@ -1,0 +1,42 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/been-lars-magnus/",
+  "title": "Lars Magnus Béen (1820-1905)",
+  "name": "Lars Magnus Béen",
+  "years": "1820-1905",
+  "description": "Lars Magnus Béen. Född den 5 december 1820 i Helsingborgs stadsförsamling, död 19 augusti 1905 i Allerum (Helsingborg). Kyrkomusiker och tonsättare, verksam i Skåne. Verksam som musiker vid Skånska Husarregementet 1838-58. Organist i Allerum och Fleninge församlingar från 1855.",
+  "birth": {
+    "place": null,
+    "date": "5 december 1820",
+    "raw": "Född den 5 december 1820"
+  },
+  "death": {
+    "place": "Allerum (Helsingborg)",
+    "date": "19 augusti 1905",
+    "raw": "död 19 augusti 1905 i Allerum (Helsingborg)"
+  },
+  "biography": "Béen var musiker (skvadrontrumpetare, befordrad till stabstrumpetare 1844) vid Skånska husarregementet 1838–1858. Organist i Allerum och Fleninge församlingar från 1855. Invald i Kungl. Musikaliska akademien 30 januari 1850 som agré nr 6, ordinarie associé nr 77 från den 28 februari 1857.",
+  "publications": null,
+  "bibliography": null,
+  "sources": null,
+  "links": [],
+  "works_summary": "verk för kör, bl a Sköna maj",
+  "works": [
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Maj-sång [Majsång] (\"Sköna Maj, välkommen\") [May song]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/been-lars-magnus/SMH-W5416-Maj-sang_Majsang_Skona_Maj_valkommen_May_song",
+      "has_published_edition": false
+    },
+    {
+      "category": "Male choir a cappella",
+      "title": "Maj-sång [Majsång] (\"Sköna Maj, välkommen\")",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/been-lars-magnus/SMH-W4906-Maj-sang_Majsang_Skona_Maj_valkommen",
+      "has_published_edition": true
+    }
+  ],
+  "slug": "been-lars-magnus"
+}

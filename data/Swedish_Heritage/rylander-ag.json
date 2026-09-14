@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/rylander-ag/",
+  "title": "Anders Gabriel Rylander (1765-1828)",
+  "name": "Anders Gabriel Rylander",
+  "years": "1765-1828",
+  "description": "Född i Hjortsberga församling (Ronneby) sannolikt den 28 april [även 19 april förekommer i vissa källor] 1765. (Fadern var trumpetare.) Avliden i Lekeryds församling (Jönköping) den 22 juli 1828. Studerade i Lund, där han bl a tjänstgjorde som vice konsistorienotarie och amanuens vid universitetsbiblioteket. Magisterexamen 1793. Kantor och organist på Visingsö från 1795. Var även verksam som lärare samt efter prästvigningen 1800 komminister i Lekeryd. Nämnd i Carl Nissers Svensk Instrumentalkomposition 1770-1830, Nominalkatalog, Stockholm 1943.",
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": "Lekeryds församling (Jönköping)",
+    "date": "22 juli 1828",
+    "raw": "Avliden i Lekeryds församling (Jönköping) den 22 juli 1828"
+  },
+  "biography": "Under uppbyggnad.",
+  "publications": null,
+  "bibliography": "Nisser, Carl: Svensk Instrumentalkomposition 1770-1830, Nominalkatalog (1943) Virdestam, Gotthard: Växjö stifts herdaminne D. 7 Tveta och Vista. Skolpräster. Växjö (1932)",
+  "sources": null,
+  "links": [],
+  "works_summary": "Wals (för Pianoforte) G-dur Wals (för Pianoforte) B-dur Valz (för Pianoforte) C-dur",
+  "works": [],
+  "slug": "rylander-ag"
+}

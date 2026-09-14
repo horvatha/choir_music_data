@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/berwald-christian-f-georg/",
+  "title": "Christian Friedrich Georg Berwald (1740-1825)",
+  "name": "Christian Friedrich Georg Berwald",
+  "years": "1740-1825",
+  "description": "Christian Friedrich Georg Berwald, född i Hohenaspe, Schleswig-Holstein (då tillhörande Danmark, nu Tyskland) 14 augusti 1740. Avled i Tyska S:ta Gertruds församling, Stockholm, 23 februari 1825. Violinist, sannolikt elev till Franz Benda (1709-1786). Kom till Stockholm 1772 och tjänstgjorde i Kungliga Hovkapellet 1773-1806. Far till tonsättaren Franz Adolph Berwald (1796-1868).",
+  "birth": {
+    "place": "Hohenaspe, Schleswig-Holstein (då tillhörande Danmark, nu Tyskland)",
+    "date": "14 augusti 1740",
+    "raw": "född i Hohenaspe, Schleswig-Holstein (då tillhörande Danmark, nu Tyskland) 14 augusti 1740"
+  },
+  "death": {
+    "place": "Tyska S:ta Gertruds församling, Stockholm,",
+    "date": "23 februari 1825",
+    "raw": "Avled i Tyska S:ta Gertruds församling, Stockholm, 23 februari 1825"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "Dahlgren, Fredrik August : Förteckning öfver svenska skådespel uppförda på Stockholms theatrar 1737-1863 och Kongl. theatrarnes personal 1773-1863 med flera anteckningar . Stockholm (1866) Karle, Gunhild : Kungl. Hovkapellet i Stockholm och dess musiker 1772-1818. Uppsala (2000)",
+  "sources": "Landsarkivet Härnösand, Uppsala Universitetsbibliotek, Skara Stifts- och landsbibliotek, Lunds Universitetsbibliotek",
+  "links": [],
+  "works_summary": "Under uppbyggnad",
+  "works": [],
+  "slug": "berwald-christian-f-georg"
+}

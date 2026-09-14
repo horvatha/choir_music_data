@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/wrangel-augusta/",
+  "title": "Augusta Wrangel (1658-1699)",
+  "name": "Augusta Wrangel",
+  "years": "1658-1699",
+  "description": "Augusta Aurora Wrangel af Salmis var född den 5 juni 1658 och avled den 27 januari 1699. Dotter till Carl Gustaf Wrangel och Anna Margareta von Haugwitz. Ägare till Ekebyhovs slott, Ekerö (Stockholm).",
+  "birth": {
+    "place": null,
+    "date": "5 juni 1658",
+    "raw": "född den 5 juni 1658"
+  },
+  "death": {
+    "place": null,
+    "date": "27 januari 1699",
+    "raw": "avled den 27 januari 1699"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": null,
+  "sources": null,
+  "links": [],
+  "works_summary": "Under uppbyggnad",
+  "works": [],
+  "slug": "wrangel-augusta"
+}

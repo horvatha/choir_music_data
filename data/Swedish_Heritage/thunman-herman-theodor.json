@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/thunman-herman-theodor/",
+  "title": "Herman Theodor Thunman (1827-1884)",
+  "name": "Herman Theodor Thunman",
+  "years": "1827-1884",
+  "description": "Herman Theodor Thunman föddes den 23 augusti 1827 i Jakob och Johannes församling, Stockholm. Avled den 16 augusti 1884 i Hedvig Eleonora församling (Stockholm). Kamrer (i bl a den engelsk-svenska banken och Stockholms Inteckningsgaranti-aktiebolag), sångare och pianist, arrangör av folkmusik, under en tid musikanmälare i Stockholms Dagblad, gift med Carolina (f Thornton). Revisor i Musikaliska konstföreningen. Bror till litteratören Per Wilhelm Thunman som också komponerade. Herman Thunman var nära vän med Ludvig Norman, vilken 1884 skrev sin stråkkvartett, op. 65, till minne av HT.",
+  "birth": {
+    "place": null,
+    "date": "23 augusti 1827",
+    "raw": "föddes den 23 augusti 1827"
+  },
+  "death": {
+    "place": "Hedvig Eleonora församling (Stockholm)",
+    "date": "16 augusti 1884",
+    "raw": "Avled den 16 augusti 1884 i Hedvig Eleonora församling (Stockholm)"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "Hedwall, Lennart : Oscar Byström - ett svenskt musikeröde från 1800-talet , Hedemora: Gidlunds, s. 100",
+  "sources": null,
+  "links": [],
+  "works_summary": "Folkmusikarrangemang, verk för manskvartett",
+  "works": [],
+  "slug": "thunman-herman-theodor"
+}

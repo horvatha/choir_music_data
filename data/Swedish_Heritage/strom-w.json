@@ -1,0 +1,34 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/strom-w/",
+  "title": "Vilhelm Ström (1848-1909)",
+  "name": "Vilhelm Ström",
+  "years": "1848-1909",
+  "description": "Född i Arvika den 31 januari 1848. Avled i Söderala den 3 augusti 1909. Organist, musikdirektör. Tonsättare.",
+  "birth": {
+    "place": "Arvika",
+    "date": "31 januari 1848",
+    "raw": "Född i Arvika den 31 januari 1848"
+  },
+  "death": {
+    "place": "Söderala",
+    "date": "3 augusti 1909",
+    "raw": "Avled i Söderala den 3 augusti 1909"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": null,
+  "sources": null,
+  "links": [],
+  "works_summary": "Romans för 4 [fyra] Horn",
+  "works": [
+    {
+      "category": "Other chamber music with winds",
+      "title": "Romance for 4 [four] French horns",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/strom-w/SMH-W3832-Romance_for_4_four_French_horns",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "strom-w"
+}

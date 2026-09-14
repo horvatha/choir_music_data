@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/walther-/",
+  "title": "Thomas Christian Walter (1749-1788)",
+  "name": "Thomas Christian Walter",
+  "years": "1749-1788",
+  "description": "Thomas Christian Walter, dansk ämbetsman och amatörtonsättare, döptes i København 12 februari 1749 och avled i Tranquebar (huvudort i dåtida dansk besittning i Indien) 18 november 1788. Son till Thomas Saur och Edele Margrete Walter växte han upp hos sin morfar, statsrådet Christian Walter och tog dennes efternamn. 1773-1774 direktör vid det Kgl. Teater. Därefter 3 år utlandsstipendiat, bl a vintern 1775-76 i Stockholm, där han komponerade operabaletten Adonis (premiär februari 1776). Utländsk LMA nr 2 1776. Efter uteblivna musikaliska framgångar blev han regeringssekreterare i Tranquebar.",
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": "Tranquebar (huvudort i dåtida dansk besittning i Indien)",
+    "date": "18 november 1788",
+    "raw": "avled i Tranquebar (huvudort i dåtida dansk besittning i Indien) 18 november 1788"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "Nisser, Carl: Svensk Instrumentalkomposition 1770-1830, Nominalkatalog (1943) Krogh, Torben: biografi ingående i Dansk Biografisk Leksikon Femtende Bind. Gyldendal, København (1984) [sid 265]",
+  "sources": null,
+  "links": [],
+  "works_summary": "Försv., balett",
+  "works": [],
+  "slug": "walther-"
+}

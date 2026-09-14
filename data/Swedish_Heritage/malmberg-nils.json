@@ -1,0 +1,34 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/malmberg-nils/",
+  "title": "Nils Malmberg (1872−1945)",
+  "name": "Nils Malmberg",
+  "years": "1872−1945",
+  "description": "Nils Magnus Malmberg, born 11 July 1872 in Stockholm and died there 17 December 1945, was a military musician and composer. He studied at the Royal Conservatory of Music and served as conductor at the Royal Dramatic Theatre 1896−99. His main occupation was that of music director for a couple of regiments. He also worked as an organist and assistant piano teacher at the conservatory, as well as a singing teacher. In addition, he was a special adviser in the structuring of music education at secondary schools.",
+  "birth": {
+    "place": "Stockholm",
+    "date": "11 July 1872",
+    "raw": "born 11 July 1872 in Stockholm and died"
+  },
+  "death": {
+    "place": "Stockholm",
+    "date": "17 December 1945",
+    "raw": "died there 17 December 1945"
+  },
+  "biography": "Life Between civilian and military music Nils Malmberg studied at Kungliga Musikkonservatoriet (the Royal Conservatory of Music) and graduated with a Director of Military Music degree in 1894, further qualifying as a precentor in 1898 and an organist in 1902. During his studies he applied for various positions to support himself, and thus served parallel as music director at the Royal Southern Skåne Infantry Regiment in Ystad 1896−1906 and as conductor at Kungliga Dramatiska teatern (the Royal Dramatic Theatre) in Stockholm 1896−99. He also worked as an additional cellist at Kungliga Hovkapellet (the Royal Court Orchestra) 1900−02. Moreover he tried, with great difficulty, to find private students to supplement his income. These positions were, at times, difficult to co-ordinate, as evidenced in his letters to the piano teacher Richard Andersson, for whom Nils Malmberg studied privately until 1899, when he no longer had the time or money to continue. Amid circumlocutions, he asks forgiveness for not being able to attend lessons, but states he was, in any case, not in such a hurry to graduate (1898) and that he ‘may not be able to afford to continue my lessons this year’ (6 October 1899). A week later he married Anna Josefina Kristina (1870−1932) and they lived for the rest of their lives in Stockholm. ‘It is therefore quite difficult for me to live only on the regimental salary and the lessons I possibly get to teach’, he claimed, whilst enquiring if Andersson could recommend any potential students. The Spanish flu and its consequences From 1904−28, to avoid the necessity of long journeys, Nils Malmberg worked as an assistant piano teacher at Musikkonservatoriet, as well as a singing teacher at schools in Stockholm (Kungsholmen realskola 1900 and The New Elementary School 1914). He also served as music director for the Royal Södermanland Regiment in Strängnäs 1906−14, and was organist at the French Reformed Church in Stockholm from 1906. In 1918, he was appointed chairman of Svenska Musikerförbundet (the Swedish Musicians’ Union), a post he had to leave shortly thereafter as his life fundamentally changed when he was struck by the ‘Spanish flu’, the influenza which took the lives of so many during this period. Among the Swedish composers who died of the disease were Harald Fryklöf and Sigurd von Koch, whose fate affected him strongly. Malmberg survived, but suffered severe nerve damage, the effects of which he subsequently endured for many years. In January 1921, he writes in a letter to Bror Beckman: ‘In autumn 1918, I was quite seriously ill with the Spanish flu, and in particular the consequences for my nerves were difficult and protracted, yes, I can say that they have not yet left me completely.’ These concerns would in fact darken the rest of his life. Even his wife’s death in 1932 profoundly affected him. In the early 1930s, he anonymously donated 200 Swedish kronor to a scholarship fund, originally intended for a woodwind student, but in connection with the death of his wife, this was changed to benefit a female vocal student. Nils Malmberg was buried on 22 December 1945 at the Northern Cemetery (Catholic cemetery) in Stockholm. Work Nils Malmberg’s compositions have, in most cases, an incidental character. The march for the Royal Southern Skåne Infantry Regiment was for a period (around 1898−1910) the regiment’s official march. He also wrote a march entitled ‘Överste Gyllenram’ (Colonel Gyllenram) whose subject, Henry Frederick Gyllenram, was active in the same regiment from 1895−1904, and the piece was likely composed on the colonel’s retirement. A bound score for the symphony which Nils Malmberg worked on at the turn of the century remains extant. However, this work has been neglected in silence and is not mentioned in Lennart Hedwall’s book Den svenska symfonin (The Swedish Symphony) from 1983. Nils Malmberg’s songs ‘Skyddsengeln’ (‘Till en älskad makas minne’) and ‘Visa’ are probably his most widely circulated works, and were both published in beautiful editions. On the title page of the latter song, we read that it was ‘sung at the Dramatiska teatern to great acclaim’. It was an excerpt from the music to the play För kronan , whose premiere was 22 January 1897, the year after Carl Snoilsky’s translation of this work. The singer was named ‘Miss Jahnke’, who later became Julia Mandahl, a distinguished singer at the Opera. In the 1890s, Nils Malmberg appeared as conductor, arranger and composer in a dozen productions at the Kungliga Dramatiska teatern, then located at Kungsträdgårdsgatan in Stockholm. In the above-mentioned letter to Beckman, Malmberg mentions that, in response to Harald Fryklöf’s death, he composed the song ‘Spillror’ (‘Av livets morgondrömmar’) for baritone and piano/orchestra, to a text by Viktor Rydberg, and enquires whether the song might possibly ‘be performed at any of the conservatory’s musical presentations, by an advanced vocal student’. Greater expectations than this, he appears not to have cultivated. Stig Jacobsson © 2015 Trans. Robin McGinley",
+  "publications": null,
+  "bibliography": "‘Nils Malmberg’, in: Sohlmans musikIexikon, 1st ed., Stockholm: Sohlman, 1951. Henricson, Gunnar &amp; Ohlsson, Nils (eds): Kungl. Södermanlands regemente under 350 år . Strängnäs 1977.",
+  "sources": "Musik- och teaterbiblioteket.",
+  "links": [],
+  "works_summary": "Incidental music, orchestral works (1 symphony, Sagolandet), choral works with orchestra, chamber music, piano and organ music, songs with piano and music for military band.",
+  "works": [
+    {
+      "category": "Voice and piano",
+      "title": "Soldatsång",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/malmberg-nils/SMH-W1434-Soldatsang",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "malmberg-nils"
+}

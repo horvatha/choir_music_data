@@ -1,0 +1,74 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/almkvisth-alwar/",
+  "title": "Alwar Almkvisth (1950-)",
+  "name": "Alwar Almkvisth",
+  "years": "1950-",
+  "description": "För aktuell verkförteckning och biografisk information om nu levande tonsättare hänvisar vi till Svensk Musik och Föreningen Svenska Tonsättare (FST)",
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "biography": "Född i Vetlanda. Studerat KMH i Stockholm: Kör- och teoripedagog, Organist, musiklärare för bl.a. Lars-Erik Rosell, Mats Åberg, Stefan Therstam, Bo Wallner, Irene Mannheimer, Lilian Gentele, Per-Gunnar Alldahl. Anställningar: Flera Musikfolkhögskolor, Kammarmusikinstitutionen Högskolan Västerås, Solna Församling, timlärare KMH Stockholm. Priser i kompositionstävlingar för orkester, barnkör, ungdomspsalm.",
+  "publications": null,
+  "bibliography": null,
+  "sources": null,
+  "links": [],
+  "works_summary": "Orkesterverk (en symfoni, Reflexer från Betlehem, Play a new tune to the Lord) Körverk (notutgåvor via Gehrmans, Echo Music, Notlinjen, Reimers) Solosånger, orgelmusik, pianostycken (via Svensk Musik)",
+  "works": [
+    {
+      "category": "Orchestral works in one movement",
+      "title": "Play a new tune to the Lord (for brass orchestra)",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/almkvisth-alwar/SMH-W6985-Play_a_new_tune_to_the_Lord_for_brass_orchestra",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir and instruments",
+      "title": "Kören sjunger Atle (7 sånger) [The choir sings Atle (7 songs)]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/almkvisth-alwar/SMH-W6986-Koren_sjunger_Atle_7_sanger_The_choir_sings_Atle_7_songs",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Mörkret skall förgå (9 bibliska sånger) [approx. The darkness shall pass (9 Biblical songs)]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/almkvisth-alwar/SMH-W6983-Morkret_skall_forga_9_bibliska_sanger_approx_The_darkness_shall_pass_9",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Njut rosens röda doft (8 solosånger) [approx. Delight in the red fragrance of the rose (8 solo songs)]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/almkvisth-alwar/SMH-W6982-Njut_rosens_roda_doft_8_solosanger_approx_Delight_in_the_red_fragrance",
+      "has_published_edition": false
+    },
+    {
+      "category": "Piano",
+      "title": "Poems (5 pianostycken)",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/almkvisth-alwar/SMH-W6987-Poems_5_pianostycken",
+      "has_published_edition": false
+    },
+    {
+      "category": "Organ",
+      "title": "Trédecim Musici pro Organum (13 orgelstycken) [13 pieces for organ]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/almkvisth-alwar/SMH-W6984-Tredecim_Musici_pro_Organum_13_orgelstycken_13_pieces_for_organ",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "almkvisth-alwar"
+}

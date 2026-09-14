@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/preumayr-johan-conrad/",
+  "title": "Johan Conrad Preumayr (1775-1819)",
+  "name": "Johan Conrad Preumayr",
+  "years": "1775-1819",
+  "description": "Johan(n) (även Ioannes förekommer i vissa källor) Conrad Preumayr föddes i december 1775 i Koblenz, Rheinland-Pfalz (Tyskland). Avled i S:ta Eugenia Katolska församling, Stockholm, den 20 mars 1819. Bror till Frans (Franz) Carl och Carl Josua Preumayr. Nämnd i Carl Nissers Svensk Instrumentalkomposition 1770-1830, Nominalkatalog, Stockholm 1943.",
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": "S:ta Eugenia Katolska församling, Stockholm,",
+    "date": "20 mars 1819",
+    "raw": "Avled i S:ta Eugenia Katolska församling, Stockholm, den 20 mars 1819"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "Karle, Gunhild : Kungl. Hovkapellet i Stockholm och dess musiker 1772-1818 (Uppsala, 2001) Nisser, Carl : Svensk Instrumentalkomposition 1770-1830 , Nominalkatalog (Stockholm, 1943)",
+  "sources": null,
+  "links": [],
+  "works_summary": "Försv.",
+  "works": [],
+  "slug": "preumayr-johan-conrad"
+}

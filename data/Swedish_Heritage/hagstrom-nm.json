@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/hagstrom-nm/",
+  "title": "Nils Magnus Hagström (1804-1863)",
+  "name": "Nils Magnus Hagström",
+  "years": "1804-1863",
+  "description": "Född den 26 juli 1804 i Bringetofta församling (Nässjö), där fadern var organist. Avliden i Vittinge församling (Heby) 22 juni 1863. Organistexamen 1829. Verksam som klockare, organist och skollärare, först i Näshulta (Eskilstuna), från 1834 i Vittinge. Nämnd i Carl Nissers Svensk Instrumentalkomposition 1770-1830, Nominalkatalog, Stockholm 1943.",
+  "birth": {
+    "place": null,
+    "date": "26 juli 1804",
+    "raw": "Född den 26 juli 1804"
+  },
+  "death": {
+    "place": "Vittinge församling (Heby)",
+    "date": "22 juni 1863",
+    "raw": "Avliden i Vittinge församling (Heby) 22 juni 1863"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "Nisser, Carl: Svensk Instrumentalkomposition 1770-1830, Nominalkatalog (1943)",
+  "sources": null,
+  "links": [],
+  "works_summary": "Pianoverk (Marsch Es-dur [sic])",
+  "works": [],
+  "slug": "hagstrom-nm"
+}

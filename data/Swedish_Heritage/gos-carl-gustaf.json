@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/gos-carl-gustaf/",
+  "title": "Carl Gustaf Goës (1763-1793)",
+  "name": "Carl Gustaf Goës",
+  "years": "1763-1793",
+  "description": "Carl Gustaf Goës föddes i Öja församling (Eskilstuna) 5 december 1763, Avled där 15 december 1793. Nämnd i Carl Nissers Svensk Instrumentalkomposition 1770-1830, Nominalkatalog, Stockholm 1943.",
+  "birth": {
+    "place": "Öja församling (Eskilstuna)",
+    "date": "5 december 1763",
+    "raw": "föddes i Öja församling (Eskilstuna) 5 december 1763"
+  },
+  "death": {
+    "place": "Öja församling (Eskilstuna)",
+    "date": "15 december 1793",
+    "raw": "Avled där 15 december 1793"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "Nisser, Carl : Svensk Instrumentalkomposition 1770-1830, Nominalkatalog (1943)",
+  "sources": "Statens Musik- och teaterbibliotek",
+  "links": [],
+  "works_summary": "Verk för harpa, piano, luta och cittra",
+  "works": [],
+  "slug": "gos-carl-gustaf"
+}

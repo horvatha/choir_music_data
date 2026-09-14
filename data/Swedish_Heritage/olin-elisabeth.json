@@ -1,0 +1,34 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/olin-elisabeth/",
+  "title": "Elisabeth Olin (1740-1828)",
+  "name": "Elisabeth Olin",
+  "years": "1740-1828",
+  "description": "Elisabeth Olin born in Stockholm on 8 December 1740 where she also died on 26 March 1828. Renowned opera singer and actress. The first woman to become a member of the Royal Swedish Academy of Music.",
+  "birth": {
+    "place": "Stockholm",
+    "date": "8 December 1740",
+    "raw": "born in Stockholm on 8 December 1740"
+  },
+  "death": {
+    "place": "Stockholm",
+    "date": "26 March 1828",
+    "raw": "where she also died on 26 March 1828"
+  },
+  "biography": "Elisabeth Olin. Kungl. Operan. Elisabeth Olin, born in Stockholm on 8 December 1740, was a prominent Swedish Royal Court Singer, actress and composer. Olin debuted at the Bollhuset Theatre in 1773 in Francesco Uttini's \"Thetis och Pelée\", the first opera in the Swedish language. She subsequently performed a number of roles in works by Handel and Gluck, among others. Olin was known not only for her vocal abilities and beautiful voice, but also for her acting and performance abilities. She appeared in her first production already at the age of seven and maintained her pure, beautiful singing voice even into old age, as testified by contemporaries. Olin is counted among the most prolific Swedish stage personalities of the 18th century. She married the assessor Gabriel Olin in 1760 and had a daughter Elisabeth \"Betty\" Olin, who also became an opera singer. Elisabeth was elected as member no. 85 of the Royal Swedish Academy of Music in 1788, after having been named an honorary member on 5 December 1782. She was the first woman to become a member of the academy. She died in Stockholm on 26 March 1828, at the age of 87. Edward Klingspor © 2023 Trans. Nicole Vickers",
+  "publications": null,
+  "bibliography": "Van Boer, Bertil H: Valkyries of the North: a study of four women performers in Gustavian Sweden, i Women of note quarterly . 1994 (2:2), s. 15-25 Flodmark, Johan: Elisabeth Olin och Carl Stenborg: två gustavianska sångargestalter : bilder från svenska operans första tider . Stockholm (1903) Franzén, Nils-Olof : \" Olin, Elisabeth \", i Svenskt biografiskt lexikon , bd 28 (1992-94) Hagman, Bertil: Några gustavianska scenprofiler, i Confidencen (1990) S. 102-150 Ivarsdotter, Anna : Den gustavianska operan, i Musiken i Sverige. 2. Stockholm (1993) S. 287-350",
+  "sources": "Lunds Universitetsbibliotek",
+  "links": [],
+  "works_summary": "Under uppbyggnad",
+  "works": [
+    {
+      "category": "Voice and harpsichord",
+      "title": "En liten Sårland bäck [with basso continuo]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/olin-elisabeth/SMH-W7187-En_liten_Sarland_back_with_basso_continuo",
+      "has_published_edition": true
+    }
+  ],
+  "slug": "olin-elisabeth"
+}

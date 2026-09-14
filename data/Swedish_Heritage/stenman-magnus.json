@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/stenman-magnus/",
+  "title": "Magnus Stenman (1779-1842)",
+  "name": "Magnus Stenman",
+  "years": "1779-1842",
+  "description": "Född i Borås 1779. Organist i Maria Magdalena församling i Stockholm 1805-1817, i S:t Nicolai församling 1817-1818, 1818-1829 åter i Maria Magdalena. Från 1829 till sin bortgång organist i Katarina församling. Undervisade dåvarande kronprins Oscar i pianospel.",
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "biography": "Invaldes 1840 som ledamot nr 284 i Kungl. Musikaliska akademien",
+  "publications": null,
+  "bibliography": null,
+  "sources": null,
+  "links": [],
+  "works_summary": "Pianoverk",
+  "works": [],
+  "slug": "stenman-magnus"
+}

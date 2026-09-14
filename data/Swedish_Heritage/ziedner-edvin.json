@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/ziedner-edvin/",
+  "title": "Edvin Ziedner (1892-1951)",
+  "name": "Edvin Ziedner",
+  "years": "1892-1951",
+  "description": "Edvin Caesar Napoleon Ziedner föddes den 16 februari 1892 i Hedvig Eleonora församling (Stockholm). Avled i Danderyds församling den 18 november 1951. Kapellmästare, kompositör och författare av sångtexter. Bror till skådespelerskan Lili Ziedner.",
+  "birth": {
+    "place": null,
+    "date": "16 februari 1892",
+    "raw": "föddes den 16 februari 1892"
+  },
+  "death": {
+    "place": "Danderyds församling",
+    "date": "18 november 1951",
+    "raw": "Avled i Danderyds församling den 18 november 1951"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": null,
+  "sources": null,
+  "links": [],
+  "works_summary": "Musik till sångspelet Bellman på Kungl. Teatern (1930). Musik till filmen Den långa vägen (1947). Textförfattare till operetten Sfinxen (musik: Ernst Ellberg)",
+  "works": [],
+  "slug": "ziedner-edvin"
+}

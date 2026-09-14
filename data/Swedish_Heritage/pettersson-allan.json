@@ -1,0 +1,66 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/pettersson-allan/",
+  "title": "Allan Pettersson (1911-1980)",
+  "name": "Allan Pettersson",
+  "years": "1911-1980",
+  "description": "Denne tonsättares verk skyddas fortfarande av upphovsrätten och ingår därför inte i Levande Musikarvs utgivning. För mer information om liv och verk hänvisar vi till Svensk Musiks hemsida.",
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "biography": "-",
+  "publications": null,
+  "bibliography": "Kube, Michael: Allan Pettersson (KMA 2014)",
+  "sources": null,
+  "links": [],
+  "works_summary": "---",
+  "works": [
+    {
+      "category": "Orchestral works in one movement",
+      "title": "Mesto for string orchestra, (from Concert no. 3)",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/pettersson-allan/SMH-W2958-Mesto_for_string_orchestra_from_Concert_no_3",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Fattig är Mor (from 'Barfotasånger')",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/pettersson-allan/SMH-W729-Fattig_ar_Mor_from_Barfotasanger",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Klokar och knythänder (from 'Barfotasånger')",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/pettersson-allan/SMH-W728-Klokar_och_knythander_from_Barfotasanger",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Visa i sorgton (from 'Barfotasånger')",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/pettersson-allan/SMH-W727-Visa_i_sorgton_from_Barfotasanger",
+      "has_published_edition": false
+    },
+    {
+      "category": "String trio",
+      "title": "4 [Four] Improvisations for Violin, Viola and Violoncello",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/pettersson-allan/SMH-W1856-4_Four_Improvisations_for_Violin_Viola_and_Violoncello",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "pettersson-allan"
+}

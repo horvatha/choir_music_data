@@ -1,0 +1,122 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/gille-jacob-edvard/",
+  "title": "Jacob Edvard Gille (1814−1880)",
+  "name": "Jacob Edvard Gille",
+  "years": "1814−1880",
+  "description": "Jacob Edvard Gille was born 10 August 1814, in Stockholm and died there 8 November 1880. He had multiple careers: as a clerk at an auction house for books in Stockholm as well as a musician with ensembles such as the Royal Court Orchestra, at Mindre teatern and with the Catholic Church. Presumably self-taught, Gille composed music of many genres − from songs to musical dramas and symphonies.",
+  "birth": {
+    "place": null,
+    "date": "10 August 1814",
+    "raw": "born 10 August 1814"
+  },
+  "death": {
+    "place": null,
+    "date": "8 November 1880",
+    "raw": "died there 8 November 1880"
+  },
+  "biography": "Xylography by Gunnar Forssell published in Svensk Musiktidning 1888. Life Jacob Edvard Gille worked in Stockholm his entire life, but information about his education and working life are incomplete. In 1852 he was a conductor at Humlegårdsteatern. From the mid-1850s he was employed as a violinist at Mindre teatern. During the 1856−57 season he substituted as orchestra leader for the principle conductor August Söderman, who was studying abroad at the time. Gille was later employed as a violist with the Royal Court Orchestra 1866−71. While working at Mindre teatern, he was also an organist for the Catholic Church (St Eugenia Church). Combining orchestra work with employment as a church musician was common during this time period. In addition, from 1850−76 Gille worked outside the field of music as a clerk at the auction house for books in the City of Stockholm. He was elected to the Royal Swedish Academy of Music in 1865. Works Jacob Edvard Gille's production encompasses several genres − both chamber music and larger works such as symphonies and musical dramas. Disregarding whether or not he had a formal education, he can be assessed as an accomplished composer. Stylistically, most of his pieces fall within the Viennese classical style, and are often characterised by carefree melodies. Among his instrumental works are several ‘tone paintings’, a genre which was particularly popular in the 1840s. Among these are Minne af Gustaf Adolf vid Lützen for choir and orchestra, and Höst-jagten for choir, horns and orchestra. The latter work received positive reviews in the press, presenting Gille as a promising composer. Gille also wrote chamber music in the Viennese classical style. These include violin sonatas, piano trios, piano quartets and string quartets. One of the string quartets was dedicated to the Mazer String Quartet Society − the likely cause being that Gille was a violinist in the Society. Gille composed nine masses, the oratorio Guds lof, a Stabat mater, a Requiem, a Te deum and an arrangement of Psalm 51. Musically, the masses are inspired by the works of Palestrina, although the contrapuntal compositional style is not always completed. His first mass was premiered at St Eugenia Church on Easter Sunday in 1852. It was dedicated to Queen Josephine, who attended mass regularly at the church. She kept her Catholic beliefs throughout her entire life and Gille later dedicated another mass (no. 7) to her. His Requiem was performed at another concert in 1851. Following this religious theme are two musical dramas, Abraham and the uncompleted Lamech eller Svärdet , with libretti by theologian Karl Gustav Rollin. No information has been discovered about any performances of Abraham . Gille also made several arrangements for concerts organised by the Swedish jurist and lyricist Richard Dybeck in the 1850s and 60s. Listed on the programme were folk melodies arranged for various vocal and instrumental ensembles and songs set together thematically to form longer scenes. One of these scenes particularly worth mentioning is one featuring herdsmen's folk music, performed to an accompaniment of four horns and piano. This scene, in addition to selected melodies, would later be used by Swedish author and playwright August Strindberg in his drama The Bridal Crown . Compared with several of his composer colleagues, Gille did not sign any contracts with publishers. Only a few of his works, the piano trio in F-sharp minor and the Mass in A-major (no. 7), were printed and as such facilitating a larger audience. His capacity as a musician was not particularly exemplary: according to theatre director Edvard Stjernström, Gille was not at the same level as Söderman when it came to leading the theatre orchestra. Several music critics, including Albert Rubenson, counted Gille as one of the composers whom, by writing in a style that accommodated to public taste, stifled musical advancement. Disregarding one's opinion of this matter, admittedly Jacob Edvard Gille was an important figure in Swedish musical life during his era, mainly as a result of his many years working as violinist, church musician and conductor. Karin Hallgren © 2015 Trans. Thalia Thunander",
+  "publications": "Liten violin skola hvari de första grunderna för detta instrument klart och fattligt blifva framställda (efter Kreutzer, Rode, Baillot, Wranizky m fl), Stockholm, 1849 [new ed., 1858. Liten violoncellskola, hvari de första grunderna … utarbetad efter Dotzauer, Merk, Kummer, Stiastny m fl . Stockholm, 1859.",
+  "bibliography": "Lönn, Anders : ' Jacob Edvard Gille ', in: Svenskt biografiskt lexikon , vol. 17, Stockholm: Svenskt biografiskt lexikon, 1967/69. Moberg, Carl-Allan : Kyrkomusikens historia , 1932. Percy, Gösta : 'Jacob Edvard Gille', in: Sohlmans musiklexikon , vol. 3, Stockholm: Sohlman, 1976, p. 115.",
+  "sources": null,
+  "links": [],
+  "works_summary": "4 operas (Masken, Abraham, Lamech med svärdet, Allt för kungen), 1 operetta (Kvinnolist), incidental music, orchestral works (5 symphonies, 1 overture, etc.), chamber music (5 string quartets, a piano sextet, 2 string quartets, 4 piano trios), works for piano, songs, choral works (9 masses, Requiem, Te Deum, Stabat mater, 1 oratorio, etc.).",
+  "works": [
+    {
+      "category": "Orchestral works in one movement",
+      "title": "Concert-Ouverture (e-moll) [Concert Overture (in E minor)]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/gille-jacob-edvard/SMH-W7423-Concert-Ouverture_e-moll_Concert_Overture_in_E_minor",
+      "has_published_edition": false
+    },
+    {
+      "category": "Orchestral works in one movement",
+      "title": "Ouverture (D-dur) [Overture (in D major)]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/gille-jacob-edvard/SMH-W7425-Ouverture_D-dur_Overture_in_D_major",
+      "has_published_edition": false
+    },
+    {
+      "category": "Orchestral works in several movements",
+      "title": "Svenska Polskor Harmoniserade och arrangerade för Orchester [Swedish polskas (dances) harmonised and arranged for orchestra]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/gille-jacob-edvard/SMH-W6361-Svenska_Polskor_Harmoniserade_och_arrangerade_for_Orchester_Swedish_po",
+      "has_published_edition": false
+    },
+    {
+      "category": "Symphony",
+      "title": "Midsommarfesten, Symphonie för stor orkester [The midsumer feast. Symphony for large orchestra] Opus 29",
+      "opus": "29",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/gille-jacob-edvard/SMH-W7420-Midsommarfesten_Symphonie_for_stor_orkester_The_midsumer_feast_Symphon",
+      "has_published_edition": false
+    },
+    {
+      "category": "Symphony",
+      "title": "Populär Symphonie (G-dur) [Popular Symphony (in G major)]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/gille-jacob-edvard/SMH-W7421-Popular_Symphonie_G-dur_Popular_Symphony_in_G_major",
+      "has_published_edition": false
+    },
+    {
+      "category": "Symphony",
+      "title": "Symphonie (No 2 in D) [Symphony (no. 2 in D major)]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/gille-jacob-edvard/SMH-W7424-Symphonie_No_2_in_D_Symphony_no_2_in_D_major",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir and instruments",
+      "title": "Lofsång [Song of praise] (\"Sjung, min själ, den eviges lof\")",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/gille-jacob-edvard/SMH-W5495-Lofsang_Song_of_praise_Sjung_min_sjal_den_eviges_lof",
+      "has_published_edition": true
+    },
+    {
+      "category": "Mixed choir with solo voice(s) and instrument",
+      "title": "Missa No 7 (in A)",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/gille-jacob-edvard/SMH-W5130-Missa_No_7_in_A",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir with solo voice(s) and orchestra",
+      "title": "Missa nr 8 (in D) [Mass no. 8 (in D major)]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/gille-jacob-edvard/SMH-W7449-Missa_nr_8_in_D_Mass_no_8_in_D_major",
+      "has_published_edition": true
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Den hvita Sjörosen [The white dahlia anemone]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/gille-jacob-edvard/SMH-W1516-Den_hvita_Sjorosen_The_white_dahlia_anemone",
+      "has_published_edition": false
+    },
+    {
+      "category": "String quartet",
+      "title": "Violin-Quartette [G-dur] opus 24",
+      "opus": "24",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/gille-jacob-edvard/SMH-W5740-Violin-Quartette_G-dur",
+      "has_published_edition": true
+    },
+    {
+      "category": "Piano trio",
+      "title": "Trio [F-sharp minor] for Pianoforte, Violon and Violoncello",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/gille-jacob-edvard/SMH-W36-Trio_F-sharp_minor_for_Pianoforte_Violon_and_Violoncello",
+      "has_published_edition": true
+    }
+  ],
+  "slug": "gille-jacob-edvard"
+}

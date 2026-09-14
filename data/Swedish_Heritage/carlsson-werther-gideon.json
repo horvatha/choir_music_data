@@ -1,0 +1,34 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/carlsson-werther-gideon/",
+  "title": "Werther Carlson (Carlsson) (1885-1968)",
+  "name": "Werther Carlson (Carlsson)",
+  "years": "1885-1968",
+  "description": "Werther Gideon Carlson (Carlsson), född i Varnums församling (Ulricehamn) 6 december 1885. Avled i Sävedalens församling (Partille) 31 juli 1968. Organist, körledare och tonsättare. Far till tonsättaren Ingmar Milveden (1920-2007).",
+  "birth": {
+    "place": "Varnums församling (Ulricehamn)",
+    "date": "6 december 1885",
+    "raw": "född i Varnums församling (Ulricehamn) 6 december 1885"
+  },
+  "death": {
+    "place": "Sävedalens församling (Partille)",
+    "date": "31 juli 1968",
+    "raw": "Avled i Sävedalens församling (Partille) 31 juli 1968"
+  },
+  "biography": "Carlsson studerade för Gustaf Hägg (1867-1925) och Harald Fryklöf (1882-1919). År 1906 avlade han kyrkosångarexamen i Göteborg. Därefter fortsatte han studierna i Stockholm och avlade organist- och musiklärarexamen vid Musikkonservatoriet 1911. Han studerade senare skolsångsfrågor i Danmark, Norge, Tyskland och Frankrike. Åren 1943-67 var han organist i St Johannes sjömanskyrka i Göteborg och han grundade 1926 Lola-kören, som han ledde i tre år. Mest känd blev han som dirigent för Ceciliakören i Göteborg och för sina musikpedagogiska skrifter.",
+  "publications": "Grunddragen av musikens historia, former och instrument m. m.. 2. uppl. Göteborg (2. uppl., 1922) Körsångbok för läroverk och ungdomsskolor jämte grunddragen av musikens historia m. m.. 3. uppl. Stockholm (1925) Psalmer för skolans andaktsstunder i lätt harmonisering. Göteborg (2. uppl., 1932) Röstens naturliga användning: råd och vinkar för sångare jämte ett kort övningsschema. Göteborg (1914)",
+  "bibliography": null,
+  "sources": null,
+  "links": [],
+  "works_summary": "Framför allt verk för kör (bl a kantaten \"Betlehems stjärna\") samt ett stort antal sånger för blandad kör och för manskör.",
+  "works": [
+    {
+      "category": "Incidental music",
+      "title": "Richard III",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/carlsson-werther-gideon/SMH-W4699-Richard_III",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "carlsson-werther-gideon"
+}

@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/welin-sven-ke/",
+  "title": "Sven Åke Welin (1902-1973)",
+  "name": "Sven Åke Welin",
+  "years": "1902-1973",
+  "description": "Sven Åke Welin föddes i Hjulsjö församling (Nora) den 29 maj 1902 och avled i Martin Luthers församling (Halmstad) den 28 september 1973. Musikdirektör, avlade även kyrkosångarexamen. Tjänstgjorde som musiklärare och organist i Halmstad. Komponerade verk för orkester och kammarensembler samt romanser och körsånger.",
+  "birth": {
+    "place": "Hjulsjö församling (Nora)",
+    "date": "29 maj 1902",
+    "raw": "föddes i Hjulsjö församling (Nora) den 29 maj 1902"
+  },
+  "death": {
+    "place": "Martin Luthers församling (Halmstad)",
+    "date": "28 september 1973",
+    "raw": "avled i Martin Luthers församling (Halmstad) den 28 september 1973"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "Forslin, Alfhild: Runeberg i musiken. Helsingfors: Svenska litteratursällskapet, s. 334",
+  "sources": null,
+  "links": [],
+  "works_summary": "Under uppbyggnad",
+  "works": [],
+  "slug": "welin-sven-ke"
+}

@@ -1,0 +1,34 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/ahlstrom-carolina/",
+  "title": "Carolina Åhlström (1782-1860)",
+  "name": "Carolina Åhlström",
+  "years": "1782-1860",
+  "description": "[Mamsell] Carolina Åhlström var dotter till Olof Åhlström. Hon föddes i Maria Magdalena församling, Stockholm, den 12 augusti 1782 och avled i Hedvig Eleonora församling (Stockholm) den 28 mars 1860.",
+  "birth": {
+    "place": "Maria Magdalena församling, Stockholm,",
+    "date": "12 augusti 1782",
+    "raw": "föddes i Maria Magdalena församling, Stockholm, den 12 augusti 1782"
+  },
+  "death": {
+    "place": "Hedvig Eleonora församling (Stockholm)",
+    "date": "28 mars 1860",
+    "raw": "avled i Hedvig Eleonora församling (Stockholm) den 28 mars 1860"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": null,
+  "sources": null,
+  "links": [],
+  "works_summary": "Sånger Den lilla flickan (\"Jag känner ännu verlden föga\"). Barn-visa",
+  "works": [
+    {
+      "category": "Voice and piano",
+      "title": "Den lilla flickan [The little girl] (\"Jag känner ännu verlden föga\"). Barn-visa [Children's song] from Svenska sånger 1790-1810 [Swedish songs 1780-1810 by several composers] (from Musikaliskt Tidsfördrif, Glada Qväden och Skaldestycken satte i musik)",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/ahlstrom-carolina/SMH-W6674-Den_lilla_flickan_The_little_girl_Jag_kanner_annu_verlden_foga_Barn-vi",
+      "has_published_edition": true
+    }
+  ],
+  "slug": "ahlstrom-carolina"
+}

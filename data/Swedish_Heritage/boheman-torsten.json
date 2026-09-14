@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/boheman-torsten/",
+  "title": "Torsten Boheman (1888-1968)",
+  "name": "Torsten Boheman",
+  "years": "1888-1968",
+  "description": "Torsten Alfred Boheman föddes i Hedvig Eleonora församling, Stockholm den 19 februari 1888. Avled troligen i Frederiksberg (Köpenhamn, Danmark) den 21 april 1968. Son till bibliotekarien vid Kungl. Biblioteket Mauritz Boheman och hans hustru Ezaline (f Giron). Gift 1936 med Gudrun Wahlstedt. Redaktör, skribent och tonsättare. Verksam i Danmark.",
+  "birth": {
+    "place": "Hedvig Eleonora församling, Stockholm",
+    "date": "19 februari 1888",
+    "raw": "föddes i Hedvig Eleonora församling, Stockholm den 19 februari 1888"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "biography": "Under uppbyggnad",
+  "publications": "Sveriges järnvägar: En framställning af våra kommunikationer och en jämförelse med kontinentens. Stockholm (1909) Danmark som turistland . Stockholm (1915)",
+  "bibliography": null,
+  "sources": "Musik- och teaterbiblioteket",
+  "links": [],
+  "works_summary": "Under uppbyggnad",
+  "works": [],
+  "slug": "boheman-torsten"
+}

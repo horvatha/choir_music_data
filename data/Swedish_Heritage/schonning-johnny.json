@@ -1,0 +1,34 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/schonning-johnny/",
+  "title": "Johnny Schönning (1894-1966)",
+  "name": "Johnny Schönning",
+  "years": "1894-1966",
+  "description": "Johnny (John Peter) Schönning föddes i Gävle Heliga Trefaldighets församling (efter 2020 Gävle församling) den 11 mars 1894. Avled i Oscars församling, Stockholm, den 5 augusti 1966. Violinist, tonsättare, ingenjör. Mest känd för sitt folkmusikengagemang som fick honom att framföra, samla, arrangera och utge visor och låtar.",
+  "birth": {
+    "place": "Gävle Heliga Trefaldighets församling (efter 2020 Gävle församling)",
+    "date": "11 mars 1894",
+    "raw": "föddes i Gävle Heliga Trefaldighets församling (efter 2020 Gävle församling) den 11 mars 1894"
+  },
+  "death": {
+    "place": "Oscars församling, Stockholm,",
+    "date": "5 augusti 1966",
+    "raw": "Avled i Oscars församling, Stockholm, den 5 augusti 1966"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": "Några spelmansprofiler i Skog, i Hälsingerunor , 1954, s. 48-62",
+  "bibliography": null,
+  "sources": null,
+  "links": [],
+  "works_summary": "Verk för violin och piano, sång och piano, körverk, folkmusikarrangemang, m m",
+  "works": [
+    {
+      "category": "String quartet",
+      "title": "Donky-Fugue",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/schonning-johnny/SMH-W519-Donky-Fugue",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "schonning-johnny"
+}

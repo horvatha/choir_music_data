@@ -1,0 +1,50 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/fleetwood-gerda/",
+  "title": "Gerda Fleetwood (1873-1927)",
+  "name": "Gerda Fleetwood",
+  "years": "1873-1927",
+  "description": "Gerda Erika Margaretha (Margareta) Karolina Frisch, gift Fleetwood föddes i Tyska S:ta Gertruds församling (Stockholm) den 5 april 1873. Avled den 18 april 1927 i S:ta Katarina församling 1927 (Stockholm). Gift med Fredrik Fleetwood 1902, skild 1908. Sångerska, sångpedagog och tonsättare",
+  "birth": {
+    "place": "Tyska S:ta Gertruds församling (Stockholm)",
+    "date": "5 april 1873",
+    "raw": "föddes i Tyska S:ta Gertruds församling (Stockholm) den 5 april 1873"
+  },
+  "death": {
+    "place": "S:ta Katarina församling 1927 (Stockholm)",
+    "date": "18 april 1927",
+    "raw": "Avled den 18 april 1927 i S:ta Katarina församling 1927 (Stockholm)"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": null,
+  "sources": "Musik- och teaterbiblioteket",
+  "links": [],
+  "works_summary": "Under uppbyggnad",
+  "works": [
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Germaniskt Blod [Germanic Blood]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/fleetwood-gerda/SMH-W5606-Germaniskt_Blod_Germanic_Blood",
+      "has_published_edition": false
+    },
+    {
+      "category": "Male choir a cappella",
+      "title": "Germaniskt Blod [Germanic Blood]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/fleetwood-gerda/SMH-W5605-Germaniskt_Blod_Germanic_Blood",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Germaniskt Blod [Germanic Blood]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/fleetwood-gerda/SMH-W5607-Germaniskt_Blod_Germanic_Blood",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "fleetwood-gerda"
+}

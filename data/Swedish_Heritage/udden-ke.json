@@ -1,0 +1,58 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/udden-ke/",
+  "title": "Åke Uddén (1903-1987)",
+  "name": "Åke Uddén",
+  "years": "1903-1987",
+  "description": "Denne tonsättares verk skyddas fortfarande av upphovsrätten och ingår därför inte i Levande Musikarvs utgivning. För mer information om liv och verk hänvisar vi till Svensk Musiks hemsida.",
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "biography": "-",
+  "publications": "Två- tre- och fyrstämmig enkel kontrapunkt: kompendium för undervisningen i kontrapunkt vid Kungl. Musikhögskolan. Stockholm 1950: Kungl. Musikhögskolan.",
+  "bibliography": null,
+  "sources": null,
+  "links": [],
+  "works_summary": "---",
+  "works": [
+    {
+      "category": "String duo",
+      "title": "Duettino, Invention for two violists (\"Småprat\") [\"Small talk\"]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/udden-ke/SMH-W1558-Duettino_Invention_for_two_violists_Smaprat_Small_talk",
+      "has_published_edition": false
+    },
+    {
+      "category": "String trio",
+      "title": "Trio for violin, viola and violoncello",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/udden-ke/SMH-W342-Trio_for_violin_viola_and_violoncello",
+      "has_published_edition": false
+    },
+    {
+      "category": "String quartet",
+      "title": "String Quartet no. 1 in B minor",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/udden-ke/SMH-W343-String_Quartet_no_1_in_B_minor",
+      "has_published_edition": false
+    },
+    {
+      "category": "String quartet",
+      "title": "String quartet no. 2",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/udden-ke/SMH-W366-String_quartet_no_2",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "udden-ke"
+}

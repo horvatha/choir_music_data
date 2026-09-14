@@ -1,0 +1,58 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/korling-sven/",
+  "title": "Sven Körling (1879−1948)",
+  "name": "Sven Körling",
+  "years": "1879−1948",
+  "description": "Sven Holger Körling was born on 27 January 1879 in St Maria Parish, Ystad. He died on 8 October 1948 in Örgryte Parish, Gothenburg. He studied at the Royal Conservatory of Music in Stockholm and graduated as organist, cantor and music teacher in 1901. He later worked in Gothenburg as a music teacher, organist and choirmaster. As a composer, he is mostly known for his children’s songs. He was the son of the composer August Körling and the brother of composer Felix Körling.",
+  "birth": {
+    "place": "St Maria Parish",
+    "date": "27 January 1879",
+    "raw": "born on 27 January 1879 in St Maria Parish,"
+  },
+  "death": {
+    "place": "Örgryte Parish, Gothenburg",
+    "date": "8 October 1948",
+    "raw": "died on 8 October 1948 in Örgryte Parish, Gothenburg."
+  },
+  "biography": "Life Background and career path Sven Körling belonged to a family of musicians. He was born on 27 January 1879 in Ystad as the son of August Körling (1842 − 1919), a music teacher, organist and composer. His older brother Felix was also a musician, based in Halmstad. In 1907 Sven Körling married Anna Elisabet Lindholm from Falun. He grew up in Ystad. After secondary school studies, he attended the Musikkonservatoriet (Royal Conservatory of Music) in Stockholm, where he graduated as organist, cantor and music teacher in 1901. In 1905 he worked first as a cantor and then later, from 1917 until 1948, also as an organist for the German-Swedish Christinae congregation in Gothenburg. From 1907 until 1946, he was also a music teacher at various schools in Gothenburg: for the greatest length of time at the Gothenburg high school for girls and at Göteborgs högre realläroverk, (a secondary school in Gothenburg). Choir director and songbook publisher Sven Körling was also a busy and respected choir conductor, including as chief conductor of the Västergötlands sångarförbund (West Sweden Union of Singers) and the Göteborgs och Bohusläns sångarförbund (Gothenburg and Bohus County Vocal Society). In addition, he was employed as an accompanist. In 1903, 1912 and 1915 he undertook trips to Germany for further studies. In addition, Sven Körling was active as both an author and publisher of songbooks and textbooks. In collaboration with composer and organist Birger Anrep-Nordin he published Dikt och ton in 1934, a songbook for realskola (junior secondary school) and kommunala mellanskola (public junior secondary school) students. New editions continued to be printed regularly until 1955, and the effect of this was that it was the first basic music textbook for several generations of schoolchildren. He also published collections of his own children’s songs. In the book series De små läroböckerna , he wrote En saga om sången (1935, 2nd edition 1939), a story-based tutorial integrated with methods for learning time signatures, scales and sight-reading, and with illustrations by Saga Walli. Sven Körling died in Gothenburg on 8 October 1948. Works Sven Körling’s list of works is not particularly long, consisting entirely of vocal music. His songs for solo voice and piano, in addition to those for men's choir, were all written between 1910 and 1920. His later production consists of children’s songs. Many of his songs for solo voice and piano, for instance his Sju blomvisor, are in a simple, lyrical style, whereas other songs with more elaborate piano parts are of a national romantic character. In his songs for men's choir, Körling frequently made use of exalted patriotic texts, including those of K. G. Ossiannilsson, which also affected the compositions themselves. An example of the latter is his song De svenske , which Körling performed together with his choir at the song festival held in connection with the Stockholm 1912 Olympic Games. This song has also lent its name to the vocal group founded in 1923, which toured the United States extensively in the 1920’s and 1930’s, and still exists today. Körling’s collections of children’s songs are characterised by a pedagogical approach. His collection of forty children’s songs, with lyrics by Anna Maria Roos, begins with simple elementary songs and increases in difficulty. The collections include instructional side comments with suggestions on how to sing with children. In contrast to his brother Felix Körling, Sven Körling did not write his own lyrics to his children's songs, relying instead on texts by primarily Anna Maria Roos. The collections include several well known, commonly sung songs such as Pilleman , Positivvisa and Pelle Sjöskum ; the latter is included in Dikt och ton . Märta Ramsten © 2016 Trans. Thalia Thunander",
+  "publications": "Dikt och ton. Sångsamling för realskolor, kommunala mellanskolor och därmed jämförliga skolor (with B. Anrep-Nordin), Stockholm: Bonnier, 1934. [Published in four further editions in 1937, 1944 &amp; 1951. Last reprinted in 1955.] En saga om sången , ill: Saga Walli, Arlöv: Skriv- och ritboksaktiebolaget, 1935 [2 nd edition 1939]. Arbetsuppgifter för sångundervisningen jämte notpapper i lösa blad , (with L.G. Sjöholm), Arlöv: Skriv- och ritboksaktiebolaget, 1937 [new editions 1957 &amp; 1964].",
+  "bibliography": "Hedwall, Lennart : ‘Sven Körling’, in: Svenskt biografiskt lexikon , vol. 22, Stockholm: Svenskt biografiskt lexikon, 1977−79. Koch, Christina : ‘Sjung med oss, pappa!: om Felix Körling och Körlingska notsamlingen på Kungliga biblioteket’, in: Årsbok för Riksarkivet och landsarkiven , Stockholm: Riksarkivet, 2011, pp. 196−211.",
+  "sources": "Kungliga biblioteket, Musik- och teaterbiblioteket, Svenska barnboksinstitutet, Svenskt visarkiv.",
+  "links": [],
+  "works_summary": "Songs for solo voice and piano, songs for men's quartet and children’s songs.",
+  "works": [
+    {
+      "category": "Male choir a cappella",
+      "title": "Beati (\"De som somna stilla när solen sjunker\")",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/korling-sven/SMH-W5482-Beati_De_som_somna_stilla_nar_solen_sjunker",
+      "has_published_edition": false
+    },
+    {
+      "category": "Male choir a cappella",
+      "title": "De svenske (\"Nu komma de, de komma under sång\") [The Swedes]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/korling-sven/SMH-W5480-De_svenske_Nu_komma_de_de_komma_under_sang_The_Swedes",
+      "has_published_edition": false
+    },
+    {
+      "category": "Male choir a cappella",
+      "title": "En visa (\"Det klingar sakta ur hasslarnes snår\") [A song]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/korling-sven/SMH-W5230-En_visa_Det_klingar_sakta_ur_hasslarnes_snar_A_song",
+      "has_published_edition": false
+    },
+    {
+      "category": "Male choir a cappella",
+      "title": "Vårens dag (\"Det är en dag då jorden vaknar\") [Day of the spring]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/korling-sven/SMH-W5481-Varens_dag_Det_ar_en_dag_da_jorden_vaknar_Day_of_the_spring",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "korling-sven"
+}

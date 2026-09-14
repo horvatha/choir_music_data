@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/berg-isak-albert/",
+  "title": "Isak Berg (1803-1886)",
+  "name": "Isak Berg",
+  "years": "1803-1886",
+  "description": "Isak Albert Berg, född 22 september 1803 i Stockholm, död där 1 december 1886. Operasångare (tenor), sångpedagog och tonsättare. LMA",
+  "birth": {
+    "place": "Stockholm",
+    "date": "22 september 1803",
+    "raw": "född 22 september 1803 i Stockholm"
+  },
+  "death": {
+    "place": "Stockholm",
+    "date": "1 december 1886",
+    "raw": "död där 1 december 1886"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": "Theoretisk-praktisk ackordlära (synnerligast för dem som studera sång) . Stockholm (1875)",
+  "bibliography": "Norlind, Tobias : Isak Berg , i Svenskt biografiskt lexikon , bd 3, 1922 Tägil Ingela : Jenny Lind: Röstens betydelse för hennes mediala identitet, en studie av hennes konstnärsskap 1838-49 . Diss. Örebro, 2013, s. 77ff",
+  "sources": null,
+  "links": [],
+  "works_summary": "sånger (bl a \"Fjärran i skog\", som sjöngs av Jenny Lind)",
+  "works": [],
+  "slug": "berg-isak-albert"
+}

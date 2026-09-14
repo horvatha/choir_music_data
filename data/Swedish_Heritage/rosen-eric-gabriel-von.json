@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/rosen-eric-gabriel-von/",
+  "title": "Erik Gabriel von Rosén (1775-1866)",
+  "name": "Erik Gabriel von Rosén",
+  "years": "1775-1866",
+  "description": "Jurist och ämbetsman, bl a president i Svea hovrätt 1836-44, samt organist och tonsättare. Född Rosén den 2 maj 1775 i Riddarholmens församling, Stockholm, adlad 1816. Avled den 10 september 1855 i Jakob och Johannes församling (Stockholm). Organist i Klara kyrka i Stockholm 1797, från 1800 organist i Storkyrkan. Invald i Kungl. Musikaliska akademien 1814, dess preses 1836-1860. von Rosén byggde också klavérinstrument och orglar.",
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": "Jakob och Johannes församling (Stockholm)",
+    "date": "10 september 1855",
+    "raw": "Avled den 10 september 1855 i Jakob och Johannes församling (Stockholm)"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "Kuschner, Jonas : Rosén (Rosén von Rosenstein, von Rosén), släkt , i Svenskt biografiskt lexikon , bd 30 (1998-2000) Rydh, Lars : Kyrkoherde Erik Rosenius i Sexdrega och några av hans ättlingar . Sexdrega (1978)",
+  "sources": null,
+  "links": [],
+  "works_summary": "Främst psalmmelodier, bl a Sv Ps 552 (\"O Jesus Krist, i dig förvisst\")",
+  "works": [],
+  "slug": "rosen-eric-gabriel-von"
+}

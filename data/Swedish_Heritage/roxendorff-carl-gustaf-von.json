@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/roxendorff-carl-gustaf-von/",
+  "title": "Carl Gustaf von Roxendorff (1797-1838)",
+  "name": "Carl Gustaf von Roxendorff",
+  "years": "1797-1838",
+  "description": "Född den 17 juli 1797 på Carlshof i Älvestads församling, död den 3 september 1838 i Arvika församling. Officer och kammarherre.",
+  "birth": {
+    "place": null,
+    "date": "17 juli 1797",
+    "raw": "Född den 17 juli 1797"
+  },
+  "death": {
+    "place": "Arvika församling",
+    "date": "3 september 1838",
+    "raw": "död den 3 september 1838 i Arvika församling"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "Nisser, Carl: Svensk Instrumentalkomposition 1770-1830, Nominalkatalog (Stockholm, 1943)",
+  "sources": null,
+  "links": [],
+  "works_summary": "Pianoverk, sånger",
+  "works": [],
+  "slug": "roxendorff-carl-gustaf-von"
+}

@@ -1,0 +1,30 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/lambert-pierre-joseph/",
+  "title": "Pierre Joseph Lambert (1745-1807)",
+  "name": "Pierre Joseph Lambert",
+  "years": "1745-1807",
+  "description": "Violinist och tonsättare. Född 1745 eller 1747 i Brabant (i nuvarande Belgien/Nederländerna). Avled i S:ta Eugenia katolska församling, Stockholm, den 28 juni 1807. Kom 1782 till Stockholm från Paris med en fransk teatertrupp. Verksam som violinist och dirigent i Kungl. Hovkapellet, från 1790 som hovkapellmästare. Finns även angiven som repetitör.",
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": "S:ta Eugenia katolska församling, Stockholm,",
+    "date": "28 juni 1807",
+    "raw": "Avled i S:ta Eugenia katolska församling, Stockholm, den 28 juni 1807"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "Karle, Gunhild : Kungl. Hovkapellet i Stockholm och dess musiker 1772-1818 . Uppsala (2001) Nisser, Carl : Svensk Instrumentalkomposition 1770-1830, Nominalkatalog (Stockholm, 1943)",
+  "sources": "Västerås stadsbibliotek (avd. Stiftsbiblioteket), Musik- och teaterbiblioteket",
+  "links": [
+    {
+      "title": "Pierre Joseph Lambert i Tidigmoderna konkurser",
+      "url": "http://www.tidigmodernakonkurser.se/index.php/post/view/6560"
+    }
+  ],
+  "works_summary": "Balettmusik, etc",
+  "works": [],
+  "slug": "lambert-pierre-joseph"
+}

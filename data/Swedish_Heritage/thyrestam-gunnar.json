@@ -1,0 +1,42 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/thyrestam-gunnar/",
+  "title": "Gunnar Thyrestam (1900-1984)",
+  "name": "Gunnar Thyrestam",
+  "years": "1900-1984",
+  "description": "Olof Gunnar Thyrestam (f. Andersson) föddes den 11 oktober 1900 i Gävle Heliga Trefaldighets församling. Avled i samma församling den 23 februari 1984. Organist, musiklärare, tonsättare. Verksam i Ljusnarsberg/Kopparberg 1938-55 och i Gävle (Heliga Trefaldighet) 1955-68.",
+  "birth": {
+    "place": null,
+    "date": "11 oktober 1900",
+    "raw": "föddes den 11 oktober 1900"
+  },
+  "death": {
+    "place": "samma församling",
+    "date": "23 februari 1984",
+    "raw": "Avled i samma församling den 23 februari 1984"
+  },
+  "biography": "Gunnar Thyrestam invaldes som ledamot nr 768 i Kungl. Musikaliska akademien 1971.",
+  "publications": "Studier i Hedesunda folkmål: ett försök till inventering av det äldre ordförrådet och en kommentar . Gävle (1974) Ordfynd i Hedesunda sockenspråk: historier byggda kring folkmålsord från folkmun, arkiv och bykistor . Gävle (1976) Herremansfolk och allmoge i Hedesunda: dess språk, seder och övertro : en studie i folklore och ett stycke sockenhistoria . Gävle (1977)",
+  "bibliography": "Englund, David : Gunnar Thyrestams orgelkompositioner. Orgelforum , 2006:1, s. 26-27 Holmgren, Claes : Profil: Gunnar Thyrestam : - Nu är jag vredgad!, i Kyrkomusikernas tidning , 2000 (66:10), s. 22-23",
+  "sources": null,
+  "links": [],
+  "works_summary": "Opera (Mistinghälla, 1969), mässor, orgelverk, sånger, körsånger",
+  "works": [
+    {
+      "category": "Viola and organ",
+      "title": "Sonatin för viola och orgel [Sonatina for viola and organ]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/thyrestam-gunnar/SMH-W1535-Sonatin_for_viola_och_orgel_Sonatina_for_viola_and_organ",
+      "has_published_edition": false
+    },
+    {
+      "category": "Trumpet and organ",
+      "title": "Sonatina for trumpet and orgel",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/thyrestam-gunnar/SMH-W1534-Sonatina_for_trumpet_and_orgel",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "thyrestam-gunnar"
+}

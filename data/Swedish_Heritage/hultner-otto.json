@@ -1,0 +1,34 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/hultner-otto/",
+  "title": "Otto Hultner (1872-1930)",
+  "name": "Otto Hultner",
+  "years": "1872-1930",
+  "description": "Erik (Eric) Otto Hultner (f d Jansson; namnbytet skedde 1902/03), föddes i Svea Artilleriregementes församling, Stockholm, den 28 april 1872. Alvled i Matteus församling (Stockholm) den 21 januari 1930. Tonsättare, violinist, trumpetare, musikdirektör. 1905-25 var han verksam som musikdirektör vid Livregementets dragoner. Han tog initiativet till och startade Stockholms Landstorms förbunds (\"Landstormens\") musikkår 1926 och var dess ledare 1926-28.",
+  "birth": {
+    "place": "Svea Artilleriregementes församling, Stockholm,",
+    "date": "28 april 1872",
+    "raw": "föddes i Svea Artilleriregementes församling, Stockholm, den 28 april 1872"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "biography": "Studerade först violin och var under flera år violinist i Svenska teaterns orkester. Han var även en tid förstetrumpetare i Kungl. Hovkapellet. 1886 blev han anställd som trumpetare vid Kungl. Livgardet till häst. Han var musikdirektör vid Kungl. Livregementets Dragoner 1905-25 och 1926 grundade han Stockholm Landstormförbunds Musikkår, som han ledde 1926-28.",
+  "publications": null,
+  "bibliography": "Lindberg, Erik : artikel i Sohlmans musiklexikon , band 3, s 494 (1976)",
+  "sources": null,
+  "links": [],
+  "works_summary": "12 marscher (bl a \"Överste Boltenstern\", \"Med vapen i hand\", \"Galoppmarsch\" och \"Stockholms landstorm\"), dansmusik, sånger",
+  "works": [
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Min tös",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/hultner-otto/SMH-W5122-Min_tos",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "hultner-otto"
+}

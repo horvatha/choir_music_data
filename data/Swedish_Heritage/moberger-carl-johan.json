@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/moberger-carl-johan/",
+  "title": "Carl Johan Moberger (1763-1844)",
+  "name": "Carl Johan Moberger",
+  "years": "1763-1844",
+  "description": "Carl Johan Moberger föddes den 25 september 1763, troligen i Nyköping. (Enligt vissa källor skulle han ha varit född i Nyköping den 18 maj 1762. Det är dock en sammanblandning med en äldre bror, Carl, som avled den 1 oktober samma år.) Avled den 18 november 1844 i Gävle församling (sedermera Gävle Heliga Trefaldighets församling).",
+  "birth": {
+    "place": "Nyköping",
+    "date": "18 maj 1762",
+    "raw": "född i Nyköping den 18 maj 1762"
+  },
+  "death": {
+    "place": "Gävle församling (sedermera Gävle Heliga Trefaldighets församling)",
+    "date": "18 november 1844",
+    "raw": "Avled den 18 november 1844 i Gävle församling (sedermera Gävle Heliga Trefaldighets församling)"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": null,
+  "sources": "Statens Musik- och teaterbibliotek, Musikmuseet Stockholm",
+  "links": [],
+  "works_summary": "Under uppbyggnad",
+  "works": [],
+  "slug": "moberger-carl-johan"
+}

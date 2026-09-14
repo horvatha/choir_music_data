@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/gardie-je-de-la/",
+  "title": "Johanna Eleonora de la Gardie (1661-1708)",
+  "name": "Johanna Eleonora de la Gardie",
+  "years": "1661-1708",
+  "description": "Johanna Eleonora de la Gardie föddes i Hamburg (Tyskland) den 26 juni 1661 och avled i Stockholm den 27 december 1708. Hon är begravd i S:t Jakobs k:a (Stockholm). Författare. Från 1680 hovdam hos drottning Ulrika Eleonora d ä.",
+  "birth": {
+    "place": "Hamburg (Tyskland)",
+    "date": "26 juni 1661",
+    "raw": "föddes i Hamburg (Tyskland) den 26 juni 1661"
+  },
+  "death": {
+    "place": "Stockholm",
+    "date": "27 december 1708",
+    "raw": "avled i Stockholm den 27 december 1708"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": null,
+  "sources": "Uppsala Universitetsbibliotek",
+  "links": [],
+  "works_summary": "Under uppbyggnad",
+  "works": [],
+  "slug": "gardie-je-de-la"
+}

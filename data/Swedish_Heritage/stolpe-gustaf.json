@@ -1,0 +1,34 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/stolpe-gustaf/",
+  "title": "Gustaf Stolpe (1833-1901)",
+  "name": "Gustaf Stolpe",
+  "years": "1833-1901",
+  "description": "Gustaf (Eric) Stolpe föddes den 26 september 1833 i Torsåkers församling (Hofors). Utbildad vid Musikkonservatoriet i Stockholm (organistex. 1849, musikdirektörsex. 1855). Musikalisk ledare vid Ladugårdslandsteatern 1856-1863, organist i Varberg 1863-1881. Reste 1881 till USA och blev kvar där resten av sitt liv. Musiklärare vid Augustana College från 1882. Avled den 3 oktober 1901 i New Orange, New Jersey (USA).",
+  "birth": {
+    "place": null,
+    "date": "26 september 1833",
+    "raw": "föddes den 26 september 1833"
+  },
+  "death": {
+    "place": "New Orange",
+    "date": "3 oktober 1901",
+    "raw": "Avled den 3 oktober 1901 i New Orange"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": "En examinerad musikdirektör. Ett Stockholmsminne (1894) - om Peter Alfred Oppfeldt (1835-1880)",
+  "bibliography": null,
+  "sources": null,
+  "links": [],
+  "works_summary": "Bland annat Af caprice (komedi med sång i en akt, tryck ffg 1861)",
+  "works": [
+    {
+      "category": "Other chamber music with piano and strings",
+      "title": "Fest-Ouverture komponerad för Orchester /.../Arrangement för Piano och 4 händer, Violin och Violoncell af komponisten [Festive Overture composed for Orchestra /.../ Arrangement for Piano and 4 hands, Violin and Violoncello by the composer]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/stolpe-gustaf/SMH-W2270-Fest-Ouverture_komponerad_for_Orchester_Arrangement_for_Piano_och_4_ha",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "stolpe-gustaf"
+}

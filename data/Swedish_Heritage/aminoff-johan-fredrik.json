@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/aminoff-johan-fredrik/",
+  "title": "Johan Fredrik Aminoff (1756-1842)",
+  "name": "Johan Fredrik Aminoff",
+  "years": "1756-1842",
+  "description": "Johan Fredrik Aminoff, född 26 januari 1756 på Rilaks i Nyland, Finland, död 30 mars 1842 på samma ställe. Greve, hovman, militär, gustavian, tonsättare. Under Gustav III:s ryska krig var han en av kungens förtrogna. Nämnd i Carl Nissers Svensk Instrumentalkomposition 1770-1830, Nominalkatalog, Stockholm 1943.",
+  "birth": {
+    "place": null,
+    "date": "26 januari 1756",
+    "raw": "född 26 januari 1756"
+  },
+  "death": {
+    "place": null,
+    "date": "30 mars 1842",
+    "raw": "död 30 mars 1842"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "Naumann, Erik : \" Johan Fredrik Aminoff \", i Svenskt biografiskt lexikon, bd 1 (1918) Utterström, Gustaf : artikel i Svenska Män och Kvinnor , band 1, s 80 (Bonniers förlag, Stockholm 1942)",
+  "sources": "Rilakssamlingen i Finlands Riksarkiv",
+  "links": [],
+  "works_summary": "Valse för luta",
+  "works": [],
+  "slug": "aminoff-johan-fredrik"
+}

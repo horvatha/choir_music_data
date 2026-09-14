@@ -1,0 +1,42 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/lidholm-ingvar/",
+  "title": "Ingvar Lidholm (1921-2017)",
+  "name": "Ingvar Lidholm",
+  "years": "1921-2017",
+  "description": "Denne tonsättares verk skyddas fortfarande av upphovsrätten och ingår därför inte i Levande Musikarvs utgivning. För mer information om liv och verk hänvisar vi till Svensk Musiks hemsida.",
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "biography": "-",
+  "publications": null,
+  "bibliography": null,
+  "sources": null,
+  "links": [],
+  "works_summary": "---",
+  "works": [
+    {
+      "category": "Orchestral works in several movements",
+      "title": "Concerto for string orchestra",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/lidholm-ingvar/SMH-W2544-Concerto_for_string_orchestra",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and orchestra",
+      "title": "Three songs for mezzo-soprano and string orchestra",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/lidholm-ingvar/SMH-W3357-Three_songs_for_mezzo-soprano_and_string_orchestra",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "lidholm-ingvar"
+}

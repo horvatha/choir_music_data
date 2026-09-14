@@ -1,0 +1,82 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/johanson-sven-eric/",
+  "title": "Sven-Eric Johanson (1919-1997)",
+  "name": "Sven-Eric Johanson",
+  "years": "1919-1997",
+  "description": "Denne tonsättares verk skyddas fortfarande av upphovsrätten och ingår därför inte i Levande Musikarvs utgivning. För mer information om liv och verk hänvisar vi till Svensk Musiks hemsida.",
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "biography": "-",
+  "publications": null,
+  "bibliography": null,
+  "sources": null,
+  "links": [],
+  "works_summary": "---",
+  "works": [
+    {
+      "category": "Orchestral works in one movement",
+      "title": "Fotiá",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/johanson-sven-eric/SMH-W7412-Fotia",
+      "has_published_edition": false
+    },
+    {
+      "category": "Orchestral works in one movement",
+      "title": "Pastorale",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/johanson-sven-eric/SMH-W4761-Pastorale",
+      "has_published_edition": false
+    },
+    {
+      "category": "Orchestral works in one movement",
+      "title": "Vagues",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/johanson-sven-eric/SMH-W7411-Vagues",
+      "has_published_edition": false
+    },
+    {
+      "category": "Symphony",
+      "title": "Spelmanssymfoni [(approx.) A fiddler's symphony / Fiddler symphony], (Symfoni nr 7) [Symphony no. 7]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/johanson-sven-eric/SMH-W7401-Spelmanssymfoni_approx_A_fiddlers_symphony__Fiddler_symphony_Symfoni_n",
+      "has_published_edition": false
+    },
+    {
+      "category": "Keyed fiddle and orchestra",
+      "title": "Nyckelharpskonsert [Keyed fiddle concert]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/johanson-sven-eric/SMH-W7410-Nyckelharpskonsert_Keyed_fiddle_concert",
+      "has_published_edition": false
+    },
+    {
+      "category": "Other chamber music with winds",
+      "title": "Triptyk",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/johanson-sven-eric/SMH-W4760-Triptyk",
+      "has_published_edition": false
+    },
+    {
+      "category": "Chamber ensemble (7 or more instruments)",
+      "title": "Hornpipa [Hornpipe]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/johanson-sven-eric/SMH-W7409-Hornpipa_Hornpipe",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "johanson-sven-eric"
+}

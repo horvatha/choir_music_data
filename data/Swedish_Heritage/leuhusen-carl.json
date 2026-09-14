@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/leuhusen-carl/",
+  "title": "Carl Leuhusen (1724-1795)",
+  "name": "Carl Leuhusen",
+  "years": "1724-1795",
+  "description": "Carl Leuhusen föddes den 17 maj 1724, avled på Säby, Ingarö församling (där han troligen även var född), den 12 januari 1795. Musikintresserad diplomat. Detta är en av de tonsättare som den svenska arbetsgruppen av \"Répertoire international des sources musicales\" har speciellt ansvar för. Han räknas alltså som svensk.",
+  "birth": {
+    "place": null,
+    "date": "17 maj 1724",
+    "raw": "föddes den 17 maj 1724"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "H G-m : Leuhusen, släkt , i Svenskt biografiskt lexikon , bd 22 (1977-1979) Tråvén, Marianne : En svensk diplomats dagbok: musik i 1750-talets Madrid, i Årsbok för Riksarkivet och landsarkiven, 2011, s. 32-59",
+  "sources": "Musik- och teaterbiblioteket",
+  "links": [],
+  "works_summary": "Under uppbyggnad",
+  "works": [],
+  "slug": "leuhusen-carl"
+}

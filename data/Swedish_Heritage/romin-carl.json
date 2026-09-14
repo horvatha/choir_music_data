@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/romin-carl/",
+  "title": "Carl Romin (1772-1847)",
+  "name": "Carl Romin",
+  "years": "1772-1847",
+  "description": "Föddes den 10 mars 1772 i Visby stadsförsamling, avled den 14 december 1847 i Jakob och Johannes församling, Stockholm. Violinist i Hovkapellet 1805-1831. Nämnd i Carl Nissers Svensk Instrumentalkomposition 1770-1830, Nominalkatalog, Stockholm 1943.",
+  "birth": {
+    "place": null,
+    "date": "10 mars 1772",
+    "raw": "Föddes den 10 mars 1772"
+  },
+  "death": {
+    "place": "Jakob och Johannes församling",
+    "date": "14 december 1847",
+    "raw": "avled den 14 december 1847 i Jakob och Johannes församling"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "Nisser, Carl: Svensk Instrumentalkomposition 1770-1830, Nominalkatalog (Stockholm, 1943)",
+  "sources": null,
+  "links": [],
+  "works_summary": "Verk för violin",
+  "works": [],
+  "slug": "romin-carl"
+}

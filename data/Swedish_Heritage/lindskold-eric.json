@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/lindskold-eric/",
+  "title": "Eric Lindsköld (1634-1690)",
+  "name": "Eric Lindsköld",
+  "years": "1634-1690",
+  "description": "Eric (Erik) Lindsköld (enligt vissa källor Lindschöld) föddes i Skänninge församling den 1 (eller 2) februari 1634. Avled i Stockholm den 11 juni 1690. Studerade i Uppsala, där han även erbjöds en professur, liksom i Lund, dock avböjde han båda och ingick i stället i kung Karl X:s kansli från 1668. Adlades året därpå. Utnämndes till hovkansler samt kansler för Lunds universitet. Han blev \"högt uppburen, icke blott för sin skicklighet som ämbetsman, utan ock för de tillställningar och verser, med hvilka han lifvade hofvets nöjen.\"",
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": "Stockholm",
+    "date": "11 juni 1690",
+    "raw": "Avled i Stockholm den 11 juni 1690"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "Hofberg, Herman : Svenskt biografiskt handlexikon, del II L-Ö . Albert Bonniers Förlag, Stockholm (1906)",
+  "sources": "Uppsala Universitetsbibliotek",
+  "links": [],
+  "works_summary": "Under uppbyggnad",
+  "works": [],
+  "slug": "lindskold-eric"
+}

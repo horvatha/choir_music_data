@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/gernandt-gf/",
+  "title": "Georg Fredric Gernandt (1799-1844)",
+  "name": "Georg Fredric Gernandt",
+  "years": "1799-1844",
+  "description": "Georg Fredric Gernandt, född i Nosaby (Kristianstad) 16 januari 1799. Avled i Dalby 30 januari 1844. Son till tonsättaren Johan (Johannes) Gernandt (1769-1850). Nämnd i Carl Nissers Svensk Instrumentalkomposition 1770-1830, Nominalkatalog, Stockholm 1943.",
+  "birth": {
+    "place": "Nosaby (Kristianstad)",
+    "date": "16 januari 1799",
+    "raw": "född i Nosaby (Kristianstad) 16 januari 1799"
+  },
+  "death": {
+    "place": "Dalby",
+    "date": "30 januari 1844",
+    "raw": "Avled i Dalby 30 januari 1844"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "Nisser, Carl: Svensk Instrumentalkomposition 1770-1830, Nominalkatalog (1943)",
+  "sources": null,
+  "links": [],
+  "works_summary": "Ecossaise för piano",
+  "works": [],
+  "slug": "gernandt-gf"
+}

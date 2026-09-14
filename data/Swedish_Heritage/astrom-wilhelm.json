@@ -1,0 +1,34 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/astrom-wilhelm/",
+  "title": "Wilhelm Åström (1840-1898)",
+  "name": "Wilhelm Åström",
+  "years": "1840-1898",
+  "description": "Carl Henrik Wilhelm Åström föddes i Kristianstads garnisonsförsamling den 22 augusti 1840. Avled i Växjö stadsförsamling den 8 april 1898. Avlade 1866 musikdirektörs-, scholæ cantors- och kyrkosångsexamen vid Kungl. Musikaliska akademien. Musik- och sånglärare vid Wexiö allmänna läroverk. Var även verksam vid flera regementen och från 1881 musikdirektör vid Kronobergs regemente. Tonsättare, främst känd för \"Hjärtats saga\" (för manskvartett 1892, som solosång 1893).",
+  "birth": {
+    "place": "Kristianstads garnisonsförsamling",
+    "date": "22 augusti 1840",
+    "raw": "föddes i Kristianstads garnisonsförsamling den 22 augusti 1840"
+  },
+  "death": {
+    "place": "Växjö stadsförsamling",
+    "date": "8 april 1898",
+    "raw": "Avled i Växjö stadsförsamling den 8 april 1898"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": null,
+  "sources": null,
+  "links": [],
+  "works_summary": "Hjärtats [Hjertats] saga (text: \"Sigurd\", pseudonym för Alfred Hedenstierna)",
+  "works": [
+    {
+      "category": "Male choir a cappella",
+      "title": "Hjärtats [hjertats] saga (\"Hvar skog har nog sin källa\")",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/astrom-wilhelm/SMH-W5557-Hjartats_hjertats_saga_Hvar_skog_har_nog_sin_kalla",
+      "has_published_edition": true
+    }
+  ],
+  "slug": "astrom-wilhelm"
+}

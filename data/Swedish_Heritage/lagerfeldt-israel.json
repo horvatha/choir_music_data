@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/lagerfeldt-israel/",
+  "title": "Israel Lagerfeldt (1754-1821)",
+  "name": "Israel Lagerfeldt",
+  "years": "1754-1821",
+  "description": "Israel Lagerfeldt (Lagerfelt) föddes i Linköpings domkyrkoförsamling den 18 juni 1754. Var bosatt på och avled på Lagerlunda gård i Kärna församling (Östergötland) den 3 september 1821. Överstelöjtnant. Invaldes som ledamot av Kungl. Musikaliska akademien den 18 april 1788. Nämnd i Carl Nissers Svensk Instrumentalkomposition 1770-1830, Nominalkatalog, Stockholm 1943.",
+  "birth": {
+    "place": "Linköpings domkyrkoförsamling",
+    "date": "18 juni 1754",
+    "raw": "föddes i Linköpings domkyrkoförsamling den 18 juni 1754"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "Nisser, Carl: Svensk Instrumentalkomposition 1770-1830, Nominalkatalog (Stockholm, 1943)",
+  "sources": "Linköpings stadsbibliotek (avd. Stiftsbiblioteket)",
+  "links": [],
+  "works_summary": "Pianoverk, orgelverk",
+  "works": [],
+  "slug": "lagerfeldt-israel"
+}

@@ -1,0 +1,34 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/wrangel-erik-fredrik/",
+  "title": "Fredrik Wrangel (1816-1896)",
+  "name": "Fredrik Wrangel",
+  "years": "1816-1896",
+  "description": "Erik Fredrik Wrangel, född den 17 juli 1816 på Ingeshult i Västergötland, död den 9 juli 1896 i Växjö, var en svensk militär, krigshistoriker och tonsättare, far till Herman och Ewert Wrangel.",
+  "birth": {
+    "place": null,
+    "date": "17 juli 1816",
+    "raw": "född den 17 juli 1816"
+  },
+  "death": {
+    "place": "Växjö",
+    "date": "9 juli 1896",
+    "raw": "död den 9 juli 1896 i Växjö"
+  },
+  "biography": "Wrangel var 1831-34 student i Lund och utnämndes 1837 till underlöjtnant vid Västgöta Regemente. Utexaminerades 1844 från Högre artilleriläroverket förordnades 1845 till generalstabsofficer. Utnämndes till major 1861. Han tog 1865 avsked som överste i armén och utnämndes samma år till postinspektor i Växjö. Han var 1844-46 lärare vid militärskolan i Skara, 1847-49 vid militärskolan i Stockholm och 1858-65 lärare i krigskonst och krigshistoria vid Högre artilleriläroverket samt tjänstgjorde 1848-65 i Lantförsvarsdepartementets kommandoexpedition, sedan 1858 som souschef. År 1851 blev han led.amot av Krigsvetenskapsakademien. Wrangel komponerade därjämte melodiösa sånger, som vunnit popularitet inom den sjungande dilletantkretsen, som solosången \"Får du en vän\" och duetten \"Hör hur stilla vinden susar\". B. Tommy Andersson",
+  "publications": null,
+  "bibliography": null,
+  "sources": null,
+  "links": [],
+  "works_summary": "Melodiösa sånger, som vunnit popularitet inom den sjungande dilletantkretsen, som solosången \"Får du en vän\" och duetten \"Hör hur stilla vinden susar\".",
+  "works": [
+    {
+      "category": "Voices and piano",
+      "title": "Tvåstämmiga sånger med accompagnement för piano [Two-part songs with accompaniment for piano], No. 2: I skogen [No. 2: In the forest]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/wrangel-erik-fredrik/SMH-W136-Tvastammiga_sanger_med_accompagnement_for_piano_Two-part_songs_with_ac",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "wrangel-erik-fredrik"
+}

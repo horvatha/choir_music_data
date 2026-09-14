@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/de-croll-reinhold/",
+  "title": "Reinhold de Croll (1673−1710)",
+  "name": "Reinhold de Croll",
+  "years": "1673−1710",
+  "description": "Reinhold de Croll was born in Stockholm in 1673 (the exact date remains unknown) and baptised on 14 November, 1673. He died on 29 November 1710 in the same city. He was a composer, organist, carillonneur and a member of the Swedish Royal Court Orchestra. He was considered to be the best organist of his time in Stockholm. Of his compositions only a few dance pieces have been preserved.",
+  "birth": {
+    "place": "Stockholm in 1673 (the exact date remains unknown) and baptised",
+    "date": "14 November, 1673",
+    "raw": "born in Stockholm in 1673 (the exact date remains unknown) and baptised on 14 November, 1673"
+  },
+  "death": {
+    "place": "the same city",
+    "date": "29 November 1710",
+    "raw": "died on 29 November 1710 in the same city."
+  },
+  "biography": "Reinhold de Croll’s parents were Johan de Krull (died in 1702) and Märta Siewerts. Johan de Krull had been an organist at Riddarholm Church in Stockholm and from 1670 carillonneur in the German Church. Reinhold’s brother, Johann de Croll (1681−1704), was employed as an organist at Maria Magdalena Church and, upon his father’s death, taking over the position as carillonneur at the German Church. Their sister Catherina was married to a royal court musician named Johann Knapp[e] (died in 1721), and their son, Johan Reinholt would later became a member of the Hovkapellet (the Royal Court Orchestra). Presumably Reinhold de Croll received his first music education from his father, however he was also a music student abroad. In 1696 he occasionally worked at Stockholm’s Great Church − also known as Church of Saint Nicholas − where he was engaged as a musician and overseer of the church’s organ. In 1702 he took over his father’s position as organist at the Riddarholm Church, and two years later took over his brother’s position at the German Church. He was appointed as organist in 1710 at St James’s Church but died within a few months that same year. Reinhold de Croll worked as a musician in the Hovkapellet between 1700 and 1702 when he was forced, against his will, to leave his post; he had also been given a position as organist at the Riddarholm Church and was not allowed to maintain the dual posts. However, in 1704 he was allowed to rejoin the Hovkapellet where he stayed until his death. In 1700 he married the singer Maria Swart, the first woman to be engaged in the Hovkapellet. She participated as ‘first descant’ in the Great Church when the new pulpit was inaugurated in 1702, together with other musicians of the court, including her husband on organ. Reinhold de Croll and his wife both died in 1710, presumably during the plague epidemic that broke out in Stockholm. Only a few dance pieces attributed to de Croll have been preserved. All of them are minuets for keyboard. Despite the limited number of extant works, Reinhold de Croll was likely an accomplished composer. One printed funeral announcement described him as the Swedish equivalent of Dieterich Buxtehude: Each hands’ precious work of fine harmonic sound The perfection of which must sadly stand back Each part of his works tasting admiration Witness, that he was the Swedish Buxtehude Maria Schildt © 2015 Trans. Jill Ann Johnson",
+  "publications": null,
+  "bibliography": "Karle, Gunhild : Kungl. Hovmusiken i Stockholm och dess utövare 1697−1771 , Uppsala: TryckJouren 2002. Kjellberg, Erik : Kungliga musiker i Sverige under stormaktstiden: studier kring deras organisation, verksamheter och status ca 1620 − ca 1720 , 2 vol. , diss., Uppsala University, 1979. Norlind, Tobias : Från Tyska kyrkans glansdagar: bilder ur svenska musikens historia från Vasaregenterna till karolinska tidens slut , vol. 3, Stormaktstidens senare skede 1660−1720 , Stockholm: Musikhistoriska museet, 1945. Rudén, Jan Olof : Music in tablature: a thematic index with source descriptions of music in tablature notation in Sweden , Stockholm: Svenskt musikhistoriskt arkiv, 1981.",
+  "sources": null,
+  "links": [],
+  "works_summary": "Four extant minuets.",
+  "works": [],
+  "slug": "de-croll-reinhold"
+}

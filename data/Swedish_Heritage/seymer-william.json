@@ -1,0 +1,42 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/seymer-william/",
+  "title": "William Seymer (1890-1964)",
+  "name": "William Seymer",
+  "years": "1890-1964",
+  "description": "Denne tonsättares verk skyddas fortfarande av upphovsrätten och ingår därför inte i Levande Musikarvs utgivning. För mer information om liv och verk hänvisar vi till Svensk Musiks hemsida.",
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "biography": "-",
+  "publications": null,
+  "bibliography": null,
+  "sources": null,
+  "links": [],
+  "works_summary": "---",
+  "works": [
+    {
+      "category": "Piano",
+      "title": "Fantasy piece",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/seymer-william/SMH-W465-Fantasy_piece",
+      "has_published_edition": false
+    },
+    {
+      "category": "Piano",
+      "title": "Sommarcroquiser för piano opus 11",
+      "opus": "11",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/seymer-william/SMH-W1181-Sommarcroquiser_for_piano",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "seymer-william"
+}

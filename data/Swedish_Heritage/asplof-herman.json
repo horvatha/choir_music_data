@@ -1,0 +1,138 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/asplof-herman/",
+  "title": "Herman Asplöf (1881−1959)",
+  "name": "Herman Asplöf",
+  "years": "1881−1959",
+  "description": "Herman Nathanael Asplöf, born on 15 November 1881 in Gåsborn, Värmland and deceased on 7 February 1959 in Gothenburg, was a church musician, music teacher and composer. He graduated as an organist, precentor and music teacher from the Royal Conservatory of Music in Stockholm. In 1910 he became organist at Annedal Church in Gothenburg; in 1929, at Gothenburg Cathedral. Asplöf was one of the country’s foremost organists. His short list of works consists mainly of organ music and choral works, several works for organ and orchestra, and a piano concerto. Asplöf received the National Composer’s Grant in 1926.",
+  "birth": {
+    "place": "Gåsborn",
+    "date": "15 November 1881",
+    "raw": "born on 15 November 1881 in Gåsborn,"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "biography": "Life Background and employment Herman Asplöf was born at Gustavsströms Bruk in Gåsborn Parish, Värmland, where his father was a school teacher. In 1898, he completed his organist education in Karlstad under the supervision of cathedral organist C. W. Rendahl, after which he began studies at the Kungliga Musikkonservatoriet (Royal Conservatory of Music) in Stockholm. After graduating as an organist from the Conservatory in 1900, precentor in 1901, and as a music teacher in 1902, he continued with special studies in piano and composition. During his study years he was esteemed as an excellent pianist, and was consequently awarded the Music Conservatory’s medal in 1903. From 1904–08 he was appointed as organist in Laholm, and in 1908 at the Sankt Petri Church in Malmö. In 1910, he came to Gothenburg to work as a substitute organist at the newly built Annedal Church, where he obtained a permanent position later that year. He also taught music at the Majorna Secondary School in Gothenburg and from 1933, at the primary school teacher’s college. From 1923 he was an examiner for the organist and precentor degrees, and he later taught courses at the national level for organist and precentor degrees, which were arranged at the teacher’s college. He was also a private tutor; his pupils included the aspiring composers Åke Hermanson and Björn Johansson. When the post as cathedral organist in Gothenburg became vacant in the beginning of 1929, Asplöf applied for the position. After being accepted into the first round of potential applicants, he was awarded the appointment, and took office in September. Shortly thereafter, he began working for the complete renovation and expansion of the cathedral organ, which during his tenure was improved with the addition of pneumatic pipes. Asplöf was also responsible for the cathedral choirs, which included leading both the mixed and boys’ choirs. After reaching retirement age in 1946, he received permission to remain in office one year at a time until 1951, when he retired shortly after his 70th birthday. He continued, however, as a substitute until the vacant post was filled in 1954. Asplöf the man and organist Asplöf was considered to be one of the country’s foremost organists and came to be known especially for his virtuosic technique and ability to improvise. During his time as cathedral organist it was common for a large number of members from the congregation of the other large city church, Vasa Church, to, after having listened to their sermon, leave immediately for the Cathedral in order to hear Asplöf’s postlude improvisations. This phenomenon came to be called ‘ Vasaloppet ’ (in reference to the annual 90 km ski race). Herman Asplöf was described as a noble yet somewhat reclusive personality. Although his talents as a composer were highly rated by leading music personalities of the time, such as Tor Aulin and Wilhelm Stenhammar, and despite being awarded the Statens Tonsättarstipendium (National Composer’s Grant) in 1926, none of his works were published during his lifetime. Works Herman Asplöf’s musical output is limited to a few genres. His largest work is a piano concerto in C-sharp minor from 1926; otherwise, most of his works are for choir, often with accompaniment by organ and/or instruments. In his list of works, there emerges a predilection for the combination of keyboard instruments and orchestra; in addition to his piano concerto, he wrote two works for the unusual combination of organ and orchestra: Concert Piece (1917) and the three-movement Dialog (1941). On top of this is his fantasy and fugue based on the Christmas chorale ‘ Av himlens höjd oss kommet är’ for organ, trumpets, trombones and timpani. Of his works for solo organ, the virtuosic Toccata in A minor is the most famous, and the only one of his compositions to have been recorded on disc. For organ he also composed a prelude to the Mora melody ‘ Den signade dag’ and the grandly designed Koralimprovisation , based on the hymn ‘ Vi love Dig, o store Gud’ . Asplöf’s organ compositions are characterised by a personal, somewhat idiosyncratic tonal language. His larger works are based in late Romanticism, with rich rhetorical gestures, virtuosic scales and massive chord progressions. However, the harmony approaches modernism with its wealth of dissonances. Whereas the Toccata in A minor is in the style of a French toccata, with rapid continuous movement in the manual over a broad theme in the pedals, his other organ works, in particular the Koralimprovisation , are freer in form, without tangible role models. With its austere, transparent polyphony, ‘ Den signade dag ’ is entirely in line with the ideals of Swedish New Objectivity. All of Asplöf’s choral compositions are sacred works, including several which are intimately related to his duties at the church. As a new organist in Annedal, Asplöf was commissioned to compose a cantata for the consecration of the church. And, for the installation (probably of a new Dean of the cathedral), he wrote Installationshymn for choir and organ. As cathedral organist, he composed an additional number of works for choir and organ, and a few songs for choir a cappella. Sverker Jullander © 2016, 2023 Trans. Thalia Thunander",
+  "publications": null,
+  "bibliography": "‘Herman Asplöf’, Göteborgs-Posten , 7 Feb. 1959. Börjesson, Jan H., ‘Herman Asplöf’, in: Herman Asplöf: Samtliga orgelverk, Göteborg: Cantorgi, 2014. Enhörning, Magnus, ‘Asplöf, Herman’, in: Sohlmans musiklexikon [1 st ed.], Stockholm: Sohlmans, 1948. Jansson, Henrik, Musik och musiker i Göteborgs domkyrka, Stockholm: Edition Reimers, 1990. Jansson, Henrik, Orgelverken i Gustavi domkyrka, Göteborg: Göteborgs kyrkliga samfällighet, 1984. Åstrand, Hans, ‘8. Konstmusiken 1920–45’, in: Musiken i Sverige, vol. 4 , Stockholm: Fischer &amp; Co., 1994.",
+  "sources": "Musik- och teaterbiblioteket in Stockholm.",
+  "links": [],
+  "works_summary": "Concert works (Piano Concerto, works for organ and orchestra), cantatas, organ music (Toccata in A minor, etc.), choral music.",
+  "works": [
+    {
+      "category": "Organ and orchestra",
+      "title": "Dialog för orgel och orkester [Dialogue for organ and orchestra]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/asplof-herman/SMH-W722-Dialog_for_orgel_och_orkester_Dialogue_for_organ_and_orchestra",
+      "has_published_edition": false
+    },
+    {
+      "category": "Organ and orchestra",
+      "title": "Konsertstycke [Concert piece]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/asplof-herman/SMH-W721-Konsertstycke_Concert_piece",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Hjälp mig Jesu korset bära",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/asplof-herman/SMH-W528-Hjalp_mig_Jesu_korset_bara",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir and instruments",
+      "title": "Advent",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/asplof-herman/SMH-W526-Advent",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir and instruments",
+      "title": "Cantata (Installationshymn)",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/asplof-herman/SMH-W520-Cantata_Installationshymn",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir and instruments",
+      "title": "Evige",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/asplof-herman/SMH-W522-Evige",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir and instruments",
+      "title": "Hur ljuvliga dina boningar",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/asplof-herman/SMH-W525-Hur_ljuvliga_dina_boningar",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir and instruments",
+      "title": "Hymn, at the wedding of Anders and Britta on 27 May 1939",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/asplof-herman/SMH-W523-Hymn_at_the_wedding_of_Anders_and_Britta_on_27_May_1939",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir and instruments",
+      "title": "Jag lyfter mina ögon upp till bergen",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/asplof-herman/SMH-W527-Jag_lyfter_mina_ogon_upp_till_bergen",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir and instruments",
+      "title": "Kommen, låtom oss tillbedja",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/asplof-herman/SMH-W521-Kommen_latom_oss_tillbedja",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir and instruments",
+      "title": "Vilka äro dessa?",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/asplof-herman/SMH-W524-Vilka_aro_dessa",
+      "has_published_edition": false
+    },
+    {
+      "category": "Organ",
+      "title": "Chorale improvisation",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/asplof-herman/SMH-W531-Chorale_improvisation",
+      "has_published_edition": false
+    },
+    {
+      "category": "Organ",
+      "title": "Toccata for organ",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/asplof-herman/SMH-W530-Toccata_for_organ",
+      "has_published_edition": false
+    },
+    {
+      "category": "Other chamber music with winds",
+      "title": "Fantasy & Fugue",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/asplof-herman/SMH-W532-Fantasy_-_Fugue",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "asplof-herman"
+}

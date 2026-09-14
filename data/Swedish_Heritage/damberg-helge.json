@@ -1,0 +1,50 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/damberg-helge/",
+  "title": "Helge Damberg (1885-1961)",
+  "name": "Helge Damberg",
+  "years": "1885-1961",
+  "description": "Helge Damberg föddes den 12 oktober 1885 i Fritsla församling. Avled i Härlanda församling den 30 juli 1961. Verksam som militärmusiker samt som restaurang- och teaterkapellmästare. Damberg är framförallt bekant som arrangör och kompositör, bl.a. till en mängd marscher.",
+  "birth": {
+    "place": null,
+    "date": "12 oktober 1885",
+    "raw": "föddes den 12 oktober 1885"
+  },
+  "death": {
+    "place": "Härlanda församling",
+    "date": "30 juli 1961",
+    "raw": "Avled i Härlanda församling den 30 juli 1961"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": null,
+  "sources": null,
+  "links": [],
+  "works_summary": "Under uppbyggnad",
+  "works": [
+    {
+      "category": "Orchestral works in one movement",
+      "title": "Flygarmarsch (Flygvapnets defileringsmarsch) [March of the Swedish Air Force]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/damberg-helge/SMH-W6744-Flygarmarsch_Flygvapnets_defileringsmarsch_March_of_the_Swedish_Air_Fo",
+      "has_published_edition": false
+    },
+    {
+      "category": "Orchestral works in one movement",
+      "title": "Hemvärnsmarsch (Hemvärnets marsch) [March of the Swedish Home Guard]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/damberg-helge/SMH-W6743-Hemvarnsmarsch_Hemvarnets_marsch_March_of_the_Swedish_Home_Guard",
+      "has_published_edition": true
+    },
+    {
+      "category": "Orchestral works in one movement",
+      "title": "Tellusmarsch (Kungl. Göta trängregementes marsch) [March of the Swedish Logistic Regiment]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/damberg-helge/SMH-W6745-Tellusmarsch_Kungl_Gota_trangregementes_marsch_March_of_the_Swedish_Lo",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "damberg-helge"
+}

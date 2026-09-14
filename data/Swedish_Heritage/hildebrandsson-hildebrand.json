@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/hildebrandsson-hildebrand/",
+  "title": "Hildebrand Hildebrandsson (1791-1858)",
+  "name": "Hildebrand Hildebrandsson",
+  "years": "1791-1858",
+  "description": "Hildebrand Hildebrandsson föddes på Flerohopps Jernbruk, Madesjö församling (Nybro) den 28 februari 1791. Avled i Södertälje församling den 11 juli 1858. Musikskriftställare, pianist och tonsättare.",
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": "Södertälje församling",
+    "date": "11 juli 1858",
+    "raw": "Avled i Södertälje församling den 11 juli 1858"
+  },
+  "biography": "Studerade i Uppsala och tog där hovrättsexamen. En tid även verksam som militär (fänrik vid Wermlands regemente 1814 och blev så småningom kapten). Efter pension vistades ha på sin gård Orhem i Brännkyrka socken. Han ansågs av samtiden vara en \"skicklig pianist och förträfflig musikskriftställare\" [Höijer].",
+  "publications": "Läsning uti musikaliska ämnen , red. (4 häften 1827-29, bl a en Beethoven-biografi i hft 1) Ny tidning för musik , medv. (1853-57) Om kyrkomusiken i Sverige. Stockholm (1857)",
+  "bibliography": "Hildebrand, släkt , i Svenskt biografiskt lexiko n, bd 19 (1971-73) Höijer, Johan Leonard : artikel i Musiklexikon (1864) Stahre, Ivar : artikel i Sohlmans musiklexikon , band 3, s 435 (1976)",
+  "sources": null,
+  "links": [],
+  "works_summary": "sånger med piano, ett deklamatorium",
+  "works": [],
+  "slug": "hildebrandsson-hildebrand"
+}

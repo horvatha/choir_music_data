@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/gustaf-iii-konung/",
+  "title": "Konung Gustaf III (1746-1792)",
+  "name": "Konung Gustaf III",
+  "years": "1746-1792",
+  "description": "Gustav III (skrev sig Gustaf), född 13 januari 1746 (g.s.), död 29 mars 1792, var Sveriges konung 1771-1792. Nämnd i Carl Nissers \"Svensk Instrumentalkomposition\" 1770-1830, Nominalkatalog, Stockholm 1943.",
+  "birth": {
+    "place": null,
+    "date": "13 januari 1746",
+    "raw": "född 13 januari 1746"
+  },
+  "death": {
+    "place": null,
+    "date": "29 mars 1792",
+    "raw": "död 29 mars 1792"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "Hilleström, Gustaf: artikel i Sohlmans musiklexikon, band 3, s 257 (1976) Nisser, Carl: Svensk Instrumentalkomposition 1770-1830, Nominalkatalog (1943)",
+  "sources": null,
+  "links": [],
+  "works_summary": "Contradance, arrangerad av Haeffner",
+  "works": [],
+  "slug": "gustaf-iii-konung"
+}

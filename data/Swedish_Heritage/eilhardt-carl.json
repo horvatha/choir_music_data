@@ -1,0 +1,34 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/eilhardt-carl/",
+  "title": "Carl Eilhardt (1843-1911)",
+  "name": "Carl Eilhardt",
+  "years": "1843-1911",
+  "description": "Den tyske tonsättaren och dirigenten Carl Eilhardt föddes den 15 april 1843 i Erfurt, Thüringen. Avled i Glauchau, Sachsen (Tyskland) den 24 januari 1911. Har bland annat skrivit Livregementets grenadjärers marsch.",
+  "birth": {
+    "place": null,
+    "date": "15 april 1843",
+    "raw": "föddes den 15 april 1843"
+  },
+  "death": {
+    "place": "Glauchau, Sachsen (Tyskland)",
+    "date": "24 januari 1911",
+    "raw": "Avled i Glauchau, Sachsen (Tyskland) den 24 januari 1911"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": null,
+  "sources": null,
+  "links": [],
+  "works_summary": "Under uppbyggnad",
+  "works": [
+    {
+      "category": "Orchestral works in one movement",
+      "title": "Livregementets grenadjärers marsch (Lifregementets marsch) [March of the Life Regiment Grenadiers]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/eilhardt-carl/SMH-W6746-Livregementets_grenadjarers_marsch_Lifregementets_marsch_March_of_the",
+      "has_published_edition": true
+    }
+  ],
+  "slug": "eilhardt-carl"
+}

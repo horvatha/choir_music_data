@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/zebell-erik-lornes/",
+  "title": "Erik Lorens Zebell (1767-1819)",
+  "name": "Erik Lorens Zebell",
+  "years": "1767-1819",
+  "description": "Erik Lorens Zebell (Eric Lorentz Sebell) föddes i S:t Nikolai församling, Nyköping, 7 januari 1767. Avled i Paris 1819. Nämnd i Carl Nissers Svensk Instrumentalkomposition 1770-1830, Nominalkatalog, Stockholm 1943.",
+  "birth": {
+    "place": "S:t Nikolai församling, Nyköping,",
+    "date": "7 januari 1767",
+    "raw": "föddes i S:t Nikolai församling, Nyköping, 7 januari 1767"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "Nisser, Carl: Svensk Instrumentalkomposition 1770-1830, Nominalkatalog (Stockholm, 1943)",
+  "sources": "Statens Musik- och teaterbibliotek",
+  "links": [],
+  "works_summary": "Trois Sonates et Trois Divertissements, Pour le Violon avec Accompagnement de Basse. Dédiées aux Amateurs de Stockholm (opus 1): Sonata A-dur, Sonata G-dur, Sonata B-dur, Divertissment C-dur, Divertissment D-dur, Divertissement A-dur Trois Duos Faciles et Concertanz [sic] Pour deux Violons \"par Eric Zebell, Artiste Suedois [sic] c'est pour satisfaire au dezir [sic] de plusieurs Professurs que l'Auteur a composé cet Ouvrage élémentaire qui sera suivi de trois Oeuvres [sic] d'une difficulté progressive\" (opus 2) Trois Duos progressives (opus 3) Trois Duos concertants (opus 4) La Tyrlorienne variée [för klarinettkvartett] 6 valses et un sauteuse, livre 3 [för violin och piano] Solo-Concert för violin (ca 1793) Stråktrios",
+  "works": [],
+  "slug": "zebell-erik-lornes"
+}

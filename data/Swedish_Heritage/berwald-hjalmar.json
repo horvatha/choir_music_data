@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/berwald-hjalmar/",
+  "title": "Hjalmar Berwald (1848-1930)",
+  "name": "Hjalmar Berwald",
+  "years": "1848-1930",
+  "description": "Föddes i Oed (nära Wien, Österrike) 6 november 1848. Avled i Adolf Fredriks församling, Stockholm, 8 maj 1930. Son till tonsättaren Franz Berwald (1796-1868). Pianist, tonsättare och matematiker, verksam i Stockholm.",
+  "birth": {
+    "place": "Oed (nära Wien, Österrike)",
+    "date": "6 november 1848",
+    "raw": "Föddes i Oed (nära Wien, Österrike) 6 november 1848"
+  },
+  "death": {
+    "place": "Adolf Fredriks församling, Stockholm,",
+    "date": "8 maj 1930",
+    "raw": "Avled i Adolf Fredriks församling, Stockholm, 8 maj 1930"
+  },
+  "biography": "Som ung utbildade han sig till pianist, men ägnade sig sedan åt matematiska studier och han blev lärare vid Tekniska Högskolan i Stockholm.",
+  "publications": null,
+  "bibliography": null,
+  "sources": null,
+  "links": [],
+  "works_summary": "instrumentalverk (bl a Violinsonat f-moll) och sånger med piano",
+  "works": [],
+  "slug": "berwald-hjalmar"
+}

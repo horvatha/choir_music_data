@@ -1,0 +1,170 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/hallnas-hilding/",
+  "title": "Hilding Hallnäs (1903-1984)",
+  "name": "Hilding Hallnäs",
+  "years": "1903-1984",
+  "description": "Johan Hilding Hallnäs, född 24 maj 1903 i Halmstad, död 11 september 1984 i Stockholm. Tonsättare och kyrkomusiker, framför allt verksam som organist i Johannebergskyrkan i Göteborg 1933-68. LMA",
+  "birth": {
+    "place": "Halmstad",
+    "date": "24 maj 1903",
+    "raw": "född 24 maj 1903 i Halmstad"
+  },
+  "death": {
+    "place": "Stockholm",
+    "date": "11 september 1984",
+    "raw": "död 11 september 1984 i Stockholm"
+  },
+  "biography": "Hallnäs tog studentexamen 1923 i Halmstad och sedan organist-, kantors- och musiklärarexamen på Musikkonservatoriet i Stockholm (1924-29). Vidare studerade han orgel i Paris för för Alexandre Celier och komposition i Leipzig för Hermann Grabner. Organist och kantor i Jönköping 1931-33. Under mer än trettio år var han organist Johannebergs församling i Göteborg (1933-68). Han var även lärare i teori vid Göteborgs Orkesterförenings skola 1935-55, samt vice ordförande och programchef i kammarmusikföreningen Levande Musik 1958-70. Hallnäs var sedan 1934 gift med skådespelerskan Gun Holmquist. Invald i Kungl. Musikaliska akademien den 17 januari 1952, som ledamot nr 665.",
+  "publications": "Hallnäs berättar om sig själv (Musikvärlden 1946:8)",
+  "bibliography": "Bergendahl, G : 33 svenska komponister (1972) Cnattingius, C M : \"Jag hörde en fågels röda tunga\" ( Nutida Musik 1964/65) Ekheden, H : En grekisk saga — om Hilding Hallnäs och moralen ( Konsertnytt 1971/72:3) Gülich, S : Hilding Hallnäs sånger (opubl. uppsats, Göteborgs univ. 1973) Gülich, S och Carlsson, C : En systematisk förteckning över Hilding Hallnäs kompositioner (opubl. uppsats, Göteborgs univ. 1968) Johansson, B : Hallnäs i spegeln ( Musikrevy 1955:5)",
+  "sources": null,
+  "links": [],
+  "works_summary": "7 symfonier, orkesterverk (bl a \"Divertimento\"), violinkonsert, konsert för violin, klarinett, piano och orkester, kammarmusik (bl a stråkkvartett, pianotrio, violinsonat, violasonat), pianoverk, orgelverk (bl a \"Fantasi f-moll\", \"De profundis\", \"Musica dolorosa\"), sånger med piano, sånger med orkester, körverk, baletten \"Ifigenia\" (1962)",
+  "works": [
+    {
+      "category": "Orchestral works in one movement",
+      "title": "Epitaf, per Quintetto o Orchestra d' archi,",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/hallnas-hilding/SMH-W4757-Epitaf_per_Quintetto_o_Orchestra_d_archi",
+      "has_published_edition": false
+    },
+    {
+      "category": "Orchestral works in several movements",
+      "title": "Symfonisk suite [Symphonic suite) opus 12",
+      "opus": "12",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/hallnas-hilding/SMH-W7324-Symfonisk_suite_Symphonic_suite",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Benedictus",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/hallnas-hilding/SMH-W1851-Benedictus",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Crucifixus, Et resurrexit",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/hallnas-hilding/SMH-W953-Crucifixus_Et_resurrexit",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Gloria",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/hallnas-hilding/SMH-W1831-Gloria",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Stormfågel sjunger",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/hallnas-hilding/SMH-W1848-Stormfagel_sjunger",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Din trädgård blommar än en gång",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/hallnas-hilding/SMH-W1283-Din_tradgard_blommar_an_en_gang",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "I skogen om natten - Five songs Opus 17",
+      "opus": "17",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/hallnas-hilding/SMH-W1290-I_skogen_om_natten_-_Five_songs",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Sång",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/hallnas-hilding/SMH-W1281-Sang",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Three songs opus 15",
+      "opus": "15",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/hallnas-hilding/SMH-W763-Three_songs",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Three songs to texts by Atterbom",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/hallnas-hilding/SMH-W1284-Three_songs_to_texts_by_Atterbom",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Tre dagar",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/hallnas-hilding/SMH-W1282-Tre_dagar",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Two songs to Gun",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/hallnas-hilding/SMH-W1288-Two_songs_to_Gun",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Two songs to words by Gunnar Ekelöf",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/hallnas-hilding/SMH-W1286-Two_songs_to_words_by_Gunnar_Ekelof",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and organ",
+      "title": "'Trösten, trösten mitt folk', church aria",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/hallnas-hilding/SMH-W549-Trosten_trosten_mitt_folk_church_aria",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and organ",
+      "title": "Two biblical images",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/hallnas-hilding/SMH-W550-Two_biblical_images",
+      "has_published_edition": false
+    },
+    {
+      "category": "String quintet",
+      "title": "Epitaf, per Quintetto o Orchestra d' archi,",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/hallnas-hilding/SMH-W4758-Epitaf_per_Quintetto_o_Orchestra_d_archi",
+      "has_published_edition": false
+    },
+    {
+      "category": "Piano trio",
+      "title": "Stanze sensitive",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/hallnas-hilding/SMH-W1755-Stanze_sensitive",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "hallnas-hilding"
+}

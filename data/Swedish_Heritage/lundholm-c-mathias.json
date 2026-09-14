@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/lundholm-c-mathias/",
+  "title": "Mathias (Matthias) Lundholm (1784-1860)",
+  "name": "Mathias (Matthias) Lundholm",
+  "years": "1784-1860",
+  "description": "C. Mathias (Matthias enligt födelseboken) Lundholm (1785-1860) finns omnämnd i Carl Nissers Svensk Instrumentalkomposition 1770-1830, Nominalkatalog, Stockholm 1943. Avser troligen Mathias Lundholm, som föddes den 11 juli 1784 i Hedvig Eleonora församling (Stockholm) och avled i Hörby församling den 21 mars 1860 i Hörby (på Osbyholms slott/sätesgård).",
+  "birth": {
+    "place": null,
+    "date": "11 juli 1784",
+    "raw": "föddes den 11 juli 1784"
+  },
+  "death": {
+    "place": "Hörby församling",
+    "date": "21 mars 1860",
+    "raw": "avled i Hörby församling den 21 mars 1860"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "Nisser, Carl: Svensk Instrumentalkomposition 1770-1830, Nominalkatalog (Stockholm, 1943)",
+  "sources": null,
+  "links": [],
+  "works_summary": "Verk för soloviolin",
+  "works": [],
+  "slug": "lundholm-c-mathias"
+}

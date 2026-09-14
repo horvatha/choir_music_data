@@ -1,0 +1,234 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/baars-girilal/",
+  "title": "Girilal Baars (1967-)",
+  "name": "Girilal Baars",
+  "years": "1967-",
+  "description": "Educated at Uppsala University and Sibelius Academy (FIN). PhD in Composition from the University of HUddersfield (UK). WOrks with vocal music, chamber music and electroacoustic music. Born in Moscow (Russia) by Dutch and Indian parents.",
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "biography": "Born in Moscow in 1967. Based in Uppsala since 1986. Studies: improvisation (Uppsala University), composition (EMS Stockholm, STDH Stockholm, University of Huddersfield, UK), voice (Sibelius Academy, Helsinki, private studies).",
+  "publications": "Baars, Girilal: \"The Harmonic Sequencer: Mapping the Harmonic Series to a Sequencer\", Divergent Press, Issue #4, 2015",
+  "bibliography": null,
+  "sources": null,
+  "links": [],
+  "works_summary": "Electroacoustic music (e.g. Lykanthropos, R******d, Trioxia), chamber music (e.g. Doth Protest Too Much för saxophone quartet and voice, Intone Tenth Aerial for string trio), vocal music (E.g. White Belyj Hvit, voice and electronics, Two Timing, voice and electronics), film music (e.g. Ballet de la Nuit, REVERSEforward, Eating for Two, After Life), stage music (e.g. Stackars alla djuren, Kuu nukkuu, Cyborgic Sapiens).",
+  "works": [
+    {
+      "category": "Ballet / Dance music, one act",
+      "title": "Cyborgic Meningitis",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/baars-girilal/SMH-W6863-Cyborgic_Meningitis",
+      "has_published_edition": false
+    },
+    {
+      "category": "Ballet / Dance music, one act",
+      "title": "Inside the Inner Space Outside the Outer Space",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/baars-girilal/SMH-W6864-Inside_the_Inner_Space_Outside_the_Outer_Space",
+      "has_published_edition": false
+    },
+    {
+      "category": "Ballet / Dance music, one act",
+      "title": "Kuu nukkuu - Månen sover",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/baars-girilal/SMH-W6869-Kuu_nukkuu_-_Manen_sover",
+      "has_published_edition": false
+    },
+    {
+      "category": "Ballet / Dance music, one act",
+      "title": "Light Life",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/baars-girilal/SMH-W6865-Light_Life",
+      "has_published_edition": false
+    },
+    {
+      "category": "Incidental music",
+      "title": "Pity the Poor Creatures",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/baars-girilal/SMH-W6870-Pity_the_Poor_Creatures",
+      "has_published_edition": false
+    },
+    {
+      "category": "Incidental music",
+      "title": "Twelfth Night",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/baars-girilal/SMH-W6868-Twelfth_Night",
+      "has_published_edition": false
+    },
+    {
+      "category": "Film music",
+      "title": "About a Farm (Hiljainen tila)",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/baars-girilal/SMH-W6878-About_a_Farm_Hiljainen_tila",
+      "has_published_edition": false
+    },
+    {
+      "category": "Film music",
+      "title": "After Life, Four Stories of Torture",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/baars-girilal/SMH-W6881-After_Life_Four_Stories_of_Torture",
+      "has_published_edition": false
+    },
+    {
+      "category": "Film music",
+      "title": "Ballet de la Nuit",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/baars-girilal/SMH-W6883-Ballet_de_la_Nuit",
+      "has_published_edition": false
+    },
+    {
+      "category": "Film music",
+      "title": "co-Rotation 2",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/baars-girilal/SMH-W6866-co-Rotation_2",
+      "has_published_edition": false
+    },
+    {
+      "category": "Film music",
+      "title": "Eating for Two",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/baars-girilal/SMH-W6882-Eating_for_Two",
+      "has_published_edition": false
+    },
+    {
+      "category": "Film music",
+      "title": "Light Life",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/baars-girilal/SMH-W6876-Light_Life",
+      "has_published_edition": false
+    },
+    {
+      "category": "Film music",
+      "title": "Lunchtime",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/baars-girilal/SMH-W6879-Lunchtime",
+      "has_published_edition": false
+    },
+    {
+      "category": "Film music",
+      "title": "REVERSEforward",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/baars-girilal/SMH-W6867-REVERSEforward",
+      "has_published_edition": false
+    },
+    {
+      "category": "Film music",
+      "title": "Saana (Saanan tahto)",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/baars-girilal/SMH-W6877-Saana_Saanan_tahto",
+      "has_published_edition": false
+    },
+    {
+      "category": "Film music",
+      "title": "Uthman",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/baars-girilal/SMH-W6880-Uthman",
+      "has_published_edition": false
+    },
+    {
+      "category": "Female choir a cappella",
+      "title": "Mater",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/baars-girilal/SMH-W7248-Mater",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and other instruments",
+      "title": "Litanies in Zero Kelvin",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/baars-girilal/SMH-W6899-Litanies_in_Zero_Kelvin",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and other instruments",
+      "title": "Organ Donor",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/baars-girilal/SMH-W6989-Organ_Donor",
+      "has_published_edition": false
+    },
+    {
+      "category": "Other solo instruments solo",
+      "title": "Aqua Modulah",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/baars-girilal/SMH-W6991-Aqua_Modulah",
+      "has_published_edition": false
+    },
+    {
+      "category": "Other solo instruments solo",
+      "title": "Bright as Night",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/baars-girilal/SMH-W6898-Bright_as_Night",
+      "has_published_edition": false
+    },
+    {
+      "category": "Other solo instruments solo",
+      "title": "Cyborgic Meningitis Three",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/baars-girilal/SMH-W6988-Cyborgic_Meningitis_Three",
+      "has_published_edition": false
+    },
+    {
+      "category": "Other solo instruments solo",
+      "title": "In the Context of Eternity",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/baars-girilal/SMH-W6896-In_the_Context_of_Eternity",
+      "has_published_edition": false
+    },
+    {
+      "category": "Other solo instruments solo",
+      "title": "No Saviour",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/baars-girilal/SMH-W6897-No_Saviour",
+      "has_published_edition": false
+    },
+    {
+      "category": "Other solo instruments solo",
+      "title": "The Incoherent Truth",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/baars-girilal/SMH-W6990-The_Incoherent_Truth",
+      "has_published_edition": false
+    },
+    {
+      "category": "Soloist and ensemble",
+      "title": "Balloon Sonatino",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/baars-girilal/SMH-W6895-Balloon_Sonatino",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "baars-girilal"
+}

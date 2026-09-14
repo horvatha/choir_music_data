@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/paulson-gustaf/",
+  "title": "Gustaf Paulson (1898-1966)",
+  "name": "Gustaf Paulson",
+  "years": "1898-1966",
+  "description": "Organist och tonsättare. Gustaf Paulson (Pålsson) föddes den 22 januari 1898 i Helsingborgs stadsförsamling. Avled i Helsingborgs Maria församling den 17 december 1966. Verksam som organist i Gustaf Adolfs kyrka i Helsingborg från 1929. Svåger med tonsättaren John Fernström",
+  "birth": {
+    "place": null,
+    "date": "22 januari 1898",
+    "raw": "föddes den 22 januari 1898"
+  },
+  "death": {
+    "place": "Helsingborgs Maria församling",
+    "date": "17 december 1966",
+    "raw": "Avled i Helsingborgs Maria församling den 17 december 1966"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "Du Quercy Ahrén, Thoma s: Gustaf med tillnamnet Paulson: en bok om en tonkonstnär och hans verk . Lund: Arcus (2000) Lindberg, Boel : Mellan provins och parnass. John Fernström i svenskt musikliv. Diss. Lund: Arkiv (1997) S. 62ff",
+  "sources": null,
+  "links": [],
+  "works_summary": "13 symfonier, andra verk för orkester, orgelverk, körsånger, m m",
+  "works": [],
+  "slug": "paulson-gustaf"
+}

@@ -1,0 +1,34 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/boldemann-laci/",
+  "title": "Laci Boldemann (1921-1969)",
+  "name": "Laci Boldemann",
+  "years": "1921-1969",
+  "description": "Denne tonsättares verk skyddas fortfarande av upphovsrätten och ingår därför inte i Levande Musikarvs utgivning. För mer information om liv och verk hänvisar vi till Svensk Musiks hemsida.",
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "biography": "-",
+  "publications": null,
+  "bibliography": null,
+  "sources": null,
+  "links": [],
+  "works_summary": "---",
+  "works": [
+    {
+      "category": "Opera",
+      "title": "Svart är vitt – sa kejsaren, fairytale opera, opus 20",
+      "opus": "20",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/boldemann-laci/SMH-W4414-Svart_ar_vitt_-_sa_kejsaren_fairytale_opera",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "boldemann-laci"
+}

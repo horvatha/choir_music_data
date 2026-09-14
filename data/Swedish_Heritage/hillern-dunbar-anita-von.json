@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/hillern-dunbar-anita-von/",
+  "title": "Anita von Hillern-Dunbar (1890-1977)",
+  "name": "Anita von Hillern-Dunbar",
+  "years": "1890-1977",
+  "description": "Anita Amelie Henriette Maria von Hillern-Dunbar (f. von Hillern-Flinsch), född i Freiburg, Tyskland, 16 april 1890, död i Norrköping 24 november 1977. Pianist och tonsättare. Lärare vid Vogtsches Musikkonservatorium i Hamburg 1909-11. Omfattande konsertresor (första gången i Sverige 1917). Musikkritiker i Hamburg 1916-17. Bosatt i Sverige från 1923 till sin död. Ackompanjatör vid Musikkonservatoriet 1926-50. En av grundarna av Mellersta Sveriges kammarmusikförening 1927. Även verksam som sångpedagog. Invald som utländsk ledamot av Kungl. Musikaliska akademien 1937.",
+  "birth": {
+    "place": "Freiburg, Tyskland,",
+    "date": "16 april 1890",
+    "raw": "född i Freiburg, Tyskland, 16 april 1890"
+  },
+  "death": {
+    "place": "Norrköping",
+    "date": "24 november 1977",
+    "raw": "död i Norrköping 24 november 1977"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": "Brandel, Åke : artikel i Sohlmans musiklexikon , band 3, s 438 (Stockholm, 1976)",
+  "bibliography": null,
+  "sources": "Borås stadsarkiv, Musik- och teatermuseet Stockholm, Stockholms stadsarkiv",
+  "links": [],
+  "works_summary": "Sånger med piano, mm",
+  "works": [],
+  "slug": "hillern-dunbar-anita-von"
+}

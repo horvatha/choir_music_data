@@ -1,0 +1,50 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/lejdstrom-nanny/",
+  "title": "Nanny Lejdström (1874-1959)",
+  "name": "Nanny Lejdström",
+  "years": "1874-1959",
+  "description": "Nanny Celina Elisabet Lejdström, född i Säby, Västmanlands län, 8 maj 1874, död i Stockholm (St. Matteus församling) 27 april 1959. Musiklärare och tonsättare. Verksam 1919-34 som musiklärare vid folkskollärarinneseminariet i Kalmar.",
+  "birth": {
+    "place": "Säby, Västmanlands län,",
+    "date": "8 maj 1874",
+    "raw": "född i Säby, Västmanlands län, 8 maj 1874"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": null,
+  "sources": null,
+  "links": [],
+  "works_summary": "Sånger, bl a \"Ingalill\" (till text av Gustaf Fröding)",
+  "works": [
+    {
+      "category": "Voice and piano",
+      "title": "Ingalill, Sång i folkton vid piano [Ingalill, song in folk tone at the piano]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/lejdstrom-nanny/SMH-W104-Ingalill_Sang_i_folkton_vid_piano_Ingalill_song_in_folk_tone_at_the_pi",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Stjärngossar [Star boys]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/lejdstrom-nanny/SMH-W242-Stjarngossar_Star_boys",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Två sånger tonsatta af Nanny Lejdström [Two songs composed by Nanny Lejdström]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/lejdstrom-nanny/SMH-W243-Tva_sanger_tonsatta_af_Nanny_Lejdstrom_Two_songs_composed_by_Nanny_Lej",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "lejdstrom-nanny"
+}

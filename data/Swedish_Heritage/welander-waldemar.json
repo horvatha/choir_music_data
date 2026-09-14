@@ -1,0 +1,42 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/welander-waldemar/",
+  "title": "Waldemar Welander (1899-1984)",
+  "name": "Waldemar Welander",
+  "years": "1899-1984",
+  "description": "Kyrkomusiker, dirigent, musikkritiker och tonsättare. (Nils Henning) Waldemar Welander föddes den 28 augusti 1899 i Gödelövs församling, Genarp. Avled i Åkarp (Burlövs församling) den 2 januari 1984. Orgelstudier för Herman Åkerberg, Malmö. Kyrkomusiker i Gessie-Hököpinge. Organist i Malmö museum 1946-1971. Musikkritiker i Sydsvenska Dagbladet. Gift med tonsättaren Svea Welander (1898-1985).",
+  "birth": {
+    "place": null,
+    "date": "28 augusti 1899",
+    "raw": "föddes den 28 augusti 1899"
+  },
+  "death": {
+    "place": "Åkarp (Burlövs församling)",
+    "date": "2 januari 1984",
+    "raw": "Avled i Åkarp (Burlövs församling) den 2 januari 1984"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "Lund, Aino : Tonsättaren Waldemar Welander och hans verk . Uppsats i musikvetenskap, Lunds universitet (1983) Lund, Cajsa : Anteckningar från musiklandskapet Åkarp, i Melos och logos. Festskrift till Folke Bohlin . Skellefteå (2011) S.247-258",
+  "sources": null,
+  "links": [],
+  "works_summary": "Orkesterverk (bl a fyra symfonier, en pianokonsert och en saxofonkonsert), kammarmusik, sånger, m m",
+  "works": [
+    {
+      "category": "Viola and piano",
+      "title": "Sonatin [Sonatina]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/welander-waldemar/SMH-W1561-Sonatin_Sonatina",
+      "has_published_edition": false
+    },
+    {
+      "category": "String quartet",
+      "title": "String quartet no. 3",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/welander-waldemar/SMH-W373-String_quartet_no_3",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "welander-waldemar"
+}

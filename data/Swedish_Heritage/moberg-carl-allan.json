@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/moberg-carl-allan/",
+  "title": "Carl-Allan Moberg (1896-1978)",
+  "name": "Carl-Allan Moberg",
+  "years": "1896-1978",
+  "description": "Carl(-)Allan Moberg föddes den 5 juni 1896 i Östersunds församling. Avled i Helga Trefaldighets församling, Uppsala, den 19 juni 1978. Verksam som musikforskare, landets förste professor i ämnet. Komponerade även en del i yngre år.",
+  "birth": {
+    "place": null,
+    "date": "5 juni 1896",
+    "raw": "föddes den 5 juni 1896"
+  },
+  "death": {
+    "place": "Helga Trefaldighets församling, Uppsala,",
+    "date": "19 juni 1978",
+    "raw": "Avled i Helga Trefaldighets församling, Uppsala, den 19 juni 1978"
+  },
+  "biography": "Invaldes som ledamot nr 637 i Kungl. Musikaliska akademien den 28/10 1943. Akademiens vice preses 1954-58, preses 1960-63.",
+  "publications": null,
+  "bibliography": "Bengtsson, Ingmar : Carl-Allan Moberg, i Svensk tidskrift för musikforskning 1978 , s. 5-13 Bengtson, Ingmar: Carl-Allan Moberg , i Svenskt biografiskt lexikon , bd 25, 1985-87 Dahlstedt, Sten : Fakta och förnuft. Svensk akademisk musikforskning 1909-1941 . Diss. Uppsala 1986 Dahlstedt, Sten : I ndivid och innebörd. Forskningsinriktningar och vetenskapsteoretiska problem inom svensk akademisk musikforskning 1942-1961 . Diss. Göteborg 1998. Ling, Jan : Musik - att läsa och förstå, i Texter om svensk folkmusik - från Haeffner till Ling. Ronström, Owe &amp; Ternhag, Gunnar (red.), Stockholm 1994, s. 167-172 Tegen, Martin ; Carl-Allan Mobergs skrifter, i Svensk tidskrift för musikforskning 1961",
+  "sources": "Uppsala universitetsbibliotek (där kompositioner av C-AM förvaras), Uppsala stadsarkiv, Musik- och teaterbiblioteket",
+  "links": [],
+  "works_summary": "Sånger",
+  "works": [],
+  "slug": "moberg-carl-allan"
+}

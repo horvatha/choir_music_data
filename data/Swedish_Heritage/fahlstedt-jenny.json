@@ -1,0 +1,34 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/fahlstedt-jenny/",
+  "title": "Jenny Fahlstedt (1853−1906)",
+  "name": "Jenny Fahlstedt",
+  "years": "1853−1906",
+  "description": "Jenny Oscaria Amanda Fahlstedt (née Fridorff), born in Stockholm on 27 August 1853 and died there on 8 October 1906, was an operetta singer, voice teacher and composer. She was educated at the Royal Conservatory of Music in Stockholm and in Paris. She worked in Stockholm at the Södra teatern, Mindre teatern and Djurgårdsteatern theatres. In 1877 she married Anders Johan Fahlstedt. After retiring from the stage in 1879, she continued to work as both a teacher and a composer.",
+  "birth": {
+    "place": "Stockholm",
+    "date": "27 August 1853",
+    "raw": "born in Stockholm on 27 August 1853"
+  },
+  "death": {
+    "place": "Stockholm",
+    "date": "8 October 1906",
+    "raw": "died there on 8 October 1906"
+  },
+  "biography": "Life Studies Jenny Fahlstedt studied at the Kungliga Musikkonservatoriet (Royal Conservatory of Music) in Stockholm from 1865 to 1867 and in 1869. She also conducted studies in Paris around 1880 with Pauline Viardot García on voice, and on piano with Alphonse Duvernoy. Years on stage Jenny Fahlstedt made her operetta singing debut in 1869 or 1870, and was a success in roles that required theatrical charisma and comedic facility. Based on the roles she sang, she appears to have been a soubrette soprano with a light vocal timbre and high register. She also toured in the countryside. Her operetta roles include the title role in Le petit duc by Charles Lecocq, Ginetta in Les braconniers and Fragoletto in Les brigands by Jacques Offenbach, Anna in Peder Rank och hans fästmö by Olof Hermelin, Louise in De öfvergifna and Alice in Svensken i Paris . It is easy to find positive reviews of her stage performances, such as this one on her breeches role as Tamerlan in Ett bröllop i Paris : ‘You have to see the boy [...] a Parisian gamine [...] life and fire in every vein, every muscle [...] heart in bosom; Miss Fridorff has created a furore in her role as a boy’. A home music school In 1877 Jenny Fridorff married Anders Johan Fahlstedt and according to the Svenskt porträttgalleri, in 1879 she retired from the stage. In the autumn of 1883 she advertised music lessons in piano and voice; in 1885 she additionally listed her teachers’ names as references: Pauline Viardot García and Alphonse Duvernoy, ‘from which certificates are available for inspection.’ She continued to advertise over a number of years and appears to have operated her school until the early 1890’s. Anders Johan Fahlstedt died on 19 January 1894. Jenny Fahlstedt continued to teach, and published most of her compositions during the 1890’s. At times she even performed as a vocalist, and as late as 5 March 1905, one could read in the newspaper Dagens Nyheter : ‘Musical soirée presented today at 8:30 p.m. at the new colonnade hall on Norrlandsgatan 21 by Mrs. Jenny Fahlstedt and assisting artists. The program includes several violin and piano solo numbers and singing.\" Works The majority of Jenny Fahlstedt’s works are vocal music – songs for voice and piano – a genre in which many women felt at home. An exception is one of her earliest works: a funeral march in memory of her colleague, opera singer Louise Michaëli. It was advertised as follows: ‘In memory of Louise Michaëli, Miss Jenny Fridorff (from the Mindre teatern) has composed a funeral march, which is available at music stores for 75 öre . Deserves to be played’ ( Dagens Nyheter 5/3 1875). Some of her songs are strikingly simple, exhibiting characteristics of folk music, including ‘ Vill du hålla mig kär?’ which has been performed for marriage ceremonies even up to the present day. Regarding genre, most of her songs can be classified as salon music, but a couple of her songs with French lyrics stand out from the rest. Her 1888 songbook Tvenne Sånger med Piano consists of song titles such as ‘ La Primevère ’ and ‘ Jo Jo ’. In the first song, she breaks out of the conventional 4/4 time signature, developing a freer form. The song also includes suggestions for embellishments. The second song to differentiate itself from the others is ‘ Le Volontaire de 1870 ’. Published in Paris, it is a patriotic song in march tempo set to French lyrics. In 1895 Jenny Fahlstedt published a book of children’s songs with the Abraham Lundquist music publishing company under the collective title: Kvirilitt , 10 visor för de små . A critic at the Aftonbladet newspaper wrote of how he appreciated her songs, but that he felt that they could not be compared on the same level as Alice Tegner’s children’s songs. He also warned that Jenny Fahlstedt should beware of ‘the numerous time signature changes in Kycklingarna ’. Several of Jenny Fahlstedt’s songs are also represented in Elsa Uppling’s collections of duets for the higher years of girls’ schools. On 21 December 1899 the newspaper Svenska Dagbladet criticised this collection for including material by second-rate composers such as Jenny Fahlstedt. Legacy Jenny Fahlstedt retired from the stage several years after she married. Within bourgeois circles, it was not considered appropriate for a married woman to continue to appear on stage as an opera or operetta singer. In 1883, she began to run a music school out of her home. Although an article from 1 November 1906 in Svensk Musiktidning magazine states that she started the school after she became a widow, the school had already existed for over a decade by then. It is unclear as to why her status as an educator was diminished. It could have been simply carelessness or an attempt to hide the fact that she was a married woman who also had a career. We will probably never know the truth. Iwa Sorenson von Gertten © 2016 Trans. Thalia Thunander",
+  "publications": null,
+  "bibliography": "Lindgren, Adolf &amp; Nils Personne: ‘ Jenny Fahlstedt’, in: Svenskt porträttgalleri , vol. 21, Stockholm: Tullberg, 1897. Lindhjem, Anna : Kvinnelige komponister i Skandinavien , Fredriksstad: Fredriksstad Centraltrykkeri A.S., 1931. Svensk Musiktidning, 1 November 1906, p. 127. Svensk Musiktidning, 2 May 1907, p. 68.",
+  "sources": null,
+  "links": [],
+  "works_summary": "Piano works, songs (Vill du hålla mig kär, etc.).",
+  "works": [
+    {
+      "category": "Voice and piano",
+      "title": "Vill du hålla mig kär?",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/fahlstedt-jenny/SMH-W4396-Vill_du_halla_mig_kar",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "fahlstedt-jenny"
+}

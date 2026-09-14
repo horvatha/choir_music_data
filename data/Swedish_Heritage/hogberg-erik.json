@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/hogberg-erik/",
+  "title": "Erik Högberg (1869-1960)",
+  "name": "Erik Högberg",
+  "years": "1869-1960",
+  "description": "Johan Erik Högberg, född i Stockholm 8 maj 1869, död i Stockholm 7 februari 1960. Musiker, dirigent och tonsättare. Flöjtist i Svea Livgarde 1881, musikdirektörsexamen vid Musikkonservatoriet 1884. Musikdirektör vid Kalmar regemente 1897, vid Kronobergs regemente 1898, vid Västmanlands regemente 1908 och i flottan 1909-32. Flöjtist i Kungl. Hovkapellet 1887-89 samt 1892-1921. Ledde konserterna med Flottans musikkår på Skansen i Stockholm från 1910 och hovbalerna på slottet 1909-32. LMA",
+  "birth": {
+    "place": "Stockholm",
+    "date": "8 maj 1869",
+    "raw": "född i Stockholm 8 maj 1869"
+  },
+  "death": {
+    "place": "Stockholm",
+    "date": "7 februari 1960",
+    "raw": "död i Stockholm 7 februari 1960"
+  },
+  "biography": "Erik Högberg inträdde redan som tolvåring i Svea livgardes musikkår under Gustaf Rosbeck. Hans huvudinstrument var flöjt. Vid musikkonservatoriet studerade han kontrapunkt och komposition för Johan Lindegren och avlade musikdirektörsexamen 1894. Han var verksam som militärmusiker på ett flertal orter. Dessutom var han flöjtist i Hovkapellet 1887-1921. Han blev invald i Kungl. Musikaliska akademien den 27 november 1924, som associé nr 154.",
+  "publications": "En kronans musikant (självbiografi, 1932)",
+  "bibliography": "Gustafsson, Ille &amp; Percy, Gösta &amp; Cederberg, Ingvar: artikel i Sohlmans Musiklexikon, band 3, s 529-530 (1976) Svenska Män och Kvinnor Kungl. Musikaliska akademiens årsskrift, 1960",
+  "sources": "Krigsarkivet, Stockholms stadsarkiv, Uppsala Universitetsbibliotek.",
+  "links": [],
+  "works_summary": "marscher (bl a Svenska Flottan, Överste Kugelberg, Chefens marsch)",
+  "works": [],
+  "slug": "hogberg-erik"
+}

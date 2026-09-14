@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/von-heland-frans/",
+  "title": "Frans von Heland (1843-1923)",
+  "name": "Frans von Heland",
+  "years": "1843-1923",
+  "description": "Frans Isak (Franz Isac) von Heland föddes i Katarina församling, Stockholm, den 11 juni 1843. Avled i Oscars församling (Stockholm) den 2 juni 1923. Officer och tonsättare. Gift 1876 med Julia Krokstedt, 1914 med Ellen Rådberg.",
+  "birth": {
+    "place": "Katarina församling, Stockholm,",
+    "date": "11 juni 1843",
+    "raw": "föddes i Katarina församling, Stockholm, den 11 juni 1843"
+  },
+  "death": {
+    "place": "Oscars församling (Stockholm)",
+    "date": "2 juni 1923",
+    "raw": "Avled i Oscars församling (Stockholm) den 2 juni 1923"
+  },
+  "biography": "Kadett vid Karlberg 1857, utexaminerad 1862. Underlöjtnant vid Svea livgarde 1862, löjtnant där 1864. Kapten 1876, major 1891. Överstelöjtnant och 1. major vid Svea livgarde 1894. Överste och chef för Jämtlands fältjägarregemente 1897. Arméfullmäktig 1903–1904. Avsked med tillstånd att kvarstå såsom överste i armén 1904. Landstormsområdesbefälhavare 1907–1909. Avsked ur armén 1913. Förordnad att inträda såsom överste i IV arméfördelningens reserv 1914-1915.",
+  "publications": null,
+  "bibliography": null,
+  "sources": "Krigsarkivet, Musik- och teaterbiblioteket",
+  "links": [],
+  "works_summary": "Operetter, bl a Regementstrumslagaren (1870), Rekryten (1881), samt sånger, m m",
+  "works": [],
+  "slug": "von-heland-frans"
+}

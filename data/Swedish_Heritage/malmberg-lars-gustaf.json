@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/malmberg-lars-gustaf/",
+  "title": "Lars Gustaf Malmberg (1802-1835)",
+  "name": "Lars Gustaf Malmberg",
+  "years": "1802-1835",
+  "description": "Född i Hovförsamlingen, Stockholm, 4 augusti 1802, avliden i Katarina församling (Stockholm) 15 juli 1835. Enligt uppgift i Samlaren (1933) studerade han i Uppsala, \"försökte blifva prest i Erkestiftet [sic], hvilket ej lyckades, desslikes i Strengnäs stift\". /.../ Han lär ha varit känd som skicklig tecknare och porträttör men måste ... närmast betecknas som en begåvad dilettant\". Nämnd i Carl Nissers Svensk Instrumentalkomposition 1770-1830, Nominalkatalog, Stockholm 1943.",
+  "birth": {
+    "place": "Hovförsamlingen, Stockholm,",
+    "date": "4 augusti 1802",
+    "raw": "Född i Hovförsamlingen, Stockholm, 4 augusti 1802"
+  },
+  "death": {
+    "place": "Katarina församling (Stockholm)",
+    "date": "15 juli 1835",
+    "raw": "avliden i Katarina församling (Stockholm) 15 juli 1835"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "Nisser, Carl: Svensk Instrumentalkomposition 1770-1830, Nominalkatalog (Stockholm, 1943) Artikel av Henry Olsson ingående i Samlaren. Tidskrift för svensk litteraturhistorisk forskning. Uppsala (1933)",
+  "sources": null,
+  "links": [],
+  "works_summary": "Stycken för stråkkvartett (Andante C-dur, Ouverture C-dur [arr], Vals [arr])",
+  "works": [],
+  "slug": "malmberg-lars-gustaf"
+}

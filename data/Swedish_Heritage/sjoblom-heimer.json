@@ -1,0 +1,42 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/sjoblom-heimer/",
+  "title": "Heimer Sjöblom (1910-2001)",
+  "name": "Heimer Sjöblom",
+  "years": "1910-2001",
+  "description": "Denne tonsättares verk skyddas fortfarande av upphovsrätten och ingår därför inte i Levande Musikarvs utgivning. För mer information om liv och verk hänvisar vi till Svensk Musiks hemsida.",
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "biography": "-",
+  "publications": null,
+  "bibliography": null,
+  "sources": null,
+  "links": [],
+  "works_summary": "---",
+  "works": [
+    {
+      "category": "Orchestral works in one movement",
+      "title": "Lamento Opus 15:1",
+      "opus": "15",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/sjoblom-heimer/SMH-W7402-Lamento",
+      "has_published_edition": false
+    },
+    {
+      "category": "String quartet",
+      "title": "String quartet, 'Kvartetto fuoco' opus 42",
+      "opus": "42",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/sjoblom-heimer/SMH-W361-String_quartet_Kvartetto_fuoco",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "sjoblom-heimer"
+}

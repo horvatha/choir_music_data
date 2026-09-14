@@ -1,0 +1,42 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/karkoff-maurice/",
+  "title": "Maurice Karkoff (1927-2013)",
+  "name": "Maurice Karkoff",
+  "years": "1927-2013",
+  "description": "Denne tonsättares verk skyddas fortfarande av upphovsrätten och ingår därför inte i Levande Musikarvs utgivning. För mer information om liv och verk hänvisar vi till Svensk Musiks hemsida.",
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "biography": "-",
+  "publications": null,
+  "bibliography": null,
+  "sources": null,
+  "links": [],
+  "works_summary": "---",
+  "works": [
+    {
+      "category": "Orchestral works in one movement",
+      "title": "Passacaglia opus 111",
+      "opus": "111",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/karkoff-maurice/SMH-W7321-Passacaglia",
+      "has_published_edition": false
+    },
+    {
+      "category": "Harp and orchestra",
+      "title": "Dreamvisions opus 217",
+      "opus": "217",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/karkoff-maurice/SMH-W4759-Dreamvisions",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "karkoff-maurice"
+}

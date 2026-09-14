@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/seterholm-/",
+  "title": "Johan Setterholm (Seterholm) (1767-1833)",
+  "name": "Johan Setterholm (Seterholm)",
+  "years": "1767-1833",
+  "description": "Johan Setterholm (även varianterna Seterholm och Zetterholm förekommer, men Setterholm enligt hans egen namnteckning;) föddes 1767, troligen i Stockholm. Avliden i Jakob och Johannes församling (Stockholm) den 6 januari 1833. Även verksam som auditör, 'clavérinformationsmästare' och musiklärare. Far till tonsättaren Jacob August Setterholm. Nämnd i Carl Nissers Svensk Instrumentalkomposition 1770-1830, Nominalkatalog, Stockholm 1943.",
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": "Jakob och Johannes församling (Stockholm)",
+    "date": "6 januari 1833",
+    "raw": "Avliden i Jakob och Johannes församling (Stockholm) den 6 januari 1833"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "Nisser, Carl: Svensk Instrumentalkomposition 1770-1830, Nominalkatalog (1943)",
+  "sources": null,
+  "links": [],
+  "works_summary": "Fröken M:Gyllenborg [sic] Quadrille D-dur [för pianoforte] Marche C-dur [för pianoforte] Menuetto B-dur [för pianoforte]",
+  "works": [],
+  "slug": "seterholm-"
+}

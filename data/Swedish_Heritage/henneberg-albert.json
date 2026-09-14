@@ -1,0 +1,82 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/henneberg-albert/",
+  "title": "Albert Henneberg (1901-1991)",
+  "name": "Albert Henneberg",
+  "years": "1901-1991",
+  "description": "Carl Albert Theodor Henneberg, född i Stockholm 27 mars 1901, död i Stockholm 14 april 1991. Tonsättare, musikadministratör, dirigent. Son till tonsättaren Richard Henneberg (1853-1925).",
+  "birth": {
+    "place": "Stockholm",
+    "date": "27 mars 1901",
+    "raw": "född i Stockholm 27 mars 1901"
+  },
+  "death": {
+    "place": "Stockholm",
+    "date": "14 april 1991",
+    "raw": "död i Stockholm 14 april 1991"
+  },
+  "biography": "-",
+  "publications": null,
+  "bibliography": "Brandel, Åke : artikel i Sohlmans musiklexikon , band 3, s 415 (1976) Jungenfelt, Monica: Det jäser i Småland: Albert Hennebergs roll i det svensk-tyska musikutbytet under 1930-talet . Examensarbete (60 p.), Musikvetenskap, Växjö universitet (2005)",
+  "sources": "Musik- och teaterbiblioteket",
+  "links": [],
+  "works_summary": "6 symfonier, verk för orkester (bl a Serenad för stråkar, flera symfoniska dikter), Pianokonsert, Concertino för flöjt och stråkar, Romans för cello (eller viola) och kammarorkester, 2 stråkkvartetter, Violinsonat op 14, Kvartett (för flöjt, oboe, fagott, horn), flera verk för kör och orkester, 6 operor (Himlastenen, 1922, Inka, 1935-37, Det jäser i Småland, 1937-38, Den lyckliga staden, 1940-41, Bolla och Badin, 1942, I madonnans skugga, 1945)",
+  "works": [
+    {
+      "category": "Orchestral works in one movement",
+      "title": "Overture to the opera Bolla och Badin",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/henneberg-albert/SMH-W1106-Overture_to_the_opera_Bolla_och_Badin",
+      "has_published_edition": false
+    },
+    {
+      "category": "Orchestral works in several movements",
+      "title": "Miniatyrer för stråkorkester [Miniatures for string orchestra] opus 27",
+      "opus": "27",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/henneberg-albert/SMH-W7325-Miniatyrer_for_strakorkester_Miniatures_for_string_orchestra",
+      "has_published_edition": false
+    },
+    {
+      "category": "Orchestral works in several movements",
+      "title": "Serenad för stråkorkester [Serenade for string orchestra] Opus 20",
+      "opus": "20",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/henneberg-albert/SMH-W7203-Serenad_for_strakorkester_Serenade_for_string_orchestra",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "De två rosorna,",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/henneberg-albert/SMH-W2004-De_tva_rosorna",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Natt, [From Fem dikter/Five poems] opus 9, no. 4",
+      "opus": "9",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/henneberg-albert/SMH-W1481-Natt_From_Fem_dikterFive_poems",
+      "has_published_edition": false
+    },
+    {
+      "category": "String quartet",
+      "title": "Serenad, för stråkkvartett [Serenade, for string quartet] opus 20",
+      "opus": "20",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/henneberg-albert/SMH-W2323-Serenad_for_strakkvartett_Serenade_for_string_quartet",
+      "has_published_edition": false
+    },
+    {
+      "category": "String quartet",
+      "title": "String quartet no. 2 opus 24",
+      "opus": "24",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/henneberg-albert/SMH-W368-String_quartet_no_2",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "henneberg-albert"
+}

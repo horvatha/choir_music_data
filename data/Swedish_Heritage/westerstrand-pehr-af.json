@@ -1,0 +1,34 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/westerstrand-pehr-af/",
+  "title": "Pehr [af] Westerstrand (1785-1857)",
+  "name": "Pehr [af] Westerstrand",
+  "years": "1785-1857",
+  "description": "Sven Peter (Pehr) [af] Westerstrand, född i Ukna socken, Kalmar län 27 februari 1785, död 23 oktober 1857 i Åkers Styckebruk (vid ett tillfälligt besök där). Ämbetsman, teaterledare, författare, tonsättare. Tog en fil. mag. i Uppsala, 1809. Kamrerare i Stadskontoret 1818 (president 1832-51), Förste direktör vid Kungl. Teatern 1832-51, Kungl. Musikaliska akademiens kamrerare 1829-51, Sångare (Bellmantolkare, bas) och en av stiftarna av Harmoniska Sällskapet 1820, stormästare i Par Bricole 1823-57. Han adlades 1842. Far till operasångerskan Hertha Aurora Westerstrand (1821-87). LMA",
+  "birth": {
+    "place": "Ukna socken, Kalmar län",
+    "date": "27 februari 1785",
+    "raw": "född i Ukna socken, Kalmar län 27 februari 1785"
+  },
+  "death": {
+    "place": "Åkers Styckebruk (vid ett tillfälligt besök där)",
+    "date": "23 oktober 1857",
+    "raw": "död 23 oktober 1857 i Åkers Styckebruk (vid ett tillfälligt besök där)"
+  },
+  "biography": "Gift 1815 med Kristina Maria Wikmansson. Invald i Kungl. Musikaliska akademien den 2 december 1818, som ledamot nr 229. Hedersledamot av Lantbruksakademien 1833.",
+  "publications": "Dikter Översättningar av operatexter Sammansvärjningen mot Julius Ceasar, en fri översättning av W. Shakespeares Julius Caesar (1839) Tankar om grundskatten, af icke riksdagsman (1840) Handbok i Arithmetiken eller Sifferräkneläran (1850) Förslag till regeringsform för Sverige, af Välment (1856)",
+  "bibliography": "Höijer, Johan Leonard : artikel i Musiklexikon (1864) Norlind, Tobias : artikel i Allmänt Musiklexikon , band 2, s 552 (Wahlström &amp; Widstrand, Stockholm, 1928) Stellan-Mörner, C-G : artikel i Sohlmans Musiklexikon , band 5, s 791 (Stockholm, 1979) Ullberg Hans : artikel i Svenska Män och Kvinnor , band 8, s 295 (Bonniers förlag, Stockholm, 1955)",
+  "sources": "Antikvarisk-topografiska arkivet (Riksantikvarieämbetet), Göteborgs universitetsbibliotek, Kungliga Biblioteket Stockholm, Krigsarkivet, Musikmuseet Stockholm, Riksarkivet Stockholm, Riksantikvarieämbetet, Svenska Akademien, Statens musik- och teaterbibliotek, Uppsala universitetsbibliotek. Porträtt: Kungliga Biblioteket, Kungl. Myntkabinettet, Musikmuseet Stockholm, Nationalmuseum, Norrköpings museum, Svenska porträttarkivet.",
+  "links": [],
+  "works_summary": "En samling tersetter för mansröster, \"Sillsalaten\" (1851), mm",
+  "works": [
+    {
+      "category": "Voice and piano",
+      "title": "Herthas Barn [Herta's children]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/westerstrand-pehr-af/SMH-W1532-Herthas_Barn_Hertas_children",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "westerstrand-pehr-af"
+}

@@ -1,0 +1,98 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/berg-gottfrid/",
+  "title": "Gottfrid Berg (1889-1970)",
+  "name": "Gottfrid Berg",
+  "years": "1889-1970",
+  "description": "Gottfrid Teodor Berg (f. Jansson, namnbyte ca 1899) föddes i Hedvig Eleonora församling, Stockholm, 29 januari 1889. Avled i Lidingö församling 4 juli 1970. Kyrkomusiker, tonsättare och musiklärare, verksam i Gävle.",
+  "birth": {
+    "place": "Hedvig Eleonora församling, Stockholm,",
+    "date": "29 januari 1889",
+    "raw": "föddes i Hedvig Eleonora församling, Stockholm, 29 januari 1889"
+  },
+  "death": {
+    "place": "Lidingö församling",
+    "date": "4 juli 1970",
+    "raw": "Avled i Lidingö församling 4 juli 1970"
+  },
+  "biography": "Berg studerade vid Musikkonservatoriet i Stockholm, bl a komposition för Andreas Hallén och Ernst Ellberg. Organistexamen 1910, kyrkosångar- och musiklärarexamen 1915. Organist i Gävle Heliga Trefaldighet 1916-55, musiklärare vid flickskolan i Gävle 1918-44, lärare vid seminariet i Hagaström 1923-33, lärare vid läroverket i Gävle 1934-54. Musikkritiker i Gefle Dagblad 1931-42. En framstående körmusiktonsättarna under 1900-talet.",
+  "publications": "\"Något om folktonen i Wilhelm Peterson-Bergers musik\", i Wilhelm Peterson-Berger : festskrift : den 27 februari 1937, s. 154-160",
+  "bibliography": "Holmgren, Claes : Gottfrid Berg: musikalisk ciselör. Kyrkomusikernas tidning . 1998 (64:3), s. 10-11",
+  "sources": null,
+  "links": [],
+  "works_summary": "orkestersviter, verk för piano, verk för orgel, sånger med piano, verk för kör (bl a \"Tre latinska hymner\" och motettcykeln \"Om de yttersta tingen\")",
+  "works": [
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Ack, mildaste Jesu",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/berg-gottfrid/SMH-W1825-Ack_mildaste_Jesu",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Det första vårregnet",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/berg-gottfrid/SMH-W1827-Det_forsta_varregnet",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Du evige förbarmare",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/berg-gottfrid/SMH-W1824-Du_evige_forbarmare",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Giv, o himmelske Fader",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/berg-gottfrid/SMH-W1823-Giv_o_himmelske_Fader",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Herre, kungör mig dina vägar",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/berg-gottfrid/SMH-W1822-Herre_kungor_mig_dina_vagar",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Huru ljuvliga äro icke dina boningar",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/berg-gottfrid/SMH-W1829-Huru_ljuvliga_aro_icke_dina_boningar",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Jesu namn begynna skall",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/berg-gottfrid/SMH-W1828-Jesu_namn_begynna_skall",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Så jag målar, donna Bianca",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/berg-gottfrid/SMH-W1946-Sa_jag_malar_donna_Bianca",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Three Latin hymns for mixed choir latinska hymner för blandad kör",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/berg-gottfrid/SMH-W1800-Three_Latin_hymns_for_mixed_choir_latinska_hymner_for_blandad_kor",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "berg-gottfrid"
+}

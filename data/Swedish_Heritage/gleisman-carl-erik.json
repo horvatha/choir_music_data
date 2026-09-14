@@ -1,0 +1,58 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/gleisman-carl-erik/",
+  "title": "Carl Erik Gleisman (1765-1804)",
+  "name": "Carl Erik Gleisman",
+  "years": "1765-1804",
+  "description": "Carl Erik Gleisman föddes den 1 juni 1765 i Julita församling (Katrineholm). Avled den 9 december 1804 i Riddarholmens församling (Stockholm). Tonsättare, organist, musikamatör, kanslist.",
+  "birth": {
+    "place": null,
+    "date": "1 juni 1765",
+    "raw": "föddes den 1 juni 1765"
+  },
+  "death": {
+    "place": "Riddarholmens församling (Stockholm)",
+    "date": "9 december 1804",
+    "raw": "Avled den 9 december 1804 i Riddarholmens församling (Stockholm)"
+  },
+  "biography": "Gleisman förekom i kretsarna kring Anna Maria Lenngren (1754-1817) och Olof Åhlström (1756-1835). Han var kanslist i Allmänna brandförsäkringsbolaget samt från 1792 organist i Maria kyrka i Stockholm.",
+  "publications": null,
+  "bibliography": "Mörner, C-G Stellan : Johan Wikmansson und die Brüder Silverstolpe . Diss. Uppsala (1952) Norlind, Tobias : Olof Åhlström och sällskapsvisan på A M Lenngrens tid, i Svensk tidskrift för musikforskning (1926) Stellan Mörner, C-G : artikel i Sohlmans musiklexikon , band 3, s 134 (1976)",
+  "sources": "Musik- och teaterbiblioteket",
+  "links": [],
+  "works_summary": "Verk för piano (bl a polonäser, vals), sånger med piano (bl a \"Kellgrens död\", \"Den fattiga flickan\", \"Styfmodern\"), scenisk musik (operan Eremiten, 1798, delvis bevarad)",
+  "works": [
+    {
+      "category": "Voice and piano",
+      "title": "Göthernes utvandring [Exodus of the Geats] (\"Hvi prisas så högt våra Fäder\") from Svenska sånger 1790-1810 [Swedish songs 1780-1810 by several composers] (from Musikaliskt Tidsfördrif, Glada Qväden och Skaldestycken satte i musik)",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/gleisman-carl-erik/SMH-W6626-Gothernes_utvandring_Exodus_of_the_Geats_Hvi_prisas_sa_hogt_vara_Fader",
+      "has_published_edition": true
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Kellgrens död [The death of Kellgren] (\"Alt, alt förvandlas skall\") from Svenska sånger 1790-1810 [Swedish songs 1780-1810 by several composers] (from Musikaliskt Tidsfördrif, Glada Qväden och Skaldestycken satte i musik)",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/gleisman-carl-erik/SMH-W6616-Kellgrens_dod_The_death_of_Kellgren_Alt_alt_forvandlas_skall_from_Sven",
+      "has_published_edition": true
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Lycklig den [Happy, the one who] (\"Lycklig den med sorgfritt hjerta\") from Svenska sånger 1790-1810 [Swedish songs 1780-1810 by several composers] (from Musikaliskt Tidsfördrif, Glada Qväden och Skaldestycken satte i musik)",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/gleisman-carl-erik/SMH-W6623-Lycklig_den_Happy_the_one_who_Lycklig_den_med_sorgfritt_hjerta_from_Sv",
+      "has_published_edition": true
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Styfmodern [The stepmother] (\"Den fromma Fru Signild\") from Svenska sånger 1790-1810 [Swedish songs 1780-1810 by several composers] (from Musikaliskt Tidsfördrif, Glada Qväden och Skaldestycken satte i musik)",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/gleisman-carl-erik/SMH-W6625-Styfmodern_The_stepmother_Den_fromma_Fru_Signild_from_Svenska_sanger_1",
+      "has_published_edition": true
+    }
+  ],
+  "slug": "gleisman-carl-erik"
+}

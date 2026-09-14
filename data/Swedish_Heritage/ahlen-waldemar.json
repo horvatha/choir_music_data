@@ -1,0 +1,34 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/ahlen-waldemar/",
+  "title": "Waldemar Åhlén (1894-1982)",
+  "name": "Waldemar Åhlén",
+  "years": "1894-1982",
+  "description": "Gustaf Waldemar (Valdemar) Åhlén (f d Pettersson) föddes i Helgesta församling (Flen) den 21 juli 1894. Avled i Högalids församling (Stockholm) den 18 december 1982. Musikdirektör. Tonsättare. Under många år verksam som organist i S:t Jakobs kyrka (Stockholm). Komponerade främst verk för piano, orgel samt solosånger och kantater. Tilldelades utmärkelsen Litteris et Artibus samt var ledamot av Kungl. Musikaliska akademien och korresponderande ledamot av Kungl. Vitterhets Historie och Antikvitets Akademien.",
+  "birth": {
+    "place": "Helgesta församling (Flen)",
+    "date": "21 juli 1894",
+    "raw": "föddes i Helgesta församling (Flen) den 21 juli 1894"
+  },
+  "death": {
+    "place": "Högalids församling (Stockholm)",
+    "date": "18 december 1982",
+    "raw": "Avled i Högalids församling (Stockholm) den 18 december 1982"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": null,
+  "sources": null,
+  "links": [],
+  "works_summary": "En vänlig grönskas rika dräkt m fl verk",
+  "works": [
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Sommarpsalm (\"En vänlig grönskas rika dräkt\") [Summer Hymn]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/ahlen-waldemar/SMH-W5449-Sommarpsalm_En_vanlig_gronskas_rika_drakt_Summer_Hymn",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "ahlen-waldemar"
+}

@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/nystedt-noach/",
+  "title": "Noach Nystedt (1772—?)",
+  "name": "Noach Nystedt",
+  "years": "1772—?",
+  "description": "Född i Klara församling (Stockholm) den 6 april 1772. Okänt när han avled. Ingick i operastatens grupp extra elever och kapellister. Flyttade från Stockholm 1801, möjligen till Mariefred. Nämnd i Carl Nissers Svensk Instrumentalkomposition 1770-1830, Nominalkatalog, Stockholm 1943.",
+  "birth": {
+    "place": "Klara församling (Stockholm)",
+    "date": "6 april 1772",
+    "raw": "Född i Klara församling (Stockholm) den 6 april 1772"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "Nisser, Carl: Svensk Instrumentalkomposition 1770-1830, Nominalkatalog (1943)",
+  "sources": null,
+  "links": [],
+  "works_summary": "Marche (för pianoforte) D-dur",
+  "works": [],
+  "slug": "nystedt-noach"
+}

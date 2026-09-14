@@ -1,0 +1,34 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/bengzon-ferdinand/",
+  "title": "Ferdinand Bengzon (1840-1893)",
+  "name": "Ferdinand Bengzon",
+  "years": "1840-1893",
+  "description": "Pe(h)r [förnamnet Ferdinand saknas i kyrkböckerna, såväl i födelse- som dödsbok] Bengzon (Bengtsson) föddes i Jämshögs församling (Olofström, Blekinge) den 5 april 1840. Avled i Jakob och Johannes församling, Stockholm, den 18 juli 1893. Tonsättare och pianist. Studerade i Lund 1858, senare för Jan van Boom i Stockholm. Verksam som pianolärare.",
+  "birth": {
+    "place": "Jämshögs församling (Olofström, Blekinge)",
+    "date": "5 april 1840",
+    "raw": "föddes i Jämshögs församling (Olofström, Blekinge) den 5 april 1840"
+  },
+  "death": {
+    "place": "Jakob och Johannes församling, Stockholm,",
+    "date": "18 juli 1893",
+    "raw": "Avled i Jakob och Johannes församling, Stockholm, den 18 juli 1893"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": "Pianoskola (1888) Översättning av Theodor Hauptner: Sångskola (1887)",
+  "bibliography": "Biografisk artikel i Sv. Mt. [?] (1893, s 103) [enl. Tobias Norlind : Musiklexikon ] Norlind, Tobias : Allmänt Musiklexikon , band 1, s 121 (Wahlström &amp; Widstrand, Stockholm, 1927)",
+  "sources": null,
+  "links": [],
+  "works_summary": "verk för piano, sånger med piano (framför allt \"Viola\" och \"Vuggevise\")",
+  "works": [
+    {
+      "category": "Piano",
+      "title": "En Septemberafton [A September evening], Soir de septembre, Barcarolle",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/bengzon-ferdinand/SMH-W2134-En_Septemberafton_A_September_evening_Soir_de_septembre_Barcarolle",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "bengzon-ferdinand"
+}

@@ -1,0 +1,74 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/pergament-moses/",
+  "title": "Moses Pergament (1893-1977)",
+  "name": "Moses Pergament",
+  "years": "1893-1977",
+  "description": "Denne tonsättares verk skyddas fortfarande av upphovsrätten och ingår därför inte i Levande Musikarvs utgivning. För mer information om liv och verk hänvisar vi till Svensk Musiks hemsida.",
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "biography": "Artikel om Moses Pergament i Svenskt biografiskt lexikon",
+  "publications": null,
+  "bibliography": "Åhlén, Carl-Gunnar: Moses Pergament (KMA 2016)",
+  "sources": null,
+  "links": [],
+  "works_summary": "---",
+  "works": [
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Visan",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/pergament-moses/SMH-W1973-Visan",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Drömmen",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/pergament-moses/SMH-W1393-Drommen",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Kung Liv och drottning Död",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/pergament-moses/SMH-W1412-Kung_Liv_och_drottning_Dod",
+      "has_published_edition": false
+    },
+    {
+      "category": "String duo",
+      "title": "Duet for violin and violoncello opus 28",
+      "opus": "28",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/pergament-moses/SMH-W756-Duet_for_violin_and_violoncello",
+      "has_published_edition": false
+    },
+    {
+      "category": "String quartet",
+      "title": "[Movement 1 from] Five sketches for string quartet",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/pergament-moses/SMH-W365-Movement_1_from_Five_sketches_for_string_quartet",
+      "has_published_edition": false
+    },
+    {
+      "category": "Piano trio",
+      "title": "Piano trio [A major]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/pergament-moses/SMH-W1756-Piano_trio_A_major",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "pergament-moses"
+}

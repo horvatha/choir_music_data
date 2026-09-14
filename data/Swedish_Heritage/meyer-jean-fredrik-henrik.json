@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/meyer-jean-fredrik-henrik/",
+  "title": "Jean Fredrik Henrik Meyer (1822-1893)",
+  "name": "Jean Fredrik Henrik Meyer",
+  "years": "1822-1893",
+  "description": "Johann (Jean) Fredrik Henrik Meyer (även stavningen Mejer förekommer; ursprungligen Johann Friedrich Heinrich Meyer) föddes i Hamburg den 26 februari 1822. Avled i Tyska S:ta Gertruds församling (Stockholm) den 26 mars 1893. Violinist i Hovkapellet 1848-52 och 1861-65, konsertmästare 1866-82.",
+  "birth": {
+    "place": "Hamburg",
+    "date": "26 februari 1822",
+    "raw": "föddes i Hamburg den 26 februari 1822"
+  },
+  "death": {
+    "place": "Tyska S:ta Gertruds församling (Stockholm)",
+    "date": "26 mars 1893",
+    "raw": "Avled i Tyska S:ta Gertruds församling (Stockholm) den 26 mars 1893"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "Dahlgren, F(redrik) A(ugust) : Förteckning öfver svenska skådespel uppförda på Stockholms theatrar 1737-1863 och Kongl. theatrarnes personal 1773-1863 med flera anteckningar . Norstedt. Stockholm (1866) Norlind, Tobias &amp; Trobäck, Emi l: Kungl. Hovkapellets historia 1526-1926: minnesskrift . Wahlström &amp; Widstrand, Stockholm (1926) Höijer, J. Leonard : Musik-lexikon omfattande den theoretiska och praktiska tonkonsten, biographier öfver de förnämste in- och utländske musikförfattare, tonkonstnärer och dilettanter, som med utmärkelse idkat eller befordrat denna konst, beskrifningar öfver äldre och nyare instrumenter m.m. beträffande musik samt af natur att kunna lexikaliskt behandlas / efter de nyaste och tillförlitligaste källor utarbetadt af J. Leonard Höijer . Abr. Lundquist, Stockholm (1864), sid 49",
+  "sources": null,
+  "links": [],
+  "works_summary": "Under uppbyggnad",
+  "works": [],
+  "slug": "meyer-jean-fredrik-henrik"
+}

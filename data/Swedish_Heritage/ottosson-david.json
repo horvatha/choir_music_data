@@ -1,0 +1,34 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/ottosson-david/",
+  "title": "David Ottosson (1892-1970)",
+  "name": "David Ottosson",
+  "years": "1892-1970",
+  "description": "David Ottosson, född i Gävle 27 juli 1892, död i Stockholm 4 september 1970. Tonsättare.",
+  "birth": {
+    "place": "Gävle",
+    "date": "27 juli 1892",
+    "raw": "född i Gävle 27 juli 1892"
+  },
+  "death": {
+    "place": "Stockholm",
+    "date": "4 september 1970",
+    "raw": "död i Stockholm 4 september 1970"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": null,
+  "sources": null,
+  "links": [],
+  "works_summary": "Ett flertal orkesterverk, bl a Atis och Kamilla (tondikt), de symfoniska skisserna Höst, I havsbandet och Islossning, två konsertuvertyrer, Nordiska skisser, Meditation för stråkorkester, mm. Två romanser för violin och orkester, fagottkonsert, cellokonsert, pianokonsert samt ett Konsertstycke för cello och orkester. Verk för piano, bl a Bagatell (1941) samt Rapsodisk jazzkarikatyr (för två pianon). Kammarmusik, bl a en blåsarkvintett och en saxofonkvartett. Sommarens blommande saga, för tenor och orkester, Tre skälmar i galgen, för baryton och piano. Körmusik. Filmmusik: Havets melodi (1934).",
+  "works": [
+    {
+      "category": "Orchestral works in one movement",
+      "title": "Meditation",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/ottosson-david/SMH-W7069-Meditation",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "ottosson-david"
+}

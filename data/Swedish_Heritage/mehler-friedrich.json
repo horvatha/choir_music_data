@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/mehler-friedrich/",
+  "title": "Friedrich Mehler (1896-1981)",
+  "name": "Friedrich Mehler",
+  "years": "1896-1981",
+  "description": "Julius Friedrich Mehler föddes den 27 september 1896 i Frankfurt am Main. Avled den 5 november 1981 i Visby församling. Tonsättare, musiklärare och dirigent. Studerade vid musikkonservatoriet i Hannover 1905-14, kom 1921 till Visby, där han innehade många uppgifter i stadens och öns musikliv. De flesta av Mehlers kompositioner är knutna till Gotland, dess natur, miljöer och historia.",
+  "birth": {
+    "place": null,
+    "date": "27 september 1896",
+    "raw": "föddes den 27 september 1896"
+  },
+  "death": {
+    "place": "Visby församling",
+    "date": "5 november 1981",
+    "raw": "Avled den 5 november 1981 i Visby församling"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "Bergdahl, Violet (red.): Musikaliska sällskapet i Visby 150 år: minnesskrift på sällskapets föranstaltande. Visby (1965) Ekvall, Leif : Friedrich Mehler och musiken på Gotland . Kandidatuppsats i musikvetenskap, Stockholms universitet (1980). Med verkförteckning Ekvall, Leif : Friedrich Mehler , i Svenskt biografiskt lexikon , bd 25 (1985-87) Åhlén, Carl-Gunnar : Friedrich Mehler 100 år: jubileumsskrift . Stockholm (1996), Inkluderar Ekvalls verkförteckning.",
+  "sources": "Landsarkivet i Visby",
+  "links": [],
+  "works_summary": "Orkesterverk (2 symfonier), två violinkonserter, kammarmusik, skådespelsmusik. Mest kända verket är musiken till ruinspelet i Visby, Petrus de Dacia.",
+  "works": [],
+  "slug": "mehler-friedrich"
+}

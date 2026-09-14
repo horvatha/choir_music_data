@@ -1,0 +1,58 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/ek-gunnar/",
+  "title": "Gunnar Ek (1900-1981)",
+  "name": "Gunnar Ek",
+  "years": "1900-1981",
+  "description": "Fritz Gunnar Rudolf Ek, född 21 juni 1900 i Asarum Blekinge, död 21 juni 1981 i Lund, var en svensk kompositör, organist, dirigent och violoncellist, sonson till Johan Gustaf Ek. Denne tonsättares verk skyddas fortfarande av upphovsrätten och ingår därför inte i Levande Musikarvs utgivning. För mer information om liv och verk hänvisar vi till Svensk Musiks hemsida.",
+  "birth": {
+    "place": "Asarum Blekinge",
+    "date": "21 juni 1900",
+    "raw": "född 21 juni 1900 i Asarum Blekinge"
+  },
+  "death": {
+    "place": "Lund",
+    "date": "21 juni 1981",
+    "raw": "död 21 juni 1981 i Lund"
+  },
+  "biography": "Studerade vid Musikkonservatoriet i Stockholm 1920-26 och verkade därefter i tio år som förste cellist i Svensk Filmindustris orkester. Därefter (från 1937) var han organist i Östra Eneby utanför Norrköping. På 1950-talet blev han organist i Allhelgonakyrkan i Lund. Under 8 år var han cellist i Skånekvartetten.",
+  "publications": null,
+  "bibliography": "Broman, Sten: Gunnar Ek (Röster i Radio, nr 38, 1945) Åstrand, Hans: artikel i Sohlmans musiklexikon, band 2, s 413-14 (1975)",
+  "sources": null,
+  "links": [],
+  "works_summary": "3 symfonier, flera orkesterverk (bl a \"Svensk fantasi\", Fantasi och fuga\" för stråkorkester, Konsertuvertyr, \"Variationer över ett koraltema\" för stråkorkester, Concertino för stråkorkester), Fantasi för violin och orkester (1936), Pianokonsert (1944), verk för orgel, sånger med piano, Två sånger med orkester, verk för kör (bl a \"Domedagskantat\")",
+  "works": [
+    {
+      "category": "Orchestral works in one movement",
+      "title": "Fantasi, fuga och coda för stråkorkester [Fantasia, fugue and coda for string orchestra]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/ek-gunnar/SMH-W7403-Fantasi_fuga_och_coda_for_strakorkester_Fantasia_fugue_and_coda_for_st",
+      "has_published_edition": false
+    },
+    {
+      "category": "Orchestral works in one movement",
+      "title": "Scherzo, [from Symphony no. 1]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/ek-gunnar/SMH-W2406-Scherzo_from_Symphony_no_1",
+      "has_published_edition": false
+    },
+    {
+      "category": "Orchestral works in one movement",
+      "title": "Swedish Fantasy",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/ek-gunnar/SMH-W2407-Swedish_Fantasy",
+      "has_published_edition": false
+    },
+    {
+      "category": "Orchestral works in one movement",
+      "title": "Swedish fantasy",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/ek-gunnar/SMH-W2408-Swedish_fantasy",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "ek-gunnar"
+}

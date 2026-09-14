@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/olsson-joel/",
+  "title": "Joel Olsson (1882-1966)",
+  "name": "Joel Olsson",
+  "years": "1882-1966",
+  "description": "Joel Olsson, född 11 augusti 1882 i Stora Skedvi i Dalarna, död 27 februari 1966 i Falun. Tonsättare, dirigent, violinist, flöjtist och militärmusiker, huvudsakligen verksam i Stockholm och Falun. Musikdirektörsexamen vid Musikkonservatoriet 1910. Under sina år i Stockholm var Olsson bl a flöjtist i Kungliga Hovkapellet och violinist i Berns orkester. I Falun ledde han från 1917 till 1941 Kungl. Dalregementets musikkår, men var också dirigent för Dalarnas orkesterförening från dess grundande 1919 till 1949. Mesta delen av hans komponerande skedde för dessa båda ensembler.",
+  "birth": {
+    "place": "Stora Skedvi i Dalarna",
+    "date": "11 augusti 1882",
+    "raw": "född 11 augusti 1882 i Stora Skedvi i Dalarna"
+  },
+  "death": {
+    "place": "Falun",
+    "date": "27 februari 1966",
+    "raw": "död 27 februari 1966 i Falun"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "Dalregementets personhistoria. 4, 1900-1949. Falun (1995) Stolt, Lars C. : Marscher med historia. 73, Svensk artillerimarsch (Marcia Winberg), Artilleriskjutskolans marsch / Enock Nilson. 74, Marsch der Schutzpolizei, Gruss an Berlin, Jupiter-Marsch / Heinz Winkel. 75, Varen svenske!, Gula brigaden, Lotta Svärd / Joel Olsson, i Marschnytt . 2005 (nr 132), s. 18-20 Söderlund, Per-Ola &amp; Franzén, Lennart : Kungl. Dalregementets musikkår 1776-1971 . Falun (2013)",
+  "sources": null,
+  "links": [],
+  "works_summary": "Två symfonier, sviter för orkester, valser, en Frimurarkantat. Dessutom ca 20 marscher, bl a Leve Sverige!, Varen svenske!, För fädernebygd, Fosterlandet och För kung och land!",
+  "works": [],
+  "slug": "olsson-joel"
+}

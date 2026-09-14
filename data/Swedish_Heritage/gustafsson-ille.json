@@ -1,0 +1,34 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/gustafsson-ille/",
+  "title": "Ille Gustafsson (1898-1981)",
+  "name": "Ille Gustafsson",
+  "years": "1898-1981",
+  "description": "Ille Alexander Stanis Gustafsson föddes den 17 augusti 1898 i Svalövs församling. Avled den 3 juli 1981 i Helsingborgs Maria församling. Var en svensk militärmusiker, dirigent och kompositör. Han var bland annat musikdirektör för Svea livgardes musikkår i Stockholm 1944-57. Gustafsson grundade även Kristianstads orkesterförening och komponerade sammanlagt fem verk: en kantat till invigningen av Kristianstads konserthus år 1936 och fyra marscher, bland annat Svea livgardes defileringsmarsch.",
+  "birth": {
+    "place": null,
+    "date": "17 augusti 1898",
+    "raw": "föddes den 17 augusti 1898"
+  },
+  "death": {
+    "place": "Helsingborgs Maria församling",
+    "date": "3 juli 1981",
+    "raw": "Avled den 3 juli 1981 i Helsingborgs Maria församling"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": null,
+  "sources": null,
+  "links": [],
+  "works_summary": "Under uppbyggnad",
+  "works": [
+    {
+      "category": "Orchestral works in one movement",
+      "title": "Svea livgardes defileringsmarsch [Parade March of the Svea Life Guards (a former Swedish Army infantry regiment)]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/gustafsson-ille/SMH-W6747-Svea_livgardes_defileringsmarsch_Parade_March_of_the_Svea_Life_Guards",
+      "has_published_edition": true
+    }
+  ],
+  "slug": "gustafsson-ille"
+}

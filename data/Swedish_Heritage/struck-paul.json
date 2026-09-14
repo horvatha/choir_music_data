@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/struck-paul/",
+  "title": "Paul Struck (1776-1820)",
+  "name": "Paul Struck",
+  "years": "1776-1820",
+  "description": "Paul",
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "Nisser, Carl: Svensk Instrumentalkomposition 1770-1830, Nominalkatalog (Stockholm, 1943)",
+  "sources": null,
+  "links": [],
+  "works_summary": "Stråkkvartett, etc",
+  "works": [],
+  "slug": "struck-paul"
+}

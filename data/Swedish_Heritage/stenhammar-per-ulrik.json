@@ -1,0 +1,66 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/stenhammar-per-ulrik/",
+  "title": "Per Ulrik Stenhammar (1829-1875)",
+  "name": "Per Ulrik Stenhammar",
+  "years": "1829-1875",
+  "description": "Per Ulrik Stenhammar was born on 20 February 1829 in Häradshammar on the Vikbolandet peninsula east of Norrköping and died in Stockholm on 8 February 1875. Stenhammar was an architect as well as a composer and was made a member of the Royal Swedish Academy of Music in 1868. His creative output consists mainly of solo songs, particularly religious compositions. He was the father of Wilhelm Stenhammar.",
+  "birth": {
+    "place": "Häradshammar on the Vikbolandet peninsula east of Norrköping",
+    "date": "20 February 1829",
+    "raw": "born on 20 February 1829 in Häradshammar on the Vikbolandet peninsula east of Norrköping and died"
+  },
+  "death": {
+    "place": "Stockholm",
+    "date": "8 February 1875",
+    "raw": "died in Stockholm on 8 February 1875"
+  },
+  "biography": "(Svenskt Porträttarkiv) Life Per Ulrik Stenhammar was the son of Christian Stenhammar and his second wife, Anna Charlotta Kernell. Both the Stenhammars and the Kernells belonged to well known families from the Östergötland region. Christian Stenhammar was a vicar and naturalist, and for many years he represented the clergy in the parliament. The Kernells came from a long line of priests. Anna Charlotta was a cousin of the poet Per Daniel Amadeus Atterbom, and her sister, Sophie was married to the composer Adolf Fredrik Lindblad. At the age of fourteen Per Ulrik Stenhammar was sent to study in Stockholm, first at the Teknologiska institutet (the Royal Institute of Technology) and later at the Kungliga Akademien för de fria konsterna (the Royal Swedish Academy of Arts). The intention was for him to become an architect, and during his time as a student he also had the opportunity to gain practical training. After his education he became a consulting architect at the art academy, focusing on churches and institutional buildings. He was also a controller for the then national construction authority (Överintendentämbetet), and from 1866 he was an associate member and teacher at the art academy. From the 1860s, he prepared ‘standard plans’ that formed the basis for the construction of elementary schools and seminar buildings. Larger buildings that Stenhammar designed include the hospital in Västerås, the secondary school in Vänersborg and the Sabbatsberg poorhouse in Stockholm. He was also the driving force behind the creation of the octagonal chapel at the Ersta welfare hospital in Stockholm. Per Ulrik Stenhammar is sometimes called an amateur composer, which is true in the sense that he never made a living from his music, but he did receive a solid music education. During the winters in Stockholm, he was a student at the music school of his uncle (on his mother’s side), Adolf Fredrik Lindblad, where he learned to play the piano, while at the same time studying harmony and counterpoint. At the age of 20 he traveled around the Vikbolandet peninsula during the summers and transcribed folk songs, which were included in Levin Christian Wiede’s song collection (later published by the musicologist Jan Ling). Per Ulrik Stenhammar belonged to a large musical family. His mother’s brother-in-law, Adolf Fredrik Lindblad, was considered a prominent composer from the 1830s, and Per Ulrik Stenhammar’s brother, Oscar Fredrik Stenhammar (1834−1884), was an opera singer and later a customs official. Oscar Fredrik’s wife, Fredrika Stenhammar (née Andrée, 1836−1880) was an opera singer and prima donna at the Kungliga Teatern (the Royal Opera) and her sister, Elfrida Andrée (1841−1929), was a composer and Sweden’s first female cathedral organist. Per Ulrik’s son was the composer Wilhelm Stenhammar (1871−1927). Works Per Ulrik Stenhammar was mainly a composer of songs. They have a classical style − one senses his uncle Lindblad in the background − however, Stenhammar adapted his style to the late 19 th century vocal style. Most of his songs have religious texts and many of them have been published several times in various editions; around 1900 mainly in Oscar Ahnfelt’s editions of Andeliga sånger . Stenhammar composed at least one string quartet that was performed at a Mazer String Quartet Society concert on 27 December 1868. The oratorio, Saul och David , was presented in an orchestral version by his son, Wilhelm Stenhammar, in 1900. The piece is gentle, written in the spirit of Mozart and Mendelssohn. The text is by Urban von Feilitzen, better known under the pseudonym ‘Robinson’, who was the spouse of Stenhammar’s cousin, Lotten von Feilitzen. Eva Öhrström © 2016 Trans. Jill Ann Johnson",
+  "publications": null,
+  "bibliography": "Helmer, Axel : Svensk solosång 1850−1890 , 2 vol., diss., Stockholm: Svenskt musikhistoriskt arkiv, 1972. Svensk Musiktidning , 1900, pp. 33−34. Wallner, Bo : ’Per Ulrik Stenhammar’, in: Svenskt biografiskt lexikon, vol. 33, Stockholm: Svenskt biografiskt lexikon, 2007−11. −−− : Wilhelm Stenhammar och hans tid , 3 vol., Stockholm: Norstedt, 1991.",
+  "sources": null,
+  "links": [],
+  "works_summary": "Oratorio (Saul och David), chamber music (string quartet), songs (Denne är min käre son, and others), choral works (Höstpsalm, and others).",
+  "works": [
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Kors och krona / Det är min väns röst [Cross and crown / It is my friend's voice](\"Måste ock av törnen vara\")",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/stenhammar-per-ulrik/SMH-W5413-Kors_och_krona__Det_ar_min_vans_rost_Cross_and_crown__It_is_my_friends",
+      "has_published_edition": true
+    },
+    {
+      "category": "Mixed choir with solo voice(s) and orchestra",
+      "title": "David och Saul, oratorium [David and Saul, oratorio]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/stenhammar-per-ulrik/SMH-W4610-David_och_Saul_oratorium_David_and_Saul_oratorio",
+      "has_published_edition": false
+    },
+    {
+      "category": "Male choir a cappella",
+      "title": "Kors och krona / Det är min väns röst (\"Måste ock av törnen vara\")",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/stenhammar-per-ulrik/SMH-W5414-Kors_och_krona__Det_ar_min_vans_rost_Maste_ock_av_tornen_vara",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Angelika",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/stenhammar-per-ulrik/SMH-W1422-Angelika",
+      "has_published_edition": true
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Den sällsynta rosen [The Rare Rose]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/stenhammar-per-ulrik/SMH-W3994-Den_sallsynta_rosen_The_Rare_Rose",
+      "has_published_edition": true
+    }
+  ],
+  "slug": "stenhammar-per-ulrik"
+}

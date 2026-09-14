@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/sandahl-bengt/",
+  "title": "Bengt Sandahl (1774-1831)",
+  "name": "Bengt Sandahl",
+  "years": "1774-1831",
+  "description": "Född den 28 mars 1774 i Kärna, Östergötland. Avled den 8 juli 1831 i Veta, Östergötland. Organist och klockare i Veta 1797-1831. Enligt Göransson, Nils: 'Klockare och organister i Linköpings stift': \"Började sin musikerbana som klarinettist i armén. Kunde troligen också traktera fiol och trumpet jämte orgel. ... Var bonde.\" Nämnd i Carl Nissers Svensk Instrumentalkomposition 1770-1830, Nominalkatalog, Stockholm 1943.",
+  "birth": {
+    "place": null,
+    "date": "28 mars 1774",
+    "raw": "Född den 28 mars 1774"
+  },
+  "death": {
+    "place": "Veta",
+    "date": "8 juli 1831",
+    "raw": "Avled den 8 juli 1831 i Veta"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "Nisser, Carl: Svensk Instrumentalkomposition 1770-1830, Nominalkatalog (1943)",
+  "sources": null,
+  "links": [],
+  "works_summary": "Polonesse [sic] för violin, D-dur (1796)",
+  "works": [],
+  "slug": "sandahl-bengt"
+}

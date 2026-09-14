@@ -1,0 +1,50 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/bucht-gunnar/",
+  "title": "Gunnar Bucht (1927-)",
+  "name": "Gunnar Bucht",
+  "years": "1927-",
+  "description": "För aktuell verkförteckning och biografisk information om nu levande tonsättare hänvisar vi till Svensk Musik och tonsättarens egen hemsida.",
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "biography": "Gunnar BUCHTs egen hemsida",
+  "publications": "Catalogue raisonné ou parcours confus. Mitt musikaliska och litterära skapande 1949-2006 . Hemse 2008.",
+  "bibliography": "Bucht, Gunnar: Född på Krigsstigen. Minnesbilder, människor, musik. Stockholm 1997: Atlantis.",
+  "sources": null,
+  "links": [],
+  "works_summary": "---",
+  "works": [
+    {
+      "category": "Incidental music",
+      "title": "Woyzeck",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/bucht-gunnar/SMH-W4698-Woyzeck",
+      "has_published_edition": false
+    },
+    {
+      "category": "Orchestral works in one movement",
+      "title": "Strängaspel |String playing[",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/bucht-gunnar/SMH-W7326-Strangaspel_String_playing",
+      "has_published_edition": false
+    },
+    {
+      "category": "Symphony",
+      "title": "Symfoni nr 5 [Symphony no. 5] opus 30",
+      "opus": "30",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/bucht-gunnar/SMH-W7468-Symfoni_nr_5_Symphony_no_5",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "bucht-gunnar"
+}

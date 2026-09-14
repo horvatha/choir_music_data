@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/aman-jonas/",
+  "title": "Jonas Åhman (Åman) (1729-1761)",
+  "name": "Jonas Åhman (Åman)",
+  "years": "1729-1761",
+  "description": "Född i Stockholm den 20 november 1729. Avled där den 5 maj 1761. Capelist [sic]. Nämnd i Carl Nissers Svensk Instrumentalkomposition 1770-1830, Nominalkatalog, Stockholm 1943, dock utan förnamn. Detta är en av de tonsättare som den svenska arbetsgruppen av \"Répertoire international des sources musicales\" har speciellt ansvar för. Han räknas alltså som svensk. (ref. Mattias Lundberg)",
+  "birth": {
+    "place": "Stockholm",
+    "date": "20 november 1729",
+    "raw": "Född i Stockholm den 20 november 1729"
+  },
+  "death": {
+    "place": "Stockholm",
+    "date": "5 maj 1761",
+    "raw": "Avled där den 5 maj 1761"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "Bengtsson, Britt a (Pia Nyström, red): 1751 års män. Anteckningar om amatörer och hovkapellister vid \"Kongl. Begrafnings och Kongl. Krönings Musiquerne år 1751\" . Statens musikbibliotek, Stockholm (2001) Nisser, Carl: Svensk Instrumentalkomposition 1770-1830, Nominalkatalog (Stockholm, 1943)",
+  "sources": "Musik- och teaterbiblioteket, Lunds Universitetsbibliotek",
+  "links": [],
+  "works_summary": "Concerto F-dur a 8 stim (Violino 1-2, Alto viola, Basso, Hautbois 1-2, Corno 1-2) Par Seign: Åman [stämmaterial i ms. finns i Lunds Universitetsbibliotek, Kraus 253]",
+  "works": [],
+  "slug": "aman-jonas"
+}

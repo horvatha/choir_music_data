@@ -1,0 +1,386 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/wickman-fredrika/",
+  "title": "Fredrika Wickman (1852-)",
+  "name": "Fredrika Wickman",
+  "years": "1852-",
+  "description": "Fredrika Maria Wilhelmina Wickman (även namnformerna Wichmann och Wickmann förekommer). Född 28 mars 1852 i Stockholm, dödsdatum okänt. Tonsättare och sångerska. Anställd 1869 -1870 vid Kungliga teatern, därefter konsertsångerska och pedagog.",
+  "birth": {
+    "place": "Stockholm",
+    "date": "28 mars 1852",
+    "raw": "Född 28 mars 1852 i Stockholm"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "biography": "Fredrika Wickman född i Stockholm 28 mars 1852. Hon debuterade som 16-åring på Kungliga teatern som Donna Elvira i Don Juan. Hennes anställning vid operan avslutades redan 1870. Därefter framträdde hon bl.a. i Köln (Rosina i Barberaren i Sevilla). Vidare studier i Milano för Elpina Ferretti Lamperti. Undervisade vid Conservatoire de Musique i Neuchatel.",
+  "publications": "Aina eller öfverstens myndling, novell Viktor Böhlmarks förlag, Stockholm 1876 Även utgiven på finska: Aina, eli Ewerstin holhokki Jalander, Tampere 1883 Förmaksmöbeln, novell Tryckt i Freja, kalender för 1876, Ebeling &amp; comp., Stockholm 1875 Även tryckt som följetong i Dalpilen 15 och 22 januari 1876. Fannys reseäfventyr mellan Stockholm och Wingåker, novell Tryckt i Miniatyr-Almanach för 1877, Ebeling &amp; comp., Stockholm 1876 Darrgräset, Skizz, novell Tryckt i Freja, kalender för 1878, Ebeling &amp; comp., Stockholm 1878",
+  "bibliography": null,
+  "sources": null,
+  "links": [],
+  "works_summary": "Cirka 50 sånger med piano, pianomusik",
+  "works": [
+    {
+      "category": "Male choir a cappella",
+      "title": "Serenad, qvartett för mansröster [Serenade, quartet for male voices]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/wickman-fredrika/SMH-W6148-Serenad_qvartett_for_mansroster_Serenade_quartet_for_male_voices",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "\"Vi äro nu Guds fria barn\" [We are now God's free children]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/wickman-fredrika/SMH-W6144-Vi_aro_nu_Guds_fria_barn_We_are_now_Gods_free_children",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Barnens anlag [approx. The children's predispositions]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/wickman-fredrika/SMH-W6149-Barnens_anlag_approx_The_childrens_predispositions",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Chansons d'hiver op 21 och 22",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/wickman-fredrika/SMH-W6124-Chansons_dhiver",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Drei Lieder opus 11",
+      "opus": "11",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/wickman-fredrika/SMH-W6117-Drei_Lieder",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "En bön [A prayer]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/wickman-fredrika/SMH-W6119-En_bon_A_prayer",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Fattiga Barn i Finland [approx. Impoverished children in Finland]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/wickman-fredrika/SMH-W6150-Fattiga_Barn_i_Finland_approx_Impoverished_children_in_Finland",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Flyttfoglarne [The migratory birds]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/wickman-fredrika/SMH-W6112-Flyttfoglarne_The_migratory_birds",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Framåt [Onward]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/wickman-fredrika/SMH-W6145-Framat_Onward",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Fyra sånger [Four songs]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/wickman-fredrika/SMH-W6109-Fyra_sanger_Four_songs",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Fyra sånger [Four songs] opus 7",
+      "opus": "7",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/wickman-fredrika/SMH-W6115-Fyra_sanger_Four_songs",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Fyra sånger med svensk och tysk text [Four songs with lyrics in Swedish and German] opus 6",
+      "opus": "6",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/wickman-fredrika/SMH-W6111-Fyra_sanger_med_svensk_och_tysk_text_Four_songs_with_lyrics_in_Swedish",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Gjordt och ogjordt [Done and undone]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/wickman-fredrika/SMH-W6141-Gjordt_och_ogjordt_Done_and_undone",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "God morgen [Good morning]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/wickman-fredrika/SMH-W6121-God_morgen_Good_morning",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Grande valse pour le soprano opus 9",
+      "opus": "9",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/wickman-fredrika/SMH-W6871-Grande_valse_pour_le_soprano",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Han är uppstånden [He has risen], Påskhymn [Easter hymn], Hän ylösnousi,",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/wickman-fredrika/SMH-W6143-Han_ar_uppstanden_He_has_risen_Paskhymn_Easter_hymn_Han_ylosnousi",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Jag gick mig ut i lunden [I went out into the grove]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/wickman-fredrika/SMH-W6160-Jag_gick_mig_ut_i_lunden_I_went_out_into_the_grove",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Jesus är hvad jag behöfver [approx. I need Jesus]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/wickman-fredrika/SMH-W6146-Jesus_ar_hvad_jag_behofver_approx_I_need_Jesus",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Jordbærbakken",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/wickman-fredrika/SMH-W6178-JordbArbakken",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Jullof [Christmas praise]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/wickman-fredrika/SMH-W6142-Jullof_Christmas_praise",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Långt fjärran [Far away]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/wickman-fredrika/SMH-W6120-Langt_fjarran_Far_away",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Lärkröster i Maj [Lark voices in May]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/wickman-fredrika/SMH-W6118-Larkroster_i_Maj_Lark_voices_in_May",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Morgonbön [Morning prayer]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/wickman-fredrika/SMH-W6151-Morgonbon_Morning_prayer",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Silfverskeppet/Das Silberschifflein",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/wickman-fredrika/SMH-W6122-SilfverskeppetDas_Silberschifflein",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Sorgens lyst",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/wickman-fredrika/SMH-W6588-Sorgens_lyst",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Till ditt hjerta saligt sluten [approx. Blissfully attached to your heart]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/wickman-fredrika/SMH-W6139-Till_ditt_hjerta_saligt_sluten_approx_Blissfully_attached_to_your_hear",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Till en öfver sina synder bedröfvad själ [approx. To a soul, grieving its sins]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/wickman-fredrika/SMH-W6140-Till_en_ofver_sina_synder_bedrofvad_sjal_approx_To_a_soul_grieving_its",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Tre romancer. Text af Bjørnstjerne Bjørnsons \"Arne\" [Three romances. Lyrics from jørnstjerne Bjørnson's \"Arne\"] opus 10",
+      "opus": "10",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/wickman-fredrika/SMH-W6116-Tre_romancer_Text_af_BjOrnstjerne_BjOrnsons_Arne_Three_romances_Lyrics",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Tvenne romanser [Two romances] opus 4",
+      "opus": "4",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/wickman-fredrika/SMH-W6108-Tvenne_romanser_Two_romances",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Vackra sky, som ensam tågar [Beautiful sky, passing alone]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/wickman-fredrika/SMH-W6110-Vackra_sky_som_ensam_tagar_Beautiful_sky_passing_alone",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Visa [Song]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/wickman-fredrika/SMH-W6113-Visa_Song",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Vårhelsning [Spring greeting]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/wickman-fredrika/SMH-W6114-Varhelsning_Spring_greeting",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Är han än mig trogen? [Is he faithful to me?]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/wickman-fredrika/SMH-W6126-Ar_han_an_mig_trogen_Is_he_faithful_to_me",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and organ",
+      "title": "Ave Verum",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/wickman-fredrika/SMH-W6147-Ave_Verum",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and ensemble",
+      "title": "Ave Maria [Hail Maria] opus 20",
+      "opus": "20",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/wickman-fredrika/SMH-W6339-Ave_Maria_Hail_Maria",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voices and organ",
+      "title": "Ave verum pour deux voix égales opus 24",
+      "opus": "24",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/wickman-fredrika/SMH-W6884-Ave_verum_pour_deux_voix_egales",
+      "has_published_edition": false
+    },
+    {
+      "category": "Piano",
+      "title": "Caprice-Etude opus 14",
+      "opus": "14",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/wickman-fredrika/SMH-W6152-Caprice-Etude",
+      "has_published_edition": false
+    },
+    {
+      "category": "Piano",
+      "title": "Köpenhamnspolka [Polka]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/wickman-fredrika/SMH-W6154-Kopenhamnspolka_Polka",
+      "has_published_edition": false
+    },
+    {
+      "category": "Piano",
+      "title": "Midsommarsminnen från Sverige, Trenne genrestycken för piano [Midsummer recollections from Sweden. Three genre pieces] opus 13",
+      "opus": "13",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/wickman-fredrika/SMH-W6123-Midsommarsminnen_fran_Sverige_Trenne_genrestycken_for_piano_Midsummer",
+      "has_published_edition": false
+    },
+    {
+      "category": "Piano",
+      "title": "Polka-Mazurka",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/wickman-fredrika/SMH-W6127-Polka-Mazurka",
+      "has_published_edition": false
+    },
+    {
+      "category": "Piano",
+      "title": "Tette-Vals [Waltz]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/wickman-fredrika/SMH-W6138-Tette-Vals_Waltz",
+      "has_published_edition": false
+    },
+    {
+      "category": "Piano",
+      "title": "Trois morceaux de salon opus 12",
+      "opus": "12",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/wickman-fredrika/SMH-W6137-Trois_morceaux_de_salon",
+      "has_published_edition": false
+    },
+    {
+      "category": "Piano",
+      "title": "Vagtparaden kommer! Marsch [March]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/wickman-fredrika/SMH-W6153-Vagtparaden_kommer_Marsch_March",
+      "has_published_edition": false
+    },
+    {
+      "category": "Piano",
+      "title": "Vårminnen från Italien, Fyra genrestycken [Spring memories from Italy. Four genre pieces] opus 16",
+      "opus": "16",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/wickman-fredrika/SMH-W6155-Varminnen_fran_Italien_Fyra_genrestycken_Spring_memories_from_Italy_Fo",
+      "has_published_edition": false
+    },
+    {
+      "category": "Piano",
+      "title": "Wälkommen åter!, Helsning till Professorn och Riddaren A. Randel [Welcome back! Greeting directed to Sir A. Randel, Professor and Knight (of the Royal Order of Vasa); referring to Andreas Randel (1806-1864)]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/wickman-fredrika/SMH-W6177-Walkommen_ater_Helsning_till_Professorn_och_Riddaren_A_Randel_Welcome",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "wickman-fredrika"
+}

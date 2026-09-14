@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/wenster-christian/",
+  "title": "Christian Wenster (1735-1823)",
+  "name": "Christian Wenster",
+  "years": "1735-1823",
+  "description": "Född i Kristianstads stadsförsamling den 5 februari 1735, där fadern var organist. Avliden i Lunds domkyrkoförsamling den 3 april 1823. Studerade i Lund från 1753, avlade magisterexamen 1755. Kantor 1759-82. Director musices vid Lunds universitet 1781-1806. Domkyrkoorganist i Lund 1783-92.",
+  "birth": {
+    "place": "Kristianstads stadsförsamling",
+    "date": "5 februari 1735",
+    "raw": "Född i Kristianstads stadsförsamling den 5 februari 1735"
+  },
+  "death": {
+    "place": "Lunds domkyrkoförsamling",
+    "date": "3 april 1823",
+    "raw": "Avliden i Lunds domkyrkoförsamling den 3 april 1823"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "Alander, Bo : Musiken i Lund under 1700-talet . Svenska samfundet för musikforskning (1939), sid 128-142",
+  "sources": "Lunds Universitetsbibliotek",
+  "links": [],
+  "works_summary": "Under uppbyggnad",
+  "works": [],
+  "slug": "wenster-christian"
+}

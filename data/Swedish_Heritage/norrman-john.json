@@ -1,0 +1,42 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/norrman-john/",
+  "title": "John Norrman (1895-1979)",
+  "name": "John Norrman",
+  "years": "1895-1979",
+  "description": "John Artur Norrman, född i Hallsberg den 24 oktober 1895, avliden i Eskilstuna den 27 februari 1979. Musikdirektör, pianist, tonsättare. Verksam som folkskol- och musiklärare i Eskilstuna, där han i mitten av 1930-talet startade en musikskola, vilken ombildades till en av landets kommunala musikskolor. Även verksam som musikrecensent i tidningen Folket. Tilldelades 1970 Medaljen för tonkonstens främjande. Ledamot av Kungl. Musikaliska akademien.",
+  "birth": {
+    "place": "Hallsberg",
+    "date": "24 oktober 1895",
+    "raw": "född i Hallsberg den 24 oktober 1895"
+  },
+  "death": {
+    "place": "Eskilstuna",
+    "date": "27 februari 1979",
+    "raw": "avliden i Eskilstuna den 27 februari 1979"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": null,
+  "sources": null,
+  "links": [],
+  "works_summary": "sånger med piano, verk för kör, kantat till Eskilstunas 300-årsjubileum, filmmusik (bl a \"Adolf Armstarke\" 1937), mm",
+  "works": [
+    {
+      "category": "Voice and piano",
+      "title": "Jag ville vara tårar",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/norrman-john/SMH-W1484-Jag_ville_vara_tarar",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Vita sommarsky, [From Hemmets sånger [Songs for the home], ten songs to poems by Tor Hedberg]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/norrman-john/SMH-W1485-Vita_sommarsky_From_Hemmets_sanger_Songs_for_the_home_ten_songs_to_poe",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "norrman-john"
+}

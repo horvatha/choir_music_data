@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/georgii-per-eberhard/",
+  "title": "Per Eberhard Georgii (1759-1808)",
+  "name": "Per Eberhard Georgii",
+  "years": "1759-1808",
+  "description": "Peter (Pehr) Eberhart (Evert) föddes i Uppsala domkyrkoförsamling den 20 augusti 1759, avled i Klara församling (Stockholm) den 2 december 1808. Hovrättsråd i Åbo 1797, från 1800 underståthållare i Stockholm. Landshövding i Stockholms län 1802 och utnämndes 1803 till ledamot av Högsta domstolen. Deltog i stiftandet av Musikaliska sällskapet i Åbo. Riddare av Kungl. Maj:ts Nordstjärneorden. Invaldes i Kungl. Musikaliska akademien 1799 och var dess preses 1801-1803.",
+  "birth": {
+    "place": "Uppsala domkyrkoförsamling",
+    "date": "20 augusti 1759",
+    "raw": "föddes i Uppsala domkyrkoförsamling den 20 augusti 1759"
+  },
+  "death": {
+    "place": "Klara församling (Stockholm)",
+    "date": "2 december 1808",
+    "raw": "avled i Klara församling (Stockholm) den 2 december 1808"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": null,
+  "sources": "Statens Musik- och teaterbibliotek",
+  "links": [],
+  "works_summary": "Under uppbyggnad",
+  "works": [],
+  "slug": "georgii-per-eberhard"
+}

@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/redec-amalia/",
+  "title": "Amalia Redec (1812-1885)",
+  "name": "Amalia Redec",
+  "years": "1812-1885",
+  "description": "Amalia Leonhilda Redec (f. Setterborg, g. Tranberg) föddes den 4 maj 1812 i Göteborgs Kristine församling. Avled i Ljungby församling den 21 november 1885. Pianist och tonsättare",
+  "birth": {
+    "place": null,
+    "date": "4 maj 1812",
+    "raw": "föddes den 4 maj 1812"
+  },
+  "death": {
+    "place": "Ljungby församling",
+    "date": "21 november 1885",
+    "raw": "Avled i Ljungby församling den 21 november 1885"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "Ericson, Margaret D.: Women and music : a selective annotated bibliography on women and gender issues in music, 1987-1992 , Boston, 1996 Höijer, Leonard : \"Amalia Redec\", i: Musiklexikon , Stockholm 1864 Schmidt, Pia : Kvinnliga tonsättare i Sverige 1800-1935. En verkförteckning, Högskolan i Borås, 1982, s. 48-49 Bendz, Hanna : Amalia Redec. Beroende och frihet i ett borgerligt kvinnoöde (B-uppsats, Institutionen för historiska studier, Göteborgs universitet, vt 2015)",
+  "sources": "Musik- och teaterbiblioteket",
+  "links": [],
+  "works_summary": "Sånger, pianostycken",
+  "works": [],
+  "slug": "redec-amalia"
+}

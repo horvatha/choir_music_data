@@ -1,0 +1,71 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/andersson-magnus-f/",
+  "title": "Magnus F Andersson (1953-)",
+  "name": "Magnus F Andersson",
+  "years": "1953-",
+  "description": "Magnus Folke Andersson. Född den 26 juni 1953 i Karlskrona. Tonsättare, trombonist och pedagog.",
+  "birth": {
+    "place": null,
+    "date": "26 juni 1953",
+    "raw": "Född den 26 juni 1953"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "biography": "Född i Karlskrona 1953. Studerade vid KMH 1983-1990 för bl a Bengt-Arne Wallin, Daniel Börtz, Per Lindgren och Sven-David Sandström. Anställd i Kulturskolan, Stockholm sedan 1991. Undervisar i bleckblås, orkester och komposition. Trombonist i Respons Sinfonietta. Komponerar gärna för orkester, men även för mindre ensembler och solister, både för proffs och amatörer.",
+  "publications": null,
+  "bibliography": null,
+  "sources": null,
+  "links": [
+    {
+      "title": "Magnus F Andersson",
+      "url": "https://www.magnusfandersson.se"
+    },
+    {
+      "title": "Föreningen Svenska Tonsättare",
+      "url": "https://fst.se/composer/210"
+    },
+    {
+      "title": "Svensk Musik",
+      "url": "https://www.svenskmusik.org/sv/sök?person=16122&amp;sort=new"
+    }
+  ],
+  "works_summary": "Orkesterverk (Moln, Parfymfabriken), blåsorkester (Blandade fåglar, konsert för symfonisk blåsorkester, Under bron under tiden), skolorkester (Flyttfågeln), kammarmusik (Poco a poco för flöjt harpa och viola, Galliard / broken galliard för flöjt och gitarr, Förändringsfanfar för 2 bleckblåsare, Parlando för flöjt och harpa, Masque för trombonekvartett), solostycken (Fairy's call för piano, Talking to the witch för trombone och dator, Gömma för altsaxofon, Förnimma för violoncello), kör (Seger)",
+  "works": [
+    {
+      "category": "Orchestral works in several movements",
+      "title": "Blandade fåglar, Oiseaux Mixtes",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/andersson-magnus-f/SMH-W6806-Blandade_faglar_Oiseaux_Mixtes",
+      "has_published_edition": false
+    },
+    {
+      "category": "Orchestral works in several movements",
+      "title": "Moln, Clouds",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/andersson-magnus-f/SMH-W6804-Moln_Clouds",
+      "has_published_edition": false
+    },
+    {
+      "category": "Solo for several wind instruments and orchestra",
+      "title": "Hopp [Hope / Jump], Concertino för horn, trumpet och sinfonietta [Concertino for horn, trumpet and sinfonietta]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/andersson-magnus-f/SMH-W6893-Hopp_Hope__Jump_Concertino_for_horn_trumpet_och_sinfonietta_Concertino",
+      "has_published_edition": false
+    },
+    {
+      "category": "Other chamber music with winds",
+      "title": "Intrada 1.4",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/andersson-magnus-f/SMH-W6805-Intrada_14",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "andersson-magnus-f"
+}

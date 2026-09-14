@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/ficker-gustaf/",
+  "title": "Gustaf Ficker (1790-1819)",
+  "name": "Gustaf Ficker",
+  "years": "1790-1819",
+  "description": "Gustaf Adolf Ficker föddes i Storkyrkoförsamlingen, Stockholm, den 26 oktober 1790. Avled i Linköpings domkyrkoförsamlinge den 13 juli 1819. Flöjtist i Kungl. Hovkapellet. Nämnd i Carl Nissers Svensk Instrumentalkomposition 1770-1830, Nominalkatalog, Stockholm 1943.",
+  "birth": {
+    "place": "Storkyrkoförsamlingen, Stockholm,",
+    "date": "26 oktober 1790",
+    "raw": "föddes i Storkyrkoförsamlingen, Stockholm, den 26 oktober 1790"
+  },
+  "death": {
+    "place": "Linköpings domkyrkoförsamlinge",
+    "date": "13 juli 1819",
+    "raw": "Avled i Linköpings domkyrkoförsamlinge den 13 juli 1819"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "Nisser, Carl: Svensk Instrumentalkomposition 1770-1830, Nominalkatalog (1943)",
+  "sources": null,
+  "links": [],
+  "works_summary": "Flöjtkonsert \"af lilla Herr Gustaf Ficker\"",
+  "works": [],
+  "slug": "ficker-gustaf"
+}

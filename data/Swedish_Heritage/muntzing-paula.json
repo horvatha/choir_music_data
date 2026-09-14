@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/muntzing-paula/",
+  "title": "Paula Müntzing (1890-1967)",
+  "name": "Paula Müntzing",
+  "years": "1890-1967",
+  "description": "Anna Paulina Johanna (Paula) Müntzing föddes i Kristiania (Oslo, Norge) den 17 juni 1890. Avled i Vasa församling, Göteborg den 1 februari 1967. Komponerade främst solosånger. Var även verksam som musiklärare och danspedagog.",
+  "birth": {
+    "place": "Kristiania (Oslo, Norge)",
+    "date": "17 juni 1890",
+    "raw": "föddes i Kristiania (Oslo, Norge) den 17 juni 1890"
+  },
+  "death": {
+    "place": "Vasa församling, Göteborg",
+    "date": "1 februari 1967",
+    "raw": "Avled i Vasa församling, Göteborg den 1 februari 1967"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": null,
+  "sources": null,
+  "links": [],
+  "works_summary": "Sånger kring jul: från Lucia till Nyår. 16 sånger för soloröst med pianoackompanjemang",
+  "works": [],
+  "slug": "muntzing-paula"
+}

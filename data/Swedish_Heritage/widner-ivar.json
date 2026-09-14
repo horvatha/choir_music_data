@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/widner-ivar/",
+  "title": "Ivar Widner (1891-1973)",
+  "name": "Ivar Widner",
+  "years": "1891-1973",
+  "description": "Ivar Widner (f d Pettersson) föddes i Kolsva, Bro församling (Köping) den 29 december 1891. Avled i Farsta församling (Stockholm) den 26 augusti 1973. Musikdirektör. Var verksam vid flera regementen, övertog 1932 ledningen för Flottans musikkår (Stockholm), där han tjänstgjorde fram till sin pensionering 1947. Ledde även ett flertal körer. Ledamot av Kungl. Musikaliska akademien.",
+  "birth": {
+    "place": "Kolsva, Bro församling (Köping)",
+    "date": "29 december 1891",
+    "raw": "föddes i Kolsva, Bro församling (Köping) den 29 december 1891"
+  },
+  "death": {
+    "place": "Farsta församling (Stockholm)",
+    "date": "26 augusti 1973",
+    "raw": "Avled i Farsta församling (Stockholm) den 26 augusti 1973"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": null,
+  "sources": null,
+  "links": [],
+  "works_summary": "Under uppbyggnad (ca 135 verk: solo-, kvartett- och körsånger, kantater, danser samt ett 30-tal marscher)",
+  "works": [],
+  "slug": "widner-ivar"
+}

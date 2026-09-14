@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/rudolf-waldemar/",
+  "title": "Waldemar Rudolf (1882-1974)",
+  "name": "Waldemar Rudolf",
+  "years": "1882-1974",
+  "description": "August Waldemar Rudolf (trol. f. Johansson) föddes den 1 mars 1882 i Berga församling (Mariestad). Avled i Gustav Adolf församling, Helsingborg, den 29 maj 1974. Tonsättare.",
+  "birth": {
+    "place": null,
+    "date": "1 mars 1882",
+    "raw": "föddes den 1 mars 1882"
+  },
+  "death": {
+    "place": "Gustav Adolf församling, Helsingborg,",
+    "date": "29 maj 1974",
+    "raw": "Avled i Gustav Adolf församling, Helsingborg, den 29 maj 1974"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": null,
+  "sources": null,
+  "links": [],
+  "works_summary": "Verk för orkester: bl a Al fresco op 26 för stråkorkester, April op 22 (1935) för stråkorkester, Intermezzo rustico ur Svit op 27 (1941), Landskap op 25 (svit), Musica instrumentale op 34, Variationer över en melodi ur en handskrift av Skånelagen op 21 (för kammarorkester). Stråkkvartett op 11, Sånger för sopran och stråkorkester: bl a Det är vackrast när det skymmer op 13:1 (Pär Lagerkvist), Döden op 15:3 (Pär Lagerkvist). En enda vart mitt hjärta givet op 5:1, för mezzosopran och orkester, mm",
+  "works": [],
+  "slug": "rudolf-waldemar"
+}

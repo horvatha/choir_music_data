@@ -1,0 +1,34 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/lunden-lennart/",
+  "title": "Lennart Lundén (1914-1966)",
+  "name": "Lennart Lundén",
+  "years": "1914-1966",
+  "description": "Lennart Sunes(s)on Lundén, född i Ytterlännäs församling (Kramfors) 11 september 1914. Avled i Lidingö församling 18 november 1966. Tonsättare och pedagog. Studerade vid Musikkonservatoriet i Stockholm 1935-39 (musiklärarexamen 1938 samt dirigering för Olallo Morales). Han studerade komposition för Knud Jeppesen i Köpenhamn. Innehade Statens tonsättarstipendium 1939. Sveriges förste kommunale musikledare i Katrineholm, där han även ledde körer och amatörorkester. Åren 1950-54 hade han samma befattning i Östersund och 1954-66 på Lidingö.",
+  "birth": {
+    "place": "Ytterlännäs församling (Kramfors)",
+    "date": "11 september 1914",
+    "raw": "född i Ytterlännäs församling (Kramfors) 11 september 1914"
+  },
+  "death": {
+    "place": "Lidingö församling",
+    "date": "18 november 1966",
+    "raw": "Avled i Lidingö församling 18 november 1966"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": "För Musiklivets höjande (Musikvärlden, 1945) Lidingö kommunala musikskola, Ett tioårsjubileum (Musik och skola, 1965:9) Praktisk melodilära; Melodier, polyfona övningar och andra arbetsuppgifter för elementär gehörsutbildning (opublicerad vid tonsättarens död 1966)",
+  "bibliography": "Wallner, Bo : artikel i Sohlmans musiklexikon , band 4, s 385 (Stockholm 1977)",
+  "sources": null,
+  "links": [],
+  "works_summary": "3 symfonier, orkesterver( bl a 2 uvertyrer — däribland \"Sommar\" 1939, 2 sviter, mm), Serenad för träblåsare, sånger med piano, barnvisor, verk för kör (bl a kantater), kammaroperan \"Modellerna\" (1953)",
+  "works": [
+    {
+      "category": "Viola and piano",
+      "title": "Svit för viola och piano [Suite for viola and piano]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/lunden-lennart/SMH-W1560-Svit_for_viola_och_piano_Suite_for_viola_and_piano",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "lunden-lennart"
+}

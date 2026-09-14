@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/grundstrom-per/",
+  "title": "Per Grundström (1886-1975)",
+  "name": "Per Grundström",
+  "years": "1886-1975",
+  "description": "Per Gustaf Adolf Grundström, född i Svea Livgardes församling, Stockholm, 18 juli 1886. Avled i Oscars församling (Stockholm) 24 april 1975. Tonsättare, dirigent, militärmusiker, kördirigent. Verksam vid Hallands regemente 1909-26, därefter musikdirektör vid Kungl. Svea Livgarde, Stockholm.",
+  "birth": {
+    "place": "Svea Livgardes församling, Stockholm,",
+    "date": "18 juli 1886",
+    "raw": "född i Svea Livgardes församling, Stockholm, 18 juli 1886"
+  },
+  "death": {
+    "place": "Oscars församling (Stockholm)",
+    "date": "24 april 1975",
+    "raw": "Avled i Oscars församling (Stockholm) 24 april 1975"
+  },
+  "biography": "Grundström har framträtt som gästdirigent med flera av Sveriges orkestrar, bl a i Stockholm, Göteborg och Malmö. Han ledde Stockholmspolisens musikkår 1944-64. Han var en av stiftarna av Hallands Orkesterförening och dirigerade dem 1916-26. Även verksam som förbundsdirigent för Hallands sångarförbund fram till 1926. Invald i Kungl. Musikaliska akademien den 24 maj 1932, som associé nr 164. Den 1 juli 1971 blev han ordinarie ledamot nr 751.",
+  "publications": null,
+  "bibliography": "Cederberg, Ingvar: artikel i Sohlmans musiklexikon, band 3, s 231-2 (1976)",
+  "sources": null,
+  "links": [],
+  "works_summary": "marscher (bl a \"I gevär\" och \"General Cederschiöld\")",
+  "works": [],
+  "slug": "grundstrom-per"
+}

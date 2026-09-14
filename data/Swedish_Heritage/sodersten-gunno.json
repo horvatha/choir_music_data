@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/sodersten-gunno/",
+  "title": "Gunno Södersten (1920-1998)",
+  "name": "Gunno Södersten",
+  "years": "1920-1998",
+  "description": "Organist, pianist, körledare och tonsättare. Född 10 januari 1920 i Stockholm, död 30 september 1998 i Lidingö. Under många år verksam i Immanuelskyrkan i Stockholm.",
+  "birth": {
+    "place": "Stockholm",
+    "date": "10 januari 1920",
+    "raw": "Född 10 januari 1920 i Stockholm"
+  },
+  "death": {
+    "place": "Lidingö",
+    "date": "30 september 1998",
+    "raw": "död 30 september 1998 i Lidingö"
+  },
+  "biography": "Axel Gunno Adeimantos Christophoros Södersten föddes 10 januari 1920 i Stockholm. Föräldrarna var organisten, körledaren och komponisten Axel Södersten och lärarinnan Adelaide, båda med rötter i Värmland. Gunno växte upp i ett musikaliskt präglat hem. Redan i tidig barndom noterades att han hade absolut gehör och denna gåva utvecklade han vidare till att kunna visualisera hela partitur. Tidigt tog han lektioner i pianospel och debuterade redan som trettonåring i Andreaskyrkan med ett musikprogram delvis bestående av egna kompositioner ( Fantasi och Stilla afton ). På Kungl. Musikhögskolan studerade han orgel för Otto Olsson, komposition för H. M. Melchers och dirigering för Tor Mann. Med stipendiemedel fortsatte han senare sina studier i Basel. Där hade han lärarna Ina Lohr i komposition och Eduard Müller i orgel. Vidare studier i komposition gjordes för Ildbrando Pizetti i Rom och Olivier Messiaen i Paris. 1943 tillträdde han tjänsten som organist i Immanuelskyrkan i Stockholm, en tjänst han skulle inneha till sin pensionering. Han fortsatte dock vara aktiv i församlingen med konserter, uruppföranden och olika styrelseroller till sin död 30 september 1998. Under åren verkade han parallellt med sin kyrkomusikerroll också som musiklärare vid Teologiska seminariet (1944–1980). Därutöver var han dirigent för den stora manskören Svenska missionsförbundets pastorskör, Stockholms frikyrkoorkester och Svenska missionsförbundets sångarförbund. Hans kompositionsverksamhet pågick med hög intensitet från cirka tio års ålder fram till bortgången 1998. De tidiga kompositionerna är huvudsakligen för piano, men med tiden växte repertoaren av former och instrumentationer. En särställning i Söderstens komponerande innehar hans sex orgelsymfonier, komponerade 1974–1980. Stilistiskt rör han sig från senromantik till nysaklighet och ibland ren avantgardism. 1969 invaldes han i Föreningen Svenska tonsättare, 1984 blev han invald i Kungl. Musikaliska akademien och 1982 tilldelades han H M Konungens medalj av 8:e storleken i Serafimerordens band. Leander Franke",
+  "publications": "\"Magnifik dokumentation\", i: Dona nobis pacem, Årsbok för kristen humanism , 1995, s. 203",
+  "bibliography": "Södersten-Johansson, Margareta : Kärlek, hopp och tro: en sällsam släkthistoria , Stockholm, 2006",
+  "sources": "Musik- och teaterbiblioteket",
+  "links": [],
+  "works_summary": "Orkesterverk, pianostycken, orgelverk, sånger, körverk, kantater, etc, de allra flesta med anknytning till Gunno Söderstens verksamhet som körledare och organist.",
+  "works": [],
+  "slug": "sodersten-gunno"
+}

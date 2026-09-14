@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/boritz-matthias-daniel/",
+  "title": "Matthias Böritz (1753-1791)",
+  "name": "Matthias Böritz",
+  "years": "1753-1791",
+  "description": "Matthias (Mathias/Matias/Mattias/Matheus) Daniel Böritz, född i Hovförsamlingen, Stockholm, troligen 24 november 1753. Avled där 24 december 1791. Son till hov- och fälttrumpetaren Christian Fredrik Böritz. Bror till pukslagaren Johan Fredrik Böritz. Kunglig Kammarmusikus, Förste repetitör vid Operan, violinist, och tonsättare.",
+  "birth": {
+    "place": "Hovförsamlingen, Stockholm, troligen",
+    "date": "24 november 1753",
+    "raw": "född i Hovförsamlingen, Stockholm, troligen 24 november 1753"
+  },
+  "death": {
+    "place": "Hovförsamlingen, Stockholm, troligen",
+    "date": "24 december 1791",
+    "raw": "Avled där 24 december 1791"
+  },
+  "biography": "Anställd i Kungliga Hovkapellet 1773-1791 som instrumentalist och repetitör.",
+  "publications": null,
+  "bibliography": "Dahlgren, Fredrik August : F örteckning öfver svenska skådespel uppförda på Stockholms theatrar 1737-1863 och Kongl. theatrarnes personal 1773-1863 med flera anteckningar . Stockholm (1866) Karle, Gunhild : Kungl. Hovkapellet i Stockholm och dess musiker 1772-1818 . Uppsala (2000) Nisser, Carl : S vensk instrumentalkomposition 1770-1830 . Stockholm (1943) Norlind, Tobias &amp; Trobäck, Emil : Hovkapellets historia 1526-1926 (minnesskrift) . Stockholm (1926)",
+  "sources": null,
+  "links": [],
+  "works_summary": "Herdespelet \"Doris och Philemon\" (1777) Ballet [sic] i Prolog till Zemir och Azor [opera av Francesco Uttini] Baletterne Till Operan Thetiis och Pelée [sic; opera av Francesco Uttini] Drottningen av Golconda, balettmusiken [opera av Francesco Uttini]",
+  "works": [],
+  "slug": "boritz-matthias-daniel"
+}

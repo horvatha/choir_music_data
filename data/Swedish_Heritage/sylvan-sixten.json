@@ -1,0 +1,50 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/sylvan-sixten/",
+  "title": "Sixten Sylvan (1914-2001)",
+  "name": "Sixten Sylvan",
+  "years": "1914-2001",
+  "description": "Sixten Tage August Sylvan föddes i Lund den 20 februari 1914. Avled i Ödåkra (Helsingborg) den 11 juli 2001. Komponerade stycken för blåsinstrument.",
+  "birth": {
+    "place": "Lund",
+    "date": "20 februari 1914",
+    "raw": "föddes i Lund den 20 februari 1914"
+  },
+  "death": {
+    "place": "Ödåkra (Helsingborg)",
+    "date": "11 juli 2001",
+    "raw": "Avled i Ödåkra (Helsingborg) den 11 juli 2001"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": null,
+  "sources": null,
+  "links": [],
+  "works_summary": "Tema med variationer för oboe och piano, opus 3 Sonat för horn och piano Marcha militar (för blåsorkester) Kvintett för blåsare",
+  "works": [
+    {
+      "category": "Orchestral works in one movement",
+      "title": "Akademisk festmusik [Academic festival music] opus 1 no. 3",
+      "opus": "1",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/sylvan-sixten/SMH-W2862-Akademisk_festmusik_Academic_festival_music",
+      "has_published_edition": false
+    },
+    {
+      "category": "Orchestral works in one movement",
+      "title": "Skånsk rapsodi [Scanian rapsody] opus 2 no. 2",
+      "opus": "2",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/sylvan-sixten/SMH-W2891-Skansk_rapsodi_Scanian_rapsody",
+      "has_published_edition": false
+    },
+    {
+      "category": "Trumpet and orchestra",
+      "title": "Concerto for trumpet and orchestra opus 4",
+      "opus": "4",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/sylvan-sixten/SMH-W2957-Concerto_for_trumpet_and_orchestra",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "sylvan-sixten"
+}

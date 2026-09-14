@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/karsten-christoffer-christian/",
+  "title": "Christoffer Christian Karsten (1756-1827)",
+  "name": "Christoffer Christian Karsten",
+  "years": "1756-1827",
+  "description": "Christoffer (Christopher) Christian Karsten föddes den 9 september 1756 i Ystad Sankta Maria församling. Avled i Lovö församling, Stockholm, den 7 augusti 1827. Operasångare, den främste manlige sångaren under den gustavianska epoken, framträdde också utanför Sverige.",
+  "birth": {
+    "place": null,
+    "date": "9 september 1756",
+    "raw": "föddes den 9 september 1756"
+  },
+  "death": {
+    "place": "Lovö församling, Stockholm,",
+    "date": "7 augusti 1827",
+    "raw": "Avled i Lovö församling, Stockholm, den 7 augusti 1827"
+  },
+  "biography": "CC Karsten invaldes som ledamot nr 99 i Kungl. Musikaliska akademien den 7/12 1787.",
+  "publications": null,
+  "bibliography": "Dahlgren, F A: Anteckningar om Stockholms theatrar. Stockholm (1866) Ivarsdotter, Anna: Den gustavianska operan, i Musiken i Sverige. 2 Stockholm (1993) S. 287-350 Hagman, Bertil: Christoffer Karsten och hans familj, i Årsskrift. Confidencen rediviva . Solna (1989) S. 34-50 Hedberg, Frans: Svenska operasångare: karakteristiker och porträtter. Stockholm (1885) Mörner, C-G Stellan : Christopher Christian Karsten , i Svenskt biografiskt lexikon , bd 20 (1973-75) Åkerberg, Erik : Musiklifvet inom Par Bricole 1779—1890 . Stockholm (1910)",
+  "sources": "Kungl. Biblioteket, Musik- och teaterbiblioteket, Musik- och teatermuseet",
+  "links": [],
+  "works_summary": "Sånger, bl a \"Il est un Dieu devant lui\" (handskrift i KB) och \"I stillhet gömd för ödets nycker \"(text: Anna-Maria Lenngren), tryckt i Musikaliskt tids-fördrif , 1791, s. 84",
+  "works": [],
+  "slug": "karsten-christoffer-christian"
+}

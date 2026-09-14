@@ -1,0 +1,71 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/jonsson-josef/",
+  "title": "Josef Jonsson (1887-1969)",
+  "name": "Josef Jonsson",
+  "years": "1887-1969",
+  "description": "Josef Petrus Jonsson, född i Sankt Ilians församling, Enköping, den 21 juni 1887. Avled i Norrköpings S:t Olai [nu S:t Olofs] församling den 9 maj 1969. Tonsättare. en av stiftarna av Föreningen Svenska Tonsättare, 1918. Musikpedagog i Norrköping från 1922. Musikkritiker i Östergötlands Folkblad 1922-66. Medarbetare i Vår Sång under 1920- och 30-talen. LMA.",
+  "birth": {
+    "place": "Sankt Ilians församling, Enköping,",
+    "date": "21 juni 1887",
+    "raw": "född i Sankt Ilians församling, Enköping, den 21 juni 1887"
+  },
+  "death": {
+    "place": "Norrköpings S:t Olai [nu S:t Olofs] församling",
+    "date": "9 maj 1969",
+    "raw": "Avled i Norrköpings S:t Olai [nu S:t Olofs] församling den 9 maj 1969"
+  },
+  "biography": "Jonsson tonsatte 1934 Biskop Tomas Simonssons sång Frihet är det bästa ting från 1439 Mellan 1922 och 1966 var Josef Jonsson anställd som musikkritiker på Östergötlands Folkblad. Gift med Emy Bentzer 1936-40, samt med Ruth Ekelund från 1941. Invald i Kungl. Musikaliska akademien 27 maj 1938, som ledamot nr 620.",
+  "publications": null,
+  "bibliography": "Luttu, G : artikel i Svenskt Biografiskt Lexikon 20 (1973/75) —— : artikel i Sohlmans Musiklexikon , band 3, s 720-712 (1976) Percy, Gösta : artikel i Svenska Män och Kvinnor , band 4, s 114 (Bonniers förlag, Stockholm, 1948)",
+  "sources": "Musikmuseet Stockholm, Norrköpings stadsarkiv, Riksarkivet, Statens Musik- och teaterbibliotek, Kungl. Musikaliska akademien (ledamotformulär nr 79)",
+  "links": [
+    {
+      "title": "Artikel om Josef Jonsson i Svenskt biografiskt lexikon",
+      "url": "http://www.nad.riksarkivet.se/sbl/Presentation.aspx?id=12202"
+    }
+  ],
+  "works_summary": "3 symfonier, 3 uvertyrer, 2 orkestersviter, flera verk för stråkorkester, violinkonsert, romans för violin och orkester, pianokvintett, sånger med piano, sånger med orkester, verk för kör (bl a \"Missa solemnis\" och ca 10 kantater), 2 melodramer (\"En spelemans jordafärd\", \"Omkring tiggarn från Luossa\")",
+  "works": [
+    {
+      "category": "Orchestral works in one movement",
+      "title": "Preludio meditativo (Stilla förspel)",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/jonsson-josef/SMH-W5168-Preludio_meditativo_Stilla_forspel",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "En grav opus 20 no. 2",
+      "opus": "20",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/jonsson-josef/SMH-W1270-En_grav",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Kom! [Come!]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/jonsson-josef/SMH-W5641-Kom_Come",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Three songs with piano opus 26",
+      "opus": "26",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/jonsson-josef/SMH-W1269-Three_songs_with_piano",
+      "has_published_edition": false
+    },
+    {
+      "category": "Viola and piano",
+      "title": "Fantasia elegiaca",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/jonsson-josef/SMH-W1562-Fantasia_elegiaca",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "jonsson-josef"
+}

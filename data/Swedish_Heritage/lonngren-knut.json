@@ -1,0 +1,34 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/lonngren-knut/",
+  "title": "Knut (Johan Peter Knut) Lönngren (1816-1874)",
+  "name": "Knut (Johan Peter Knut) Lönngren",
+  "years": "1816-1874",
+  "description": "Kyrkomusiker och tonsättare. Föddes den 27 september 1816 i Storkyrkoförsamlingen (Stockholm), enligt Allmänna Barnhusets register 1821 med efternamnet Widlund. Avled i Växjö stadsförsamling den 26 juni 1874. Organistexamen vid Musikaliska akademiens undervisningsverk 1836. Organist i Skeppsholmskyrkan. Domkyrkoorganist i Växjö från 1848, director musices vid Växjö läroverk 1848-1874. Bildade Växjö sångförening 1860.",
+  "birth": {
+    "place": null,
+    "date": "27 september 1816",
+    "raw": "Föddes den 27 september 1816"
+  },
+  "death": {
+    "place": "Växjö stadsförsamling",
+    "date": "26 juni 1874",
+    "raw": "Avled i Växjö stadsförsamling den 26 juni 1874"
+  },
+  "biography": "Invald som agré nr 5 i Kungl. Musikaliska akademien den 10/6 1843, som associé nr 67 den 16/12 1854.",
+  "publications": null,
+  "bibliography": "Gustafsson, Magnus &amp; Lindberg, Boel (red.): Från Sigfridsmässa till The Ark: musiken i Växjö . Växjö (2010)",
+  "sources": "Smålands musikarkiv, Växjö",
+  "links": [],
+  "works_summary": "Pianokompositioner, verk för orgel",
+  "works": [
+    {
+      "category": "Piano",
+      "title": "Fantasi öfver Svenska Folkvisor [Fantasia on Swedish folk songs]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/lonngren-knut/SMH-W6479-Fantasi_ofver_Svenska_Folkvisor_Fantasia_on_Swedish_folk_songs",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "lonngren-knut"
+}

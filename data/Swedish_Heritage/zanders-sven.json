@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/zanders-sven/",
+  "title": "Sven Zanders (1791-1863)",
+  "name": "Sven Zanders",
+  "years": "1791-1863",
+  "description": "Sven Magnus Zanders (f. Sven Sandberg) föddes den 9 januari 1791 på Prinsfors bruk i Norra Sandsjö församling (Nässjö). Avled i Skara stadsförsamling den 4 juni 1863. Avlade Director Musices et cantus-examen i Stockholm, där han tillbringade större delen av åren 1819-20. Musiklärare vid läroverket i Skara, organist i Skara domkyrka.",
+  "birth": {
+    "place": null,
+    "date": "9 januari 1791",
+    "raw": "föddes den 9 januari 1791"
+  },
+  "death": {
+    "place": "Skara stadsförsamling",
+    "date": "4 juni 1863",
+    "raw": "Avled i Skara stadsförsamling den 4 juni 1863"
+  },
+  "biography": "Invald som associé i Kungl. Musikaliska akademien 1829",
+  "publications": "Försök till lärobok för begynnare i choral-sång, af Sv. Magn. Zanders ... jämte sammandrag af Herr Hof-capellmästaren Hæffners melodi- och class-register öfver Nya svenska psalmboken. Skara (1828)",
+  "bibliography": "Zanders, Leonard Alexis : Minne af direktören, domkyrko-orgelnisten, associéen vid Kongl. musikaliska akademien, herr Sven Magnus Zanders : Norrköping (1894)",
+  "sources": null,
+  "links": [],
+  "works_summary": "Under uppbyggnad",
+  "works": [],
+  "slug": "zanders-sven"
+}

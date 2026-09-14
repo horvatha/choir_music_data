@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/saul-felix/",
+  "title": "Felix Saul (1883-1942)",
+  "name": "Felix Saul",
+  "years": "1883-1942",
+  "description": "Musikpedagog, körledare, i mindre utsträckning tonsättare. Född 22 december 1883 i Stargard, Preussen (numera Szczeciński i Polen). Verksam vid synagogan i Düsseldorf. Flyttade 1909 till Stockholm, där han samma år blev överkantor i synagogan. Stiftare av och dirigent för Stockholms Madrigalsällskap respektive Stockholms folkkör samt lärare vid flera musikskolor. Död 16 november 1942 i Stockholm.",
+  "birth": {
+    "place": "Stargard",
+    "date": "22 december 1883",
+    "raw": "Född 22 december 1883 i Stargard"
+  },
+  "death": {
+    "place": "Stockholm",
+    "date": "16 november 1942",
+    "raw": "Död 16 november 1942 i Stockholm"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": "Judisk bildning , i Israeliten : månadsskrift, 1924(12):1/2, s. 6-7; 3, s. 3-6 Ett offer för intolerans och orättvisa: fallet Felix Saul : en vädjan till det rättsälskande Sverige . Stockholm, 1934 Haggada : Seder ha-Hagadah le-lel shimurim : berättelse om Israels uttåg ur Egypten för de båda första påskaftnarna . Översättning med musikbilaga av Felix Saul, illustrationerna av Stanislaus Bender. (1934) Folklig musikodling: vad kan arbetarkvinnorna göra?', i Arbetarkvinnornas tidning , 1937:12, s. 7-8 Musiken och folket, i Kulturfront , 1942(2): 1, s. 11-12",
+  "bibliography": "Geisler, Ursula : Felix Saul som musikaktör i Sverige: ett bidrag till körsångshistorien, i Melos och Logos : festskrift till Folke Bohlin . (2011) S. 133-141 Karlsson, Henrik : Det fruktade märket. Wilhelm Peterson-Berger, antisemitismen och antinazismen . Lund (2005) S. 95-98 Karlsson, Henrik : Wilhelm Peterson-Berger. Tondiktare och kritiker . Skellefteå (2013)",
+  "sources": "Musik- och teaterbiblioteket, Kungl. biblioteket (Felix och Margareta Sauls arkiv)",
+  "links": [],
+  "works_summary": "Under uppbyggnad",
+  "works": [],
+  "slug": "saul-felix"
+}

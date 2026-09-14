@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/tollen-eric/",
+  "title": "Eric Tollén (1787-1866)",
+  "name": "Eric Tollén",
+  "years": "1787-1866",
+  "description": "Eric (Andersson) Tollén, föddes i Sya församling (Mjölby) den 12 juli 1787. Avled i Östra Eneby församling (Norrköping) den 22 december 1866. Verksam som organist och klockare i Gårdeby församling (Söderköping) 1810-23 respektive i Östra Eneby församling 1823-66. Nämnd i Carl Nissers Svensk Instrumentalkomposition 1770-1830, Nominalkatalog, Stockholm 1943.",
+  "birth": {
+    "place": "Sya församling (Mjölby)",
+    "date": "12 juli 1787",
+    "raw": "föddes i Sya församling (Mjölby) den 12 juli 1787"
+  },
+  "death": {
+    "place": "Östra Eneby församling (Norrköping)",
+    "date": "22 december 1866",
+    "raw": "Avled i Östra Eneby församling (Norrköping) den 22 december 1866"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "Nisser, Carl: Svensk Instrumentalkomposition 1770-1830, Nominalkatalog (1943)",
+  "sources": null,
+  "links": [],
+  "works_summary": "Pianoverk",
+  "works": [],
+  "slug": "tollen-eric"
+}

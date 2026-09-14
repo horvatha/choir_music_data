@@ -1,0 +1,146 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/wiren-dag/",
+  "title": "Dag Wirén (1905-1986)",
+  "name": "Dag Wirén",
+  "years": "1905-1986",
+  "description": "Denne tonsättares verk skyddas fortfarande av upphovsrätten och ingår därför inte i Levande Musikarvs utgivning. För mer information om liv och verk hänvisar vi till Svensk Musiks hemsida.",
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "biography": "-",
+  "publications": null,
+  "bibliography": null,
+  "sources": null,
+  "links": [],
+  "works_summary": "---",
+  "works": [
+    {
+      "category": "Orchestral works in several movements",
+      "title": "Ballet Suite opus 24 A",
+      "opus": "24",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/wiren-dag/SMH-W1445-Ballet_Suite",
+      "has_published_edition": false
+    },
+    {
+      "category": "Orchestral works in several movements",
+      "title": "Romantic Suite, (From the music to The Merchant of Venice) opus 22",
+      "opus": "22",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/wiren-dag/SMH-W1785-Romantic_Suite_From_the_music_to_The_Merchant_of_Venice",
+      "has_published_edition": false
+    },
+    {
+      "category": "Orchestral works in several movements",
+      "title": "Serenade for string orchestra opus 11",
+      "opus": "11",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/wiren-dag/SMH-W2417-Serenade_for_string_orchestra",
+      "has_published_edition": false
+    },
+    {
+      "category": "Orchestral works in several movements",
+      "title": "Small suite for orchestra opus 17",
+      "opus": "17",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/wiren-dag/SMH-W1540-Small_suite_for_orchestra",
+      "has_published_edition": false
+    },
+    {
+      "category": "Cello and orchestra",
+      "title": "Concerto for violoncello and orchestra opus 10",
+      "opus": "10",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/wiren-dag/SMH-W4062-Concerto_for_violoncello_and_orchestra",
+      "has_published_edition": false
+    },
+    {
+      "category": "Violin and piano",
+      "title": "Sonatina for violin and piano opus 15",
+      "opus": "15",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/wiren-dag/SMH-W755-Sonatina_for_violin_and_piano",
+      "has_published_edition": false
+    },
+    {
+      "category": "Cello and piano",
+      "title": "Sonatin (nr. 1) för violoncello och piano [Sonatina (no. 1) for violoncello and piano] opus 1",
+      "opus": "1",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/wiren-dag/SMH-W66-Sonatin_nr_1_for_violoncello_och_piano_Sonatina_no_1_for_violoncello_a",
+      "has_published_edition": false
+    },
+    {
+      "category": "Cello and piano",
+      "title": "Sonatina No. 2 for Violoncello & Piano opus 4",
+      "opus": "4",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/wiren-dag/SMH-W1590-Sonatina_No_2_for_Violoncello_-_Piano",
+      "has_published_edition": false
+    },
+    {
+      "category": "String quartet",
+      "title": "String Quartet no. 4 opus 28",
+      "opus": "28",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/wiren-dag/SMH-W748-String_Quartet_no_4",
+      "has_published_edition": false
+    },
+    {
+      "category": "String quartet",
+      "title": "String Quartet no. 5 opus 41",
+      "opus": "41",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/wiren-dag/SMH-W749-String_Quartet_no_5",
+      "has_published_edition": false
+    },
+    {
+      "category": "String quartet",
+      "title": "Stråkkvartett (nr. 2) [String Quartet (no. 2)] opus 9",
+      "opus": "9",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/wiren-dag/SMH-W67-Strakkvartett_nr_2_String_Quartet_no_2",
+      "has_published_edition": false
+    },
+    {
+      "category": "Piano trio",
+      "title": "Trio no 1 for violin, violoncello and piano opus 6",
+      "opus": "6",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/wiren-dag/SMH-W1778-Trio_no_1_for_violin_violoncello_and_piano",
+      "has_published_edition": false
+    },
+    {
+      "category": "Piano trio",
+      "title": "Trio no. 2 for violin, violoncello and piano opus 36",
+      "opus": "36",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/wiren-dag/SMH-W1779-Trio_no_2_for_violin_violoncello_and_piano",
+      "has_published_edition": false
+    },
+    {
+      "category": "Wind quintet",
+      "title": "Wind Quintet opus 42",
+      "opus": "42",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/wiren-dag/SMH-W741-Wind_Quintet",
+      "has_published_edition": false
+    },
+    {
+      "category": "4 Instruments",
+      "title": "Quartet for flute, oboe, clarinet and violoncello opus 31",
+      "opus": "31",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/wiren-dag/SMH-W742-Quartet_for_flute_oboe_clarinet_and_violoncello",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "wiren-dag"
+}

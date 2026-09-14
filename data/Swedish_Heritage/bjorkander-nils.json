@@ -1,0 +1,34 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/bjorkander-nils/",
+  "title": "Nils Björkander (1893-1972)",
+  "name": "Nils Björkander",
+  "years": "1893-1972",
+  "description": "Frank Nils Fredrik Björkander. Född 28 juni 1893 i Stockholm, död 5 mars 1972 i Södertälje. Tonsättare, pianist, pianopedagog, verksam i Stockholm.",
+  "birth": {
+    "place": "Stockholm",
+    "date": "28 juni 1893",
+    "raw": "Född 28 juni 1893 i Stockholm"
+  },
+  "death": {
+    "place": "Södertälje",
+    "date": "5 mars 1972",
+    "raw": "död 5 mars 1972 i Södertälje"
+  },
+  "biography": "Studerade vid Musikkonservatoriet i Stockholm 1910-16, bl a för Lennart Lundberg och Conrad Nordqvist. Tillsammans med sin hustru grundade han 1917 ett musikinstitut, som han drev till början av 1940-talet. Debuterade som konsertpianist i Stockholms Konsertförening 1920 med Beethovens 3:e pianokonsert.",
+  "publications": null,
+  "bibliography": null,
+  "sources": null,
+  "links": [],
+  "works_summary": "Orkestersviter (bl a Fyra skärgårdsskisser, I Hemmarö by, Liten svit, Miniatyrer), mindre orkesterstycken, Konsertfantasi för piano och orkester, pianokvartett, Duo för flöjt och piano op 7, Sonat för violin och piano op 18, Cavatina och Serenata för violin och piano, verk för piano (bl a Fyra skärgårdsskisser, 1924, Impromptu Fiss-dur, 1925, Nocturne F-dur, 1952), sånger med piano",
+  "works": [
+    {
+      "category": "Piano",
+      "title": "Nocturno [in F major]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/bjorkander-nils/SMH-W145-Nocturno_in_F_major",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "bjorkander-nils"
+}

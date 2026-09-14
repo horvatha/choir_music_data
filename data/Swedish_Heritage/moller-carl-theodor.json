@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/moller-carl-theodor/",
+  "title": "Carl Theodor Möller (1813-1889)",
+  "name": "Carl Theodor Möller",
+  "years": "1813-1889",
+  "description": "Föddes den 11 november 1813 i Kristianstads stadsförsamling. Avled den 15 juli 1889, enligt dödsannonsen \"på resa till Nystad\" (var dock sannolikt skriven i Åbo, dit han hade flyttat 1837). Musikpedagog, körledare och organist, men var även verksam som pianofabrikant och musikhandlare. Gift 1850 i Åbo med Sofia Amanda Ahlbäck.",
+  "birth": {
+    "place": null,
+    "date": "11 november 1813",
+    "raw": "Föddes den 11 november 1813"
+  },
+  "death": {
+    "place": null,
+    "date": "15 juli 1889",
+    "raw": "Avled den 15 juli 1889"
+  },
+  "biography": "Skrev under sin tid i Åbo lustspelet \"Björnjakten\" med körer och kupletter (Åbo teater, 1850).",
+  "publications": null,
+  "bibliography": "Forslin, Alfhild : Runeberg i musiken. Helsingfors: Svenska litteratursällskapet, s. 319 Jansson, Paul : Carl Theodor Möller - en mångsidig musikarbetare, i Historiska och litteraturhistoriska studier , 1976:1, s. 153-196.",
+  "sources": "Sibeliusmuseum, Åbo",
+  "links": [],
+  "works_summary": "Verk för gitarr, tillkomna på 1830-talet i Kristianstad. Skådespelsmusik.",
+  "works": [],
+  "slug": "moller-carl-theodor"
+}

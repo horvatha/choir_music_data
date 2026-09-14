@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/johansson-sigrid/",
+  "title": "Sigrid Johansson (1874-1964)",
+  "name": "Sigrid Johansson",
+  "years": "1874-1964",
+  "description": "Musiklärare och tonsättare. Född 19 oktober 1874 i Uppsala, död därstädes 1 december 1964. Dotter till professorn (sedermera biskopen i Härnösand) Martin Johansson och hans maka Vendela Magdalena, f. Rappe. I många år verksam som musiklärare vid Nisbethska flickskolan i Kalmar. I samband med sin pensionering flyttade hon till Uppsala. Sigrid Johansson hade ett engagemang i rösträttsrörelsen, men också i fredsfrågan.",
+  "birth": {
+    "place": "Uppsala",
+    "date": "19 oktober 1874",
+    "raw": "Född 19 oktober 1874 i Uppsala"
+  },
+  "death": {
+    "place": "Uppsala",
+    "date": "1 december 1964",
+    "raw": "död därstädes 1 december 1964"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": "Alla gossars land, i Rösträtt för kvinnor , nr 3, 1917.",
+  "bibliography": null,
+  "sources": null,
+  "links": [],
+  "works_summary": "Ett fåtal verk är bevarade, bl a en Kantat på fröken Beatrice Dicksons 60-årsdag (1912) för trestämmig damkör och piano samt kantaten Nationernas bön (1916) för soli, blandad kör och piano.",
+  "works": [],
+  "slug": "johansson-sigrid"
+}

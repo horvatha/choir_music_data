@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/lambert-helfrid/",
+  "title": "Helfrid Lambert (1868-1954)",
+  "name": "Helfrid Lambert",
+  "years": "1868-1954",
+  "description": "Helfrid Signe Cecilia Lambert [född Sundquist], född i Stockholm 5 mars 1868, död 15 juni 1954. Operett- och revysångerska, tonsättare. Studerade först teater vid Emil Hillbergs skola, sedan vid Kungl. Teaterns elevskola. Debuterade på scenen 1886, som Anna i \"Värmlänningarna\". Efter engagemang vid teatrar i Stockholm och Göteborg och en turné med Albert Ranft i landsorten, blev hon anställd vid Södra Teatern. Hon drog sig tillbaka från scenen 1916.",
+  "birth": {
+    "place": "Stockholm",
+    "date": "5 mars 1868",
+    "raw": "född i Stockholm 5 mars 1868"
+  },
+  "death": {
+    "place": null,
+    "date": "15 juni 1954",
+    "raw": "död 15 juni 1954"
+  },
+  "biography": "Gift 1894 med skådespelaren Knut Lambert.",
+  "publications": null,
+  "bibliography": "Haslum, Bengt : artikel i Sohlmans Musiklexikon , band 4, s 246 (Stockholm, 1977) Lindenbaum, Arne : artikel i Svenska Män och Kvinnor , band 4, s 443 (Bonniers förlag, Stockholm, 1948)",
+  "sources": null,
+  "links": [],
+  "works_summary": "sånger (bl a \"Det var dans bort i vägen\" med text av Gustaf Fröding), Operetten \"Skatten\" (uppförd på Oscarsteatern 1909)",
+  "works": [],
+  "slug": "lambert-helfrid"
+}

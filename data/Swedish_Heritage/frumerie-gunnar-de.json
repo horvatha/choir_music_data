@@ -1,0 +1,210 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/frumerie-gunnar-de/",
+  "title": "Gunnar de Frumerie (1908-1987)",
+  "name": "Gunnar de Frumerie",
+  "years": "1908-1987",
+  "description": "Per Gunnar Fredrik de Frumerie, född i Nacka församling 20 juli 1908. Avled i Täby församling 9 september 1987. Tonsättare och pianist. LMA",
+  "birth": {
+    "place": "Nacka församling",
+    "date": "20 juli 1908",
+    "raw": "född i Nacka församling 20 juli 1908"
+  },
+  "death": {
+    "place": "Täby församling",
+    "date": "9 september 1987",
+    "raw": "Avled i Täby församling 9 september 1987"
+  },
+  "biography": "Invald i Kungl. Musikaliska akademien den 28 oktober 1943, som ledamot nr 642.",
+  "publications": null,
+  "bibliography": "Bergendahl, Göran : Frumerie och 60-talet ( Musikrevy , 1968:4) —— : 33 svenska komponister (1972) Ekheden, H : Frumerie — pianist, pedagog och tonsättare ( Konsertnytt 1968/69:7) Hedwall, Lennart : Nutida svenska kompositörer 19: Frumerie ( Musiklivet 1953:7/8) Lönn, L-J : Pär Lagerkvist/Gunnar de Frumerie — Hjärtats sånger (opublicerad uppsats, Uppsala universitet, 1974) Pergament, Mose s: Svenska tonsättare (1943, s 160-166) Wallner, Bo : artikel i Sohlmans musiklexikon , band 2, s 691-92 (1975)",
+  "sources": null,
+  "links": [],
+  "works_summary": "verk för orkester (bl a Symfoniska variationer, Symfonisk svit), 2 pianokonserter, Konsert för 2 pianon och orkester, Variationer och fuga för piano och orkester, Symfonisk ballad för piano och orkester, violinkonsert, klarinettkonsert, trumpetkonsert, flöjtkonsert, hornkonsert, Pastoral svit för flöjt och orkester, Poem (för violin, stråkar och orgel), Concertino för oboe och orkester, 3 stråkkvartetter, stråkkvintett, 2 pianokvartetter, 2 pianotrior, 2 violinsonater, 2 cellosonater, Variationer för cello och piano, verk för piano (bl a 2 pianosonater, 3 sviter, Circulus quintus, Chaconne), sånger med piano (bl a \"Hjärtats spnger\" och \"Aftonland\"), sånger med orkester (bl a \"Fyra kinesiska poem\", \"När du sluter mina ögon\", \"Som en våg\", \"Hemlängtan\", \"Det kom ett brev\"), verk för kör (bl a \"Fader vår\" och \"8 sånger ur psaltaren\"), operan \"Singoalla\", baletten \"Johannesnatten\"",
+  "works": [
+    {
+      "category": "Orchestral works in one movement",
+      "title": "Symfoniska variationer [Symphonic variations] opus 25",
+      "opus": "25",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/frumerie-gunnar-de/SMH-W684-Symfoniska_variationer_Symphonic_variations",
+      "has_published_edition": false
+    },
+    {
+      "category": "Orchestral works in several movements",
+      "title": "Suite i gammal stil för liten orkester [Suite in old style for small orchestra] opus 5b",
+      "opus": "5b",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/frumerie-gunnar-de/SMH-W682-Suite_i_gammal_stil_for_liten_orkester_Suite_in_old_style_for_small_or",
+      "has_published_edition": false
+    },
+    {
+      "category": "Cello and orchestra",
+      "title": "Concerto for Violoncello and Orchestra opus 81",
+      "opus": "81",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/frumerie-gunnar-de/SMH-W1764-Concerto_for_Violoncello_and_Orchestra",
+      "has_published_edition": false
+    },
+    {
+      "category": "Trombone and orchestra",
+      "title": "Concerto for trombone and orchestra opus 81",
+      "opus": "81",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/frumerie-gunnar-de/SMH-W1765-Concerto_for_trombone_and_orchestra",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Herren är min herde",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/frumerie-gunnar-de/SMH-W1830-Herren_ar_min_herde",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir and orchestra",
+      "title": "Eight Psalms from the Psalter",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/frumerie-gunnar-de/SMH-W1761-Eight_Psalms_from_the_Psalter",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Four Chinese Poems",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/frumerie-gunnar-de/SMH-W952-Four_Chinese_Poems",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Kärlekens visa",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/frumerie-gunnar-de/SMH-W471-Karlekens_visa",
+      "has_published_edition": false
+    },
+    {
+      "category": "Violin and piano",
+      "title": "Sonate (no 1) for violin and piano [Sonata (no. 1) for violin and piano] opus 15",
+      "opus": "15",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/frumerie-gunnar-de/SMH-W1447-Sonate_no_1_for_violin_and_piano_Sonata_no_1_for_violin_and_piano",
+      "has_published_edition": false
+    },
+    {
+      "category": "Cello and piano",
+      "title": "Berceuse",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/frumerie-gunnar-de/SMH-W3011-Berceuse",
+      "has_published_edition": false
+    },
+    {
+      "category": "Cello and piano",
+      "title": "Elegisk svit för violoncell och piano [Elegiac Suite for violoncello and piano] opus 37",
+      "opus": "37",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/frumerie-gunnar-de/SMH-W1446-Elegisk_svit_for_violoncell_och_piano_Elegiac_Suite_for_violoncello_an",
+      "has_published_edition": false
+    },
+    {
+      "category": "Cello and piano",
+      "title": "Sonata no. 2 opus 42",
+      "opus": "42",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/frumerie-gunnar-de/SMH-W1583-Sonata_no_2",
+      "has_published_edition": false
+    },
+    {
+      "category": "Cello and piano",
+      "title": "Variationer över Vårvindar friska [Variations over 'Fresh spring winds'] opus 6",
+      "opus": "6",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/frumerie-gunnar-de/SMH-W3015-Variationer_over_Varvindar_friska_Variations_over_Fresh_spring_winds",
+      "has_published_edition": false
+    },
+    {
+      "category": "Cello and organ",
+      "title": "Berceuse",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/frumerie-gunnar-de/SMH-W3012-Berceuse",
+      "has_published_edition": false
+    },
+    {
+      "category": "Piano",
+      "title": "Ballad (Variationer och Fuga över en svensk folkmelodi [Näckens polska]) [Ballad (Variations and Fugue on a Swedish folk melody [The Merman's Dance])] opus 61",
+      "opus": "61",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/frumerie-gunnar-de/SMH-W2361-Ballad_Variationer_och_Fuga_over_en_svensk_folkmelodi_Nackens_polska_B",
+      "has_published_edition": false
+    },
+    {
+      "category": "Piano",
+      "title": "Chaconne",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/frumerie-gunnar-de/SMH-W1116-Chaconne",
+      "has_published_edition": false
+    },
+    {
+      "category": "Piano",
+      "title": "Piano suite no. 3 opus 40 (not printed on the score)",
+      "opus": "40",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/frumerie-gunnar-de/SMH-W1803-Piano_suite_no_3",
+      "has_published_edition": false
+    },
+    {
+      "category": "String duo",
+      "title": "Divertimento for clarinet (viola) and violoncello opus 63",
+      "opus": "63",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/frumerie-gunnar-de/SMH-W2336-Divertimento_for_clarinet_viola_and_violoncello",
+      "has_published_edition": false
+    },
+    {
+      "category": "Piano trio",
+      "title": "Midsommarpolska [Midsummer polska]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/frumerie-gunnar-de/SMH-W2536-Midsommarpolska_Midsummer_polska",
+      "has_published_edition": false
+    },
+    {
+      "category": "Piano trio",
+      "title": "Pianotrio nr. 2 [Piano trio no. 2]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/frumerie-gunnar-de/SMH-W49-Pianotrio_nr_2_Piano_trio_no_2",
+      "has_published_edition": false
+    },
+    {
+      "category": "Piano trio",
+      "title": "Trio no. 1 opus 7",
+      "opus": "7",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/frumerie-gunnar-de/SMH-W1784-Trio_no_1",
+      "has_published_edition": false
+    },
+    {
+      "category": "2 Instruments",
+      "title": "Divertimento for clarinet (viola) and violoncello opus 63",
+      "opus": "63",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/frumerie-gunnar-de/SMH-W1448-Divertimento_for_clarinet_viola_and_violoncello",
+      "has_published_edition": false
+    },
+    {
+      "category": "Chamber ensemble (7 or more instruments)",
+      "title": "Musica per nove opus 75",
+      "opus": "75",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/frumerie-gunnar-de/SMH-W768-Musica_per_nove",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "frumerie-gunnar-de"
+}

@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/olofsson-ludvig/",
+  "title": "Ludvig Olofsson (1877−1930)",
+  "name": "Ludvig Olofsson",
+  "years": "1877−1930",
+  "description": "Ludvig Olofsson är en pseudonym för Oscar Ludvig Blom , född 26 februari 1877, död 19 juli 1930.",
+  "birth": {
+    "place": null,
+    "date": "26 februari 1877",
+    "raw": "född 26 februari 1877"
+  },
+  "death": {
+    "place": null,
+    "date": "19 juli 1930",
+    "raw": "död 19 juli 1930"
+  },
+  "biography": "Se Oscar Blom .",
+  "publications": null,
+  "bibliography": null,
+  "sources": null,
+  "links": [],
+  "works_summary": "Se Oscar Bloms verkförteckning (Förslag till Hymnarium för Svenska kyrkan).",
+  "works": [],
+  "slug": "olofsson-ludvig"
+}

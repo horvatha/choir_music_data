@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/adam-johan-gottlieb/",
+  "title": "Johann Gottlieb Adam (1746-1826)",
+  "name": "Johann Gottlieb Adam",
+  "years": "1746-1826",
+  "description": "Johann Gottlieb Adam föddes den 7 mars 1746 (oklart var). Avled i Tyska S:ta Gertruds församling (Stockholm) den 5 februari 1826. Flöjtist, sannolikt anställd i Kungl. Hovkapellet 1773-1806. Nämnd i Carl Nissers Svensk Instrumentalkomposition 1770-1830, Nominalkatalog, Stockholm 1943.",
+  "birth": {
+    "place": null,
+    "date": "7 mars 1746",
+    "raw": "föddes den 7 mars 1746"
+  },
+  "death": {
+    "place": "Tyska S:ta Gertruds församling (Stockholm)",
+    "date": "5 februari 1826",
+    "raw": "Avled i Tyska S:ta Gertruds församling (Stockholm) den 5 februari 1826"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "Norlind, Tobias &amp; Trobäck, Emil: Hovkapellets historia 1526-1926. Wahlström &amp; Widstrand (1926)",
+  "sources": null,
+  "links": [],
+  "works_summary": "försvunnen flöjtmusik",
+  "works": [],
+  "slug": "adam-johan-gottlieb"
+}

@@ -1,0 +1,50 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/broman-natanael/",
+  "title": "Natanael Broman (1887-1966)",
+  "name": "Natanael Broman",
+  "years": "1887-1966",
+  "description": "Carl (Karl) Natanael Broman föddes den 11 december 1887 i Kolsva, Bro församling (Köping). Avled i Oscars församling, Stockholm, den 27 augusti 1966. Pianist och tonsättare, även musikchef vid Radiotjänst 1925-51. LMA",
+  "birth": {
+    "place": null,
+    "date": "11 december 1887",
+    "raw": "föddes den 11 december 1887"
+  },
+  "death": {
+    "place": "Oscars församling, Stockholm,",
+    "date": "27 augusti 1966",
+    "raw": "Avled i Oscars församling, Stockholm, den 27 augusti 1966"
+  },
+  "biography": "Studier vid Musikkonservatoriet i Stockholm 1901-11. Hans studerade piano för Hilda Thegerström (1838-1907) och Lennart Lundberg (1863-1908) samt komposition för Ernst Ellberg (1868-1948) och Andreas Hallén (1846-1925). Han fortsatte sedan sina studier i Berlin, bl a för den polske pianisten och tonsättaren Ignaz Friedman (1882-1948). Som pianist gjorde sig Broman framför allt ett namn som uttolkare av den romantiska repertoaren och av samtida svensk musik. Han turnerade i såväl Skandinavien som Tyskland och var en flitigt anlitad ackompanjatör. Lärare vid Operaskolan i Stockholm 1913-14. Bildade tillsammans med Charles Barkel (violin) och Carl Christiansen (cello) en kammarmusiktrio 1924. Musikchef vid Radiotjänst 1925-51. Styrelseledamot i KMA 1941-48, dito i Stockholms Konsertförening 1942-50. Invald i Kungl. Musikaliska akademien den 29 mars 1930, som ledamot nr 599.",
+  "publications": null,
+  "bibliography": "Norlind, Tobias : Natanael Broman , i Svenskt biografiskt lexiko n, bd 6 (1926)",
+  "sources": null,
+  "links": [],
+  "works_summary": "\"Fritiof och Ingeborg\" (symfonisk dikt), Violinsonat d-moll, Romans för violin och piano, verk för piano, sånger med piano, \"Kung Lif och Drottning Död\" (ballad för baryton och orkester, 1913),",
+  "works": [
+    {
+      "category": "Incidental music",
+      "title": "Natt över Taos",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/broman-natanael/SMH-W4696-Natt_over_Taos",
+      "has_published_edition": false
+    },
+    {
+      "category": "Incidental music",
+      "title": "Salathiels hus",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/broman-natanael/SMH-W4695-Salathiels_hus",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Nu går jag tyst och drömmer",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/broman-natanael/SMH-W1391-Nu_gar_jag_tyst_och_drommer",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "broman-natanael"
+}

@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/cloos-gustaf-adolf/",
+  "title": "Gustaf Adolf Cloos (1782-1812)",
+  "name": "Gustaf Adolf Cloos",
+  "years": "1782-1812",
+  "description": "Gustaf Adolf Cloos föddes i Maria Magdalena församling, Stockholm, den 1 juli 1782. Avled i Göteborgs domkyrkoförsamling den 28 juni 1812. Nämnd i Carl Nissers Svensk Instrumentalkomposition 1770-1830, Nominalkatalog, Stockholm 1943. Även nämnd i Tobias Norlinds \"Allmänt Musiklexikon\" (1927-28), där med uppgiften att han var cellist i Kungl. Hovkapellet (liksom fadern Paul Wilhelm) och ofta anlitad som virtuos solist (även i Göteborg och Åbo).",
+  "birth": {
+    "place": "Maria Magdalena församling, Stockholm,",
+    "date": "1 juli 1782",
+    "raw": "föddes i Maria Magdalena församling, Stockholm, den 1 juli 1782"
+  },
+  "death": {
+    "place": "Göteborgs domkyrkoförsamling",
+    "date": "28 juni 1812",
+    "raw": "Avled i Göteborgs domkyrkoförsamling den 28 juni 1812"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "Nisser, Carl: Svensk Instrumentalkomposition 1770-1830, Nominalkatalog (1943) Norlind, Tobias: artikel i Allmänt Musiklexikon (1927-28)",
+  "sources": null,
+  "links": [],
+  "works_summary": "Andante och polonaise [sic; för oboe och följt (med orkester?)] Duetto [för två violiner] [Polonoise,för violoncell] [Var. för Oboe på Wisan \"Snart är Din ungdomstid förfluten\"] [Violoncellsolo] försv.",
+  "works": [],
+  "slug": "cloos-gustaf-adolf"
+}

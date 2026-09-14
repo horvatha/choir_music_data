@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/gullman-gustaf/",
+  "title": "Gustaf Gullman (1897-1981)",
+  "name": "Gustaf Gullman",
+  "years": "1897-1981",
+  "description": "Född den 9 november 1897 i Karlstads stadsförsamling. Avled i Skerike församling (Västerås) den 18 februari 1981. Organist, körledare och tonsättare. Organist och körledare i Västerås missionskyrka 1931-48, 1948-1962 andre domkyrkoorganist i Västerås domkyrka, fråm 1962 till sin pensionering kyrkomusiker i Västerås-Skerike församling.",
+  "birth": {
+    "place": null,
+    "date": "9 november 1897",
+    "raw": "Född den 9 november 1897"
+  },
+  "death": {
+    "place": "Skerike församling (Västerås)",
+    "date": "18 februari 1981",
+    "raw": "Avled i Skerike församling (Västerås) den 18 februari 1981"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "Frimureriska tonsättare och frimurerisk musik. Uppsala: Svenska Frimurare Ordens Forskningsloge Carl Friedrich Eckleff, s. 320-321.",
+  "sources": null,
+  "links": [],
+  "works_summary": "Kantater, solosånger och körverk.",
+  "works": [],
+  "slug": "gullman-gustaf"
+}

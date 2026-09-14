@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/kullin-jean/",
+  "title": "Jean Kullin (1821-1868)",
+  "name": "Jean Kullin",
+  "years": "1821-1868",
+  "description": "Jean [född Johannes, även kallad Johan] Kullin, född i Brunnby, nordöstra Skåne 13 juli 1821, död i Helsingör i januari 1868. Pianist och tonsättare.",
+  "birth": {
+    "place": "Brunnby, nordöstra Skåne",
+    "date": "13 juli 1821",
+    "raw": "född i Brunnby, nordöstra Skåne 13 juli 1821"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "biography": "Jean Kullin föddes i Brunnby, nordöstra Skåne 13/7 1821, son till kyrkoherde Jesper Kullin och hans maka Hanna Korfitsdotter. Namnet Kullin stammar från Kullarp, Istaby, Mjällby socken i Blekinge, där han hade sina rötter och där också min släkt sammanstrålar med hans. På min hemsida finns viss dokumentation som jag nu håller på att uppdatera. I Jean Kullins dödnotis (Brunnby F:2 1868-04-13) anges att han är \"Vådligen omkommen i Helsingörs hamn och begrafven i Helsingör\". Några samtida tidningsklipp meddelar att han hittades drunknad och troligen omkommit redan i januari samma år, kanske efter ett rån. Han lär ha varit mest känd i Danmark och haft ett svårt liv på slutet. källa: Hans Rosenlunds släktdatabas på internet",
+  "publications": null,
+  "bibliography": null,
+  "sources": null,
+  "links": [],
+  "works_summary": "Piano Serenade Erotique Poême d'amour (Romance sans paroles) Fantaisie Nocturne Valse cromatique Souvenire de Suède (byggd på variationer av Värmlandsvisan)",
+  "works": [],
+  "slug": "kullin-jean"
+}

@@ -1,0 +1,34 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/rogberg-carl/",
+  "title": "Carl Rogberg (1902-1975)",
+  "name": "Carl Rogberg",
+  "years": "1902-1975",
+  "description": "Carl August Michael Rogberg, musiklärare, organist och tonsättare. Född 6 maj 1902 i Uppsala, död 24 april 1975 i Falun. Son till kyrkoherden Carll Rogberg och hans hustru Brita (f Johansson), från 1924 gift med Anna Margaretha Matilda Zetterlund. Studier vid Kungl. Musikkonservatoriet: organistexamen 1922, musiklärarexamen 1924 samt kyrkosångarexamen 1930. Organist i Falu Kristine kyrka 1926-51, musiklärare vid läroverket i Falun 1940-51. Från 1951 till sin pensionering musiklärare vid läroverket i Landskrona. Rogberg var också bildkonstnär.",
+  "birth": {
+    "place": "Uppsala",
+    "date": "6 maj 1902",
+    "raw": "Född 6 maj 1902 i Uppsala"
+  },
+  "death": {
+    "place": "Falun",
+    "date": "24 april 1975",
+    "raw": "död 24 april 1975 i Falun"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": "Ett litet minne från Sigtuna och Stockholm, Sveriges gamla och nya hufvudstad , Uppsala 1935, ny uppl. 1933. \"Den nya synen. Reflektioner från orgelläktaren i en orolig tid\", i: J ulbok för Västerås stift , 1939.",
+  "bibliography": "Rogberg, Maggie : \"Min far Carl Rogberg\", i: Gamla falukamrater , årsskrift 1998, s. 26-27. Sjögren, Josef : Organisterna i Västerås stift , Stockholm 1958: Nordiska museet Östberg, Axe l: Det gamla Falun , Falun 1978: Dalarnas museum, s. 460, 462, 465.",
+  "sources": null,
+  "links": [],
+  "works_summary": "Körverk, bl a arrangemang av folkmusik, två operor (bl a Gruvan , till eget libretto, materialet dock förstört av tonsättaren). Skrev Härjedalssången (\"Det sveper från saviga skogar en il\", Per Nilsson-Tannér).",
+  "works": [
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Svärdsjöpolska. Melodi från Svärdsjö (\"Hej hopp! Låt oss få dansa i kväll!\") [Polska /Melody from Svärdsjö, a locality in Dalecarlia, Sweden]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/rogberg-carl/SMH-W5452-Svardsjopolska_Melodi_fran_Svardsjo_Hej_hopp_Lat_oss_fa_dansa_i_kvall",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "rogberg-carl"
+}

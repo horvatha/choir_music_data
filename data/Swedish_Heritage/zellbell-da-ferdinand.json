@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/zellbell-da-ferdinand/",
+  "title": "Ferdinand Zellbell d.ä. (1689-1765)",
+  "name": "Ferdinand Zellbell d.ä.",
+  "years": "1689-1765",
+  "description": "Född i Uppsala Domkyrkoförsamling 1689 (troligen den 14 april), avliden i Stockholms Storkyrkoförsamling den 6 juli 1765. Medlem av Hovkapellet 1715-51. Organist i Maria Magdalena församling (Stockholm) 1715-17 respektive i Storkyrkan 1717(18?)-53. Skrev det musikteoretiska verket 'Temperatura tonorum' (1740) och utgav en koralbok (omkring 1749).",
+  "birth": {
+    "place": "Uppsala Domkyrkoförsamling 1689 (troligen den 14 april), avliden i Stockholms Storkyrkoförsamling",
+    "date": "6 juli 1765",
+    "raw": "Född i Uppsala Domkyrkoförsamling 1689 (troligen den 14 april), avliden i Stockholms Storkyrkoförsamling den 6 juli 1765"
+  },
+  "death": {
+    "place": "Stockholms Storkyrkoförsamling",
+    "date": "6 juli 1765",
+    "raw": "avliden i Stockholms Storkyrkoförsamling den 6 juli 1765"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "Bengtsson, B: Ferdinand Zellbells tyska hautboister , i Svensk tidskrift för musikforskning , 2000 Berg, Hillevi : \"Frihetstidens tonsättare\", i Tidig musik . 1997:3, s. 8-10 Holm, A-L : Ferdinand Zellbell d.ä.:s inkomster år 1722 , (Svensk tidskrift för musikforskning, 1991) Lundgren, Bo: Stockholmsorganisten Ferdinand Zellbell den äldres praeludiesamling.. Festskrift Søren Sørensen. (1990), s. 45-51 Ruiter-Feenstra, Pamela (2002). \"Roman and Zellbell: secular and sacred contexts for improvisation on the Swedish clavichord\", i De clavicordio V : proceedings of the V International Clavichord Symposium : atti del V congresso internazionale sul clavicordo: Magnano, 5-8 September, 2001 . (2002, s, 153-171) Sundström, Einar : Ferdinand Zellbell d.y. och hans opera Il giudizio d'Aminta. Stockholm (1919) Edholm, Dag : S:ta Cecilias tjänare: om kyrkomusikens utövare i Stockholm under fem århundraden. Edward Vincents orgelstiftelse, Sköndal (2002)",
+  "sources": "Uppsala universitetsbibliotek, Musik- och teaterbiblioteket, Kalmar stadsbibliotek, Lunds universitetsbibliotek",
+  "links": [],
+  "works_summary": "30 Praeludier för Orgel (1720-28)",
+  "works": [],
+  "slug": "zellbell-da-ferdinand"
+}

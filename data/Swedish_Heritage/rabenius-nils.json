@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/rabenius-nils/",
+  "title": "Nils Rabenius (1887-1924)",
+  "name": "Nils Rabenius",
+  "years": "1887-1924",
+  "description": "Nils Georg Vilhelm (Wilhelm) föddes den 2 februari 1887 i Uppsala domkyrkoförsamling. Avled den 19 oktober 1924 på Romanäs sanatorium vid Tranås, men var skriven i Gustav Vasa församling, Stockholm. Son till professor Theodor Rabenius och hans hustru, konsertsångerskan Olena Falkman. Jurist, pianist och tonsättare. 1920 docent i civilrätt, från 1920 professor i rättsvetenskap vid Stockholms handelshögskola, musikkritiker (i Stockholms Dagblad) och kompositör av sånger. Gift 1919 med Elsa, f Malm, dotter till operasångaren Henning Malm och hans hustru Elin.",
+  "birth": {
+    "place": null,
+    "date": "2 februari 1887",
+    "raw": "föddes den 2 februari 1887"
+  },
+  "death": {
+    "place": null,
+    "date": "19 oktober 1924",
+    "raw": "Avled den 19 oktober 1924"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": "Om kvittnings verkställande enligt svensk rätt . Diss. Uppsala 1917",
+  "bibliography": "Adelsköld, Elise: Stockholms högskolas matrikel 1888-1927 . (1978) S. 60 CHC : Rabenius, släkt , i Svenskt biografiskt lexikon , bd 29 (1995-97) Forslin, Alfhild: Runeberg i musiken. Helsingfors 1958: Svenska litteratursällskapet, s. 103f, 334",
+  "sources": "Musik- och teaterbiblioteket",
+  "links": [],
+  "works_summary": "Sånger, etc",
+  "works": [],
+  "slug": "rabenius-nils"
+}

@@ -1,0 +1,42 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/ron-jean-martin-de/",
+  "title": "Jean Martin De Ron (1789−1817)",
+  "name": "Jean Martin De Ron",
+  "years": "1789−1817",
+  "description": "Jean (Johan) Martin De Ron was born in Stockholm on 13 November 1789 and died in Lisbon on 20 February 1817. He was a clarinettist, bassoonist, composer, a writer on the topic of music and was an international freight agent. He studied composition with Joachim Nicolas Eggert and enjoyed considerable esteem as a composer during his lifetime, having had works issued by reputable publishers in Leipzig.",
+  "birth": {
+    "place": "Stockholm",
+    "date": "13 November 1789",
+    "raw": "born in Stockholm on 13 November 1789"
+  },
+  "death": {
+    "place": "Lisbon",
+    "date": "20 February 1817",
+    "raw": "died in Lisbon on 20 February 1817"
+  },
+  "biography": "Life Jean Martin De Ron came from a French Huguenot family that immigrated to Frankfurt am Main. His father, Jacob De Ron (1739−1826), had embarked on a military career as a young man, but beginning in 1763 he worked as a merchant in various European cities. He settled in Stockholm in 1776 where he founded a shipping and transfer company, along with an associated financial business. He was a highly trusted member of Stockholm’s Reformed Church, and from 1791 he managed the organisation’s property. Jean Martin De Ron’s mother, Maria Charlotta von Breda (1762−1812), was the daughter of art dealer Lucas von Breda the younger, and sister to the artist Carl Fredrik von Breda. Carl Fredrik painted a portrait of Jean Martin De Ron in 1802 that is now a part of the Sinebrychoff Art Museum’s collection in Helsinki. The De Ron family belonged to the internationally oriented, polyglot cultural scene of Gustavian Stockholm, often referred to as skeppsbroadeln (wealthy merchants working along Skeppsbron street). Jean Martin De Ron was likely a student in the school of the Reformed Church that was housed in the congregation’s church building, which at the time was at Stora Nygatan 5 (designed by Carl Hårleman and inaugurated in 1752). During his childhood he also received extensive musical training, having played clarinet and bassoon. De Ron was, according to musicologist Martin Tegen, a student of the hovkapellmästare (chief conductor of the Royal Court Orchestra), Joachim Nicolas Eggert (1779−1813). It is also possible that the musicians Bernhard Crusell and Georg Joseph Vogler (also known as Abbé Vogler) were of importance to his music education. De Ron was never a career musician, but instead worked throughout Europe as a representative of his father’s company. Thus, he can be characterised as a dilettante working at a professional level, a common and important supporting role within the cultural life of the time. Due to his family’s considerable European connections, Jean Martin De Ron came into contact with the most current musical trends. Religious conflicts in France during the 17 th century had created a Huguenot diaspora, a commercial and cultural network within which Stockholm was placed at the northern periphery. De Ron lived in Amsterdam during the years 1810−11 and several of his compositions are dated from that time. He was back in Stockholm in 1812 and in 1813 he spent time in the Karelian town of Viborg (then part of the Russian Empire – but previously part of the Swedish kingdom). During his travels he collaborated with prominent local musicians. Jean Martin De Ron died of tuberculosis in Lisbon in 1817, having lived in Portugal for some time. While there, he became interested in the musical culture of the country, which he presented in a few articles for the music publication Allgemeine musikalische Zeitung in 1816. In 1900 Hélène De Ron, who was the granddaughter of Jean Martin De Ron’s oldest brother Gustaf, donated De Ron’s hand-written manuscripts and other materials, to what was then the library of the Kungliga Musikaliska akademien (the Royal Swedish Academy of music). The library is now part of the Musik- och teaterbiblioteket (the Music and Theatre Library of Sweden). The composer Jean Martin De Ron primarily composed chamber music. In addition to works for various wind instruments, he left behind three completed and two unfinished string quartets. Several symphonie concertante for clarinet and bassoon relate to his own instrumental competence. He also composed songs for voice and piano and created arrangements of Italian and Spanish folk songs. Of a more ethnomusicological interest is his piano arrangement of Lundum de Bahia , a Portuguese-Brazilian dance with African roots. During his lifetime, Jean Martin De Ron’s reputation as a composer seems to have been significant and a number of his works were published by the reputable Leipzig firm, Breitkopf und Härtel. Allgemeine musikalische Zeitung devoted room to his obituary and several 19 th century lexicographers showed an interest in him that few Swedish musicians have received. Martin Tegen believes that Haydn, as well as Beethoven’s earlier works, heavily influenced both De Ron and his teacher, Eggert, which is particularly evident in the string quartets. Composer and music theorist, Sven E. Svenson, notes that despite a marked influence by Mozart and pre-romantic French and Italian music, Jean Martin De Ron’s work contains a strong personal individuality, a remarkably advanced use of harmony and an accomplished compositional technique. Anders Hammarlund © 2016 Trans. Jill Ann Johnson",
+  "publications": "‘Musik in Portugal’, Allgemeine musikalische Zeitung , vol. 18, Leipzig, 1816, pp. 429−440.",
+  "bibliography": "Kjellström, Sven : ‘Förord’, in: Jean Martin De Ron, Stråkkvartett i f-moll , Stockholm: Gehrman, 1940. Svensson, Sven E.: ‘Jean Martin De Ron’, in: Svenskt biografiskt lexikon, vol. 11, Stockholm: Svenskt biografiskt lexikon, 1945, p. 130. Tegen, Martin : CD booklet Wesström − Eggert − de Ron , Musica Sveciae MSCD 425, 1992.",
+  "sources": null,
+  "links": [],
+  "works_summary": "Orchestral music (2 solo concertos for clarinet and bassoon, respectively), chamber music (5 string quartets, 2 of which are unfinished, trio for piano, clarinet, horn and bassoon, quintet for piano, flute, clarinet and bassoon), songs.",
+  "works": [
+    {
+      "category": "String quartet",
+      "title": "String quartet in F minor",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/ron-jean-martin-de/SMH-W390-String_quartet_in_F_minor",
+      "has_published_edition": false
+    },
+    {
+      "category": "Chamber music with piano and winds",
+      "title": "Trio F major für Klavier, Klarinette (B-flat) und Fagott",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/ron-jean-martin-de/SMH-W602-Trio_F_major_fur_Klavier_Klarinette_B-flat_und_Fagott",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "ron-jean-martin-de"
+}

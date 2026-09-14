@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/welander-svea/",
+  "title": "Svea Welander (Nordblad) (1898-1985)",
+  "name": "Svea Welander (Nordblad)",
+  "years": "1898-1985",
+  "description": "Svea Welander (f. Nordblad) föddes i Hyllie församling, Limhamn/Malmö, den 24 juli 1898, avled i Burlövs förasamling den 20 mars 1985. Kyrkomusiker, tonsättare och musikpedagog. Studier i komposition för Lars-Erik Larsson, i musikhistoria för Sten Broman. Organist i Burlövs kyrkor 1927-64. Lärare i piano vid dåvarande Musikkonservatoriet i Malmö 1927-1935. Undervisade också vid Hvilans folkhögskola. Gift 1935 med tonsättaren Waldemar Welander (1899-1984).",
+  "birth": {
+    "place": "Hyllie församling, Limhamn/Malmö,",
+    "date": "24 juli 1898",
+    "raw": "föddes i Hyllie församling, Limhamn/Malmö, den 24 juli 1898"
+  },
+  "death": {
+    "place": "Burlövs förasamling",
+    "date": "20 mars 1985",
+    "raw": "avled i Burlövs förasamling den 20 mars 1985"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "Brette Kromsten, Katharina &amp; Yngve, Sonja : Men du är ju kvinna: Uppsats om den svenska tonsättarinnan Svea Welander . Göteborg (1982) Lund, Cajsa : Anteckningar från musiklandskapet Åkarp, i Melos och logos. Festskrift till Folke Bohlin . Skellefteå (2011) S. 247-258 Schiött: Torsten : Den försvunna sången. En studie av en rekonstruktionsprocess . Magisterppsats, Musikhögskolan i Malmö (2007)",
+  "sources": "Göteborgs universitetsbibliotek (Kvinnohistoriska samlingar, Svea Welanders samling)",
+  "links": [],
+  "works_summary": "Orkesterverk (symfoniska dikter), kammarmusik, sånger, körverk, m m",
+  "works": [],
+  "slug": "welander-svea"
+}

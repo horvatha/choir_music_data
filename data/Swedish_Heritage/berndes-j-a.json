@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/berndes-j-a/",
+  "title": "Johan Adolph Berndes (1761—1826)",
+  "name": "Johan Adolph Berndes",
+  "years": "1761—1826",
+  "description": "Johan Adolph Berndes föddes i Katarina församling (Stockholm) den 19 april 1761 i Stockholm. Avled den 5 september 1826 i Blommedal, Västra Ny församling (Motala). Född Elglind, kronofogde i Göstrings och Vifolka härader, 1796 utnämnd till assesor. Son till Petter Elglind och Anna Catarina Berndes. Nämnd i Carl Nissers Svensk Instrumentalkomposition 1770-1830, Nominalkatalog, Stockholm 1943.",
+  "birth": {
+    "place": "Katarina församling (Stockholm)",
+    "date": "19 april 1761",
+    "raw": "föddes i Katarina församling (Stockholm) den 19 april 1761"
+  },
+  "death": {
+    "place": "Blommedal",
+    "date": "5 september 1826",
+    "raw": "Avled den 5 september 1826 i Blommedal"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "Nisser, Carl : Svensk Instrumentalkomposition 1770-1830, Nominalkatalog (1943)",
+  "sources": null,
+  "links": [],
+  "works_summary": "Musik för Harpa Hennes Kongl. [sic] Höghet Hertiginnan af Södermanland underdånigst tillägnad: Andante Ass-dur Rondo Ess-dur Larghetto c-moll Marche Ess-dur Aria con var. Ass-dur Andante Ass-dur Polonoise [sic] F-dur Polonoise Ess-dur Moderato con variatione Ess-dur",
+  "works": [],
+  "slug": "berndes-j-a"
+}

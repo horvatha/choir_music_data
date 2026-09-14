@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/frisch-carl-gustaf/",
+  "title": "Carl Gustaf Frisch (1738-1793)",
+  "name": "Carl Gustaf Frisch",
+  "years": "1738-1793",
+  "description": "Carl Gustaf Frisch (i vissa källor Frisk) föddes i Storkyrkoförsamlingen, Stockholm, 17 oktober 1738. Avled i Maria Magdalena församling (Stockholm) 28 december 1793. Skeppsklarerare. Medlem av Par Bricole. Nämnd i Carl Nissers Svensk Instrumentalkomposition 1770-1830, Nominalkatalog, Stockholm 1943.",
+  "birth": {
+    "place": "Storkyrkoförsamlingen, Stockholm,",
+    "date": "17 oktober 1738",
+    "raw": "föddes i Storkyrkoförsamlingen, Stockholm, 17 oktober 1738"
+  },
+  "death": {
+    "place": "Maria Magdalena församling (Stockholm)",
+    "date": "28 december 1793",
+    "raw": "Avled i Maria Magdalena församling (Stockholm) 28 december 1793"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "Nisser, Carl: Svensk Instrumentalkomposition 1770-1830, Nominalkatalog (1943)",
+  "sources": "Statens Musik- och teaterbibliotek",
+  "links": [],
+  "works_summary": "Pianoverk Menuett D-dur [för pianoforte] Pastorale D-dur [för pianoforte]",
+  "works": [],
+  "slug": "frisch-carl-gustaf"
+}

@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/olson-daniel/",
+  "title": "Daniel Olson (1898-1978)",
+  "name": "Daniel Olson",
+  "years": "1898-1978",
+  "description": "Gustaf Daniel Olson (Olsson) föddes i S:t Olai församling, Norrköping, den 7 maj 1898. Avled i Linköpings domkyrkoförsamling den 4 november 1978. Musikdirektör. Tonsättare. Verksam på flera platser som skolkantor, musiklärare, församlingsmusiker och organist. Har skrivit ett flertal solo- och körsånger samt verk för orgel.",
+  "birth": {
+    "place": "S:t Olai församling, Norrköping,",
+    "date": "7 maj 1898",
+    "raw": "föddes i S:t Olai församling, Norrköping, den 7 maj 1898"
+  },
+  "death": {
+    "place": "Linköpings domkyrkoförsamling",
+    "date": "4 november 1978",
+    "raw": "Avled i Linköpings domkyrkoförsamling den 4 november 1978"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": null,
+  "sources": null,
+  "links": [],
+  "works_summary": "Under uppbyggnad",
+  "works": [],
+  "slug": "olson-daniel"
+}

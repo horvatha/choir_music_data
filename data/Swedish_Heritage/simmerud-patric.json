@@ -1,0 +1,55 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/simmerud-patric/",
+  "title": "Patric Simmerud (1963-)",
+  "name": "Patric Simmerud",
+  "years": "1963-",
+  "description": "Patric Simmerud. Born on the 13th of October 1963 in Stockholm. Composer and sound artist.",
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "biography": "Patric SIMMERUDs own homepage",
+  "publications": null,
+  "bibliography": "Thunell, Helena: \"Tiden går inte längre. Interview with Patric Simmerud\", Nutida Musik , nr 258/2016, s. 32-37.",
+  "sources": null,
+  "links": [
+    {
+      "title": "Patric Simmerud on Soundcloud",
+      "url": "https://soundcloud.com/simmerud/"
+    }
+  ],
+  "works_summary": "Selected works: Orchestra ( Fluctuations , Villes englouties ), Wind orchestra ( AN ), Chamber ensembles ( de-housing , Frameworks , Pärlor från Svin , Requiem , Soon - Kilroy go home , To remember the still unseen days, Hokahey, WIP ), Chamber ensembles with electronics ( Kaiso , Wo , Soli , Transients formants and gestures, Vassala , Voop ) Choir ( De ljudlösa , Veni vidi vici ), Electroacoustic ( Tiden går inte längre , Wish tree ), Chamber opera ( Absence ).",
+  "works": [
+    {
+      "category": "Orchestral works in one movement",
+      "title": "Fluctuations",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/simmerud-patric/SMH-W6125-Fluctuations",
+      "has_published_edition": false
+    },
+    {
+      "category": "Female choir a cappella",
+      "title": "De ljudlösa [The soundless]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/simmerud-patric/SMH-W6080-De_ljudlosa_The_soundless",
+      "has_published_edition": false
+    },
+    {
+      "category": "Male choir a cappella",
+      "title": "Veni, vidi, vici",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/simmerud-patric/SMH-W6069-Veni_vidi_vici",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "simmerud-patric"
+}

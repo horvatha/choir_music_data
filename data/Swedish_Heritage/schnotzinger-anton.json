@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/schnotzinger-anton/",
+  "title": "Anton Schnötzinger (1816-1865)",
+  "name": "Anton Schnötzinger",
+  "years": "1816-1865",
+  "description": "Tonsättare och dirigent. Anton Joh. Schnötzinger föddes den 26 november, troligen i Pressburg/Bratislava (i dödsannonsen angavs dock Wien som födelseort). Avled i S:ta Eugenia katolska församling, Stockholm, den 27 februari 1865. Kom till Sverige 1845. En av Stockholms valskungar.",
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": "S:ta Eugenia katolska församling, Stockholm,",
+    "date": "27 februari 1865",
+    "raw": "Avled i S:ta Eugenia katolska församling, Stockholm, den 27 februari 1865"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "Tegen, Martin: Populär musik under 1800-talet . Stockholm (1986) S. 232 Vestergård, Berth : Anton Schnötzinger: 1816-65, i Morgenblätter . Svenska Strauss-sällskapet, 1998:2, s. 6-9",
+  "sources": null,
+  "links": [],
+  "works_summary": "Under uppbyggnad",
+  "works": [],
+  "slug": "schnotzinger-anton"
+}

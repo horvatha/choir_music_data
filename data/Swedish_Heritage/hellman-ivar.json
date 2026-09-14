@@ -1,0 +1,42 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/hellman-ivar/",
+  "title": "Ivar Hellman (1891-1994)",
+  "name": "Ivar Hellman",
+  "years": "1891-1994",
+  "description": "Ivar Hellman föddes i Norrköpings S:t Olai [numera S:t Olofs] församling den 20 januari 1891. Avled i Kungsholms församling, Stockholm, den 19 februari 1994. Dirigent och tonsättare. Under åren 1913-28 var han kapellmästare för Norrköpings orkesterförening och därefter kapellmästare och programtjänsteman vid Radiotjänst fram till 1956. Även verksam som gästdirigent. LMA",
+  "birth": {
+    "place": "Norrköpings S:t Olai [numera S:t Olofs] församling",
+    "date": "20 januari 1891",
+    "raw": "föddes i Norrköpings S:t Olai [numera S:t Olofs] församling den 20 januari 1891"
+  },
+  "death": {
+    "place": "Kungsholms församling, Stockholm,",
+    "date": "19 februari 1994",
+    "raw": "Avled i Kungsholms församling, Stockholm, den 19 februari 1994"
+  },
+  "biography": "Hellman växte upp i Norrköping och tog därefter organistexamen i Stockholm 1911, varpå han studerade dirigering för Carl August Corbach (1867-1947) i Sondershausen, Tyskland. Ledare för Norrköpings orkesterförening 1913-28 och för Musikaliska Sällskapet 1914-28. Åren 1928-56 var Hellman kapellmästare och programtjänsteman vid Radiotjänst i Stockholm. Han har gästdirigerat med svenska orkestrar och i Helsingfors. Han blev invald i Kungl. Musikaliska akademien den 1 juli 1917, som svensk associé nr 138, ordinarie ledamot den 1 juli 1971.",
+  "publications": null,
+  "bibliography": "Malmberg, Helge : artikel i Sohlmans musiklexikon , band 3, s 401-402 (1976)",
+  "sources": null,
+  "links": [],
+  "works_summary": "Symfonisk dikt, Kungamarsch, Festspel, Serenad för stråkorkester, Konsertstycke för violin och orkester, Pianokvintett, sånger med piano, sånger med orkester, mm",
+  "works": [
+    {
+      "category": "Incidental music",
+      "title": "Ingmarsgården [the farm on which several of the principal characters lived before emigrating to Jerusalem]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/hellman-ivar/SMH-W4700-Ingmarsgarden_the_farm_on_which_several_of_the_principal_characters_li",
+      "has_published_edition": false
+    },
+    {
+      "category": "String quintet",
+      "title": "String quintet",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/hellman-ivar/SMH-W367-String_quintet",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "hellman-ivar"
+}

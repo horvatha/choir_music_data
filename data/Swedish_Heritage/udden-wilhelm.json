@@ -1,0 +1,50 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/udden-wilhelm/",
+  "title": "Wilhelm Uddén (1799-1868)",
+  "name": "Wilhelm Uddén",
+  "years": "1799-1868",
+  "description": "Olof Wilhelm Uddén was born in Stockholm 4 August 1799 and died there 3 May 1868. Pianist, composer and educator. Studied with Erik Drake and Thomas Byström. Employed as a clerk at Swedish Customs until his resignation in 1846. He then devoted himself to composing, performing in concerts, and teaching music. Associate member of the Royal Academy of Music in 1853. Member of the Par Bricole and the Harmonic Society.",
+  "birth": {
+    "place": "Stockholm",
+    "date": "4 August 1799",
+    "raw": "born in Stockholm 4 August 1799"
+  },
+  "death": {
+    "place": "Stockholm",
+    "date": "3 May 1868",
+    "raw": "died there 3 May 1868"
+  },
+  "biography": "Life Early life, education and employment Wilhelm Uddén was born 4 August 1799 in Stockholm as the third of four siblings. Wilhelm Uddén’s parents were the military chaplain and subsequently vicar Johan Uddén (1763−1816) and his wife, the popular poet Catharina Christina Ekmarck (1762−1822). In 1809 the family moved to Söderhamn where Johan had found employment as vicar. In Söderhamn, the family actively engaged in salon life, which likely influenced the young Wilhelm Uddén’s later choice of career. Wilhelm Uddén studied at Uppsala University, earning his degree in 1821. He then held a variety of occupations, including with Tullverket (Swedish Customs), where he worked as a clerk before leaving in 1846. Wilhelm Uddén was married to Beata Thunström. On 3 May 1868, he died at age 68. Musical activities During his youth, Uddén studied harmony and piano with Erik Drake and Thomas Byström. After he stopped working at Tullverket, he devoted himself solely to composing, performing, and music education. Uddén immediately started a piano school in Stockholm, which was popular for a long period of time. He was an accomplished musician, and arranged numerous concerts, including a historic concert in 1854 at the Charles XIV John Church (later known as Skeppsholmskyrkan, now the Eric Ericsonhallen concert hall) in Stockholm. Uddén was a member of the Par Bricole and the Harmoniska sällskapet (Harmonic Society). In 1853, he became an associate member of the Kungliga Musikaliska akademien (the Royal Swedish Academy of Music). Works Wilhelm Uddén was a very active composer who devoted himself primarily to patriotic subjects. Uddén wrote mostly music for choir and voice with piano accompaniment, but also marches, orchestral pieces, and an opera: Narcissus . Narcissus is an opera in two acts to a libretto by Erik Johan Stagnelius. The work has not been orchestrated, but is preserved as a piano part. The opera’s plot revolves around the death of Narcissus and his resurrection in nature. It is written for six roles, and in addition to arias, consists of recitative, choruses, and ballet dances. In the the final scene, Uddén assembles a group of shepherds (a men’s choir) and the priestesses to the God of Love (a women’s choir) in an arrangement of up to seven parts. This finale is the only place in the opera where Uddén writes for a mixed choir, resulting in a powerful effect. In Uddén’s compositions for voice with piano, the melody is supported elegantly by piano accompaniment. He composed in a singable, accessible style, that was popular during its time. Perhaps that is why Uddén, so much a child of his times, is largely forgotten today. The historian Hanna Enefalk mentions Uddén as one of the foremost composers of military songs written for the skarpskytterörelse (a voluntary militia, formed as a nationalistic response to the perceived weakness of Sweden’s armed forces) and schoolchildren. One example of his compositions written in order to encourage young people to fight for their country is the second song in the booklet: Tre fosterländska sånger för sopran, alt, tenor och bariton − den uppväxande skolungdomen tillegnade . The song text (which seems to have been written by Uddén himself) concerns how youth should be schooled to fight for their country. The songs are arranged relatively simply, for children’s voices in four parts, with triumphant melodies. Uddén’s music is often marked by having a practical character, and a large part of his output was intended for educational purposes. It is clear that Uddén had mastered the ability to adjust the technical level of his arrangements to the abilities of the performers. His men’s quartet, composed for university students, ʻDe sista septemberdagarnaʼ (with text by Carl Fredrik Dahlgren) is one of his better-known works. Here Uddén writes in a subdued minor key, set to a Romantic text with folkloric references that are strongly reminiscent of Arwid August Afzelius’ text to Näckens polska from the same time period. In the men’s quartet ʻSvensk folksångʼ, folk song should be understood to be linked to the national identity. It leads the listenerʼs thoughts immediately to the Swedish national anthem in both text and melody. Uddén also published several piano method books and chorale preludes for his organ students. Angelina Liljevall © 2016 Trans. Thalia Thunander",
+  "publications": "Historiska upplysningar rörande tullbalancen och tullverkets administration från år 1825 , Stockholm, 1840. Inledning till piano-forte-spelning efter Cramer, Logier m.fl . Stockholm, 1839. Lätta choralpreludier så väl i de nya som de gamla kyrkotonerna, och efterspel, samt utvikningar, till och ifrån hvilken Dur- eller Molltonart som helst, J.S. Bach, Vogler, Rink, Knecht och Körner m. fl. sammandragne och bearbetade för organistelever. Stockholm.",
+  "bibliography": "nefalk, Hanna: ‘ Hurtiga gossar blir raska, modiga soldater - något om folkbeväpningstanken i och utanför skolan från och med 1860-talet’, in: Det mångsidiga verktyget: Elva utbildningshistoriska uppsatser , Uppsala: Historiska institutionen, Uppsala University, 2009, pp. 105–121. Hofberg, Herman: ‘ Uddén, Olof Vilhelm’, in: Svenskt biografiskt handlexikon , Stockholm: Bonnier, 1906. Höijer, J. Leonard: ‘ Uddén, Olof Wilhelm’, in: Musik-Lexikon , Stockholm: Abr. Lundquist, 1864. Norlind, Tobias: ‘Uddén, Olof Vilhelm’, in: Allmänt musiklexikon , vol. 2, Stockholm: Wahlström &amp; Widstrand, 1927. Åstrand, Hans: ‘ Uddén, Olof Wilhelm’, in: Sohlmans musiklexikon , Stockholm, Sohlman.",
+  "sources": "Kungl. Biblioteket, Stockholms stadsarkiv.",
+  "links": [],
+  "works_summary": "Opera (Narcissus), songs, two masses, choral music.",
+  "works": [
+    {
+      "category": "Mixed choir a cappella",
+      "title": "De sista septemberdagarne [sic] (\"Hösten är kommen\")",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/udden-wilhelm/SMH-W5365-De_sista_septemberdagarne_sic_Hosten_ar_kommen",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Jaktsång [Jagtsång] (\"Över [Öfver] fjällarna grå är det natt\")",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/udden-wilhelm/SMH-W5366-Jaktsang_Jagtsang_Over_Ofver_fjallarna_gra_ar_det_natt",
+      "has_published_edition": true
+    },
+    {
+      "category": "Male choir a cappella",
+      "title": "De sista septemberdagarne [sic] (\"Hösten är kommen\")",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/udden-wilhelm/SMH-W5538-De_sista_septemberdagarne_sic_Hosten_ar_kommen",
+      "has_published_edition": true
+    }
+  ],
+  "slug": "udden-wilhelm"
+}

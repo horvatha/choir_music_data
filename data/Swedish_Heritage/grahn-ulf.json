@@ -1,0 +1,578 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/grahn-ulf/",
+  "title": "Ulf Grahn (1942-)",
+  "name": "Ulf Grahn",
+  "years": "1942-",
+  "description": "För aktuell verkförteckning och biografisk information om nu levande tonsättare hänvisar vi till Svensk Musik och tonsättarens egen hemsida.",
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "biography": "Ulf GRAHNs egen hemsida",
+  "publications": null,
+  "bibliography": null,
+  "sources": null,
+  "links": [],
+  "works_summary": "---",
+  "works": [
+    {
+      "category": "Ballet / Dance music, one act",
+      "title": "Creation",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/grahn-ulf/SMH-W6850-Creation",
+      "has_published_edition": false
+    },
+    {
+      "category": "Ballet / Dance music, one act",
+      "title": "Hommage to the Soap Opera , Dance for six birds and one sitting duck",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/grahn-ulf/SMH-W6851-Hommage_to_the_Soap_Opera____Dance_for_six_birds_and_one_sitting_duck",
+      "has_published_edition": false
+    },
+    {
+      "category": "Ballet / Dance music, one act",
+      "title": "LUX",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/grahn-ulf/SMH-W6859-LUX",
+      "has_published_edition": false
+    },
+    {
+      "category": "Incidental music",
+      "title": "One flew over the Cuckoo's nest",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/grahn-ulf/SMH-W6852-One_flew_over_the_Cuckoos_nest",
+      "has_published_edition": false
+    },
+    {
+      "category": "Incidental music",
+      "title": "The Tempest",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/grahn-ulf/SMH-W6853-The_Tempest",
+      "has_published_edition": false
+    },
+    {
+      "category": "Film music",
+      "title": "Milkyway on my Mind",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/grahn-ulf/SMH-W6799-Milkyway_on_my_Mind",
+      "has_published_edition": false
+    },
+    {
+      "category": "Installation",
+      "title": "Calling",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/grahn-ulf/SMH-W6855-Calling",
+      "has_published_edition": false
+    },
+    {
+      "category": "Installation",
+      "title": "Land of the Silver Bird",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/grahn-ulf/SMH-W6857-Land_of_the_Silver_Bird",
+      "has_published_edition": false
+    },
+    {
+      "category": "Installation",
+      "title": "Per Gynts Farwell to Norway",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/grahn-ulf/SMH-W6858-Per_Gynts_Farwell_to_Norway",
+      "has_published_edition": false
+    },
+    {
+      "category": "Installation",
+      "title": "The Vagabond",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/grahn-ulf/SMH-W6856-The_Vagabond",
+      "has_published_edition": false
+    },
+    {
+      "category": "Installation",
+      "title": "The Visit, a story for Tape",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/grahn-ulf/SMH-W6812-The_Visit_a_story_for_Tape",
+      "has_published_edition": false
+    },
+    {
+      "category": "Orchestral works in one movement",
+      "title": "A Tale",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/grahn-ulf/SMH-W6841-A_Tale",
+      "has_published_edition": false
+    },
+    {
+      "category": "Orchestral works in one movement",
+      "title": "as time passes by",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/grahn-ulf/SMH-W6840-as_time_passes_by",
+      "has_published_edition": false
+    },
+    {
+      "category": "Orchestral works in one movement",
+      "title": "Sinfonia",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/grahn-ulf/SMH-W6789-Sinfonia",
+      "has_published_edition": false
+    },
+    {
+      "category": "Orchestral works in one movement",
+      "title": "Sinfonia 2",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/grahn-ulf/SMH-W6830-Sinfonia_2",
+      "has_published_edition": false
+    },
+    {
+      "category": "Orchestral works in one movement",
+      "title": "Sinfonia 3",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/grahn-ulf/SMH-W6831-Sinfonia_3",
+      "has_published_edition": false
+    },
+    {
+      "category": "Orchestral works in one movement",
+      "title": "Sinfonia IV",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/grahn-ulf/SMH-W6832-Sinfonia_IV",
+      "has_published_edition": false
+    },
+    {
+      "category": "Orchestral works in one movement",
+      "title": "Sinfonia V",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/grahn-ulf/SMH-W6833-Sinfonia_V",
+      "has_published_edition": false
+    },
+    {
+      "category": "Orchestral works in one movement",
+      "title": "Sinfonia VI",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/grahn-ulf/SMH-W6834-Sinfonia_VI",
+      "has_published_edition": false
+    },
+    {
+      "category": "Orchestral works in one movement",
+      "title": "Sinfonia VII",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/grahn-ulf/SMH-W6835-Sinfonia_VII",
+      "has_published_edition": false
+    },
+    {
+      "category": "Orchestral works in one movement",
+      "title": "Sinfonia VIII",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/grahn-ulf/SMH-W6836-Sinfonia_VIII",
+      "has_published_edition": false
+    },
+    {
+      "category": "Orchestral works in one movement",
+      "title": "Sinfonietta",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/grahn-ulf/SMH-W6837-Sinfonietta",
+      "has_published_edition": false
+    },
+    {
+      "category": "Orchestral works in one movement",
+      "title": "Sinfonietta 2",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/grahn-ulf/SMH-W6838-Sinfonietta_2",
+      "has_published_edition": false
+    },
+    {
+      "category": "Orchestral works in one movement",
+      "title": "The dawn beyond the Mountains",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/grahn-ulf/SMH-W6842-The_dawn_beyond_the_Mountains",
+      "has_published_edition": false
+    },
+    {
+      "category": "Orchestral works in one movement",
+      "title": "The Wind of Dawn for orchestra and tape",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/grahn-ulf/SMH-W6861-The_Wind_of_Dawn_for_orchestra_and_tape",
+      "has_published_edition": false
+    },
+    {
+      "category": "Orchestral works in one movement",
+      "title": "Vid Ales stenar [At Ale's Stones (a megalithic monument in Scania in the south of Sweden)]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/grahn-ulf/SMH-W6839-Vid_Ales_stenar_At_Ales_Stones_a_megalithic_monument_in_Scania_in_the",
+      "has_published_edition": false
+    },
+    {
+      "category": "Orchestral works in several movements",
+      "title": "A Dream of a lost Century",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/grahn-ulf/SMH-W6818-A_Dream_of_a_lost_Century",
+      "has_published_edition": false
+    },
+    {
+      "category": "Orchestral works in several movements",
+      "title": "Two Dances. Dance of the Shapes, Dance of the Island",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/grahn-ulf/SMH-W6819-Two_Dances_Dance_of_the_Shapes_Dance_of_the_Island",
+      "has_published_edition": false
+    },
+    {
+      "category": "Symphony",
+      "title": "Sinfonie IV",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/grahn-ulf/SMH-W6824-Sinfonie_IV",
+      "has_published_edition": false
+    },
+    {
+      "category": "Symphony",
+      "title": "Sinfonie IX",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/grahn-ulf/SMH-W6829-Sinfonie_IX",
+      "has_published_edition": false
+    },
+    {
+      "category": "Symphony",
+      "title": "Sinfonie no 1",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/grahn-ulf/SMH-W6822-Sinfonie_no_1",
+      "has_published_edition": false
+    },
+    {
+      "category": "Symphony",
+      "title": "Sinfonie no 2",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/grahn-ulf/SMH-W6800-Sinfonie_no_2",
+      "has_published_edition": false
+    },
+    {
+      "category": "Symphony",
+      "title": "Sinfonie no 3",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/grahn-ulf/SMH-W6823-Sinfonie_no_3",
+      "has_published_edition": false
+    },
+    {
+      "category": "Symphony",
+      "title": "Sinfonie no 5",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/grahn-ulf/SMH-W6825-Sinfonie_no_5",
+      "has_published_edition": false
+    },
+    {
+      "category": "Symphony",
+      "title": "Sinfonie no 7",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/grahn-ulf/SMH-W6827-Sinfonie_no_7",
+      "has_published_edition": false
+    },
+    {
+      "category": "Symphony",
+      "title": "Sinfonie VI",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/grahn-ulf/SMH-W6826-Sinfonie_VI",
+      "has_published_edition": false
+    },
+    {
+      "category": "Symphony",
+      "title": "Sinfonie VIII",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/grahn-ulf/SMH-W6828-Sinfonie_VIII",
+      "has_published_edition": false
+    },
+    {
+      "category": "Piano and orchestra",
+      "title": "Ancient Music for piano and Chamber Orchestra",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/grahn-ulf/SMH-W6807-Ancient_Music_for_piano_and_Chamber_Orchestra",
+      "has_published_edition": false
+    },
+    {
+      "category": "Piano and orchestra",
+      "title": "Concertino for piano and Strings",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/grahn-ulf/SMH-W6843-Concertino_for_piano_and_Strings",
+      "has_published_edition": false
+    },
+    {
+      "category": "Piano and orchestra",
+      "title": "Concerto for Piano and Orchestra",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/grahn-ulf/SMH-W6844-Concerto_for_Piano_and_Orchestra",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir and instruments",
+      "title": "Kurbitsmålning [Rose-painting]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/grahn-ulf/SMH-W6808-Kurbitsmalning_Rose-painting",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Sonata Regions of Time part 1",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/grahn-ulf/SMH-W6813-Sonata_Regions_of_Time_part_1",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and other instruments",
+      "title": "Du Silence",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/grahn-ulf/SMH-W6790-Du_Silence",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and other instruments",
+      "title": "A clear Midnight for",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/grahn-ulf/SMH-W6821-A_clear_Midnight_for",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and other instruments",
+      "title": "Det är någon i närheten [There is someone nearby]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/grahn-ulf/SMH-W6817-Det_ar_nagon_i_narheten_There_is_someone_nearby",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and other instruments",
+      "title": "Han som vaknade av sång över taken [approx. He who woke up by song over the roofs]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/grahn-ulf/SMH-W6791-Han_som_vaknade_av_sang_over_taken_approx_He_who_woke_up_by_song_over",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and other instruments",
+      "title": "Night Images; The Jinni",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/grahn-ulf/SMH-W6820-Night_Images_The_Jinni",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and ensemble",
+      "title": "Pour Quatre",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/grahn-ulf/SMH-W6792-Pour_Quatre",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voices and ensemble",
+      "title": "Soundscape VI: The stillness in the Silence",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/grahn-ulf/SMH-W6803-Soundscape_VI_The_stillness_in_the_Silence",
+      "has_published_edition": false
+    },
+    {
+      "category": "Other instruments with keyboard instrument",
+      "title": "Sounding for piano or ensemble and tape",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/grahn-ulf/SMH-W6854-Sounding_for_piano_or_ensemble_and_tape",
+      "has_published_edition": false
+    },
+    {
+      "category": "Piano",
+      "title": "Cinq Preludes",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/grahn-ulf/SMH-W6801-Cinq_Preludes",
+      "has_published_edition": false
+    },
+    {
+      "category": "Piano",
+      "title": "Encore for Piano",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/grahn-ulf/SMH-W6809-Encore_for_Piano",
+      "has_published_edition": false
+    },
+    {
+      "category": "Piano",
+      "title": "For Piano",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/grahn-ulf/SMH-W6810-For_Piano",
+      "has_published_edition": false
+    },
+    {
+      "category": "Piano",
+      "title": "Piece for Piano",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/grahn-ulf/SMH-W6811-Piece_for_Piano",
+      "has_published_edition": false
+    },
+    {
+      "category": "Piano 6 hands or more",
+      "title": "Scherzo for piano six hands",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/grahn-ulf/SMH-W6795-Scherzo_for_piano_six_hands",
+      "has_published_edition": false
+    },
+    {
+      "category": "Organ",
+      "title": "Fantasia",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/grahn-ulf/SMH-W6848-Fantasia",
+      "has_published_edition": false
+    },
+    {
+      "category": "Organ",
+      "title": "Looking forward to",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/grahn-ulf/SMH-W6846-Looking_forward_to",
+      "has_published_edition": false
+    },
+    {
+      "category": "Organ",
+      "title": "Mirrors",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/grahn-ulf/SMH-W6849-Mirrors",
+      "has_published_edition": false
+    },
+    {
+      "category": "Organ",
+      "title": "Pezzo per Organo",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/grahn-ulf/SMH-W6847-Pezzo_per_Organo",
+      "has_published_edition": false
+    },
+    {
+      "category": "Flute solo",
+      "title": "Pace for flute and tape",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/grahn-ulf/SMH-W6862-Pace_for_flute_and_tape",
+      "has_published_edition": false
+    },
+    {
+      "category": "Guitar solo",
+      "title": "Elegy for Russian Guitar",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/grahn-ulf/SMH-W6794-Elegy_for_Russian_Guitar",
+      "has_published_edition": false
+    },
+    {
+      "category": "String quartet",
+      "title": "String quartet no 2",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/grahn-ulf/SMH-W6793-String_quartet_no_2",
+      "has_published_edition": false
+    },
+    {
+      "category": "Piano quartet",
+      "title": "Piano Quartet",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/grahn-ulf/SMH-W6802-Piano_Quartet",
+      "has_published_edition": false
+    },
+    {
+      "category": "Other chamber music with winds",
+      "title": "Floating Landscape 2 for ten flutes",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/grahn-ulf/SMH-W6798-Floating_Landscape_2_for_ten_flutes",
+      "has_published_edition": false
+    },
+    {
+      "category": "Other chamber music with winds",
+      "title": "Floating Landscape for eight Flutes",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/grahn-ulf/SMH-W6845-Floating_Landscape_for_eight_Flutes",
+      "has_published_edition": false
+    },
+    {
+      "category": "Percussion ensemble",
+      "title": "Silence behind the Veil for two percussionists",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/grahn-ulf/SMH-W6815-Silence_behind_the_Veil_for_two_percussionists",
+      "has_published_edition": false
+    },
+    {
+      "category": "Percussion ensemble",
+      "title": "Three Dances with interludes for six percussionists",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/grahn-ulf/SMH-W6816-Three_Dances_with_interludes_for_six_percussionists",
+      "has_published_edition": false
+    },
+    {
+      "category": "2 Instruments",
+      "title": "long shadows on the..... for Oboe and Guitar",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/grahn-ulf/SMH-W6814-long_shadows_on_the__for_Oboe_and_Guitar",
+      "has_published_edition": false
+    },
+    {
+      "category": "Chamber ensemble (7 or more instruments)",
+      "title": "Sine Nomine",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/grahn-ulf/SMH-W6860-Sine_Nomine",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "grahn-ulf"
+}

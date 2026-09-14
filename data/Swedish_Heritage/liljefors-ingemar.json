@@ -1,0 +1,74 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/liljefors-ingemar/",
+  "title": "Ingemar Liljefors (1906-1981)",
+  "name": "Ingemar Liljefors",
+  "years": "1906-1981",
+  "description": "Ingemar (Ingmar) Kristian Liljefors föddes i Göteborgs domkyrkoförsamling den 13 december 1906. Avled i S:t Görans församling, Stockholm, den 14 oktober 1981. Tonsättare, pianist och musikkritiker. Organistexamen vid Musikkonservatoriet i Stockholm 1933. Lärare i piano vid samma skola 1938-53, samt lärare i harmonilära där 1953-73. Musikkritiker i Stockholms-Tidningen 1941-54. En av initiativtagarna till Fylkingen 1933, dess ordförande 1933-46. Ordförande i FST 1947-63, vice ordförande i STIM 1951-73, styrelseledamot i KMA 1959-60. Son till tonsättaren Ruben Liljefors (1871-1936). LMA",
+  "birth": {
+    "place": "Göteborgs domkyrkoförsamling",
+    "date": "13 december 1906",
+    "raw": "föddes i Göteborgs domkyrkoförsamling den 13 december 1906"
+  },
+  "death": {
+    "place": "S:t Görans församling, Stockholm,",
+    "date": "14 oktober 1981",
+    "raw": "Avled i S:t Görans församling, Stockholm, den 14 oktober 1981"
+  },
+  "biography": "Gift 1932 med Margita Walin. Invald i Kungl. Musikaliska akademien den 22 maj 1958, som ledamot nr 680.",
+  "publications": "Start och formering i Fylkingen 1933-1959 (1959) Harmonik och sats — Schubert till Ravel — På spaning efter analysvägar (1976)",
+  "bibliography": "Brandel, Åke : artikel i Sohlmans musiklexikon , band 4, s 318 (Stockholm 1977) Seymer, William : artikel i Svenska Män och Kvinnor , band 4, s 579 (Albert Bonniers förlag, Stockholm 1948)",
+  "sources": null,
+  "links": [],
+  "works_summary": "Symfoni op 15, Sinfonietta, Pianokonsert, Rapsodi för piano och orkester, Concertino för violin och orkester, Romans för violin och orkester, Violinkonsert, Stråkkvartett, kammarmusik (bl a Pianotrio), verk för piano, sånger med piano, verk för kör (bl a \"En tijdh-spegel\" för soli, kör och orkester)",
+  "works": [
+    {
+      "category": "Voice and piano",
+      "title": "Den ljusa nattens ljusa fågeldrillar...",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/liljefors-ingemar/SMH-W1407-Den_ljusa_nattens_ljusa_fageldrillar",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Visan",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/liljefors-ingemar/SMH-W995-Visan",
+      "has_published_edition": false
+    },
+    {
+      "category": "Violin and piano",
+      "title": "Sonatin (D-dur) för fiol och piano [Sonatina (in D major) for violin and piano]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/liljefors-ingemar/SMH-W2273-Sonatin_D-dur_for_fiol_och_piano_Sonatina_in_D_major_for_violin_and_pi",
+      "has_published_edition": false
+    },
+    {
+      "category": "Piano",
+      "title": "Five studies",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/liljefors-ingemar/SMH-W994-Five_studies",
+      "has_published_edition": false
+    },
+    {
+      "category": "Piano trio",
+      "title": "Suite in folk tone for violin, violoncello and piano",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/liljefors-ingemar/SMH-W1670-Suite_in_folk_tone_for_violin_violoncello_and_piano",
+      "has_published_edition": false
+    },
+    {
+      "category": "Piano trio",
+      "title": "Trio for violin, viola & piano",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/liljefors-ingemar/SMH-W2272-Trio_for_violin_viola_-_piano",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "liljefors-ingemar"
+}

@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/rohde-bengt/",
+  "title": "Bengt Rodhe (1901-1968)",
+  "name": "Bengt Rodhe",
+  "years": "1901-1968",
+  "description": "Bengt Karl (Carl) Viktor Rodhe föddes den 18 september 1901 i Gnarps församling, Hälsingland. Avled i Växjö den 2 maj 1968. Sonson till skolmannen och folkbildaren Bengt Karl Rodhe. Kompositör och arrangör, kapellmästare och pianolärare, bl a till Povel Ramel. Efter avlagd musiklärarexamen fortsatte Rodhe sina musikstudier i Berlin och Milano samt i Köpenhamn för Carl Nielsen.",
+  "birth": {
+    "place": null,
+    "date": "18 september 1901",
+    "raw": "föddes den 18 september 1901"
+  },
+  "death": {
+    "place": "Växjö",
+    "date": "2 maj 1968",
+    "raw": "Avled i Växjö den 2 maj 1968"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": null,
+  "sources": "Musik- och teaterbiblioteket",
+  "links": [],
+  "works_summary": "Två symfonier, violinkonsert, sånger, filmmusik, etc",
+  "works": [],
+  "slug": "rohde-bengt"
+}

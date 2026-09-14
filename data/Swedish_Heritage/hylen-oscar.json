@@ -1,0 +1,42 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/hylen-oscar/",
+  "title": "Oscar Hylén (1846-1885)",
+  "name": "Oscar Hylén",
+  "years": "1846-1885",
+  "description": "Oscar Wilhelm Hylén, född 15 februari 1846, avled i Visby den 6 augusti 1885. (Fadern var instrumentmakare och pianostämmare.) Tonsättare och teaterkapellmästare. Elev i komposition till Franz Berwald vid Musikkonservatoriet.",
+  "birth": {
+    "place": null,
+    "date": "15 februari 1846",
+    "raw": "född 15 februari 1846"
+  },
+  "death": {
+    "place": "Visby",
+    "date": "6 augusti 1885",
+    "raw": "avled i Visby den 6 augusti 1885"
+  },
+  "biography": "Oscar Wilhelm Hylén föddes av instrumentmakaren och pianostämmaren Per Hylén (död 27/7 1866) och hans maka Sara Brita Sjögren (född 3/4 1815, död 11/9 1890). Gift med Josefina Wilhelmina Theresia Holmström (född 27/1 1852). Skilsmässa 1879. Elev till Franz Berwald. Han blev 1873 kapellmästare vid ett resande teatersällskap. Avliden och begravd i Visby.",
+  "publications": null,
+  "bibliography": "Castegren, Nils : Franz Berwalds kompositionselever vid Musikkonservatoriet 1867-68 , i Svensk tidskrift för musikforskning , 1974:1, s. 19-30",
+  "sources": null,
+  "links": [],
+  "works_summary": "symfoni (försvunnen), stråkkvartett D-dur",
+  "works": [
+    {
+      "category": "Orchestral works in one movement",
+      "title": "Overture [The title 'Symfoni' (Symphony) has been crossed out]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/hylen-oscar/SMH-W4705-Overture_The_title_Symfoni_Symphony_has_been_crossed_out",
+      "has_published_edition": false
+    },
+    {
+      "category": "String quartet",
+      "title": "Qvartett (D-dur) för två Violiner, Viola och Violoncell af O.W. Hylén [Quartet (in D major) for two violins, viola, and violoncello by O.W. Hylén]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/hylen-oscar/SMH-W37-Qvartett_D-dur_for_tva_Violiner_Viola_och_Violoncell_af_OW_Hylen_Quart",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "hylen-oscar"
+}

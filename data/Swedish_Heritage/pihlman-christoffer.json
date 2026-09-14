@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/pihlman-christoffer/",
+  "title": "Christopher [Christoffer] Pihlman (1748-1780)",
+  "name": "Christopher [Christoffer] Pihlman",
+  "years": "1748-1780",
+  "description": "Christopher (Christoffer) Pihlman föddes den 30 oktober 1748 i Uddevalla församling. Avled den 21 mars 1780 i Jakob och Johannes församling, Stockholm. Cellist i Kungl. Hovkapellet. Nämnd i Carl Nissers Svensk Instrumentalkomposition 1770-1830, Nominalkatalog, Stockholm 1943.",
+  "birth": {
+    "place": null,
+    "date": "30 oktober 1748",
+    "raw": "föddes den 30 oktober 1748"
+  },
+  "death": {
+    "place": "Jakob och Johannes församling",
+    "date": "21 mars 1780",
+    "raw": "Avled den 21 mars 1780 i Jakob och Johannes församling"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "Nisser, Carl: Svensk Instrumentalkomposition 1770-1830, Nominalkatalog (Stockholm, 1943)",
+  "sources": null,
+  "links": [],
+  "works_summary": "Pianoverk",
+  "works": [],
+  "slug": "pihlman-christoffer"
+}

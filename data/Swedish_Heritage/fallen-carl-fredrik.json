@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/fallen-carl-fredrik/",
+  "title": "Carl Fredrik Fallén (1764-1830)",
+  "name": "Carl Fredrik Fallén",
+  "years": "1764-1830",
+  "description": "Född den 22 september 1764 i Kristinehamn, död den 26 augusti 1830 i Södra Mellby, Kristianstads län. Entomolog, musiker, musikpedagog och tonsättare. Medlem av Utile Dulci.",
+  "birth": {
+    "place": null,
+    "date": "22 september 1764",
+    "raw": "Född den 22 september 1764"
+  },
+  "death": {
+    "place": "Södra Mellby",
+    "date": "26 augusti 1830",
+    "raw": "död den 26 augusti 1830 i Södra Mellby"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "Ander, Kjell &amp; Hildebrand, Bengt : Carl Fredrik Fallén , i Svenskt biografiskt lexikon , bd 15 (1956) Bringéus, Nils-Arvid: Herrskap och hushållning på Kiviks Äsperöd . Uppsala (2000) Edlund, Barbro : Musikvänner i Malmö vid sekelskiftet 1800, i Elbogen (Årsskrift). 1995 (63), s. 131-150 Fallén, Carl Fredrik : Biografiska anteckningar . Stockholm (1914) Karlsson, William : Carl Fredrik Falléns resa i Blekinge 1825 . Karlskrona (1949) Osberg, N. P .: Lundaminnen från 1820-, 30- och 40-talen , utg. av G. Carlquist (1927) Sjöström, C .: Vermlands nation i Lund 1682—1907 (1908)",
+  "sources": "Musik- och teaterbiblioteket, Landsarkivet i Lund",
+  "links": [],
+  "works_summary": "Under uppbyggnad",
+  "works": [],
+  "slug": "fallen-carl-fredrik"
+}

@@ -1,0 +1,34 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/wennerberg-gustaf/",
+  "title": "Gustaf Wennerberg (1856-1928)",
+  "name": "Gustaf Wennerberg",
+  "years": "1856-1928",
+  "description": "Organist och tonsättare. Född den 19 januari 1856 i Välinge församling (Helsingborg). Avled där den 2 augusti 1928. Organist- och kantorsexamen 1877. Kantor i Välinge och Kattarps församlingar från 1893, då han efterträdde sin far Nils Vennerberg. Gift med Frida, f Askeroth (1870-1946). Bror till folkskollärarinnan Gerda Wennerberg (1861-1951) som också komponerade sånger.",
+  "birth": {
+    "place": null,
+    "date": "19 januari 1856",
+    "raw": "Född den 19 januari 1856"
+  },
+  "death": {
+    "place": null,
+    "date": "2 augusti 1928",
+    "raw": "Avled där den 2 augusti 1928"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": "38 en- och tvåstämmiga sånger för skola och hem (1928).",
+  "bibliography": null,
+  "sources": null,
+  "links": [],
+  "works_summary": "Sånger och pianostycken. Mest kända verk är \"Man borde inte sova\" (text: Jeremias i Tröstlösa).",
+  "works": [
+    {
+      "category": "Voice and piano",
+      "title": "Three songs at the piano",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/wennerberg-gustaf/SMH-W1725-Three_songs_at_the_piano",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "wennerberg-gustaf"
+}

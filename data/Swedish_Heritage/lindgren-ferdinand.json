@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/lindgren-ferdinand/",
+  "title": "Ferdinand Lindgren (1899-1984)",
+  "name": "Ferdinand Lindgren",
+  "years": "1899-1984",
+  "description": "Leonard Ferdinand Valfrid Lindgren föddes den 30 januari 1899 i Lunds domkyrkoförsamling. Avled i Eriksfälts församling (sedermera delad mellan Fosie och Hyllie församlingar), Malmö den 11 januari 1984. Militärmusiker och tonsättare.",
+  "birth": {
+    "place": null,
+    "date": "30 januari 1899",
+    "raw": "föddes den 30 januari 1899"
+  },
+  "death": {
+    "place": "Eriksfälts församling (sedermera delad mellan Fosie och Hyllie församlingar), Malmö",
+    "date": "11 januari 1984",
+    "raw": "Avled i Eriksfälts församling (sedermera delad mellan Fosie och Hyllie församlingar), Malmö den 11 januari 1984"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": null,
+  "sources": null,
+  "links": [],
+  "works_summary": "Marscher, kantater, mm",
+  "works": [],
+  "slug": "lindgren-ferdinand"
+}

@@ -1,0 +1,34 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/duben-peter/",
+  "title": "Peter Düben (1633-1694)",
+  "name": "Peter Düben",
+  "years": "1633-1694",
+  "description": "Peter Düben föddes i Stockholm i juli 1633 och avled där 1694. Hovkapellist. Tonsättare. Son till Andreas Düben den äldre.",
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": null,
+  "sources": null,
+  "links": [],
+  "works_summary": "Hovdanser",
+  "works": [
+    {
+      "category": "String instruments with basso continuo",
+      "title": "[Suite XVIII]. Allamanda E. P.D. - 1. Courante - Sarabande",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/duben-peter/SMH-W6691-Suite_XVIII_Allamanda_E_PD_-_1_Courante_-_Sarabande",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "duben-peter"
+}

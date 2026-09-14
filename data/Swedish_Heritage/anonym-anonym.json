@@ -1,0 +1,874 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/",
+  "title": null,
+  "name": null,
+  "years": null,
+  "description": "-",
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "biography": "-",
+  "publications": null,
+  "bibliography": null,
+  "sources": null,
+  "links": [],
+  "works_summary": "-",
+  "works": [
+    {
+      "category": "Mixed choir a cappella",
+      "title": "\"Ack, hör du lilla vännen\". Folkvisa [Folk song]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6292-Ack_hor_du_lilla_vannen_Folkvisa_Folk_song",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "\"Ack, om dagen svunne hän\". Finsk folkvisa [Finnish folk song]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6293-Ack_om_dagen_svunne_han_Finsk_folkvisa_Finnish_folk_song",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "\"Allt under himmelens fäste\". Folkvisa [Folk song]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6254-Allt_under_himmelens_faste_Folkvisa_Folk_song",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "\"De voro två ädla konungabarn\". Folkvisa [Folk song]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6294-De_voro_tva_adla_konungabarn_Folkvisa_Folk_song",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "\"Du har sörjit nu igen\". Folkvisa [Folk song]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6295-Du_har_sorjit_nu_igen_Folkvisa_Folk_song",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "\"Du är så vacker för mina ögon\". Åländsk folkvisa efter K. [Karl] Ekman [Folk song from Åland after Karl Ekman]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6296-Du_ar_sa_vacker_for_mina_ogon_Alandsk_folkvisa_efter_K_Karl_Ekman_Folk",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "\"Där sitter en fågel på liljonakvist\". Folkvisa [There sits a bird on the lily's stem. Folk song]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6189-Dar_sitter_en_fagel_pa_liljonakvist_Folkvisa_There_sits_a_bird_on_the",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "\"En gång i bredd med mig\". Folkvisa [Folk song]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6297-En_gang_i_bredd_med_mig_Folkvisa_Folk_song",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "\"En herrdag i höjden\". Folkmelodi [Folk melody]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6324-En_herrdag_i_hojden_Folkmelodi_Folk_melody",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "\"En visa vill jag sjunga\". Folkvisa [Folk song]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6298-En_visa_vill_jag_sjunga_Folkvisa_Folk_song",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "\"Fjärran han dröjer\". Finsk folkvisa [He lingers far away. Finnish folk song]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6236-Fjarran_han_drojer_Finsk_folkvisa_He_lingers_far_away_Finnish_folk_son",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "\"Gud Fader, då Han såg vår nöd\". Gammal latinsk hymn [Old Latin hymn]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6325-Gud_Fader_da_Han_sag_var_nod_Gammal_latinsk_hymn_Old_Latin_hymn",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "\"Hej, dunkom!\". Folkvisa [Folk song]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6299-Hej_dunkom_Folkvisa_Folk_song",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "\"Höga himmelen vet\". Folkvisa [Folk song]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6300-Hoga_himmelen_vet_Folkvisa_Folk_song",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "\"I ängslan jag sitter\". Folkvisa [Folk song]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6301-I_angslan_jag_sitter_Folkvisa_Folk_song",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "\"Jag ser uppå dina ögon\". Folkvisa [Folk song]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6256-Jag_ser_uppa_dina_ogon_Folkvisa_Folk_song",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "\"Jag sjungit har i dagar\". Folkvisa [Folk song]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6257-Jag_sjungit_har_i_dagar_Folkvisa_Folk_song",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "\"Jag unnar dig ändå allt gott\". Folkvisa [Folk song]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6302-Jag_unnar_dig_anda_allt_gott_Folkvisa_Folk_song",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "\"Klar sol på blå himmelen lyser\". Danslek [Dance game]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6303-Klar_sol_pa_bla_himmelen_lyser_Danslek_Dance_game",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "\"Kom, Helge Ande, Herre god\". Gammalkyrklig melodi [Old church melody] (Veni creator)",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6327-Kom_Helge_Ande_Herre_god_Gammalkyrklig_melodi_Old_church_melody_Veni_c",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "\"Krist är uppstånden\". Melodi från 1100-talet [Melody from the 12th Century]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6328-Krist_ar_uppstanden_Melodi_fran_1100-talet_Melody_from_the_12th_Centur",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "\"Kristallen den fina\". Folkvisa [d-moll] [Folk song (in D minor)]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6258-Kristallen_den_fina_Folkvisa_d-moll_Folk_song_in_D_minor",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "\"Kristallen den fina\". Folkvisa [f-moll] [Folk song in F minor]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6304-Kristallen_den_fina_Folkvisa_f-moll_Folk_song_in_F_minor",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "\"Kung Karl den unga hjälte\" [approx. 'King Charles, the young hero'; composed by Otto Edvard Westermark, 1797-1849]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6285-Kung_Karl_den_unga_hjalte_approx_King_Charles_the_young_hero_composed",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "\"Mandom, mod och morska män\". Folkmarsch från Orsa i Dalarne [sic; Dalarna] [Folk march from Orsa in Dalecarlia]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6241-Mandom_mod_och_morska_man_Folkmarsch_fran_Orsa_i_Dalarne_sic_Dalarna_F",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "\"Mig lyster i lunden att vara\". Folkvisa [Folk song]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6306-Mig_lyster_i_lunden_att_vara_Folkvisa_Folk_song",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "\"Nu vilja vi begynna en domaredans\". Folkvisa [Folk song (Swedish circle dance)]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6307-Nu_vilja_vi_begynna_en_domaredans_Folkvisa_Folk_song_Swedish_circle_da",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "\"Nu vintern har ändat\". Folkvisa [Folk song]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6308-Nu_vintern_har_andat_Folkvisa_Folk_song",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "\"O arma, käraste moder\". Finsk folkvisa [Finnish folk song]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6267-O_arma_karaste_moder_Finsk_folkvisa_Finnish_folk_song",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "\"O, Helge Ande\". Ur Birgittinritualen [1300-talet] [From the Bridgettine Ritual (14th Century)]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6326-O_Helge_Ande_Ur_Birgittinritualen_1300-talet_From_the_Bridgettine_Ritu",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "\"O, tysta ensamhet\". Folkvisa [Folk song]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6309-O_tysta_ensamhet_Folkvisa_Folk_song",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "\"Och flickan hon går i dansen\". Folklek [Traditional Swedish circle dance]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6259-Och_flickan_hon_gar_i_dansen_Folklek_Traditional_Swedish_circle_dance",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "\"Och inte vill jag sörja\". Folkvisa [Folk song]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6260-Och_inte_vill_jag_sorja_Folkvisa_Folk_song",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "\"Och jungfrun gick sig åt ängen\". Folkvisa [Folk song]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6242-Och_jungfrun_gick_sig_at_angen_Folkvisa_Folk_song",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "\"Och jungfrun gick åt killan [sic]\". Folkvisa [Folk song]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6261-Och_jungfrun_gick_at_killan_sic_Folkvisa_Folk_song",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "\"Om alla berg och dalar\". Folkvisa [Folk song]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6311-Om_alla_berg_och_dalar_Folkvisa_Folk_song",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "\"Om dagen vid mitt arbete\". Folkvisa [Folk song]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6262-Om_dagen_vid_mitt_arbete_Folkvisa_Folk_song",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "\"Om Mikaelidagen\". Folkvisa [Folk song]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6313-Om_Mikaelidagen_Folkvisa_Folk_song",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "\"Om sommaren sköna\". Folkvisa [Folk song]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6263-Om_sommaren_skona_Folkvisa_Folk_song",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "\"Skön Anna\". Folkvisa [Folk song]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6312-Skon_Anna_Folkvisa_Folk_song",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "\"Som stjärnan uppå himmelen så klar\". Folkvisa [Folk song]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6266-Som_stjarnan_uppa_himmelen_sa_klar_Folkvisa_Folk_song",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "\"Sverige är mitt allt på jorden\" [composed by Henrik Heimer (1866-1920)]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6320-Sverige_ar_mitt_allt_pa_jorden_composed_by_Henrik_Heimer_1866-1920",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "\"Så tager jag min bössa\". Folkvisa [Folk song]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6315-Sa_tager_jag_min_bossa_Folkvisa_Folk_song",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "\"Tänker du, att jag förlorader är\". Folkvisa [Folk song]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6245-Tanker_du_att_jag_forlorader_ar_Folkvisa_Folk_song",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "\"Tätt invid floden står en hägg\". Folkvisa [Folk song]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6314-Tatt_invid_floden_star_en_hagg_Folkvisa_Folk_song",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "\"Ungmön vid sländan satt\". Folkvisa [Folk song]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6316-Ungmon_vid_slandan_satt_Folkvisa_Folk_song",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "\"Uti vår hage\". Folkmelodi från Gotland [Folk song from Gotland (an island and province in Sweden)]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6317-Uti_var_hage_Folkmelodi_fran_Gotland_Folk_song_from_Gotland_an_island",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "\"Vid älvens strand\". Finsk folkvisa [Finnish folk song]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6268-Vid_alvens_strand_Finsk_folkvisa_Finnish_folk_song",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "\"Vipp lustigt\". Ringdans [Circle dance]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6318-Vipp_lustigt_Ringdans_Circle_dance",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "\"Vårvindar friska\". Folkvisa från Norrland [Fresh spring winds. Folk song from the Swedish land of Norrland]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6247-Varvindar_friska_Folkvisa_fran_Norrland_Fresh_spring_winds_Folk_song_f",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "\"Världens Frälsare kom här\". Melodi från 300-talet [Melody from the 4th Century]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6323-Varldens_Fralsare_kom_har_Melodi_fran_300-talet_Melody_from_the_4th_Ce",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "\"Över allt, över allt på jorden\". Folkvisa [Folk song]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6319-Over_allt_over_allt_pa_jorden_Folkvisa_Folk_song",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Björneborgarnas marsch [March of the Björneborgers / March of the Pori Regiment] (\"Söner av ett folk, som blött på Narvas hed\") [Finnish]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6269-Bjorneborgarnas_marsch_March_of_the_Bjorneborgers__March_of_the_Pori_R",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Den bergtagna. Folkvisa [The maiden captured by the Mountain King. Folk song]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6235-Den_bergtagna_Folkvisa_The_maiden_captured_by_the_Mountain_King_Folk_s",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Domaredansen. Folklek [Judge's dance. Traditional Swedish circle dance]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6255-Domaredansen_Folklek_Judges_dance_Traditional_Swedish_circle_dance",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Duvans sång på liljekvist. Folkvisa [Folk song] (\"Det sitter en duva på liljekvist\")",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W5417-Duvans_sang_pa_liljekvist_Folkvisa_Folk_song_Det_sitter_en_duva_pa_lil",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Felices nimium",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W2027-Felices_nimium",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Finska rytteriets marsch under trettioåriga kriget [March of the Finnish Cavalry during the Thirty Years' War] (\"Den snöiga nord är vårt fädernesland\") [Finnish]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6270-Finska_rytteriets_marsch_under_trettioariga_kriget_March_of_the_Finnis",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "I Finlands skog. Finsk folkvisa [In Finland's forest. Finnish folk song]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6237-I_Finlands_skog_Finsk_folkvisa_In_Finlands_forest_Finnish_folk_song",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Johannespassion [St John Passion] / Passio Salvatoris et Domini Nostri Jesu Christi",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6047-Johannespassion_St_John_Passion__Passio_Salvatoris_et_Domini_Nostri_Je",
+      "has_published_edition": true
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Julsång. Melodi från medeltiden [Christmas song. Melody from the Middle Ages] (\"Ett barn är fött på denna dag\")",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6271-Julsang_Melodi_fran_medeltiden_Christmas_song_Melody_from_the_Middle_A",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Kom helge ande herre god",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W2022-Kom_helge_ande_herre_god",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Liten Karin. Folkvisa [Little Karin. Folk song]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6239-Liten_Karin_Folkvisa_Little_Karin_Folk_song",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Majvisa. Svensk folkvisa [May song. Swedish folk song] (\"Nu komma våra pågar små\")",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6305-Majvisa_Svensk_folkvisa_May_song_Swedish_folk_song_Nu_komma_vara_pagar",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Mit hop och tröst",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W2025-Mit_hop_och_trost",
+      "has_published_edition": true
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Näckens polska. Folkvisa [The Nixie's polska (dance). Folk song]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6240-Nackens_polska_Folkvisa_The_Nixies_polska_dance_Folk_song",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "O, gud tin godheet tacke wi",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W2026-O_gud_tin_godheet_tacke_wi",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Qui suos parentes hic pie vivens colit",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W2021-Qui_suos_parentes_hic_pie_vivens_colit",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Resan till Österland. Folkvisa [The journey to the East. Folk song] (\"Till Österland vill jag fara\")",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6265-Resan_till_Osterland_Folkvisa_The_journey_to_the_East_Folk_song_Till_O",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Serenad [Serenade] (\"Bort i rymden skyar tåga\"), [Composer: F. or H. Werner (the sources are not consistent]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6253-Serenad_Serenade_Bort_i_rymden_skyar_taga_Composer_F_or_H_Werner_the_s",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Sinite parvulos ad me",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W2024-Sinite_parvulos_ad_me",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Skadis klagan. Folkvisa [Skadi's lament. Folk song]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6264-Skadis_klagan_Folkvisa_Skadis_lament_Folk_song",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Stenbocks-marschen [Stenbock's March] (\"Marsch, bussar, gån på uti Herrans namn!\") [Composer: Olof Lindsten or Lindsteen, (c. 1675-1745)]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6283-Stenbocks-marschen_Stenbocks_March_Marsch_bussar_gan_pa_uti_Herrans_na",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Tonerna [The tones], [Composer: Wilhelm Lagercrantz (1825-1886)]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6250-Tonerna_The_tones_Composer_Wilhelm_Lagercrantz_1825-1886",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Upplands-polska (\"Flickor kom så skall vi dansa med varandra\") [Polska (dance) from the Swedish province of Uppland]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6246-Upplands-polska_Flickor_kom_sa_skall_vi_dansa_med_varandra_Polska_danc",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Vågen [The wave], [Composer: Carl Johan Laurin (1813-1853)]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6251-Vagen_The_wave_Composer_Carl_Johan_Laurin_1813-1853",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Vårsång [Spring song] (\"Lärkan slår i skyn\"), [Composed by Fernberg]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6282-Varsang_Spring_song_Larkan_slar_i_skyn_Composed_by_Fernberg",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir a cappella",
+      "title": "Värmlands-visan. Folkmelodi [Song of the Swedish historic province of Värmland. Folk melody] (\"Ack, Värmeland, du sköna\")",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6248-Varmlands-visan_Folkmelodi_Song_of_the_Swedish_historic_province_of_Va",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir and instruments",
+      "title": "Till svenska fosterjorden. Folkvisa (\"Du gamla, du fria\") [To the Swedish native soil. Folk song ('Thou old, Thou free'); the same lyrics can also be found in the national anthem of Sweden]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6244-Till_svenska_fosterjorden_Folkvisa_Du_gamla_du_fria_To_the_Swedish_nat",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir with solo voice(s)",
+      "title": "Källan [The spring (fountain)], [Composer: Wilhelm Lagercrantz (1825-1886)]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6249-Kallan_The_spring_fountain_Composer_Wilhelm_Lagercrantz_1825-1886",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir with solo voice(s)",
+      "title": "Till svenska fosterjorden. Folkvisa (\"Du gamla, du fria\") [To the Swedish native soil. Folk song ('Thou old, Thou free'); the same lyrics can also be found in the national anthem of Sweden]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6243-Till_svenska_fosterjorden_Folkvisa_Du_gamla_du_fria_To_the_Swedish_nat",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir with solo voice(s) and instrument",
+      "title": "Kantat vid Hernösands [sic] Högre Allmänna Läroverks 250-års Minnesfest den 27 oktober 1899 [Cantata on the occasion of the Härnösand Högre Allmänna Läroverk's 250th anniversary celebrations on 27 October, 1899], [composer: Fredrik Janson, 1865-1931]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W5451-Kantat_vid_Hernosands_sic_Hogre_Allmanna_Laroverks_250-ars_Minnesfest",
+      "has_published_edition": false
+    },
+    {
+      "category": "Mixed choir with solo voice(s) and instrument",
+      "title": "Åskvädret [tonsättare: A E Lönnquist] [The thunderstorm; composed by A. E. Lönnquist]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6480-Askvadret_tonsattare_A_E_Lonnquist_The_thunderstorm_composed_by_A_E_Lo",
+      "has_published_edition": false
+    },
+    {
+      "category": "Male choir a cappella",
+      "title": "Skön jungfru, [composer: Harald Strömfelt]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W5453-Skon_jungfru_composer_Harald_Stromfelt",
+      "has_published_edition": false
+    },
+    {
+      "category": "Male choir and instruments",
+      "title": "Jordens Lethe (\"När til en blygd\") from Svenska sånger 1790-1810 [Swedish songs 1780-1810 by several composers] (from Musikaliskt Tidsfördrif, Glada Qväden och Skaldestycken satte i musik)",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6594-Jordens_Lethe_Nar_til_en_blygd_from_Svenska_sanger_1790-1810_Swedish_s",
+      "has_published_edition": true
+    },
+    {
+      "category": "Children's choir a cappella",
+      "title": "Kompt her ir lieben brüderlein",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W2023-Kompt_her_ir_lieben_bruderlein",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "\"En ärlig man dricker utan farhåga\" from Svenska sånger 1790-1810 [Swedish songs 1780-1810 by several composers] (from Musikaliskt Tidsfördrif, Glada Qväden och Skaldestycken satte i musik)",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6597-En_arlig_man_dricker_utan_farhaga_from_Svenska_sanger_1790-1810_Swedis",
+      "has_published_edition": true
+    },
+    {
+      "category": "Voice and piano",
+      "title": "”I stillhet gömd” from Svenska sånger 1790-1810 [Swedish songs 1780-1810 by several composers] (from Musikaliskt Tidsfördrif, Glada Qväden och Skaldestycken satte i musik)",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6592-I_stillhet_gomd_from_Svenska_sanger_1790-1810_Swedish_songs_1780-1810",
+      "has_published_edition": true
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Fyra visor med piano [tonsättare: Uno Troili] [Four songs with piano, composed by Uno Troili]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6530-Fyra_visor_med_piano_tonsattare_Uno_Troili_Four_songs_with_piano_compo",
+      "has_published_edition": false
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Hymn öfver Menniskjans Odödlighet [Hymn on man's immortality] (\"Hvi gråter du, min vän\") from Svenska sånger 1790-1810 [Swedish songs 1780-1810 by several composers] (from Musikaliskt Tidsfördrif, Glada Qväden och Skaldestycken satte i musik)",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6655-Hymn_ofver_Menniskjans_Ododlighet_Hymn_on_mans_immortality_Hvi_grater",
+      "has_published_edition": true
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Häldre hissa än stryka [Rather hoist than haul down (the flag)] (\"Gif ackt när flaggen\") from Svenska sånger 1790-1810 [Swedish songs 1780-1810 by several composers] (from Musikaliskt Tidsfördrif, Glada Qväden och Skaldestycken satte i musik)",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6601-Haldre_hissa_an_stryka_Rather_hoist_than_haul_down_the_flag_Gif_ackt_n",
+      "has_published_edition": true
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Min salig man [My dearly departed husband] (\"Cornelius lik sin hela ätt\") by Trasten ['The Thrush', an unidentified composer] from Svenska sånger 1790-1810 [Swedish songs 1780-1810 by several composers] (from Musikaliskt Tidsfördrif, Glada Qväden och Skaldestycken satte i musik)",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6629-Min_salig_man_My_dearly_departed_husband_Cornelius_lik_sin_hela_att_by",
+      "has_published_edition": true
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Spelaren [The Player] (\"Det var en gång en Spelare\") from Svenska sånger 1790-1810 [Swedish songs 1780-1810 by several composers] (from Musikaliskt Tidsfördrif, Glada Qväden och Skaldestycken satte i musik)",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6598-Spelaren_The_Player_Det_var_en_gang_en_Spelare_from_Svenska_sanger_179",
+      "has_published_edition": true
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Sång den 21 augusti 1810 [Song on 21st August, 1810] (\"Vid ljuset af ett nytändt hopp\") from Svenska sånger 1790-1810 [Swedish songs 1780-1810 by several composers] (from Musikaliskt Tidsfördrif, Glada Qväden och Skaldestycken satte i musik)",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6682-Sang_den_21_augusti_1810_Song_on_21st_August_1810_Vid_ljuset_af_ett_ny",
+      "has_published_edition": true
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Til [sic; Till] Salla [To Salla] (\"Nej, Passionen är den sanna styrkan\") by Wallerius [unidentified, possibly identical to the lyricist] from Svenska sånger 1790-1810 [Swedish songs 1780-1810 by several composers] (from Musikaliskt Tidsfördrif, Glada Qväden och Skaldestycken satte i musik)",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6658-Til_sic_Till_Salla_To_Salla_Nej_Passionen_ar_den_sanna_styrkan_by_Wall",
+      "has_published_edition": true
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Visa [Song] (\"Jag är en man som har så vida tågat\") from Svenska sånger 1790-1810 [Swedish songs 1780-1810 by several composers] (from Musikaliskt Tidsfördrif, Glada Qväden och Skaldestycken satte i musik)",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6636-Visa_Song_Jag_ar_en_man_som_har_sa_vida_tagat_from_Svenska_sanger_1790",
+      "has_published_edition": true
+    },
+    {
+      "category": "Voice and piano",
+      "title": "Wisa [Song] (”Till nöjet alla hjertan”) from Svenska sånger 1790-1810 [Swedish songs 1780-1810 by several composers] (from Musikaliskt Tidsfördrif, Glada Qväden och Skaldestycken satte i musik)",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6593-Wisa_Song_Till_nojet_alla_hjertan_from_Svenska_sanger_1790-1810_Swedis",
+      "has_published_edition": true
+    },
+    {
+      "category": "Voices and piano",
+      "title": "\"Ljudet kan väl aldrig hinna\" [male trio] from Svenska sånger 1790-1810 [Swedish songs 1780-1810 by several composers] (from Musikaliskt Tidsfördrif, Glada Qväden och Skaldestycken satte i musik)",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6591-Ljudet_kan_val_aldrig_hinna_male_trio_from_Svenska_sanger_1790-1810_Sw",
+      "has_published_edition": true
+    },
+    {
+      "category": "Piano",
+      "title": "Elvira. Mazurca [composed by A. E. Lönnquist]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6483-Elvira_Mazurca_composed_by_A_E_Lonnquist",
+      "has_published_edition": false
+    },
+    {
+      "category": "Piano",
+      "title": "Fantasistycken, häfte 1 [tonsättare: Uno Troili] [Fantansy pieces (composed by Uno Troili), book 1]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6528-Fantasistycken_hafte_1_tonsattare_Uno_Troili_Fantansy_pieces_composed",
+      "has_published_edition": false
+    },
+    {
+      "category": "Piano",
+      "title": "Fantasistycken, häfte 2 [tonsättare: Uno Troili] [Fantansy pieces (composed by Uno Troili), book 2]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6529-Fantasistycken_hafte_2_tonsattare_Uno_Troili_Fantansy_pieces_composed",
+      "has_published_edition": false
+    },
+    {
+      "category": "Piano",
+      "title": "Lied ohne Worte [composed by A. E. Lönnquist]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6484-Lied_ohne_Worte_composed_by_A_E_Lonnquist",
+      "has_published_edition": false
+    },
+    {
+      "category": "Piano",
+      "title": "Toccata för Pianoforte [Toccata for the pianoforte]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6552-Toccata_for_Pianoforte_Toccata_for_the_pianoforte",
+      "has_published_edition": false
+    },
+    {
+      "category": "Piano 4 hands",
+      "title": "Carolina. Vals [Carolina. Waltz; composed by A. E. Lönnquist]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6481-Carolina_Vals_Carolina_Waltz_composed_by_A_E_Lonnquist",
+      "has_published_edition": false
+    },
+    {
+      "category": "Piano 4 hands",
+      "title": "Chasse de Lièvre [composed by A. E. Lönnquist]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6482-Chasse_de_Lievre_composed_by_A_E_Lonnquist",
+      "has_published_edition": false
+    },
+    {
+      "category": "Piano 4 hands",
+      "title": "Skapskytte Marsche [approx. March of/for marksmen; composed by A. E. Lönnquist]]",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/anonym-anonym/SMH-W6485-Skapskytte_Marsche_approx_March_offor_marksmen_composed_by_A_E_Lonnqui",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "anonym-anonym"
+}

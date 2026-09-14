@@ -1,0 +1,50 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/blom-oscar/",
+  "title": "Oscar Blom (1877−1930)",
+  "name": "Oscar Blom",
+  "years": "1877−1930",
+  "description": "Oscar Blom was born on 26 February 1877 in Sunne and died on 19 July 1930 in Stockholm. He was the organist at Hedvig Eleonora Church in Stockholm from 1907 until 1929. In 1912 he began teaching at Richard Andersson’s Music School. Blom composed primarily choral music, but he also wrote solo songs and organ pieces. He was a member of the 1916 committee for the reform of the Swedish chorale book",
+  "birth": {
+    "place": "Sunne",
+    "date": "26 February 1877",
+    "raw": "born on 26 February 1877 in Sunne and died"
+  },
+  "death": {
+    "place": "Stockholm",
+    "date": "19 July 1930",
+    "raw": "died on 19 July 1930 in Stockholm."
+  },
+  "biography": "Life Oscar Ludvig Blom studied music privately under Carl Lundell, organist and music teacher at the Blindinstitutet (Institute for the Blind). He then continued studies at the Royal Conservatory of Music in Stockholm, where he graduated as an organist in 1897, precentor in 1898 and music teacher in 1898. Alongside, or perhaps after his studies at the Conservatory, he purportedly studied counterpoint with Johan Lindegren, who was the main subject of an extended biographical article that Blom later published. No information exists regarding his activities during the years directly following his graduation from the Conservatory. Blom received the National Composer’s Award in the years 1906 and 1908−10. In 1907 he was elected organist at Hedvig Eleonora Church, after vying against other esteemed organists such as Otto Olsson. In 1912 he began teaching at Richard Andersson’s Music School. In 1915 he became an associate member of the Kungliga Musikaliska akademien (the Royal Swedish Academy of Music) and the following year he was appointed as a member of the committee assigned to draft a new chorale book and other liturgical books for the Church of Sweden. In 1929 he resigned from his church music duties due to illness, and died the following year. Works Oscar Blom’s greatest achievements as a composer were within the field of vocal music, with an emphasis on sacred choral music. 37 of his motets were included in the Förslag till Hymnarium för Svenska kyrkan (the 1914 proposal for a hymnary for the choirs of the Church of Sweden), including 10 which for unknown reasons were published under the pseudonym Ludvig Olofsson. The musical style of his motets is to a certain extent coloured by church modes, and there are a number of fugues, but also figured homophonic pieces. He also composed seven hymns for the 1921 chorale book in addition to a melody in more ‘free church’ style for the musical edition of the Swedish Baptist Union’s hymnal Psalmisten . His compositions also include a significant number of solo songs with lyrics by poets such as Erik Johan Stagnelius, Zacharias Topelius and Erik Axel Karlfeldt. Blom’s main profession as an organist is reflected in a couple of larger organ works together with a few smaller pieces, which were published in the great French collection of organ music Maîtres contemporains de l’orgue . During his youth he composed extensively for the piano, including one sonata and three ‘sonata-fantasies’, but his instrumental works are otherwise relatively few: three single movement orchestral works (one of which is an adaptation of his Piano Sonata) and several compositions for violin and piano. One of Blom’s choral motets, ‘ Det höstliga kornet’ , has been recorded on CD with Gösta Ohlin’s Vocal Ensemble. Otherwise, most of his music is largely unknown today. With the exception of several of his organ works, choral hymns, and church melodies − which are included in several collections (of which a few choral songs were printed separately) − his music remains unpublished. Sverker Jullander © 2015 Trans. Thalia Thunander",
+  "publications": "‘Johan Lindegren: hans liv och verksamhet’, Kyrkomusik och skolsång: facktidning för kyrkomusici och sånglärare, nos 24 and 25, 1910.",
+  "bibliography": "Åberg, Jan Håkan : ‘Blom, Oscar’, in: Sohlmans musiklexikon, vol. 1, Stockholm: Sohlmans förlag, 1948 (identical article in the 2 nd ed. vol. 1, 1975). Åhlén, David : ‘In Memoriam’, Tidskrift för kyrkomusik och svenskt gudstjänstliv, vol. 5, no. 7, 1930.",
+  "sources": "Musik- och teaterbiblitoteket.",
+  "links": [],
+  "works_summary": "Orchestral works (Symphony, Adagio, Overture), vocal works with orchestra (David’s Psalm 104, Lindali), chamber music (violin sonata etc.), piano music (Sonata, three sonata-fantasies, Bellmaniana Suite, 15 fugues, preludes), organ music (two fantasies, etc.), solo songs (Fridolin’s Songs etc.), sacred choral works and motets.",
+  "works": [
+    {
+      "category": "Mixed choir a cappella",
+      "title": "All den helga kristenhet",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/blom-oscar/SMH-W5047-All_den_helga_kristenhet",
+      "has_published_edition": true
+    },
+    {
+      "category": "Organ",
+      "title": "Fantasy in E-flat major",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/blom-oscar/SMH-W540-Fantasy_in_E-flat_major",
+      "has_published_edition": false
+    },
+    {
+      "category": "Organ",
+      "title": "Suite opus 15",
+      "opus": "15",
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/blom-oscar/SMH-W539-Suite",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "blom-oscar"
+}

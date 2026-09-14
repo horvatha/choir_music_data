@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/braunstein-carl-fredrik/",
+  "title": "Carl Fredrik Braunstein (1792-1845)",
+  "name": "Carl Fredrik Braunstein",
+  "years": "1792-1845",
+  "description": "Född i Danmark, troligen den 13 maj 1792 (även 1791 respektive 1793 förekommer dock i vissa källor). Avliden i Maria Magdalena församling, Stockholm, den 10 juni 1845. Nämnd i Carl Nissers Svensk Instrumentalkomposition 1770-1830, Nominalkatalog, Stockholm 1943.",
+  "birth": {
+    "place": "Danmark, troligen",
+    "date": "13 maj 1792",
+    "raw": "Född i Danmark, troligen den 13 maj 1792"
+  },
+  "death": {
+    "place": "Maria Magdalena församling, Stockholm,",
+    "date": "10 juni 1845",
+    "raw": "Avliden i Maria Magdalena församling, Stockholm, den 10 juni 1845"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": null,
+  "sources": null,
+  "links": [],
+  "works_summary": "Försv. Prolog i anledning af H.K.H. Kronprinsens namnsdag Thema med variationer för oboe och orkester",
+  "works": [],
+  "slug": "braunstein-carl-fredrik"
+}

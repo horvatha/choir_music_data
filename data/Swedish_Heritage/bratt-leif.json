@@ -1,0 +1,34 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/bratt-leif/",
+  "title": "Leif Bratt (1897-1971)",
+  "name": "Leif Bratt",
+  "years": "1897-1971",
+  "description": "Leif Göran Bratt, föddes i Domkyrkoförsamlingen, Göteborg, den 30 mars 1897. Avled i samma församling den 16 juni 1971. Tonsättare.",
+  "birth": {
+    "place": "Domkyrkoförsamlingen, Göteborg,",
+    "date": "30 mars 1897",
+    "raw": "föddes i Domkyrkoförsamlingen, Göteborg, den 30 mars 1897"
+  },
+  "death": {
+    "place": "samma församling",
+    "date": "16 juni 1971",
+    "raw": "Avled i samma församling den 16 juni 1971"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "Forslin, Alfhild: Runeberg i musiken. Helsingfors: Svenska litteratursällskapet, s. 334",
+  "sources": null,
+  "links": [],
+  "works_summary": "sånger med piano (bl a 6 intima visor, publicerade av Musikaliska Konstföreningen 1923), mm",
+  "works": [
+    {
+      "category": "Voice and piano",
+      "title": "6 [Six] intimate songs",
+      "opus": null,
+      "ruden_no": null,
+      "url": "https://www.swedishmusicalheritage.com/composers/bratt-leif/SMH-W1184-6_Six_intimate_songs",
+      "has_published_edition": false
+    }
+  ],
+  "slug": "bratt-leif"
+}

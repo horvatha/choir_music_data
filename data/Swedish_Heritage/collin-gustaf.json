@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/collin-gustaf/",
+  "title": "Gustaf Collin (1772-1826)",
+  "name": "Gustaf Collin",
+  "years": "1772-1826",
+  "description": "Lars Gustaf Collin föddes i Storkyrkoförsamlingen (Stockholm) den 24 februari 1772. Avled i samma församling den 30 januari 1826. Sångare, viskompositör. Medlem av Harmoniska sällskapet och Par Bricole, där han var organist. Grosshandlare. LMA",
+  "birth": {
+    "place": "Storkyrkoförsamlingen (Stockholm)",
+    "date": "24 februari 1772",
+    "raw": "föddes i Storkyrkoförsamlingen (Stockholm) den 24 februari 1772"
+  },
+  "death": {
+    "place": "samma församling",
+    "date": "30 januari 1826",
+    "raw": "Avled i samma församling den 30 januari 1826"
+  },
+  "biography": "En av sin tids främsta viskompositörer (enligt Bernhard von Beskow, 1796-1868, som var Svenska Akademiens ständige sekreterare 1834-68). Han var verksam inom sällskapet Par Bricole och innehade åren 1799-1804 förordnandet att som \"Riddare-Cantor och Organist\" utföra orgelspel, som tillhör de högre gradernas ritual, samt sköta den övriga ordensmusikens vokala solopartier. Han sjöng partierna Rafael och Adam, då Haydns Skapelsen spelades för första gången i Sverige, 1801. Collin blev invald i Kungl. Musikaliska akademien den 16 november 1799, som ledamot nr 184.",
+  "publications": null,
+  "bibliography": "Åkerberg, Erik : Musiklifvet inom Par Bricole 1779-1890 . Stockholm (1910) Mörner, C-G Stellan : Johan Wikmanson und die Brüder Silverstolpe. Uppsala (1952) Sohlmans Musiklexikon, band 2, artikeln \"Lars Gustaf Collin\", s. 114 (1975)",
+  "sources": null,
+  "links": [],
+  "works_summary": "Marche utur Gustav Vasa varierad af G. Colllin [för pianoforte] Sånger och visor",
+  "works": [],
+  "slug": "collin-gustaf"
+}

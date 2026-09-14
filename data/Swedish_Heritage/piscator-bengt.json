@@ -1,0 +1,25 @@
+{
+  "composer_url": "https://www.swedishmusicalheritage.com/composers/piscator-bengt/",
+  "title": "Bengt Piscator (1790-1822)",
+  "name": "Bengt Piscator",
+  "years": "1790-1822",
+  "description": "Född i Ekshärads församling (Hagfors) den 11 juni 1790, avliden i Ölme församling (Kristinehamn) den 17 januari 1822. Verksam som musikdirektör och brukinspektor. Nämnd i Carl Nissers Svensk Instrumentalkomposition 1770-1830, Nominalkatalog, Stockholm 1943.",
+  "birth": {
+    "place": "Ekshärads församling (Hagfors)",
+    "date": "11 juni 1790",
+    "raw": "Född i Ekshärads församling (Hagfors) den 11 juni 1790"
+  },
+  "death": {
+    "place": "Ölme församling (Kristinehamn)",
+    "date": "17 januari 1822",
+    "raw": "avliden i Ölme församling (Kristinehamn) den 17 januari 1822"
+  },
+  "biography": "Under uppbyggnad",
+  "publications": null,
+  "bibliography": "Nisser, Carl: Svensk Instrumentalkomposition 1770-1830, Nominalkatalog (1943)",
+  "sources": null,
+  "links": [],
+  "works_summary": "Pianoverk",
+  "works": [],
+  "slug": "piscator-bengt"
+}
