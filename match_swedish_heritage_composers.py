@@ -6,9 +6,10 @@ own composers table, writing a copy of the CSV with two extra columns:
                       else blank (never guessed)
 
 Matching is by normalized name -- accents stripped, case-folded, split
-into a token set so word order doesn't matter -- same approach as
-load_lfze_nagy_elodok.py's normalize_tokens(), reused here rather than
-reinvented. A composer whose Swedish Heritage name doesn't token-match
+into a token set so word order doesn't matter -- adapters/name_matching's
+normalize_tokens(), shared with load_lfze_nagy_elodok.py/
+load_swedish_heritage.py rather than reinvented per script. A composer
+whose Swedish Heritage name doesn't token-match
 any DB name exactly (e.g. a shortened/different name form) is reported
 as not in the DB even if they may actually be there under a different
 spelling -- this is a read-only cross-reference for a human to review,
@@ -29,22 +30,17 @@ Usage:
 import csv
 import re
 import sys
-import unicodedata
 from pathlib import Path
 
 import click
 import psycopg2
 
+from adapters.name_matching import disambiguate_by_year, normalize_tokens
+
 DEFAULT_IN_PATH = Path(__file__).resolve().parent / "data" / "Swedish_Heritage" / "composers_swedish_heritage.csv"
 DEFAULT_OUT_PATH = Path(__file__).resolve().parent / "data" / "Swedish_Heritage" / "composers_swedish_heritage_matched.csv"
 
 YEAR_RE = re.compile(r"\d{4}")
-
-
-def normalize_tokens(name: str) -> frozenset:
-    decomposed = unicodedata.normalize("NFKD", name)
-    stripped = "".join(c for c in decomposed if not unicodedata.combining(c))
-    return frozenset(re.findall(r"[a-z]+", stripped.lower()))
 
 
 def _extract_year(date_str: str) -> int | None:
@@ -81,11 +77,10 @@ def match_row(row: dict, index: dict) -> tuple[bool, str]:
         return True, wikidata_id or ""
 
     row_year = _extract_year(row.get("birth_date", ""))
-    if row_year is not None:
-        year_matches = [c for c in candidates if c[2] is not None and abs(c[2] - row_year) <= 2]
-        if len(year_matches) == 1:
-            _id, wikidata_id, _birth_year = year_matches[0]
-            return True, wikidata_id or ""
+    year_matches = disambiguate_by_year(candidates, row_year, lambda c: c[2])
+    if len(year_matches) == 1:
+        _id, wikidata_id, _birth_year = year_matches[0]
+        return True, wikidata_id or ""
 
     print(f"  ambiguous: {row['name']!r} matches {len(candidates)} DB composers "
           f"(ids {[c[0] for c in candidates]}), not resolved -- wikidata_id left blank", file=sys.stderr)

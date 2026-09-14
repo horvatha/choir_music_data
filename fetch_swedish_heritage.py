@@ -29,6 +29,7 @@ from pathlib import Path
 
 import click
 
+from adapters.date_parsing import DAY_PRECISION_DATE, parse_abbreviated_birth_death
 from adapters.page_fetch import fetch as fetch_bytes
 from adapters.page_fetch import strip_tags
 
@@ -69,7 +70,7 @@ SUMMARY_RE = re.compile(r'<strong style="letter-spacing: 1px;">(.*?)</strong>', 
 #   Swedish:
 #     "fodd i PLACE DATE, dod i PLACE2 DATE2."                   (Kallstenius)
 #     "foddes den DATE (oklart var). Avled i PLACE2 den DATE2."  (Adam -- birth place unknown)
-_DATE = r"\d{1,2}(?:st|nd|rd|th)?\s+[A-Za-z]+\.?,?\s+\d{4}"
+_DATE = DAY_PRECISION_DATE  # shared with adapters/date_parsing.py and fetch_polmic.py
 _SV_DATE = r"\d{1,2}\s+[a-zA-ZåäöÅÄÖ]+\s+\d{4}"
 # Place-capturing groups are restricted to [^.]+? (never crossing a full
 # stop) rather than a bare .+? -- the regex runs against the *whole*
@@ -104,12 +105,11 @@ DIED_SAME_PLACE_RE = re.compile(rf"died there (?:on )?({_DATE})|where (?:he|she|
 DIED_PLACE_DATE_RE = re.compile(rf"(?:deceased|died) (?:at|in) ([^.]+?)\s+(?:on\s+)?({_DATE})")
 DIED_DATE_PLACE_RE = re.compile(rf"died (?:on )?({_DATE}) in ([^.]+?)\.")
 # "b."/"d." abbreviated form (found via Bror Beckman: "b. 10 February
-# 1866 in Kristinehamn, d. 22 July 1929 in Ljungskile."), tried after the
-# full "born"/"died" patterns since it's a less common style.
-# "in PLACE" or ", PLACE" both occur (found via Erik Gustaf Geijer: "b.
-# 12 January 1783, Ransäters Bruk, Värmland, d. 23 April 1847, Stockholm.").
-B_ABBREV_DATE_PLACE_RE = re.compile(r"\bb\.\s+(%s)(?:\s+in\s+|,\s*)([^.,]+)" % _DATE)
-D_ABBREV_DATE_PLACE_RE = re.compile(r"\bd\.\s+(%s)(?:\s+in\s+|,\s*)([^.,]+)" % _DATE)
+# 1866 in Kristinehamn, d. 22 July 1929 in Ljungskile.", "in PLACE" or
+# ", PLACE" both occur -- Erik Gustaf Geijer's entry uses the comma
+# form), tried after the full "born"/"died" patterns since it's a less
+# common style -- shared adapters/date_parsing.parse_abbreviated_birth_
+# death(), since this exact shape recurred verbatim on polmic.pl too.
 # Last-resort, no-place fallbacks -- some entries never name a place at
 # all for one or both events (found via Bengt Wilhelm Hallberg: "was born
 # on 13 May 1824 and died 4 May 1883", no place anywhere in the
@@ -159,9 +159,9 @@ def _parse_birth(summary: str) -> dict:
     m = SV_BORN_DATE_PLACE_RE.search(summary)
     if m:
         return {"place": m.group(2).strip(), "date": m.group(1).strip(), "raw": m.group(0)}
-    m = B_ABBREV_DATE_PLACE_RE.search(summary)
-    if m:
-        return {"place": m.group(2).strip(), "date": m.group(1).strip(), "raw": m.group(0)}
+    abbrev_birth, _abbrev_death = parse_abbreviated_birth_death(summary)
+    if abbrev_birth["date"]:
+        return abbrev_birth
     m = SV_BORN_DATE_ONLY_RE.search(summary)
     if m:
         return {"place": None, "date": m.group(1).strip(), "raw": m.group(0)}
@@ -190,9 +190,9 @@ def _parse_death(summary: str, birth_place: str | None) -> dict:
     m = SV_DIED_DATE_PLACE_RE.search(summary)
     if m:
         return {"place": m.group(2).strip(), "date": m.group(1).strip(), "raw": m.group(0)}
-    m = D_ABBREV_DATE_PLACE_RE.search(summary)
-    if m:
-        return {"place": m.group(2).strip(), "date": m.group(1).strip(), "raw": m.group(0)}
+    _abbrev_birth, abbrev_death = parse_abbreviated_birth_death(summary)
+    if abbrev_death["date"]:
+        return abbrev_death
     m = DIED_DATE_NOPLACE_RE.search(summary)
     if m:
         return {"place": None, "date": m.group(1).strip(), "raw": m.group(0)}

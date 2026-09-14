@@ -3,10 +3,10 @@ match_swedish_heritage_composers.py's composers_swedish_heritage_matched.csv,
 in_the_db=true rows) into other_webpages, linking each to its composer
 row -- same purpose and shape as load_lfze_nagy_elodok.py, but matching
 primarily by wikidata_id (already resolved by the matching script) since
-that's unambiguous, unlike name-token matching. Falls back to the same
-normalized-name-token matching load_lfze_nagy_elodok.py uses only for
-the rare row where the matched DB composer has no wikidata_id of its
-own yet.
+that's unambiguous, unlike name-token matching. Falls back to
+adapters/name_matching's normalize_tokens() (shared with
+load_lfze_nagy_elodok.py) only for the rare row where the matched DB
+composer has no wikidata_id of its own yet.
 
 No new composer rows are created here, and no dates/bio/works content
 is loaded into the DB from Swedish Heritage yet -- this is just the
@@ -24,12 +24,12 @@ Usage:
 """
 import csv
 import json
-import re
-import unicodedata
 from datetime import datetime, timezone
 from pathlib import Path
 
 import psycopg2
+
+from adapters.name_matching import normalize_tokens
 
 MATCHED_CSV = Path(__file__).resolve().parent / "data" / "Swedish_Heritage" / "composers_swedish_heritage_matched.csv"
 JSON_DIR = Path(__file__).resolve().parent / "data" / "Swedish_Heritage"
@@ -44,12 +44,6 @@ INSERT_OTHER_WEBPAGE_SQL = """
         url = EXCLUDED.url, language = EXCLUDED.language, title = EXCLUDED.title,
         author = EXCLUDED.author, fetched_at = EXCLUDED.fetched_at
 """
-
-
-def normalize_tokens(name: str) -> frozenset:
-    decomposed = unicodedata.normalize("NFKD", name)
-    stripped = "".join(c for c in decomposed if not unicodedata.combining(c))
-    return frozenset(re.findall(r"[a-z]+", stripped.lower()))
 
 
 def slug_from_url(url: str) -> str:

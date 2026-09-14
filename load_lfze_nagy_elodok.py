@@ -23,16 +23,16 @@ Usage:
 """
 import csv
 import json
-import re
-import unicodedata
 from datetime import datetime, timezone
 from pathlib import Path
 
 import psycopg2
 
+from adapters.name_matching import disambiguate_by_year, normalize_tokens
+
 CSV_PATH = "composers_lfze_nagy_elodok.csv"
 RELATIONS_PATH = "relations.json"
-LFZE_DIR = Path(__file__).resolve().parent / "lfze"
+LFZE_DIR = Path(__file__).resolve().parent / "data" / "lfze"
 SOURCE = "lfze_nagy_elodok"
 
 FETCH_ALL_COMPOSERS_SQL = "SELECT id, name, birth_year, death_year FROM composers"
@@ -51,16 +51,6 @@ INSERT_ALT_NAME_SQL = """
     ON CONFLICT (composer_id, language) DO NOTHING
 """
 
-# Same-year tolerance as load_composers.py's looks_like_different_person --
-# two sources disagreeing by a year or two on a birth/death date is normal
-# sourcing noise, not evidence of a different person.
-YEAR_TOLERANCE = 2
-
-
-def normalize_tokens(name):
-    decomposed = unicodedata.normalize("NFKD", name)
-    stripped = "".join(c for c in decomposed if not unicodedata.combining(c))
-    return frozenset(re.findall(r"[a-z]+", stripped.lower()))
 
 
 def load_rows():
@@ -84,10 +74,6 @@ def load_rows():
     return rows
 
 
-def year_mismatch(a, b):
-    return a is not None and b is not None and abs(a - b) > YEAR_TOLERANCE
-
-
 def main():
     rows = load_rows()
 
@@ -109,10 +95,13 @@ def main():
                     ambiguous.append((row["name"], candidates))
                     continue
 
-                cid, db_name, db_birth, db_death = candidates[0]
-                if year_mismatch(row["birth_year"], db_birth) or year_mismatch(row["death_year"], db_death):
+                narrowed = disambiguate_by_year(candidates, row["birth_year"], lambda c: c[2])
+                narrowed = disambiguate_by_year(narrowed, row["death_year"], lambda c: c[3])
+                if len(narrowed) != 1:
                     ambiguous.append((row["name"], candidates))
                     continue
+
+                cid, db_name, db_birth, db_death = narrowed[0]
 
                 cur.execute(INSERT_OTHER_WEBPAGE_SQL, {
                     "composer_id": cid, "source": SOURCE, "url": row["url"],
