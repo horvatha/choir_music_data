@@ -48,6 +48,12 @@ TRANSLATIONS = {
     "Bahamian": {"hu": "bahamai", "es": "bahameño", "fr": "bahaméen", "de": "bahamaisch", "cs": "bahamský", "uk": "багамський", "it": "bahamense", "hr": "bahamski", "pl": "bahamski", "ru": "багамский", "nl": "Bahamaans"},
     "Bahraini": {"hu": "bahreini", "es": "bareiní", "fr": "bahreïnien", "de": "bahrainisch", "cs": "bahrajnský", "uk": "бахрейнський", "it": "bahreinita", "hr": "bahreinski", "pl": "bahrajński", "ru": "бахрейнский", "nl": "Bahreins"},
     "Bangladeshi": {"hu": "bangladesi", "es": "bangladesí", "fr": "bangladais", "de": "bangladeschisch", "cs": "bangladéšský", "uk": "бангладеський", "it": "bangladese", "hr": "bangladeški", "pl": "bangladeski", "ru": "бангладешский", "nl": "Bengalees"},
+    # Basque is a distinct ethnicity (its own language isolate, Euskara,
+    # unrelated to Spanish/French) spanning the Spain/France border --
+    # composers get this tag alongside their existing Spanish/French
+    # citizenship tag, not instead of it, same pattern as Sorbian below
+    # and the Kosovar+Albanian split.
+    "Basque": {"hu": "baszk", "es": "vasco", "fr": "basque", "de": "baskisch", "cs": "baskický", "uk": "баскський", "it": "basco", "hr": "baskijski", "pl": "baskijski", "ru": "баскский", "nl": "Baskisch"},
     "Belarusian": {"hu": "belarusz", "es": "bielorruso", "fr": "biélorusse", "de": "belarussisch", "cs": "běloruský", "uk": "білоруський", "it": "bielorusso", "hr": "bjeloruski", "pl": "białoruski", "ru": "белорусский", "nl": "Wit-Russisch"},
     "Belgian": {"hu": "belga", "es": "belga", "fr": "belge", "de": "belgisch", "cs": "belgický", "uk": "бельгійський", "it": "belga", "hr": "belgijski", "pl": "belgijski", "ru": "бельгийский", "nl": "Belgisch"},
     "Belizean": {"hu": "belize-i", "es": "beliceño", "fr": "bélizien", "de": "belizisch", "cs": "belizský", "uk": "белізький", "it": "beliziano", "hr": "belizeanski", "pl": "belizeński", "ru": "белизский", "nl": "Belizaans"},
@@ -138,10 +144,28 @@ TRANSLATIONS = {
     "Romanian": {"hu": "román", "es": "rumano", "fr": "roumain", "de": "rumänisch", "cs": "rumunský", "uk": "румунський", "it": "rumeno", "hr": "rumunjski", "pl": "rumuński", "ru": "румынский", "nl": "Roemeens"},
     "Russian": {"hu": "orosz", "es": "ruso", "fr": "russe", "de": "russisch", "cs": "ruský", "uk": "російський", "it": "russo", "hr": "ruski", "pl": "rosyjski", "ru": "русский", "nl": "Russisch"},
     "Salvadoran": {"hu": "salvadori", "es": "salvadoreño", "fr": "salvadorien", "de": "salvadorianisch", "cs": "salvadorský", "uk": "сальвадорський", "it": "salvadoregno", "hr": "salvadorski", "pl": "salwadorski", "ru": "сальвадорский", "nl": "Salvadoraans"},
+    # Sami (indigenous people of northern Scandinavia/Kola Peninsula) is a
+    # distinct, living ethnicity spanning the Norway/Sweden/Finland/Russia
+    # border, no sovereign state of its own -- ethnicity only, like Basque
+    # and Sorbian. hr/pl verified against those languages' own Wikipedia:
+    # both use the older "Lapp"-root exonym (laponski/lapoński) rather
+    # than a Sami-root word, unlike every other language here -- would
+    # have been guessed wrong by pattern-matching from hu/de.
+    "Sami": {"hu": "számi", "es": "sami", "fr": "same", "de": "samisch", "cs": "sámský", "uk": "саамський", "it": "sami", "hr": "laponski", "pl": "lapoński", "ru": "саамский", "nl": "Samisch"},
     "Scottish": {"hu": "skót", "es": "escocés", "fr": "écossais", "de": "schottisch", "cs": "skotský", "uk": "шотландський", "it": "scozzese", "hr": "škotski", "pl": "szkocki", "ru": "шотландский", "nl": "Schots"},
     "Serbian": {"hu": "szerb", "es": "serbio", "fr": "serbe", "de": "serbisch", "cs": "srbský", "uk": "сербський", "it": "serbo", "hr": "srpski", "pl": "serbski", "ru": "сербский", "nl": "Servisch"},
     "Slovak": {"hu": "szlovák", "es": "eslovaco", "fr": "slovaque", "de": "slowakisch", "cs": "slovenský", "uk": "словацький", "it": "slovacco", "hr": "slovački", "pl": "słowacki", "ru": "словацкий", "nl": "Slowaaks"},
     "Slovenian": {"hu": "szlovén", "es": "esloveno", "fr": "slovène", "de": "slowenisch", "cs": "slovinský", "uk": "словенський", "it": "sloveno", "hr": "slovenski", "pl": "słoweński", "ru": "словенский", "nl": "Sloveens"},
+    # Sorbian (Lusatian Sorbs) is an ethnic minority within Germany, not a
+    # civic nationality (see Jan Bilk/id 9289, Carolina Eyck/id 6124 -- both
+    # sourced as "sorbisch"/"deutsch-sorbisch" on their own de.wikipedia
+    # articles). cs/uk/pl/ru all deliberately use the "serbo-/lužicko-srb-"
+    # compound form rather than the bare "lužický"/"łużycki" root -- the
+    # bare root is also used for the unrelated Bronze Age "Lusatian culture"
+    # archaeological complex in those languages (verified against each
+    # language's own Wikipedia usage, same convention as the Franco-Flemish
+    # entries above), so the compound form is the unambiguous choice.
+    "Sorbian": {"hu": "szorb", "es": "sorbio", "fr": "sorabe", "de": "sorbisch", "cs": "lužickosrbský", "uk": "серболужицький", "it": "sorabo", "hr": "lužičkosrpski", "pl": "serbołużycki", "ru": "серболужицкий", "nl": "Sorbisch"},
     "South African": {"hu": "dél-afrikai", "es": "sudafricano", "fr": "sud-africain", "de": "südafrikanisch", "cs": "jihoafrický", "uk": "південноафриканський", "it": "sudafricano", "hr": "južnoafrički", "pl": "południowoafrykański", "ru": "южноафриканский", "nl": "Zuid-Afrikaans"},
     "South Korean": {"hu": "dél-koreai", "es": "surcoreano", "fr": "sud-coréen", "de": "südkoreanisch", "cs": "jihokorejský", "uk": "південнокорейський", "it": "sudcoreano", "hr": "južnokorejski", "pl": "południowokoreański", "ru": "южнокорейский", "nl": "Zuid-Koreaans"},
     "Soviet": {"hu": "szovjet", "es": "soviético", "fr": "soviétique", "de": "sowjetisch", "cs": "sovětský", "uk": "радянський", "it": "sovietico", "hr": "sovjetski", "pl": "radziecki", "ru": "советский", "nl": "Sovjet"},
