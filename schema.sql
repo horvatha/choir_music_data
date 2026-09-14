@@ -289,6 +289,17 @@ CREATE TABLE composers (
     -- the sourcing argument, not just the fact that a choice was made.
     birth_year_verified      BOOLEAN NOT NULL DEFAULT FALSE,
     birth_year_verified_note TEXT,
+    -- A single sortable year for ORDER BY / display, populated for every
+    -- composer where domain/dates.py's estimate_year() can derive one
+    -- (birth_year itself when set -- exact or the lower end of a range
+    -- alike -- else parsed from birth_raw). NULL only when there is
+    -- genuinely nothing to go on (no birth_year, no birth_raw); left
+    -- NULL rather than guessed from an unrelated proxy like flourish_*
+    -- or death_year -- see review_scripts/review_missing_birth_years.py
+    -- for the manual pass over those. backfill_approximate_birth_year.py
+    -- regenerates this column from scratch on every run, so it's never
+    -- hand-patched except via that review script.
+    approximate_birth_year   INTEGER,
 
     death_raw         TEXT,
     death_year        INTEGER,
