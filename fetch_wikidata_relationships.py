@@ -221,22 +221,51 @@ def extract_attributes(entity):
 IMAGE_PROP = "P18"
 
 
+IMAGE_THUMB_WIDTH = 100
+IMAGE_FULL_WIDTH = 2000
+
+# Formats every mainstream browser renders inline unchanged -- for these,
+# "full" links straight at Special:FilePath's own redirect to the true
+# original file (no downscaling at all). Anything else (TIFF, PDF, DjVu,
+# XCF, ...) is a real, if uncommon, case on Commons -- found via Franz
+# Hummel's portrait, a bare .tif, which browsers can't display inline at
+# all (an automatic download or a blank tab instead of the expected
+# image), while the *thumbnail* URL worked fine, since Commons' own
+# thumbnailer always converts to a raster format regardless of source.
+# For those, "full" gets a width parameter too (large enough that
+# downscaling is essentially never the limiting factor for a composer
+# portrait), forcing the same safe conversion "small" already gets.
+WEB_SAFE_IMAGE_EXTENSIONS = {"jpg", "jpeg", "png", "gif", "webp"}
+
+
 def extract_image(entity):
-    """{"image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ludwig%20van%20Beethoven.jpg"}
-    -- P18 (image) is a Commons media filename, a plain string
-    datavalue, not an entity reference like every ATTRIBUTE_PROPS entry
-    -- can't go through _extract_props (which expects value["id"]), same
-    "different claim shape, keep it separate" reasoning as
-    extract_dates() above. Preferred-rank claim wins when there's more
-    than one, same tiebreak as extract_dates().
+    """{"images": [{"url": ..., "thumb_url": ..., "is_preferred": bool}, ...]}
+    -- P18 (image) is a Commons media filename, a plain string datavalue,
+    not an entity reference like every ATTRIBUTE_PROPS entry -- can't go
+    through _extract_props (which expects value["id"]), same "different
+    claim shape, keep it separate" reasoning as extract_dates() above.
+
+    A composer can have more than one P18 claim (different-era photos, a
+    portrait vs. a statue, ...) -- every non-deprecated one is kept, not
+    just a single "winner", so load_composer_wikidata_images.py can store
+    them all (2026-08-28 plan: at most one is_preferred=TRUE per composer,
+    zero is fine, "good enough for now" -- deferred edge case). is_preferred
+    mirrors the claim's own Wikidata rank; if Wikidata inconsistently
+    marks more than one claim preferred for the same composer (a genuine
+    upstream data problem, not something to silently paper over further
+    than this), only the first one encountered keeps it.
 
     Special:FilePath redirects to the actual file (302, to whichever of
     Commons' MD5-hashed upload.wikimedia.org paths it currently lives
     at) without this repo needing to compute that hash itself, and works
-    unchanged for a thumbnail too (append e.g. "?width=300"). Stores the
-    URL, not the bytes -- downloading is a separate, later step."""
+    unchanged for a thumbnail too (the "?width=" query param) -- both
+    URLs derived from the same one P18 filename, no separate claim
+    needed for "small". Stores URLs, not bytes -- downloading is a
+    separate, later step, and not part of this pass at all (composer
+    detail pages don't render these yet)."""
     claims = entity.get("claims", {})
-    candidates = []
+    images = []
+    seen_preferred = False
     for c in claims.get(IMAGE_PROP, []):
         if not _not_deprecated(c):
             continue
@@ -244,14 +273,16 @@ def extract_image(entity):
         if datavalue.get("type") != "string":
             continue
         filename = datavalue.get("value")
-        if filename:
-            candidates.append((c.get("rank") == "preferred", filename))
-    if not candidates:
-        return {}
-    candidates.sort(key=lambda pair: not pair[0])
-    filename = candidates[0][1]
-    url = "https://commons.wikimedia.org/wiki/Special:FilePath/" + urllib.parse.quote(filename)
-    return {"image_url": url}
+        if not filename:
+            continue
+        is_preferred = c.get("rank") == "preferred" and not seen_preferred
+        seen_preferred = seen_preferred or is_preferred
+        encoded = urllib.parse.quote(filename)
+        base = "https://commons.wikimedia.org/wiki/Special:FilePath/" + encoded
+        extension = filename.rsplit(".", 1)[-1].lower() if "." in filename else ""
+        full_url = base if extension in WEB_SAFE_IMAGE_EXTENSIONS else f"{base}?width={IMAGE_FULL_WIDTH}"
+        images.append({"url": full_url, "thumb_url": f"{base}?width={IMAGE_THUMB_WIDTH}", "is_preferred": is_preferred})
+    return {"images": images} if images else {}
 
 
 DATE_PROPS = {"P569": "birth", "P570": "death"}

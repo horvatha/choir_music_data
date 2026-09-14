@@ -1,3 +1,4 @@
+DROP TABLE IF EXISTS composer_wikidata_images;
 DROP TABLE IF EXISTS images_composers;
 DROP TABLE IF EXISTS images;
 DROP TABLE IF EXISTS work_genres;
@@ -461,6 +462,24 @@ CREATE TABLE images_composers (
     image_id    INTEGER NOT NULL REFERENCES images(image_id) ON DELETE CASCADE,
     PRIMARY KEY (composer_id, image_id)
 );
+
+-- Composer image URLs sourced directly from Wikidata's P18 claims --
+-- points at Wikimedia Commons via Special:FilePath (see
+-- fetch_wikidata_relationships.py's extract_image()), not locally hosted
+-- like images/images_composers above. URLs only, no downloaded bytes, and
+-- not yet rendered anywhere -- 2026-08-28 plan is data collection first,
+-- display later. A composer can have more than one P18 claim; is_preferred
+-- mirrors that claim's own Wikidata rank -- at most one TRUE per composer
+-- (enforced below), zero is fine (no claim marked preferred).
+CREATE TABLE composer_wikidata_images (
+    id           SERIAL PRIMARY KEY,
+    composer_id  INTEGER NOT NULL REFERENCES composers(id) ON DELETE CASCADE,
+    full_url     TEXT NOT NULL,
+    thumb_url    TEXT NOT NULL,
+    is_preferred BOOLEAN NOT NULL DEFAULT FALSE
+);
+CREATE UNIQUE INDEX composer_wikidata_images_one_preferred
+    ON composer_wikidata_images (composer_id) WHERE is_preferred;
 
 -- wikidata_id is nullable: instruments can be added by hand (or found via a
 -- source with no Wikidata mapping) without a QID, unlike composers.wikidata_id
