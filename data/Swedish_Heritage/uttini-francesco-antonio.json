@@ -5,9 +5,9 @@
   "years": "1723−1795",
   "description": "Francesco Antonio Baldassare Uttini, born in Bologna 1723 and died in Stockholm 25 October 1795, was a composer and conductor active in Sweden from 1755. He was summoned to Stockholm by Queen Lovisa Ulrika to compose and perform Italian opera seria at the court. He composed four operas for the newly built Drottningholm palace theatre. Uttini was appointed chief conductor of the Royal Court Orchestra in 1767. Commissioned by King Gustav III to compose the first ever opera in Swedish, Thetis och Pelée (1772).",
   "birth": {
-    "place": "Bologna 1723 and died in Stockholm",
-    "date": "25 October 1795",
-    "raw": "born in Bologna 1723 and died in Stockholm 25 October 1795"
+    "place": null,
+    "date": null,
+    "raw": null
   },
   "death": {
     "place": "Stockholm",

@@ -5,9 +5,9 @@
   "years": "1694−1765",
   "description": "Hinrich (Heinrich) Christoph Engelhardt, born in 1694 in Karlskrona and died on 5 April 1765 in Uppsala, was the cathedral organist in Uppsala and director musices at the university for 35 years. He was recognised as a skilled musician, but had many conflicts with the outside world, especially within academia. His era was characterised by a certain amount of modernisation but also, at times, a dismantling of the music scene. His vocal compositions, most of which were likely written for use in Uppsala Cathedral, demonstrate both a simple North German and a more Italian-influenced style.",
   "birth": {
-    "place": "1694 in Karlskrona and died",
-    "date": "5 April 1765",
-    "raw": "born in 1694 in Karlskrona and died on 5 April 1765"
+    "place": null,
+    "date": null,
+    "raw": null
   },
   "death": {
     "place": "Uppsala, was the cathedral organist in Uppsala and director musices at the university for 35 years",

@@ -5,9 +5,9 @@
   "years": "1691-1765",
   "description": "Conrad Friedrich Hurlebusch was born in Brunswick, Northern Germany in 1691 (baptised 30 December) and died in Amsterdam 17 December 1765. He became a preeminent cembalist and organist after having been tutored by his father, Heinrich Lorenz Hurlebusch. After long tours in Europe he was active in Germany, but was invited to come to Stockholm by King Frederick I in 1723. He composed two cantatas during his time in Sweden from 1723−25 and thereafter returned to Germany until 1742, when he settled in Amsterdam where he was hired as an organist.",
   "birth": {
-    "place": "Brunswick, Northern Germany in 1691 (baptised 30 December) and died in Amsterdam",
-    "date": "17 December 1765",
-    "raw": "born in Brunswick, Northern Germany in 1691 (baptised 30 December) and died in Amsterdam 17 December 1765"
+    "place": null,
+    "date": null,
+    "raw": null
   },
   "death": {
     "place": "Amsterdam",

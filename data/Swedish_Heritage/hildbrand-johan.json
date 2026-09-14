@@ -5,9 +5,9 @@
   "years": "1614-1684",
   "description": "Johann Hildebrand, även Hildebrandt, född i Pretzsch an der Elbe i Juni 1614, död i Eilenburg 5 juli 1684. Tysk tonsättare, organist och poet.",
   "birth": {
-    "place": "Pretzsch an der Elbe i Juni 1614, död i Eilenburg",
-    "date": "5 juli 1684",
-    "raw": "född i Pretzsch an der Elbe i Juni 1614, död i Eilenburg 5 juli 1684"
+    "place": null,
+    "date": null,
+    "raw": null
   },
   "death": {
     "place": "Eilenburg",

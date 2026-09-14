@@ -5,9 +5,9 @@
   "years": "1736−1804",
   "description": "Anders Piscator was born in Ekshärad in 1736 and died in Hammarö on 25 July 1804. He was a lektor (grammar school teacher), director musices and cathedral organist in Karlstad, as well as being vicar and dean of Hammarö. He was a leading figure in Värmland music at that time. He was elected as member of the Royal Swedish Academy of Music in 1800. His musical output is small but includes orchestral works and chamber music.",
   "birth": {
-    "place": "Ekshärad in 1736 and died in Hammarö",
-    "date": "25 July 1804",
-    "raw": "born in Ekshärad in 1736 and died in Hammarö on 25 July 1804"
+    "place": null,
+    "date": null,
+    "raw": null
   },
   "death": {
     "place": "Hammarö",

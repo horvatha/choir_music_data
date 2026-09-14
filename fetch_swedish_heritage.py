@@ -83,7 +83,14 @@ _SV_DATE = r"\d{1,2}\s+[a-zA-ZåäöÅÄÖ]+\s+\d{4}"
 # 4 August 1799 and died there 3 May 1868", no "on" anywhere) -- applied
 # to every place/date pattern below, not just the two spots (Stenhammar,
 # Du Puy) where it was first noticed.
-BORN_PLACE_DATE_RE = re.compile(rf"born (?:in|at) ([^.]+?)\s+(?:on\s+)?({_DATE})")
+# The place capture must not cross a "died" clause -- found via Conrad
+# Friedrich Hurlebusch: "born in Brunswick, Northern Germany in 1691
+# (baptised 30 December) and died in Amsterdam 17 December 1765." His
+# birth is genuinely year-only (no day/month attached to "1691"; "30
+# December" is a baptism date, a different event, with no year of its
+# own nearby), so unguarded this pattern ran straight past "and died in
+# Amsterdam" and matched the DEATH date/place as if they were birth's.
+BORN_PLACE_DATE_RE = re.compile(rf"born (?:in|at) ((?:(?!died|\.).)+?)\s+(?:on\s+)?({_DATE})")
 # Two-tier fallback, tried in this order: PLACE can itself contain a
 # comma (e.g. "Löth parish, Östergötland"), so prefer stopping at " and"
 # (the Agrell shape: "...in PLACE and died...") and only fall back to
@@ -116,7 +123,7 @@ DIED_DATE_NOPLACE_RE = re.compile(rf"died (?:on )?({_DATE})\b")
 # is date-before-place, the Swedish mirror of BORN_DATE_PLACE_* above,
 # never handled; and "därstädes" ("there") is Swedish's same-place-death
 # shape, the mirror of DIED_SAME_PLACE_RE, likewise never handled.
-SV_BORN_PLACE_DATE_RE = re.compile(rf"född(?:es)? i ([^.]+?)(?: den)? ({_SV_DATE})", re.IGNORECASE)
+SV_BORN_PLACE_DATE_RE = re.compile(rf"född(?:es)? i ((?:(?!död|avled|\.).)+?)(?: den)? ({_SV_DATE})", re.IGNORECASE)
 SV_BORN_DATE_PLACE_RE = re.compile(rf"född(?:es)? ({_SV_DATE}) i ([^.,]+)", re.IGNORECASE)
 # "den" before the date is itself optional here too (found via Gustaf
 # III: "född 13 januari 1746 (g.s.), död 29 mars 1792", no "den"

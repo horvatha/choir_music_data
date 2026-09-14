@@ -5,12 +5,12 @@
   "years": "1859−1927",
   "description": "Julius Napoleon Wilhelm Harteveld was born in Stockholm on 5 April 5 1859 and died there on 1 October 1927. He was a composer, conductor, pianist, author and folk song transcriber. He spent over 40 years in Russia, collecting Siberian prison songs and folk songs among other things. In addition, he worked for a time as a musician in Kiev and founded Kiev’s music society. He later composed music for a Moscow cabaret. Harteveld also composed four operas and a musical comedy (the latter based on material collected in Siberia).",
   "birth": {
-    "place": "Stockholm on 5 April 5 1859 and died there",
-    "date": "1 October 1927",
-    "raw": "born in Stockholm on 5 April 5 1859 and died there on 1 October 1927"
+    "place": null,
+    "date": null,
+    "raw": null
   },
   "death": {
-    "place": "Stockholm on 5 April 5 1859 and died there",
+    "place": null,
     "date": "1 October 1927",
     "raw": "died there on 1 October 1927"
   },

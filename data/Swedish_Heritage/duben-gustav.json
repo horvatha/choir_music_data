@@ -5,9 +5,9 @@
   "years": "1628/29−1690",
   "description": "Gustav Düben was born in Stockholm in 1628 or 1629 and died in Stockholm on 19 December 1690. In 1648 he was engaged in the Royal Court Orchestra and in 1663 he was promoted to its chief conductor, when he also received the post as organist at the German Church in Stockholm. The extant works by Gustav Düben include a small number of sacred vocal works with string accompaniment, a few instrumental works and a larger number of strophic arias.",
   "birth": {
-    "place": "Stockholm in 1628 or 1629 and died in Stockholm",
-    "date": "19 December 1690",
-    "raw": "born in Stockholm in 1628 or 1629 and died in Stockholm on 19 December 1690"
+    "place": null,
+    "date": null,
+    "raw": null
   },
   "death": {
     "place": "Stockholm",

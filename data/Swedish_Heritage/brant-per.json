@@ -5,9 +5,9 @@
   "years": "1714−1767",
   "description": "Per Brant was born in Esterna in the region of Roslagen in 1714 and died in Stockholm on 9 August 1767. He was a violinist, chief conductor of the Royal Court Orchestra, a teacher and a composer. After language studies in Uppsala he moved to Stockholm in 1727 where he became involved in the Royal Court Orchestra beginning in 1728. In 1735 he became a regular member, then in 1738 its concertmaster, chief conductor in 1745 and first chief conductor in 1758. He was a Master of Ceremonies in the Free Masons. Brant had a comprehensive music career, primarily as an orchestra leader as well as a music teacher.",
   "birth": {
-    "place": "Esterna in the region of Roslagen in 1714 and died in Stockholm",
-    "date": "9 August 1767",
-    "raw": "born in Esterna in the region of Roslagen in 1714 and died in Stockholm on 9 August 1767"
+    "place": null,
+    "date": null,
+    "raw": null
   },
   "death": {
     "place": "Stockholm",

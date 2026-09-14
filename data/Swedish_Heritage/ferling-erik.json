@@ -5,9 +5,9 @@
   "years": "1733−1808",
   "description": "Eric [Erik] Ferling [Färling], born in 1733 and died in Turku on 20 December 1808, was a violinist, conductor and composer employed by the Royal Court Orchestra beginning in 1761 and was the orchestra’s concertmaster from 1773 until 1790. In 1772 he became the secretary for the instrument division of the educational institution of the Royal Swedish Academy of Music and the following year was elected as a member of the academy. In 1790 he was called to be the conductor of the newly founded Turku Music Society. He held this post until his death in 1808. Works for which he is known include a violin concerto, some dance pieces, as well as one vocal work.",
   "birth": {
-    "place": "1733 and died in Turku",
-    "date": "20 December 1808",
-    "raw": "born in 1733 and died in Turku on 20 December 1808"
+    "place": null,
+    "date": null,
+    "raw": null
   },
   "death": {
     "place": "Turku",

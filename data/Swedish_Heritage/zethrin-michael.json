@@ -5,9 +5,9 @@
   "years": "ca 1660−1731",
   "description": "Musician, poet and schoolmaster Michael Zethrin was probably born in the 1660s in Börje in the province of Uppland, and died on 3 April, 1731 in Stockholm. He was active in Stockholm’s Great Church and in the Royal Court Orchestra and was a productive author of occasional poetry, some of which he probably composed melodies to. He was also a collector and translator of music-historical writings.",
   "birth": {
-    "place": "the 1660s in Börje in the province of Uppland, and died",
-    "date": "3 April, 1731",
-    "raw": "born in the 1660s in Börje in the province of Uppland, and died on 3 April, 1731"
+    "place": null,
+    "date": null,
+    "raw": null
   },
   "death": {
     "place": "Stockholm",
