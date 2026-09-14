@@ -418,6 +418,27 @@ CREATE TABLE composer_nationalities (
     -- load). Not itself a correctness signal -- a need_to_check=TRUE row
     -- may well be right, it just hasn't been verified beyond the raw claim.
     need_to_check   BOOLEAN NOT NULL DEFAULT FALSE,
+    -- Modern citizenship, or its pre-modern equivalent (subjecthood to a
+    -- monarch/prince, or -- loosely -- the closest available box for a
+    -- reigning sovereign, who is strictly neither a citizen nor a subject
+    -- of their own realm) for composers who lived before or outside the
+    -- nation-state citizenship concept. Deliberately one flag, not a
+    -- separate is_subjection column -- distinguishing "real citizenship"
+    -- from "pre-modern subjecthood" would require knowing each historical
+    -- polity's actual constitutional form at that date, which nothing
+    -- downstream renders differently anyway; treat with the same
+    -- skepticism as a bare Wikidata P27 claim on a medieval/early-modern
+    -- subject. See CLAUDE.md's "Nationality vs. ethnicity vs. citizenship".
+    is_citizenship  BOOLEAN NOT NULL DEFAULT TRUE,
+    -- Ancestral/cultural ethnicity, independent of citizenship -- normally
+    -- singular per composer even when citizenship is plural or changes
+    -- over a lifetime (Stravinsky: Russian ethnicity throughout, but
+    -- Russian -> French -> American citizenship in sequence -- see
+    -- CLAUDE.md). Orthogonal to is_origin_only: a birthplace-only tag
+    -- (e.g. Gieseking's French row) can be neither this composer's
+    -- ethnicity nor a real citizenship claim, just an accident of where
+    -- they happened to be born.
+    is_ethnicity    BOOLEAN NOT NULL DEFAULT FALSE,
     PRIMARY KEY (composer_id, nationality_id)
 );
 
