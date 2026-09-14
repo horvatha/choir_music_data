@@ -162,7 +162,7 @@ that links Buda/Pest/Óbuda to Budapest for composer-listing purposes only
 merged into one timeline. `concert_music_app`'s place detail page now
 shows a "Parts that were separate places before" section listing each
 predecessor with its own composers. See the table's comment in
-`schema.sql` / `migrate_place_predecessors.sql`.
+`schema.sql` / `migrations/migrate_place_predecessors.sql`.
 
 ## backfill_wikidata_ids_from_wikilinks.py: extract_years() ignores precision
 

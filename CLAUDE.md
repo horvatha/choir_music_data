@@ -27,7 +27,7 @@ podman run -d --name composers-pg \
 cat schema.sql | podman exec -i composers-pg psql -U composers -d composers
 ```
 
-`schema.sql` starts with `DROP TABLE IF EXISTS ...` — running it wipes and recreates every table. This is the intended workflow for schema changes in this project (rerun the loaders after) rather than hand-written migrations; the `migrate_*.sql` files at the root are one-off historical migrations already applied, not a live migration chain.
+`schema.sql` starts with `DROP TABLE IF EXISTS ...` — running it wipes and recreates every table. This is the intended workflow for schema changes in this project (rerun the loaders after) rather than hand-written migrations; the `migrations/migrate_*.sql` files are one-off historical migrations already applied (each one also folded into `schema.sql` itself), not a live migration chain — nothing replays them automatically, and there's no tracking table of which ones ran.
 
 ### Syncing local dev data to the production server
 
