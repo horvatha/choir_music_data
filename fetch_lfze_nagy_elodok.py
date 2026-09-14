@@ -15,7 +15,7 @@ separately as "uncertain" for a human to check, rather than included
 automatically.
 
 Markdown files (one per person, everyone, not just composers) and pictures
-(composers only) are written into choir_music_data/lfze/, named after the
+(composers only) are written into choir_music_data/data/lfze/, named after the
 page's own URL slug (e.g. bartok-bela-1861.md / .jpg) so text and picture
 pair up 1:1 and match the source page unambiguously. Pictures are fetched at
 their original size, not the "_focuspoint_WxHpx" pre-cropped thumbnail the
@@ -29,42 +29,28 @@ import csv
 import re
 import sys
 import time
-import urllib.error
 import urllib.parse
-import urllib.request
 from pathlib import Path
+
+from adapters.page_fetch import fetch as _fetch_bytes
+from adapters.page_fetch import strip_tags
 
 USER_AGENT = "choir_music_data-lfze-fetch/1.0 (personal research script)"
 INDEX_URL = "https://lfze.hu/nagy-elodok"
 # Confirmed directly against the site's own letter navigation -- no q/x/y.
 LETTERS = list("abcdefghijklmnoprstuvwz")
-LFZE_DIR = Path(__file__).resolve().parent / "lfze"
+LFZE_DIR = Path(__file__).resolve().parent / "data" / "lfze"
 
 LINK_RE = re.compile(r'href="(/nagy-elodok/[a-z0-9-]+)"')
 NAME_RE = re.compile(r"<h1>(.*?)</h1>", re.DOTALL)
 ARTICLE_RE = re.compile(r'<article>(.*?)<div class="facebook-button">', re.DOTALL)
-TAG_RE = re.compile(r"<[^>]+>")
 AUTHOR_RE = re.compile(r'text-align:\s*right;?"[^>]*>\s*(?:<em>)?([^<]+?)(?:</em>)?\s*</(?:div|p)>')
 PICTURE_RE = re.compile(r'src="(/data/lexikon/[^"]+)"')
 FOCUSPOINT_SUFFIX_RE = re.compile(r"_focuspoint_\d+x\d+(?=\.\w+$)")
 
 
 def fetch(url: str, retries: int = 5) -> bytes:
-    req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
-    for attempt in range(retries):
-        try:
-            with urllib.request.urlopen(req, timeout=15) as resp:
-                return resp.read()
-        except (urllib.error.URLError, TimeoutError):
-            if attempt == retries - 1:
-                raise
-            wait = 2 ** (attempt + 1)
-            print(f"  {url}: network error, retrying in {wait}s...")
-            time.sleep(wait)
-
-
-def strip_tags(html: str) -> str:
-    return re.sub(r"\s+", " ", TAG_RE.sub(" ", html)).strip()
+    return _fetch_bytes(url, USER_AGENT, retries=retries)
 
 
 def collect_person_links() -> dict[str, str]:
