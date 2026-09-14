@@ -1,0 +1,211 @@
+{
+  "_comment": "Composer/instrument facts manually curated from lfze/*.md (Nagy elodok) biographies, filtered to only those NOT already present in composer_instruments (i.e. not already recorded in Wikidata's P1303 'instrument' claim as of this repo's last fetch). Intended as a staging list for later backfilling into Wikidata by hand -- composer_wikidata_id is null where the composer has no known Wikidata item yet, so those can't be backfilled until one exists.",
+  "instrument_qids": {
+    "piano": "Q5994",
+    "violin": "Q8355",
+    "viola": "Q80284",
+    "organ": "Q1444",
+    "voice": "Q17172850",
+    "clarinet": "Q8343"
+  },
+  "entries": [
+    {
+      "composer_id": 3759,
+      "composer_name": "Doráti Antal",
+      "composer_wikidata_id": null,
+      "instrument": "piano",
+      "instrument_wikidata_id": "Q5994",
+      "evidence": "Kodálynál zeneszerzést, Székely Arnoldnál zongorát, Weiner Leónál kamarazenét tanult.",
+      "source_url": "https://lfze.hu/nagy-elodok/dorati-antal-1850"
+    },
+    {
+      "composer_id": 7607,
+      "composer_name": "Kálmán Imre",
+      "composer_wikidata_id": "Q153818",
+      "instrument": "piano",
+      "instrument_wikidata_id": "Q5994",
+      "evidence": "Művelt, zeneszerető családjának köszönhetően már gyermekkorában kapcsolatba került a zenével és főleg – nővére zeneiskolai tanulmányai révén – a zongorával, amely élete végéig kedvenc hangszere maradt.",
+      "source_url": "https://lfze.hu/nagy-elodok/kalman-imre-1802"
+    },
+    {
+      "composer_id": 4563,
+      "composer_name": "Lendvay Kamilló",
+      "composer_wikidata_id": "Q646178",
+      "instrument": "piano",
+      "instrument_wikidata_id": "Q5994",
+      "evidence": "Mielőtt belépett Viski tantermébe, volt az Angol (ma Vidám) Park szimfonikus jazz-zenekarának zongoristája.",
+      "source_url": "https://lfze.hu/nagy-elodok/lendvay-kamillo-1782"
+    },
+    {
+      "composer_id": 7765,
+      "composer_name": "Petrovics Emil",
+      "composer_wikidata_id": "Q338667",
+      "instrument": "piano",
+      "instrument_wikidata_id": "Q5994",
+      "evidence": "Reggeltől estig zongorája mellett ülve megtanulta szinte az egész repertoárt.",
+      "source_url": "https://lfze.hu/nagy-elodok/petrovics-emil-1750"
+    },
+    {
+      "composer_id": 7818,
+      "composer_name": "Siklós Albert",
+      "composer_wikidata_id": "Q2638845",
+      "instrument": "piano",
+      "instrument_wikidata_id": "Q5994",
+      "evidence": "1905-től 1919-ig a Fodor Zeneiskola zeneelmélet, zeneszerzés, zongora, esztétika és kamarazene tanára.",
+      "source_url": "https://lfze.hu/nagy-elodok/siklos-albert-1726"
+    },
+    {
+      "composer_id": 7827,
+      "composer_name": "Soproni József",
+      "composer_wikidata_id": "Q607696",
+      "instrument": "piano",
+      "instrument_wikidata_id": "Q5994",
+      "evidence": "Szülővárosában kezdett zongorázni már hatévesen, később a Zeneakadémián Viski Jánosnál tanult zeneszerzést, 1956-ban diplomázott.",
+      "source_url": "https://lfze.hu/nagy-elodok/soproni-jozsef-1677"
+    },
+    {
+      "composer_id": 7908,
+      "composer_name": "Veress Sándor",
+      "composer_wikidata_id": "Q665460",
+      "instrument": "piano",
+      "instrument_wikidata_id": "Q5994",
+      "evidence": "Veress Sándor zeneszerző, népzenekutató, zeneszerzés-professzor és zongoraművész hivatásterületei egyértelműen jelzik a 20.",
+      "source_url": "https://lfze.hu/nagy-elodok/veress-sandor-1696"
+    },
+    {
+      "composer_id": 2221,
+      "composer_name": "Volkmann, Robert",
+      "composer_wikidata_id": null,
+      "instrument": "piano",
+      "instrument_wikidata_id": "Q5994",
+      "evidence": "Zeneszerzés tanulmányai befejeztével 1839-ben zongora- és énektanári állást kapott Prágában, majd jobb lehetőséget keresve Szemeréden vállalta egy grófi család lányainak zongoraoktatását.",
+      "source_url": "https://lfze.hu/nagy-elodok/volkmann-robert-160"
+    },
+    {
+      "composer_id": 7946,
+      "composer_name": "Gobbi Henrik",
+      "composer_wikidata_id": null,
+      "instrument": "piano",
+      "instrument_wikidata_id": "Q5994",
+      "evidence": "Zongoraművész, zeneszerző, tanár.",
+      "source_url": "https://lfze.hu/nagy-elodok/gobbi-henrik-1826"
+    },
+    {
+      "composer_id": 7948,
+      "composer_name": "id. Ábrányi Kornél",
+      "composer_wikidata_id": null,
+      "instrument": "piano",
+      "instrument_wikidata_id": "Q5994",
+      "evidence": "Zeneszerző, zongoraművész, tanár, zenei író.",
+      "source_url": "https://lfze.hu/nagy-elodok/id-abranyi-kornel-1930"
+    },
+    {
+      "composer_id": 7728,
+      "composer_name": "Nagy Olivér",
+      "composer_wikidata_id": "Q1214432",
+      "instrument": "piano",
+      "instrument_wikidata_id": "Q5994",
+      "evidence": "A Zeneakadémián 1936-ban diplomázott egyházi karnagyként, középiskolai énektanár és zongoratanár képesítéssel.",
+      "source_url": "https://lfze.hu/nagy-elodok/nagy-oliver-1767"
+    },
+    {
+      "composer_id": 4010,
+      "composer_name": "Dávid Gyula",
+      "composer_wikidata_id": "Q912645",
+      "instrument": "violin",
+      "instrument_wikidata_id": "Q8355",
+      "evidence": "A zeneszerzés szak mellett magánúton Rados Dezsőnél hegedülni tanult.",
+      "source_url": "https://lfze.hu/nagy-elodok/david-gyula-1853"
+    },
+    {
+      "composer_id": 7947,
+      "composer_name": "Herzfeld Viktor",
+      "composer_wikidata_id": null,
+      "instrument": "violin",
+      "instrument_wikidata_id": "Q8355",
+      "evidence": "Budapestre költözött 1886-ban, a Hubay-Popper vonósnégyesben a második hegedű szólamát játszotta.",
+      "source_url": "https://lfze.hu/nagy-elodok/herzfeld-viktor-1814"
+    },
+    {
+      "composer_id": 3822,
+      "composer_name": "Pártos Ödön",
+      "composer_wikidata_id": null,
+      "instrument": "violin",
+      "instrument_wikidata_id": "Q8355",
+      "evidence": "Pártos Ödön hegedű- és brácsaművész, zeneszerző és zenepedagógus első hegedűtanára Ormándy Jenő volt, majd tizennégy éves korától a Zeneakadémián Hubay hegedűnövendékeként folytatta hangszeres tanulmányait (1923–25).",
+      "source_url": "https://lfze.hu/nagy-elodok/partos-odon-162"
+    },
+    {
+      "composer_id": 3822,
+      "composer_name": "Pártos Ödön",
+      "composer_wikidata_id": null,
+      "instrument": "viola",
+      "instrument_wikidata_id": "Q80284",
+      "evidence": "Pártos Ödön hegedű- és brácsaművész, zeneszerző és zenepedagógus első hegedűtanára Ormándy Jenő volt, majd tizennégy éves korától a Zeneakadémián Hubay hegedűnövendékeként folytatta hangszeres tanulmányait (1923–25).",
+      "source_url": "https://lfze.hu/nagy-elodok/partos-odon-162"
+    },
+    {
+      "composer_id": 2221,
+      "composer_name": "Volkmann, Robert",
+      "composer_wikidata_id": null,
+      "instrument": "organ",
+      "instrument_wikidata_id": "Q1444",
+      "evidence": "1849-ben rövid ideig a pesti zsinagógában működött orgonistaként, és komponált az istentiszteletek számára.",
+      "source_url": "https://lfze.hu/nagy-elodok/volkmann-robert-160"
+    },
+    {
+      "composer_id": 7561,
+      "composer_name": "Harmat Artúr",
+      "composer_wikidata_id": "Q636225",
+      "instrument": "organ",
+      "instrument_wikidata_id": "Q1444",
+      "evidence": "Ekkor már tevékeny részvevője volt a nyitrai „Egyházi Zeneegylet\"-nek, ahol főgimnáziumi énektanári és orgonistai állásra kapott megbízást, majd az egylet karnagyává választották.",
+      "source_url": "https://lfze.hu/nagy-elodok/harmat-artur-1819"
+    },
+    {
+      "composer_id": 2725,
+      "composer_name": "Koessler, Hans",
+      "composer_wikidata_id": null,
+      "instrument": "organ",
+      "instrument_wikidata_id": "Q1444",
+      "evidence": "1882-ben költözött Budapestre, Liszt Ferenc ajánlásra került a Zeneakadémiára, ahol orgonát tanított, majd 1883-tól zeneszerzést Robert Volkmann halála után.",
+      "source_url": "https://lfze.hu/nagy-elodok/koessler-hans-316"
+    },
+    {
+      "composer_id": 2221,
+      "composer_name": "Volkmann, Robert",
+      "composer_wikidata_id": null,
+      "instrument": "voice",
+      "instrument_wikidata_id": "Q17172850",
+      "evidence": "Zeneszerzés tanulmányai befejeztével 1839-ben zongora- és énektanári állást kapott Prágában, majd jobb lehetőséget keresve Szemeréden vállalta egy grófi család lányainak zongoraoktatását.",
+      "source_url": "https://lfze.hu/nagy-elodok/volkmann-robert-160"
+    },
+    {
+      "composer_id": 7561,
+      "composer_name": "Harmat Artúr",
+      "composer_wikidata_id": "Q636225",
+      "instrument": "voice",
+      "instrument_wikidata_id": "Q17172850",
+      "evidence": "Ekkor már tevékeny részvevője volt a nyitrai „Egyházi Zeneegylet\"-nek, ahol főgimnáziumi énektanári és orgonistai állásra kapott megbízást, majd az egylet karnagyává választották.",
+      "source_url": "https://lfze.hu/nagy-elodok/harmat-artur-1819"
+    },
+    {
+      "composer_id": 7728,
+      "composer_name": "Nagy Olivér",
+      "composer_wikidata_id": "Q1214432",
+      "instrument": "voice",
+      "instrument_wikidata_id": "Q17172850",
+      "evidence": "A Zeneakadémián 1936-ban diplomázott egyházi karnagyként, középiskolai énektanár és zongoratanár képesítéssel.",
+      "source_url": "https://lfze.hu/nagy-elodok/nagy-oliver-1767"
+    },
+    {
+      "composer_id": 3961,
+      "composer_name": "Szervánszky Endre",
+      "composer_wikidata_id": "Q558405",
+      "instrument": "clarinet",
+      "instrument_wikidata_id": "Q8343",
+      "evidence": "Szervánszky 1922-től 1927-ig klarinétozni tanult a Zeneakadémián.",
+      "source_url": "https://lfze.hu/nagy-elodok/szervanszky-endre-1713"
+    }
+  ]
+}

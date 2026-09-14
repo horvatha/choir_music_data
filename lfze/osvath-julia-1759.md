@@ -1,0 +1,17 @@
+# Osváth Júlia
+
+Rákospalota, 1908. február 15. – Budapest, 1994. augusztus 20.
+
+Osváth Júlia az 1921/22-es tanévben járt a Zeneakadémiára Sík József tanítványaként. 1935-ben debütált az Operaházban, feltűnése korszakos jelentőségű eseménye volt a színház történetének. Részese volt a harmincas évek Mozart-előadásainak és az opera akkori, Márkus László nevéhez kapcsolódó – a feledés homályából előszedett historikus darabok előadásának is. 1935-ben például a Norma felújításával emlékeztek meg Bellini születésének 100. évfordulójáról, s már ekkor feltűnést keltett Osváth Júlia megbízható és lelkes teljesítménye.
+
+Ebben az esztendőben láthatta a budapesti közönség új betanulásban (Ferencsik vezényletével) a Hunyadi László t is, amelyben Osváth Gara Máriaként is bemutatkozott. Olyan kiugró sikert aratott, hogy már 1937-ben szerződtette Toscanini a Salzburgi Ünnepi Játékokra, az Éj királynője szerepre. Mozart-énekesnőnek indult, énekelte az összes Budapesten játszott Mozart-opera főszerepét (Éj királynője, Pamina, Donna Anna, Fiordiligi, Grófné, Konstanza). A harmincas évek végén kezdte drámai Wagner szerepek éneklését, meglepő módon mindjárt jelentős sikerrel, (Elza, Eva Pogner). Ettől kezdve bontakozott ki igazi színpadi művészete, amely lényegében az ösztönös zseni diadala volt. Színpadra lépésekor már árasztotta az adott szerep levegőjét és minden porcikájában lírai természet lévén könnyen lelte meg a nagyközönség szívéhez vezető utat.
+
+Történelmi pillanatok tanúja és részese volt: énekelt azon az 1940-es Bánk bán előadáson, amelyen (Radnai Miklós és Rékai Nándor átdolgozása nyomán) megfelelő tenor hiányában baritonistára, nevezetesen Palló Imrére osztották Bánk szerepét. Osváth abban az 1953-as Bánk bán produkcióban is szerepelt, amikor vissza lehetett térni a tenor Bánkhoz, mivel ismét volt megfelelő énekese az Operaháznak, Simándy József személyében. A Bánk bán II. és III. felvonásával – Osváth Júlia közreműködésével – nyitották meg a háború utáni előadások sorozatát éppen 1945. március 15-én. Ezen a tavaszon egyébként sajátos elv szerint állították össze a repertoárt – nevezetesen a díszletraktár állapota diktálta sorrendben. Játszottak telt házas Mosoly országá t, A denevér t és János vitéz t Osváth-tal (Orosz Júliával, Sárdy Jánossal, Palló Imrével, Maleczky Oszkárral).
+
+1946-ban, amikor Tóth Aladár igazgatása alatt a Mozart-felújítások sora a Nádasdy Kálmán által sok helyen megváltoztatott Don Giovanni val folytatódott, a régebbi önmagát technikailag felülmúló Osváth Júlia könnyed természetességgel énekelte Donna Annát; valósággal benne látták megtestesülni az énekes-színésznő típusát, aki alakításával feledteti, hogy közben megoldja az éneklés másoknak fő gondot okozó feladatát. Ez a Mozart-kultusz sosem látott méreteket öltött a Klemperer nevével fémjelzett ötvenes években, amikor – és még ezután sokáig – Osváth volt az egyetlen igazi Pamina és Grófné a magyar operaszínpadon.
+
+Ő volt a magyar Figaro-Grófné, a magyar Tábornagyné. De nemcsak az emelkedett tónusú szerepekben volt otthonos; nála kihívóbb és közönségesebb, tehát igazi Musette ugyancsak nem szólalt még meg az Operaház színpadán. Kiválóan alakította Erkel hősnőit, nagyszerű Desdemona és Don Carlos -Erzsébet volt, de emlékezetes marad az 1949 utáni repertoárbővítés egyetlen maradandó értékű produkciójában, a látványos-lírai, nagysikerű 1951-es Anyegin felújításban nyújtott alakítása is. Az Operaház örökös tagja, Kossuth-díjas, Kiváló művész.
+
+*Tóth Anna*
+
+Source: https://lfze.hu/nagy-elodok/osvath-julia-1759

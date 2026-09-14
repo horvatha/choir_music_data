@@ -1,0 +1,17 @@
+# Svéd Sándor
+
+Budapest, 1906. május 29. – Bécs, 1979. június 9.
+
+Tanulmányait 1924 és 1929 között Szabados Bélánál a Zeneakadémián, majd Olaszországban – Sammarco és Stracciari irányításával – végezte. 1928-ban debütált Budapesten, Lunaként; akkor, amikor nálunk is bécsi, berlini színvonalon lehetett – saját erőből – Verdi-előadásokat rendezni. Fellépett az 1929-es, Sergio Failoni által vezényelt A végzet hatalmá ban, amelynek sikere a szép hangok mellett kétségkívül az elemi erejű olasz dirigens drámai interpretációjának volt köszönhető. 1931-ben ugyancsak Failoni segítette színpadra (mint a 19. századi operarepertoár egyik újra felfedezettjét) a Don Pasquale t, amelyben a két ifjú tehetség – Orosz Júlia és Svéd Sándor – aratta Donizetti számára a legnagyobb sikert.
+
+Hamar „elcsábították": igazi világnagysággá nevelte az Operaház. Kezdettől lenyűgöző hangja az olasz iskolázás után vált a kor legszebb és legjobban képzett baritonhangjainak egyikévé és ugyanott a nagy olasz stílust is megtanulta Svéd Sándor. Magától értődő volt gyors kitörése a viszonylag szűk keretek közül. 1936-ban a bécsi Staatsoper tagja lett, majd 1940-től 1950-ig a Metropolitan gárdájához tartozott. Közben több ízben vendégszerepelt Olaszországban, többek között a Scalában, ahol a Tell Vilmos címszerepében aratott hatalmas sikert. 1950-től 1956-ig újra a budapesti opera tagja volt. Azután külföldön élt és tanított és még a hetvenes évek elején is hazajárt vendégszerepelni.
+
+Svéd Sándor tökéletes technikával, énektudással és hangszépségével aratott sikereket. Nem sorolható a drámai énekesek típusába; áradó, igazi olasz jellegű hanganyaga azonban feledtetni tudta színpadi játékának merevségét és a drámai kifejezés háttérbe szorulását. Azon énekesek egyike volt, akiknél a matéria és a technikai tudás oly magas fokú, hogy az önmagában is élményt szerez. A harmincas évek elejének budapesti Mozart-újjáéledése során Knappertsbusch vezényletével énekelte a Don Giovanni t és sokak véleménye szerint ő volt a magyar operaszínpad talán leghódítóbb Don Giovannija. 1949 és 1956 között ismét szerződés kötötte a budapesti Operához. Ebben az időszakban az Anyegin bizonyult az egyetlen maradandó értékű operai repertoárbővítésnek – ami azért is érdekes, mert korábban többszöri kísérletre sem lehetett a művet hosszabb ideig színen tartani. Talán a látványos rendezés, a líraibb zenei megfogalmazás és – nem utolsósorban – a kiemelkedő szereplőgárda (Udvardy, Simándy, Svéd, Losonczy, Melis, Osváth és Mátyás Mária) játszott ebben döntő szerepet.
+
+Parádés, regényes életvitele, színpadi „grandezza" stílusa már életében legendákkal övezte alakját. A korabeli szakirodalom a világ három legnagyobb baritonja közé sorolta, egy zártkörű esten Truman elnök kísérte zongorán, egy bécsi Álarcosbál ra húszezer békebeli, infláció előtti schillingért ugrott be, és a sor folytatható. Az Egyesült Államokban azonban reklámfőnököt kellett fizetnie, hogy egy-egy képe vagy beszámolója megjelenjék. „ Igaz, olcsón megszámították, mert nem volt nagyon nehéz eladni " – emlékezett. Sajátos módon nem szívesen hallgatta lemezfelvételeit. „ Vagy olyan rossz vagyok rajtuk, hogy hallgatni nem lehet őket, vagy pedig irigykednem kell, hogy így is tudtam negyven éve " – dohogott Abody Bélának, aki szerint azonban végig „úgy" tudott énekelni.
+
+Kossuth-díjas, Érdemes művész, a bécsi Staatsoper „Kammersängere".
+
+*Tóth Anna*
+
+Source: https://lfze.hu/nagy-elodok/sved-sandor-1719

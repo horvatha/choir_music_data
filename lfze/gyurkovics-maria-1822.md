@@ -1,0 +1,19 @@
+# Gyurkovics Mária
+
+Budapest, 1913. június 19. – Budapest, 1973. október 28.
+
+Gyurkovics Mária csak két évig volt a Zeneakadémia növendéke: az 1935/36-os és 1936/37-es tanévben Molnár Imrénél tanult. 1937-ben debütált az Operaházban Gildaként, oly hatalmas sikerrel, hogy azonnal magánénekesnek szerződtették. Rövid idő alatt átvette Sándor Erzsi és Szabó Lujza örökét, ő lett a színház versenytárs nélküli koloratúrszopránja. Csodálatosan meleg hanganyag, virtuóz technika és kifinomult lírai alkat jellemezte fellépéseit. Ugyanakkor hangjának árnyalatgazdagságával nagyszerűen adta vissza a szerepek karaktereit is. A háború után drámai primadonna hiánya nehezítette az operaház életét. Ide tért vissza az elmélyült, játékban-drámaiságban megérett Gyurkovics Mária.
+
+Gyurkovics fellépte után lett újra bravúropera Budapesten A sevillai borbély . Az ő nevéhez kapcsolódik Donizetti budapesti reneszánsza. Évtizedek után kifejezetten az ő kedvéért vették elő a L ammermoori Luciá t és vele érett sikerdarabbá a Don Pasquale – Maleczky pompás Pasqualéja és Gyurkovics rafinériát tettető naivitása ezt az előadást az ötvenes évek egyik legnagyobb sikerévé tette.
+
+Tény azonban, hogy a kor naturalista operarendezése és Gyurkovics jegyében álló magyarországi Donizetti-reneszánsz alapvetően különbözött a korszak Európa-szerte „divatos" 19. századi olasz opera újrafelfedezésétől. Ez utóbbi a magyarországi eseményekkel közel egy időben, Maria Callas közreműködésével változtatta meg a világszínpad hagyományos repertoárját. Az itthoni játékstílus inkább egy-egy itt felejtett 19. századra, semmint újra felfedezett és átértelmezett 19. századra emlékeztetett. Az itthoni előadások nem is próbálkoztak többet egy-két felújításnál. (A Szerelmi bájital 1964-es Gardelli által vezényelt felújításának még Gyurkovics volt az első számú női főszereplője, de számára évtizednyi késéssel érkezett ez az újabb Donizetti-„lehetőség".)
+
+Gyurkovics repertoárja magába foglalta az összes primadonnaszerepet, mint Gilda, Konstanza, Éj királynője, Zerlina, Lucia, Oszkár, Rosina, Norina. A Mozart-alakítások a Klemperer nevével fémjelzett időszakhoz kapcsolódnak, és Klemperer irányította az énekesnő számára ugyancsak fontos szakmai állomást jelentő 1949-es Hoffmann meséi felújítást is. Gyurkovics kedvéért újította fel 1952-ben Tóth Aladár a Lakmé t. Az 1954-55-ös Erkel-kultusz kapcsán színpadra állított Hunyadiban lehetett tanúja a közönség az énekesnő egyik legnagyobb alakításának. Ösztönös lírája itatta át Gara Mária szerepében, amelynek búcsújelenetében feledhetetlenül megható pillanatokat varázsolt a színpadra.
+
+A lírai szerepek közül énekelte Sophiet és Mártát. Pályája végén ragyogó kabinetalakításban vitte színpadra az Albert Herring suta tanítónőjét, ekkor tudta meg a közönség, milyen komikai érzéke volt a nagy koloratúrsztárnak. Súlyos betegsége miatt vonult vissza a színpadtól, amelynek hosszú évtizedeken át repertoárt és stílust meghatározó egyénisége volt. Az 1955 tavaszán bemutatott Polgár Tibor vígopera, A kérők primadonnája például igazi Gyurkovics-stílusban énekel, hiszen a kor protokollszabályainak messze eleget tevő kompozíció eleve a kor vezető énekes gárdájának közreműködését feltételezte.
+
+Kossuth-díjas, Kiváló művész volt, aki oratórium-előadásokon is óriási sikerrel szerepelt, fellépett Európa szinte valamennyi nagyvárosában, számos rádió-, televízió- és hanglemezfelvétel őrzi munkássága emlékét. Köztük egy 1955-ös felvételtöredék, amelyen a Rigoletto hallható Gyurkovics Máriával, Svéd Sándorral és a karmester Francesco Molinari-Pradellivel.
+
+*Tóth Anna*
+
+Source: https://lfze.hu/nagy-elodok/gyurkovics-maria-1822

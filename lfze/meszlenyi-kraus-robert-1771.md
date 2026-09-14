@@ -1,0 +1,15 @@
+# Meszlényi (Kraus) Róbert
+
+Arad, 1883. március 23. – Budapest, 1946. február 28.
+
+Zeneszerző, tanár, zenei író. A Zeneakadémián Koessler Jánosnál zeneszerzés szakra járt 1903–1906-ig. Párhuzamosan a Budapesti Egyetemen jogot tanult, jogi doktorátust szerzett 1904-ben. Minisztériumi tisztviselőként dolgozott a Honvédelmi Minisztériumban, mint címzetes miniszteri tanácsos, mellette több lapnak írt zenei témájú cikkeket, kritikákat: Pesti Hírlap, Budapester Presse, Neues Pester Journal. A berlini Signale lap budapesti zenei tudósítója volt.
+
+A Nemzeti Zenedében kezdett tanítani zenetörténetet és szolfézst. 1923-tól a Zeneakadémia tanára, 1926-tól titkára is volt 1934-ig, nyugdíjazásáig. Ebben az időszakban a Zeneakadémia épületében kapott családjával szolgálati lakást. Zeneelméletet, zenetant, általános zenetörténetet tanított. Cikkei mellett a Szabolcsi Bence és Tóth Aladár szerkesztette Zenei lexikon munkatársa volt. Könyvei: Hangversenykalauz II. kötet (1938), Schubert (1941), Puccini (1942).
+
+1927-től 1933-ig a nem állami zeneiskolák országos szakfelügyelője volt. Zeneszerzőként egy operát (Zách Klára), két balettzenét (Liebestränen és Tilosban címmel), zenekari műveket, (Gordonkaverseny), szimfóniát, kamaraműveket, dalokat komponált. Művei szerepeltek a Filharmóniai Társaság műsorain. A Beethoven halálának centenáriuma alkalmából rendezett 1927-es frankfurti nemzetközi zenei kiállításon Magyarország részvételéről tudósított: „ A kontinens nemzetei közül Magyarországnak jutott az első terem […] A szoba közepén állt az egész zenei kiállításnak a legértékesebb darabja, a híres Broadwood-féle Beethoven-zongora, mely Liszt halála után a Nemzeti Múzeumba került."
+
+Schubert monográfiájából a bécsi zeneszerző Magyarországon töltött napjairól írt részt idézzük: „ Verőfényes nyári reggelen hatalmas, címeres úti batárok fordultak ki a bécsi Esterházy-palota kapuján. Egyiknek öblös mélyén szerényen húzódott meg a grófi személyzet közt a fiatal zenetanító is. Zseliz, Esterházyék nyári rezidenciája volt a cél. Schubert most hagyta el először a császárváros területét. […] Bécs környékének szépségei után a magyar felvidék varázsos új világot nyitott meg előtte. […] Schubert szállása az intézői lak volt, de sűrűn fordult meg a kastély tágas termeiben is, hol az ősök galériája kísértetiesen meredt rája. S e komor, előkelő, finom metszésű arcokon keresztül olvasott egy dicső, harcos múlt történelmében, mely fantáziáját különös érzésekkel és sejtésekkel gazdagította. Lassan kirajzolódott benne a magyar nagyúr és kis birodalmának képe, s a fiatal muzsikus keblét dagasztotta a gondolat, hogy itt az ő személye képviseli az egyik főméltóságot, a nyáresti zenés szórakozások ceremóniamesterét ."
+
+(Csanda Mária)
+
+Source: https://lfze.hu/nagy-elodok/meszlenyi-kraus-robert-1771

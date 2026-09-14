@@ -1,0 +1,19 @@
+# Bárdos Lajos
+
+Budapest, 1899. október 1. – Budapest, 1986. november 18.
+
+Bárdos Lajos, a 20. századi magyar zenetörténet egyik meghatározó személyisége közel 40 éven át tanított a Zeneakadémián. Zeneszerző, karnagy és zenetudós lévén a zene elméleti és gyakorlati megközelítésének ritka szintézisével rendelkezett, és ehhez a tudáshoz kivételes pedagógiai érzék társult. Legendás tanár volt. Szigorú és következetes gondolkodásmódra nevelt: órái rendkívül koncentráltak voltak, ugyanakkor átszőtte őket a szellemesség és a humor. Az évtizedek során számos tárgyat tanított az egyházzene, a karnagyképzés és a zeneelmélet témaköréből. Eredetiségénél fogva ezek közül kiemelkedik a magyar nyelv és magyar zene mély ismeretén alapuló prozódiatan, valamint az egyéni koncepció alapján felépített történeti zeneelmélet. Bárdos a ma széles körben hozzáférhető forrásmunkák és kritikai kiadások megjelenése előtt, úttörő kutatómunkával dolgozta ki a reneszánsz zene elméleti vonatkozásait; minden tanítványa számára felejthetetlenek maradnak a romantika harmóniavilágáról (Schubert, Liszt, Chopin) szóló kurzusai.
+
+A Siklós Albert és Kodály Zoltán zeneszerzésosztályában végzett fiatal Bárdos Lajos a fellendülő magyar kórusmozgalom egyik vezéregyéniségeként lépett fel. A 19. századi ceciliánus irányzatot követve a Cecilia-kórus (1925–42) és a Palestrina-kórus (1923–33) karnagya: a kettő egyesüléséből létrejött Budapesti Kórusnak 1941–47 között vezetője. Az ő nevéhez fűződik Stravinsky Zsoltárszimfóniájá nak magyarországi bemutatója 1932-ben, a Palestrina-kórus és a Hangversenyzenekar közreműködésével. Megalapította (Kertész Gyulával) a maga idejében igen jelentős Magyar Kórus folyóiratot és kiadóvállalatot (1931–50), amely zeneművek gazdag repertoárját tette hozzáférhetővé a hazai együttesek számára. Az Éneklő Ifjúság mozgalom létrehozásával a gyermekkarok és ifjúsági kórusok számára kívánt direktívákat adni.
+
+Bárdos Lajos különleges, összetett személyiségében megfért egymás mellett a mindenki nyelvén értő népnevelő és a legmagasabb rendű produkciókat létrehozó előadóművész. Idős koráig fáradhatatlanul járta az országot, hogy előadásokat, konzultációkat tartson a zenepedagógia, a kórusnevelés kérdéseiről. Ugyanakkor művészi pályájának zenitjén, a budavári Mátyás-templom karnagyaként (1942–62) olyan mesterművek előadásával nyújtott generációk számára modell-értékű interpretációkat, mint Beethoven Missa solemnis e, Liszt Koronázási misé je vagy Kodály Budavári Te Deum a. Pótolhatatlan veszteség, hogy ezekről a nagy produkciókról nem készültek hangfelvételek.
+
+A zeneszerző Bárdos elsősorban vokális művek írásával foglalkozott. A gregorián és a Palestrina-stílus inspirálta egyházi kompozícióit (4 mise, motetták stb.), magyar költők versei és a magyar népzene világi alkotásait. Hangszerkíséretes kórusai közül kiemelkedik A nyúl éneke (kettőskarra); gyermekkarai, kánonjai, részben pedagógiai célzattal írt sorozatai a mai napig megőrizték frissességüket.
+
+A zenetudós Bárdos portréja több kötetnyi tanulmányból, önálló monográfiából és számtalan rövidebb írásból rajzolódik ki. Lényeglátó és rendszerező gondolkodása a zeneelméleti témák sokaságát öleli fel, ritmikai/dallami/harmóniai kérdésektől a forma és prozódia problematikájáig. Teoretikai munkásságában kiemelt szerep jut a modális stílusnak ( Modális harmóniák , 1961), Liszt újító nyelvének ( Liszt Ferenc, a jövő zenésze , 1976), valamint Bartók és Kodály művészetének.
+
+1955-ben Kossuth-díjban részesült. Bárdos Lajos a Zeneakadémia tiszteletbeli doktora, nevét számos iskola és énekkar viseli. Életművét az 1988-ban alapított Bárdos Társaság gondozza, annak széleskörű megismertetését országos rendezvények szervezésével is előmozdítja.
+
+*Komlós Katalin*
+
+Source: https://lfze.hu/nagy-elodok/bardos-lajos-159

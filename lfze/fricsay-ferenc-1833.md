@@ -1,0 +1,21 @@
+# Fricsay Ferenc
+
+Budapest, 1914. augusztus 9. – Basel, 1963. február 20.
+
+Fricsay korai és zökkenőmentes pályakezdése elsősorban a muzsikus édesapa, Fricsay Richárd körültekintő irányításának és tudatos pedagógiájának az eredménye. Eleinte hegedülni és zongorázni taníttatta (a Zeneakadémián zongorázni Székely Arnoldnál – 1921–1925 –, hegedülni Mambriny Gyulánál tanult). Később két évig klarinétozott Alto Berner irányítása mellett, majd harsonaleckéket vett, sőt, egy ideig ütős tanulmányokat is folytatott.
+
+A főiskolán „ Kodály csodálatos órákat adott a komponálás tudományából. Boldogan mentünk Weiner Leó kamarazene óráira. Hacsak tehettük, belopóztunk Bartók zongoraóráira is [...] Nem tudom, vajon melyik főiskola tudott még ilyen színvonalas oktatást nyújtani ebben az évszázadban? " – jellemezte önéletrajzában a főiskolai évek legfontosabb impulzusait. A karmesteri hivatás melletti elkötelezettségét fokozták azok a budapesti koncertek, amelyeken Mengelberg, Weingartner, Kleiber, Schuricht, Furtwängler, Klemperer és Bruno Walter léptek a dobogóra. Amikor csak lehetett, végignézte a délelőtti próbákat is. „ Az élet nagy ajándékának fogtuk föl akkoriban az ilyen élményt. "
+
+1933-ban záróvizsgázik a Főiskola pódiumán. Saját szerzeményét – Cyrano de Bergerac-nyitány –, valamint a Mesterdalnokok részleteit vezényli. A vizsga után elnyerhette volna a budapesti Opera segédkarmesteri állását, de visszautasította, mert vezényelni akart, így elvállalta a szegedi katonazenekar és a szegedi filharmonikusok irányítását. A város zenei életének aranykora kezdődik el ezzel. A bérletesek száma 260-ról kétezerre nő, Fricsay olyan művészeket tud Szegedre hívni, mint Dobrowen, Mengelberg, Dohnányi, Thibaud, Cortot, Szigeti. Itt ismerkedik meg Anda Gézával is. A városi színházban operaelőadásokat vezényel ( Rigoletto, Álarcosbál, Traviata, Bohémélet, Carmen, Faust ). 1944 nyarán feleségével és három gyermekével elhagyja Szegedet és Budapesten vészeli át a háború utolsó hónapjait. 1945 februárjában ő vezényli az első hangversenyt az Operában, „ igaz, csak az alagsorban, ahol a ruhatár volt ". Áprilisban a Traviátá val mutatkozik be az Állami Operaházban. Őt bízzák meg, hogy szervezze meg a Fővárosi Zenekart. 1946-ban a Bécsi Filharmonikusoktól és a Staatsopertől is meghívást kap, de a körülmények miatt csak az utóbbinak tud eleget tenni ( Carmen ). Eugen Hilbert igazgató már ekkor tárgyalásokat kezdeményez, hogy Fricsayt 1947-től állandó karmesterként Bécsben tarthassák. Ez év tavaszán Fricsay elfogadja a Salzburgi Ünnepi Játékok asszisztensi állását Otto Klemperer mellett. Gottfrid von Einem Danton halála című operájának ősbemutatóját készíti elő és a hét előadásból egyet maga vezényel. Nemzetközi karrierje ezek után rohamtempóban teljesedik ki.
+
+1948-ban ismét ősbemutatót dirigálhat Salzburgban, Frank Martin Varázsital át. Még ebben az évben vendégkarmester a Berlini Filharmonikusoknál és főzeneigazgatóvá nevezik ki a berlini Városi Operánál, emellett elvállalja a RIAS Szimfonikus Zenekar vezető karmesteri állását is. Exkluzív szerződést köt a Deutsche Grammophonnal. 15 év alatt közel 200 mű felvételét készíti el. Több felvétele is (Mozart: Don Giovanni , Bartók: A kékszakállú herceg vára, Concerto, 2. és 3. zongoraverseny ) nemzetközi díjat nyer (Grand Prix du Disque).
+
+Az ötvenes években számtalan meghívásnak tesz eleget; Európán kívül Észak- és Dél-Amerikában, valamint Izraelben koncertezik. 1952-ben a Bodeni tó partján lévő Ermatingenbe költözik. 1956-ban általános zeneigazgatóvá nevezik ki Münchenben. 1961-ben Luzernben vezényli Kodály Szimfóniá jának ősbemutatóját. Betegsége miatt egyre gyakrabban kényszerül hosszabb időre visszavonulni. Bázelben éri a halál, Ermatingenben temetik el.
+
+Korának legnagyobbjaival dolgozott együtt, többek közt Dietrich Fischer-Dieskauval, Yehudi Menuhinnal, Isaac Sternnel, Fischer Annieval, Maria Staderrel és másokkal.
+
+„ A sors kegyes volt hozzá, amennyiben élete végét a fölülmúlhatatlan csúcson érhette meg. Ellenben kegyetlen volt, hogy őt is, mindnyájunkat megfosztott azoktól az érett gyümölcsöktől, amelyek ezen a magaslaton csodálatossá fejlődhettek volna " – írja megemlékezésében Kodály, a szellemi mester.
+
+Molnár Szabolcs
+
+Source: https://lfze.hu/nagy-elodok/fricsay-ferenc-1833

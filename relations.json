@@ -1,0 +1,1391 @@
+{
+ "composers": {
+  "adam-jeno-1766": {
+   "birth": {
+    "date": "1896-12-12",
+    "place": "Szigetszentmiklós"
+   },
+   "death": {
+    "date": "1982-05-12",
+    "place": "Budapest"
+   },
+   "name": "Ádám Jenő",
+   "relationships": {
+    "student_of": [
+     "Kodály Zoltán",
+     "Siklós Albert"
+    ]
+   },
+   "source": "lfze_nagy_elodok",
+   "url": "https://lfze.hu/nagy-elodok/adam-jeno-1766"
+  },
+  "balassa-sandor-1864": {
+   "birth": {
+    "date": "1935-01-20",
+    "place": "Budapest"
+   },
+   "death": {
+    "date": "2021-05-14",
+    "place": "Budapest"
+   },
+   "name": "Balassa Sándor",
+   "relationships": {
+    "student_of": [
+     "Szervánszky Endre"
+    ]
+   },
+   "source": "lfze_nagy_elodok",
+   "url": "https://lfze.hu/nagy-elodok/balassa-sandor-1864"
+  },
+  "bardos-lajos-159": {
+   "birth": {
+    "date": "1899-10-01",
+    "place": "Budapest"
+   },
+   "death": {
+    "date": "1986-11-18",
+    "place": "Budapest"
+   },
+   "name": "Bárdos Lajos",
+   "relationships": {
+    "student_of": [
+     "Siklós Albert",
+     "Kodály Zoltán"
+    ]
+   },
+   "source": "lfze_nagy_elodok",
+   "url": "https://lfze.hu/nagy-elodok/bardos-lajos-159"
+  },
+  "bartok-bela-1861": {
+   "birth": {
+    "date": "1881-03-25",
+    "place": "Nagyszentmiklós"
+   },
+   "death": {
+    "date": "1945-09-26",
+    "place": "New York"
+   },
+   "name": "Bartók Béla",
+   "relationships": {
+    "collaborator": [
+     "Kodály Zoltán"
+    ],
+    "family": [
+     {
+      "name": "Ziegler Márta",
+      "note": "first wife, married 1909",
+      "relation": "spouse"
+     },
+     {
+      "name": "Pásztory Ditta",
+      "note": "second wife, married 1923",
+      "relation": "spouse"
+     }
+    ],
+    "student_of": [
+     "Thomán István",
+     "Hans Koessler"
+    ]
+   },
+   "source": "lfze_nagy_elodok",
+   "url": "https://lfze.hu/nagy-elodok/bartok-bela-1861"
+  },
+  "beliczay-gyula-1860": {
+   "birth": {
+    "date": "1835-08-10",
+    "place": "Révkomárom"
+   },
+   "death": {
+    "date": "1893-04-30",
+    "place": "Budapest"
+   },
+   "name": "Beliczay Gyula",
+   "relationships": {
+    "notable_student": [
+     "Vavrinecz Mór"
+    ],
+    "student_of": [
+     "Joachim Hoffmann",
+     "Krenn",
+     "M. G. Nottebohm",
+     "Czerny"
+    ]
+   },
+   "source": "lfze_nagy_elodok",
+   "url": "https://lfze.hu/nagy-elodok/beliczay-gyula-1860"
+  },
+  "bozay-attila-1605": {
+   "birth": {
+    "date": "1939-08-11",
+    "place": "Balatonfűzfő"
+   },
+   "death": {
+    "date": "1999-09-14",
+    "place": "Budapest"
+   },
+   "name": "Bozay Attila",
+   "relationships": {
+    "notable_student": [
+     "Faragó Béla",
+     "Olsvay Endre",
+     "Bánkövi Gyula",
+     "Horváth Barnabás",
+     "Fekete Gyula"
+    ],
+    "student_of": [
+     "Farkas Ferenc"
+    ]
+   },
+   "source": "lfze_nagy_elodok",
+   "url": "https://lfze.hu/nagy-elodok/bozay-attila-1605"
+  },
+  "david-gyula-1853": {
+   "birth": {
+    "date": "1913-05-06",
+    "place": "Kecskemét"
+   },
+   "death": {
+    "date": "1977-03-14",
+    "place": "Budapest"
+   },
+   "name": "Dávid Gyula",
+   "relationships": {
+    "student_of": [
+     "Siklós Albert",
+     "Kodály Zoltán"
+    ]
+   },
+   "source": "lfze_nagy_elodok",
+   "url": "https://lfze.hu/nagy-elodok/david-gyula-1853"
+  },
+  "dohnanyi-erno-1851": {
+   "birth": {
+    "date": "1877-07-27",
+    "place": "Pozsony"
+   },
+   "death": {
+    "date": "1960-02-09",
+    "place": "New York"
+   },
+   "name": "Dohnányi Ernő",
+   "relationships": {
+    "collaborator": [
+     "Bartók Béla"
+    ],
+    "notable_student": [
+     "Anda Géza",
+     "Böszörményi-Nagy Béla",
+     "Faragó György",
+     "Fischer Annie",
+     "Földes Andor",
+     "Petri Endre",
+     "Solymos Péter",
+     "Szegedi Ernő",
+     "Wehner Tibor",
+     "Solti György",
+     "Rajter Lajos"
+    ],
+    "student_of": [
+     "Hans Koessler",
+     "Thomán István"
+    ]
+   },
+   "source": "lfze_nagy_elodok",
+   "url": "https://lfze.hu/nagy-elodok/dohnanyi-erno-1851"
+  },
+  "dorati-antal-1850": {
+   "birth": {
+    "date": "1906-04-09",
+    "place": "Budapest"
+   },
+   "death": {
+    "date": "1988-11-15",
+    "place": "Zürich"
+   },
+   "name": "Doráti Antal",
+   "relationships": {
+    "student_of": [
+     "Kodály Zoltán",
+     "Székely Arnold",
+     "Weiner Leó"
+    ]
+   },
+   "source": "lfze_nagy_elodok",
+   "url": "https://lfze.hu/nagy-elodok/dorati-antal-1850"
+  },
+  "durko-zsolt-1848": {
+   "birth": {
+    "date": "1934-04-10",
+    "place": "Szeged"
+   },
+   "death": {
+    "date": "1997-04-02",
+    "place": "Budapest"
+   },
+   "name": "Durkó Zsolt",
+   "relationships": {
+    "student_of": [
+     "Farkas Ferenc",
+     "Goffredo Petrassi"
+    ]
+   },
+   "source": "lfze_nagy_elodok",
+   "url": "https://lfze.hu/nagy-elodok/durko-zsolt-1848"
+  },
+  "eotvos-peter-1847": {
+   "birth": {
+    "date": "1944-01-02",
+    "place": "Székelyudvarhely"
+   },
+   "death": null,
+   "name": "Eötvös Péter",
+   "relationships": {
+    "collaborator": [
+     "Kodály Zoltán",
+     "Ligeti György",
+     "Karlheinz Stockhausen",
+     "Pierre Boulez"
+    ],
+    "student_of": [
+     "Viski János",
+     "Szabó Ferenc",
+     "Bernd Alois Zimmermann"
+    ]
+   },
+   "source": "lfze_nagy_elodok",
+   "url": "https://lfze.hu/nagy-elodok/eotvos-peter-1847"
+  },
+  "erkel-ferenc-1845": {
+   "birth": {
+    "date": "1810-11-07",
+    "place": "Gyula"
+   },
+   "death": {
+    "date": "1893-06-15",
+    "place": "Budapest"
+   },
+   "name": "Erkel Ferenc",
+   "relationships": {
+    "collaborator": [
+     "Egressy Béni"
+    ],
+    "family": [
+     {
+      "name": "ifj. Erkel József",
+      "note": "kántortanító, templomi karnagy",
+      "relation": "father"
+     },
+     {
+      "name": "Erkel József",
+      "relation": "grandfather"
+     },
+     {
+      "name": "Adler Adél",
+      "relation": "spouse"
+     },
+     {
+      "name": "Erkel Gyula",
+      "relation": "son"
+     },
+     {
+      "name": "Erkel Elek",
+      "relation": "son"
+     },
+     {
+      "name": "Erkel László",
+      "relation": "son"
+     },
+     {
+      "name": "Erkel Sándor",
+      "relation": "son"
+     }
+    ],
+    "student_of": [
+     "Klein Henrik"
+    ]
+   },
+   "source": "lfze_nagy_elodok",
+   "url": "https://lfze.hu/nagy-elodok/erkel-ferenc-1845"
+  },
+  "farkas-ferenc-1842": {
+   "birth": {
+    "date": "1905-12-15",
+    "place": "Nagykanizsa"
+   },
+   "death": {
+    "date": "2000-10-14",
+    "place": "Budapest"
+   },
+   "name": "Farkas Ferenc",
+   "relationships": {
+    "notable_student": [
+     "Bozay Attila",
+     "Durkó Zsolt",
+     "Kocsár Miklós",
+     "Kurtág György",
+     "Ligeti György",
+     "Petrovics Emil",
+     "Szokolay Sándor",
+     "Vass Lajos"
+    ],
+    "student_of": [
+     "Weiner Leó",
+     "Siklós Albert",
+     "Ottorino Respighi"
+    ]
+   },
+   "source": "lfze_nagy_elodok",
+   "url": "https://lfze.hu/nagy-elodok/farkas-ferenc-1842"
+  },
+  "gardonyi-zoltan-1831": {
+   "birth": {
+    "date": "1906-04-25",
+    "place": "Budapest"
+   },
+   "death": {
+    "date": "1986-06-27",
+    "place": "Herford"
+   },
+   "name": "Gárdonyi Zoltán",
+   "relationships": {
+    "family": [
+     {
+      "name": "Gárdonyi Albert",
+      "note": "történettudós",
+      "relation": "father"
+     },
+     {
+      "name": "Weigl Mária",
+      "note": "zongoraművésznő, Bartók Béla évfolyamtársa 1903-ban",
+      "relation": "mother"
+     }
+    ],
+    "student_of": [
+     "Kodály Zoltán",
+     "Paul Hindemith",
+     "Arnold Schering",
+     "Erich von Hornbostel"
+    ]
+   },
+   "source": "lfze_nagy_elodok",
+   "url": "https://lfze.hu/nagy-elodok/gardonyi-zoltan-1831"
+  },
+  "gobbi-henrik-1826": {
+   "birth": {
+    "date": "1842-06-07",
+    "place": "Pest"
+   },
+   "death": {
+    "date": "1920-03-20",
+    "place": "Budapest"
+   },
+   "name": "Gobbi Henrik",
+   "relationships": {
+    "family": [
+     {
+      "name": "Rugieri Luigi Gobbi",
+      "note": "hegedűművész",
+      "relation": "father"
+     },
+     {
+      "name": "Gobbi Alajos",
+      "relation": "brother"
+     }
+    ],
+    "student_of": [
+     "Dunkl Nepomuk János",
+     "Thern Károly",
+     "Volkmann Róbert",
+     "Liszt Ferenc"
+    ]
+   },
+   "source": "lfze_nagy_elodok",
+   "url": "https://lfze.hu/nagy-elodok/gobbi-henrik-1826"
+  },
+  "harmat-artur-1819": {
+   "birth": {
+    "date": "1885-06-27",
+    "place": "Nyitrabajna"
+   },
+   "death": {
+    "date": "1962-04-20",
+    "place": "Budapest"
+   },
+   "name": "Harmat Artúr",
+   "relationships": {
+    "student_of": [
+     "Herzfeld Viktor"
+    ]
+   },
+   "source": "lfze_nagy_elodok",
+   "url": "https://lfze.hu/nagy-elodok/harmat-artur-1819"
+  },
+  "herzfeld-viktor-1814": {
+   "birth": {
+    "date": "1856-10-09",
+    "place": "Pozsony"
+   },
+   "death": {
+    "date": "1919-02-20",
+    "place": "Budapest"
+   },
+   "name": "Herzfeld Viktor",
+   "relationships": {
+    "notable_student": [
+     "Ábrahám Pál",
+     "Lajtha László",
+     "Kesztler Lőrinc"
+    ],
+    "student_of": [
+     "Krenn",
+     "Riedl",
+     "Joseph Hermesberger",
+     "Kiel",
+     "Grell"
+    ]
+   },
+   "source": "lfze_nagy_elodok",
+   "url": "https://lfze.hu/nagy-elodok/herzfeld-viktor-1814"
+  },
+  "horusitzky-zoltan-1812": {
+   "birth": {
+    "date": "1903-07-18",
+    "place": "Budapest"
+   },
+   "death": {
+    "date": "1985-04-25",
+    "place": "Budapest"
+   },
+   "name": "Horusitzky Zoltán",
+   "relationships": {
+    "notable_student": [
+     "Erdélyi-Rauhala Lenke"
+    ],
+    "student_of": [
+     "Kodály Zoltán",
+     "Siklós Albert",
+     "Weiner Leó",
+     "Novák Erzsébet",
+     "Székely Arnold"
+    ]
+   },
+   "source": "lfze_nagy_elodok",
+   "url": "https://lfze.hu/nagy-elodok/horusitzky-zoltan-1812"
+  },
+  "hubay-jeno-1609": {
+   "birth": {
+    "date": "1858-09-15",
+    "place": "Budapest"
+   },
+   "death": {
+    "date": "1937-03-12",
+    "place": "Budapest"
+   },
+   "name": "Hubay Jenő",
+   "relationships": {
+    "family": [
+     {
+      "name": "Huber Károly",
+      "note": "operaházi koncertmester, Zeneakadémia első hegedűtanára",
+      "relation": "father"
+     },
+     {
+      "name": "Cebrián Róza",
+      "note": "grófnő",
+      "relation": "spouse"
+     }
+    ],
+    "notable_student": [
+     "Arányi Jelly",
+     "Gertler Endre",
+     "Geyer Stefi",
+     "Szigeti József",
+     "Vecsey Ferenc",
+     "Székely Zoltán",
+     "Varga Tibor",
+     "Zathureczky Ede"
+    ],
+    "student_of": [
+     "Joachim József",
+     "Robert Volkmann"
+    ]
+   },
+   "source": "lfze_nagy_elodok",
+   "url": "https://lfze.hu/nagy-elodok/hubay-jeno-1609"
+  },
+  "id-abranyi-kornel-1930": {
+   "birth": {
+    "date": "1822-10-15",
+    "place": "Szentgyörgyábrány"
+   },
+   "death": {
+    "date": "1903-12-20",
+    "place": "Budapest"
+   },
+   "name": "id. Ábrányi Kornél",
+   "relationships": {
+    "collaborator": [
+     "Mosonyi Mihály",
+     "Bartalus István",
+     "Rózsavölgyi Gyula"
+    ],
+    "family": [
+     {
+      "name": "ifj. Ábrányi Kornél",
+      "note": "1849-1913, író, újságíró",
+      "relation": "son"
+     },
+     {
+      "name": "Ábrányi Emil",
+      "note": "1851-1920, költő, műfordító",
+      "relation": "son"
+     },
+     {
+      "name": "ifj. Ábrányi Emil",
+      "note": "1882-1970, karmester, zeneszerző",
+      "relation": "grandson"
+     }
+    ],
+    "student_of": [
+     "Kirch János",
+     "Dolegni Vilmos",
+     "Josef Fischof",
+     "Erkel Ferenc"
+    ]
+   },
+   "source": "lfze_nagy_elodok",
+   "url": "https://lfze.hu/nagy-elodok/id-abranyi-kornel-1930"
+  },
+  "jacobi-viktor-1807": {
+   "birth": {
+    "date": "1883-10-22",
+    "place": "Budapest"
+   },
+   "death": {
+    "date": "1921-12-12",
+    "place": "New York"
+   },
+   "name": "Jacobi Viktor",
+   "relationships": {
+    "collaborator": [
+     "Heltai Jenő",
+     "Martos Ferenc"
+    ],
+    "student_of": [
+     "Hans Koessler"
+    ]
+   },
+   "source": "lfze_nagy_elodok",
+   "url": "https://lfze.hu/nagy-elodok/jacobi-viktor-1807"
+  },
+  "jardanyi-pal-1804": {
+   "birth": {
+    "date": "1920-01-30",
+    "place": "Budapest"
+   },
+   "death": {
+    "date": "1966-07-29",
+    "place": "Budapest"
+   },
+   "name": "Járdányi Pál",
+   "relationships": {
+    "notable_student": [
+     "Kurtág György",
+     "Szabó Helga",
+     "Devich Sándor",
+     "Olsvai Imre"
+    ],
+    "student_of": [
+     "Kodály Zoltán"
+    ]
+   },
+   "source": "lfze_nagy_elodok",
+   "url": "https://lfze.hu/nagy-elodok/jardanyi-pal-1804"
+  },
+  "kadosa-pal-1801": {
+   "birth": {
+    "date": "1903-09-06",
+    "place": "Léva"
+   },
+   "death": {
+    "date": "1983-03-30",
+    "place": "Budapest"
+   },
+   "name": "Kadosa Pál",
+   "relationships": {
+    "notable_student": [
+     "Jandó Jenő",
+     "Kocsis Zoltán",
+     "Kurtág György",
+     "Ránki Dezső",
+     "Schiff András",
+     "Lehel György",
+     "Mihály András"
+    ],
+    "student_of": [
+     "Kardos István",
+     "Kodály Zoltán"
+    ]
+   },
+   "source": "lfze_nagy_elodok",
+   "url": "https://lfze.hu/nagy-elodok/kadosa-pal-1801"
+  },
+  "kalman-imre-1802": {
+   "birth": {
+    "date": "1882-10-24",
+    "place": "Siófok"
+   },
+   "death": {
+    "date": "1953-10-30",
+    "place": "Párizs"
+   },
+   "name": "Kálmán Imre",
+   "relationships": {
+    "student_of": [
+     "Koessler János"
+    ]
+   },
+   "source": "lfze_nagy_elodok",
+   "url": "https://lfze.hu/nagy-elodok/kalman-imre-1802"
+  },
+  "kocsis-zoltan-158": {
+   "birth": {
+    "date": "1952-05-30",
+    "place": "Budapest"
+   },
+   "death": {
+    "date": "2016-11-06",
+    "place": "Budapest"
+   },
+   "name": "Kocsis Zoltán",
+   "relationships": {
+    "student_of": [
+     "Sugár Rezső",
+     "Soproni József",
+     "Kadosa Pál"
+    ]
+   },
+   "source": "lfze_nagy_elodok",
+   "url": "https://lfze.hu/nagy-elodok/kocsis-zoltan-158"
+  },
+  "kodaly-zoltan-1794": {
+   "birth": {
+    "date": "1882-12-16",
+    "place": "Kecskemét"
+   },
+   "death": {
+    "date": "1967-03-06",
+    "place": "Budapest"
+   },
+   "name": "Kodály Zoltán",
+   "relationships": {
+    "collaborator": [
+     "Bartók Béla"
+    ],
+    "student_of": [
+     "Koessler János"
+    ]
+   },
+   "source": "lfze_nagy_elodok",
+   "url": "https://lfze.hu/nagy-elodok/kodaly-zoltan-1794"
+  },
+  "koessler-hans-316": {
+   "birth": {
+    "date": "1853-01-01",
+    "place": "Waldeck"
+   },
+   "death": {
+    "date": "1926-05-23",
+    "place": "Ansbach"
+   },
+   "name": "Koessler, Hans",
+   "relationships": {
+    "notable_student": [
+     "Bartók Béla",
+     "Kodály Zoltán",
+     "Dohnányi Ernő",
+     "Kálmán Imre",
+     "Szirmai Albert",
+     "Weiner Leó",
+     "Antalffy Zsíross Dezső",
+     "Hammerschlag János",
+     "Zalánfy Aladár",
+     "Siklós Albert",
+     "Lányi Ernő",
+     "Jacobi Viktor"
+    ],
+    "student_of": [
+     "Rheinberger",
+     "Wüllner"
+    ]
+   },
+   "source": "lfze_nagy_elodok",
+   "url": "https://lfze.hu/nagy-elodok/koessler-hans-316"
+  },
+  "kokai-rezso-1793": {
+   "birth": {
+    "date": "1906-01-15",
+    "place": "Budapest"
+   },
+   "death": {
+    "date": "1962-03-06",
+    "place": "Budapest"
+   },
+   "name": "Kókai Rezső",
+   "relationships": {
+    "notable_student": [
+     "Bónis Ferenc"
+    ],
+    "student_of": [
+     "Hegyi Emánuel",
+     "Koessler János"
+    ]
+   },
+   "source": "lfze_nagy_elodok",
+   "url": "https://lfze.hu/nagy-elodok/kokai-rezso-1793"
+  },
+  "kosa-gyorgy-1791": {
+   "birth": {
+    "date": "1897-04-24",
+    "place": "Budapest"
+   },
+   "death": {
+    "date": "1984-08-16",
+    "place": "Budapest"
+   },
+   "name": "Kósa György",
+   "relationships": {
+    "student_of": [
+     "Bartók Béla",
+     "Dohnányi Ernő",
+     "Kodály Zoltán",
+     "Herzfeld Viktor"
+    ]
+   },
+   "source": "lfze_nagy_elodok",
+   "url": "https://lfze.hu/nagy-elodok/kosa-gyorgy-1791"
+  },
+  "kurtag-gyorgy-1786": {
+   "birth": {
+    "date": "1926-02-19",
+    "place": "Lugos"
+   },
+   "death": null,
+   "name": "Kurtág György",
+   "relationships": {
+    "collaborator": [
+     "Ligeti György",
+     "Marianne Stein"
+    ],
+    "student_of": [
+     "Kardos Magda",
+     "Max Eisikovits",
+     "Kadosa Pál",
+     "Veress Sándor",
+     "Farkas Ferenc",
+     "Weiner Leó"
+    ]
+   },
+   "source": "lfze_nagy_elodok",
+   "url": "https://lfze.hu/nagy-elodok/kurtag-gyorgy-1786"
+  },
+  "lajtha-laszlo-1785": {
+   "birth": {
+    "date": "1892-06-30",
+    "place": "Budapest"
+   },
+   "death": {
+    "date": "1963-02-16",
+    "place": "Budapest"
+   },
+   "name": "Lajtha László",
+   "relationships": {
+    "notable_student": [
+     "Ferencsik János",
+     "Tátrai Vilmos",
+     "Tóth Margit"
+    ],
+    "student_of": [
+     "Bartók Béla",
+     "Kodály Zoltán",
+     "Herzfeld Viktor"
+    ]
+   },
+   "source": "lfze_nagy_elodok",
+   "url": "https://lfze.hu/nagy-elodok/lajtha-laszlo-1785"
+  },
+  "lehotka-gabor-1784": {
+   "birth": {
+    "date": "1938-07-20",
+    "place": "Vác"
+   },
+   "death": {
+    "date": "2009-12-29",
+    "place": "Vác"
+   },
+   "name": "Lehotka Gábor",
+   "relationships": {
+    "student_of": [
+     "Pikéthy Tibor",
+     "Pécsi Sebestyén",
+     "Sugár Rezső",
+     "Szervánszky Endre"
+    ]
+   },
+   "source": "lfze_nagy_elodok",
+   "url": "https://lfze.hu/nagy-elodok/lehotka-gabor-1784"
+  },
+  "lendvay-kamillo-1782": {
+   "birth": {
+    "date": "1928-12-28",
+    "place": "Budapest"
+   },
+   "death": {
+    "date": "2016-11-30",
+    "place": "Budapest"
+   },
+   "name": "Lendvay Kamilló",
+   "relationships": {
+    "family": [
+     {
+      "name": "Lendvai Ervin",
+      "note": "composer, Kodály classmate, worked in Germany, died London 1949",
+      "relation": "uncle"
+     }
+    ],
+    "student_of": [
+     "Viski János",
+     "Somogyi László"
+    ]
+   },
+   "source": "lfze_nagy_elodok",
+   "url": "https://lfze.hu/nagy-elodok/lendvay-kamillo-1782"
+  },
+  "ligeti-gyorgy-1780": {
+   "birth": {
+    "date": "1923-05-28",
+    "place": "Dicsőszentmárton"
+   },
+   "death": {
+    "date": "2006-06-12",
+    "place": "Bécs"
+   },
+   "name": "Ligeti György",
+   "relationships": {
+    "collaborator": [
+     "Farkas Ferenc",
+     "Szőllősy András",
+     "Karlheinz Stockhausen"
+    ],
+    "notable_student": [
+     "Wolfgang von Schweinitz",
+     "Detlef Müller-Siemens",
+     "Manfred Stahnke"
+    ],
+    "student_of": [
+     "Veress Sándor",
+     "Farkas Ferenc"
+    ]
+   },
+   "source": "lfze_nagy_elodok",
+   "url": "https://lfze.hu/nagy-elodok/ligeti-gyorgy-1780"
+  },
+  "maros-rudolf-1775": {
+   "birth": {
+    "date": "1917-01-19",
+    "place": "Stachy"
+   },
+   "death": {
+    "date": "1982-08-02",
+    "place": "Budapest"
+   },
+   "name": "Maros Rudolf",
+   "relationships": {
+    "collaborator": [
+     "Weöres Sándor"
+    ],
+    "student_of": [
+     "Kodály Zoltán",
+     "Alois Hába"
+    ]
+   },
+   "source": "lfze_nagy_elodok",
+   "url": "https://lfze.hu/nagy-elodok/maros-rudolf-1775"
+  },
+  "meszlenyi-kraus-robert-1771": {
+   "birth": {
+    "date": "1883-03-23",
+    "place": "Arad"
+   },
+   "death": {
+    "date": "1946-02-28",
+    "place": "Budapest"
+   },
+   "name": "Meszlényi (Kraus) Róbert",
+   "relationships": {
+    "student_of": [
+     "Koessler János"
+    ]
+   },
+   "source": "lfze_nagy_elodok",
+   "url": "https://lfze.hu/nagy-elodok/meszlenyi-kraus-robert-1771"
+  },
+  "mihalovich-odon-1679": {
+   "birth": {
+    "date": "1842-09-13",
+    "place": "Feričance"
+   },
+   "death": {
+    "date": "1929-04-22",
+    "place": "Budapest"
+   },
+   "name": "Mihalovich Ödön",
+   "relationships": {
+    "student_of": [
+     "Mosonyi Mihály",
+     "Moritz Hauptmann",
+     "Salamon Jadassohn",
+     "Peter Cornelius"
+    ]
+   },
+   "source": "lfze_nagy_elodok",
+   "url": "https://lfze.hu/nagy-elodok/mihalovich-odon-1679"
+  },
+  "mihaly-andras-1770": {
+   "birth": {
+    "date": "1917-11-07",
+    "place": "Budapest"
+   },
+   "death": {
+    "date": "1993-09-19",
+    "place": "Budapest"
+   },
+   "name": "Mihály András",
+   "relationships": {
+    "student_of": [
+     "Schiffer Adolf",
+     "Weiner Leó",
+     "Waldbauer Imre",
+     "Kadosa Pál",
+     "Strasser István"
+    ]
+   },
+   "source": "lfze_nagy_elodok",
+   "url": "https://lfze.hu/nagy-elodok/mihaly-andras-1770"
+  },
+  "nagy-oliver-1767": {
+   "birth": {
+    "date": "1912-09-24",
+    "place": "Budapest"
+   },
+   "death": {
+    "date": "2000-10-12",
+    "place": "Budapest"
+   },
+   "name": "Nagy Olivér",
+   "relationships": {},
+   "source": "lfze_nagy_elodok",
+   "url": "https://lfze.hu/nagy-elodok/nagy-oliver-1767"
+  },
+  "nyiregyhazi-ervin-1761": {
+   "birth": {
+    "date": "1903-01-19",
+    "place": "Budapest"
+   },
+   "death": {
+    "date": "1987-04-13",
+    "place": "Los Angeles"
+   },
+   "death_note": "Article header says 1987-04-10, but article body text and Wikipedia say 1987-04-13; using the corrected date.",
+   "name": "Nyíregyházi Ervin",
+   "relationships": {
+    "student_of": [
+     "Székely Arnold",
+     "Dohnányi Ernő"
+    ]
+   },
+   "source": "lfze_nagy_elodok",
+   "url": "https://lfze.hu/nagy-elodok/nyiregyhazi-ervin-1761"
+  },
+  "orszagh-tivadar-1758": {
+   "birth": {
+    "date": "1901-12-05",
+    "place": "Soroksár"
+   },
+   "death": {
+    "date": "1963-10-11",
+    "place": "Budapest"
+   },
+   "name": "Országh Tivadar",
+   "relationships": {
+    "student_of": [
+     "Bloch József",
+     "Hubay Jenő",
+     "Szerémi Gusztáv",
+     "Zsolt Nándor",
+     "Kodály Zoltán",
+     "Weiner Leó"
+    ]
+   },
+   "source": "lfze_nagy_elodok",
+   "url": "https://lfze.hu/nagy-elodok/orszagh-tivadar-1758"
+  },
+  "partos-odon-162": {
+   "birth": {
+    "date": "1907-10-01",
+    "place": "Budapest"
+   },
+   "death": {
+    "date": "1977-07-06",
+    "place": "Tel Aviv"
+   },
+   "name": "Pártos Ödön",
+   "relationships": {
+    "collaborator": [
+     "Seiber Mátyás",
+     "Doráti Antal"
+    ],
+    "student_of": [
+     "Hubay Jenő",
+     "Weiner Leó",
+     "Kodály Zoltán"
+    ]
+   },
+   "source": "lfze_nagy_elodok",
+   "url": "https://lfze.hu/nagy-elodok/partos-odon-162"
+  },
+  "petrovics-emil-1750": {
+   "birth": {
+    "date": "1930-02-09",
+    "place": "Nagybecskerek"
+   },
+   "death": {
+    "date": "2011-06-30",
+    "place": "Budapest"
+   },
+   "name": "Petrovics Emil",
+   "relationships": {
+    "collaborator": [
+     "Hubay Miklós"
+    ],
+    "student_of": [
+     "Sugár Rezső",
+     "Szabó Ferenc",
+     "Viski János",
+     "Farkas Ferenc"
+    ]
+   },
+   "source": "lfze_nagy_elodok",
+   "url": "https://lfze.hu/nagy-elodok/petrovics-emil-1750"
+  },
+  "pongracz-zoltan-1748": {
+   "birth": {
+    "date": "1912-02-05",
+    "place": "Diószeg"
+   },
+   "death": {
+    "date": "2007-04-03",
+    "place": "Budapest"
+   },
+   "name": "Pongrácz Zoltán",
+   "relationships": {
+    "student_of": [
+     "Mathia Károly",
+     "Kodály Zoltán",
+     "Gottfried Michael Koenig"
+    ]
+   },
+   "source": "lfze_nagy_elodok",
+   "url": "https://lfze.hu/nagy-elodok/pongracz-zoltan-1748"
+  },
+  "seiber-matyas-1728": {
+   "birth": {
+    "date": "1905-05-04",
+    "place": "Budapest"
+   },
+   "death": {
+    "date": "1960-09-24",
+    "place": "Dél-Afrika"
+   },
+   "name": "Seiber Mátyás",
+   "relationships": {
+    "family": [
+     {
+      "name": "Patay Berta",
+      "note": "zongoraművész, tanár",
+      "relation": "mother"
+     }
+    ],
+    "student_of": [
+     "Kodály Zoltán",
+     "Siklós Albert"
+    ]
+   },
+   "source": "lfze_nagy_elodok",
+   "url": "https://lfze.hu/nagy-elodok/seiber-matyas-1728"
+  },
+  "serly-tibor-1727": {
+   "birth": {
+    "date": "1901-11-25",
+    "place": "Losonc"
+   },
+   "death": {
+    "date": "1978-10-08",
+    "place": "London"
+   },
+   "name": "Serly Tibor",
+   "relationships": {
+    "collaborator": [
+     "Bartók Béla"
+    ],
+    "family": [
+     {
+      "name": "Serly Lajos",
+      "note": "operett- és dalkomponista",
+      "relation": "father"
+     }
+    ],
+    "student_of": [
+     "Kodály Zoltán",
+     "Siklós Albert",
+     "Hubay Jenő"
+    ]
+   },
+   "source": "lfze_nagy_elodok",
+   "url": "https://lfze.hu/nagy-elodok/serly-tibor-1727"
+  },
+  "siklos-albert-1726": {
+   "birth": {
+    "date": "1878-06-26",
+    "place": "Budapest"
+   },
+   "death": {
+    "date": "1942-04-03",
+    "place": "Budapest"
+   },
+   "name": "Siklós Albert",
+   "relationships": {
+    "notable_student": [
+     "Farkas Ferenc",
+     "Ádám Jenő",
+     "Fricsay Ferenc",
+     "Maros Rudolf",
+     "Szervánszky Endre"
+    ],
+    "student_of": [
+     "Koessler János"
+    ]
+   },
+   "source": "lfze_nagy_elodok",
+   "url": "https://lfze.hu/nagy-elodok/siklos-albert-1726"
+  },
+  "soproni-jozsef-1677": {
+   "birth": {
+    "date": "1930-10-04",
+    "place": "Sopron"
+   },
+   "death": {
+    "date": "2021-04-24",
+    "place": null
+   },
+   "name": "Soproni József",
+   "relationships": {
+    "student_of": [
+     "Viski János"
+    ]
+   },
+   "source": "lfze_nagy_elodok",
+   "url": "https://lfze.hu/nagy-elodok/soproni-jozsef-1677"
+  },
+  "szervanszky-endre-1713": {
+   "birth": {
+    "date": "1911-12-27",
+    "place": "Kistétény"
+   },
+   "death": {
+    "date": "1977-06-25",
+    "place": "Budapest"
+   },
+   "name": "Szervánszky Endre",
+   "relationships": {
+    "notable_student": [
+     "Decsényi János",
+     "Sári József",
+     "Balassa Sándor",
+     "Sáry László",
+     "Madarász Iván",
+     "Huszár Lajos",
+     "Serei Zsolt"
+    ],
+    "student_of": [
+     "Siklós Albert"
+    ]
+   },
+   "source": "lfze_nagy_elodok",
+   "url": "https://lfze.hu/nagy-elodok/szervanszky-endre-1713"
+  },
+  "szirmai-albert-1711": {
+   "birth": {
+    "date": "1880-07-02",
+    "place": "Budapest"
+   },
+   "death": {
+    "date": "1967-01-15",
+    "place": "New York"
+   },
+   "name": "Szirmai Albert",
+   "relationships": {
+    "collaborator": [
+     "Gábor Andor"
+    ],
+    "student_of": [
+     "Hans Koessler"
+    ]
+   },
+   "source": "lfze_nagy_elodok",
+   "url": "https://lfze.hu/nagy-elodok/szirmai-albert-1711"
+  },
+  "szokolay-sandor-1680": {
+   "birth": {
+    "date": "1931-03-30",
+    "place": "Kunágota"
+   },
+   "death": {
+    "date": "2013-12-08",
+    "place": "Sopron"
+   },
+   "name": "Szokolay Sándor",
+   "relationships": {
+    "student_of": [
+     "Szabó Ferenc",
+     "Farkas Ferenc"
+    ]
+   },
+   "source": "lfze_nagy_elodok",
+   "url": "https://lfze.hu/nagy-elodok/szokolay-sandor-1680"
+  },
+  "szollosy-andras-1709": {
+   "birth": {
+    "date": "1921-02-27",
+    "place": "Szászváros"
+   },
+   "death": {
+    "date": "2007-12-06",
+    "place": "Budapest"
+   },
+   "name": "Szőllősy András",
+   "relationships": {
+    "collaborator": [
+     "Maros Rudolf",
+     "Ligeti György"
+    ],
+    "student_of": [
+     "Kodály Zoltán",
+     "Siklós Albert",
+     "Viski János",
+     "Goffredo Petrassi"
+    ]
+   },
+   "source": "lfze_nagy_elodok",
+   "url": "https://lfze.hu/nagy-elodok/szollosy-andras-1709"
+  },
+  "szonyi-erzsebet-1708": {
+   "birth": {
+    "date": "1924-04-25",
+    "place": "Budapest"
+   },
+   "death": {
+    "date": "2019-12-28",
+    "place": null
+   },
+   "name": "Szőnyi Erzsébet",
+   "relationships": {
+    "student_of": [
+     "Viski János",
+     "Tony Aubin",
+     "Nadia Boulanger",
+     "Messiaen",
+     "Kodály Zoltán"
+    ]
+   },
+   "source": "lfze_nagy_elodok",
+   "url": "https://lfze.hu/nagy-elodok/szonyi-erzsebet-1708"
+  },
+  "veress-sandor-1696": {
+   "birth": {
+    "date": "1907-02-01",
+    "place": "Kolozsvár"
+   },
+   "death": {
+    "date": "1992-03-04",
+    "place": "Bern"
+   },
+   "name": "Veress Sándor",
+   "relationships": {
+    "notable_student": [
+     "Ligeti György",
+     "Kurtág György",
+     "Vas Lajos",
+     "Heinz Holliger",
+     "Heinz Marti",
+     "Jürg Wittenbach"
+    ],
+    "student_of": [
+     "Kodály Zoltán",
+     "Bartók Béla"
+    ]
+   },
+   "source": "lfze_nagy_elodok",
+   "url": "https://lfze.hu/nagy-elodok/veress-sandor-1696"
+  },
+  "volkmann-robert-160": {
+   "birth": {
+    "date": "1815-04-06",
+    "place": "Lommatzsch"
+   },
+   "death": {
+    "date": "1883-10-29",
+    "place": "Budapest"
+   },
+   "name": "Volkmann, Robert",
+   "relationships": {
+    "family": [
+     {
+      "name": "Hans Volkmann",
+      "note": "zenetörténész, feldolgozta életművét",
+      "relation": "nephew"
+     }
+    ],
+    "student_of": [
+     "Karl Ferdinand Becker"
+    ]
+   },
+   "source": "lfze_nagy_elodok",
+   "url": "https://lfze.hu/nagy-elodok/volkmann-robert-160"
+  },
+  "weiner-leo-1692": {
+   "birth": {
+    "date": "1885-04-16",
+    "place": "Budapest"
+   },
+   "death": {
+    "date": "1960-09-13",
+    "place": "Budapest"
+   },
+   "name": "Weiner Leó",
+   "relationships": {
+    "notable_student": [
+     "Solti György",
+     "Doráti Antal",
+     "Starker János",
+     "Kurtág György"
+    ],
+    "student_of": [
+     "Koessler János"
+    ]
+   },
+   "source": "lfze_nagy_elodok",
+   "url": "https://lfze.hu/nagy-elodok/weiner-leo-1692"
+  }
+ }
+}

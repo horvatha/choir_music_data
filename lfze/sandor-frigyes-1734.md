@@ -1,0 +1,25 @@
+# Sándor Frigyes
+
+Budapest, 1905. április 24. – Budapest, 1979. június 4.
+
+Sándor Frigyes hegedűművész, karmester és hegedűtanár polgári család harmadik gyermekeként született. Mindhárom gyerek a muzsikus pályát választotta élethivatásául, ahol jelentős sikereket értek el.
+
+Sándor Frigyes két zongorista testvérével szemben hegedű-tanulmányokat kezdett, gyerekként is már mint a Zeneakadémia növendéke. Tízévesen került a hegedű tanárképző híres vezetőjének, Bloch Józsefnek osztályába, ahol három tanévet (1915–1918) töltött. 1919 és 1925 között a Hubay-növendék Mambriny Gyula irányításával folytatta akadémiai stúdiumait és a tanárképző első osztályát. Tanulmányait az akkoriban nagyhírű Kemény Rezső vezetése alatt fejezte be. A vonósnégyes tantárgyat Waldbauer Imre növendékeként tanulta.
+
+Hangszeres karrierjének első fontos állomása a Budapesti Ének- és Zenekaregyesület keretében végzett hangversenymesteri munkája 1926-tól 1933-ig. Az operaházi korrepetitor és karmester, Lichtenberg Emil vezetése alatt működő egyesület ez időben a magyar oratóriumkultúra egyik szilárd oszlopa. A próbákon és előadásokon eltöltött idő alatt Sándor Frigyes pályáját meghatározó repertoár- és stílusismeretet, élményeket, tapasztalatokat szerzett. Az együttesben rendszeres munkával eltöltött időszaknak egy, az egész életutat megváltoztató betegség, kezének mozgását súlyosan gátoló írásgörcs vetett véget.
+
+Hegedűs tevékenységét ebben az időben váltotta fel karmesteri munkája. A harmincas-negyvenes években különböző alkalmi és hosszabb időszakon át állandó összetételű együtteseket vezetett. Ezeknek egy része 1939-től kezdve már csak az OMIKE (Országos Magyar Izraelita Kulturális Egyesület) keretében jutott pódiumhoz, ez azonban azt is jelentette, hogy a híres Goldmark-termi koncerteken Sándor Frigyes a magyar művészeti élet számos kiválóságának is partnere lehetett. Ez időben került sor korai karmesteri tevékenységének legjelentősebb eseményére: 1941-ben ő vezényelte Bartók Divertimentó jának budapesti bemutatóját. (A magyarországi bemutatóra az akkor átmenetileg Magyarországhoz visszacsatolt Kolozsvárott, Vaszy Viktor vezényletével került sor, ugyancsak 1941-ben.) 1940. július 10-én kötött házasságot Dénes Vera gordonkaművésszel (1915–1970).
+
+Az 1940-es évek művészi aktivitásának a munkaszolgálat vetett véget.
+
+A II. világháború befejezése után Sándor Frigyes az újjáéledő fővárosi hangversenyéletben (a Székesfővárosi Zenekar élén) jelentősebb karmesteri feladatokat kapott, valamint a megalakuló Fővárosi Zeneiskola-szervezet és az újrainduló Nemzeti Zenede tanára lett, ahol hegedű és kamarazene tantárgyakat tanított. Az új társadalmi viszonyok által felszínre került új pedagógiai irányzatok haladó, új módszerű hangszeres iskolákat is követeltek. A Cserépfalvi kiadó egy új szemléletű hegedűiskola-sorozatra adott megbízást Sándor Frigyesnek, zeneszerző-társként Járdányi Pálnak és Szervánszky Endrének. A korábbi metodikai módszerekkel gyökeresen szakító, a „tandarabok" helyett elsősorban a magyar népzenére és a klasszikus zeneirodalomra alapozó Hegedű ABC első kötete 1949-ben jelent meg, és ezt követték a továbbiak is (I–V.), és váltak hosszú időszakra a hegedűoktatás alapjává. (A Hegedű ABC azóta is újra meg újra megjelenik, és a világ számos országában használják.)
+
+A zeneiskolák átszervezése során Sándor Frigyes a korábbi Konzervatórium és a Nemzeti Zenede egyesüléséből alakult Bartók Béla Zeneművészeti Szakiskola vezetésére kapott megbízást. Az iskola keretén belül indult meg (eleinte szaktanárképző névvel) az alapfokú zenetanárok képzése; ez később a Főiskola Tanárképző Intézetének feladatává lett. Sándor Frigyes vezetői tevékenysége mellett (1949–1958) kamarazenét tanított és az intézet zenekarait vezette.
+
+Igazgatói megbízásának befejeztével 1958-tól a Liszt Ferenc Zeneművészeti Főiskola kamarazene tanáraként működött tovább. Itt felsőfokú tanulmányaikat végző hallgatókkal került kapcsolatba, akiknek egy csoportja 1963-ban meghívta őt egy ideje már rendszeresen együtt játszó kamarazenekaruk vezetésére. Bevallottan a még csak alig néhány éve működő I Musici di Roma együttese volt a kamarazenekar mintája, azonban a karmesteri irányításnak köszönhetően az új magyar együttes a világhírű olasz társulaténál szélesebb repertoárt volt képes meghódítani (Bach: Kunst der Fuge , Stravinsky, Honegger stb. művei). A zenekar néhány évig a Liszt Ferenc Zeneművészeti Főiskola Kamarazenekara néven működött, majd felvette – az Alma Materre utaló – Liszt Ferenc Kamarazenekar nevet. Sándor Frigyes élettörténete elválaszthatatlan a Liszt Ferenc Kamarazenekar történetétől, mint ahogy a Liszt Ferenc Kamarazenekar útja elválaszthatatlan Sándor Frigyes személyétől.
+
+Az 1974/75-ös tanévben Sándor Frigyes nyugalomba vonult főiskolai állásából, ennek ellenére még hosszú éveken keresztül megtartotta óráinak jelentős részét. Néhány évvel később egyre súlyosodó betegsége tette számára egyre nehezebbé pedagógiai, és egy idő múlva együttesvezetői munkáját is. Éveken át küzdve a betegséggel 1979. júniusában hunyt el.
+
+*Székely András*
+
+Source: https://lfze.hu/nagy-elodok/sandor-frigyes-1734

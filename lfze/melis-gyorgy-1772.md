@@ -1,0 +1,25 @@
+# Melis György
+
+Szarvas, 1923. július 2. – Budapest, 2009. november 27.
+
+„ Áldott legyen valamennyi tanárom neve, Rosthy Annáé mindenekelőtt azért, mert eleinte kizárólag dalokat hagyott énekelni. Molnár Imre vesszőparipája volt, hogy az éneklés nem azonos az üvöltéssel, ordítással; az éneklés gondolat- és érzelemközvetítés, nem mutatvány, hanem a kommunikáció sajátos, művészi eszköze. Felsensteinnél a berlini Komische Operben százszor megismételtünk egy-egy jelenetet, amikor már mindenki mindent tudott. A rögtönzés ugyanis műidegen, annak csak az üdvös látszatát lehet kelteni – ha valaki fölényesen birtokában van a szerepének."
+
+Melis György 1945 és 1950 között volt a Zeneakadémia növendéke Rosthy Anna, Molnár Imre, majd Révhegyi Ferencné tanítványaként. 1949-ben debütált az Operaházban a Carmen Moraleseként. Néhány év múlva már a színház első baritonistája, Palló Imre utóda mind szerepkörben, mind népszerűségben. Hanganyagát tekintve lírai bariton, de egyénisége hősbaritonná is tudta tenni. Épp ez a rendkívül sokszínű egyéniség az indoka talán annak, hogy legnagyobb alakításai a hősbariton szerepkörbe tartoznak: Don Giovanni, A Végzet hatalma – Carlos, Figaro – Gróf.
+
+„ Féltünk is tőle, amikor a kulcsot követeli feleségétől, vagy amikor a D-dúr áriában felizzanak az indulatai, elhisszük neki a vágyat is az a-moll duettben, és hálásak vagyunk neki, mert anélkül, hogy leereszkedne és veszítene méltóságából, képes beilleszkedni a rendszerint kárára végződő buffahelyzetekbe, együttesekbe is " – mondta róla Kroó György az 1977. januárjában, Ferencsik János születésnapi előadássorozatában bemutatott Figaro házassága kapcsán.
+
+1955-ben énekelte első Don Giovanniját és a kezdeti pillanattól az élvonalban állt a Mozart- és a könnyed olasz szerepekben. Mint mindig, ebben a szerepben is folyton újat tudott mondani. Erdélyi Miklós szinte kimeríthetetlen örömforrásként élte meg a vele való együttműködést: „ Most Don Juan felújításra készülünk. Felújítás – Melissel. A szó megkapja eredeti értelmét. Mert ő sosem a régi alakítását ismétli meg, nem hoz megkövesedett formákat, manírokat. Felújítja Don Juant önmagában, önmaga számára ".
+
+Komplex művészet volt az övé: a szinte minden árnyalatra képes hang éppúgy fontos benne, mint a zenei magasrendűség, színészi játék éppúgy, mint a stiláris biztonság, a technikai tudás vagy a sokrétű egyéniség. Mindez együtt adta légkörteremtő képességét. Énekelte az összes nálunk játszott Mozart-mű bariton főszerepét, Verdi hőseit, s a repertoár majdnem minden művét, Wagner kivételével.
+
+1963-ban részese volt az egyik nagy Ferencsik-produkciónak, Debussy Pelleas és Mélisande bemutatójának, amelyből a pesti közönség nemcsak magát a művet ismerhette meg, de azt is megtudhatta, milyen bűvöletben vetette papírra Bartók a Kékszakállú elejének mélyvonósokon intonált balladáját. S a párhuzam említése nem véletlen, hiszen Melis pályájának egyik legfontosabb szerepe volt a Kékszakállú, amelyet ugyancsak Ferencsik vezényletével énekelt először, küzdve a múlt óriásárnyaival – Kálmán Oszkár, Székely Mihály emlékével. Melis személyében a basszistáktól végre a partitúra szerinti bariton „vette át" a szerepet, amellyel egyik legnagyobb hazai és nemzetközi sikerét aratta a művész. Magyar repertoárja egyedülálló: a Bánk bán ban énekelte Biberachot, Tiborcot és Petúrt; a János vitéz ben Kukorica Jancsit, a Strázsamestert és Bagót. Kora nagy színészeként tartották nyilván, aki egyben kiváló énekes is volt. Legendás volt Anyegin-alakítása, amelyben a legnehezebb feladattal kellett megbirkóznia: érdektelenséget, szürkeséget ábrázolt úgy, hogy a közönség figyelni tudott rá. Közben szépen énekelt, igényesen mondott szöveget, és a darab végén elemi erővel lobbant lángra. Várva várt operai pillanatok voltak, amikor Figarót énekelt Rossini A sevillai borbély ában. Nagyszabású mókamesternek bizonyult a közönség vastapsai közepette, aki rögtönzött lazzo-ötleteket szórt szanaszét – a tudás, a sokszoros begyakorlottság biztonságával.
+
+Kiváló dalénekes és oratóriumszólista, számos új magyar mű bemutatása fűződik nevéhez. Sokszor vendégszerepelt külföldön. Békés András rendező, a Magyar Állami Operaház örökös tagja és mesterművésze Melis Györgyöt korunk legjobb színpadi művészeként jellemezte, beleértve nemcsak az operaénekeseket, de a színészeket is. Ahogy Arany János A fülelmile című versét elmondta, nem adta elő jobban Bessenyei Ferenc vagy Kállai Ferenc sem. Könnyű volt vele dolgozni, mert felkészülten és koncentráltan próbált, mintha előre tudta volna, mit kérek tőle, és máris csinálta.
+
+1988-ban alapította saját díját: a Melis György-emlékplakettet évente adják a legszebb, legtisztább magyar kiejtésű énekesnek. Két évtized alatt csaknem húsz művész vette át az elismerést. 1989 óta az Operaház örökös tagja. 1991 decemberében ünnepelték kétezredik operai fellépését a Così fan tutteban.
+
+A Kossuth- és háromszoros Liszt-díjas, Bartók-Pászthory-díjas , Kiváló művész 2009. november 27-én hunyt el Budapesten.
+
+*Tóth Anna*
+
+Source: https://lfze.hu/nagy-elodok/melis-gyorgy-1772

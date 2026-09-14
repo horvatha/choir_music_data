@@ -1,0 +1,21 @@
+# Anda Géza
+
+Budapest, 1921. november 19. – Zürich, 1976. június 14.
+
+Anda Géza 1939-ben Budapesten mutatkozott be a nagyközönség előtt Brahms B-dúr zongoraversenyének szólistájaként, a Philharmonia Zenekart Willem Mengelberg vezényelte. 1941-ben, az akadémiai évek után, Berlinbe utazott, ahol César Franck Szimfonikus variációit játszotta. Wilhelm Furtwängler, a koncert karmestere a zongora trubadúrjának nevezte a húsz esztendős pianistát. Erőteljes felütés egy ragyogónak ígérkező karrier kezdetén, ám a pálya íve néhány évre megszakad.
+
+Anda rendszeres zongoratanulmányait 1933-ban kezdte. Eleinte Stefániai Imrénél, Hegyi Emánuelnél és Keéri-Szántó Imrénél tanult. Művésszé érése szempontjából a Dohnányi Ernőnél töltött utolsó két év (1939–1941) volt a meghatározó. De „ gyakran látogattam Weiner Leó kamarazene-óráit is " – emlékezett vissza egy interjújában tanulmányaira – „ és csak azt tudom mondani, amit mindenki más az én generációmból, legyen az hegedűs, brácsás, csellista vagy zongorista, hogy a legtöbbet tőle tanultam... Számára a hangszernek nem volt jelentősége. Weinernél mi nem a hangszeren való játékot tanultuk meg, hanem érteni a zenét... " Anda Géza legendás mesterkurzusain – a visszaemlékezések tanúsága szerint – a weineri szellem élt tovább.
+
+1943-ban Svájcba költözött. Az 1948-ig tartó időszak a túlélésért folytatott harc jegyében telt. 1951-től rendszeresen fellépett a salzburgi fesztiválon. Ebben az időben Anda Géza neve a virtuóz szinonimájává vált Európa-szerte. Beethoven, Liszt, Schumann, Grieg, Brahms, Csajkovszkij és Rachmaninov zongoraversenyeivel szerepelt. Mozart versenyműveivel ebben az időben még nem foglalkozott behatóbban. 1953 és 1958 között több alkalommal is fellépett Clara Haskillal. Mozart Esz-dúr kétzongorás versenyének (K 365) közös előadása döntőnek bizonyult Anda művészi orientációjának megváltozásában. A Mozart-zene intenzív tanulmányozásának eredményeképpen lemezre vette a szerző összes zongoraversenyét (Deutsche Grammophon), Edwin Fischer példája nyomán a zongora mellől vezényelve zenekarát. A hiányzó kadenciákat minden esetben megkomponálta (kadenciáit 1973-ban meg is jelentette). A szakma és közönség már nem „csak" zseniális virtuózt látott benne, hanem Mozart-specialistát. 1953-tól zongora mesterkurzusokat tartott a salzburgi Mozarteum Nemzetközi Nyári Akadémiáján. 1955-ben megkapta a svájci állampolgárságot.
+
+1957-ben egy koncerten mutatta be Bartók három zongoraversenyét Ernest Bour vezényletével. Az I. zongoraverseny t ezen a koncerten játszotta először. A II. és a III. zongoraverseny Fricsayval közös felvételéért hanglemezdíjat kapott (Grand Prix du Disque).
+
+1967-ben „mintegy negyedszázadnyi távollét után diadalmasan tért vissza hazájába". A magyarországi kritikák felsőfokban beszéltek játékáról. Bartók II. zongoraversenyének interpretációja Szvjatoszlav Richter, Schumann-tolmácsolása (Davidsbündlertänze) Gieseking zongorázásának „magaslataira érkezett el". Később is koncertezett Budapesten, beteljesítve egy, a visszatérését üdvözlő óhajt: „...csak azt kívánhatjuk, hogy Anda Géza alakja ne vesszen ismét a megszépítő messzeségbe, hanem ezentúl minél gyakrabban újból vendégünk legyen !"
+
+1975 decemberében Chopin-keringőkkel búcsúzott el a hanglemezstúdióktól. Utolsó koncertjét Innsbruckban adta 1976. június 1-én. Pályája során olyan karmesterek társaságában dolgozhatott, mint Herbert von Karajan, Karl Böhm, Wolfgang Sawalisch, Ernest Ansermet, Széll György, vagy Solti György.
+
+Kroó György 1967-es budapesti koncertje után írta: „ Anda zongorázásának varázsa mindenekelőtt rendkívüli billentés-kultúrájában rejlik. Ehhez hasonlóan szép zongorahang csak nagyon-nagyon kevés van a világon. [...] Amikor futamokat, méginkább hosszabb, kötött skálaszerű melódiákat játszik a billentyűzet teljes szélességében, úgy változik a hang színe, mintha emberi hangok váltanák egymást: az alt tenorrá válik, a tenor basszussá sötétül. Azután itt vannak ezek a különös, alig megütött, szinte csak kitapintott, átfutó, átsuhanó középszólamok, a Schumann-műben, amelyek Anda előadása köré már-már hoffmanni atmoszférát varázsolnak. Technika ez még, csak a billentés kérdése? Távolról sem. Már régesrég a zenéről beszélünk [...]"
+
+*Molnár Szabolcs*
+
+Source: https://lfze.hu/nagy-elodok/anda-geza-1765

@@ -1,0 +1,17 @@
+# Závodszky Zoltán
+
+Bátorkeszi, 1892. július 18. – Budapest, 1976. szeptember 8.
+
+Závodszky Zoltán 1916-ban iratkozott be a Zeneakadémiára, mégpedig azonnal három szakra. Éneket 1920-ig Anthes Györgynél, orgonát három évig Antalffy-Zsiross Dezsőnél tanult, és három évig folytatott zeneszerzés-tanulmányokat Weiner Leó, majd Kodály Zoltán és Herzfeld Viktor növendékeként.
+
+1920-ban lett az Operaház tagja; Kerner kívánságára hat évig kis és karakterszerepeket énekelt, 1926-ban alakította a Bolygó hollandi Erikjét és ezzel elindult a Wagner-szerepekhez vezető úton. Néhány év alatt bemutatkozott az összes Wagner-zenedráma vezető tenor főszerepében; ő volt az első – és a mai napig egyetlen – magyar tenorista, aki ezt a szerepkört a maga teljességében vállalta. Megjelenésére hosszú éveken át vártak azok, akik az Operaház egykori két világhírű vezetője és egyben Wagner-tolmácsa (Nikisch Artúr és Gustav Mahler) teremtette hagyományhoz, a tradicionális Wagner-kultuszhoz szerettek volna visszatérni. Az eszmény visszatérésének lehetőségét jelentette a magyar nyelven éneklő, valamennyi Wagner-hős megszemélyesítésére alkalmas hőstenor, a hangban, előadásban, megjelenésben egyaránt kiváló Závodszky Zoltán feltűnése.
+
+Sergio Failoni, aki az olasz repertoár igazán hiteles karmestereként adott más minőséget, más arculatot a harmincas évek budapesti Operaházának, hatalmas tekintélyét akkor alapozta meg, amikor megmutatta, Wagnernek is nagyszabású értője és tolmácsolója. Az égisze alatt fellépő új magyar Wagner-együttes 1930 őszén szenzációs eseménynek számított. Ekkor mutatkozott be Trisztánként Závodszky Zoltán; az ő kultúrája olyan erénynek bizonyult, amelyet egy mindig kínzó Wagner-tenorhiánnyal küzdő operaszínpadon bizony nagyon megbecsültek. E szerepben lépett színpadra 69 évesen, hogy megünnepelje művészpályája elindulásának 40. évfordulóját, szuggesztíven, a Budapesten akkor már régóta nélkülözött, igazi Wagner-énekstílus és a művészi elhitető képesség teljében.
+
+Évtizedeken át Závodszky volt minden Wagner-előadás központi alakja; a stílus magyar letéteményese és modellje. A háború utáni első, 1946-ban felújított (és Ferencsik által vezényelt) Tannhäuser ban éppen 50. alkalommal énekelte a címszerepet. Tökéletes deklamáció, nagyszerű színpadi mozgás, stílus és hangi erőnlét: ezek a tényezők jellemezték énekesi portréját.1928-ban ő volt az első magyar Stravinsky-Oedipus színpadon, s a mindössze hat előadást megért produkció kapcsán még a nagytekintélyű Jemnitz Sándor is elismeréssel szólt alakításáról, amikor egyedül róla ismerte el, hogy fölfogta a szerep jellegét. A hőstenor-szerepkörben más alakokat is megformált: Pedro, Galicin herceg stb. Még 70 éves korában is elénekelte Walthert.
+
+Závodszky Zoltánt művészi fegyelme, a művek iránti alázata és tudatossága kiváló dalénekessé formálta. Operahős létére bámulatos intuícióval tudott lemondani mindenfajta színészi ábrázolásról a daléneklésben, hogy plasztikusan rajzolhassa hallgatói elé egy-egy finoman megkomponált dallamvonal karakterisztikumát. A műsorán szereplő Schubert- és Schumann-dalokat mindig magyarul énekelte, kizárólag saját fordításában – ezzel is a zene interpretálásának fontosságát hangsúlyozva. Nyugalomba vonulása után a Zeneakadémián, majd Bécsben tanított. Műfordítóként is működött, több operát az ő átültetésében játszanak. Az operaház örökös tagja.
+
+*Tóth Anna*
+
+Source: https://lfze.hu/nagy-elodok/zavodszky-zoltan-1690

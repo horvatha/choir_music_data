@@ -1,0 +1,15 @@
+# Hegyi Emánuel
+
+Pozsony, 1877. március 25. – Budapest, 1944. március 29.
+
+Hegyi Emánuel zongoraművész a két világháború közötti időszakban a Zeneakadémia egyik legmegbízhatóbb, legfelkészültebb tanáregyénisége volt. A Bartók, Kodály és Dohnányi generációjához tartozó művész-tanár 1877. március 25-én született Pozsonyban. Kisgyermek korától intenzíven érdeklődött a zene iránt, ügyesen zongorázott, sőt tanárai rendkívüli tehetségnek tartották, de végül családja javaslatára jogi egyetemet végzett, és a diploma megszerzése után a máramarosszigeti törvényszéken helyezkedett el joggyakornokként.
+
+Huszonkilenc évesen azonban pályamódosításra szánta el magát: Budapestre költözött, és 1906-ban beiratkozott a Zeneakadémiára, ahol Szendy Árpád (zongora) és Szabados Béla (zeneszerzés) növendéke lett. Mindkét mesterének konzervativizmusa, hagyománytisztelete erősen hatott rá. Szendy – aki Gobbi Henriknél és Koessler Jánosnál folytatott tanulmányai után 1883-ban Liszt-ösztöndíjat nyert, és rövid ideig maga Liszt is tanította – ekkorra már saját mesteriskolát teremtett, amelynek középpontjába a XIX. századi úgynevezett briliáns iskola követelményrendszerét, a virtuozitást, a technikai perfekciót állította. A méltatlanul elfeledett egykori Volkmann- és Koessler-növendék, Szabados Béla harminckilenc évig tanított a Zeneakadémián, a húszas évek végén a Nemzeti Zenede főigazgatója volt, s emellett dalaival, férfikaraival, vonósnégyeseivel több zeneszerzői pályázatot is megnyert. Mesterségbeli tudását – avíttnak tűnő, romantikus zeneszerzői stílusa, nyelvezete ellenére – Bartók és Kodály is elismerte. 1905-ben Szendy Árpáddal közösen írta meg a Mária című három felvonásos operát.
+
+Hegyi Emánuel 1910-ben szerzett művészi és tanári diplomát, s ettől kezdve rendszeresen koncertezett itthon és több európai országban. 1912-ben nevezték ki a Zeneakadémia tanárává: az előképzőben és a művészképzőben egyaránt tanított. A húszas évek elejétől magyarországi fellépéseit a Kun Imre nevével fémjelzett, saját korában jó hírű és sikeres hangversenyiroda, a Koncert szervezte. Kun Imre visszaemlékezés-kötetéből ( Harminc év művészek között ) tudjuk, hogy Hegyi – leggyakrabban romantikus kompozíciók, Mendelssohn-, Chopin- és Liszt-művek előadójaként – rendszeresen közreműködött a Koncert zeneakadémiai bérleti estjein, vidéki turnéin, és általában kedvező kritikákat kapott. „ Megőrizte Szendy iskolájának legjobb hagyományait: a jól megalapozott tudást, színes billentést, férfias erőt és a széles dinamikai skálát. Ezek a tulajdonságok jelesül érvényesültek zongorázásában " – írta róla 1922-ben az Újság kritikusa.
+
+1942-ben nyugdíjba vonult, de óradíjasként tovább folytatta a tanítást. Három évtizedes pedagógiai munkásságát a Zeneakadémia vezetése 1942-ben nemzetvédelmi kereszttel, egy évvel később magyar királyi kormányfőtanácsosi címmel ismerte el. 1944-ben, életének hatvanhetedik évében hunyt el Budapesten.
+
+*Retkes Attila*
+
+Source: https://lfze.hu/nagy-elodok/hegyi-emanuel-1816

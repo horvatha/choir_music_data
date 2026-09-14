@@ -1,0 +1,23 @@
+# Fischer Annie
+
+Budapest, 1914. július 5. – Budapest, 1995. április 10.
+
+Fischer Annie a magyar és az egyetemes zenei előadóművészet legendás, kiemelkedően nagy alakja. Budapesten született 1914-ben. Pályáját csodagyerekként kezdte, már nyolcéves korában pódiumra lépett, Beethoven C-dúr zongoraversenyét játszotta. 12 évesen adta első hangversenyét külföldön; Zürichben debütált Mozart A-dúr és Schumann a-moll zongoraversenyével. Egyik gyermekkori hangversenyéről így írt a híres zenekritikus, esztéta Tóth Aladár (akinek Fischer Annie 1937-ben a felesége lett): "... alig tíz esztendős és máris hihetetlen átéléssel, szinte halálosan biztos muzikalitással adta elő Beethoven C-dúr versenyművének két utolsó tételét. Ezt a törékeny kislányt, mikor a zongoránál ül, már most az igazi művészlélek magábamélyedése, világtól elvonatkoztatott magánossága hatja át. Csupa komolyság, és őszinte, igaz temperamentum, pedig ez a csoda zongoraművésznőknél nagy ritkaság... Itt kétségkívül valódi egyéniséggel, és tüneményes interpretáló tehetséggel van dolgunk."
+
+A budapesti Zeneakadémián 12 éves korától Székely Arnold és Dohnányi Ernő tanítványa lett. Fischer Annie így a Lisztig visszavezethető nagy magyar zongoraiskola neveltje, örököse. Dohnányi és Székely Arnold egyaránt Thomán István – az egyik legjobb Liszt-tanítvány – növendékei voltak. Ez a tradíció voltaképp Beethovenig nyúlik vissza, hiszen Lisztet Carl Czerny tanította, aki pedig Beethoven kedvenc növendéke volt.
+
+Fischer Annie világraszóló karrierjét az első budapesti Liszt zongoraverseny fődíjának elnyerése indította el 1933-ban. A következő években már Európa legnagyobb városaiban és leghíresebb koncerttermeiben játszott. Olyan karmesterek találtak szólista partnerre benne mint Fritz Busch, Bruno Walter, Knappertsbusch, Mengelberg, Ansermet, Karajan, Adrian Boult, Sawallisch, Klemperer, a magyarok közül Dohnányi, Fricsay, Ormándy, Széll, Ferencsik.
+
+1941-ben férjével Svédországba mentek, s csak a háború befejezése után, 1946-ban tértek vissza Magyarországra. Fischer Annie-t visszatérésekor eufórikusan köszöntötte a közönség, és a kritika egyaránt. "Fischer Annie dicséretét zengjük megint. Fischer Annie művészetéről egyre bizonyosabbá válik, hogy a Dohnányi elvesztése által keletkezett űrt lesz hivatva betölteni. [Az előző évtizedek zongorista-fejedelme, Dohnányi Ernő külföldre távozott] ... Ez a csodatevő művésznő valóban nemcsak muzsikál, hanem örömet, boldogságot osztogat." (Jemnitz Sándor)
+
+Az ötvenes években a kritika Magyarországon és külföldön egyaránt szuperlatívuszokban fejezte ki hódolatát. Mozart, Beethoven, Schubert, Schumann, Chopin, Liszt legnagyobb művei alkották műsorainak gerincét.
+
+Az idő múlásával, a hatvanas évektől lassan megváltozott Fischer Annie zongoristahabitusa, és a virtuóz pódiumművészből egyre elmélyültebb, eszköztelenebb, szinte csak a zenei igazságra figyelő muzsikus lett. "Fischer Annie minden koncertje rendkívüli. Mert amikor ő játszik, akkor a mű maga szólal meg és ez megszokhatatlan reveláció. E nagy művész egyénisége meghatározhatatlan, éppen mivel végtelenül érzékeny és változékony... Új és új vonásokat fedezhetünk fel benne, és ilyenkor derül ki, hogy ez az egyéniség szinte végtelen." (Pernye András)
+
+Idős korában a beszámolók a század legnagyobbjaival együtt emlegetik. Fischer Annie egy ma már letűnt – sokak által aranykorként emlegetett – világ előadóművészi hagyományait őrzi, menti át a háború utáni korba, amikor a zenei ízlés apránként, de gyökeresen megváltozott. Játékában számos eleme felismerhető ennek a felfogásnak; mindenekelőtt a természetesség, a keresetlen, ösztönösen helyes közelítés a műhöz, illetve a benne rejlő szerzői gondolathoz, érzelemvilághoz. Hangversenyeit olyan különös atmoszféra lengte be, amely alól egyetlen hallgató sem vonhatta ki magát, még azok sem, akik esetleg nem osztották Fischer Annie elképzelését valamelyik műről. „Ha megpillantjuk, azonnal szívesen látott és személyes vendégeinek érezzük magunkat, s ezért személyesen és közvetlenül veszünk részt abban a beszélgetésben, amit Fischer Annie nem velünk, de előttünk és helyettünk a művel folytat." (Tallián Tibor). E varázslatos hatásról évtizedeken át kritikák százai számolnak be.
+
+Az utolsó másfél évtizedben megritkultak hangversenyei, Budapesten szinte egyáltalán nem lépett föl, de külföldön még vállalkozott egy-egy turnéra. Visszavonultságában is állandó figyelemmel kísérte a zenei életet, s még utolsó évében is megajándékozta néhány hangversennyel a hazai, az olasz és a japán közönséget. 1995 tavaszán halt meg szülővárosában, Budapesten.
+
+*Mácsai János*
+
+Source: https://lfze.hu/nagy-elodok/fischer-annie-1837

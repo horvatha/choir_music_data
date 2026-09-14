@@ -1,0 +1,13 @@
+# Liszt Ferenc
+
+Doborján, 1811. október 22. – Bayreuth, 1886. július 31.
+
+Mint az óra, olyan pontos volt Liszt, a pedagógus. Délután háromkor belépett a terembe és már százárnyalatú köszönésével magához láncolt külön mindenkit. Mindig kitüntetésnek vettük, amikor bármelyikünket a zongorához szólított. Először a műről beszélt, azután meghallgatta eljátszását. Ha helytelennek találta azt s az illető tehetségét nem sokra tartotta, odament hozzá, megcirógatta, meg is csókolta s bravókkal megdicsérte. Ez volt a legrosszabb. Akivel így tett, az többet előtte alig zongorázhatott. Ha valaki nagyon rosszul játszott, azt többet nem foglalkoztatta, még ha évekig járt is óráira. Ha rendkívülibb tehetséget vett észre, aki valamit elhibázott, azt megállította. Megmagyarázta a hibát, el is játszotta rögtön és háromszor is megismételte a hibásan játszott ütemeket.
+
+Ha valaki nagyon nagy fába vágta a fejszéjét, például egyik tanítványa Schumann Szimfonikus etűdjeit készült előtte eljátszani, ő maga ült le inkább a zongorához és végigjátszotta a hatalmas opuszt. A mester után természetesen nem merte senki sem ugyanazt előadni. Ilyen finoman szabadult sokszor Liszt egy rossz zongorázástól. Este hét óra felé szoktak végződni a leckeórák. Ilyenkor már idegeskedett, mire a tanítványok nagy része elment. Köszönés közben néhányunknak intett, hogy maradjunk és olyankor este kilencig is tanított. Néha meghívott vacsorára, mely többnyire sült vagy főtt burgonyából, ecetes uborkából állott vajjal és paprikával s az elmaradhatatlan pattogatott kukoricából. Természetesen nem hiányzott a jó ital, de az étel ilyen furcsán szerény volt. (…)
+
+A világ minden részéről naponta hozta utána a posta a kottákat. Ezeket sokszor én bontottam föl és néztem át zongorán. Némelyiket a mester előtt vagy vele együtt. Egy alkalommal Ricordi kiadásának egy igen szép kiállítású füzetében különféle faji szerenádok kerültek elénk Burgmeintól. Négykezes művek voltak, végigjátszottuk a mesterrel az egészet. Az utolsó egy kínai szerenád volt és hogy a füzet szép kiállítása ebben is stílusos legyen, háromszögű kottákkal nyomtatta a kiadó. Megleptek nagyon a háromszögű kottafejek s elhibáztam a darabot. Liszt határtalan fölénnyel eltolt a zongorától s a két oldalt egyszerre nézve játszotta le a szerenádot. Szinte csodálkozott, hogy miként akadhat meg valaki valamin, ami hangjegy. Ekkor értettem meg, hogy Richard Wagner kusza kézírású Lohengrin-, Tannhäuser- stb. partitúráját miért volt képes egyszerre jól leolvasni, zongorára alkalmazni, azután még utolérhetetlenül előadni is.
+
+Szendy Árpád
+
+Source: https://lfze.hu/nagy-elodok/liszt-ferenc-1779

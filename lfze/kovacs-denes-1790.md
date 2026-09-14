@@ -1,0 +1,21 @@
+# Kovács Dénes
+
+Vác, 1930. április 18. – Budapest 2005. február 11.
+
+A Hubay-iskola hagyományainak folytatója, aki művészetével és pedagógiai munkájával rendkívül sokat tett a magyar hegedűsök nemzetközi hírnevének megőrzéséért.
+
+Zenei tanulmányait hatévesen kezdte, nyolcéves korától a Fodor Zeneiskolában Rados Dezső növendéke lett. 1944-ben került a Zeneakadémián Zathureczky Ede osztályába, ahol kényszerítő, anyagi okokból történt megszakítás után 1947-től folytatta tanulmányait, majd 1951-ben diplomázott. Már főiskolás korában figyelemre méltó sikereket aratott: 1948-ban művészképzősként elnyerte a Reményi-díjat (Reményi László hangszerkészítő mesterhegedűjét), a következő évben a prágai Jan Kubelik verseny döntőjébe jutott, 1951-ben a berlini VIT hegedűversenyén 3. díjas. Miután egy évet töltött a Honvéd Központi Művészegyüttes zenekarában, 1951-től egy évtizeden át volt az Állami Operaház zenekarának koncertmestere. Közben újabb nemzetközi sikert aratott az 1955-ös londoni Flesch-verseny győzteseként.
+
+1957 szeptemberétől tanított a Zeneakadémián.1959-től tanszakvezető, 1964-től egyetemi tanár. 1967-től főigazgatóként, 1971-től, a főiskola egyetemi rangra emelésétől, rektorként irányította az intézményt 1980. június 30-ig. Nyugdíjazásáig a vonós tanszék vezetője, és a vonós mesterképzés programvezetője volt.
+
+Kovács Dénes gyakorló muzsikusként és pedagógusként kezdte igazgatói munkáját. Első tanévnyitó beszédében jelentette be a főiskolai Nagydíj alapítását, amelynek célja a felkészült, pódiumra érett fiatalok pályakezdésének megkönnyítése. Kivételes tehetségű fiatalok számára (nyolcéves kortól) újra létrehozta a speciális Előkészítő Tagozatot. Tudatosan törekedett arra, hogy a zenekarokba ne elvetélt pódiumművészek kerüljenek, hanem magas fokú hangszeres képzésben részesült, főiskolai végzettségű muzsikusok. Ezt célozta a zenekari művészképző. Korábbi mintára ismét bevezette a művészképzőt, önállósította a kamarazene tanszéket és visszaállította az önálló ütőhangszer szakot. Rektori működése idején került a Zeneakadémia hangszerállományába az első csembaló. A jubileumi 1974/75-ös tanévben meghirdetett versennyel (és más emlékversenyekkel) a tehetségek érvényesülését kívánta segíteni. A hegedűs utánpótlás iránti felelősségét mutatják a Szent István Zeneművészeti Szakközépiskolában 1990 óta rendszeresen tartott mesterkurzusai is.
+
+Pedagógiai tevékenysége mellett Kovács Dénes maga is rendszeresen hangversenyezett. 1963-tól az Országos Filharmónia szólistája volt egészen e szerződésforma megszűntéig. E harminc év során az egyetemes zenetörténet legnagyobb értékeit juttatta el az ország szinte minden részébe. Négy évtized alatt készített hanglemezein a hegedűirodalom remekeivel számos új barátot szerzett a komolyzenének. Repertoárja széles: lemez- és rádiófelvételei a barokktól a 20. század közepéig terjedő időszak versenyműveit, kamara- és szólódarabjait örökítik meg. Lemezre játszotta Beethoven összes hegedű-zongoraszonátáját és vonóstrióját. Megkülönböztetett figyelmet érdemelnek a Bartók-összkiadás számára készített felvételei. Generációja kompozíciói közül Dávid Gyula, Hidas Frigyes, Kadosa Pál, Mihály András és Sárközy István versenyműveit rögzíti hanglemez az ő szólójával.
+
+A Muzsika folyóiratban Bächer Iván búcsúztatta. „ Két úr szolgája volt. Az egyik a muzsika, a másik a Zeneakadémia. (…) Nagy hegedűs volt és nagy tanár. Utóbbiként liberális lehetett, mert belőle sugárzott a tekintély és bizony: a szigor. De szigorú volt a játéka is: szigorúan pontos, szigorúan hűséges szerzőhöz, műhöz. Pontos ember volt. Pontos volt mindig és mindenben: a tolmácsolásban, az órakezdésben. (…) Egy olyan korból maradt itt, amelyben a hegedűsök még abban a hitben hegedültek, hogy a hegedüléshez elég hegedülni. Büszke, méltóságteljes hegedűs volt. Puritán, marketingtelen. A mai világban idegen tehát. Kovács Dénes nem csupán meghalt. Kihalt közülünk."
+
+Az érdeklődés reflektorfényében töltött pályát méltán kísérik kitüntetések: Liszt-díj (1955, 1958), Kossuth-díj (1963), Kiváló Művész (1970), Munka Érdemrend arany fokozata (1974), s a szakma legfőbb elismerését jelentő Bartók Béla–Pásztory Ditta-díj (1989, 2000).
+
+*Fittler Katalin – Szirányi Gábor*
+
+Source: https://lfze.hu/nagy-elodok/kovacs-denes-1790

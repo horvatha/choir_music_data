@@ -1,0 +1,21 @@
+# Pásztory Ditta
+
+Rimaszombat, 1903. október 31. – Budapest, 1982. november 1.
+
+Intézményekhez kötött zenetanulása rövid ideig tartott: miután Somogyi Mórnál elvégezte a konzervatóriumot, 1922-ben felvételt nyert a Zeneművészeti Főiskolára. Bartók Bélához kérte magát, aki rögtön a 2. akadémiai osztályba vette föl. Csak egy évig volt a Zeneakadémia hallgatója, mivel 1923-ban Bartók felesége lett, s a tanulmányok otthon folytatódtak (zongorából két, elméletből egy tanév anyagát végezte).
+
+Feleség- és anyaként sem vesztette el rendszeres kapcsolatát a zenével. Egy Stravinsky-koncert például ilyen vallomást váltott ki a zárkózott Ditta asszonyból: „ Ez a muzsika nem az én hazám, az enyém a Béla muzsikája, ahol megvan alaposan a lüktető ritmus, a hangszín, de ahol az érzések élnek és vannak és aminek lelke van ". 1927 a betegség jegyében telt, de a szanatóriumból is nyomon követte férje koncertturnéit. Felgyógyulása után folytatódott a tanulás, és hamarosan megkezdődött a kétzongorás munka, amely végigkísérte művészpályájukat. S amiről ritkán esik szó: figyelemmel követte férje tudományos munkásságát is. Kézírása felbukkan a kéziratos forrásokban. A harmincas évek apró adalékai sokatmondóak a tekintetben, hogy társ tudott lenni sokoldalú férje számára.
+
+Sok közös utazás után koncertkörútra először 1935 januárjában kísérte Bartókot, 1938-ban már művészpartnerként utazott vele Svájcba (Basel, január 16: a Szonáta két zongorára és ütőhangszerekre ősbemutatója). Első külföldi fellépését így értékelte Bartók: „ Feleségem játszotta a 2. zongorát és nagyon jól megállotta a helyét ". Ars poetica értékű, amit egy 1940-es interjúban mondott Pásztory Ditta: „ Azon az úton kívánok haladni és dolgozni, amelyet Bartók mutatott és világít meg örökre azzal a művészi etikával, amire Bartók tanított mindig mindenkit, munkássága irányával és életével ".
+
+Amerikában fokozott mértékben volt szükség kitartására, erejére, hogy mindig hű társként érezhesse maga mellett Bartók , aki búcsúajándékul neki szánta III. zongoraversenyét. Bartók halála után Pásztory Ditta 1946-ban visszatért Magyarországra. A 60-as évektől kezdve lépett ismét pódiumra, koncertkörutakra indult idehaza és külföldön, s felbecsülhetetlen értékként hangfelvételeket készített, megörökítve a Bartóktól tanultakat (1959-60-ban a teljes Mikrokozmosz t lemezre játszotta). Archív felvételen Bartókkal közös játékuk is hallható (Bartók, Brahms, Mozart).
+
+Legtöbbször Bartókot játszott (a III. zongoraversenyt is) és miután Bartók zongorára és zenekarra írt Scherzó jának ősbemutatóján hallotta szólistaként Tusa Erzsébetet, fontosnak érezte, hogy felelevenítse azt a művet, amelyet Bartók halála óta senki mással nem játszott. Nyilatkozataiból tudjuk, hogy mindig nagyon lámpalázas volt. Talán ez kísérte, talán a nyilvánvaló felelősség súlya, ezért egyedül soha nem lépett pódiumra. Vagy zenekarral, vagy Comensoli Máriával (akivel főként a Mikrokozmosz kétzongorás darabjait adta elő), vagy az új repertoárba vett Szonátá ban kamarapartnereivel. Kottából játszott, mint Bartók – tömören, indulatosan. Egyszerűség, tagoltság, tisztaság jellemezte.
+
+Fekete ruhás alakja gyakran feltűnt azokon a koncerteken, amelyeknek műsorán Bartók-művek szerepeltek. Figyelemmel kísérte a zenei életet. A Zeneakadémia tehetséges növendékeinek ösztöndíjat biztosított, majd az 1982-ben megfogalmazott végrendelet értelmében megalapította a Bartók Béla–Pásztory Ditta-díjat, amelyet 1984 óta évente osztanak ki s amely mindmáig a legrangosabb szakmai elismerésnek számít.
+
+Pásztory Ditta 1963-ban Érdemes Művész lett, 1987-ben a Magyar Népköztársaság Zászlórendje (posztumusz) kitüntetést kapta. A művész-partner Tusa Erzsébet így emlékezik rá: „ Pásztory Ditta közelében egy pillanatig sem lehetett elfelejteni, hogy Bartók Béla ott van mögötte. Még ha az ember nem is gondolt rá, szüntelenül jelen volt – a zárkózottsága mögött, amögött, hogy mindenre maximálisan odafigyelt, ahogy önmagával nem takarékoskodott, a magvas, felelősségteljes hangok mögött állandóan érezhető volt a bartóki fehér-izzás ".
+
+*Fittler Katalin*
+
+Source: https://lfze.hu/nagy-elodok/pasztory-ditta-161

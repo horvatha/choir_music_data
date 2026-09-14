@@ -1,0 +1,21 @@
+# Lendvai Ernő
+
+Kaposvár, 1925. február 6. – Budapest, 1993. január 31.
+
+Lendvai Ernő a 20. század legjelentősebb magyar zeneteoretikusainak egyike. Originális gondolkodó, rendszerező elme, a zene belső törvényszerűségeinek fáradhatatlan kutatója. Élete utolsó szakaszában nagyszabású számítógépes kutatóprogramon dolgozott, újabb eredmények és felfedezések felé tartva: munkáját hirtelen halála szakította félbe 1993 januárjában.
+
+Lendvai az a ritka tudósalkat volt, aki egyszersmind kiváló muzsikus, nem mindennapi hallással és hangszeres adottságokkal megáldva. A háború végétől volt Kósa Györgynél és Antal Istvánnál a Zeneakadémia zongora szakos hallgatója, diplomáját 1949-ben szerezte meg. Remek pianista képességeinek és legendás zenei memóriájának köszönhetően fejből zongorázta a zeneirodalom nagy részét. Tanárként, igazgatóként működött Szombathelyen, Győrben és Szegeden, zenei rendezőként a Magyar Rádióban, majd a Művelődéskutató Intézet főmunkatársa volt.
+
+Lendvai Ernő neve elsősorban Bartók-kutatásai révén ismert világszerte. Még zeneakadémista éveiben, alig néhány évvel Bartók halála után – amikor a zeneszerző műveit igen szűk szakmai réteg ismerte Magyarországon – kezdett el dolgozni a bartóki hangrendszer szisztematikus elemzésén. Bartók funkciórendszerének („tengelyrendszer"), harmóniaképzésének („alfa"-típusú akkordok), a jellegzetes hangsorokban („modell"-skálák) és a teljes konstrukció arányaiban megnyilvánuló aranymetszés-jelenségeknek ( Fibonacci -sor) a felismerésével Lendvai egységes elméleti rendszert és világos analitikai módszert teremtett Bartók zenéjének a megközelítéséhez. ( Bartók stílusa , 1955; Bartók dramaturgiája 1964; Bartók költői világa , 1971.) Könyvei idegen nyelven is megjelentek, nemzetközi ismertsége így gyorsan nőtt.
+
+A Bartók-kutatás azonban csak egy része Lendvai Ernő hatalmas életművének. A kivételes intellektus a zenetörténet egészét átvilágította és fenomenális eredményeket hozott a 19. századi zene – elsősorban Verdi és Wagner műveinek – analízisében. Az itáliai kultúra egésze, ezen belül Toscanini és Verdi művészete központi szerepet játszott Lendvai érdeklődésében. Aida -elemzése, majd a Falstaff tonális dramaturgiájának a teljes, átfogó analízise az összefüggések egész rendszerét feltárja. Verdi mellé – várható, és egyben váratlan módon – Richard Wagner lépett Lendvai műhelyében. A kései Verdi-stílus értelmezéséhez hasonlóan a Trisztán és a Parsifal elemzése is a 20. század előjátékának, a hétfokúságból a 12-fokúság felé tartó hangrendszer integráns részének láttatja a mesterműveket. A háromkötetesre tervezett trilógiából egy kötet készült el és jelent meg 1988-ban angol nyelven ( Verdi and Wagner ).
+
+Lendvai az 1970-es évektől foglalkozott behatóan Kodály zenéjének harmónia-világával. ( Bartók és Kodály harmóniavilága , 1974; The Workshop of Bartók and Kodály , 1983.) A kodályi elvekhez kapcsolódó relatív szolmizáció mint analitikai eszköz azonban csak később hozott reveláló eredményeket Lendvai gondolkodásában. A 12 fokra kiterjesztett szolmizációs nevek, a felemelt illetve leszállított hangok funkciós tartalma (azaz a tonikai centrumhoz való viszonya) révén szemantikai eligazítást adnak a kromatikával sűrített későromantikus nyelv vizsgálatában.
+
+A Zeneakadémiának Lendvai nem volt állandó tanára; alkalmanként, egy-egy szemeszter erejéig tartott analitikai kurzusokat a zenetudományi tanszak hallgatóinak. Publikációi gyakran váltottak ki szakmai vitákat, kontroverziókat. Mint minden zárt elméleti rendszer, úgy az övé is – Schönberg, Schenker munkásságához hasonlóan – kihívja a másképp gondolkodók ellenkezését. Ez azonban nem változtat a koncepció eredendő nagyságán és jelentőségén.
+
+Lendvai Ernő a zenetudományok doktora címet 1986-ban kapta meg; 1992-ben Széchenyi-díjjal tüntették ki. Utolsó befejezett munkája a Varázsfuvola „Sprecher"-jelenetének analízise. Összes műveinek újabb kiadása folyamatban van: a sorozat a tervek szerint német és angol nyelven is hozzáférhető lesz.
+
+*Komlós Katalin*
+
+Source: https://lfze.hu/nagy-elodok/lendvai-erno-1783

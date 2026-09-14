@@ -1,0 +1,21 @@
+# Orosz Júlia
+
+Budapest, 1908. március 3. – Budapest, 1997. október 19.
+
+Orosz Júlia 1923 és 1928 között Maleczky Vilmosné növendéke volt a Zeneakadémián. 1930-ban debütált az Operaházban, Blondeként. Négy évtizedes pályafutása alatt mintegy 80 szerepet énekelt: az irodalom minden stílusában és úgyszólván mindenfajta szerepkörben otthonos volt. Az opera történetének egyik legnagyobb pályáját futotta be attól a pillanattól, hogy Radnai a Városi Színháztól odaszerződtette. Fényéből évtizedek alatt is szinte alig vesztő hangjával mindent énekelt a szubrett szerepektől a lírai Verdi- és Puccini-hősnőkig. Éppoly nagyszerű lírai alakításokat láthatott tőle az operaház közönsége (Antónia, Liu, Margit, Lauretta, Pillangókisasszony), mint drámaiakat (Desdemona, Elza, Tosca, Nedda, a Pikk dáma Lizája) és szubretteket (Blonde, Ford Annuska, Zerlina, Adél). Egyaránt kitűnően ismerte a Mozart-stílust (Susanne, Elvira) és Puccini világát (Liu, Mimi).
+
+Radnai direktor minden új szerepet azzal a megjegyzéssel adott át neki, hogy „ettől függ a jövő évi szerződésed!”. Esténként az ügyelő pultján üldögélt, másnap kottával a kezében várta és mutatta, hol mit hibázott, vagy oldott meg kevésbé sikeresen. Ennek szellemében alakult ki Orosz Júlia életen át érvényes ars poeticája; „ Az énekes művészete számomra egyet jelent: odaadással szolgálni a szerzőt .” Mozarttal a harmincas évektől folyamatosan ismerkedett, hiszen ekkor már megvolt az operaháznak a megfelelő Mozart-énekes gárdája; Orosz Júlia a Medek Anna – Nagy Margit vonalat folytatta a lírai-drámai Mozart-hősnő szerepekben. Sergio Failoni Mozart-felújításai után a művek budapesti életének újabb korszakát jelentette Tóth Aladár törekvése a darabok reprízére. Először a Don Giovanni t rendezte meg Nádasdy, amelyben Orosz Júlia a szokottnál végre energikusabb, mozgékonyabb Donna Elvirát alakított. A Ferencsik vezényelte előadások után Klempererrel is találkozott Orosz Júlia ebben a szerepben.
+
+A harmincas évek elején Failoni zenei elképzelései formálták át az Operaház művész- és rendezéspolitikáját. Ebben az „olasz korszakban” Failoni újabb és újabb partitúrákat elevenített fel az úgynevezett játékopera műfajából, miután fölmérte az akkori lehetőségeket, nevezetesen, hogy az ensemble-szellem erősítése jelentheti az akkori magyar operajátszás egyetlen járható útját. 1931-ben egy zseniálisan vezényelt Don Pasquale felújításban a remek Palló-Komáromy-Halász tercett mellett Orosz Júlia és Svéd Sándor is bemutatkozott a fiatalabb szereposztásban, a közönséget elbűvölő, szép énekléssel. (Ezzel együtt sem tudott akkor repertoáron maradni a darab, jóllehet a tapasztalt és szigorú kritikus, Jemnitz Sándor hosszú életet jósolt a produkciónak).
+
+Failoni olvasztotta ragyogó drámai muzsikává Respighi eklektikus muzsikáját A láng 1937-es, komoly kultúrpolitikai jelentőséggel bíró bemutatóján, amelyben az Operaház gárdájának harmincas évekbeli pompája tökéletes fényében mutatkozott meg – Walter Rózsi, Budanovits Mária, Halmos János, Palló Imre és Orosz Júlia fellépésével. A Mozart- és Wagner-repertoár gondozásán túl Klemperer néhány kirándulást is tett. A régi kiállításban, zeneileg azonban az eredetihez közelebb álló módon teremtette újjá a Hoffmann meséi t, amelyben Orosz Júlia Antóniát énekelte. Az énekesnő címszerepet énekelhetett a Klemperer által felújított Traviatá ban is.
+
+Az ötvenes évek sajátos műsorpolitikájának egyik eredményeképpen 1952-ben – hosszas, helyszíni stúdiumokkal is kiegészített tanulmányozások után – az akkori legnagyobb sztárokkal – köztük Orosz Júliával – bemutatták a lengyel Moniuszko nemzeti-romantikus operáját, a Halká t, amely azonban a magas színvonalú előadás ellenére sem hozta meg a fennmaradáshoz elégséges közönségsikert.
+
+A következő évek Erkel-felújításai során Gyurkovics Máriával „osztozott” a Hunyadi László Gara Máriájának szerepén.
+
+Orosz Júlia ragyogó pályáját több kitüntetéssel is jutalmazták: így lett Kossuth-díjas, Kiváló művész, az Operaház örökös tagja.
+
+*Tóth Anna*
+
+Source: https://lfze.hu/nagy-elodok/orosz-julia-1760

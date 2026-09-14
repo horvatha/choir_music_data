@@ -1,0 +1,21 @@
+# Lukács Ervin
+
+Budapest, 1928. augusztus 9. – Budapest, 2011. február 18.
+
+„Hogy nálam hogy jött ilyen erőteljesen a muzsikához való kapcsolódás, a fogékonyság, igazából nem tudom. A szüleim nem voltak zenészek, bár apám kedvtelésből hegedülgetett, koncertekre járt, és otthon is gyakran hallgatott zenét. Tisztviselő volt egy gyárban, anyám pedig gyógyszerész" – emlékezett a kezdetekre Lukács Ervin A Maestro című könyvében. 5 éves korában kezdett zongorát tanulni a Fodor Zeneiskolában és zongora tanulmányait a budapesti Eötvös Gimnázium mellett is folytatta. 1946-ban felvételt nyert az Orvostudományi Egyetemre, ahol tanulmányait 1952-ben fejezte be.
+
+Emellett 1950-ben beiratkozott a zeneszerzés szakra a régi Zenekonzervatóriumba, ahol egy év alatt sajátította el Sugár Rezső szakavatott irányítása mellett a zeneszerzés alapvető ismereteit, titkait. 1951-ben felvételizett a Zeneakadémia karmester szakára. A legendákkal övezett, rettegett modoráról (modortalanságáról) híres karmester, Somogyi László osztályába került. Első próbálkozása fényes sikerrel végződött, ami nagyszerű karmesteri pályájának halálig ható, művészi hitet, elhivatottságot, felelősséget és biztos tudást megalapozó forrása volt.
+
+1956 júniusában kapta meg karmesteri diplomáját. Somogyi László időközben elhagyta Magyarországot, így tanár nélkül maradt a karmester szak. Mivel Lukács Ervin tanulmányai alatt Somogyi mellett tanársegédi funkciókat is ellátott, óradíjas tanárnak kérték fel, ahogy ő mondta „addig, amíg nem találnak valakit", így 1957 és 1959 között három éven keresztül tanított a Zeneakadémián.
+
+Lukács Ervin 1955-ben debütált a Magyar Néphadsereg Művészegyüttesének élén. Az 1956-os kínai turnéról hazatért katonaegyüttestől rövid időre Miskolcra szerződött. Innen Palló Imre, akkori zeneigazgató hívására került 1957-ben a Magyar Állami Operaház kötelékébe. 1957 és 1959 között korrepetitorként, betanító zongorakísérőként működött. Mivel tanulmányai során az éneklés technikáját is elsajátította, ezért a munka során rávezető tanácsokkal segíteni tudta az énekeseket a művészi és technikai megvalósításban. 1959. február 27-én volt operai karmesteravatása. A Carment vezényelte az Erkel Színházban Palánkay Klára és Simándy József főszereplésével. A Carmen mellett pályája alatt több mint félszáz operát vezényelt a Magyar Állami Operaházban, ahol elsősorban Ferencsik János életművének lett (nem utánzója, hanem) természetes, magától értetődő folytatója. Repertoárján Mozart, Muszorgszkij, Verdi, Rossini operái szerepeltek leggyakrabban. 1987–1990-ig az Operaház főzeneigazgatója volt, 1989-ben örökös taggá választották.
+
+1981 és 1987 között a Postás Szimfonikus Zenekar művészeti vezetője volt. Rendszeresen adott hangversenyt az Állami Hangversenyzenekarral is, ahol 1991 és 1994 között a zeneigazgatói posztot is betöltötte. Nemzetközi karrierje az 1962-es Római Nemzetközi Karmesterverseny első díjának elnyerésével indult. Rendszeresen dirigált Európa, Ázsia és az Egyesült Államok dalszínházaiban, koncerttermeiben. 1989-től a Japán Filharmonikus Zenekar első állandó vendégkarmestere volt. Külföldi sikere Japántól Amerikáig, valamint számos hanglemez- és rádiófelvétele bizonyítja, hogy nekünk, magyaroknak is van olyan karmesterünk, ki jelenlétével és munkájával a dicsőséges múltat teszi élővé és megfoghatóvá.
+
+1982 és 1998 között a Zeneakadémia karmesterképző tanszakának volt vezető tanára. Keze alól olyan kiváló tanítványok kerültek ki, mint Ertüngealp Alpaslan, Gál Tamás, Hamar Zsolt, Héja Domonkos, Kesselyák Gergely, Kocsár Balázs, Kollár Imre, Oberfrank Péter, Vashegyi György.
+
+Hamar Zsolt szavaival, amelyet a Mester 70. születésnapján vetett papírra: „ Nekem azonban – és hitem szerint még sok kollégámnak – Ő mindig Tanár úr marad, a maga aggódó szeretetével, féltő gondoskodásával. A legfontosabbat kaptuk tőle, amit egy karmester idősebb kollégájától kaphat: az első lépések biztonságát, a kommunikáció gesztusrendszerének ábécéjét. Hogy mivel tudjuk ezt meghálálni? (...) Hogy minél többet hallgatjuk őt – élőben, lemezről, rádióból. És ha nekünk, tanítványoknak megadatik a szerencse, hogy pálcával a kézben felléphetünk a pulpitusra, az Ő szellemiségét ápolva és továbbéltetve kell zenélnünk. Ha lehet, csupa nagybetűvel."
+
+*Szirányi Gábor*
+
+Source: https://lfze.hu/nagy-elodok/lukacs-ervin-1778

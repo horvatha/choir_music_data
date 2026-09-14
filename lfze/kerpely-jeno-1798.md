@@ -1,0 +1,17 @@
+# Kerpely Jenő
+
+Budapest, 1885. december 1. – Los Angeles, 1954.
+
+„…mostanában a legjobb gordonkás az akadémiában" – írta róla Bartók Béla 1902 novemberében egy levelében, néhány nappal azelőtt, hogy korábbi futó pozsonyi ismeretségüket Gruber Emma szalonjában felújították. Kerpely Jenő 1901 és 1905 között David Popper növendéke volt a Zeneakadémián, de két tanéven keresztül (1903-tól 1905-ig) a gordonka szak mellett zeneszerzést is tanult Hans Koesslernél.
+
+Hangszerjátékának virtuozitása és átütő előadói tehetsége révén már diákévei alatt a budapesti kamaraestek egyik állandó szereplője volt, a legjobbak – köztük Bartók és Dohnányi – partnereként. Nevét 1910-től jegyzi a zenetörténet, amikor Waldbauer Imrével, Temesváry Jánossal, Molnár Antallal megalapította a Waldbauer-Kerpely Vonósnégyest, amely 36 éves működése alatt a klasszikus vonósnégyes- és vonós kamarazene-irodalom mellett a kortárs zene világhírű tolmácsolója lett. Csáth Géza később Bartók és Kodály fegyvertársainak nevezte a vonósnégyes tagjait. Indulásuk összekapcsolódott a két zeneszerző 1910 márciusában megtartott egy-egy szerzői estjével, melyeken többek között Kodály Gordonka-zongora szonátá ja (Kerpely és Bartók tolmácsolásában) és Bartók Zongoraötös e mellett mindkét zeneszerző I. vonósnégyese is elhangzott. A század első évtizedeiben végzett népszerűsítő munkájuk értéke szinte felbecsülhetetlen: Bartók, Dohnányi és Kodály művei mellett Debussy, Ravel, Schönberg, Milhaud, Reger vonós és zongorás kamaraműveit javarészt a Waldbauer-Kerpely Vonósnégyes koncertjein hallhatta a magyar közönség.
+
+Együttesének hangversenyein kívül Kerpely Jenő szólistaként is rendszeresen fellépett. Hubay, Dohnányi, Bartók, Szigeti és mások partnere volt, repertoárja a szóló-, a szonáta- és a trióirodalom klasszikus és kortárs részét egyaránt magában foglalta. Játéka új művek megszületését is inspirálta. Neki szól Kodály szóló gordonkaszonátájának ajánlása, Bartók az ő számára készítette az Első rapszódia gordonka-zongora változatát.
+
+Kerpely Jenő 1913–19 és 1929–48 között gordonka főtárgyat, kamarazenét és vonósnégyes-játékot tanított a Zeneakadémián. Bár pályájának egyformán fontos része volt koncertező és tanári tevékenysége, a Tanácsköztársaság bukása után a Zeneakadémia direktóriumában résztvevő Reinitz, Dohnányi, Bartók, Kodály meghurcolása Kerpelyt is érintette, s a Zeneakadémiára csak 10 év múlva, Dohnányi másodszori igazgatói kinevezése után tért vissza. Negyedszázadnyi tanári munkája során több mint 30 fiatal muzsikust indított el a pályán, közöttük zeneakadémiai tanárutódját, Banda Edét és a világhírű Magyar Vonósnégyes csellistáját, Magyar Gábort.
+
+A második világháború vége egyúttal a Waldbauer-Kerpely Vonósnégyes működésének lezárulását is jelentette. Utolsó hangversenyükön 1946-ban – több mint öt évvel a Kolisch Quartett által játszott londoni premier után – még bemutatták Budapesten Bartók 6. vonósnégyes ét, majd az együttes feloszlott. Waldbauer Imréhez hasonlóan 1948-ban Kerpely Jenő is emigrált, és az Amerikai Egyesült Államokban telepedett le. Pályájának sajátos tragikuma és a korabeli hanglemezgyártó társaságok pótolhatatlan mulasztása, hogy sem szóló‑, sem kamaramuzsikusi játékáról nem maradt fenn dokumentum: Kerpely Jenő és a Waldbauer-Kerpely Vonósnégyes művészi nagyságának emlékét ma már csak a kortársak visszaemlékezései és a hangversenykrónikák őrzik.
+
+*Szitha Tünde*
+
+Source: https://lfze.hu/nagy-elodok/kerpely-jeno-1798

@@ -1,0 +1,19 @@
+# Palló Imre
+
+Mátisfalva, 1891. október 23. – Budapest, 1978. január 25.
+
+Székely földműves családból származott, Kolozsvárott végezte gimnáziumi tanulmányait. 1911 és 1916 között Sík József tanítványa volt a Zeneakadémián. 1917-ben debütált az Operaházban. Már pályája első éveiben fontos szerepeket énekelt, és a húszas évek elején már ő volt az Operaház vezető baritonistája, mindenekelőtt a lírai bariton szerepkör példamutató tolmácsolója. Csodálatos dikciója, minden regiszterében kiegyenlített, bársonyosan szép zengésű hangja, daliás színpadi megjelenése és mély átélő készsége tették egész pályája során a közönség kedvencévé. Legigazibb énjét Verdi nagy lírai szerepeiben találta meg: utolérhetetlen Posa márki, Luna, Simon Boccanegra (ez utóbbinak valamint Falstaffnak első magyar alakítója) volt. 1925/26-ban tagja volt Mascagni világjáró stagionéjának. A turné végeztével csaknem egy esztendőt töltött Milanóban, ahol a kiváló Mario Sammarcónál folytatott énektanulmányokat és a Scala esti előadásainak csaknem mindennapos vendége volt. Egy év után – és utána is mindig – hazajött. „ Az én gyökereim mélyen lenyúlnak a magyar földbe és állandó élettérként nem tudnék más földet elképzelni ."
+
+Egyéni ízeivel, székely humorával fűszerezte Falstaff figuráját is, amelynek magyarországi bemutatóján, 1927-ben ő énekelte a címszerepet. Sok Puccini-szerepet is énekelt. Az 1928/29-es évad első nagy feladata a Bohémélet festőjének megjelenítése volt, a Sergio Failoni vezette hosszas előkészítő munka után, amit szintén lelkesen fogadtak a kritikusok. Hasonló siker övezte a Parasztbecsület és a Bajazzók , valamint a Gioconda előadásait is. Wagner-szerepet is vállalt, csak Mozart maradt ki a repertoárjából. 1930 őszén énekelt először a Trisztán és Izoldá ban (Kurwenált) – az emlékezetes előadást Márkus László rendezte és Failoni vezényelte.
+
+1929. október 6-án énekelt először a Bánk bán ban. Ekkorra már teljes pompájában virított a Nádasdy Kálmán által magyar bel cantónak nevezett éneklés, amelynek lényege a gyönyörű hang, tökéletes szövegmondás, a magyar beszéd prozódiai követelményeivel összhangban álló kiejtés. Nem véletlen, hogy Rékai Nándor átdolgozása, amelyben bariton énekli Bánk szólamát, éppen Palló Imre énekes-személyiségére alapozott.
+
+1926. október 17., a Háry bemutatójának napja, amelyet a címszerepben fellépő Palló sajtóbeli dicshimnusza követ: „ Zamatos magyar beszédű dalia, aki szinte el is hiteti a nézőkkel a hihetetlen kalandokat… ". „ Háry Jánosában a magyar legény délcegsége, kelleme, bája, végtelen jósága, derűje, tisztasága testesül meg ." Címszereplőként részese volt a János vitéz minden várakozást felülmúló sikerű bemutatójának a Király színházban, csakúgy mint – Kérőként - a Székely fonó 1932-es premierjének az Operaházban. Székely paraszt származása révén ő vált az egyik legnagyobb Kodály-interpretátorrá. A népdalfeldolgozásokban is megnyilvánuló csodálatos szövegmondásáért éppen Kodály adományozta neki „a magyar népdalok mesterdalnoka" címet.
+
+Az ötvenéves Operaház tiszteletére 1934-ben már-már elfelejtett magyar mű: Mosonyi Mihály Álmos című operája került színre, amelyben ismét a címszerep jutott Pallónak. Sajnos, Palló minden művészi erényének felvonultatása ellenére is csak öt előadást lehetett biztosítani a gyenge szövegű és igazi drámaiságot nélkülöző műnek.
+
+Palló Imre példátlan erőnléte tette lehetővé, hogy még jóval 70. évén felül is aktív tagja volt az operának. Sokat vendégszerepelt külföldön, így például 1935-ben a római opera őt hívta meg Lodovico Rocca Dybuk -jának egyik főszerepére. Neve és művészete fogalommá vált a magyar operajátszásban; hozzá hasonló nemes veretű művészt operatörténetünk keveset ismer. Az Operaház örökös tagja, Corvin-koszorús, Kossuth-díjas, Kiváló művész.
+
+Tóth Anna
+
+Source: https://lfze.hu/nagy-elodok/pallo-imre-1757

@@ -1,0 +1,17 @@
+# Pongrácz Péter
+
+Győr, 1936. június 16. – Budapest, 2010. május 25.
+
+A háború utáni Magyarországon felnövekedett egy rendkívül tehetséges és magas színvonalon képzett fúvós nemzedék. Közel egy időben végezte a Zeneakadémiát Pongrácz Péter, Czidra László, Prőhle Henrik, Kovács Lóránt, Kovács Béla, Dittrich Tibor, Janota Gábor, Fülemile Tibor, Friedrich Ádám és Tarjáni Ferenc, akik nemcsak adott hangszerük szólistájaként, zenekari művészeként, hanem később a Zeneakadémia tanáraként is rengeteget tettek azért, hogy Magyarországon a fúvós képzés európai hírnévre tegyen szert.
+
+Pongrácz Péter – e generáció emblematikus tagja – gimnáziumi tanulmányait 1950–54 között előbb a győri Benczés Gimnáziumban, majd az 1952-ben alapított Zeneművészeti Szakközépiskolában végezte. 1954 és 1960 között a Zeneakadémia oboa szakán Schwáb Nándor növendéke volt. 1956-ban, még az egyetemi tanulmányai alatt, ösztöndíjasként került az Operaházba, ahol 1981-ig volt előbb zenekari tag, majd az oboa szólam vezetője.
+
+Rendkívüli szolgálatot tett a magyar fúvószenei kultúra és oktatás terén. Kiváló muzsikus volt, gyönyörű, rajzos oboahanggal, alapos mesterségbeli felkészüléssel, és született intelligenciával, a szó szoros, eredeti értelmében. Alapító tagja volt a legendás Magyar Fúvósötösnek. Részt vett a Mihály András vezette Budapesti Kamaraegyüttes munkájában és hosszú éveken át játszott szólistaként és zenekari muzsikusként a Liszt Ferenc Kamarazenekarban is. Hetvenedik születésnapja alkalmából interjút adott a Muzsika c. folyóiratnak. Ebben így vallott a zenekari játékról: Ha valaki a fúvós szólista pályáját célozza meg, azt szinte lehetetlen elérnie, olyan a világon nyolc-tíz van összesen. Ezért a zenekari munkát tűzzük ki célul a végzősök elé, amiben én hiszek is. Egy jó szimfonikus zenekarban, jó karmesterrel játszani – annál nagyobb élvezet kevés van. Művészetéről, egyéniségéről tökéletes képet alkot az az anekdota, amely szerint a Budapesti Kamarazenekar egyik próbáján megkérdezte Mihály András karnagyot: „Tanár úr beint, mert ha nem, akkor belépünk".
+
+Batta András rektor szavaival Pongrácz Péter történelmi szerepe abban állt, hogy az ő irányítása alatt lett a Zeneakadémia fúvós tanszékéből olyan műhely, amelynek tanárai, hallgatói széles körű nemzetközi elismerést vívtak ki. Az ő neve fémjelezte azt a változást, ami szerint Liszt Ferenc Zeneakadémiája immár nemcsak a zeneszerzés, a zongora, a vonós és a kamarazenei képzésről híres, hanem a fúvósról is, a fuvolától a tubáig (ha a partitúra szerint haladunk). Bővült a repertoár, emelkedett a fúvós szólisták előadóművészi színvonala, megpezsdült a fúvós kamarazenei élet, és – legelőször az oboisták körében! – a művelt muzsikus eszménye is megjelent.
+
+1967-től 2001-ig, tehát 34 éven át vezette a tanszéket, szűk becslés szerint is majdnem hét muzsikus generáció került ki ezalatt az idő alatt a fúvós tanszékről. 1981-ben rektorhelyettessé választották, amely megbízatást Pongrácz Péter négy rektor: Ujfalussy József, Soproni József, Lantos István és Falvai Sándor mellett látott el. Munkásságát számos elismerés kísérte. Kétszer kapott Liszt Díjat (1967, 1971). Érdemes művész (1974), Kiváló művész (1980), a Bartók–Pásztory-díj kitüntetettje (1995). Iskolateremtő munkásságáért 2002-ben a Magyar Köztársasági Érdemrend Lovagkeresztje kitüntetésben részesült. Alma matere professor emeritusnak választotta 2006-ban.
+
+*Szirányi Gábor*
+
+Source: https://lfze.hu/nagy-elodok/pongracz-peter-1747

@@ -1,0 +1,17 @@
+# Garay György
+
+Rákospalota, 1909. december 2. – Leipzig, 1988. május 15.
+
+Garay György 1909. december 2-án született Rákospalotán. Zeneakadémiai tanulmányait 1918-ban kezdte Bloch József irányításával (az előkészítő tanfolyamon), majd 1921-től Studer Oszkár növendéke lett. Az utolsó évet aztán Hubay Jenő osztályában végezte el, s az ő tanítványaként szerezte meg művészi oklevelét 1926-ban. Ugyanebben az évben nyilvános hangversenyen is pódiumra lépett Bécsben – a hazai, budapesti bemutatkozásra csak egy esztendővel később, 1927-ben került sor.
+
+Művészi pályájának első szakaszában főként kamaramuzsikusként vált ismertté: 1927–1930 között a Magyar Trió tagja, majd 1930–1933 között a Garay Kvartett első hegedűse volt – de e sikerek fontos előzményként már a zeneakadémiai évek számos vonósnégyes-fellépését is megemlíthetjük Weiner Leó tanári irányítása alatt. A harmincas évektől immár szólistaként is rendszeressé váltak fellépései, itthon és külföldön egyaránt.
+
+A világháború idején, 1940-től a Fővárosi Zenekar tagja, majd 1945–1951 között az Állami Operaház zenekarának koncertmestere. Ebben az időben kezd tanítani a Zeneakadémián: az 1949/50-es tanévben óradíjas, de a következő évre már véglegesítik, s ezután épp egy évtizeden át a főiskola rendes tanára. Ezzel párhuzamosan, 1951-től az Állami Hangversenyzenekar koncertmestere.
+
+E vitathatatlan szakmai sikerek ellenére a korabeli kritikák egybehangzó tanúsága szerint Garay György művészete igazán még csak ezután, az ötvenes évek végére érett be. Jemnitz Sándor ekkor „új, fegyelmezetten klasszicizáló stílusát" dicséri, míg Pernye András szerint játéka „ mentes minden teatralitástól, külsőségtől, hatásvadászattól, és mindenekelőtt arra törekszik, hogy a kottaszöveget hűségesen megszólaltassa. Elsősorban a zene hat az ő előadásában – egyénisége épp aszkézisében rejlik ." Ezt a jellemzést olvasva szinte természetesnek tűnik, hogy Garay György művészi munkájának középpontjába a huszadik századi zene, illetve a kortárs szerzők műveinek előadása került. Nevéhez fűződik többek között Veress Sándor, Tardos Béla, Sugár Rezső, Ránki György, Mihály András és az imént idézett Jemnitz Sándor több művének ősbemutatója, valamint más kortárs művek – ugyancsak főként az ötvenes évek közepén készített – rádiófelvétele.
+
+Garay György művészi sikereinek csúcsán, az 1960/61-es évadban hirtelen eltűnt a magyar hangversenypódiumokról. A lipcsei rádiózenekar koncertmestere lett, s bár a nyarakat továbbra is rendszeresen itthon töltötte, fellépést ilyenkor ritkán vállalt. Németországban azonban folytatta addigi sokoldalú munkáját: rendszeresen tanított a Lipcsei Zeneművészeti Főiskolán, mesterkurzusokat tartott Weimarban, újabb hangfelvételeken működött közre, és a korábban a Zeneműkiadó számára készített kottaközreadásait is továbbiak követték – immár a Petersnél. A kortárs zenétől sem szakadt el, hiszen, mint büszkén emlegette: „ Az NDK talán legkitűnőbb, pontosabban technikailag a legkiválóbb zenekaránál dolgozom, modern zenét igazán jól csak a mi társulatunk játszik az országban. Igen sok kompozíciót mutatunk be mai szerzőktől ." Éppilyen joggal volt büszke hangszerére, a maga vásárolta Stradivarira is, amelyen utolsó éveiben játszott. 1988. május 15-én, életének 79. évében hunyt el.
+
+Mikusi Balázs
+
+Source: https://lfze.hu/nagy-elodok/garay-gyorgy-1830

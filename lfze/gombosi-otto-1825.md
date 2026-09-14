@@ -1,0 +1,13 @@
+# Gombosi Ottó
+
+Budapest, 1902. október 23. – Natick, Ma., 1955. február 17.
+
+Gombosi Ottó zenét tanító édesanyjától kapta első zongoraleckéit, majd 1915-től a Fodor-féle zeneiskolában tanult zongorát (Kovács Sándortól) és zeneelméletet. 1919-ben Weiner Leó, majd később Siklós Albert zeneszerzés-növendéke lett a Zeneakadémián. 1921-től a berlini egyetemen zenetudományt hallgatott Johannes Wolf, Curt Sachs és Erich von Hornbostel növendékeként; emellett művészettörténetet és filozófiát is tanult. 1925-ben doktori címet szerzett Jacob Obrechtről írott fontos disszetrációjával, amely még ugyanabban az esztendőben nyomtatásban is megjelent.
+
+Budapestre visszatérve néhány évig az általa alapított Crescendo című folyóirat szerkesztőjeként tevékenykedett, és sokat publikált bel- és külföldi szakfolyóiratokban; Bartók és Kodály művészetének elkötelezett híve volt. 1929-től 1933-ig ismét Berlinben végzett kutatómunkát, majd pedig a római Magyar Intézetben, illetve Bázelben működött. 1939-ben az Egyesült Államokba emigrált; itteni sikeres egyetemi pályafutásának állomásai Seattle, Chicago és a Harvard voltak. (Eközben Guggenheim-ösztöndíjjal Európában is tanított.)
+
+Gombosi nemzedékének kiemelkedő muzikológusai közé tartozott. Obrecht-kutatásai alapjában módosították a régi németalföldi iskoláról kialakított képet, egyebek között azáltal, hogy könyvében (Jacob Obrecht, 1925) közreadta Obrecht kortársainak jó néhány addig kiadatlan kompozícióját. Az ő nevéhez fűződik Thomas Stoltzer két jelentős művének első kiadása is ( Octo tonorum melodiae, Erzürne dicht nicht ). Érdeklődése a reneszánsz lantirodalmára is kiterjedt: 1935-ben monográfiát adott ki Bakfark Bálintról ( Der Lautenist Valentin Bakfark. Leben und Werke ), halálának évében pedig megjelent Vincenzo Capirola – Obrecht-átiratokat is tartalmazó – 1517-es lantkönyvének általa készített közreadása ( Composotione di meser Vincenzo Capirola ). Különböző folyóiratok számára írt számos publikációja és nemzetközi kongresszusokon tartott nagyszámú előadása arról tanúskodik, hogy érdeklődése, elmélyült tudása nem szorítkozott a 15. és a 16. század zenéjére: témái Pindarosztól a blues világáig ívelnek, s eredeti látásmódja sokszor váltott ki termékeny vitákat, vezetett el újszerű felismerésekhez. Rendkívüli módon érdekelték a zenének a kottában nem rögzíthető jelenségei, paraméterei. A – legáltalánosabb értelemben vett – nagyforma és zenei struktúra kérdései csakúgy foglalkoztatták, mint a metrikai elemzés problémái. Az alapvető elméleti kérdésekben kialakított sajátos véleményét közreadásaiban is megfogalmazta, és nagy hatással volt tanítványaira.
+
+*(Malina János)*
+
+Source: https://lfze.hu/nagy-elodok/gombosi-otto-1825

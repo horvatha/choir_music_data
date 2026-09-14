@@ -1,0 +1,15 @@
+# Zempléni Kornél
+
+Debrecen, 1922. szeptember 4. – Budapest, 2013. július 22.
+
+Zempléni Kornél édesanyja hegedűtanár volt, de a tágabb családban is akadtak muzsikusok. A debreceni zeneiskolában az egykori Senn Irén-tanítvány Galánffy Lajosnál kezdte meg zongoratanulmányait, aki a részletek iránti érzékenységet táplálta növendékeibe. Később Szabó Emilhez került, aki zenelméletre, zeneszerzésre oktatta. A híres debreceni tanár növendéke volt többek közt Vásáry Tamás is. Zempléni 1940-ben nyert felvételt a Zeneakadémiára, ahol Böszörményi-Nagy Béla tanítványa lett. Zeneszerzés-stúdiumokat Siklós Albertnél, majd annak korai halála után Kókai Rezsőnél végzett. Az 1943-as Liszt versenyen II. helyezést ért el. 1943 őszén Dohnányi Ernő felvette mesteriskolájába (Siki Bélával, Szolcsányi Györggyel egy időben), de ez mindössze a német megszállás napjáig, 1944. március 19-ig tartott. A rövid időszak mégis meghatározó élmény volt Zempléni Kornél számára, aki Dohnányi inkább illusztráló, mintsem szavakban kifejtett tanítási módszerével megtartott óráit máig „ajándéknak" tekinti.
+
+1947 első napjától folytat tanári tevékenységet, először a Nemzeti Zenedében, majd a Bartók szakiskolában.
+
+A háború utáni időszak két fontos zenei versenyén, az 1948-as Bartók versenyen, illetve az 1949-es VIT versenyen kiemelkedő sikerrel szerepelt, s ezzel nemcsak országos koncertkarrierje kezdődött el, hanem az akkor bejárható európai országokban is vendégszerepelt. 1955-ben egy magyar zenei küldöttség tagjaként Kínában turnézott, majd a hatvanas évek elejétől több nyugateurópai országban is megfordult, többek között Ferencsik Jánossal, Lehel Györggyel. Egyik zeneakadémiai szólókoncertjéről ezt írta kritikusa: „ Csak a kivételes, őszinte elragadtatás hangján számolhatunk be Zempléni Kornél zongorázásáról. S hadd szóljunk itt először valóban magáról a zongorázásról, arról a rendkívül szép és természetes, minden árnyalatban egészségesen, gyönyörűen csengő hangzásról, amely a művész játékát jellemzi. Ez a csodaszép hangszín [...] s a biztos, érezhetően megalapozott technikai bázis teszi lehetővé, hogy a kimagasló intelligenciájú és ízlésű, mélységesen muzikális művész gazdag, az évek múlásával egyre elmélyültebb lírája szabadon kibontakozhasson. Töretlen ívű, nagyszerű koncertjén az elsőtől az utolsóig minden hang a helyén volt; ott és úgy, ahogyan kell, s valamennyit érzelmi tartalom, őszinte és szuggesztiv poézis hatotta át... "
+
+Zempléni Kornél 1964-ben lett a Liszt Ferenc Zeneművészeti Főiskola tanára. 1982/83-ban a zongoratanszék vezetője volt. 1984-től 1986-ig Japánban tanított az Osaka University of Arts vendégprofesszoraként, majd hazatért Budapestre, a Zeneakadémiára. „ [...] tanárként az a dolgom, hogy ráneveljem a növendéket a folyamat helyes – és az ő alkatának megfelelő – kialakítására. Hogy miből áll ez a folyamat? Legelsősorban a meg- és felismerésből [...] A megismerés általános, a felismerés már részletekbe menő tartalmi elemzésre vonatkozik..." – nyilatkozott Zempléni tanári hitvallásáról.
+
+M. J.
+
+Source: https://lfze.hu/nagy-elodok/zempleni-kornel-1689

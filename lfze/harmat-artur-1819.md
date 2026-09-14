@@ -1,0 +1,23 @@
+# Harmat Artúr
+
+Nyitrabajna, 1885. június 27. – Budapest, 1962. április 20.
+
+Amikor Harmat Artúr 1926-ban a Liszt Ferenc Zeneművészeti Főiskolán egyházzenei tanszakot alapított, európai jelentőségű feladatot oldott meg, hiszen Európában ekkor még csak Freiburgban és Strassburgban működött egyetemi szintű egyházzenei tanszék.
+
+Harmat Artúr fiatalkori tanulóévei alatt került kapcsolatba az egyházzenével, amelyre az esztergomi Bazilika karnagya, az általa igen tisztelt Kersch Ferenc oktatta. „ Az esztergomi bazilika chórusán szívtam magamba a valódi musica sacra szeretetét, itt szereztem meg alapját további fejlődésemnek" – írta 1913-ban. Ekkor már tevékeny részvevője volt a nyitrai „Egyházi Zeneegylet"-nek, ahol főgimnáziumi énektanári és orgonistai állásra kapott megbízást, majd az egylet karnagyává választották. Időközben tanulmányait a budapesti Zeneakadémián folytatta, ahol előbb középiskolai énektanári képesítést, majd zeneszerzői oklevelet szerzett Herzfeld Viktor irányítása alatt. Külföldi tanulmányai során Prágában az Emaus kolostor apátjának, a gregorián éneket oktató Albanus Schachleitnernek volt hallgatója, Beuronban Dominicus Johner, Berlinben pedig Max Ast kurzusaira járt.
+
+1912-ben Kacsóh Pongrác hívására csatlakozott az akkor megszervezett fővárosi énektanítói gárda tagjai közé. 1921-től vezette a Palestrina Kórust, mely – a Budapesti Kórusba történt beolvadásáig – a magyar zenei élet jelentékeny szereplőjének számított. A székesfővárosi Felsőbb Zeneiskolából került 1924-ben a Zeneművészeti Főiskolára, ahol liturgiát, gregorián éneket, egyházzenei rendeleteket, magyar egyházi népéneket, összhangzattant, ellenponttant, hangszerelést és kargyakorlatot tanított. 1926-ban megbízást kapott a középiskolai ének-zenetanári tanszak felállítására (ez a terv 1929-ben valósult meg), illetve ugyanebben az évben Klebelsberg Kunó vallás- és közoktatási miniszter felkérésére hozzáláthatott régi vágya, az egyházzenei tanszak megszervezéséhez is, melynek eredményeképpen 1928 őszén elindult a Zeneművészeti Főiskola egyházzenész és egyházkarnagyképző tagozata.
+
+Harmat Artúr, a tanár és karnagy ekkor már két éve az Országos Magyar Cecília Egyesület társelnöke volt a lánglelkű Bogisich Mihály kanonok mellett, egyházművészeti tanácstag, aki állandóan dolgozott, koncerteket szervezett templomokban, a Zeneakadémián, Budapesten és vidéken. 1922–38-ig a Belvárosi Főplébánia, 1938–56-ig a Szent István bazilika kórusát vezette. Fáradhatatlan munkájában mindvégig Kersch Ferencet tekintette példaképének, aki korát megelőzve szervezte újjá a főszékesegyházi kórust és hajtotta végre az egyház liturgikus és zenei rendeleteit.
+
+1929-ben került a frankfurti Internationale Gesellschaft für Erneuerung der Katolischen Kirchenmusik igazgatósági tanácsába, amely egyesület égisze alatt több magyar kompozíció külföldi előadását szervezte meg szép sikerrel. 1950-ig, a Művészeti Dolgozók Szakszervezetének megalakulásáig a Magyar Zeneművészek Szabad Szervezetének alelnöke volt. 1948-ban a Szent István Akadémia rendes tagjává választották és ugyanebben az évben lett a Bartók Béla Szövetség alelnöke.
+
+Mint zeneszerző, Harmat Artúr a magyar egyházi zenének a maga korában egyik leghivatottabb és legelkötelezettebb művelője volt. 10 latin mise, 3 Te Deum, latin és magyar passió turbák, a budapesti Terézvárosi templom orgonájának felszentelésére írt 150. zsoltár, számos magyar és latin motetta megalkotása fűződik nevéhez. Legnagyobb horderejű miséje a „ Missa Sancti Stephani Regis ex veteribus melodiis hungarorum saeculis ad quatuor voces inaequales (soli ad libitum), cum organo", melyet 1944. május 28-án, Pünkösd vasárnapján mutattak be a budapesti Szent István Bazilikában. A hagyományokhoz híven a Bazilika kórusa mind a mai napig ezzel a misével ünnepli Pünkösdöt és Szent István napját.
+
+Pedagógusi életművében kitüntetett helyet foglal el a XVII. és XVIII. századi magyar egyházi népénekek feldolgozásait tartalmazó, gyakorlati célra készült Lyra Coelestis és a Szent vagy Uram című 1931-ben elkészült gyűjtemény, illetve az 1947-ben és 1956-ban megjelentetett kétkötetes Ellenponttan, amelyet „zenetudósoknak, zeneíróknak, egyházi zenészeknek, karmestereknek és karnagyoknak" szánt szerzője, és amely máig sem hiányozhat egy valamirevaló egyházzenész asztaláról.
+
+Harmat Artúr, a magyar Musica Sacra megteremtője és vezéregyénisége 1962-ben hunyt el.
+
+*Tamás Katalin*
+
+Source: https://lfze.hu/nagy-elodok/harmat-artur-1819

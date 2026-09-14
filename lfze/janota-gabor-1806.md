@@ -1,0 +1,19 @@
+# Janota Gábor
+
+Torda, 1936. január 27. – 2021. április 6.
+
+1961-ben, Rudas Imre növendékeként végzett a Zeneakadémián; közben II. díjat nyert az 1958-as Müncheni Fagottversenyen (az I. díjat nem adták ki). 1962 és 1970 között a Rádiózenekar első fagottosa, 1970 és 1972 valamint 1974 és 1976 között a kanadai London Symphony Orchestra első fagottosa, 1977-től 1993-ig – több külföldi megszakítással – az Állami Hangversenyzenekar első, majd második fagottot játszó művésze volt. Évtizedekig a Liszt Ferenc Kamarazenekar első fagottosi teendőit is ellátta. Nemzetközi versenyek zsűritagja, több új magyar mű itthoni és külföldi bemutatója, számos országban hangversenyezett és több szólólemeze készült.
+
+A 19. században kialakult hivatásos koncertélet a fúvós hangszerek közül csak a fuvolát és klarinétot „engedte" önálló funkcióval pódiumra lépni; számos, korábban jelentős szólókkal ellátott zenekari hangszer azonban teljesen háttérbe szorult, feladata kizárólag mint „beosztott" zenekari szólamnak volt.
+
+Egy-egy ilyen hangszer feltámasztása a tehetségesek és elhivatottak dolga. A fagottot Janota Gábor támasztotta fel és küldetését éppen a magyar hanglemezgyártás fedezte fel elsőként. A Liszt Ferenc Kamarazenekarral Vivaldi-concertókat rögzített, majd más régi és kortárs muzsikát játszott hanglemezre. Tizenhat új magyar fagott darab ősbemutatója fűződik a nevéhez. Ezek közül számos darabot neki ajánlottak (Bozay Attila, Kocsár Miklós, Láng István és mások). Kanadai és osztrák szerzők is írtak és ajánlottak számára műveket. A Hummel és Johann Christian Bach fagottversenyeit tartalmazó felvételről (amelyen szintén a Liszt Ferenc Kamarazenekar volt a partnere) a külföldi sajtó is lelkendezve írt. „ Nem kell a fagott szerelmesének lenni ahhoz, hogy a hallgató élvezetet találjon a felcsendülő muzsikában: Janota Gábor személyében bámulatra méltó szólistára talált a két versenymű [...] A lemez tökéletes egyensúlyt valósít meg a versenymű előadásában és hangzásában " – olvashatták a The New Records olvasói.
+
+A hetvenes években – első Vivaldi-felvételének köszönve a meghívást – Kanadában dolgozott; zenekarban játszott, kamarázott, mint a New Chamber Winds tagja, szólózott és nyári kurzusokon tanított. Vendégprofesszora volt a University of Western Ontario, University of Toronto, University of Victoria zenei fakultásainak, mesterkurzusokat tartott Kanadában, Belgiumban, 1994 óta pedig rendszeresen Ausztriában. 1972 és 2006 között – több külföldi megszakítással – a Zeneakadémia tanára. Időközben megjelent a Vivaldi-concertók második lemeze is. A kilencvenes években adta közre Kortárs magyar művek fagottra és zongorára című CD-jét, amelyen Kocsis Zoltán és Körmendi Klára a partnere.
+
+Művészetének alapvető sajátossága, hogy sosem akart mást kihozni a fagottból, mint ami a hangszer egyénisége, sosem félt a vaskos, testes megszólaltatásoktól, nem finomkodott: ismeri a fagott lelkét és a zene törvényeit, amelyek minden hangszeren azonosak. Hangszeréről és repertoárjáról így nyilatkozott: „ Technikailag természetesen igyekszem maximálisan kihasználni a modern hangszer adta lehetőségeket, hiszen ezek könnyebbséget, illetve gazdagabb kifejezési skálát kínálnak. Ami a művészi elképzelést illeti, abban viszont szeretnék annyira korhű lenni, amennyire ez mai tudásunk, zenetörténeti és stílusismereteink szerint egyáltalán lehetséges."
+
+Vallja, hogy az elmúlt két évszázadban szegényessé fogyott szólófagott-irodalom bővíthető. Átdolgozásra és közreadásra alkalmas rég elfelejtett műveket kutat fel, kortárs zeneszerzőket inspirál arra, hogy komponáljanak hangszerére. Úgy gondolja, hogy a hangszer népszerűsítése érdekében a magasabb regisztereiben jobban kihasználható francia fagott technikai tulajdonságait kellene a szép hangú német fagotton megteremteni.
+
+*Tóth Anna*
+
+Source: https://lfze.hu/nagy-elodok/janota-gabor-1806

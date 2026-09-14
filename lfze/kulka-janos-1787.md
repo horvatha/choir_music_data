@@ -1,0 +1,15 @@
+# Kulka János
+
+Budapest, 1929. december 11. – Stuttgart, 2001. október 18.
+
+Kulka János a Zeneakadémián 1947 és 1951 között Ferencsik János és Somogyi László karmesterképzős növendéke volt. Emellett zongorát, nagybőgőt, ütőhangszerjátékot tanult, Viski Jánosnál elvégezte a zeneszerzés szakot (1945/46–1950/51), továbbá látogatta Kodály és Weiner Leó óráit is. Opera- és szimfonikus karmesternek készül, de zongoristaként is fellép.
+
+Pályáját az Operaháznál kezdte mint korrepetitor, majd karmester, illetve karigazgató lett. 1957-ben Bécsbe emigrált, onnan szerződtette őt Fricsay Ferenc Münchenbe, a Bajor Állami Operához. Ettől kezdve Kulka karrierje Németországban ívelt felfelé. 1959-ben Stuttgartban a württembergi opera, két évvel később pedig a hamburgi opera első karmestere lett. 1964-től wuppertali főzeneigazgató, majd 1975-ben ismét Stuttgartba szerződött első karmesterként. 1976 és 1987 között a a Nordwestdeutsche Philharmonie vezető karmestere volt. Számos országban szerepelt vendégkarmesterként, így a bécsi, a brüsszeli, a zürichi, a bostoni, a Buenos Aires-i és a budapesti operában. Repertoárján a klasszikus operairodalom alkotásai mellett jelentős súllyal szerepelnek kortárs szerzők (többek között Stravinsky, Penderecki, Janáček, Dallapiccola, Schönberg, Petrovics, Szokolay) operái. Több ősbemutatót vezényelt (Boris Blacher: Yvonne , Prinzessin von Burgund , 1973; Giselher Klebe: Jacobovsky und der Oberst , 1982; Konrad Boehmer: Doktor Faustus , 1985).
+
+Számos hanglemezfelvételt készített, többek közt Chopin f-moll zongoraverseny ét Vásáry Tamással és a Berlini Filharmonikusokkal, valamint operaária-összeállításokat olyan énekesek közreműködésével, mint Grace Bumbry, Walter Berry, Brigitte Fassbaender és Teresa Stratas, és egy teljes felvételt Verdi Trubadúr jából.
+
+Többször vezényelt Magyarországon is. Először operakarmesterként, majd második alkalommal – 1969-ben – koncertdirigensként lépett fel. Erről a hangversenyről írta a kritikus: „ Kulka János fegyelmezett és fegyelmezni tudó egyénisége kedvezően érvényesült a Rachmaninov-zongoraversenyben. Ahogy távolodik mai zenei-esztétikai gondolkodásmódunk ettől a túláradó későromantikus világtól, úgy nő az előadóművész felelőssége [...] Kulka igen finom stílusérzékkel ki tudja szűrni a műből a sallangos, bántó elemeket, fegyelmezni tudta a rachmaninovi érzelemvilágot, hogy az mindig választékos és őszinte maradjon [...] A koncert alapján Kulka Jánost biztos kezű, kiváló dirigensnek ismertük meg, aki képes egész virtuóz karmesteri teljesítményre, s aki igen finom stílusérzékről ad tanújelet [...] Egy 1986-os hangversenyen – többek közt – Brahms Kettősverseny ét vezényelte Kovács Dénes és Perényi Miklós közreműködésével az Állami Hangversenyzenekar élén: „ A zenekari kíséret kimunkálásában Kulka legfőbb érdemének azt a biztos érzéket nevezném, amellyel mindenekelőtt a mű markáns, határozott alapkarakterét mutatta fel: éles dallami-ritmikai tagolással, erős, központozó szerepű hangsúlyokkal... "
+
+*Malina János*
+
+Source: https://lfze.hu/nagy-elodok/kulka-janos-1787

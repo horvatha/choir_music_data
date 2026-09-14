@@ -1,0 +1,21 @@
+# Kabos Ilonka
+
+Budapest, 1898. december 7. – London, 1973. május 27.
+
+Az úgynevezett Szendy-iskola neveltje és egyik legkiválóbb képviselője volt Kabos Ilonka zongoraművész és pedagógus, aki élete nagy részét, az 1930-as évek végétől 1973-ban bekövetkezett haláláig Angliában és Amerikában töltötte, a budapesti Zeneakadémia hírnevét öregbítette.
+
+Kabos Ilonka 1898. december 7-én született Budapesten. Irodalmi légkörben nőtt fel; édesapja, Kabos Ede színműveket és tárcákat írt többek között a Pester Lloyd, a Magyar Nemzet és Mikszáth Kálmán Országos Hírlapja számára. A családot Ady Endréhez is baráti szálak fűzték. Ady, akit elbűvölt az akkor 10-11 éves kislány, Fehér lyány virág-kezei címmel verset írt hozzá, amely a Szeretném, ha szeretnének című kötetben jelent meg 1909-ben.
+
+Két évvel később, 1911 őszén a tehetséges pianistajelölt már a Zeneakadémia hallgatója volt. Zongoratanulmányait a volt Liszt-növendék, Szendy Árpád irányításával végezte, kamarazene-ismereteit Weiner Leónál bővítette. Négyévi tanulás után, 1915-ben szerezte meg művészi oklevelét, diplomakoncertjének műsora híven tükrözi az iskola akkori szellemét és az ifjú előadó egyéniségét: Bach–Liszt: g-moll fantázia és fúga orgonára, Brahms: Variációk és fúga egy Händel-témára , Liszt: 104. Petrarca-szonett , Chopin: cisz-moll scherzo . A diploma mellett Kabos tehetségét és kiváló tanulmányi előmenetelét bizonyítja még az ugyanebben az évben elnyert Székesfővárosi Liszt Ferenc-ösztöndíj is.
+
+Zongoraművészként Budapesten 1916-ban debütált, külföldön az I. világháború befejeződése után mutatkozott be. Szólistaként és kamaramuzsikusként egyaránt bejárta Nyugat-Európát, fellépett Hollandiában, Spanyol-, Olasz-, Német- és Franciaországban, majd Angliában. Kortársai és tanítványai számára különösen zongorahangja szépsége és játékának frissessége tűnt fel. Repertoárja gerincét 19. századi művek alkották, de az 1920-as évektől kezdve egyre több kortárs kompozíciót is műsorára tűzött. Rendszeresen játszotta, majd később tanította is Bartók, Kodály, Weiner Leó, Seiber Mátyás, Dallapiccola, Roy Harris és Chávez műveit, amelyek közül néhánynak az ősbemutatója, illetve a külföldi bemutatója is az ő nevéhez fűződik. Interpretációi közül mégis a romantikus alkotások előadásai maradtak a legemlékezetesebbek. Kadosa Pál Brahms zongoraszonátáit, Frankl Péter Chopin-műveit emelte ki ezek közül, míg Tóth Aladár, a neves zenekritikus, valahányszor felkereste Kabos Ilonkát Londonban, Liszt h-moll szonátáját kívánta hallani tőle.
+
+Pedagóguspályája a Nemzeti Zenedében indult, ahol 1931–1936 között tanított. Az intézet tanári karában olyan kiváló muzsikusok foglaltak helyet, mint Rosthy Anna, Ferencsik János, Hammerschlag János, Kesztler Lőrinc és Lajtha László. 1936-ban, miután Kabos távozott, Faragó Györgyben találtak rá a hozzá minden tekintetben méltó utódra.
+
+1938-ban Kabos Ilonka Londonban telepedett le, ahol stílusérzékének, finom ízlésének, valamint fiatalos, minden újra fogékony egyéniségének köszönhetően hamarosan elismert pianista és a II. világháború utáni nemzedékek egyik legendás hírű zongoratanára lett. Anglián kívül mesterkurzusokat tartott Nyugat-Európa és az Egyesült Államok számos városában is, és 1965-től kezdve évente öt hónapon át tanított a New Yorki Juillard-Schoolon. Tanítványai közé tartozott többek között John Ogdon, Shoura Cherkassky, Joseph Kalichstein. Angliai háza a zenei élet központja volt, amely a magyar emigráns muzsikusoknak is otthont adott: gyakran megfordult nála Solti György, de az ő pártfogásával indult el Vásáry Tamás és Frankl Péter londoni művészkarrierje is. Kodály az angol–magyar zenei barátság megtestesítőjének nevezte őt. Amikor 1946-ban Londonban járt, a nagybritanniai magyarok testületében Kabos Ilonka játszotta el–mutatta be egyik legújabb szerzeményét, a kizárólag fekete billentyűkre komponált Gyermektáncok at.
+
+Kabos egyénisége legteljesebben mégis tanári működésében bontakozott ki. Szenvedélyes pedagógus volt, aki halála előtt egy évvel, utolsó budapesti látogatásakor még az akkor feltűnt Kocsis Zoltánról és Ránki Dezsőről érdeklődött mesterüktől, Kadosa Páltól. A megismerkedésre már nem maradt idő, Kabos Ilonka 1973. május 27-én hunyt el Londonban.
+
+*Kaczmarczyk Adrien*
+
+Source: https://lfze.hu/nagy-elodok/kabos-ilonka-1803

@@ -1,0 +1,27 @@
+# id. Ábrányi Kornél
+
+Szentgyörgyábrány, 1822. október 15. – Budapest, 1903. december 20.
+
+Eredeti családneve lászlófalvi és mikefalvi Eördögh. Zeneszerző, zongoraművész, tanár, zenei író. A Zeneakadémia első öt tanárának egyike, az első magyar zenei szakfolyóirat, a Zenészeti Lapok alapítója és főszerkesztője.
+
+Édesapja Szabolcs megye alispánja volt, birtokos nemes, szentgyörgyábrányi (ma Nyírábrány) házuk a helyi reformkori kultúra központjának számított, ahol Lavotta János, Rózsavölgyi Márk, Bihari János is vendégeskedett.
+
+Ábrányi Kornél Kirch Jánosnál és Dolegni Vilmosnál kezdett zongorát tanulni, majd Nagyváradon találkozott Erkel Ferenccel 1834-ben. „A 30-as évek első felében a kolozsvári színtársulat s annak operája is rendesen egy pár hétre terjedő kirándulást tett a téli évadban Nagyváradra, […] 1834–35-ben is ellátogatott oda Erkel Ferenccel, mint a társulat karnagyával. Ekkor nyílt először alkalmam mint még serdülő ifjunak őt megismerhetni, kihez későbben a művészeti ténykedések egész sorozata csatolt baráti és hivatalos kötelékekkel, sőt szerencsés is valék akkor egy pár hónapig a zongorajátékban tanítványa lehetni” – írja az 1895-ben kiadott Erkel Ferenc élete és működése c. könyvében. Első zeneművét is Nagyváradon adták ki 1841-ben Magyar Ábránd címmel. Zeneszerzőként 1855-ben elnyerte a Nemzeti Zenede pályadíját „ Eredeti magyar gondolat változatokkal ” című darabjával. Későbbi zongoraműveiből néhány: Magyar kedély , op. 22 (1855), Hat eredeti magyar zenekép Petőfi költeményeire, op. 30 (1866), Trois nocturnes dans le style Hongrois , op. 42 (1872), Elegáns csárdások (6 füzet, 1884-1896).
+
+Zongoraművészként 1842-ben hangversenyezett először, majd külföldi tanulmányúra ment 1843–47 között. Münchenben megismerkedett Liszt Ferenccel, Párizsban Chopinnél és Kalkbrennernél, Bécsben Josef Fischofnál tanult. A szabadságharc idején, 1848–49-ben önkéntes katona, nemzetőr, majd kormánybiztosi titkár volt. 1867-ben megalapította az Országos Magyar Daláregyesületet, amelynek vezértitkára volt 1888-ig.
+
+1860-ban alapította a Zenészeti Lapokat Mosonyi Mihály, Bartalus István, Rózsavölgyi Gyula közreműködésével. Az első magyar nyelvű zenei szakfolyóirat 16 éven át jelent meg Ábrányi Kornél irányításával és írásaival, hasábjain zenetörténeti jelentőségű eseményekről adtak hírt: „ Erkel Ferenc »Bánk bán«-ját mindjárt az első előadás után Mosonyi ismertette szakszerűen és részletesen a »Zenészeti Lapok«-ban, tele őszinte lelkesedéssel és kritikai objektivitással ”. A hetente olvasható számok a zenei élet, zenetörténet, zenepedagógia minden területét felölelték, gyakran cikksorozatokban, nem egyszer egymással vitatkozó írásokban fejtve ki a témákat. Emellett aktuális zenei eseményekről, zenei hírekről tájékoztatták az érdeklődőket. A Zenészeti Lapok szerkesztésén kívül állandó zenei rovata volt többek között a Pester Lloyd, Kelet Népe, Fővárosi Lapok, Alföld, Magyar Salon lapoknál. Könyvei jelentek meg zenepedagógiai, zenetörténeti témákban: Mosonyi Mihály élet- és jellemrajza (1872), Összhangzattan (1874), Zenészeti aesthetika (1877), Általános zenetörténet (1886), A magyar zene sajátságai (1893), Erkel Ferenc élete és működése (1895 ), Életemből és emlékeimből (1897), A magyar zene a 19. században (1900) c. kötete a korszak zenetörténetének igen fontos forrása.
+
+1869-ben ezzel a felhívással fordult az országgyűléshez: „Ne feledkezzék meg arról, hogy egy rendezett társadalomban életföltétel a művészetek s ezek közt első helyen: a zeneművészet virágzása.” Ezt követően a Zeneakadémia létrehozásáért indult sok éves küzdelem majd’ minden eseményén ott találjuk: üléseken, több bizottság javaslatának kidolgozásában vesz részt. Tevékenységét, véleményét a sajtóból, főleg a Zenészeti Lapok hasábjairól is nyomon követhetjük . Erkel és Liszt mellett aktívan részt vett a Zeneakadémia megalapításának harcaiban.
+
+1875-ben, az első tanév kezdetekor „m inden munka Erkelre és Ábrányira maradt: berendezés, órarend, négy évre tanterv, zeneműtár, e tárgyakban fejlesztések, a felvételik meghirdetése, méghozzá sürgősen .” A szervezési és adminisztratív munka mellett tanított is: általános és magyar zenetörténetet, zeneesztétikát, zeneelméletet, zeneszerzést 1888-as nyugdíjba vonulásáig.
+
+„ Az első tanév végén a nagyközönség előtt lezajló nyilvános vizsgákon […] feltűntek Ábrányi tanítványai zeneesztétikából és magyar zenéből. [… ] Az év végi magyar hangversenyek legfőbb anyagát Liszt rapszódiái, Székely [Imre] ábrándjai és Ábrányi zongoraművei alkották .” Bár az általa kidolgozott magyar zenészet tantárgyat később a zeneszerzés főtárgy keretein belül oktatták, az „ fennmaradt még valahol. A magyar zenei stílus gondolatának halálukig legigazibb éltetőinél: Erkelnél és Lisztnél. ”
+
+Egy tiszteletére rendezett 1923-as emlékhangverseny tudósításában olvashatjuk: „ Ábrányi Kornél éveken át tanulmányozta a magyar népdalt [… ] kísérletei, a magyar stílusban írt szonáták és egyéb zenei műfajok, ha nem is vezettek teljes eredményre, de örök időkre határkövei lesznek a magyar zene fejlődésének. ” Nekrológjában többek között így méltatják: „ A magyar zene fejlesztésének és naggyá tételének akarta szentelni életét ”.
+
+Családjában folytatódott a művészpálya, fiai, ifj. Ábrányi Kornél (1849–1913) író, újságíró, illetve Ábrányi Emil (1851–1920), költő, műfordító, és az ő fia, ifj. Ábrányi Emil (1882–1970), karmester, zeneszerző személyével.
+
+*Csanda Mária*
+
+Source: https://lfze.hu/nagy-elodok/id-abranyi-kornel-1930

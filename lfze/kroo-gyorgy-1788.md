@@ -1,0 +1,17 @@
+# Kroó György
+
+Eger, 1926. augusztus 26. – Budapest, 1997. november 12.
+
+Kroó György gyerekkorát a könyvek és a zene határozták meg; édesapjának könyvkereskedése volt Egerben. A kisvárosi rendezett polgári életet a 2. világháború katasztrófája söpörte el, a családot koncentrációs táborba hurcolták, a tizenhét éves, munkaszolgálatos fiatalember elvesztette szüleit és testvérét. E hihetetlen tragédia soha nem felejthető verméből Kroó György magára hagyottan, a saját erejéből kapaszkodott föl, s teremtette meg életművét a megbocsátás, a humanitás szolgálatában.
+
+1949-ben került hegedűsként a Zeneakadémiára Rados Dezsőhöz, akinél három évig tanult, majd 1951-ben az akkor alapított zenetudományi tanszakra iratkozott be. Zenei ambíciói itt bontakoztak ki, egy sor legendás professzor, Kodály Zoltán, Szabolcsi Bence, Bárdos Lajos, Bartha Dénes, Molnár Antal, Gárdonyi Zoltán irányításával és inspirációjának hatására. Különösen szoros kapcsolat fűzte Szabolcsi Bencéhez, aki szinte benne találta meg a háborúban elvesztett fiát, míg Kroó a tanszék vezetőjében új, szellemi apára lelt. 1957-ben, friss diplomával a zsebében kezdte meg Kroó György azt a pályát, amelynek egy-egy szelete is teljes embert kíván.
+
+A Rádió Zenei Főosztályának szerkesztőjeként majd rovatvezetőjeként megszervezte és virágzó rádiós műfajjá tette a zenei népművelést. Haláláig szerkesztette, illetve alkotta sikerrel sorozatait (a legismertebbek: A hét zeneműve , Hallgassuk együtt ), felelős szerkesztője volt a Rádió zenei magazinjának, az Új Zenei Újság nak, amelyben évtizedeken át, hétről hétre a legfontosabb hangversenyekről biztos ítélettel, a tehetség iránti nyitottsággal és lelkesedéssel mondott kritikát (zenekritikáiból két kötetben jelent meg válogatás, 1981-ben és 1999-ben). Szinte megszakítás nélkül írt. Könyvei, cikkei a zenetörténet különböző korszakaival foglalkoznak ( Schumann , 1958; Berlioz , 1960; Bartók színpadi művei , 1962; A „szabadító" opera , 1966; Wagner , 1968; Bartók-kalauz , 1971; A magyar zeneszerzés 25 illetve 30 éve , 1971, 1975; Rácz Aladár , 1979; Heilawâc – Wagner-tanulmányok, 1983; Az első zarándokév – Liszt-tanulmány, 1986, Szabolcsi Bence I-II, 1994).
+
+Kroó György nem volt specialista szobatudós. Széles érdeklődése, lenyűgöző nyelvtudása, zene, színház, irodalom, képzőművészet gyors és rendkívül intenzív befogadása arra tette alkalmassá, hogy fontos összefüggésekről, nagy témákról gyakran nyilatkozzon meg. Műfaji határok nem léteztek számára: a legbonyolultabb dologról tudott élvezhető rádióelőadást készíteni, s egy látszólag egyszerű kérdés hatalmas tanulmányra serkenthette. Zsigereiben érezte a zenét, s élményét írásban, szóban egyaránt maradéktalanul át tudta adni. Ez volt megejtően szuggesztív tanításának legfőbb titka (1961-től zenetörténet-tanárként, 1972-től haláláig a zenetudományi tanszak vezetőjeként). Kulcsa volt a lélekhez, az a bizonyos „hatodik érzék", amelynek segítségével mélyebbre pillantott másoknál. Generációkat tanított, nemcsak a zenetudományi tanszakon, hanem – hangszeres muzsikusokat – általános zenetörténeti óráin is. Tanítása a különlegesen ihletett interpretáció izzásában vált költőivé, amelyet maradandóan égetett be tanítványai szívébe.
+
+Kitüntetései: Erkel-díj (1963), SZOT-díj (1970), Széchenyi-díj (1995).
+
+Batta András
+
+Source: https://lfze.hu/nagy-elodok/kroo-gyorgy-1788

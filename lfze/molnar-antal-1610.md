@@ -1,0 +1,19 @@
+# Molnár Antal
+
+Budapest, 1890. január 7. – Budapest, 1983. december 7.
+
+Molnár Antalt szülei jogásznak szánták – ő ennek ellenére a zenei pályát választotta. Öregkori visszaemlékezései szerint gimnáziumi éveiben, Kodály Zoltán személye és a nála folytatott összhangzattan-tanulmányok irányították figyelmét a zenei pálya felé. Kamaszkorában zongorázni és hegedülni tanult, majd 1907 és 1910 között Herzfeld Viktor irányításával végezte el a Zeneakadémia zeneszerzés-tanszakát. Ekkor még nem kötelezte el magát a zene egyik területével sem, mert egyidejűleg az irodalom és az írás is vonzotta. „Körülbelül húszéves koromig nem tudtam, hogy író leszek-e, vagy zeneszerző, vagy hegedűművész vagy esztéta. Minden kavargott bennem. Sok novellát írtam, két verseskötetem jelent meg" – mondta később ezekről az évekről.
+
+Hangszeres pályája is sikeresen indult: 1910-től három éven keresztül a Waldbauer-Kerpely Vonósnégyesben a brácsaszólamot játszotta, majd 1917–19-ben Dohnányi Ernő és Hubay Jenő közös kamaraestjeinek volt állandó közreműködője. A tízes években ismeretséget kötött a Nyugat íróival, zeneszerzőként és zongorakísérőként többször részt vett a Nyugat matinéin, s zenei témájú cikkei jelentek meg a folyóiratban. Bartók és Kodály ösztönzésére 1910-ben Erdélyben, 1912-ben a Felvidéken népdalokat gyűjtött.
+
+Zenetudományi érdeklődése a 20-as években bontakozott ki: elemző tanulmányokat közölt Bartók műveiről, majd Az európai zene története 1750-ig című könyvével (1920) megkezdte átfogó történeti munkáit. Bár ígéretes zeneszerző-tehetségként tartották számon, ezután abbahagyta a komponálást. Mint 1975-ben egy televízió-interjúban Bónis Ferencnek megfogalmazta: „…ha valaki, bármilyen indokból, engedi magát rábeszélni, hogy ne komponáljon, hanem könyvet írjon, ez a tény már egymagában bizonyítja, hogy őbenne a komponálási képesség alacsonyabb rendű, mint az írói."
+
+Alkotói és előadói ambícióit, valamint az új zene iránti érdeklődését ezután kortársai – mindenekelőtt Bartók és Kodály – művészetéről írt cikkeiben, tanulmányaiban juttatta érvényre. Zeneírói munkásságának több mint öt évtizede alatt Molnár Antal a modern magyar zenetudomány egyik megteremtője lett. Alapvető jelentőségű (s máig használatos) átfogó zenetörténeti és esztétikai témájú könyveiben az európai általános esztétika és filozófia eredményeit is alkalmazta. Hatalmas életművében – hazánkban elsőként – foglalkozott a zenetörténet szociológiai aspektusaival, vizsgálta a fizika, a pszichológia, a nevelés és a zene összefüggéseit, a zenekultúra általános jelenségeit.
+
+1918-tól negyven tanéven keresztül volt a Zeneakadémia tanára. Elméleti és gyakorlati tárgyakat – zenetörténetet, zeneesztétikát, kamarazenét, zeneelméletet – egyaránt oktatott, könyveinek egy részét tanári tevékenységének hátteréül szolgáló szándékkal írta. Nyugdíjazása után még számos könyve jelent meg, összegyűjtött visszaemlékező írásai a huszadik századi magyar zenetörténet fontos dokumentumai.
+
+Molnár Antal egyike volt az elsőknek, akik felismerték, hogy egy ország zenekultúrájának megalapozásában a tudományos és tanári munka mellett elengedhetetlen az igényes zenei ismeretterjesztés is, amely elsősorban a zenetörténészek feladata. Vallotta, hogy a legbonyolultabb szakmai ismereteket is át lehet adni közérthető formában az olvasónak, ha az író a zenei jelenségeket tárgyszerűen, de élvezetes stílussal, s a művek iránti személyes elkötelezettséggel fogalmazza meg. Ismeretterjesztő cikkeiben, rádióelőadásaiban arra törekedett, hogy ne csak információkat közvetítsen, hanem ráébressze közönségét a zenei szépségben – tágabb értelemben: a zenélésben – rejlő öröm bárki által átélhető lehetőségére is.
+
+*Szitha Tünde*
+
+Source: https://lfze.hu/nagy-elodok/molnar-antal-1610

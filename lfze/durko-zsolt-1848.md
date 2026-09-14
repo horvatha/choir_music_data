@@ -1,0 +1,21 @@
+# Durkó Zsolt
+
+Szeged, 1934. április 10. – Budapest, 1997. április 2.
+
+1955-től 1961-ig Durkó Zsolt a budapesti Zeneakadémia növendéke. 1971-től 1977-ig ugyanott a 20. századi zeneszerzés tanára. E két rövid időszakon túl a Zeneakadémia épületéhez fűzi a komponistát jó néhány sorsfordulója is – itt hangzott fel először több, az életművet meghatározó kompozíciója: a budapesti nemzetköziverseny-győztes II. vonósnégyes (1971), a főváros centenáriumára rendelt Halotti beszéd (1975), a Zongoraverseny (1981), a Hegedűverseny (1983) – és itt került sor a zsúfolásig telt Nagyteremben első nagyszabású szerzői estjére (1974), valamint a 60. születésnapját ünneplőre, az utolsóra (1994).
+
+Durkó Zsolt a Zeneakadémián Farkas Ferenc osztályában végzett. Tanulmányait a római Santa Cecilia Akadémián folytatta Goffredo Petrassi mesteriskolájában. Kétéves itáliai tartózkodása alapjaiban jelölte ki pályájának főbb irányvonalait.
+
+Hazatérve megteremtette személyes, teljes életművére vonatkoztatva is egységes zenei nyelvét, amely egyszerre európai és magyar, amely egyszerre talál kapcsolatot a tradícióval s a kor új törekvéseivel. A 60-as évtized Magyar rapszódiá ja, az Altamira , a Fioriture partitúrája éppúgy hivatkozik a korabeli avantgarde törekvésekre, mint a magyar nyelv hangsúlyviszonyaira, a magyar népzene siratódallamainak szabad artikulációjára, díszítményeire vagy a gregorián s a középkori kódexek zenei anyagára. Nemcsak jellegzetes tételtípusok születnek most meg (a psicogramma , az organismo , a double ), nemcsak a zenei szövet akkoriban forradalmi hangszerkezelése, kötött és kötetlen előadásmódjának váltakozása tűnik fel, de máris kibontakozik a mikroelemekből szervezett, kibomló organikus nagyforma sajátos szerkesztőelve is. Dallam és harmónia mind szervesebb összefüggése, a hangközmodelleken alapuló struktúra kiépülése pedig már a szerző újabb stíluskorszakának nyitánya.
+
+Az újabb és újabb kompozíciók sorra elismerést aratnak: mind a nemzetközi versenyeken (Róma, Montreal, Budapest, Párizs), mind a koncerttermekben: Londontól Varsóig, a hazai fesztiváloktól Ausztráliáig. Már a hatvanas évek második felében Durkó Zsolt a külföldön legtöbbet játszott kortárs magyar szerző.
+
+A vokális művek a 70-es évtizedben kerülnek az életmű fókuszába. A korábbi darabok szövegtelen énekszólamai után a szöveghez fordulás: alapvető tartalmi változás. Durkó Zsolt két kantátája, két oratóriuma illetve három felvonásos Mózes-operája a magyar irodalom sorait – Ady, az ősi Halotti Beszéd, Madách és Széchenyi gondolatai – foglalja keretbe. A drámai zene nyelvén fogalmazza újra a korábbi hangszeres stílus jegyeit: az eddigi, többnyire variációs, kontrapunktikus formák a kis egységek felől haladtak a nagy felé – most a zenei anyag széles ívű, monumentális architektúrává szerveződik.
+
+Durkó Zsolt 1971-ben Koussevitzy-díjat, 1978-ban Kossuth-díjat kap. Később kétszer is Bartók Béla–Pásztory Ditta-díjjal ismerik el művészetét. A nyolcvanas évektől a Magyar Rádió zenei lektora. 1987-től a Magyar Zeneművészeti Társaság alapító elnöke, aki megteremti a kortárs zene kimagasló rendezvényét, a Mini-fesztivált. A nyolcvanas-kilencvenes évek fordulóján az átalakuló magyar zenei élet meghatározó személyisége, a Magyar és a Széchenyi Művészeti Akadémia rendes tagja, a Magyar Zeneművészek és Táncművészek Világszövetségének elnöke. S egy újabb szerep: ebben az időszakban gyakran lép fel zongoraművei inspirált előadójaként.
+
+Alkotóművészetében a 90-es évtized egyrészt összefoglaló jellegű, másrészt a megújulás lehetőségét is sejteti: főként hangszerkezelésében, ritmusainak oldottságában és harmóniavilágában, amely átvilágítottabb, mint talán bármikor. Néhány nagylélegzetű mű képviseli e korszakot: a kerek egész eszményét sugalló 60 zongoradarab ciklusa, A gömb története , a dinamikusan feszített formájú, négy tételes, a reménytelen reménység zenéje, a Három angol dal s A Jelenések könyvé nek margójára írt utolsó oratórium, amelyben az Apokalipszis drámáját a megzendülő végtelen, a sugárzó üvegtenger látomása oldja fel. 1997 júniusában hangzott fel először, posztumusz, a Zeneakadémia Nagytermében.
+
+*Gerencsér Rita*
+
+Source: https://lfze.hu/nagy-elodok/durko-zsolt-1848

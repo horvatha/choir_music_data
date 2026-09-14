@@ -1,0 +1,23 @@
+# Arányi Jelly
+
+Budapest, 1895. május 30. – Firenze, 1966. március 30.
+
+„Ilyen tehetség egy évszázadban egyszer születik." A megállapítás a 19. század nagy magyar hegedűművészétől, Joachim Józseftől származik, aki egy ifjú rokona játékát hallgatva tette a megtisztelő kijelentést. A kis rokon, Joachim lánytestvérének unokája, az akkor még csak tízéves Arányi Jelly volt. Kezdetben zongorázni tanult, de nővére, a később szintén komoly művészi pályát befutott Adila hatására érdeklődése hamarosan a hegedű felé fordult. Kivételes képességeinek köszönhetően már hatévesen bekerült a Zeneakadémiára. 1901-től 1904-ig Grünfeld Vilmos, majd 1904-től 1908-ig a számos tehetséget nevelő Hubay Jenő tanítványa volt.
+
+1908 és 1914 között nővéreivel, Adilával és a zongorista Hortense-szal adott Európa-szerte koncerteket. Ekkor játszott először Bécsben, Párizsban és több olasz városban. A legtöbbször azonban Angliában fordult meg, ahol a néhány éve elhunyt Joachim szigetországbeli kapcsolatainak köszönhetően testvéreivel együtt hamar az arisztokrácia és az angol zenei élet kedvencévé vált. 1914-ben családjával Angliát választotta második hazájául, ahol – leszámítva a külföldi utakat és az utolsó olaszországi éveket – életének legnagyobb részét töltötte.
+
+Az 1914-es év ígéretesen indult: Jelly életében először játszott együtt Pablo Casalsszal. Az első világháború kitörése azonban lassította az Arányi testvérek, s így Jelly karrierjének kibontakozását is. De az élet nem állt meg. Jelly Adilával alkalmi vonós- és zongoranégyeseket szervezett privát koncertekhez, és vidéki iskolákban adott nyilvános hangversenyeket. Első londoni szólóestjére csak a háború után, 1919. február 10-én kerülhetett sor. Ezt hat hónap, majd újabb három hónap múlva két nagy sikerű koncert követte. A művésznőt, aki játékának életerejével és kifejezésének gazdagságával ragadta meg a közönséget, a kritikusok is a legdicsérőbb jelzőkkel illették. Egyik méltatója ezt írta róla: „ Arányi Jelly kisasszony egyike a legnagyobb ma élő hegedűművésznőknek – ha nem a legnagyobb. (...) Fejhosszal emelkedik ki a kortársai közül."
+
+A húszas éveiben folytatódott diadalmenete. Nagyszerű játéka nemcsak a közönséget indította meg, de inspiráló hatással volt kora zeneszerzőire is. Bartók Béla, miután 1921-ben néhány budapesti házimuzsikálás alkalmával megismerte Jelly játékát, két hegedű-zongora szonátát komponált neki; az elsőt 1921-ben, a másodikat egy évvel később. Angliában mindkét művet a művésznő és a szerző mutatta be. Arányi Jelly és Bartók párizsi hangversenye valószínűleg rendkívüli zenei eseménynek számított; játékukat egy sor jelentős kortárs szerző, Igor Stravinsky, a lengyel Karol Szymanowsky és Maurice Ravel is hallotta. Ravelra olyan mély benyomást tett a fiatal művésznő, hogy elhatározta, virtuóz koncertdarabot komponál számára. A mű, a Tzigane , 1924-ben készült el, és az ősbemutatón Arányi Jelly játszotta. Később is szívesen tűzte műsorára a kompozíciót. 1925-ben angol csodálója és zeneszerző-barátja, Vaughan Williams lepte meg Jellyt Concerto Accademico című műve dedikációjával. A darabot a művésznő még ugyanabban az esztendőben be is mutatta.
+
+A húszas évek második felében több ízben turnézott Amerikában, járt Hollandiában, Belgiumban, Írországban, 1928-ban pedig spanyolországi koncertkörútra ment, amelynek során újra muzsikálhatott Casalsszal, akinek művészetéért egész életében rajongott. A második világháború előtti évtizedben érkezett pályafutásának csúcsára. Számtalan felkérésnek tett eleget, s ezen túlmenően rendkívüli odaadással és segíteni akarással vetette bele magát abba a jótékonysági koncertsorozatba, amelyet 1933-ban vidéki és londoni templomokban többezres tömeg hallhatott, s amelynek bevételét a gazdasági válság alatt elszegényedett emberek megsegítésére fordították. Rendszeresen fellépett Myra Hess-szel, akinek zongoristaegyénisége remekül egészítette ki saját játékstílusát, s akivel mintegy húsz éven keresztül játszott együtt. Ugyancsak ezekben az években kezdett el kutatni Schumann elfeledett Hegedűversenye után, amelyet 1938-ban az ő közreműködésével mutattak be Angliában.
+
+A második világjáború után az idősödő és egyre többet betegeskedő művésznő már sokkal kevesebbet játszott és még kevesebbet lépett föl nyilvánosan. Életének utolsó két évtizedében inkább magánházakban, baráti társaságok összejövetelein szerepelt egyedül, vagy nővérével, Adilával. Néhány alkalommal unokahúgával, a szintén kiváló hegedűjátékos Adrienne-nel jelent meg nagyobb közönség előtt. 1957-ben Adilával Firenzébe költözött. Utolsó koncertjét is itt adta 1965. október 5-én.
+
+Pethő Csilla
+
+P. Cs.
+
+*Pethő Csilla*
+
+Source: https://lfze.hu/nagy-elodok/aranyi-jelly-1682

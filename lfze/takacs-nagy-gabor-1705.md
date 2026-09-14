@@ -1,0 +1,11 @@
+# Takács-Nagy Gábor
+
+Budapest, 1956. április 17.
+
+Budapesten született 1956. április 17-én, nyolcévesen kezdett hegedülni. Felsőfokú zenei tanulmányait a Zeneakadémián végezte, ahol olyan legendás tanárok egyengették pályáját, mint Rados Ferenc, Mihály András, Székely Zoltán, Végh Sándor vagy Kurtág György. 1979-ben, még zeneakadémistaként megnyerte a Hubay Jenő Hegedűversenyt, ezután Nathan Milsteinnél tanult tovább. 1975-ben, szintén zeneakadémiai növendékként, megalapította saját vonósnégyesét, a Takács Kvartettet, melynek további tagjai akkori hallgatótársai, Schranz Károly, Ormai Gábor és Fejér András voltak. A kvartett a mai napig működik, bár Takács-Nagy Gábor csak 1992-ig vezette az együttest. Ez idő alatt olyan neves művészekkel is működtek együtt, mint Yehudi Menuhin, Solti György, Isaac Stern, Msztyiszlav Rosztropovics, Paul Tortelier, Gidon Kremer és Schiff András. Több lemezfelvételt készítettek a Hungaroton és a Decca hanglemezkiadóknak.
+
+Az 1996-ban megalapított Takács Zongoratrióval (Szabó Péter gordonkaművész és Várjon Dénes zongoraművész oldalán) Liszt Ferenc, Lajtha László és Veress Sándor műveit vette lemezre. Takács-Nagy Gábort külföldön is a magyar zene, főként Bartók Béla műveinek leghitelesebb előadójaként tartják számon, köszönhetően többek közt az általa 1998-ban alapított Mikrokosmos vonósnégyesnek (tagjai Takács-Nagy Gábor, Tuska Sándor, Papp Sándor és Perényi Miklós), mellyel 2008-ban lemezre vették Bartók mind a hat vonósnégyesét.
+
+2002 óta karmesterként is rendszeresen fellép. 2005-ben, Genfben megalapította saját vonószenekarát, a Camerata Bellerive együttest, mely a minden évben megrendezésre kerülő Festival de Bellerive házigazda-zenekara is egyben. 2006 óta a Weinberger Kammerorchester művészeti vezetője, 2011 óta ő irányítja a Manchester Cameratát. Külföldi elfoglaltságai ellenére rendszeresen és szívesen lép fel Magyarországon: 2010 és 2012 között a MÁV zenekar vezető karmestere volt, 2012 óta pedig a Fesztiválzenekar első vendégkarmestere. 2013 óta Alma Materébe is visszalátogat: rendszeresen vezényli a Zeneakadémia Szimfonikus Zenekarát, és kamarazene mesterkurzusokat tart.
+
+Source: https://lfze.hu/nagy-elodok/takacs-nagy-gabor-1705
