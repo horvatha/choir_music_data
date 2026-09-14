@@ -33,10 +33,14 @@ hunting down each town's separate "locality" QID individually, since for
 these smaller places the kommun and the town share a name and are
 colloquially the same place for display purposes.
 
-One parish (Lyne Parish, Q2100818 -- Ringkøbing-Skjern Municipality,
-Denmark; composer id 2598, Morten Eskesen) is deliberately NOT included
-here: it didn't fit this batch's Swedish-municipality-name pattern and
-needs its own separate look at an actual Danish settlement-level QID.
+One parish, Lyne Parish (Q2100818, Denmark; composer id 2598, Morten
+Eskesen -- his own P19 birthplace claim points straight at the parish
+too, not a village), is Danish rather than Swedish, but hits the exact
+same wall: no separate village-level QID exists for "Lyne" itself (no
+P276 claim on the parish, nothing more specific than the municipality),
+so it's linked to Ringkøbing-Skjern Municipality (Q514777) directly,
+same pragmatic municipality-as-settlement-stand-in as the Swedish towns
+above.
 
 Safe to rerun: every UPDATE/INSERT here is idempotent (INSERT ... ON
 CONFLICT DO NOTHING for the place_qids row of a newly-created
@@ -133,6 +137,7 @@ PARISH_LOCATIONS = {
     "Q10718570": ("Q26152", "Växjö"),  # Växjö Parish
     "Q10715396": ("Q515861", "Vilhelmina"),  # Vilhelmina church parish
     "Q10716051": ("Q54757", "Visby"),  # Visby parish
+    "Q2100818": ("Q514777", "Ringkøbing-Skjern"),  # Lyne Parish (Denmark)
 }
 
 
