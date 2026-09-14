@@ -1,0 +1,323 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/c/czura-roman-en",
+  "title": "Czura Roman",
+  "name": "Czura Roman",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Klagegesang [wersja I] na 2 skrzypiec, wiolonczelę i fortepian (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Sonata na wiolonczelę i fortepian nr 1 (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Trzy małe utwory fortepianowe (2006, 2008)",
+      "year": null
+    },
+    {
+      "title": "In Memoriam , koncert na waltornię, fortepian, perkusję i smyczki (2007-2008)",
+      "year": "2007-2008"
+    },
+    {
+      "title": "Dix Variations sur un thème de mon père pour ma mère , trio fortepianowe nr 1 (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Symfonia nr 1 \"Aynadamar\" na solistów wokalnych, chór i orkiestrę (2008-2011)",
+      "year": "2008-2011"
+    },
+    {
+      "title": "Klagegesang [wersja II] na małą orkiestrę (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Klagegesang [wersja III] na kwintet dęty blaszany (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Trio na skrzypce, tubę i klawesyn (lub fortepian) (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Cum mortuis in lingua mortua , preludium na fortepian (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Variaciones sobre 'El pueblo unido jamás será vencido ' na skrzypce, klarnet, fagot, tubę i fortepian (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Salve Regina [wersja I] na chór chłopięcy i organy (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Salve Regina [wersja II] na chór mieszany i orkiestrę symfoniczną (2009-2010)",
+      "year": "2009-2010"
+    },
+    {
+      "title": "In tempus evanescendo , trio fortepianowe nr 2 z live electronics (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Fragment symphonique na orkiestrę (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Sueños en los jardines de la noche , Étude-tableaux na fortepian solo (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Sueños en los jardines de la noche , Kammermusik na klarnet, fagot, tubę, skrzypce, altówkę, wiolonczelę i fortepian (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Cre(d)o na 10 werbli, 3 wielkie bębny i 3 tuby (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "The Green Door na orkiestrę kameralną (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Sonata na wiolonczelę i fortepian nr 2 (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Into this wild abyss na chór mieszany (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Dark Night or the Kingdom of Heaven , poemat symfoniczny na orkiestrę (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Dark Night or the Kingdom of Heaven , fantazja na fortepian (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Pięć utworów na fortepian (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Koncert fortepianowy \"Kraftfelder\" (2012-2013)",
+      "year": "2012-2013"
+    },
+    {
+      "title": "...on the riverside, ner neshama na orkiestrę (2012-2013)",
+      "year": "2012-2013"
+    },
+    {
+      "title": "Ptasie Radio na chór i bloki cylindryczne (2013-2014)",
+      "year": "2013-2014"
+    },
+    {
+      "title": "Symfonia nr 2 \"Wie ein Naturlaut\" na orkiestrę (2013-2017)",
+      "year": "2013-2017"
+    },
+    {
+      "title": "Àngels i segadors (Anioły i żniwiarze) na dwa fortepiany (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Adagio onirico na gitarę i kwartet smyczkowy (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Wie liegt die Stadt so wüst na chór a cappella (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Król Cieni [wersja I] na chór a cappella (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Concierto ardiente [wersja I] na gitarę i orkiestrę (2015-2016)",
+      "year": "2015-2016"
+    },
+    {
+      "title": "Divertimento [wersja I] na kwartet smyczkowy (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Divertimento [wersja II] na orkiestrę smyczkową (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Aladaghlar – The Colourful Mountains [wersja I] na 8 fletów (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Capriccio e aria [wersja I] na gitarę (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Do prostego człowieka [wersja I] na sopran i orkiestrę (2017-2018)",
+      "year": "2017-2018"
+    },
+    {
+      "title": "Dasht-e târiki – The Desert of Darkness [wersja I] na 8 fletów (2017-2019)",
+      "year": "2017-2019"
+    },
+    {
+      "title": "Dasht-e târiki – The Desert of Darkness [wersja II] na 9 instrumentów smyczkowych/orkiestrę smyczkową (II część tryptyku Colour. Darkness. Light. ) (2017-2019)",
+      "year": "2017-2019"
+    },
+    {
+      "title": "Trio smyczkowe \"I movimenti di polvere\" (2017-2020)",
+      "year": "2017-2020"
+    },
+    {
+      "title": "Grande Polonaise à la joie na orkiestrę (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Concierto ardiente [wersja II] na fortepian i orkiestrę (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Yours is the blood ( Do prostego człowieka [wersja II]) na trąbkę i orkiestrę (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "The Polonaise Reloaded na orkiestrę (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Aladaghlar – The Colourful Mountains [wersja II] na 9 instrumentów smyczkowych/orkiestrę smyczkową (I część tryptyku Colour. Darkness. Light. ) (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Capriccio e aria [wersja II] na fortepian (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Kátokosmos – Podświat na fortepian (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Lilia liliae na fortepian (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Król Cieni [wersja II] na chór i orkiestrę barokową (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Cançons del mar i del vent (Pieśni o morzu i wietrze) na alt (lub bas-baryton) i gitarę (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Daryā-ye nūr – The Sea of Light [wersja I] na 9 instrumentów smyczkowych/orkiestrę smyczkową (III część tryptyku Colour. Darkness. Light. ) (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Daryā-ye nūr – The Sea of Light [wersja II] na orkiestrę fletową (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Musica fermata [wersja I] na skrzypce i wiolonczelę (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Musica fermata [wersja II] na kwintet smyczkowy/orkiestrę smyczkową (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Musica fermata [wersja III] na skrzypce, altówkę, wiolonczelę, saksofon tenorowy i puzon (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Violinaerys - A Caprice of Ice and Fire [wersja I] na 2 skrzypiec (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Variations in the Rain na trio fortepianowe (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Metamorphing by the Moldava na orkiestrę (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Five flavours na wiolonczelę i orkiestrę (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Two Pieces of Heaven and Sea na kwintet dęty blaszany (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Violinaerys - A Caprice of Ice and Fire [wersja II] na kwartet smyczkowy (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Rytmy w Śnie zatopione (Rhythms Drowned in Dreams) na orkiestrę (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Abschiedsgesang na skrzypce, walthornię i harfę (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Mazurki wody i ognia [wersja I] na gitarę i fortepian (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Ensoñación y atraco na gitarę (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Nadal na sopran, chór i orkiestrę (2020-2021)",
+      "year": "2020-2021"
+    },
+    {
+      "title": "Saltarello na trio smyczkowe (2020-2021)",
+      "year": "2020-2021"
+    },
+    {
+      "title": "Interludio de aire y tierra na gitarę (2020-2022)",
+      "year": "2020-2022"
+    },
+    {
+      "title": "Angels and Reapers na orkiestrę dętą (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "Maras, ino maras na duet perkusyjny (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "Quatre impressions d'en Fritz na orkiestrę (2022)",
+      "year": "2022"
+    },
+    {
+      "title": "Co czarne to czarne (Black is Black) na orkiestrę (2022)",
+      "year": "2022"
+    },
+    {
+      "title": "Mazurki wody i ognia [wersja II] na fortepian solo (2022)",
+      "year": "2022"
+    },
+    {
+      "title": "Variations of the Blind Arab na kwintet smyczkowy (2022)",
+      "year": "2022"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "czura-roman-en"
+}

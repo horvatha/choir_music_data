@@ -1,0 +1,647 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/s/sielicki-edward-en",
+  "title": "Sielicki Edward",
+  "name": "Sielicki Edward",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "composer and teacher; b. 3rd Jun 1956 in Warsaw. Son of composer Ryszard Sielicki. He studied composition with Andrzej Dobrowolski and Włodzimierz Kotoński at the Academy of Music in Warsaw (1975-1980). In 1984 he continued his studies with Ton de Leeuw at the Sweelinck Conservatory in Amsterdam thanks to a Dutch Government’s scholarship. He participated in the International Composers’ Workshops in Amsterdam (1984, 1988 – with Chou-wen Chung and Mark Kopytman), the International Summer Courses in Darmstadt (1986) and Avignon (1991 – with Elliott Carter). He is a winner of numerous competitions, including the Tadeusz Baird Young Composers’ Competition of the Polish Composers’ Union, the Competition of the Warsaw Branch of the Polish Composers’ Union and the International Composers Competition in Geneva. In 1989 he received the Stanislaw Wyspianski Young Artists’ Award for outstanding achievements. He was a multiple scholarship holder of the Ministry of Culture and Art in the field of composition. His works were commissioned by the “Warsaw Autumn” International Festival of Contemporary Music, Polish Radio, Swiss Society of Recorder Players, \"Do-re-mi\" Festival of Contemporary Musical Works for Children and Youth and a number of individual performers. Some of his manuscripts are preserved by the International Composers Foundation in Los Angeles. His scores were printed by important publishers, including PWM Edition. His music was recorded by Polish Radio and released on numerous CDs. In 2001 the album Musica Polonica Nova, Warsaw Composers (Acte Préalable) with his psalm Jubilate Deo for choir a cappella (1994) received a nomination for the “Fryderyk” Award. Edward Sielicki writes symphonic, vocal-instrumental, choral, chamber, solo and electroacoustic compositions. They have been performed at many concerts and festivals in Poland and abroad, including the \"Warsaw Autumn\", Poznań Music Spring, Warsaw Music Encounters, Polish Realities in Glasgow, and Festival of Electroacoustic Music in Bourges. His music has been performed in Poland as well as in France, the Netherlands, Italy, Holland, Germany, Finland, Great Britain, Mexico, USA, Russia, Canada, South Korea and other countries. Many outstanding Polish and foreign performers have his compositions in their repertoire, including Maciej Grzybowski, Iwona Mironiuk, Alina Mleczko, Mariusz Pędziałek, Kazimierz Dawidek, Andrzej Niemierowicz, Stanisław Skoczyński, Jozsef Örmeny, Eun Shil Park, Klaudiusz Baran, Tomasz Strahl, Cezariusz Gadzina, Krzysztof Bąkowski, Marek Moś, Silesian Quartet, Joel Suben, Sławek A. Wróblewski, Roman Rewakowicz, Tadeusz Wojciechowski, Jerzy Swoboda, Jan Łukaszewski, and Ewa Marchwicka. Edward Sielicki has been involved in pedagogical activity for nearly 40 years. He worked at the Karol Szymanowski State Secondary Music School in Warsaw (1982-87), and then for over 10 years at the Fryderk Chopin State Music School Complex in Warsaw, where he taught classes in harmony, instrumentation and 20th-century composing techniques. He has significant achievements in the field of music for children and youth. He wrote with Ewa Marchwicka How easy it is! – A new way of teaching polyphonic singing , published in 1994 by School and Pedagogical Publishing House (WSiP). The publication contains over 200 compositions for children commissioned by the “Do-Re-Mi” Festival in Łódź and the orchestra of the Fryderyk Chopin State Music School Complex in Warsaw. Since 1987 he has been working at the Fryderyk Chopin University of Music. In 1998 he received the equivalent of a PhD. In 2007 he obtained a postdoctoral degree in musical art. He is a co-founder of the Electronic and Computer Music Studio and Iter-University Multimedia Programme at the Fryderyk Chopin University of Music and Academy of Fine Arts. In 2008-2014 he was the deputy dean of the Department of Composition, Conducting and Theory of Music. He teaches composition, electronic and computer music, counterpoint and contemporary compositional techniques. In addition, he has teaching experience at foreign universities. He lectured at the Summer University in Marly-le-Roi near Paris (1992-93), and he taught composition at the Keimyung University in Daegu, South Korea (2001, 2003, 2005-2006, 2013 and 2016). He also lectured in St. Petersburg and Istanbul. He participates in many international courses and conferences, including the international scientific and research project \"Forum\" at the IRCAM Institute for Research and Coordination in Acoustics and Music in Paris. He is a mamber of the Polish Composers' Union, Polish Society for Contemporary Music, ZAiKS Authors’ Association and Polish Society for Electroacoustic Music. updated: 2020 (ac)",
+  "birth": {
+    "place": "Warsaw",
+    "date": "3rd Jun 1956",
+    "raw": "b. 3rd Jun 1956 in Warsaw"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Etude Sonoristique for piano solo (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Variations for two pianos (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Woodwind Quintet (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Bagatelles for harpsichord, harp and string quartet (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Movimento concertante for alto saxophone and orchestra (1977-78)",
+      "year": "1977-78"
+    },
+    {
+      "title": "Lasciate mi vibrare for 3 percussions (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Agnus Dei per coro misto a sei voci a cappella (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Luxuria for orchestra (1978-79)",
+      "year": "1978-79"
+    },
+    {
+      "title": "Ecclesiaes , oratorio for reciter, soloists, choir and orchestra (1979-80)",
+      "year": "1979-80"
+    },
+    {
+      "title": "Shir Tachnunim , imploring psalms for male choir, brass and percussion (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Salve Regina for children’s (or women’s) choir and organ (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "String Quartet (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Impresje Warszawskie for mixed choir a cappella (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Canzona da sonar for early instruments ensemble (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Quartet for oboe and strings (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Kronos for double bass solo (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Due canoni con intermezzo e finale for string orchestra (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Four Poems „In memoriam Tadeusz Baird” for soprano and chamber ensemble (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Assumpta est Maria , motet for soprano, alto and mixed choir a cappella (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Small Forms for children's choir a cappella (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Trio sonata for accordion, guitar and vibraphone (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Arpeggione for violin and guitar (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Cadenza for English horn (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Micrologus for accordion and early instruments ensemble (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Symphony No. 1 for choir and orchestra (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Dulci sono melodiae… for baritone and organ (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Pulchrum est quod commensuratum est na lirę korbową, smyczki i klawesyn (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Differencias for early instruments ensemble (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Six pieces for viola and harpsichord (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Tabulatura for organ (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "ZIG-ZAG for percussion and tape (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Paralipomenon for tape (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Labyrinth I for flute, oboe, clarinet, violin, viola and cello (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Pezzo per chitarra (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Glenn Gould in memoriam for piano (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "The Big Nobody , chamber opera for children (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "How easy it is! , variations in open form for children choir a cappella (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Serenade for 10 pianos (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Labyrinth II for recorders and string trio (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Three Latin carols for choir a cappella (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Jubilate Deo , psalm for choir a cappella (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Piano Concerto (1994-95)",
+      "year": "1994-95"
+    },
+    {
+      "title": "Konzertstück for cello and piano (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Soundcruncher for actor and tape (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Signs of Life for soprano saxophone and organ (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Signs of Life , version for soprano saxophone and piano (1996-2001)",
+      "year": "1996-2001"
+    },
+    {
+      "title": "Choralvorspiele for oboe solo (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "E pur si muove… for orchestra (1997-78)",
+      "year": "1997-78"
+    },
+    {
+      "title": "Weteringschans for soprano saxophone and tape (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Concerto for 2 pianos and string orchestra (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Baila for saxophone, accordion and double bass (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Entre espejos for harp and tape (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Concerto for clarinet and string orchestra (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Sonata in 5 movements for piano 4 hands (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Polymorphic Fantasy for harmonium and tape (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Scherzonata for trumpet and piano (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Ballade for piano and tape (2001-2002)",
+      "year": "2001-2002"
+    },
+    {
+      "title": "Four dances [version I] for reed quartet (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Oh, Scottie! , ragtime for two pianos and 8 hands (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Concerto for oboe and chamber orchestra (2002-2004)",
+      "year": "2002-2004"
+    },
+    {
+      "title": "Der Ring et Melisande for piano trio (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Growl for acoustic and electronic instruments and computer (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Four Dances [version II] for string quartet (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Symphony No. 2 (2003-2004)",
+      "year": "2003-2004"
+    },
+    {
+      "title": "Concerto per quartetto d’archi e orchestra (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Six fantasies for flute solo (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Concerto for flute and chamber orchestra (2004-2005)",
+      "year": "2004-2005"
+    },
+    {
+      "title": "Sonatina for violin and piano (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Concertino for cello and string orchestra (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Differentia specifica for soprano saxophone and string quartet (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Quintet for flute and string quartet (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Mouvement pérpétuel for string quartet (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Sonata for viola and piano – To the memory of my Father (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Preludes for piano and string orchestra (2007-2008)",
+      "year": "2007-2008"
+    },
+    {
+      "title": "Differentia specifica (una fantasia quasi tango) for soprano saxophone and string orchestra (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Sonata for violin and piano (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Little Concert Music for 3 percussionists and strings orchestra (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Doppelsonate for piano and organ (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Sonata for harpsichord (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Suite of non-Polish dances for piano 4 hands (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "La Belle Epoque for electronic media (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Materia circularis for clarinet, electric guitar and piano (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Doppelsonate , version for flute and organ (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Korean Trails for clarinet, cello and piano (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Nostalgy of infinity for a string orchestra and tape (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Sinfonietta for 5 accordions, percussion and piano (2010-2014)",
+      "year": "2010-2014"
+    },
+    {
+      "title": "Sonata for piano (2010-2015)",
+      "year": "2010-2015"
+    },
+    {
+      "title": "Labyrinth III for clarinet, violin and piano (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Multimedia Preludes for electronic sounds and video (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "There is no Truth , Hörstück (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Recursus at fontem [version I] for saxophone trio (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Recursus at fontem [version II] for saxophone trio (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Ensaladas for brass quintet (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Fandango-Phantasie after Antonio Soler for violin and strings (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Concerto for strings (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Rapido for violin and accordion (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Rains , concerto for piano 4 hands and string orchestra (2012-2013)",
+      "year": "2012-2013"
+    },
+    {
+      "title": "L’Estro Fisarmonico, concerto for accordion and string orchestra (2012-2013)",
+      "year": "2012-2013"
+    },
+    {
+      "title": "Sonata \"Per fas et nefas\" [versionI] for 2 violins (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Musica florea for flute, cello and harpsichord (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Musica florea, version for viola, double bass and piano (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Rain, Steam and Speed (After Turner) for piano solo (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Ile Europa for cello solo (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Metamorphic Variations for piano solo (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "…et nos cedemus amori…, cantata profana for vocal sextet and electronics (2013-2014)",
+      "year": "2013-2014"
+    },
+    {
+      "title": "Singel for marimba solo (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Doublure for saxophone and cello (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Sonata for flute (based on Concerto for flute ) (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Till Eulenspiegel’ Secret Live for piano (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Onde chiare e serene for tape (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Growl II , version for flute, cello and electronics (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Memorabilia , concert fantasy for bandoneon and string orchestra (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Rain, Speed and Steam for piano (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Poem 1 , improvised electronic music (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Chopin’s Crumb in a Cage for 2 pianos and percussion (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Northern Mazovia Mazurkas [version I] for flute, violin, cello and accordion (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Three Nothern Mazovia Mazurkas , version for flute, violin, viola and piano (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Pictures from Warsaw – The Palace of Culture , electroacoustic piece (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "At the Margin (after Paul Klee) for bass clarinet and tape (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Mokotów Electronic Mazurka (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Micrologus II for accordion, string orchestra and harpsichord (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Micro Strategy (With Shadow of Chopin) for piano and live electronics (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Little Electronic Orphans (in memory of Eugeniusz Rudnik), electronic music (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Shadow Play I – Distorted Noises for tape and video (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Seven Easy Mazurkas for string orchestra (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Secondo Concerto per archi Hortus Conclusus for string orchestra (2016-2017)",
+      "year": "2016-2017"
+    },
+    {
+      "title": "Northern Mazovian Mazurkas [version II] for violin, viola, cello and piano (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Clay Tablets for percussion and string orchestra (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Galyzianer Rhapsody for clarinet and string quartet (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Sonata \"Per fas et nefas\" [version II] for 2 violas (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Suite \"Light Motiv\" ( Overture, Courante, Presto, Sarabande, Tango-Mazurka ) [version I] for cello solo (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Suite \"Light Motiv\"\" ( Overture, Courante, Presto, Sarabande, Tango-Mazurka ) [version II] for viola solo (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "MicroSonata for 8 violas (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Hommage a Szymanowski for violin and cello (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Sarang for violin, cello and piano (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Missa Brevis Coreana – Kyrie and Gloria for choir and piano (or organ) (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Aforyzjada - an opera in a puzzle [composed together with Alicja Gronau, Alina Kubik, Katarzyna Kwiecień-Długosz, Zdzisław Piernik, Maria Pokrzywińska, Zbigniew Bagiński, Wojciech Błażejczyk, Artur Żuchowski and Zbigniew Bargielski] (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Sinfonietta No. 3 \"Rozstaje dróg\" for orchestra (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "El libro olividado - Sonata for accordion solo (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Symphony No. 3 \"Concertante\" for orchestra and electronics (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "Willows for electronics and video (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "Znaki zapytania , chamber cantata for soprano, oboe, string quartet and harpsichord to words by Ewa Jakubowska (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "De rerum natura for organ (according to Lucretius) (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "Camouflage (Labyrinth V) for two flutes and harpsichord (2021-24)",
+      "year": "2021-24"
+    },
+    {
+      "title": "Erotiques to words by Paulina Cysak for soprano and piano (2022)",
+      "year": "2022"
+    },
+    {
+      "title": "Śmierć fontann for mezzo-soprano and piano (2022)",
+      "year": "2022"
+    },
+    {
+      "title": "Grand duo for violin and accordion (2015-2022)",
+      "year": "2015-2022"
+    },
+    {
+      "title": "Big Softness for bells, vibraphone and tape (2022)",
+      "year": "2022"
+    },
+    {
+      "title": "Morçeau de salon for contrabass clarinet and tape (2022)",
+      "year": "2022"
+    },
+    {
+      "title": "Copernicus for two percussionists (metal instruments), tape and video (2023)",
+      "year": "2023"
+    },
+    {
+      "title": "Pryncypia , cantata for soprano, flute and piano (to poems by Ewa Jakubowska) (2023)",
+      "year": "2023"
+    },
+    {
+      "title": "A Space full of Time for tape and video (2023)",
+      "year": "2023"
+    },
+    {
+      "title": "Pieśni o wojnie to words of war poets for baritone and piano (Wilfred Owen, Georg Trakl, Isaak Rosenberg, Federico Garcia Lorca, Ukrainian poet) - in memory of Jarosław Bręk (2023)",
+      "year": "2023"
+    },
+    {
+      "title": "Scattered Sounds for improvising instruments and tape (2023)",
+      "year": "2023"
+    },
+    {
+      "title": "Breathing Machine for voice and sound playback (2023)",
+      "year": "2023"
+    },
+    {
+      "title": "Igoriana for 3 accordions (2024)",
+      "year": "2024"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Gronau-Osińska Alicja, Sielicki Edward, Akademia Muzyczna w Warszawie, Warszawa 2004",
+  "slug": "sielicki-edward-en"
+}

@@ -1,0 +1,91 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/z-1/zulawski-wawrzyniec-jerzy-en",
+  "title": "Żuławski Wawrzyniec Jerzy",
+  "name": "Żuławski Wawrzyniec Jerzy",
+  "occupation": "composer, musicologist",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Uwertura koncertowa (1938)",
+      "year": "1938"
+    },
+    {
+      "title": "Partita na fortepian (1941)",
+      "year": "1941"
+    },
+    {
+      "title": "Concertino na skrzypce i orkiestrę smyczkową (1942)",
+      "year": "1942"
+    },
+    {
+      "title": "Preludium i fuga podwójna na kwartet smyczkowy (1942)",
+      "year": "1942"
+    },
+    {
+      "title": "Kwintet fortepianowy (1943)",
+      "year": "1943"
+    },
+    {
+      "title": "Cztery kolędy polskie [wersja I] na małą orkiestrę symfoniczną (1947)",
+      "year": "1947"
+    },
+    {
+      "title": "Cztery kolędy polskie [wersja II] na dwa fortepiany (1947)",
+      "year": "1947"
+    },
+    {
+      "title": "Aria con variazioni na flet, klarnet i fagot (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "Trzy utwory fortepianowe (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "Trio fortepianowe (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "Cztery mazurki na fortepian (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Sonata na skrzypce i fortepian (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Suita hiszpańska na orkiestrę (1953-57)",
+      "year": "1953-57"
+    },
+    {
+      "title": "Chodź z nami w góry na głos i fortepian (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "Sonatina na fortepian (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "Pójdziemy w góry, w góry, przyjacielu na głos i fortepian (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "Wierchowe nuty na chór mieszany i skrzypce solo (1955)",
+      "year": "1955"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Kowalska-Zając Ewa, Żuławski Wawrzyniec Jerzy, Akademia Muzyczna w Łodzi, Łódź 2001",
+  "slug": "zulawski-wawrzyniec-jerzy-en"
+}

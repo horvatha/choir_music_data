@@ -1,0 +1,63 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/m/muzyka-pawel-en",
+  "title": "Muzyka Paweł",
+  "name": "Muzyka Paweł",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Treny Jerozolimskie do tekstu według Księgi Psalmów i Lamentacji proroka Jeremiasza na sopran, recytatora, chór, instrumenty dęte, klawiszowe, perkusję i wiolonczelę (2005-06)",
+      "year": "2005-06"
+    },
+    {
+      "title": "Pastorałka na sopran, kwartet smyczkowy, flet, perkusję i recytatora (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Requiem Katyńskie na chór mieszany, chór chłopięcy, orkiestrę symfoniczną, sopran, alt, tenor i bas (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Msza Dziękczynna na orkiestrę symfoniczną, chór mieszany, sopran, mezzosopran, tenor i bas (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Muzyka do sztuki teatralnej Ciąg dalszy nastąpi na lirę korbową i wiolonczelę [napisana wspólnie z Andresem Nixonem] (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Muzyka do sztuki teatralnej Wewnętrzny świat Damazego na wiolonczelę i perkusję (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Muzyka do sztuki teatralnej Transatlantyk według Gombrowicza na wiolonczelę (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Muzyka do sztuki teatralnej Projekt Sligo na wiolonczelę i komputer (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Muzyka do sztuki teatralnej Cantigas de Santa Maria na flety barokowe, violę da gamba sopranową, perkusję elektroniczną i gitarę elektryczną [współtwórca] (2001-2002)",
+      "year": "2001-2002"
+    },
+    {
+      "title": "Muzyka do sztuki teatralnej Szatan Szatanowi nierówny według Izaaka Bashevisa Singera na trąbkę, gitarę, gitarę basowę, wiolonczelę, flet, bombardę i perkusję (2002)",
+      "year": "2002"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "muzyka-pawel-en"
+}

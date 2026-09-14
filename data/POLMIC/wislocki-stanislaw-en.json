@@ -1,0 +1,83 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/w/wislocki-stanislaw-en",
+  "title": "Wisłocki Stanisław",
+  "name": "Wisłocki Stanisław",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Tryptyk symfoniczny (1940-41)",
+      "year": "1940-41"
+    },
+    {
+      "title": "Na rozstajach , poemat symfoniczny (1942)",
+      "year": "1942"
+    },
+    {
+      "title": "Sonata na skrzypce i fortepian (1942)",
+      "year": "1942"
+    },
+    {
+      "title": "Sonata na tematy Scarlattiego na fortepian (1942)",
+      "year": "1942"
+    },
+    {
+      "title": "Dwie suity fortepianowe (1943)",
+      "year": "1943"
+    },
+    {
+      "title": "Kwartet fortepianowy (1943)",
+      "year": "1943"
+    },
+    {
+      "title": "Trio fortepianowe (1943)",
+      "year": "1943"
+    },
+    {
+      "title": "Symfonia nr 1 (1944)",
+      "year": "1944"
+    },
+    {
+      "title": "Cztery poematy na tenor solo i orkiestrę kameralną (1944)",
+      "year": "1944"
+    },
+    {
+      "title": "Taniec zbójnicki na orkiestrę kameralną (1945)",
+      "year": "1945"
+    },
+    {
+      "title": "Uwertura na orkiestrę kameralną (1945)",
+      "year": "1945"
+    },
+    {
+      "title": "Nokturn na orkiestrę (1947)",
+      "year": "1947"
+    },
+    {
+      "title": "Koncert fortepianowy (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "Symfonia o tańcu na orkiestrę (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "Ballada symfoniczna na orkiestrę (1952)",
+      "year": "1952"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Wisłocki Stanisław, Życie jednego muzyka , Oficyna Wydawnicza RYTM, Warszawa 2000",
+  "slug": "wislocki-stanislaw-en"
+}

@@ -1,0 +1,111 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/k/komsta-marzena-en",
+  "title": "Komsta Marzena",
+  "name": "Komsta Marzena",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "composer, b. 7th February 1970 in Gdynia. She studied composition with Eugeniusz Głowski at the Music Academy in Gdańsk (1989-90), subsequently with Zbigniew Bagiński and Włodzimierz Kotoński at the Music Academy in Warsaw (1990-94) and with Phillippe Manoury and Dannis Lorrain at the Conservatoire National Supérieur de Musique in Lyon (1993-96). In 1996 she was admitted on Formation Doctorale en Musique et Musicologie du XXe siècle (in the field of computer-assisted composition) at l’Institut de Recherche et de Coordination Acoustique/Musique / Ecole des Hautes Etudes en Sciences Sociales / Sorbonne IV / Centre National de la Recherche Scientifique in Paris. She supplemented her musical education at numerous courses for composers, including: the International Summer Courses for Young Composers in Kazimierz Dolny (1991, 1993), where her teachers were Krzysztof Penderecki, Magnus Lindberg, Louis Andriessen, Tristan Murail, Georges Aperghis and others; the Course of French Contemporary Music (1991) and a course on computer music (1992), both organised by the F. Chopin Music Academy in Warsaw; and composition courses in Avignon (1992, 1993, 1994). She has also participated in numerous seminars on contemporary music and new technologies, including \"Musique et Mathématique\" in Lyon (1996). She has received scholarships: from the Music Academy in Warsaw (1990/91, 1993/94), the Witold Lutosławski scholarship (1993, 1996/97), as well as the scholarship of the Foundation \"Nadia et Lili Boulanger\" - Fondation de France (1995). In 1996, she was nominated for the “Passport” award of the “Polityka” weekly. In 1997-98 she worked in Paris as a resident of the Foundation \"Cité Internationale des Arts\". Komsta’s works, both instrumental and electronic, have been awarded in a number of competitions, including: in 1990 - an honorable mention in the T. Korian International Competition for Composers in London for Nobody Knows the Day for mixed choir (1989); in 1999 – 2nd prize in the Manuel Valcárcel International Competition for a Piano Work in Santander for A toi, mon amour - une piéce cruelle for piano (1997-98); 2nd prize in the Concours de Composition de l’Ensemble Orchestral Contemporain et de GRAME in Lyon. The composer has received commissions for works from festivals, performers, and recently – from the French government. Her music has been performed at festivals: The “Warsaw Autumn”, Gdańsk Encounters of Young Composers, International Review of Contemporary Music in Belgrade, “pianissimo” in Sofia, “Musica” in Strasbourg, “Rendez-vous Musique Nouvelle” in Forbach, “Aujourd’hui Musique” in Perpignan, Youth Music Forum in Kiev, as well as broadcast on the radio in Poland, Germany (Sender Freies Berlin, Westdeutsche Rundfunk, SR2, “Kultur Radio”), France (“France Musique”, “France Culture”), and Japan (NHK – “Best of Classics”). Since 1995, Komsta has been a member of Sociéte des Auteurs, Compositeurs et Editeurs de Musique. Since November 1993, she has taken permanent residence in France.",
+  "birth": {
+    "place": "Gdynia",
+    "date": "7th February 1970",
+    "raw": "b. 7th February 1970 in Gdynia"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Oberek for piano (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Nobody Knows the Day for mixed choir (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Kirp for string quartet (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Cinq Miniatures for piano (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "To Unwanted Prometheans for great symphony orchestra (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "HO-YI-A for amplified violin and harpsichord (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Hard Day for three percussionists (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Agmen for chamber orchestra (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Oqivian for tape (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Brun for solo violin (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "...tu sais? for flute, percussion and harpsichord (all amplified), small orchestra, tape and a data system in real time (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "lFdlC (le F de la C) for one piano and three pianists (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "A toi, mon amour - une pièce cruelle for piano (1997-98)",
+      "year": "1997-98"
+    },
+    {
+      "title": "Ô! – dans l’ombre pour clarinette, soprano, percussion, violin et violoncelle (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Primaire... humain for harpsichord (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Night / A Portrait for small orchestra (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Journal en rafales na sekstet (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Pensées , seven pieces for vibraphone (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Les espaces de mes rêves na fortepian, głos szeptany, nietypowe obiekty dźwiękowe i system elektroakustyczny w czasie realnym Max/MSP (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Desire na taśmę (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Songe XXV na fortepian, głos, obiekty dźwiękowe i system elektroakustyczny w czasie realnym Max/MSP (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Tamashii no soko kara ( Z głębi duszy ) na shakuhachi (2007)",
+      "year": "2007"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Jasper Cordula, w: Neue Musik aus Polen , SFB/DAAD 1995, s. 4-5 Grotkowska Joanna, w: Dansk Musik Tidsskrift , Årgang/Hæfte No.: 1998-1999 - 03 , s. 88-93 Ruiz A., Una composición debe producir satisfacción en el músico que la interpreta, El Diario Montañés 21.10.1999, s. 59 Komand Beata, Zakochana w dźwięku. Marzena Komsta – kompozytorka niezwykła, „Zwierciadło” 2000 nr 9/1847, s. 32-37 Spotkanie z Marzeną Komstą. Z Marzeną Komstą rozmawia Barbara Małecka-Contamin, „Ruch Muzyczny” 2001 nr 24, s. 13-15 Małecka-Contamin Barbara, Strasburg raz jeszcze, „Ruch Muzyczny” 2001 nr 24, s. 12-13 Małecka-Contamin Barbara, Déterminisme temporel dans la musique de XX siècle: Marzena Komsta, Journal de la Fédération Française de l'Enseignement Musical 2002, s. 14 Nakamoto Makiko, Marzena Komsta – Portait in Kansai, Kyoto Shinbun 10.09.2003, s. 3 Filip Grzegorz, Podziwiane z daleka, Więź 2004 nr 5 (547), s. 115-121 Między Paryżem a Kioto. Rozmowa Grzegorza Filipa z Marzeną Komstą, kompozytorką polską mieszkającą we Francji i w Japonii, Nowa Muzyka 2004 Thomas Adrian, Polish Music since Szymanowski, s. 318–319 Adagio largo po japońsku. Z Marzeną Komstą rozmawia Barbara Małecka-Contamin, „Ruch Muzyczny” 2005 nr 18, s. 15-16 Kompozytorzy polscy 1918-2000 , Akademia Muzyczna w Gdańsku, Gdańsk-Warszawa 2005 Szwarcman Dorota, Czas Warszawskich Jesieni. O muzyce polskiej lat 1945-2007 , Stentor, Warszawa 2007",
+  "slug": "komsta-marzena-en"
+}

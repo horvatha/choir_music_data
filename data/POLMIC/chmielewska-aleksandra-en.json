@@ -1,0 +1,191 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/c/chmielewska-aleksandra-en",
+  "title": "Chmielewska Aleksandra",
+  "name": "Chmielewska Aleksandra",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "composer; b. 1st September 1993 in Warsaw. She studied oboe with Marek Roszkowski at the Grażyna Bacewicz State Primary and Secondary Music School Complex No. 3 in Warsaw. She graduated from the Fryderyk Chopin University of Music in Warsaw, where she studied composition under the supervision of Paweł Łukaszewski. She is currently a PhD student in composition at the Karol Szymanowski Academy of Music in Katowice, where her supervisor is Eugeniusz Knapik. She has also studied art history and Iberian philology at the University of Warsaw. She participated in the “Synthetis” composition courses in Radziejowice (2015, 2016) under the watchful eye of such artists as Simon Steen-Andersen, Martijn Padding, Phillipe Manoury, Zhou Long, Martijn Bresnick, Johannes Kreidler, and Zygmunt Krauze. She also participated in composition workshops with Paul Mealor, Daniel Moreira and Lowell Liebermann. She took part in “SyncCamp” for film music composers in Lusławice (2019) and studied film music under the direction of Krzesimir Dębski and Krzysztof Knittel. She has won numerous composition competitions, including the 1st prize in the International Composition Competition organized as part of the Nordhessische Kindermusiktage in Kassel (2011), the 3rd prize in the Intra-University Composition Competition of the Academic and Artistic Circle of the Fryderyk Chopin University of Music (2014), the 1st prize in the Transatlantyk Instant Composition Contest (2015), the 2nd prize in the “Musica Sacra Nova” International Composers Competition (2015), the 3rd prize in the “Opus 966” Composition Competition (2016), the 1st prize in the Andrzej Koszewski International Composition Competition (2017), the 3rd prize in the “Patri Patriae” International Composition Competition (2018) and the 2nd prize in the “Musica Sacra Nova” International Composers Competition (2018). In addition, she has received a number of honourable-mentions: in the “Fide et Amore” International Composition Competition (2014), twice in the “Sinfonietta per Sinfonietta” Composition Competition (2015, 2016), in the “Opus 966” Composition Competition (2015), in the 57th Tadeusz Baird Composition Competition for Young Composers (2016), in the Composition Competition of the Centre for the Thought of John Paul II (2018), and in the 5th Krzysztof Penderecki International Composers’ Competition (2019). Aleksandra Chmielewska composes orchestral, choral and chamber music. She is interested in connections between music and visual phenomena, hence many of her compositions are programmatic. In her music, she seeks to establish deep emotional connection with the listeners. In 2018, she was a composer-in-residence at the Feliks Nowowiejski Music Salon in Poznań. Her works have been released on CDs and published in print, incluging by Donemus Publishing House of Contemporary Classical Music. Her music has been performed in Poland, Ukraine, Belarus, Germany, Slovenia, Russia, Hungary, Austria, India and the United States by Polish and foreign ensembles, including the Lviv Philharmonic Symphony Orchestra, the Slovenian Philharmonic Symphony Orchestra, the National Forum of Music Choir, the Leopoldinum Orchestra, Vogler Quartett, proMODERN, E-MEX Ensemble, Dziołak & Stankiewicz Duo, Windswept Trio, Poznań Chamber Choir, Polish Chamber Choir, Unplugged Orchestra, and Warsaw University of Technology Academic Choir. Her works have been presented at, among others, the “Warsaw Autumn” Festival, Silesian Tribune of Composers, European Contemporary Composers Orchestra, Musica Sacra Nova Festival, Festival of Student Chamber Ensembles from the Baltic Countries, Musical Meetings of Polish and Ukrainian Youth in Lviv. In addition to composing, she also arranges music. Her symphonic arrangements were performed, among others, at the largest music festival in Mexico – El Cervantino. She is the chairwoman of the Youth Circle of the Polish Composers' Union, as well as a member of the ZAiKS Authors' Association, a board member of the Musical Talents of Europe Foundation, and a member of the executive committee of the International Council of Creators of Music (CIAM). Aleksandra Chmielewska is also a writer. In 2014, her debut novel The Sorcerer's Apprentice was published by Novae Res. In 2015, her screenplay of the radio play Where Silence Lives was awarded the 2nd prize in a competition organized by the Sopot Literary Festival. The radio play was performed by artists of the Gdańsk Miniatura Theater and in 2016 it received the 1st prize in the category of radio plays for children and youth at the Two Theaters Festival. updated: 2020 (ac) Composer's official website: www.aleksandrachmielewska.pl",
+  "birth": {
+    "place": "Warsaw",
+    "date": "1st September 1993",
+    "raw": "b. 1st September 1993 in Warsaw"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Tanz der Schloss for string quartet (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "The snakes charmer for oboe and string quintet (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Cubik’s rube for string quintet (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "The carrousel for 3 marimbas (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Noc trzech księżyców for string trio (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "De musica in ecclesia for mixed choir a cappella (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Phantasmagorie for oboe and string orchestra (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Ostinato for accordion solo (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Meditation for organ solo (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Mesmerettes for symphony orchestra (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "String Quartet No. 1 (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Three Songs to words by K.K.Baczyński for mezzo-soprano and harp (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Concerto for harpsichord and chamber orchestra (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Gloria for mixed choir a cappella (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Salutatio Angelica for mixed choir a cappella (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Magnificat for choir and symphony orchestra (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Three Miniatures for oboe and string quintet (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Concertino for English horn and string orchestra (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Four temperaments for accordion and clarinet (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Noli me tangere for mixed choir a cappella (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Padre Nuestro for mixed choir a cappella (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Polish Dances for wind quintet (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "French Horn Trio (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "De Marsyas et Apollo for mixed choir (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Ego Dormio for mixed choir and chamber orchestra (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Fantastic scenes for symphony orchestra (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Luxe, calme et volupte for symphony orchestra (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "O, Helena! for female choir and chamber orchestra (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Verbum caro for mixed choir a cappella (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Ad te levavi oculus meos for female choir and chamber orchestra (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Hail o Mother for mixed choir a cappella (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Jewish Dances for clarinet, violin and piano (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Letter from faraway island for organ and percussion (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Nunc scio vere for mixed choir a capella (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Warmian Songs for mixed choir a cappella (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Sinfonietta– The Night of Fireworks for string orchestra (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Oneiric Sonata for piano solo (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "To be or not to be for mixed choir a cappella (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Concertino for accordion and string orchestra (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Pomerania for string orchestra (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Postcards from Warsaw for string quintet (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Venetian Masks for guitar trio (2019)",
+      "year": "2019"
+    }
+  ],
+  "publications": "books Uczeń Czarnoksiężnika, Novae Res, Gdynia 2014",
+  "bibliography": null,
+  "slug": "chmielewska-aleksandra-en"
+}

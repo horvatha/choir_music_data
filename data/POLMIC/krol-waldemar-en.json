@@ -1,0 +1,43 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/k/krol-waldemar-en",
+  "title": "Król Waldemar",
+  "name": "Król Waldemar",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Rondo ABACA na zespół kameralny (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Domowy zwierzyniec na skrzypce/flet i fortepian (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Wehikuł czasu na fortepian (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Muzyka i aranżacje utworów do musicalu Miłość czyni cuda w reż. Artura Hofmana (Gliwicki Teatr Muzyczny) (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "5 miniatur kameralnych na marimbę, ksylofon, instrumenty perkusyjne i fortepian (2014)",
+      "year": "2014"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "krol-waldemar-en"
+}

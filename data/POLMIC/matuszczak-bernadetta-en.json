@@ -1,0 +1,243 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/m/matuszczak-bernadetta-en",
+  "title": "Matuszczak Bernadetta",
+  "name": "Matuszczak Bernadetta",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "composer, b. 10th March 1931 in Toruń; 3rd September 2021 in Toruń. After graduation from the Secondary Music School in Toruń, she studied music theory with Zygmunt Sitowski, piano with Irena Kurpisz-Stefanowa and composition with Tadeusz Szeligowski at the State Higher School of Music in Poznań. Having obtained an honours degree from the Music Theory Dept. in 1958, she interrupted her studies in the other subjects and started working as an assistant lecturer to Zygmunt Sitkowski. From 1960, she continued her composition studies at the State Higher School of Music in Warsaw with Tadeusz Szeligowski and, after his death, with Kazimierz Sikorski. She obtained a degree in composition in 1964. In 1968, she was granted a French government scholarship and left Poland for Paris, where she continued her composition studies with Nadia Boulanger. Bernadetta Matuszczak received numerous awards for her compositions, incl. in 1965 – an award in the Young Composers’ Competition of the Polish Composers’ Union; in 1966 – 2nd prize in the Grzegorz Fitelberg Competition for Composers for Septem tubae ; in 1967 – a prize in the Jeunesses Musicales Competition for Musica da camera per 3 flauti, 4 timpani e 5 tom-toms (1967). She was also twice awarded Prix Italia for her radio operas-oratorios – in 1973 for Humanae voces (1970-71) and in 1979 for Apokalypsis according to St John (1976-77). She wrote mostly works for the stage, as well as vocal-instrumental works. She received commissions from various institutions in Poland, with the Warsaw Chamber Opera being the most important. Her compositions were frequently performed in Poland and abroad, e.g. Septem tubae for mixed choir, organ and symphony orchestra (1966) at the International Society for Contemporary Music Festival – “43. Weltmusikfest 1969” in Hamburg; the opera Juliet and Romeo (1967) – during the Internationale Maifestspiele in Wiesbaden in 1972; the operatic monodrama The Diary of a Fool (1976) – at the Brighton Music Festival in 1984. In 1983, her piece Canto Solenne for baritone, choir and orchestra was premiered in Toruń's Old Town Hall during the celebration of the 750th anniversary of Toruń city rights. From 1965, Bernadetta Matuszczak was a member of the Polish Composers' Union. In 2008 she was awarded the Silver Medal for Merit to Culture – Gloria Artis. updated: 2021 (Agnieszka Cieślak)",
+  "birth": {
+    "place": "Toruń",
+    "date": "10th March 1931",
+    "raw": "b. 10th March 1931 in Toruń"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Gitanjali for flute, soprano, bells and male reciting voice (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Sans titr for piano (1963-68)",
+      "year": "1963-68"
+    },
+    {
+      "title": "Chamber Drama for baritone, baritone played back from tape, reciting alto voice, bass clarinet, cello, double bass and percussion (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Septem tubae for mixed choir, organ and symphony orchestra (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Quartet for 3 flutes and harpsichord (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Musica da camera per 3 flauti, 4 timpani e 5 tom-toms (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Juliet and Romeo chamber opera in 5 scenes after William Shakespeare for soloists, pantomime, reciting voices, choir and orchestra (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Musica da camera per 3 flauti, 4 timpani e 5 tom-toms (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Invocazione per dieci voci, flato, contrabbasso, teorbano e gong (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Poésie de chambre pour récitation (baryton), soprano (garson), clarinette basse, vibraphone, 2 cymbales et tam-tam (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Per strumenti for string orchestra, bass clarinet, trumpet and percussion (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Canzone for soprano, soprano played back from tape, English horn and percussion (1969-70)",
+      "year": "1969-70"
+    },
+    {
+      "title": "Humanae Voces opera-oratorio for reciting voices, dramatic soprano, choir and orchestra (1970-71)",
+      "year": "1970-71"
+    },
+    {
+      "title": "Rilke-Lieder for baritone and orchestra (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Salmi for baritone, reciting voice, harp, double bass, percussion and light (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Heloise’s Mysterium opera in 7 scenes for soloists, choir and orchestra (1973-74)",
+      "year": "1973-74"
+    },
+    {
+      "title": "Elegy on the Polish Boy for soprano, reciting alto voice, two women’s choirs and orchestra (1974-75)",
+      "year": "1974-75"
+    },
+    {
+      "title": "Aphorisms for solo flute (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "The Diary of a Fool operatic monodrama after Nicolay Gogol for actor, baritone, pantomime and chamber orchestra (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Apocalypsis oratorio for soprano, baritone, reciting voices, choir and orchestra (1976-77)",
+      "year": "1976-77"
+    },
+    {
+      "title": "The Ancestors – The Kaunas Books – a drama by Adam Mickiewicz for soloists, choir and orchestra (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Canticum Canticorum for alto, baritone, choir and orchestra (1978-79)",
+      "year": "1978-79"
+    },
+    {
+      "title": "Ossesioni Concertanti in quattro parti per percussione (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Quartetto in dodici parti for string quartet (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Bagatelles for male unaccompanied choir (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Prometheus chamber opera after Aischylos for soloists, choir and orchestra (1981-82)",
+      "year": "1981-82"
+    },
+    {
+      "title": "Twelve Preludes for strings (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Children’s Rhymes for female unaccompanied choir (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Canti della vita e della morte for baritone, cello and percussion (1982-84)",
+      "year": "1982-84"
+    },
+    {
+      "title": "Canto solenne for baritone, choir and orchestra (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Momenti Musicali per flauto ed archi (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "The Norwid Triptych for baritone, bass clarinet and cello (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Sound Toys for piano for children (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Aphorisms for piano (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "A Carol for alto with piano accompaniment (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Landscapes for mezzo-soprano and piano (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Improvisatione per flauto solo (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Ballet Miniatures for orchestra (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Taniec polski na 2 wiolonczele (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Notturno – Karol Szymanowski in memoriam in tres partes per cello solo (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Canticum Polonum per archi (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "At Night in Old Town Square pantomime after Icchok Lejb Perec for solo voices, choir and symphony orchestra (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Wild Swans [version for the stage] ballet fable after Hans Christian Andersen – electronic music (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Fase per archi da camera (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Hymnus in honorem Beatae Mariae Virginis de Monte Carmelo for alto or counter-tenor and positive or large organ (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "No Roof Above His Head for alto with piano accompaniment (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Blue Lullaby for alto with guitar accompaniment (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Carol A. D. 1990 for alto with guitar accompaniment (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Wild Swans [version for the radio] ballet suite for actor and tape (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Libera me... for baritone and tape (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Mourning Song in Memory of the Victims of Katyń for soprano and organ (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Children’s Dreams for piano (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Quo vadis musical drama after Henryk Sienkiewicz for soloists, choir and orchestra (1993-94)",
+      "year": "1993-94"
+    },
+    {
+      "title": "Canto funebre per archi, in memoriam Wojciech Broniewski (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Crime and Punishment , drama based on Fyodor Dostoyevsky in 9 scenes with prologue and epilogue (2008)",
+      "year": "2008"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Widłak Elżbieta, Matuszczak Bernadetta , In: Encyklopedia Muzyczna PWM (część biograficzna pod red. Elżbiety Dziębowskiej), t. „m” [PWM Music Encyclopaedia, biographical part ed. by Elżbieta Dziębowska], vol. “M”, PWM, Kraków 2000 Zwolska-Stęszewska Barbara, Matuszczak Bernadetta , In: The New Grove Dictionary of Music and Musicians. Second Edition (ed. Stanley Sadie), vol. 16, Macmillan Publishers Limited, London 2001 Aneta Derkowska, Muzyka i słowo w twórczości Bernadetty Matuszczak , Wydawnictwo Adam Marszałek, Toruń 2005",
+  "slug": "matuszczak-bernadetta-en"
+}

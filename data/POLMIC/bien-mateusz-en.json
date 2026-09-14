@@ -1,0 +1,147 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/b/bien-mateusz-en",
+  "title": "Bień Mateusz",
+  "name": "Bień Mateusz",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": "composer, pedagogue, sound engineer; b. 24th October 1968 in Wrocław. After graduating from the Academy of Music in Kraków (first oboe class, then composition), he became interested in synthesis of music and technology. In 2004, together with Aleksandra Gryka, he became the first Polish scholarship holder of the Kaske Foundation (www.kaske-stiftung.org), whose scholars were also Pierre Bulez, György Ligeti and Kaija Saariaho. He was also a scholarship holder of the Siemens foundation. He defended his doctoral thesis in composition ( Concertino for cello, chamber ensemble and electroacoustics, performed by Andrzej Bauer), receiving a PhD degree. He works as Associate Professor in the Composition Faculty at the Academy of Music in Kraków. He is mainly involved with The Electro-Acoustic Music Studio but he also collaborates with the Jagiellonian University and AGH – University of Science and Technology. He also completed a typhoidogical course at the Academy of Special Education in Warsaw. For fifteen years he worked as a teatcher and Recording Studio Manager in Krakow's Institute for Blinds and Partially Sighted. He also collaborated with many Education Centers as an expert and an author of education programmes. For many years he designed audiovisual materials for the Kraków Philharmonic educational concerts. Currently, he also cooperates with Krakowskie Biuro Festiwalowe (KBF) and Krakow Film Music Festiwal. Mateusz Bień composes works for classical and electronic instruments. His compositions were awarded at the competitions \"Muzyka Ogrodowa\" (2001) and \"Srebrna Szybka\" (2005). His music is performed at many festivals and concerts in Poland and abroad. He also writes computer tools for music creation – often integrated with text, image or light. In this intermedia works however, music is always at the foreground. updated: 2018 (ac) Composer's official website: http://mateuszbien.net",
+  "birth": {
+    "place": "Wrocław",
+    "date": "24th October 1968",
+    "raw": "b. 24th October 1968 in Wrocław"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Colon for harp",
+      "year": null
+    },
+    {
+      "title": "Concert Etude for harp",
+      "year": null
+    },
+    {
+      "title": "Postlude for harp",
+      "year": null
+    },
+    {
+      "title": "The Line for harp",
+      "year": null
+    },
+    {
+      "title": "TWT for flute and violin (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Divertimento for oboe, violin, cello and cembalo (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Gigue for oboe, 2 clarinets, bassoon, 2 violins, 2 violas, cello and double bass (1990 )",
+      "year": null
+    },
+    {
+      "title": "Aitkenada for flute solo (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Short Black Story for saxophone and harp (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Welcome to the Paradise for flute and percussion instruments (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Turdidae for tape (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Carnival Suite for saxophone solo (1992,2017)",
+      "year": null
+    },
+    {
+      "title": "La Caccia for harp solo (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Shizzz... for tape (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Retroplexis for tape (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Osiris - Trzy obrazy ze Zrównoważonego Świata [version I] for tape (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Sinfony II for tape (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Osiris - Trzy obrazy ze Zrównoważonego Świata [version II] for harp solo and electronics (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Puzzle for flute, violin and piano (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Gekon for 2 pianos (2005,2021)",
+      "year": null
+    },
+    {
+      "title": "Concertino for cello, chamber ensemble and electronic layer (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Plane Figures for string quartet (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Lines for harp (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Mare Lunaris for cello (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "November Sonata for piano trio (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Fluvlaar for flute, viola and harp (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Mazur for clarinet and piano (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Toccata for 2 harps (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Scherzo for flute and piano (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "\"Romantic\" Sonata for flute, English horn and piano (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "Septimus for flute solo (2022)",
+      "year": "2022"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "bien-mateusz-en"
+}

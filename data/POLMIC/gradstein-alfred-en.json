@@ -1,0 +1,239 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/g/gradstein-alfred-en",
+  "title": "Gradstein Alfred",
+  "name": "Gradstein Alfred",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Cztery miniatury na fortepian (1925)",
+      "year": "1925"
+    },
+    {
+      "title": "Walc na skrzypce i fortepian (1925)",
+      "year": "1925"
+    },
+    {
+      "title": "Trzy piosenki dziecięce na głos i fortepian (1926)",
+      "year": "1926"
+    },
+    {
+      "title": "Scherzo na fortepian (1927)",
+      "year": "1927"
+    },
+    {
+      "title": "Fantazja na wiolonczela i fortepian (1928)",
+      "year": "1928"
+    },
+    {
+      "title": "Kwartet smyczkowy (1929)",
+      "year": "1929"
+    },
+    {
+      "title": "Cztery mazurki na fortepian (1929)",
+      "year": "1929"
+    },
+    {
+      "title": "Kołysanka nr 2 na fortepian (1929)",
+      "year": "1929"
+    },
+    {
+      "title": "Humoreska nr 1 na fortepian (1930)",
+      "year": "1930"
+    },
+    {
+      "title": "Etiuda nr 1 na fortepian (1930)",
+      "year": "1930"
+    },
+    {
+      "title": "Koncert fortepianowy (1932)",
+      "year": "1932"
+    },
+    {
+      "title": "Zaloty , scena baletowa na orkiestrę (1935)",
+      "year": "1935"
+    },
+    {
+      "title": "Capriccio-valse na fortepian (1936)",
+      "year": "1936"
+    },
+    {
+      "title": "Sonatina na skrzypce i fortepian (1937)",
+      "year": "1937"
+    },
+    {
+      "title": "Etiuda nr 1 na skrzypce i fortepian (1940)",
+      "year": "1940"
+    },
+    {
+      "title": "Tryptyk na skrzypce i fortepian (1940)",
+      "year": "1940"
+    },
+    {
+      "title": "Kanon na skrzypce i fortepian (1940)",
+      "year": "1940"
+    },
+    {
+      "title": "Hommage à Chopin , 12 etiud na fortepian (1940-45)",
+      "year": "1940-45"
+    },
+    {
+      "title": "Piętnaście kolęd polskich na chór męski a cappella (1941)",
+      "year": "1941"
+    },
+    {
+      "title": "Tańce polskie , scena baletowa na orkiestrę (1942)",
+      "year": "1942"
+    },
+    {
+      "title": "Sonata klasyczna na fortepian (1943)",
+      "year": "1943"
+    },
+    {
+      "title": "Preludium i mazurek na fortepian (1944)",
+      "year": "1944"
+    },
+    {
+      "title": "Humoreska nr 2 na fortepian (1945)",
+      "year": "1945"
+    },
+    {
+      "title": "Adagio i scherzo na fortepian (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "Dwie pieśni do słów Władysława Broniewskiego na głos i fortepian (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "Pieśń o braterstwie na głos z fortepianem do słów Mirosława Łebkowskiego (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "Pieśń jedności [wersja I] na głos z fortepianem (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "Pieśń jedności [wersja II] na chór mieszany (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "Wieczór zimowy , piosenka w stylu epoki na głos z fortepianem do słów Aleksandra Puszkina (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "Piosenka o Warszawie [wersja I] na głos z fortepianem do słów Włodzimierza Słobodnika (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "Piosenka o Warszawie [wersja II] na chór mieszany do słów Włodzimierza Słobodnika (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "Młody kraj na głos z fortepianem do słów Marii Wronckiej (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "Na prawo most, na lewo most na głos z fortepianem do słów Heleny Kołaczkowskiej (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "Pieśń przodowników pracy na głos z fortepianem do słów Leopolda Lewina (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "Warszawa-Berlin-Praga na głos z fortepianem do słów Wojciecha Lipniackiego (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "Słowo o Stalinie , kantata na alt (lub baryton) solo, chór męski i orkiestrę symfoniczną do słów Władysława Broniewskiego (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "Dwaj chłopcy na głos z fortepianem do słów Heleny Kołaczkowskiej (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "Marsz ZMP na głos z fortepianem do słów Jerzego Jurandota (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "Na ćwiczenia na głos z fortepianem do słów Leona Pasternaka (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "Zetempowiec na głos z fortepianem do słów Jacka Bocheńskiego (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "Mój dom na głos z fortepianem do słów Heleny Kołaczkowskiej (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Osiem utworów dla dzieci na fortepian na 4 ręce (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Od Różana trakt na głos z fortepianem do słów Tadeusza Kubiaka (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Spacer wieczorny na głos z fortepianem do słów Romana Sadowskiego (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Melodia i taniec na skrzypce i fortepian (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Cześć Partii na głos z fortepianem do słów Stanisława Ryszarda Dobrowolskiego (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Kto wie na głos z fortepianem do słów Heleny Kołaczkowskiej (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Wzejdą złote kłosy [wersja I] na głos z fortepianem do słów Hanny Wolskiej (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Wzejdą złote kłosy [wersja II] na chór mieszany do słów Hanny Wolskiej (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Biały gołąb , kantata na chór dziecięcy a cappella (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "Goście z miasta na głos z fortepianem do słów Mirosława Łebkowskiego (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "Piosenka o kwiatach i drzewach na Placu Konstytucji na głos z fortepianem do słów Jerzego Kiersta (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "Spotkanie z Warszawą na głos z fortepianem do słów Tadeusza Kubiaka (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "Uśmiechnij się na głos z fortepianem do słów Henryka Gaworskiego (1954)",
+      "year": "1954"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "gradstein-alfred-en"
+}

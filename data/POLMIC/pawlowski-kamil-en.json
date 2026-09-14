@@ -1,0 +1,219 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/p/pawlowski-kamil-en",
+  "title": "Pawłowski Kamil",
+  "name": "Pawłowski Kamil",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": "composer and double-bassist; b. 2nd February 1986 in Bytom. In 2005 he completed with honours the Fryderyk Chopin Primary and Secondary School of Music in Bytom, having studied double bass with Gerard Przybyła. While at the school, he took piano lessons and composed his first pieces. In 2005-13 he studied at the Karol Szymanowski Academy of Music in Katowice, obtaining diplomas in composition and double bass (2010), as well as in theory of music (2011). He also obtained a PhD in composition under Eugeniusz Knapik (2014). Pawłowski participated in numerous workshops and masterclasses, including the double bass masterclass run by Sławomir Grenda, soloist of the Munich Philharmonic (2009), masterclasses run by Aleksander Lasoń and Vaclovas Augustinas (2006), as well as the International Orchestral Courses in Attergau under the auspices of the Vienna Philharmonic (2004, 2005, 2009). He received scholarships awarded by the Prime Minister (2004, 2005) and the Minister of Culture and National Heritage of Poland (2009), as well as a scholarship for the best PhD students (2012). He writes diverse compositions for different instrumentation, ranging from double bass or piano solo (e.g. a cycle of left hand piano miniatures for Norwegian Noble Prize winner Tomas Transtroemer) to chamber ensembles (vocal, instrumental) and large symphony orchestra and choir. He composed numerous miniatures for solo interments (mostly for piano), more than a dozen of pieces for different instrumental ensembles, few choral works, 9 songs, 4 concertos (2 double bass concertos, 1 for Hammond organ, and 1 for bassoon), 2 concertinos (for euphonium and for celesta), an opera titled Podróż przez Internet ( A Journey Through the Internet ) and Msza w drodze ( Mass on the Way ) for large symphony orchestra and choir. He also arranges works by other composers. He received a range of awards, including the 1st prize at the A DUE CEMBALI Composition Competition (Katowice, 2010), an honourable mention at the Composition Competition marking the 20th anniversary of Andrzej Krzanowski's death (Katowice, 2010) and an honourable mention of the Collegium Cantorum's Friends Association at the Composition Competition for an arrangement of a patriotic song for children's choir. As a double-bassist he performs with ensembles playing early music (mainly Baroque music), as well as new music, including electroacoustic works and improvised music (New Music Orchestra, Aukso Chamber Orchestra, EAI Players). He collaborated with such conductors as Gabriel Chmura, Christoph Eschenbach, Jacek Kaspszyk, Riccardo Muti, Donald Runnicles. Kamil Pawłowski conducted world premieres of his 2 pieces: Preludium do \"Itaki\" ( Prelude to \"Ithaca\" ) for orchestra and Double Bass Concerto No. 2 \"Pieśń młodego lasu\" ( Song of A Young Forrest ). He plays improvised piano concertos and was a contemporary dance and ballet coach at the Bytom-based Dance Theatre Department of the Ludwik Solski Academy for the Dramatic Arts (he composed music to the students' diploma project Portret wielokrotny ), which gave him an opportunity to work with dancers and prominent actors, such as Piotr Cieślak or Jerzy Stuhr. As a composer he also also collaborated with the Silesian Theatre. The artist recorded an album with piano improvisations on the theme of \"Twin Peaks\" opening sequence, commissioned by David Lynch. He is also an educator. In 2009-13 he taught at the Private Popular Music School in Katowice. In 2012-13 he taught harmonics at the Academy of Music in Katowice. Since 2013 he has been teaching theoretical subjects at the Ryszard Bukowski Primary and Secondary School of Music in Wrocław. updated: November 2014 (ai)",
+  "birth": {
+    "place": "Bytom",
+    "date": "2nd February 1986",
+    "raw": "b. 2nd February 1986 in Bytom"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Sketches , a collection of piano miniatures (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Sonatina for piano (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Penta for woodwind quintet (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "String Quartet (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Monster Lullaby for two pianos and 60 fingers (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Double Bass Concerto No. 1 \"Song of An Old Forest\" (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "3 Bucolics for piano solo (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "An Elephant's Birthday for double bass solo (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Prelude to \"Ithaca\" for orchestra (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Duets for violin and viola (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Mystery of Astonishment for mixed choir (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Double Bass Concerto No. 2 \"Song of A Young Forest\" (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Songs to texts by Tadeusz Różewicz for mezzo-soprano, viola, cello and piano (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Obrazki świąteczne , a collection of piano miniatures (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Antypassacaglia for double bass and piano (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Meat chops for piano solo (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Songs to texts by Lesław Nowara for baritone, bass clarinet and accordion (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Passacaglia for viola, violin, bells, glockenspiel and snare drum (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "A Journey Through the Internet , an opera (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Unspoken Song for two harpsichords (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Concertino for Celesta, Mezzo-soprano and Orchestra (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Canon for mixed choir (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Little Ballet Shoe for double bass trio and actor (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "A Devil's Caprice for double bass solo (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Maritime Minuet for harpsichord and accordion (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Question for double bass solo (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Missa brevis \"On the way\" for large symphony orchestra and mixed choir ( Kyrie and Gloria ) (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Trzy po trzy , a collection of piano miniatures for four hands (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "10 Symmetric Etudes for piano solo (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Concerto for Hammond organ and [string] orchestra playing in the background (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Conewka , concertino for euphonium and chamber orchestra (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Big Ballet Shoe for double bass quartet (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "SZ , a cycle of piano miniatures for the left hand (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Z przymrużeniem ucha , a collection of light-hearted pieces for different performers, i.a. Trio for Triangle , Cabaret Songs , A Killer Lock , An Existential Leg (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Hexathlon , an oboe sextet (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Tango WG for piano (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Już lustra dźwięk , song for baritone and piano to Waltz by Czesław Miłosz (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Kokoszka , song for piano and mezzo-soprano (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "I Want to Song for children's choir (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "If for mixed choir (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Jeżeli Pan , a collection of pieces for male choir (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Christmas Chant for trombita and organ (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Dolce for violin and piano (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "A Hundred Years for piano solo (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Kreuzige Ihn for mixed choir (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Concerto for bassoon and instrumental ensembles (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "15 Bucolics for string quartet (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "A Story of One Melody , music fable (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "music to theatre productions : Zbuntowany autobus, czyli jazda bez trzymanki , Silesian Puppet and Actor Theatre \"Ateneum\" in Katowice (2011) Stanisław Ignacy Witkiewicz Portret wielokrotny Ja, Staś – Ja, Witold , Ludwik Solski Academy for the Dramatic Arts in Kraków - Dance Theatre Department in Bytom (2012) Bal u senatora (2013) Kolacja na cztery ręce , Wrocław Komedia Theatre (2014)",
+      "year": "2014"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "pawlowski-kamil-en"
+}

@@ -1,0 +1,87 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/j/jack-dagmara-en",
+  "title": "Jack Dagmara",
+  "name": "Jack Dagmara",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Post tenebras lux na dwa klarnety, fortepian, dwoje skrzypiec, altówkę, dwie wiolonczele i kontrabas (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Exorcisms na bas i orkiestrę (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Wind-Oak-Quintet na kwintet dęty (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Raasz II na taśmę i sopran (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Luminescence na obój, skrzypce, altówkę i perkusję (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Satyamangalam na taśmę (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Trwałość pamięci , tryptyk na kontrabas solo (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Siis na flet piccolo, flet, czelestę i czworo skrzypiec (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Via lasciva na 2 soprany, mezzosopran, obój, 2 wiolonczele i delay (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Nyd na waltornię i live electronics (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Les Trajectoires na wielką orkiestrę symfoniczną (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Fragile na fortepian (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Sinus iridum na zespół kameralny (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Mare imbrium na zespół kameralny (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "L’ombre, l’image et le silence na aktora, video, zespół kameralny i live electronics (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Fragile II na fortepian i taśmę (2005)",
+      "year": "2005"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "jack-dagmara-en"
+}

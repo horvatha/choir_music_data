@@ -1,0 +1,27 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/k/karczynski-aleksander-en",
+  "title": "Karczyński Aleksander",
+  "name": "Karczyński Aleksander",
+  "occupation": "composer, musicologist, performer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "wokalne – na chór a cappella lub z towarzyszeniem orkiestry : Requiem Vesperae solemnes op. 10 Tu es Petrus op. 13 motet Missa in honorem Beatae Mariae Virginis Reginae Coelorum op. 15 Kantata Wolności op. 19 Stabat Mater op. 20 na głosy solowe, chór i orkiestrę Kantata Skargowska op. 26 na organy : Sonata b-moll op. 38 (wyd.)",
+      "year": null
+    }
+  ],
+  "publications": null,
+  "bibliography": "Błaszczyk Leon Tadeusz , Dyrygenci polscy i obcy w Polsce działający w XIX i XX w., PWM, Kraków 1964 Szumiński Piotr, Życie i twórczość Aleksandra Karczyńskiego ze szczególnym uwzględnieniem twórczości organowej, [manuskrypt pracy magisterskiej - Akademia Teologii Katolickiej, Warszawa 1986] Zakrzewska-Nikiporczyk Barbara, Z życia muzycznego Polaków w Chicago na początku XX wieku, „Muzyka” 1989 nr 4, s.125-31 Iwanicka-Nijakowska Anna , Karczyński Aleksander, Akademia Muzyczna im. Fryderyka Chopina w Warszawie / Akademia Muzyczna im. Stanisława Moniuszki w Gdańsku, Warszawa / Gdańsk 2005",
+  "slug": "karczynski-aleksander-en"
+}

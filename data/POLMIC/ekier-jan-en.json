@@ -1,0 +1,115 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/e/ekier-jan-en",
+  "title": "Ekier Jan",
+  "name": "Ekier Jan",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": "pianist, music teacher, composer and editor, b. 29August 1913 in Cracow. In 1932-34 he studied musicology with Zdzisław Jachimecki at the Jagellonian University in Cracow. He went on to study piano with Zbigniew Drzewiecki and composition with Kazimierz Sikorski at the Warsaw Conservatory (1934-39). In 1940-41 he studied organ playing with Bronisław Rutkowski. In 1937 he won the 8th prize in the 3rd International Frédéric Chopin Piano Competition in Warsaw. Since that time he was an active concert pianist, touring Europe, South America and Japan. Jan Ekier began his teaching career in 1933 as a solfège tutor in the Władysław Żeleński Music School in Cracow. After the war, he dedicated himself to the education of pianists: in 1946-47 he taught at the State Secondary Music School in Lublin, 1947-48 at the State Higher School of Music in Sopot, where he held the function of rector. In 1953 he became a professor at the State Higher School of Music in Warsaw, where in 1964-72 and from 1974 he held the chair of piano studies. He has taught master classes of piano interpretation in France, Germany, Italy, the Netherlands, Brazil, Japan and China. He has repeatedly served on the jury of international piano competitions in many countries, including the International Frédéric Chopin Piano Competition in Warsaw (since 1985 - as president of the jury). Jan Ekier began his editorial work in PWM Polish Music Publishers. From 1959 he was editor-in-chief of the National Edition of Frédéric Chopin's Works . It is to Chopin that he has devoted many of his publications. He has been honoured with numerous prizes, including the State Award, First Class for the preparation of the Polish team for the 4th Frédéric Chopin Competition in 1950, the Minister of Culture and Arts Award, First Class in 1964 and 1974, the Golden Cross of Merit in 1952, the Officer's Cross of the Polonia Restituta Order and the 10th Anniversary Order in 1955, the Standard of Labour Order, 2nd Class in 1960. In 2004 he received the Polish Minister of Culture’s Special Award, granted for the first time for outstanding contribution to the preservation and promotion of Chopin heritage, including the memorial National Edition of Frédéric Chopin's Complete Works , which restored to European culture the art of the great Polish composer in a form which aims to be as close to the historical original as possible.",
+  "birth": {
+    "place": "Cracow",
+    "date": "29August 1913",
+    "raw": "b. 29August 1913 in Cracow"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Two Preludes for piano (1932)",
+      "year": "1932"
+    },
+    {
+      "title": "Humoresque for piano (1933)",
+      "year": "1933"
+    },
+    {
+      "title": "Straszak a ballet for children (1933)",
+      "year": "1933"
+    },
+    {
+      "title": "A Faun's Death a stage scene (1933)",
+      "year": "1933"
+    },
+    {
+      "title": "Two mazurkas for piano (1933)",
+      "year": "1933"
+    },
+    {
+      "title": "Lullaby for piano (1933)",
+      "year": "1933"
+    },
+    {
+      "title": "The Pace of Day a ballet (1934)",
+      "year": "1934"
+    },
+    {
+      "title": "Toccata for piano (1935)",
+      "year": "1935"
+    },
+    {
+      "title": "Mazurka for piano (1935)",
+      "year": "1935"
+    },
+    {
+      "title": "Highlander Suite [1st version] for chamber orchestra (1935)",
+      "year": "1935"
+    },
+    {
+      "title": "Krakowiak for piano (1936)",
+      "year": "1936"
+    },
+    {
+      "title": "Highlander Suite [2nd version] for symphony orchestra (1937)",
+      "year": "1937"
+    },
+    {
+      "title": "Variations and Fugue for string quartet (1937)",
+      "year": "1937"
+    },
+    {
+      "title": "A Highlander Dance for piano (1938)",
+      "year": "1938"
+    },
+    {
+      "title": "Song for the Attack for voice and piano (1942)",
+      "year": "1942"
+    },
+    {
+      "title": "For New Paths – An Attack for voice and piano (1943)",
+      "year": "1943"
+    },
+    {
+      "title": "Janka for voice and piano (1943)",
+      "year": "1943"
+    },
+    {
+      "title": "Easter Psalm for alto and piano (1944)",
+      "year": "1944"
+    },
+    {
+      "title": "Twenty Carols for piano (1947)",
+      "year": "1947"
+    },
+    {
+      "title": "Colourful melodies [1st version] for piano (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "Piano Concerto (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "Colourful melodies [2nd version] - suite for mixed choir and small symphony orchestra (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "Muzyka do filmu animowanego Dwie Dorotki (1956)",
+      "year": "1956"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Erhardt Ludwik, Ekier Jan, In: PWM Music Encyclopaedia (biographical section ed. by Elżbieta Dziębowskia), vol. “efg”, PWM, Kraków 1987 Dybowski Stanisław, Ekier Jan, Selene, Warszawa 2003 Gronau-Osińska Alicja, Ekier Jan Stanisław, Akademia Muzyczna w Warszawie, Warszawa 2004 Rodzaj aleatoryzmu chopinowskiego, \"Twoja Muza\" 2007 nr 2, s. 24-25",
+  "slug": "ekier-jan-en"
+}

@@ -1,0 +1,235 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/c/cienciala-wieslaw-en",
+  "title": "Cienciała Wiesław",
+  "name": "Cienciała Wiesław",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "composer and teacher; b. 17 August 1961 in Cieszyn. He studied at the Karol Szymanowski Academy of Music in Katowice music theory with Ryszard Gabryś (graduated in 1987) and composition with Józef Świder (graduated in 1989). He is the winner of the Stanisław Wiechowicz Composers' Competition in Szczecin (1984), 22nd Grzegorz Fitelberg Competition for Composers in Katowice (1988) and the Katowice Voivode Award for Young Artists (1991). In 1989 and 1990 he was also a scholarship holder of the Ministry of Culture and Art. His compositions have been performed in Poland and abroad, among others in countries such as Austria, Belgium, China, Croatia, Montenegro, Czech Republic, Finland, Spain, Lithuania, Germany, Portugal, Russia, Serbia, Slovakia, Slovenia, Sweden, Ukraine, United Kingdom. He has taken part in many festivals of contemporary music, including Deux Visages de l'Électroacoustique Festival in Brussels, Melos-Etos in Bratislava, Hudebni Soućasnost in Ostrava, Polish Arts Festival in Essex, Two Days & Nights of New Music in Odessa, Warsaw Autumn, Musica Polonica Nova in Wrocław, Silesian Days of Contemporary Music in Katowice, Silesian Rostrum of Composers in Katowice, Days of 20th-Century Music in Wrocław, Meetings of Young Composers in Gdańsk, Mikołów Days of Music, \"Musica Sacra\" Panorama of Christian Art in Skoczów. His works were commissioned by the Polish Radio Experimental Studio – Lumber-case for tape (1995), the city of Cieszyn – Gratia for choir and string orchestra (1998), \"Musica Sacra\" Panorama of Christian Art – Laudate for tenor, cello and string orchestra (1999) and the Silesian Philharmonic in Katowice – Variants No. 5 for chamber orchestra (2000). Many performers have in their repertoire his Cadenza for solo accordion, a piece repeatedly performed at significant competitions: Arrasate Hiria Nazioarteko Lehiaketa (Arrasate / Mondragón – Spain), Coupe Mondiale (Shanghai – China, Kaunas – Lithuania), Accordion Tarptautinis Competition (Vilnius – Lithuania) ), Bistrički Zvukolik (Marija Bistrica – Croatia), Glazbene staze: Volim, Volim, Volim! (Zagreb – Croatia), Programska knjižica (Daruvar – Croatia), Produkcija odjela za orgulje, udaraljke i harmoniku (Varaždin – Croatia), Međunarodni festival harmonike (Tivat – Montenegro), International Music Competition (Belgrade – Serbia), Pannoniaccordion (Murska Sobota – Slovenia), and in 2020 at internet competitions: Międzynarodowy Konkurs Muzyczny „OPUS 2020”, Online Music Competition (Belgrad – Serbia), International Music Competition „Nota Bene!” (Sankt-Petersburg – Rosja). In the years 1999-2002 Wiesław Cienciała was the organizer of the concert series \"New and Recent Music\" in Cieszyn. From 1993 to 2004 he was the deputy chairman of the Board of the Katowice Branch of the Polish Composers' Union. Since 1987 he has been working at the Institute of Music of the University of Silesia, in 2008 he was elected the Dean of the Faculty of Arts for the term of 2008-2012. In the years 2003-2012 he was a professor at the Academy of Music in Katowice. He also worked at the Institut pro Umělecká Studia in Ostrava (Czech Republic) and the Akadémia Umení / Fakulta Muzických Umení in Banska Bystrica (Slovakia). updated: 2020 (Agnieszka Cieślak), 2021 (Wiktoria Antonczyk)",
+  "birth": {
+    "place": "Cieszyn",
+    "date": "17 August 1961",
+    "raw": "b. 17 August 1961 in Cieszyn"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Wind Quintet (1983-96)",
+      "year": "1983-96"
+    },
+    {
+      "title": "Chamber Music for chamber ensemble (1983-97)",
+      "year": "1983-97"
+    },
+    {
+      "title": "Three Lyrics for a 12-part mixed choir a cappella (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "String Quartet (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Sonatina for violin solo (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Monologue for cello, piano, percussion and reciter (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Three-Parts-Music for orchestra (1986-89)",
+      "year": "1986-89"
+    },
+    {
+      "title": "Elegy for cello and piano (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "From ... to ... for three percussion ensembles (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Cadenza for accordion (1987-88)",
+      "year": "1987-88"
+    },
+    {
+      "title": "Landscape for piano, percussion and string orchestra (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Short Story for accordion quintet (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Epiphora (in memory of Andrzej Krzanowski) for organ solo (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Sola fide, sola scriptura, sola gratia for mixed choir (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Piano Music for 2 pianos (6 hands) (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Cinis for orchestra (1991-92)",
+      "year": "1991-92"
+    },
+    {
+      "title": "CAIMax for piano, computer and string orchestra (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Anaphora for tape (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Sonatina for flute and guitar/piano (1994-96)",
+      "year": "1994-96"
+    },
+    {
+      "title": "Variants No. 1 for violin and piano ad libitum (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Lumber-case for tape (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Variants No. 2 [version I] for piano trio (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Variants No. 2 [version II] for accordion and string quartet (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Children's suite \"Fifth season\" for tape (1996-99)",
+      "year": "1996-99"
+    },
+    {
+      "title": "Children's suite \"Fifth season\" for chamber orchestra (1996-99)",
+      "year": "1996-99"
+    },
+    {
+      "title": "Psalmus CXVII for choir and organ (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Variants No. 3 for percussion, piano and tape (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Gratia for choir and string orchestra (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Rondo (Variants No. 4) for piano solo (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Laudate for tenor, cello and string orchestra (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Variants No. 5 for chamber orchestra (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Prelude-Meditation B-A-C-H for organ (2000/2013)",
+      "year": null
+    },
+    {
+      "title": "XG-Piano Studies for tape (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Beyond (the) CAGE for electronic sounds and piano, composed together with Krzysztof Gawlas (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Parlo-Forte for electronic sounds (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Amherst-Music for chamber ensemble, reciting female voice and electronic sounds (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Związki frazeolog_uliczne for tape (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Dist.Bells for piano (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Two Psalms for Cieszyn for choir and chamber ensemble (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "SigisMusicus / SigisMontis for organ (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Kanon Sg-A (in memory of a friend) for organ (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Intrada for organ (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "...ein Feste Burg for organ (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Kanon Sg-A (in memory of a friend), version for string quintet, accordion and piano (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Venite, Adoremus for mixed choir a cappella (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "12 D.B.el-variants (tribute to Uri Caine) , electronic music for tape (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "4 f / t el-variants , electronic music for tape (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "D.B.el .... ., electronic music for tape (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "f / t EL , electronic music for tape (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "Toccanontasia for organ (2022)",
+      "year": "2022"
+    },
+    {
+      "title": "all or cores for cello (2022)",
+      "year": "2022"
+    },
+    {
+      "title": "I am working in a room (tribute to Alvin Lucier) , electronic music (2025)",
+      "year": "2025"
+    },
+    {
+      "title": "Dwie Małe Ojczyzny (Romanowi Bergerowi) for piano trio (2025)",
+      "year": "2025"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "cienciala-wieslaw-en"
+}

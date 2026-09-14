@@ -1,0 +1,91 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/w/wesolowski-franciszek-en",
+  "title": "Wesołowski Franciszek",
+  "name": "Wesołowski Franciszek",
+  "occupation": "composer, musicologist, performer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Pieśń do św. Cecylii na czterogłosowy chór mieszany a cappella (1933)",
+      "year": "1933"
+    },
+    {
+      "title": "Msza łacińska na czterogłosowy chór męski a cappella (1935)",
+      "year": "1935"
+    },
+    {
+      "title": "Ej, owiecki leciały na głos z fortepianem (1936)",
+      "year": "1936"
+    },
+    {
+      "title": "Śpiwam ja se śpiwam na głos z fortepianem (1936)",
+      "year": "1936"
+    },
+    {
+      "title": "Wariacje na organy solo (1937-38)",
+      "year": "1937-38"
+    },
+    {
+      "title": "Kwartet smyczkowy (1938)",
+      "year": "1938"
+    },
+    {
+      "title": "Preludium i fughetta na organy solo (1939)",
+      "year": "1939"
+    },
+    {
+      "title": "Allegro sonatowe na organy solo (1939)",
+      "year": "1939"
+    },
+    {
+      "title": "Regina Caeli laetare na czterogłosowy chór mieszany i organy (1942)",
+      "year": "1942"
+    },
+    {
+      "title": "Ecce Sacerdos magnus na czterogłosowy chór mieszany i organy (1942)",
+      "year": "1942"
+    },
+    {
+      "title": "Wesoły nam dziś dzień nastał na czterogłosowy chór żeński a cappella (1944)",
+      "year": "1944"
+    },
+    {
+      "title": "Królu wieczności i czasu na czterogłosowy chór z organami (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Trzydzieści małych preludiów i fughett na organy solo (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "O, Chryste, zawsze króluj nam na sopran solo z organami (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Dałeś nam siebie na alt solo i czterogłosowy chór z organami (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Czterdzieści osiem drobnych utworów na organy (1996-98)",
+      "year": "1996-98"
+    },
+    {
+      "title": "O Jezu mój, padam kornie na czterogłosowy chór z organami (1998)",
+      "year": "1998"
+    }
+  ],
+  "publications": "books Zasady muzyki, PWM, Kraków 1960 Materiały do ćwiczeń harmonicznych, PWM, Kraków 1969 Nauka harmonii, Akademia Muzyczna w Łodzi, Łódź 1991 Materiały do nauki o skalach muzycznych, PWM, Kraków 1997 Materiały do kształcenia słuchu z zasadami muzyki, COPSA, Warszawa 1997",
+  "bibliography": "Arcana musicae, Akademia Muzyczna w Łodzi, Łódź 1999 Szoka Marta, Wesołowski Franciszek, Akademia Muzyczna w Łodzi, Łódź 2001 Profesor Franciszek Wesołowski, Łódzkie Towarzystwo Naukowe, Łódź 2004 Janyst Janusz, Odejście nestora, \"Ruch Muzyczny\" 2008 nr 1, s.38. Lewandowska-Kąkol Agnieszka, Wzór pedagoga, \"Twoja Muza\" 2008 nr 1, s. 26-27",
+  "slug": "wesolowski-franciszek-en"
+}

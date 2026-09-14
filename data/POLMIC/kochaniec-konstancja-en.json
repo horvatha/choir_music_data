@@ -1,0 +1,171 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/k/kochaniec-konstancja-en",
+  "title": "Kochaniec Konstancja",
+  "name": "Kochaniec Konstancja",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "composer; born in Wrocław, Poland. She began learning to play the piano at the Grażyna Bacewicz State Music School in Wroclaw. In the years 1991-1997 she studied at the Ryszard Bukowski Secondary Music School in Wrocław in the piano class of Andrzej Janusz. From 1997 to 2003 she studied at the Faculty of Music Theory, Composition and Conducting at the Karol Lipiński Academy of Music in Wrocław: music theory (1997-2000) and composition under the direction of Leszek Wisłocki (2000-2003). In 2003-2005 she developed her skills in composition at Włodzimierz Kotoński’s lessons in Warsaw. In 2009 she graduated from the composition class of Wiesław Cienciała and was awarded a master's degree at the Karol Szymanowski Academy of Music in Katowice. In addition, she participated in many contemporary music courses, including one in 2004 in Bystrzyca Kłodzka, where she honed her skills under the guidance of Bogusław Scheaffer and Hector Fiore. In 2003 and 2005 she worked as an artistic director's assistant at the Joanna Bruzdowicz-Tittel’s festival \"De Musique en Catalog\". Currently she conducts independent creative activity – composes classical music as well as film, television, theater and illustrative pieces. She has written soundtracks for documentary films: Undergroud city (dir. A. Zwiefka), Wrocław – meeting city (dir. E. Sitek), Where it is possible to live (dir. M. Piejko), Queen of Panoramas , Trail of the first tank (dir. M. Bradke), Legend of the Vilnius conspiracy (dir. B. Bubiak). She composed music for such television programmes as Literary television news (TVP2), 13 minutes into the past (dir. M. Bradke), Good money (dir. W. Gadowski). The composer's organ music is performed by Polish and foreign organists (Bartosz Patryk Rzyman, Cyprian Jagiełło, Luca Massaglia) at festivals such as the 12th Sandomierz Organ Evenings in the Cathedral Basilica, Internationale Festival der Kammer und Orgelmusik in Forst. Konstancja Kochaniec was a member of the Youth Circle of the Polish Composers' Union (2010-2018). She is a member of the Union of Performing Artists STOART, the Society of Authors ZAiKS and the Polish Society for Contemporary Music. updated: 2019 (ac), 2021 (ac) Contact: E-mail: This email address is being protected from spambots. You need JavaScript enabled to view it. Mobile: (+48) 667 724 403",
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Four epigrams for solo flute (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Piano miniature (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Colours duet for violin and light (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Song with melody for piano and didgeridoo (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Woman for solo violin (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Madness s tring quintet (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Something for solo cello (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Symphonic impressions (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Three sonnets for soprano, mezzo-soprano, bass and symphony orchestra to words by William Shakespeare translated by Maciej Słomczyński (2007-2008)",
+      "year": "2007-2008"
+    },
+    {
+      "title": "Nike for solo cello (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Psyche for solo cello (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Sinfonietta Concertante for oboe, violin, cello and orchestra (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Music for the TV series Literary news programs , implementation Mirosław Spychalski (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Music for the documentary programme 13 minutes into the past , dir. Marcin Bradke (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Fire and Ash fantasy for solo organ (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Nocturne for piano (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Music for the programme Ideas Laboratory , dir. Agnieszka Zwiefka-Chwałek (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Litany for solo organ (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Music for the TVP Kraków’s programme Good Money , dir. Witold Gadowski (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Notturno dell 'anima for solo piano (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Nocturne of questions (Notturno delle domande) for piano (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Psalm for mixed choir (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "The last few words for solo organ (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Confession organ duo (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Sonnet XXIX to words by William Shakespeare translated by Maciej Słomczyński for tenor or soprano and piano (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Music for the documentary-historical movie Underground City , dir. Agnieszka Zwiefka-Chwałek (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Music for the documentary City of Meetings , dir. Ewa Sitek (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Music for the film Queen of Panoramas , dir. Marcin Bradke (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Music for the film Where You Can Live , dir. Magdalena Piejko (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Music for the film L egend of the Vilnius conspiracy , dir. Bronisław Bubiak and Tomasz Piotrowski (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Music for the film Trail of the First Tank , dir. Marcin Bradke (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Music for the film Everything for Others , dir. Marcin Bradke (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Music for the film Ryngraf , dir. Dorota Kania and Anna Zapert (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Music for the film Silhouettes of Independence, dir. Marcin Bradke (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Music for the film Dreamer -Kornel Morawiecki , dir. Marcina Bradke (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Music for the film Baśka , dir. Dorota Kania and Anna Zapert (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Music for the film Jaroslav Vonka. Hephaestus from Breslau, dir . Marcin Bradke (2021)",
+      "year": "2021"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "kochaniec-konstancja-en"
+}

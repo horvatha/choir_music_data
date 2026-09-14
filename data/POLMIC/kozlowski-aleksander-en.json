@@ -1,0 +1,123 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/k/kozlowski-aleksander-en",
+  "title": "Kozłowski Aleksander",
+  "name": "Kozłowski Aleksander",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Fantazja i fuga na organy solo (1939)",
+      "year": "1939"
+    },
+    {
+      "title": "Wstaw się za nami o Pani na głos i organy (1940)",
+      "year": "1940"
+    },
+    {
+      "title": "Ave Maria na sopran i organy (1942)",
+      "year": "1942"
+    },
+    {
+      "title": "Mów do mnie jeszcze na głos i fortepian (1943)",
+      "year": "1943"
+    },
+    {
+      "title": "Chorał i wariacje a-moll na organy solo (1945)",
+      "year": "1945"
+    },
+    {
+      "title": "Temat i wariacje z fugą na organy solo (1946)",
+      "year": "1946"
+    },
+    {
+      "title": "Suita na orkiestrę smyczkową (1947-48)",
+      "year": "1947-48"
+    },
+    {
+      "title": "Sonata na organy (1947-49)",
+      "year": "1947-49"
+    },
+    {
+      "title": "Uwertura na orkiestrę symfoniczną (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "Trio fortepianowe (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "Kantata na głos solo, chór mieszany i orkiestrę (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Tria [wersja I] na organy solo (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Krakowiak na trzy fortepiany (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "Warkocz na chór z towarzyszeniem fortepianu ad libitum (1957)",
+      "year": "1957"
+    },
+    {
+      "title": "Walc na głos i fortepian (1957)",
+      "year": "1957"
+    },
+    {
+      "title": "Miniatury na organy solo (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Małe preludia organowe (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Sonata na klarnet i fortepian (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Migawki na organy solo (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Grave na organy solo (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Piętnaście krótkich preludiów charakterystycznych na organy solo (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Tria [wersja II] na organy solo (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Preludium na organy (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Kwartet smyczkowy (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Symfonia nr 1 (1969)",
+      "year": "1969"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Kędra Antoni, Aleksander Kozłowski, Akademia Muzyczna w Łodzi, Łódź 1981 Szoka Marta, Kozłowski Aleksander, Akademia Muzyczna w Łodzi, Łódź 2001",
+  "slug": "kozlowski-aleksander-en"
+}

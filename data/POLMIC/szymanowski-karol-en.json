@@ -1,0 +1,291 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/s/szymanowski-karol-en",
+  "title": "Szymanowski Karol",
+  "name": "Szymanowski Karol",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "composer; b. 3 rd October 1882 in Tymoszówka, d. 29 th March 1937 in Lausanne. He spent his childhood in his family’s country estate. In 1889 he started learning the piano with his father, and later in a music school in Elisavetgrad with Gustav Neuhaus. In 1901-05 he studied with Marek Zawirski (harmony) and Zygmunt Noskowski (counterpoint and composition) in Warsaw. In the same period, he made the acquaintance of Paweł Kochański, Artur Rubinstein, the conductor Grzegorz Fitelberg, the playwright and painter Stanisław Ignacy Witkiewicz “Witkacy”, and the novelist Stefan Żeromski. In 1905 he travelled with Witkacy (his first trip to Italy). In the same year, together with Grzegorz Fitelberg, Ludomir Różycki and Apolinary Szeluto, he founded the Young Polish Composers’ Publishing House, operating under the patronage of Władysław Lubomirski, whose aim was the promotion of Polish contemporary composers. This group of composers was soon referred to as the “Young Poland”. In 1906, members of the group gave composer concerts in Warsaw and Berlin. In 1906-07, Karol Szymanowski frequently visited Berlin and Leipzig, and in 1908 – made another journey to Italy. In 1912 he settled in Vienna. In that period, he signed a ten-year contract with the Universal-Edition publishing house. In 1914, he travelled again to Italy and Sicily, North Africa, Paris and London, and in 1915-16 – to Kiev, Moscow and Petersburg. In 1917 the Bolshevik October Revolution forced the composer to leave his native Tymoszówka forever. He moved to Elisavetgrad, and in 1919 he settled in Warsaw. In 1921, together with Paweł Kochański and Artur Rubinstein, he travelled to the United States; in May 1922, his composer concert in Paris received an enthusiastic response. In August 1922, he visited Zakopane for the first time after World War I, and from that moment on he was a regular guest there. His artistic interests increasingly focused on Polish folk music, particularly that of the Podhale region at the foot of the Tatra and Kurpie north of Warsaw. In 1926, he turned down the post of director in Cairo Conservatory, and instead, from 22 nd February 1927 till 31 st August 1929, he was the rector of the Conservatory in Warsaw. In 1929, he received treatment in the Edlach Sanatorium in Austria, later – in Davos in Switzerland. From 1st September 1930 till 30 th April1932, he was the vice-chancellor of the Higher School of Music in Warsaw. In 1930 he took permanent residence in Zakopane, in “Villa Atma” . In 1933-36, he performed his own works in France, Belgium, the Netherlands, England, Italy, Yugoslavia, Bulgaria, Germany, Sweden, Denmark, Norway and the Soviet Union. The two greatest Polish 20 th -century composers, Karol Szymanowski and Witold Lutosławski, met only once in their lifetime – in 1935. In November that year, Szymanowski left “Atma”, never to return. He stayed several times in the French sanatorium in Grasse, and in March 1937 he died in a sanatorium in Losanne. Karol Szymanowski’s numerous awards and distinctions included: The Officer’s and Commander’s Crosses of the Order of Polonia Restituta, The Italian Royal Officer’s and Commander’s Orders, the Honorary Order Regia Accademia di Santa Cecilia, the Academic Gold Laurel Wreath of the Polish Academy of Literature, an honorary doctorate of the Jagiellonian University in Cracow and the honorary memberships of České Akademie Véd a Uméni, the Latvian Music Conservatory in Riga, St Cecilia Royal Academy in Rome, Royal Academy of Music in Belgrade, and the International Society for Contemporary Music. In 1935, he was presented with the State Music Award.",
+  "birth": {
+    "place": "Tymoszówka",
+    "date": "3rd October 1882",
+    "raw": "b. 3 rd October 1882 in Tymoszówka"
+  },
+  "death": {
+    "place": "Lausanne",
+    "date": "29th March 1937",
+    "raw": "d. 29 th March 1937 in Lausanne"
+  },
+  "works": [
+    {
+      "title": "Nine Preludes op. 1 for piano (1899-1900)",
+      "year": "1899-1900"
+    },
+    {
+      "title": "Six Songs op. 2 to poems by Kazimierz Tetmajer for voice and piano (1900-02)",
+      "year": "1900-02"
+    },
+    {
+      "title": "Four Studies op. 4 for piano (1900-02)",
+      "year": "1900-02"
+    },
+    {
+      "title": "Variations on a Polish Folk Theme in B Minor op. 10 for piano (1900-04)",
+      "year": "1900-04"
+    },
+    {
+      "title": "Variations in B flat Minor op. 3 for piano (1901-03)",
+      "year": "1901-03"
+    },
+    {
+      "title": "Three Fragments from Poems by Jan Kasprowicz op. 5 for voice and piano (1902)",
+      "year": "1902"
+    },
+    {
+      "title": "Piano Sonata No. 1 in C Minor op. 8 (1903-04)",
+      "year": "1903-04"
+    },
+    {
+      "title": "Salome op. 6, a song to words by Jan Kasprowicz for voice and orchestra (1904)",
+      "year": "1904"
+    },
+    {
+      "title": "A Swan op. 7, a song to words by Wacław Berent for voice and piano (1904)",
+      "year": "1904"
+    },
+    {
+      "title": "Sonata in D Minor for violin and piano op. 9 (1904)",
+      "year": "1904"
+    },
+    {
+      "title": "Four Songs op. 11 to words by Tadeusz Miciński for voice and piano (1904-05)",
+      "year": "1904-05"
+    },
+    {
+      "title": "Concert Overture in E Major op. 12 for symphony orchestra (1904-05)",
+      "year": "1904-05"
+    },
+    {
+      "title": "Fantasy op. 14 for piano (1905)",
+      "year": "1905"
+    },
+    {
+      "title": "Five Songs op. 13 for voice and piano (1905-07)",
+      "year": "1905-07"
+    },
+    {
+      "title": "Prelude and Fugue in C Sharp Minor for piano (1905-09)",
+      "year": "1905-09"
+    },
+    {
+      "title": "Symphony No. 1 in F Minor op. 15 (1906-07)",
+      "year": "1906-07"
+    },
+    {
+      "title": "Trio op. 16 for piano, violin and cello (1907)",
+      "year": "1907"
+    },
+    {
+      "title": "Twelve Songs op. 17 for voice and piano (1907)",
+      "year": "1907"
+    },
+    {
+      "title": "Penthesilea op. 18, a song to words by Stanisław Wyspiański for voice and orchestra (1908)",
+      "year": "1908"
+    },
+    {
+      "title": "Lottery for Husbands , an operetta in 3 acts (1908-09)",
+      "year": "1908-09"
+    },
+    {
+      "title": "Six Songs op. 20 to words by Tadeusz Miciński for voice and piano (1909)",
+      "year": "1909"
+    },
+    {
+      "title": "Symphony No. 2 in B flat major op. 19 (1909-10)",
+      "year": "1909-10"
+    },
+    {
+      "title": "Colourful Songs op. 22 for voice and piano (1910)",
+      "year": "1910"
+    },
+    {
+      "title": "Romance in D Major op. 23 for violin and piano (1910)",
+      "year": "1910"
+    },
+    {
+      "title": "Piano Sonata No. 2 in A Major op. 21 (1910-11)",
+      "year": "1910-11"
+    },
+    {
+      "title": "Hafiz’ Love Songs op. 24 for voice and piano (1911)",
+      "year": "1911"
+    },
+    {
+      "title": "Hagith op. 25, opera in one act (1912-13)",
+      "year": "1912-13"
+    },
+    {
+      "title": "Hafiz’ Love Songs op. 26 for voice and orchestra (1914)",
+      "year": "1914"
+    },
+    {
+      "title": "Symphony No. 3 “Song of the Night” op. 27 for solo tenor (or soprano), mixed choir and orchestra (1914-16)",
+      "year": "1914-16"
+    },
+    {
+      "title": "Nocturne and Tarantella op. 28 for violin and piano (1915)",
+      "year": "1915"
+    },
+    {
+      "title": "Metopes op. 29, three poems for piano (1915)",
+      "year": "1915"
+    },
+    {
+      "title": "Myths op. 30, three poems for violin and piano (1915)",
+      "year": "1915"
+    },
+    {
+      "title": "Songs of the Fairy Princess op. 31 for voice and piano (1915)",
+      "year": "1915"
+    },
+    {
+      "title": "Three Songs op. 32 to words by Dmitry Davidov for voice and piano (1915)",
+      "year": "1915"
+    },
+    {
+      "title": "Masques [ Masks ] op. 34, three pieces for piano (1915-16)",
+      "year": "1915-16"
+    },
+    {
+      "title": "Twelve Studies op. 33 for piano (1916)",
+      "year": "1916"
+    },
+    {
+      "title": "Violin Concerto No. 1 op. 35 (1916)",
+      "year": "1916"
+    },
+    {
+      "title": "Piano Sonata No. 3 op. 36 (1917)",
+      "year": "1917"
+    },
+    {
+      "title": "String Quartet No. 1 op. 37 (1917)",
+      "year": "1917"
+    },
+    {
+      "title": "Demeter op. 37/2 for solo alto, women’s choir and orchestra (1917)",
+      "year": "1917"
+    },
+    {
+      "title": "Agawe op. 38 for solo alto, women’s choir and orchestra (1917)",
+      "year": "1917"
+    },
+    {
+      "title": "Three Capriccios by Paganini op. 40 for violin and piano (1918)",
+      "year": "1918"
+    },
+    {
+      "title": "Four Songs op. 41 to words by Rabindranath Tagore for voice and piano (1918)",
+      "year": "1918"
+    },
+    {
+      "title": "Songs of the Mad Muezzin op. 42 for soprano and piano (1918)",
+      "year": "1918"
+    },
+    {
+      "title": "King Roger op. 46, an opera in 3 acts (1918-24)",
+      "year": "1918-24"
+    },
+    {
+      "title": "Mandragora op. 43, pantomime on 3 topics for symphony orchestra (1920)",
+      "year": "1920"
+    },
+    {
+      "title": "Solemn March for orchestra (1920)",
+      "year": "1920"
+    },
+    {
+      "title": "Słopiewnie op. 46/2, five songs to words by Julian Tuwim for voice and piano (1921)",
+      "year": "1921"
+    },
+    {
+      "title": "Three Lullabies op. 48 for voice and piano (1922)",
+      "year": "1922"
+    },
+    {
+      "title": "Nursery Rhymes op. 49, 20 songs to words by Kazimiera Iłłakowiczówna for voice and piano (1922-23)",
+      "year": "1922-23"
+    },
+    {
+      "title": "Harnasie [ Highland Robbers ] op. 55, ballet-pantomime in 3 scenes for solo tenor, mixed choir and orchestra (1923-31)",
+      "year": "1923-31"
+    },
+    {
+      "title": "Idom se s’uhaje dowu, s’pievayency ... ( Siuhay song ), highlander song for voice and piano (1924)",
+      "year": "1924"
+    },
+    {
+      "title": "Twenty Mazurkas op. 50 for piano (1924-25)",
+      "year": "1924-25"
+    },
+    {
+      "title": "Two Basque Songs op. 44 for voice and piano (1925)",
+      "year": "1925"
+    },
+    {
+      "title": "Duke Potemkin op. 51, music for Act Five of a drama by Tadeusz Miciński (1925)",
+      "year": "1925"
+    },
+    {
+      "title": "Lullaby ( Le berceuse d’Aïtacho Enia ) op. 52 for violin and piano (1925)",
+      "year": "1925"
+    },
+    {
+      "title": "Stabat Mater op. 53 for solo voices, mixed choir and orchestra (1925-26)",
+      "year": "1925-26"
+    },
+    {
+      "title": "Four Songs op. 54 to words by James Joyce for voice and piano (1926)",
+      "year": "1926"
+    },
+    {
+      "title": "String Quartet No. 2 op. 56 (1927)",
+      "year": "1927"
+    },
+    {
+      "title": "Vocalise-Étude for voice and piano (1928)",
+      "year": "1928"
+    },
+    {
+      "title": "Six Songs from Kurpie for mixed unaccompanied choir (1928-29)",
+      "year": "1928-29"
+    },
+    {
+      "title": "Veni Creator op. 57 for soprano, mixed choir, organ and orchestra to a text by Stanisław Wyspiański (1930)",
+      "year": "1930"
+    },
+    {
+      "title": "Kurpie Songs op. 58 for voice and piano (1930-32)",
+      "year": "1930-32"
+    },
+    {
+      "title": "Litany to the Virgin Mary op. 59, two fragments for soprano, women’s choir and orchestra (1930-33)",
+      "year": "1930-33"
+    },
+    {
+      "title": "Symphony No. 4 ( Symphonie concertante ) op. 60 for piano and orchestra (1932)",
+      "year": "1932"
+    },
+    {
+      "title": "Violin Concerto No. 2 op. 61 (1932-33)",
+      "year": "1932-33"
+    },
+    {
+      "title": "Two Mazurkas op. 62 for piano (1933-34)",
+      "year": "1933-34"
+    }
+  ],
+  "publications": "Szymanowski Karol, Formative Role of Musical Culture in the Society , PWM, Kraków 1949 Karol Szymanowski on Frédéric Chopin , PWM, Kraków 1949",
+  "bibliography": "Iwaszkiewicz Jarosław, Meetings with Szymanowski, PWM, Kraków 1947 Rytard Jerzy Mieczysław, Memories of Karol Szymanowski, PWM, Kraków 1947 Łobaczewska Stefania, Karol Szymanowski. Life and Works (1882-1937), PWM, Kraków 1950 Golachowski Stanisław, Karol Szymanowski, PWM, Kraków 1956 Szymanowski Karol, From the Letters, PWM, Kraków 1958 Szymanowski Karol, From His Writings, PWM, Kraków 1958 Chomiński Józef, From the Life and Works of Karol Szymanowski. Studies and Materials, PWM, Kraków 1960 Bronowicz-Chylińska Teresa, Karol Szymanowski, PWM, Kraków 1961 Lissa Zofia, Karol Szymanowski. Proceedings of a Scientific Conference on the Work of Karol Szymanowski, Uniwersytet Warszawski, Warszawa 1964 Maciejewski Bogusław M., Karol Szymanowski. His Life and Music, Poets’ and Painters’ Press, London 1967 Michałowski Kornel, Karol Szymanowski 1882-1937. Thematic Catalogue of Works and Bibliography, PWM, Kraków 1967 Chomiński Józef, Studies on the Works of Karol Szymanowski, PWM, Kraków 1969 Chylińska Teresa, The History of a Friendship. Karol Szymanowski’s Correspondence with Paweł and Zofia Kochański, PWM, Kraków 1971 Chylińska Teresa, Szymanowski and His Music, PZWS, Warszawa 1971 Chylińska Teresa, Karol Szymanowski’s Zakopane Days. 1894-1936, PWM, Kraków 1975 Chylińska Teresa, Between the Composer and the Publisher. Karol Szymanowski’s Correspondence with Universal Edition , PWM, Kraków 1978 Chylińska Teresa, Karol Szymanowski. Letters, Vol. 1: 1903-1919, PWM, Kraków 1982 Szymanowski Karol, Writings, Vol. 1. Writings on Music, PWM, Kraków 1984 Szymanowski Karol, Writings, Vol. 2 Literary Works, PWM, Kraków 1989 Komorowska Małgorzata, Szymanowski in the Theatre, Instytut Sztuki PAN, Warszawa 1992 Michałowski Kornel, Karol Szymanowski. Bibliography (1967-1991). Discography (1981-1991), Musica Iagellonica, Kraków 1993 Chylińska Teresa, Karol Szymanowski. Letters, Vol. 2: 1920-1926, PWM, Kraków 1994 Chylińska Teresa, Karol Szymanowski. Letters, Vol. 3: 1927-1931, Musica Iagellonica, Kraków 1997 Zieliński Tadeusz A., Szymanowski. Lyricism and Ecstasy, PWM, Kraków 1997",
+  "slug": "szymanowski-karol-en"
+}

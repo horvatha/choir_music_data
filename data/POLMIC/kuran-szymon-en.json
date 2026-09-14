@@ -1,0 +1,87 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/k/kuran-szymon-en",
+  "title": "Kuran Szymon",
+  "name": "Kuran Szymon",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "In the Light of Eternity , msza jazzowa (1975, 1991)",
+      "year": null
+    },
+    {
+      "title": "Sinfonia Concertante – D. Shostakovich in memoriam (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Nokturn na fortepian (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Pastorałki na głos żeński i smyczki (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Post Mortem na smyczki (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Elegia na smyczki (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Square na skrzypce, flet, klarnet i wiolonczelę (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Konfrontacja na skrzypce, zespół elektroniczny, taśmę i światła (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Jólabjöllur ( Dzwonki gwiazdkowe ), balet dziecięcy na orkiestrę kameralną (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Requiem na głos dziecięcy, skrzypce, flet, gitarę, trzy chóry (chłopięcy, żeński i męski), orkiestrę smyczkową i perkusję (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Draumadans ( Senny taniec ), utwór poetycki na fortepian, skrzypce, smyczki i recytatora do poezji własnej (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Um nóttina ( Nocą ) na skrzypce solo, chór żeński, smyczki (ewentualnie także na recytatora żeńskiego), do poezji Anny Kolfinny Kuran (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Lusus, Hymnus in Gabrielem Archangelum na chór chłopięcy i organy, do łacińskiego tekstu Andrea Navagero (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Powstanie Stwórcy na chór, smyczki, instrumenty perkusyjne i elektroniczne (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Ramona princessa , balet w 3 aktach na chór mieszany i orkiestrę symfoniczną, libretto: Anna Kolfinna Kuran i Inga Huld Hákonardóttir (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Veni Creator na solistów, chór i orkiestrę, tekst: Czesława Miłosza przetłumaczony na islandzki (2005)",
+      "year": "2005"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Podhajski Marek, Kuran Szymon, (w druku) Lewandowska-Kąkol Agnieszka, Szymon Kuran (1955-2005). Na pograniczu atonalności i swingu, \"Muzyka21\" 2007 nr 7/8, s.49-51",
+  "slug": "kuran-szymon-en"
+}

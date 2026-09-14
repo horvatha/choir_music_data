@@ -1,0 +1,79 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/b/banasik-marcin-filip-en",
+  "title": "Banasik Marcin Filip",
+  "name": "Banasik Marcin Filip",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Sonata na skrzypce solo (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Trzy umbry na fortepian solo (2000-2003)",
+      "year": "2000-2003"
+    },
+    {
+      "title": "Osiem pieśni do słów Haliny Poświatowskiej na mezzosopran i fortepian (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Trio na skrzypce, wiolonczelę i fortepian (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Symfonia nr 3 na wielką orkiestrę symfoniczną (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Koncert skrzypcowy (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Kwintet gitarowy na gitarę i kwartet smyczkowy (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Sceny operowe z opery L’étranger na podstawie powieści Obcy Alberta Camus do libretta kompozytora (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Koncert podwójny na gitarę, wiolonczelę i piętnaście instrumentów smyczkowych (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Three Candlesticks , tryptyk na trzy instrumenty solo (wiolonczela – Wisdom, skrzypce – Strength, altówka – Beauty) (2007-2008)",
+      "year": "2007-2008"
+    },
+    {
+      "title": "Kwartet smyczkowy nr 2 (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Head of The Corner na orkiestrę (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Il Quadrato na perkusję (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Pieśni do słów poetów polskich na głos męski i fortepian (2012)",
+      "year": "2012"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "banasik-marcin-filip-en"
+}

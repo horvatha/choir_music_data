@@ -1,0 +1,22 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/g/grubich-joachim-en",
+  "title": "Grubich Joachim",
+  "name": "Grubich Joachim",
+  "occupation": "performer",
+  "is_composer": false,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [],
+  "publications": null,
+  "bibliography": "Erhardt Ludwik, Grubich Joachim, PWM, Kraków 1987 Lampart Zbigniew, Organy w chmurach. Rozmowy z Joachimem Grubichem, PWM, Kraków 2002",
+  "slug": "grubich-joachim-en"
+}

@@ -1,0 +1,191 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/m/maklakiewicz-jan-adam-en",
+  "title": "Maklakiewicz Jan Adam",
+  "name": "Maklakiewicz Jan Adam",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": "composer, music tutor, choirmaster, organist and music journalist; b. 24th November 1899, Chojnata near Skierniewice; d. 7th February 1954, Warsaw. Brother of Franciszek and Tadeusz Wojciech Maklakiewicz. His first music teacher was his father – Jan Maklakiewicz. In 1919-22 he studied in the Higher School of Music in Warsaw: violin with Leopold Binental, harmony with Michał Biernacki and counterpoint with Felicjan Szopski. In 1921-25 he studied composition at Warsaw Conservatory with Roman Statkowski. He developed his abilities as a composer in 1926-27 with Paul Dukas in École Normale de Musique in Paris, simultaneously conducting a mixed choir in a Parisian Polonia club and actively working in the Association of Young Polish Musicians. In 1927-29 he taught theory and conducted a choir in the Helena Kijeńska-Dobkiewicz Conservatory in Łódź, and in 1928-32 he was professor of harmony in Warsaw Conservatory. In 1932-35 he was an organist and choirmaster in St Cross Church in Warsaw; in that period, his choir became one of the best church choirs in Poland. In the 1930s he also conducted the “Torch” Choir of the Municipal Gasworks Trade Union, choir and orchestra of the arms factory in Bem Fortress, Choir of Young Traders and the “Lyre” Choir of the Academic Music Circle at Warsaw University. Jan Adam Maklakiewicz was also very active as a journalist and editor. In 1930-37 he acted as a regular music correspondent for the “Morning Courier”. In 1934, he founded the “Choir” monthly dedicated to choral music, the work of vocal ensembles and amateur orchestras. In 1926-39 he also collaborated with the Polish Theatre in Warsaw, and after the war – with the Juliusz Słowacki Theatre and the Old Theatre in Cracow, and with the National Theatre, Kameralny Theatre and Syrena Theatre in Warsaw. From 1937, he also worked for the Polish Radio. During the World War II he worked as a pianist in “Café Club” in Warsaw, and then in the “Znachor” Cafe run by the well known actor-director Emil Chaberski, which was a meeting place for the Polish underground resistance fighters. From 1941 till the end of the war he was hiding in his native Chojnata, privately teaching harmony and piano. From 1945 till 1947, he was director of the State Philharmonic in Cracow, and in 1947-48 – director of Warsaw Philharmonic, whose activity he managed to revive by organising its symphony orchestra and choir. In 1948-50, he taught harmony in the State Secondary School of Music in Warsaw; from 1949, he was professor of the State Higher School of Music in Warsaw, where he taught composition, instrumentation and counterpoint, also acting (in 1950-51) as dean of the Dept. of Composition, Conducting and Music Theory. His students included: Jerzy Tyszkowski, Antoni Szaliński, Miłosz Magin, and Benedykt Konowalski. Jan Adam Maklakiewicz was active in many music societies and organisations. From 1928 he was a member of the Polish Composers’ Association, in 1932-35: secretary general, then – vice-president of this association. From 1928, he was also a member of the International Society for Contemporary Music, Polish Section, in which he held the functions of treasurer, secretary, and vice-president. From 1930, he was also a member of the Association of Music Writers and Critics, for which he acted as treasurer. In 1947-51 he was a member of the board in the Polish Composers’ Union. In 1947, he received the music award of the City of Cracow. Posthumously, he was awarded the Officer’s Cross of the Polonia Restituta Order.",
+  "birth": {
+    "place": "Chojnata near Skierniewice",
+    "date": "24th November 1899",
+    "raw": "b. 24th November 1899, Chojnata near Skierniewice"
+  },
+  "death": {
+    "place": "Warsaw",
+    "date": "7th February 1954",
+    "raw": "d. 7th February 1954, Warsaw"
+  },
+  "works": [
+    {
+      "title": "Symphonic Variations (1922)",
+      "year": "1922"
+    },
+    {
+      "title": "Hutsul Symphony for violin and piano (1927)",
+      "year": "1927"
+    },
+    {
+      "title": "Romance for flute and piano (1927)",
+      "year": "1927"
+    },
+    {
+      "title": "Triptych for cello and piano (1927)",
+      "year": "1927"
+    },
+    {
+      "title": "Symphony No. 2 “Holy God” for solo baritone, choir and orchestra (1927)",
+      "year": "1927"
+    },
+    {
+      "title": "At Dusk for 2 mezzo-sopranos, flute, viola and harp (1927)",
+      "year": "1927"
+    },
+    {
+      "title": "Prelude pour orgue (1927)",
+      "year": "1927"
+    },
+    {
+      "title": "Song of the Mayor’s Daughter for voice and piano (1928)",
+      "year": "1928"
+    },
+    {
+      "title": "Reflexions for violin and piano (1928)",
+      "year": "1928"
+    },
+    {
+      "title": "Du bist wie eine Blume for voice and piano (1928)",
+      "year": "1928"
+    },
+    {
+      "title": "Concerto for Cello and Orchestra on Gregorian themes (1929)",
+      "year": "1929"
+    },
+    {
+      "title": "Negers Heimweh for violin and piano (1929)",
+      "year": "1929"
+    },
+    {
+      "title": "Concertino quasi una fantasia for piano, mezzo-soprano and orchestra (1929)",
+      "year": "1929"
+    },
+    {
+      "title": "Five Folk Songs for mixed choir (1929)",
+      "year": "1929"
+    },
+    {
+      "title": "Geese Were Flying melody for mixed choir (1929)",
+      "year": "1929"
+    },
+    {
+      "title": "Violin Concerto No. 1 (1930)",
+      "year": "1930"
+    },
+    {
+      "title": "Four Japanese Songs for soprano and orchestra (1930)",
+      "year": "1930"
+    },
+    {
+      "title": "Song of the Daily Bread for mixed choir and orchestra (1931)",
+      "year": "1931"
+    },
+    {
+      "title": "Symphonic Tango for orchestra (1931)",
+      "year": "1931"
+    },
+    {
+      "title": "Shiwohumi a ballet (1934)",
+      "year": "1934"
+    },
+    {
+      "title": "The Last Drum Rolls symphonic poem for the death of Józef Piłsudski (1935)",
+      "year": "1935"
+    },
+    {
+      "title": "Three Strings for men’s choir (1935)",
+      "year": "1935"
+    },
+    {
+      "title": "Warsaw Tradeswoman for orchestra (1937)",
+      "year": "1937"
+    },
+    {
+      "title": "Cagliostro in Warsaw a ballet (1938)",
+      "year": "1938"
+    },
+    {
+      "title": "Concert Overture (1939)",
+      "year": "1939"
+    },
+    {
+      "title": "Tannenberg symphonic poem (1939-44)",
+      "year": "1939-44"
+    },
+    {
+      "title": "Polish Mass for mixed choir, soprano or tenor and organ (1944)",
+      "year": "1944"
+    },
+    {
+      "title": "Four Songs for high-pitched voice with orchestra (1946)",
+      "year": "1946"
+    },
+    {
+      "title": "Lullaby [1st version] for men’s choir (1946)",
+      "year": "1946"
+    },
+    {
+      "title": "Lullaby [2nd version] for mixed choir (1946)",
+      "year": "1946"
+    },
+    {
+      "title": "Lullaby [3rd version] for voice and piano (1946)",
+      "year": "1946"
+    },
+    {
+      "title": "Prague Overture for orchestra (1947)",
+      "year": "1947"
+    },
+    {
+      "title": "Madonnas 5 songs for soprano and orchestra (1947)",
+      "year": "1947"
+    },
+    {
+      "title": "Silesia Works and Sings folk suite for tenor, men’s, women’s and mixed choirs with symphony orchestra or piano (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "Łowicz Suite for soprano, mixed choir and orchestra (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "Zabrze [1st version] cantata for men’s or mixed choir and symphony orchestra (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "Zabrze [2nd version] cantata for men’s choir (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "Zabrze [3rd version] cantata for mixed choir (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "Golden Duck a ballet (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "Suite of Łowicz Dances for orchestra (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "Violin Concerto No. 2 “Highlander” (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Sea Triptych for men’s choir and orchestra (1953)",
+      "year": "1953"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Demska Mieczysława, Maklakiewicz Jan Adam, In: Encyklopedia Muzyczna PWM (część biograficzna pod red. Elżbiety Dziębowskiej) [PWM Music Encyclopaedia, biographical part ed. by Elżbieta Dziębowska], vol. “M”, PWM, Kraków 2000",
+  "slug": "maklakiewicz-jan-adam-en"
+}

@@ -1,0 +1,22 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/k/kochanski-pawel-en",
+  "title": "Kochański Paweł",
+  "name": "Kochański Paweł",
+  "occupation": "performer",
+  "is_composer": false,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [],
+  "publications": null,
+  "bibliography": "Chylińska Teresa, Dzieje przyjaźni. Korespondencja Karola Szymanowskiego z Pawłem i Zofią Kochańskimi, PWM, Kraków 1971 Chylińska Teresa, Kochański Paweł, PWM, Kraków 1997",
+  "slug": "kochanski-pawel-en"
+}

@@ -1,0 +1,187 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/b/burzynska-nikolet-en",
+  "title": "Burzyńska Nikolet",
+  "name": "Burzyńska Nikolet",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "composer; b. 29th July 1989 in Katowice. In 2008 she graduated from Karol Szymanowski Music High School in Katowice from the violin class. At present she is a student of Marcin Błażewicz and Stanisław Moryto at the composition department of Frederic Chopin University of Music in Warsaw. Between 2011 and 2012 she participated in the “Erasmus” program, during which she studied at Conservatoire de Strasbourg in France with Mark André. She attended many workshops and seminars held by Louis Andriessen, Martijn Padding, Richard Ayres, Tadeusz Wielecki, Joe Cutler, Gerda van Zelm, Jung Hee Choi, Alfred Spirli. Despite young age, she has already written many compositions, including pieces for solo instruments, chamber ensembles, chamber and symphonic orchestras, electronic and electroacoustic works, as well as soundtracks to visual art and modern dance. She was awarded in numerous competitions: 1st prize in National Composition Competition „Patria Patriae” 2006 in Katowice for the piece Sententiae for violin and chamber orchestra, 3 rd prize in National Composition Competition UFM 2007 in Warsaw for SynTonSynBeet for chamber orchestra, 1 st prize in 31 st National Artistic Olympiad - music section in 2007, 3 rd prize in National Composition Competition UFM 2008 in Warsaw for Oscillation for chamber orchestra, distinction award in TV program ‘Creative Valley’ (2009), 1 st prize in National Composition Competition “Patria Patriae” 2010 in Katowice for the piece Flamma for female choir and symphony orchestra (2010), 3 rd prize in Composition Competition for 90 th anniversary of Silesian Uprising for the work Silesian Pyromagma for mixed choir and symphony orchestra (2011), special prize for musical installation Everything is alright presented during Workshops for Composers and Animators in Poznań (2011), distinction award in Hilary Hahn Encore Contest for work Ornamention for violin and piano (2012), distinction award in 6 th International Composition Competition (2013) for the piece Lux Aeterna for soprano and organ. She was one of the final stage participants of the Tadeusz Baird Competition for Young Composers in 2010 and the competition organized during Young Composers Meeting in the Netherlands in 2011. Moreover, her piece Flectro for flute and live electronics (2013), composed for the competition of the American-Australian record label „Ablaze Records”, was appointed as one of the works which are to be published at „Electronic Masters. Volume 2” record. Nikolet Burzyńska was commissioned to write compositions for Hilary Hahn, Catherine Bolzinger and „Voix de Strass”, Children’s Art Centre in Poznań. She is the recipient of the Marshal of Silesian Province Scholarship and the Prime Minister Scholarship. Her works have been performed at „Young Composers Meeting” in the Netherlands,„Druskomanija” festival in Lithuania, “La semaine du son” in France”, „18 th Biennale of art for children” in Poznań and has been played by musicians such as Orkest de ereprijs conducted by Rob Vermeulen, New Music Orchestra directed by Aleksander Lasoń, Choir and Orchestra of Silesian Philharmonic conducted by Massimiliano Caldi, UFM Festival Orchestra directed by Michał Niżyński, „Voix de Strass” conducted by Catherine Bolzinger, “Kwadrofonik” ensemble and Lietuvos Oboju Kvintetas. In 2010 she became a member of Polish Composers’ Union Youth Circle and in 2012 was appointed as its board member. Since 2011 she also has been a member of composers’ society „L'état latent”. Composer's website : http://www.myspace.com/nikoletburzynska",
+  "birth": {
+    "place": "Katowice",
+    "date": "29th July 1989",
+    "raw": "b. 29th July 1989 in Katowice"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Charykterie for trumpet and piano",
+      "year": null
+    },
+    {
+      "title": "Sententiae for violin and orchestra (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "SynTonSynBeet for chamber orchestra (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Oscillation for chamber orchestra (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Rhythm of the Brass for orchestra (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Auguries of Innocence for voice and percussion (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Ego sum qui est for 2 choirs a capella (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Revue for 19 musicians (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Alaja for symphony orchestra (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Inflatio for violin solo (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Plasma for percussion and electronics (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Arrhythmia for piano and 2 percussions (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Spheres for symphony orchestra (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Flamma for female choir and orchestra (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Makro…micropsy for accordion (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Imaginary forest for flute and percussion (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Ultima Thule for violin and chamber ensemble (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Coincidences for large string orchestra (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Cold burningout for percussion and electronics (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Timbre of mermaids for 3 female voices and chamber orchestra (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Sielsian Pyromagma for mixed choir and symphony orchestra (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Spinning for wind quintet (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "WIR for string orchestra (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Mindtrap for chamber orchestra (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Mirage passage for violin and orchestra (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Curved mirror for violin and live electronics (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Coopoints for wind quartet and 2 percussions (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Transe- C - danse for soprano, saxophone, cello, didgeridoo, tuba and 2 percussions (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "ASC for 4 percussions (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Orna-mention for violin and piano (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Duende for piano and percussion – music to modern dance (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "The – end – soundtrack to animated etude (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "5 electronic etudes to modern dance (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Induction of electric timbres of polarized universe of granulation and metallicity for orchestra (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Ferailles soundtrack to animated etude (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "The one who to – electronic piece (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Friction of the wind for orchestra (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Flectro for flute and live electronics (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "La feminite for 4 sopranos (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Kango for violin solo (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Vision – electronic piece to visual arts (2013)",
+      "year": "2013"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "burzynska-nikolet-en"
+}

@@ -1,0 +1,22 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/l-1/lukomska-halina-en",
+  "title": "Łukomska Halina",
+  "name": "Łukomska Halina",
+  "occupation": "performer",
+  "is_composer": false,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [],
+  "publications": null,
+  "bibliography": "Pawlicki Zbigniew, Łukomska Halina, PWM, Kraków 1997",
+  "slug": "lukomska-halina-en"
+}

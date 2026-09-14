@@ -1,0 +1,243 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/b/berger-roman-en",
+  "title": "Berger Roman",
+  "name": "Berger Roman",
+  "occupation": "composer, musicologist",
+  "is_composer": true,
+  "description": "Polish composer, pianist and theoretician of music, b. 9 August 1930 in Cieszyn; d. 22 December 2020 in Bratislava. From 1949 he studied theory with Jan Gawlas and piano with Marta Gabryś-Furmanik at the State Higher School of Music in Katowice. In 1952 Stalinist repression forced him to move to Bratislava with his family. He continued his education at the Vysoka Škola Muzickich Umeni, where he studied piano with Frico Kafenda, and, after the latter's death, with Štefan Németh-Šamorinski (degree in 1956), as well as composition with Dezider Kardoš (honours degree in 1965). He has received a number of prizes for his compositions, including: in 1967 - the Prize of Czechoslovak Critics for Transformations for large orchestra (1964-65) and the Prize of the Jan Levoslav Bella Slovak Music Fund; in 1974 - an honorable mention in the International Competition for Electroacoustic Music in Bourges for Epitaph for Nicolaus Copernicus for tape (1972-73), in 1980 - 1st prize in the Competition for the Award of the Town Piešt’any for De profundis for bass voice, piano, cello and live electronics (1980), and in 1990 - a diploma of the Czech and Slovak critics for Adagio No. 2 \"Repentance\" for violin and piano (1988-89). From 1956 he worked as a piano professor at the Conservatory in Bratislava. In 1967 he began his work for the Slovak Television in Bratislava. He also started lecturing at his alma mater: in 1965-71 he taught classes in modern music, introduction to composition and electronic music at the Department of Theory. In 1980-91 he worked at the Art History Institute of the Slovak Academy of Sciences. From 1984, together with the mathematician Beloslav Riečan, he conducted in the Institute inofficial seminars entitled Music and Mathematics on the application of mathematics in music. From 1989 he was a member of the team preparing a new conception of artistic education at the Ministry of Education as well as a member of an Advisory Body to the Minister of Culture (until March 1991). He was also involved in the activity of the Union of Slovak Composers, of which he was secretary from 1966. Expelled from the Union in 1968 for his participation in the \"Prague Spring\", he regained his membership only in 1977, but twelve years later - in 1989 - he resigned it himself. With Mark Kopelent and Alois Piňos, he reactivated the Czechoslovak Section of the ISCM/SIMC. He has also been associated with the Czech section of the Club of Rome and with the \"Atelier\" group. Roman Berger has written several hundred theoretical works, philosophical essays and other publications. A selection of his writings from the period 1977-87 was published as Hudba a pravda [ Music and Truth ] (European Culture Club, the \"Pro Slovakia\" Foundation, Bratislava 1997), and texts from 1990-1999 - in Dráma hudby. Prolegomena k politickej muzikológii [ The drama of music. Prolegomena to political musicology ] (Hudobné centrum, Bratislava 2000). In 1988 the Vienna University honored him with the J.G. v. Herder Prize for all his achievements in composition and theory. In 1999, the General Assembly of the Polish Composers' Union granted Berger an honorary membership.",
+  "birth": {
+    "place": "Cieszyn",
+    "date": "9 August 1930",
+    "raw": "b. 9 August 1930 in Cieszyn"
+  },
+  "death": {
+    "place": "Bratislava",
+    "date": "22 December 2020",
+    "raw": "d. 22 December 2020 in Bratislava"
+  },
+  "works": [
+    {
+      "title": "Fantasia quasi una sonata for piano (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "Inventions for piano: I. Five Very Short Pieces (1959)",
+      "year": "1959"
+    },
+    {
+      "title": "Sonata “1960” for piano (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Romance for violin and piano (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Inventions for piano: II. Five Piano Studies (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Suite for piano (1961)",
+      "year": "1961"
+    },
+    {
+      "title": "Inventions for piano: III. Little Suite (1961)",
+      "year": "1961"
+    },
+    {
+      "title": "In the Silence So Dearly Redeemed for mixed choir (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Lullaby for mezzo-soprano and chamber orchestra (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Trio for flute, clarinet and bassoon (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Suite in the Old Style for strings, percussion and keyboard instruments (1963, 1978)",
+      "year": null
+    },
+    {
+      "title": "Transformations for large orchestra (1964-65)",
+      "year": "1964-65"
+    },
+    {
+      "title": "Black and Red for mixed choir, reciting voice, percussion instruments and live electronics (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Elegy in memoriam Ján Rúčka electroacoustic music for tape (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Convergencies I for violin (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Convergencies II “Bach Meditations” for viola (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Sonata (No. 3) “da camera” in memoriam F. Kafenda for piano (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Epitaph for Mikuláš Kopernik electroacoustic music for tape (1972-73)",
+      "year": "1972-73"
+    },
+    {
+      "title": "Memento. After the Death of Miroslav Filip for large orchestra (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Litany to Trees a triptych for male choir (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Convergencies III for cello (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Oscillations for violin and percussion (1976-77)",
+      "year": "1976-77"
+    },
+    {
+      "title": "Sonata per organo (1976-77)",
+      "year": "1976-77"
+    },
+    {
+      "title": "En passant electroacoustic music for tape (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "De profundis for bass voice, piano and cello + live electronics (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Exodus I – Musica profana. Dies irae for organ (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Exodus II – Labirynth. B-A-C-H. M. Kabeláč’s theme for organ (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Exodus IV – Finale “A Stronghold Firm” for organ (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Sonata with a Motif by Karol Szymanowski for violin and piano (1982-83)",
+      "year": "1982-83"
+    },
+    {
+      "title": "Adagio for Ján Branny for violin and piano (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Adagio II “Repentance” for violin and piano (1988-89)",
+      "year": "1988-89"
+    },
+    {
+      "title": "Soft - November Music for piano (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Wiegenlied for alto and piano (1991-92)",
+      "year": "1991-92"
+    },
+    {
+      "title": "Torso 2 recitatives and 2 arias for alto and piano (1991-92)",
+      "year": "1991-92"
+    },
+    {
+      "title": "Transgressus I electroacoustic music for tape (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Exodus III a psalm for organ (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Requiem da Camera – with a theme by Witold Lutosławski for violin, cello and piano (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Korczak in memoriam for mezzo-soprano, viola, cello, flute, organ, kettledrums and string quartet (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "KORCZAK in memoriam - FRAGMENTY for string quartet (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "S emplice for piano (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Piosenki z Zaolzia for string quartet (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Post Scriptum for string orchestra (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Monolog dla Kasandry for mezzosoprano and piano (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Musica pro defunctis for orchestra (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Pathétique for cello and piano (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Improvisation sur Herbert for mezzo-soprano, choir and orchestra (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Allegro frenetico con reminiscenza for cello (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "ARC / Obłuk for piano (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Missa pro nobis for mezzo-soprano, reciter, choir, symphony orchestra and CD (2007-10)",
+      "year": "2007-10"
+    },
+    {
+      "title": "Epilog. Omaggio a L. v. B. for clarinet, cello and piano (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Tenebrae for bass and chamber ensemble to text by Paul Celan (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Spevy Douvy , four songs to words by Y. Bonnefoy for mezzo-soprano and piano (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Nostalgia for violin and organ (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Impromptu for clarinet (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Dolcissimo for cello (2016)",
+      "year": "2016"
+    }
+  ],
+  "publications": "books Music and Truth, European Culture Club, „Pro Slovakia” Foundation, Bratislava 1997 The drama of music. Prolegomena to political musicology, Hudobné centrum, Bratislava 2000",
+  "bibliography": "Pociej Bohdan, Roman Berger. Między słowem, pojęciem a muzyką [Roman Berger. Between the Word, Notion and Music], In: Muzyka Źle obecna [Misrepresented Music] (ed. by Krystyna Tarnawska-Kaczorowska), Sekcja Muzykologów Związku Kompozytorów Polskich, Warszawa 1989 Stankiewicz Jerzy, Berger Roman, In: Encyklopedia Muzyczna PWM (część biograficzna pod red. Elżbiety Dziębowskiej) [The PWM Encyclopaedia of Music - biographical part, ed. by Elżbieta Dziębowska], PWM, Kraków 1998 Dziadek Magdalena, Berger Roman, In: Die Musik in Geschichte und Gegenwart (Hg. Ludwig Finscher), Personenteil - Band 2, Bärenreiter Kassel / Metzler, Basel - London - New York - Prag / Stuttgart - Weimar 1999 Elita w muzyce trąci pychą i legitymizuje różne wybryki – mówi kompozytor Roman Berger, „Muzyka21” 2004 nr 9, s. 20-27 Stankiewicz Jerzy, Roman Berger ,, w: Polish Music. Polish Composers 1918-2010 , ed. Marek Podhajski, Akademia Muzyczna im. Stanisława Moniuszki w Gdańsku, Katolicki Uniwersytet im. Jana Pawła II w Lublinie, Gdańsk-Lublin 2013 Lindstedt Iwona, Roman Berger ,, w: Sto lat muzycznej emigracji. Kompozytorzy polscy za granicą (1918-2018) według koncepcji Marleny Wieczorek , ed. Beata Bolesławska Lewandowska, Małgorzata Gamrat, Magdalena Nowicka-Ciecierska, Marlena Wieczorek, MEACULTURA, Gliwice 2018 Milewska Hanna, Roman Berger – muzyczne epitafia , \"Hi-Fi i Muzyka\" 2021 nr 7-8 (274)",
+  "slug": "berger-roman-en"
+}

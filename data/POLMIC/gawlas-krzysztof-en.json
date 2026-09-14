@@ -1,0 +1,215 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/g/gawlas-krzysztof-en",
+  "title": "Gawlas Krzysztof",
+  "name": "Gawlas Krzysztof",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": "composer, improviser, sound engineer and sound designer. Born in 1968 in Cieszyn, he obtained diploma in music education from the Cieszyn campus of the Silesian University, where he studied composition with Ryszard Gabryś and Aleksander Lasoń. In 2006 he obtained a PhD and in 2014 post-doctoral degree in composition and theory of music at the Academy of Music in Katowice. He has participated in a range of courses of computer music, e.g. workshops held by IRCAM in Kraków and Paris. He completed an artistic internship in the field of music directing at the The Chopin University of Music in Warsaw in 2012. In 2012 he received a honourable mention at the Musica Nova international electroacoustic music competition in Prague for Spherical Voices I . He presented his pieces at Audio Art festival in Kraków (2004, 2008), Primavera en la Habana (2010), Musica Electronica Nova in Wrocław (2006, 2009), Poznań Spring (2013), the International Computer Music Conference in Singapore (2003), and the Linux Audio Conference in Karlsruhe (2004). He has released five CDs: CM1 (2003), Music.play (2009), Jazz Bending (2010), Rite of the Earth (2012), and Colours (2012). Since 1997 he is a lecturer at the Silesian University. Hi is a professor at the Department of Composition and Theory of Music, The Faculty of Fine Arts and Music of Silesian University in Cieszyn. Updated: 2014 (ai), 2021 (Paulina Szurgacz)",
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Słowik i róża , series of musical works based on Oskara Wilde's tale for flute, electric guitar, accordion, piano and double bass with reciter (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Sebastian, wach auf! , electronic music (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "News , multimedia installation (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Glass Music for jMAX interactive music computer system (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Futura – Antiqua , electronic music with historical ensemble Agere Gratias Antiqua (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Beyond (the) Cage for electric sounds and piano (co-auth. W. Cienciała) (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Ikona for jMAX interactive music computer system (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Bassness version 1 for double bass and computer, and live electronics and live video by Paweł Krzywda (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Emx-8 for jMAX computer system (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Verstimmung for electric guitar and jMAX computer system (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Sonar 2 for organ solo (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Sonar 3 for live electronics (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Sonar 4 for piano and live electronics (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Sonar 5 for music ensemble (flute, oboe, string quartet, double bass, piano and two percussions) and live electronics (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Un Chien andalou , electronic music for ambisonics sound projection system (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Eko for violin and live electronics (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Struny w chmurach for piano and live electronics (ad lib.) (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Sonar 6 , electronic music, versions for WFS sound spatial projection systems and ambisonics (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Al Riff for chamber ensemble and live electronics (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Nokturn wg op. 48 nr 1 F. Chopina, version for piano and live eletronics and version for two MIDI pianos (Disklavier), computer and one pianist (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Spherical Voices I-II na ambisonics sound spatial projection system (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Jazz Bending: Free the Knobs, Gepetto, iPhone 7, Gil Ahead, Foots, Blooz, HX, Drone , series of musical works for jazz trio and live electronics (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Rite of the Earth , series of musical works for ambisonics sound spatial projection system (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Interferencje na kwintet fortepianowy i dźwięki elektroniczne ad libitum (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Gdy zapali się mój duch jak pochodnia for chamber ensemble, choir, actors and computer's part based on libretto by Bogusław Słupczyński (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Soundscape mit Cage und Joyce (und Markov ist auch dabei) musical piece for ambisonics sound spatial projection system (3rd order horizontal and 1st order vertical periphonics) (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Waves for violin, clarinet and electroacoustic layer (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Wspomnienia o Tristanie i Izoldzie for actor and electroacoustic layer (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Hō-ō for orchestra and electroacoustic layer (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Lux for choir, orchestra and electroacoustic layer (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Harmobuzz for live electronics (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Verstimmung II for ambisonics sound spatial projection system (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Sonar 7 for 2 pianos tuned at 1/4 tone (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Sonar 8 for 2 pianos tuned at 1/4 tone and live electronics layer (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "A Trip for ambisonics sound spatial projection system (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Ctl-shift-play for EWI and ambisonics sound spatial projection system (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Die Voegel von Pischelsdorf for ambisonics sound spatial projection system (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "In aqua scribere , sound installation, sound layer of Krzysztof Kula's graphic installation (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Elipsofon JJ , sound installation, multi-channel sound projection, sound layer of Grzegorz Banaszkiewicz's in situ graphic installation (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Transmission I for 2 pianos tuned at 1/4 tone, prepared electric guitar and live electronics (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Źródło, Kaplica Sykstyńska, Rozmowa ojca z synem, Epilog , four ballet scenes for the performance Tryptyk Rzymski to texts by Karol Wojtyła, directed by Andrzej Marczewski for Daxophone, sound objects and live electronics with multi-channel surround sound projection (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Melting Crystal for piano and live electronics (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "No Butterflies for modular synthesizer and computer (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Anagram: lamentoso, almeno sto, al mosto n'è, molestano, olmo sante, Amleto son, al mo steno, male stonò, al mo notes, mante sonò, e smaltono , series for sound objects, saxophone and computer electroacoustic tools (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Interpolations for piano for 4 hands (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Abstract Objects 2 for violin, modular synthesizer and computer sound projection (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Abstract Objects 3-5 for modular synthesizer and computer sound projection (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Approaching for 2 pianos, 2 percussions and electroacoustic layer (2020)",
+      "year": "2020"
+    }
+  ],
+  "publications": "books Konstrukcje i przekształcenia częstotliwościowe barw harmonicznych w utworze Interferencje na kwintet fortepianowy i dźwięki elektroniczne ad libitum , Uniwersytet Śląski, Oficyna Drukarsko-Wydawnicza Akant, Katowice 2013",
+  "bibliography": null,
+  "slug": "gawlas-krzysztof-en"
+}

@@ -1,0 +1,27 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/c/chelmecki-jaroslaw-en",
+  "title": "Chełmecki Jarosław",
+  "name": "Chełmecki Jarosław",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Madrygał I na mezzosoprano solo (2005) Madrygał II na chór mieszany (2007) Concerto na kwartet smyczkowy i orkiestrę smyczkową (2007) Madrygał III na chór mieszany Ego sum Lux na chór mieszany Magnificat na sopran solo, chór męski, 4 harfy, flet barokowy, waltornię, altówkę i wiolonczelę (2010)",
+      "year": "2010"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "chelmecki-jaroslaw-en"
+}

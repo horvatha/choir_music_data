@@ -1,0 +1,91 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/j/jakajtis-ludwik-en",
+  "title": "Jakajtis Ludwik",
+  "name": "Jakajtis Ludwik",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": "composer and conductor; b. 7th September 1904 in Kaunas [now Lithuania]; d. 15th January 1987 in Szczecin. From 1922 he studied composition with Tadeusz Szeligowski at the Music Conservatory in Vilnius, obtaining a diploma in 1936. As a student, from 1934 he worked in the Polish Radio; he played in the orchestra and composed music for radio plays. As a violist, he also collaborated with the \"Lutnia\" theatre, for which he orchestrated operettas. During World War II, he gave music lessons and was involved in copying musical works. After the liberation, he settled in Gorzów Wielkopolski, where he worked as a music teacher and led a mandolin orchestra operating at Synthetic Fiber Factory. In 1953 he moved to Szczecin. In 1953-70 he collaborated with the local State Philharmonic as a musician in the symphony orchestra – violinist (violist). In 1950-55 he was a member (candidate) of the Polish Composers' Union. In 1961 he was awarded the Golden Badge of the \"Pomeranian Griffin\". updated: 2020 (ac) SELECTED LITERATURE Iwanicka-Nijakowska Anna, Jakajtis Ludwik in: Kompozytorzy polscy 1918-2000, t. II Biogramy (ed. Marek Podhajski), Akademia Muzyczna im. Fryderyka Chopina w Warszawie / Akademia Muzyczna im. Stanisława Moniuszki w Gdańsku, Warszawa / Gdańsk 2005. [materials form the Polish Composer's Union Archive]",
+  "birth": {
+    "place": "Kaunas [now Lithuania]",
+    "date": "7th September 1904",
+    "raw": "b. 7th September 1904 in Kaunas [now Lithuania]"
+  },
+  "death": {
+    "place": "Szczecin",
+    "date": "15th January 1987",
+    "raw": "d. 15th January 1987 in Szczecin"
+  },
+  "works": [
+    {
+      "title": "Canons – Fugues in 2 and 3 voices for piano and wind instruments (1936)",
+      "year": "1936"
+    },
+    {
+      "title": "Fugue in G major for salon orchestra (1937)",
+      "year": "1937"
+    },
+    {
+      "title": "Waltz for jazz orchestra (1937)",
+      "year": "1937"
+    },
+    {
+      "title": "Belarusian folk melodies for orchestra (1937)",
+      "year": "1937"
+    },
+    {
+      "title": "Król i paź, a song for soprano and piano to the words by Hanka Ordonówna (1938)",
+      "year": "1938"
+    },
+    {
+      "title": "Mansarda , a song for baritone and piano (1938)",
+      "year": "1938"
+    },
+    {
+      "title": "Fugue in G minor for wind quartet (1938)",
+      "year": "1938"
+    },
+    {
+      "title": "Triptych for string orchestra or string quartet (1938)",
+      "year": "1938"
+    },
+    {
+      "title": "Folk Melodies for mixed and equal voices choirs (1939)",
+      "year": "1939"
+    },
+    {
+      "title": "Two folk polkas for violin, accordion, clarinet, trumpet, double bass and guitar (1940)",
+      "year": "1940"
+    },
+    {
+      "title": "Belarusian folk melodies for wind quintet (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "Little suite of Polish folk dances and songs for orchestra and mixed choir (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "Krakowiak for wind quintet (1952-53)",
+      "year": "1952-53"
+    },
+    {
+      "title": "Mazur for wind quintet (1952-53)",
+      "year": "1952-53"
+    },
+    {
+      "title": "Nowy czas , a song for mixed choir (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Mazur's theme for small symphony orchestra (1953-54)",
+      "year": "1953-54"
+    },
+    {
+      "title": "Variations for violin and small symphony orchestra (1954)",
+      "year": "1954"
+    }
+  ],
+  "publications": null,
+  "bibliography": "[materiały Archiwum Związku Kompozytorów Polskich], Iwanicka-Nijakowska Anna, Jakajtis Ludwik, Akademia Muzyczna im. Fryderyka Chopina w Warszawie / Akademia Muzyczna im. Stanisława Moniuszki w Gdańsku, Warszawa / Gdańsk 2005",
+  "slug": "jakajtis-ludwik-en"
+}

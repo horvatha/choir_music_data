@@ -1,0 +1,87 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/z/zielinski-marcin-en",
+  "title": "Zieliński Marcin",
+  "name": "Zieliński Marcin",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": "Normal 0 21 composer and bassoon player; b. 13 th May 1983 in Konin. He is a graduate of Secondary Music School in Konin and of Academy of Music in Poznań, where he studied bassoon with Krzysztof Zabłocki (diploma in 2008) and composition with Lidia Zielińska (diploma in 2011). He also completed Post-Diploma Non-Degree Studies in the Field of Film Music, Computer Music and Audiovisual Work at the Academy of Music in Łódź, as well as Post-Graduate Studies at the Leon Schiller Łódź Film School. He participated in the Acanthes 2010 - masterclasses organized by IRCAM in Metz, which resulted in obtaining a certificate in computer music (OpenMusic, Max/MSP). He has also taken part in workshops held by Beate Furrer, Tristan Murail, Michael Patterson, Phill Niblock, Zygmunt Krauze, Krzysztof Knittel, Marek Chołoniewski, Włodzimierz Pawlik and Krzesimir Dębski. He won the 2 nd prize (1 st prize not granted) at the 50 th Tadeusz Baird Young Composers’ Competition for the piece FUCI (2008). He was one of the laureates of the National Contest of Contemporary Music Knowledge in Szczecin. He was a grant holder of Adam Mickiewicz Institute’s program “ Polish Culture Around the World” (2010). He has collaborated with Tadeusz Szeligowski Philharmonic in Poznań, Mieczysław Karłowicz Philharmonic in Szczecin and Kalisz Philharmonic. As a bassoon player, he performed with the orchestra ‘Sinfonietta Polonia’, for example at the International Karol Szymanowski Festival in Beijing. He is a member of an ARCHE NewMusicEnsemble, which performed many new pieces of contemporary music. He collaborated with the students of the Fine Arts Academy in Poznań (project with live electronics ). As a composer and performer, he participated in the series of concerts ‘Music with electricity’ which were organized by Lidia Zielińska and Electronic Music Studio in Poznań. He composed the soundtrack to two etudes made by students of the National Film School in Łódź – Aorta by Bartłomiej Żmuda and The light machine by Kamil Jaworek. Both films were presented at the International Electronic Music Festival in Rome (2011).",
+  "birth": {
+    "place": "Konin",
+    "date": "13th May 1983",
+    "raw": "b. 13 th May 1983 in Konin"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Normal 0 21 Fuccatabile for flute and piano (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Normal 0 21 Monolog na szczycie (Monologue at the peak) for soprano, flute, clarinet, guitar, harpsichord and vibraphone to the texts by Adriana Szymańska (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Normal 0 21 Odlot (Departure) for alto, cello and accordion to the text by Krystyna Rodowska (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Normal 0 21 Khanaa ta for harp (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Normal 0 21 Vla-Ma-Da for bassoon and live electronics (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Normal 0 21 Tahina for tape (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Normal 0 21 Normal 0 21 FUCI for bassoon and chamber ensemble (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Normal 0 21 Gelede for piano and percussion (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Normal 0 21 ERIS for soprano saxophone, harpsichord and electronics (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Normal 0 21 Znak (Sign) for bassoon and live electronics (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Normal 0 21 Trizna for symphony orchestra (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Normal 0 21 Romorru for bassoon, double bass and electronics (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Normal 0 21 Soundtrack to Wehikuł światła (The light machine) (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Normal 0 21 Mokosz for symphony orchestra (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Salve Regina na chór żeński (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "K'ien szang , 6 pieśni na sopran i fortepian do tekstów z Księgi Pieśni Konfucjusza (2014)",
+      "year": "2014"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "zielinski-marcin-en"
+}

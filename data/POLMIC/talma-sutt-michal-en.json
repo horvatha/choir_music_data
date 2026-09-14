@@ -1,0 +1,147 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/t/talma-sutt-michal-en",
+  "title": "Talma-Sutt Michał",
+  "name": "Talma-Sutt Michał",
+  "occupation": "promoter, composer",
+  "is_composer": true,
+  "description": "composer, b. 16th August 1969 in Łódź. He studied composition under Jerzy Bauer at the Academy of Music in Łódź (1989-95). In 1995 he completed a one-year course in music composition and computer music at the IRCAM in Paris. It was in Paris that he created his original multimedia project Voyage Amer (together with the French set designer Alain Galet). In 1995-2001 he received a scholarship from the Witold Lutosławski Foundation. The performance (in 1997) of Avalon’s Gates for flute and computer (written in the same year) was his debut at the “Warsaw Autumn” Festival. In 1998-2001 he continued his composition studies with Ulrich Süße at the Hochschule für Musik und Darstellende Kunst in Stuttgart. In 1999-2000 he attended a course on object modelling synthesis at the Centre for Art and Media (ZKM) in Karlsruhe, where in 2000, together with the video artist Berthold Gantner, he presented a multimedia project for tape entitled L’Ange Noire – 4 Skizzen (2000). Michał Talma-Sutt was twice awarded at the International Rostrum of Electroacoustic Music: in 1998 in Vienna he received the 1st prize in the category of composers under 30 and 2nd prize in the general category for What Nostradamus Has Kept Only for Himself for tape (1995); in 2000 in Madrid – the 1st prize in the general category for Light and Shade for tape (2000). His music has frequently been performed in Poland, as well as at festivals and concerts in Germany, Austria, France, Great Britain, Spain, Denmark, Romania, South Africa and Latvia. In 2007 Michał Talma-Sutt was the artistic director of the International Festival “Musica Electronica Nova” in Wrocław. The composer has resided in Berlin since 2001. Updated: March 2014 (iz) The Composer’s official website: www.michal-talma-sutt.de",
+  "birth": {
+    "place": "Łódź",
+    "date": "16th August 1969",
+    "raw": "b. 16th August 1969 in Łódź"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Piano Sonata No. 1 (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Piano Sonata No. 2 (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Six Preludes for piano (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Six Structural Preludes for piano (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Schizophreniata for clarinet and piano (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Piano Trio (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Octet for wind instruments (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Darkness for amplified harpsichord and tape (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Double-Progress for 15 instruments (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Symphony for string orchestra (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Shadows for tape (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Music from “Ulysses” by James Joyce for mezzo-soprano, piano and four percussionists (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Circulations for piano and orchestra (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "What Nostradamus Has Kept Only for Himself for tape (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Sphinx’s Games for solo flute (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Voyage Amer – a multimedia project (1996-97)",
+      "year": "1996-97"
+    },
+    {
+      "title": "Avalon’s Gates for flute and computer (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Light and Shade for 2-channel sound projection (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "L’Ange Noire – 4 Skizzen – a multimedia project (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Lost Whales – a sound installation (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Soundscape One [1st version] for 4-channel sound projection (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Rituale Balenae for 4-channel sound projection (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Cellotronicum for cello and computer (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Soundscape One [2nd audiovisual version] – a multimedia project (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Notturni di sogni for flute, recorder and computer (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Strings‘0’tronic for 21 string instruments and computer (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Vox Moduli for soprano and computer (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Prisma for contrabass recorder and computer (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Soundscape Two for 6-channel sound projection (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Cellotronicum II for cello and computer (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "DUO for two instrumental groups and sound projection (2013)",
+      "year": "2013"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Bęben Aleksandra, Talma-Sutt Michał, in: Łódzkie środowisko kompozytorskie 1945-2000, Akademia Muzyczna w Łodzi, Łódź 2001",
+  "slug": "talma-sutt-michal-en"
+}

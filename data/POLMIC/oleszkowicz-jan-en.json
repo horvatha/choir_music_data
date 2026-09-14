@@ -1,0 +1,355 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/o/oleszkowicz-jan-en",
+  "title": "Oleszkowicz Jan",
+  "name": "Oleszkowicz Jan",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "composer and music teacher, b. 30th September 1947 in Jelenia Góra. Having completed violin, piano and clarinet classes in the State Secondary Music School in Wrocław, he studied composition with Grażyna Bacewicz and Andrzej Dobrowolski in the State Higher School of Music in Warsaw (1966-71; an honours degree). In 1977-80 he continued his studies in the Conservatoire National Supérieur de Musique in Paris with Olivier Messiaen and Ivo Malec and in Guy Reibel’s class of electroacoustic music. In 1978 he took part in master classes for composers taught by Iannis Xenakis in Aix-en-Provence in France. In 1981, he received training in computer music composition in IRCAM (Institut de Recherche et de Coordination Acoustique/Musique) in Paris. Oleszkowicz has won numerous competitions for composers, incl. the Young Composers’ Competition of the Polish Composers’ Union - in 1972, 2nd prize for Concerto grosso for pop-rock group and symphony orchestra (1972); in 1984, award for his Thirteen Minutes of Fossilising for woodwind quintet (1984); in 1986, award for String Quartet No. 3 (1986); the 2nd International Kazimierz Serocki Competition for Composers (1987) – ZAiKS Authors’ Association Award and Zofia Serocka’s Award for Embryo for symphony orchestra (1986); Electro-acoustic Music Competition in Bourges (1990) – an honorable mention for Scontra for violin and tape (1990); International Music Days Competition in Warsaw (1991) – an award for Mr Elephant , a mini-opera for children; the Polish Radio Programme Two Competition (1996) for Appeal for 10 voices and 3 percussion groups (1995); competition for a mass in Katowice (1998) for Bogucka Mass for solo voices, choir and organ (1998). Since 1971, Jan Oleszkowicz has worked in the Polish Radio and Polish Television and with the Experimental Studio of the Polish Radio, in which he composed many of his pieces. Since 1982, he has taught piano improvisation in the Józef Elsner State Secondary Music School in Warsaw. In that school, he founded a computer music studio (1997), in which he now teaches classes. At seminars for music teachers, he lectured on modern methods of teaching improvisation by means of computers. For his achievements as music teacher (original teaching syllabuses) he received the Silver Cross of Merit in 1996. Oleszkowicz is the author of, among others, the book I ty możesz improwizować [ You Can Also Improvise ], which won the award of the Centre for Artistic Education in Warsaw in 1997.",
+  "birth": {
+    "place": "Jelenia Góra",
+    "date": "30th September 1947",
+    "raw": "b. 30th September 1947 in Jelenia Góra"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Epigraph for string orchestra (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "String Quartet No. 1 (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Stabat Mater for three reciting voices, flute, clarinet and horn (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Polish Christmas Songs for mixed choir, reciting voice and instruments (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Concerto grosso for pop-rock group and symphony orchestra (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Lullaby for chamber orchestra (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "String Quartet No. 2 (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Nike , ballet (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Four Games for piano (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Mosaic for chamber orchestra (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Three Offers for the Jury for 7 instruments (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Stellar Symphony for orchestra (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Trance for amplified violin (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "No. 16670 Maksymilian Kolbe in memoriam for tenor, three reciters-vocalists and 15 instruments (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Three Postludes for Encore for piano (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Salve Regina for mixed choir and organ (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Spasm for tape (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Intonation for violin (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Chamber Pieces for clarinet and piano (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Violin Concerto (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Hyenas for brass quintet (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Bird of Death for flute and tape (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Thirteen Minutes of Fossilising for woodwind quintet (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Mare Imbrium for percussion and tape (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Dramma for mezzo-soprano and 7 instruments (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "String Quartet No. 3 (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Embryo for symphony orchestra (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "String Quartet No. 4 (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Skeleton I for 10 instruments (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Skeleton II for horn and piano (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Duplex for piano (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Fretillement I for flute and piano (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Sinfonia mistica for mixed choir and orchestra (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Scontra for violin and tape (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Mr Elephant , mini-opera for children (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Skeleton III for bassoon and string quartet (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Fretillement II for double-bass (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Babel for mixed choir (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Metamorphoses of Dripping Rain for soprano, violin, percussion and synthetiser (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Harmonia mundi for computer and transformed voice of a child (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Songs of a Soaring Soul for soprano and tape (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Hosanna for orchestra (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "How Did This Animal Get Into the Opera? opera buffo for children (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Impromptu for synthesiser and computer (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Lux aeterna for orchestra (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Appeal for 10 voices and 3 percussion groups (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Monologues for boys’ voices and string orchestra (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Road for soprano and percussion (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Element for orchestra (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Little Prayer for soprano and orchestra (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Bogucka Mass [1st version] for solo voices, choir and organ (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Double Concerto for flute, clarinet and string orchestra (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Wall of Tears for violin and piano (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "St Kinga’s Supplication for mezzo-soprano, oboe and string orchestra (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Jurassic Music for bassoon and string quartet (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Tzigane Concert for accordion and string quartet (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Bogucka Mass [2nd version] for solo voices, choir and orchestra (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Variations lunaires for cello and computer (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Cascade for symphony orchestra (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Full Concerto for horn and symphony orchestra (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Atavi for instrumental ensemble and electronic layer (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Christmas Carol Story, electronic piece (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Concerto mexicano for clarinet and chamber orchestra (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Piano Concerto „Pan American ” for piano and symphony orchestra (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Saturn's Rings for string orchestra (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Jurassic Music for oboe, clarinet, bassoon and chamber orchestra (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Katyń Procession for orchestra (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Concertino da camera for orchestra (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "CyberSongs for string orchestra and electronic sounds (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Zaświat for mixed choir (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Canonical Hours - oratorio for 4 soloists, mixed choir and orchestra (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Lava for large symphony orchestra (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Therapeutic Session 2 for 4 soloists, trombone, piano, vibraphone and handbells (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Road - version for trumpet and percussion instruments (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Therapeutic Session 3 for 4 soloists (soprano, alto, tenor, bass), trombone, piano and percussion (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "De profundis for mixed choir, 4 horns, 2 trumpets and 2 trombones (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Omen for large symphony orchestra (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Parade Concerto for percussion and orchestra (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Pater Noster for mixed choir a cappella (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Requiem for soprano, alto, baritone, choir and orchestra (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Therapeutic Session 4 - COMA for mixed choir, piano, string orchestra and electronic sounds (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Pan America for guitar and piano (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "5 Genetic Chains for piano (2020)",
+      "year": "2020"
+    }
+  ],
+  "publications": "books Oleszkowicz Jan, , I ty możesz improwizować , Centrum Edukacji Artystycznej, Warszawa 1997 Oleszkowicz Jan, Gra muzyka : podręcznik do przedmiotu muzyka dla gimnazjów ogólnokształcących, Nowa Era, Warszawa 2009 Oleszkowicz Jan, Muzyka Elektronika Informatyka : książka poświęcona muzyce elektronicznej i komputerowej, Centrum Edukacji Artystycznej, Warszawa 2010",
+  "bibliography": "Widłak Elżbieta, Oleszkowicz Jan, In: Encyklopedia Muzyczna PWM (część biograficzna pod red. Elżbiety Dziębowskiej), t. „n-pa” [PWM Music Encyclopaedia, biographical part ed. by Elżbieta Dziębowska], vol. “N-Pa”, PWM, Kraków 2002",
+  "slug": "oleszkowicz-jan-en"
+}

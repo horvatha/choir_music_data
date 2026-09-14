@@ -1,0 +1,635 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/k/knittel-krzysztof-en",
+  "title": "Knittel Krzysztof",
+  "name": "Knittel Krzysztof",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": "composer and performer; b. May 1, 1947, Warsaw. Knittel studied sound engineering at the Frédéric Chopin Academy of Music in Warsaw from 1966-70, where he also studied composition with Tadeusz Baird, Andrzej Dobrowolski and Wlodzimierz Kotonski from 1970-74. He then studied computer music with Lejaren Hiller at the Mathematical Institute of the Polish Academy of Sciences in 1973-74 and attended Darmstadt in 1974 and 1976. Among his honors are the Solidarity Award in Music (1985, for String Quartet '84-'85 ), the Award of the Foundation for Contemporary Performance Arts in New York (1998, for his entire oeuvre), the Norwid Prize in Music (2003, for Norwid Songs ), and the Prize of the Polish Composers Union (2003). Portrait concerts have been given in Brazil, the Czech Republic, Germany, Hungary, Poland, Russia, and Spain. Knittel is also active in other positions. He has worked at the Experimental Studio of Polish Radio since 1973 and worked at the Center for the Creative and Performing Arts at SUNY Buffalo in 1978. He co-founded with Wojciech Michniewski and Elzbieta Sikora KEW in 1973, a group of composers, which was most active from 1973-75, as well as the Cytula Tyfun da Bamba Orkiester, which was active in 1981. He co-founded the Independent Electroacoustic Music Studio, which existed from 1982-84, the ensemble Light from Poland, which was active from 1985-87, and the interdisciplinary group Freight Train in 1986. He also co-founded with Marek Choloniewski the CH&K Studio in 1989, with which he has since regularly performed, and co-founded the European Improvisation Orchestra, which was active from 1996-98. Most recently, he co-founded with Marek Choloniewski and Wlodzimierz Kiniorski the trio CH&K&K in 1999 and remains a performer with it. As a music critic and writer, he contributed to the magazine \"Tygodnik Literacki\" in 1990-91 and worked as a free-lance contributor to the music department of Polish TV from 1992-94. He also served as vice-chairman of the Polish section of ISCM from 1989-92, director of the \"Warsaw Autumn\" festival from 1995-98, vice-president of the Polish Composers Union from 1995-99 and president from 1999-2003. In addition, he has served as vice-president of the Polish Music Council since 2000 and has served on the board of supervisors of Polish Public TV and the board of programmers of the Zacheta National Gallery in Warsaw since 2003. He teached composition, computer music and improvisation at the Fryderyk Chopin Music University and music academies in Kraków and Łódź (since 2012 as a professor). He has also lectured on new music throughout the Americas and Europe.",
+  "birth": {
+    "place": "Warsaw",
+    "date": "May 1, 1947",
+    "raw": "b. May 1, 1947, Warsaw"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Prelude for piano (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "points/lines for clarinet, tapes and slides (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "~440 for violin, piano and tape (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "à la Santé for clarinet, trombone, cello and piano (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "detour (instrumental theatre work, text by Theodor W. Adorno) for speaker, cello, piano, percussion and 2 tapes (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "form A, form E for flute, oboe, clarinet, French horn, bassoon and 5 spotlights (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Second Secret Poem for instruments and tape [composed together with Elżbieta Sikora and Wojciech Michniewski] (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Lipps for tenor saxophone/trumpet, double bass, drums and large orchestra (1974-78)",
+      "year": "1974-78"
+    },
+    {
+      "title": "In The Tatra Mountains for tape [composed together with Elżbieta Sikora and Wojciech Michniewski] (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "The Conqueror Worm for tape (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Ursus String Quartet (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Adherence Zones for tape [composed together with Elżbieta Sikora and Wojciech Michniewski] (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "dorikos, seven miniatures for string quartet and tape (1976-77)",
+      "year": "1976-77"
+    },
+    {
+      "title": "odds and ends for tape (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Glückspavillon for Cathy (instrumental theatre work, text by the composer) for tuba and tape (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Trzy etiudy na fortepian (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "sketches 1 for any players - graphical score (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "low sounds 1-5 (text by the composer) for instruments, speakers and tape (1978-91)",
+      "year": "1978-91"
+    },
+    {
+      "title": "polygamy for tape [composed together with Andrzej Bieżan] (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "3 studia na taśmę (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "szkice dla dowolnych wykonawców (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Five Pieces for cello and piano (1979-80)",
+      "year": "1979-80"
+    },
+    {
+      "title": "norcet 1 for tape (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "norcet 2 for tape (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Three Studies for Piano (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Woman's Voice (ballet, scenario by the composer, after Rafal Wojaczek) for 4 percussions and tape (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "29 Staves for small orchestra (29 players) (1980-81)",
+      "year": "1980-81"
+    },
+    {
+      "title": "Light (monologue, text by the composer) for actress (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Starry Sky for 5 percussions (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Man-Orchestra I for any number of players and tape (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Black Water, White Water, Old Stream for any number of players and tape (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "It's time now for any 5 instruments and piano (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Four Preludes for Piano (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "nora for keyboard or harp (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "String Quartet „1984-85” (1984-85)",
+      "year": "1984-85"
+    },
+    {
+      "title": "Lapis for tape (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Old Style Pieces for tape (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Three Cassettes for Any 3 Players (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Poko for tape (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Automatic Pilot for tape [composed together with Marek Chołoniewski] (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Ave vita for saxophone, piano and percussion (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Brother John's Struggle for flute, trombone, guitar, violin and percussion (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Three Songs without Words for soprano and tape (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Nibiru for harpsichord and string orchestra (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "14 Variations by Piotr Bikont and Krzysztof Knittel on 14 Variations by Edwin Morgan on 14 Words by John Cage for voices, electric guitar and 2 synthesizers (1987, 1992)",
+      "year": null
+    },
+    {
+      "title": "Histoire I for tape (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Etwas aus Leben for voice, piano and tape (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Histoire II for clarinet, piano, synthesizer and tape (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Histoire III for harpsichord and tape (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Man-Orchestra II for synthesizer, kitchen objects and computer (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Jingle-Jangle (text by Piotr Bikont) for 2 voices, synthesizer and computer (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Borders of nothing for instruments, synthesizer and computer (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Man-Nature for computer (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Homage to Charles Ives for flute, oboe, clarinet, bassoon, viola, double bass, piano and percussion (1991-92)",
+      "year": "1991-92"
+    },
+    {
+      "title": "instant reactions (text by Charles Baudelaire) for soprano, trumpet, guitar, synthesizer and percussion (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Between for piano and tape (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Negev I for synthesizer and percussion (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Satan in Goray (ballet, scenario by the composer, after Isaac Bashevis Singer) for flute, violin, cello, piano and tape (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "legs interactive sound installation (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "radio sculpture interactive sound installation (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "passage interactive sound installation (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Sonata da camera nr 1 na trąbkę i syntezatory [dla Tomasza Stańki] (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Disco interactive sound installation (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Sonatas da camera nr 1-18 for different instruments, synthesizer and computer (1994-2006)",
+      "year": "1994-2006"
+    },
+    {
+      "title": "Der Erwählte (ballet, scenario by Marek Wortman, after Thomas Mann), bagpipes, soprano recorder (+ alto recorder, tenor recorder, bass recorder) for baroque trombone, lute, violin, viola da gamba, harmonium, synthesizer and 2 percussions (1994-95)",
+      "year": "1994-95"
+    },
+    {
+      "title": "Sonata da camera nr 2 na 2 syntezatory [dla Marka Chołoniewskiego] (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Sonata da camera nr 3 na klawesyn i syntezatory [dla Władysława Kłosiewicza] (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Synaesthetic Performance with Anna Maria Bauer (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Duo for clarinet and tape (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Raum der Begegnung , video installation (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Homage to Barbara Zbrozyna for synthesizer and sampler (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Book of Beowulf [composed together with Piotr Bikont, Marek Chołoniewski, Włodzimierz Kiniorski and Tomasz Stańko] (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Surface en rotation for tape (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Sonata da camera nr 4 na skrzypce, wiolonczelę i syntezatory [dla Laszlo Melisa i Alberta Markosa] (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Sonata da camera nr 5 na wiolonczelę i syntezatory [dla Andrzeja Wróbla] (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Awakenings (ballet, scenario by Piotr Bikont, after Oliver Sachs) for speaker, saxophones, synthesizers and interactive light-sound installation (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Sonata da camera nr 6 na violę da gamba, fortepian preparowany i syntezatory [dla Kazimierza Pyzika i Marka Mietelskiego] (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "The Heartpiece – Double Opera [composed together with John King], libretto by John King and composer, after Heiner Müller for soprano, electric guitar, string quartet, synthesizer, sampler and drums (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Sonata da camera nr 7 na saksofon tenorowy i live electronics [dla Eda Bogaarda] (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Interactions [composed together with TadeuszSudnik] (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "1h05’ , performance ze Stasysem Eidrigeviciusem i Tadeuszem Sudnikiem (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Bücklein Grooves [composed together with MarekChołoniewski and Włodzimierz Kiniorski] (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Out of the Depths Have I Cried unto Thee, O Lord… (texts from Psalms 23, 51, 102-03, 117, 130, 150) for mixed choir and tape (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Spiegelverkehrte Reise (text by Piotr Bikont) for soprano, actor and 2 CDs (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Sonata da camera nr 8 na recytatora i live electronics [dla Andrzeja Chłopeckiego] (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Sonata da camera nr 9 na saksofon i live electronics [dla Włodzimierza Kiniorskiego] (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Sonata da camera nr 10 na theremin i live electronics [dla Andreja Smirnova] (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Weather Reports performance with Krzysztof Zarębski and Zofia Knittel (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "El maale rahamim… – O God, Full of Mercy… (text from a Hebrew prayer) for mixed choir and large orchestra (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Norwid Songs (text by Cyprian Kamil Norwid) for soprano and piano (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Trio for any 3 melodic instruments (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Sonata da camera nr 11 na kontrabas i live electronics [dla Aleksandra Gabrysia] (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Negev II for voice, percussion, synthesizer and sampler (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Der Zirkus ist gekommen (text by the composer) for soprano, dancer, flute, cello, piano, prepared piano and 2 CDs (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "V2R Trio (Grand River Trio) for clarinet, violin, piano and CD (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "to touch a snake from the inside sound installation (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Live from CNN for voice, trombone, syntheziser and tape (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "A Memoir of the Warsaw Uprising (scenario by composer, after Miron Białoszewski) for five actors, female choir, cello, piano, orchestra and electronic sounds (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "St Matthew Passion for solo voices, mixed choir, two percussions, string orchestra and electronic sounds (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Concerto for harpsichord and orchestra (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "...in the opposite direction... for 4-channel tape (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Sonata da camera nr 12 na saksofon i syntezator [dla Marka Chołoniewskiego i Włodzimierza Kiniorskiego] (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Sonata da camera nr 15 na fortepian, syntezator i sampler [dla Jerzego Kornowicza] (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Vagante na solistów, orkiestrę i taśmę (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Sonata da camera nr 13 i 14 na skrzypce, syntezator i sampler [dla Krzysztofa Bąkowskiego] (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Sonata da camera nr 17 na organy [dla Ireny Wisełki] (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Electronic waves (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Social / unsocial performance and video installation (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Sonata da camera nr 16 for three actors, instrumental ensemble and electronic sounds [for „de ereprijs” ensemble] (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Sonata da camera nr 18 na organy [dla Michała Górczyńskiego i Bartosza Kowalskiego-Banasewicza] (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "scratches of memory I, surround computer sounds and video (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Homage to J.C. soundscape (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "First episode for violin, piano and percussion (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Toccata for symphony orchestra (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "scratches of memory II for two pianos, surround computer sounds and video (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "sketches II for any players - graphical score (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "four seasons sound installation (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "cheap imitations for flute, clarinet/bass clarinet, string quartet, piano and CD (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Cimochowizna graphical score (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Master exercises , live electroacoustic music to David Wark Griffith films from 1909-1915: What shall we do with our old? The girl and her trust; Those awful hats; The mothering heart; A corner in wheat; The country doctor; The painted lady (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "sketches III for any players - graphical score (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Second episode for two violins and tape (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Chopin Air sound installation (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Free for Windows for guitar and live electronics (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Meetings (in two unfinished acts) ballet for Polish Dance Theatre and Grand Theatre in Łódź , scenario by Ewa Wycichowska (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "free for(m) macwin no 1, live electronics (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "About something which doesn’t exist for electronic instruments and chamber ensemble (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "free for(m) macwin no 2, live electronics (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Sen o Podlasiu [we współautorstwie z R. Lateckim, M. Litwińskim, T. Sudnikiem, T. Wieleckim], intuicyjna kompozycja audiowizualna do fotografii Mariusza Wideryńskiego (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Partita 1 (Koori) for saxophone, symphony orchestra and electronic media (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Partita 2 ( Inuit ) for flute, string orchestra and electronic media (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "AD-W2014 for actor, improvising soloists, orchestra and choir to the text of the UN Universal Declaration of Human Rights (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "As if They Weren't Here, Or the Revolt at Królikarnia , sound installation (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Znaki na zespół solistów i elektronikę (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Sonata da camera No. 19 for guitar and electronic media [for Wojciech Błażejczyk] (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "The Last Judgement , opera to the libretto by Mirosław Bujko (2015-2017)",
+      "year": "2015-2017"
+    },
+    {
+      "title": "Sonata da camera No. 20 for accordion and electronic media (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Like A Stone, oratorio for 4 improvising soloists and choir to words by Winston Churchill (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Journey to the center of the Earth based on the novel by Julius Verne for trumpet, harmonium, pseudoinstruments, voice, violin, string zither, ancient and ethnic instruments, piano, double bass and electronic media (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Oneg szabat for flute, violin, cello, amateur choir, video and electronic media (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Canticum profugorum , oratorio for voices, choir and orchestra to words by Tadeusz Sławek (2019, rev. 2022)",
+      "year": null
+    },
+    {
+      "title": "Ballad for the Dead One who Suddenly Rose from the Chair for soprano to a poem by Wisława Szymborska (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Voices for 4 actors, chamber choir, chamber orchestra and electronic sounds to words by Jan Polkowski (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "Concert at Przyczółek Grochowski (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "For the Bridgehead for tom-tom, gran cassa and horn (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "Insects, Birds and Animals? for 2 leaders and 2 small groups of children (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "untitled_003-023, untitled_024-044 , electroacoustic music (2022)",
+      "year": "2022"
+    },
+    {
+      "title": "Maurycy Beniowski. Alternative Opera , opera buffo to the libretto by Maciej Wojtyszko (2022)",
+      "year": "2022"
+    },
+    {
+      "title": "5.298 m record for 21 instruments and computer (2023)",
+      "year": "2023"
+    },
+    {
+      "title": "ka makana o ke ola for string orchestra (2024)",
+      "year": "2024"
+    },
+    {
+      "title": "It's just a feedback , computer music (2024)",
+      "year": "2024"
+    },
+    {
+      "title": "Gdańska noslatgia for carillon (2024)",
+      "year": "2024"
+    },
+    {
+      "title": "4:15 for voice, clarinet, tuba, banjo and percussion to words by Grzegorz Uzdański (2024)",
+      "year": "2024"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Knittel Krzysztof, Autorefleksja, in: Przemiany techniki dźwiękowej, stylu i estetyki w polskiej muzyce lat 70 (ed. Leszek Polony), Akademia Muzyczna w Krakowie, Kraków 1986 Szczepańska Elżbieta, Knittel Krzysztof, in: Encyklopedia Muzyczna PWM (ed. Elżbieta Dziębowska), vol. „klł”, PWM, Kraków 1997 Dmowska Agnieszka, New Authorities of the Union of Polish Composers, „Polish Culture” 1999 nr 2, s. 47 Thomas Adrian, Knittel Krzysztof, in: The New Grove Dictionary of Music and Musicians. Second Edition (ed. Stanley Sadie), vol. 13, Macmillan Publishers Limited, London 2001 O nowej operze, globalizacji, lustrach i filcowej rzeźbie z Krzysztofem Knittlem rozmawia Elżbieta Szczepańska-Lange , „Ruch Muzyczny” 2001 Skowron Zbigniew, Knittel Krzysztof, Bärenreiter / Metzler, Kassel / Stuttgart 2003 Wywiad Jana Topolskiego i Michała Mendyka z Krzysztofem Knittlem, „Glissando” 2004 nr 3",
+  "slug": "knittel-krzysztof-en"
+}

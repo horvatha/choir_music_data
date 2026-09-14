@@ -1,0 +1,307 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/f/fitelberg-jerzy-en",
+  "title": "Fitelberg Jerzy",
+  "name": "Fitelberg Jerzy",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Suita na orkiestrę nr 1 (1925)",
+      "year": "1925"
+    },
+    {
+      "title": "Serenada na skrzypce i kontrabas (1925)",
+      "year": "1925"
+    },
+    {
+      "title": "Oktet na instrumenty dęte (1925)",
+      "year": "1925"
+    },
+    {
+      "title": "Sześć kołysanek na 3 klarnety (1925)",
+      "year": "1925"
+    },
+    {
+      "title": "Serenada na nonet (1926)",
+      "year": "1926"
+    },
+    {
+      "title": "Kwartet smyczkowy nr 1 (1926)",
+      "year": "1926"
+    },
+    {
+      "title": "Sonata na fortepian nr 1 (1926)",
+      "year": "1926"
+    },
+    {
+      "title": "Rapsodia na 4 fortepiany (1926)",
+      "year": "1926"
+    },
+    {
+      "title": "Suita na fortepian (1927)",
+      "year": "1927"
+    },
+    {
+      "title": "Koncert skrzypcowy nr 1 [wersja I] (1928)",
+      "year": "1928"
+    },
+    {
+      "title": "Suita na orkiestrę nr 2 (1928)",
+      "year": "1928"
+    },
+    {
+      "title": "Kwartet smyczkowy nr 2 (1928)",
+      "year": "1928"
+    },
+    {
+      "title": "Suita na harfę (1928)",
+      "year": "1928"
+    },
+    {
+      "title": "Koncert fortepianowy nr 1 (1929)",
+      "year": "1929"
+    },
+    {
+      "title": "Prometeusz źle spętany , suita baletowa na orkiestrę (1929)",
+      "year": "1929"
+    },
+    {
+      "title": "Divertimento na instrumenty dęte (1929)",
+      "year": "1929"
+    },
+    {
+      "title": "Kwintet dęty (1929)",
+      "year": "1929"
+    },
+    {
+      "title": "Sonata na fortepian nr 2 (1929)",
+      "year": "1929"
+    },
+    {
+      "title": "Serenade für Rundfunk na zespół instrumentalny (1929)",
+      "year": "1929"
+    },
+    {
+      "title": "Suita na orkiestrę nr 3 (1930)",
+      "year": "1930"
+    },
+    {
+      "title": "Koncert na orkiestrę smyczkową (1930)",
+      "year": "1930"
+    },
+    {
+      "title": "Koncert wiolonczelowy (1931)",
+      "year": "1931"
+    },
+    {
+      "title": "Koncert na kwartet smyczkowy i orkiestrę (1931)",
+      "year": "1931"
+    },
+    {
+      "title": "Tango na skrzypce i fortepian (1931)",
+      "year": "1931"
+    },
+    {
+      "title": "Trzy mazurki na fortepian (1931)",
+      "year": "1931"
+    },
+    {
+      "title": "Trzy mazurki na orkiestrę (1932)",
+      "year": "1932"
+    },
+    {
+      "title": "Cztery etiudy na orkiestrę (1932)",
+      "year": "1932"
+    },
+    {
+      "title": "Suita na skrzypce i orkiestrę (1932)",
+      "year": "1932"
+    },
+    {
+      "title": "Suita na skrzypce i fortepian (1932)",
+      "year": "1932"
+    },
+    {
+      "title": "Trzy mazurki na skrzypce i fortepian (1932)",
+      "year": "1932"
+    },
+    {
+      "title": "Cztery etiudy na dwa fortepiany (1932)",
+      "year": "1932"
+    },
+    {
+      "title": "Trzy romanse na skrzypce i fortepian (1933)",
+      "year": "1933"
+    },
+    {
+      "title": "Koncert fortepianowy nr 2 (1934)",
+      "year": "1934"
+    },
+    {
+      "title": "Divertimento na orkiestrę (1934)",
+      "year": "1934"
+    },
+    {
+      "title": "Sonatina na dwoje skrzypiec [wersja I] (1934)",
+      "year": "1934"
+    },
+    {
+      "title": "Duo [wersja I] na skrzypce i wiolonczelę (1934)",
+      "year": "1934"
+    },
+    {
+      "title": "Koncert skrzypcowy nr 2 (1935)",
+      "year": "1935"
+    },
+    {
+      "title": "Kwartet smyczkowy nr 3 (1935-36)",
+      "year": "1935-36"
+    },
+    {
+      "title": "Kwartet smyczkowy nr 4 (1936)",
+      "year": "1936"
+    },
+    {
+      "title": "Sonata na fortepian nr 3 (1936)",
+      "year": "1936"
+    },
+    {
+      "title": "Konzertstück na orkiestrę (1937)",
+      "year": "1937"
+    },
+    {
+      "title": "Trio na skrzypce, altówkę i wiolonczelę (1937)",
+      "year": "1937"
+    },
+    {
+      "title": "Sonata na skrzypce i fortepian (1938)",
+      "year": "1938"
+    },
+    {
+      "title": "Sonata na dwoje skrzypiec i dwa fortepiany (1938)",
+      "year": "1938"
+    },
+    {
+      "title": "Muzyka na dwa fortepiany (1939)",
+      "year": "1939"
+    },
+    {
+      "title": "Trzy polskie pieśni na chór a cappella (1941)",
+      "year": "1941"
+    },
+    {
+      "title": "Epitafium na skrzypce i orkiestrę (1942)",
+      "year": "1942"
+    },
+    {
+      "title": "Złoty róg , wariacje na orkiestrę smyczkową (1942)",
+      "year": "1942"
+    },
+    {
+      "title": "Pan Tralaliński na chór a cappella (1942)",
+      "year": "1942"
+    },
+    {
+      "title": "Serenada na altówkę i fortepian (1943)",
+      "year": "1943"
+    },
+    {
+      "title": "Nocturne na orkiestrę (1944)",
+      "year": "1944"
+    },
+    {
+      "title": "Wariacje na skrzypce i fortepian (1944)",
+      "year": "1944"
+    },
+    {
+      "title": "Siedem kaprysów na skrzypce i fortepian (1944)",
+      "year": "1944"
+    },
+    {
+      "title": "Kwartet smyczkowy nr 5 (1945)",
+      "year": "1945"
+    },
+    {
+      "title": "Suita na wiolonczelę (1945)",
+      "year": "1945"
+    },
+    {
+      "title": "Sonata for Unaccompanied Cello (1945)",
+      "year": "1945"
+    },
+    {
+      "title": "Polish Pictures , suita na orkiestrę (1946)",
+      "year": "1946"
+    },
+    {
+      "title": "Sinfonietta na orkiestrę (1946)",
+      "year": "1946"
+    },
+    {
+      "title": "Symfonia na orkiestrę smyczkową (1946)",
+      "year": "1946"
+    },
+    {
+      "title": "Sonatina na dwoje skrzypiec [wersja II] (1947)",
+      "year": "1947"
+    },
+    {
+      "title": "Koncert skrzypcowy nr 1 [wersja II] (1947)",
+      "year": "1947"
+    },
+    {
+      "title": "Capriccio na kwintet dęty (1947)",
+      "year": "1947"
+    },
+    {
+      "title": "Koncert na puzon, fortepian i orkiestrę smyczkową (1947)",
+      "year": "1947"
+    },
+    {
+      "title": "Duo [wersja II] na skrzypce i wiolonczelę (1947)",
+      "year": "1947"
+    },
+    {
+      "title": "Koncert na klarnet i orkiestrę (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "Dwanaście etiud na 3 klarnety (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "Suita na klarnet i fortepian (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "Album dla dzieci na fortepian (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "Suita na organy (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "The Silly Chick , opera dla dzieci (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "What is Benjamin? , bajka muzyczna dla dzieci do czytania i grania na fortepianie (1950)",
+      "year": "1950"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "fitelberg-jerzy-en"
+}

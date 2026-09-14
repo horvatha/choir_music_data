@@ -1,0 +1,47 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/n/nierubiec-marcin-en",
+  "title": "Nierubiec Marcin",
+  "name": "Nierubiec Marcin",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Hymn do Św. Stanisława Kostki na głos, chór i orkiestrę (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "7 Cudów Jezusa na fortepian (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Muzyka do filmów , m.in. Proste pragnienia w reż. M. Stacharskiego (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Muzyka do serialu Będziesz moja (TV POLSAT 2006)",
+      "year": null
+    },
+    {
+      "title": "Muzyka do sztuk teatralnych , m.in. Wariactwa według Czechowa w reż. M. Kwaśnego w Teatrze Ochota, Kto dogoni psa w reż. M. Stacharskiego w Teatrze Ochota, Lustra w reż. B. Wyszomirskiego w Teatrze Wytwórnia, Hiob i Życie w zasięgu ręki w reż. M. Kwaśnego w Teatrze na Bielanach",
+      "year": null
+    },
+    {
+      "title": "Piosenki dla dzieci , m.in. DJ Miki gra, Kołysanki księżycowe, DJ Miki i przyjaciele",
+      "year": null
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "nierubiec-marcin-en"
+}

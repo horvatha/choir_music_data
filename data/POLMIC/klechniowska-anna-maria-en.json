@@ -1,0 +1,99 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/k/klechniowska-anna-maria-en",
+  "title": "Klechniowska Anna Maria",
+  "name": "Klechniowska Anna Maria",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": "composer, pianist and teacher; b. 15th April 1888 in Borowka, Volhynia; d. 26th August 1973 in Warsaw. Until 1905 she studied at the Music Conservatory in Warsaw in the piano class of Katarzyna Jaczynowska and the music theory class of Gustaw Roguski. From 1905 to 1906 she studied in the Music Conservatory in Lviv under the supervision of Mieczysław Sołtys (piano and composition) and Stanisław Niewiadomski (harmony), and then at the Leipzig Conservatory with Joseph Pembaur (piano) and Stephan Krehl (composition). In 1908-11 she studied piano in the class of Klara Czop-Umlauf at the Music Institute in Kraków, and in 1911-17 with Richard Heuberger and Franz Schmidt at the Musikakademie in Vienna. After completing these studies, she wrote her first book on piano pedagogy – The method of piano teaching – and began working as a teacher. In 1918-39 she ran her own beginner music courses in Warsaw. During this period she also studied conducting at the Music Conservatory in Warsaw. In 1939 she went to Paris, where she continued her studies in composition under Nadia Boulanger. After the war, in the years 1945-47 she was the head of the Music Department at the Faculty of Culture and Art in Łódź and a piano professor at the People's Institute of Music in Łódź. In 1947 she moved to Warsaw and devoted herself to creative and social work. She took the position of the head of the Music Section for Children at the Main Board of the Polish Composers' Union, she was the inspector of music schools at the Ministry of Culture and Art. In 1950 Anna Maria Klechniowska received the Prime Minister's Prize for Music for her works for children, and in 1955 she was awarded the Knight's Cross of the Order of Polonia Restituta. updated: 2020 (ac)",
+  "birth": {
+    "place": "Borowka",
+    "date": "15th April 1888",
+    "raw": "b. 15th April 1888 in Borowka"
+  },
+  "death": {
+    "place": "Warsaw",
+    "date": "26th August 1973",
+    "raw": "d. 26th August 1973 in Warsaw"
+  },
+  "works": [
+    {
+      "title": "Four Preludes for piano solo (1907)",
+      "year": "1907"
+    },
+    {
+      "title": "The Wawel Caste , symphonic poem (1917)",
+      "year": "1917"
+    },
+    {
+      "title": "Elegia for cello and piano (1924)",
+      "year": "1924"
+    },
+    {
+      "title": "Legend for violin and piano (1925)",
+      "year": "1925"
+    },
+    {
+      "title": "Sailor's visions , triptych for piano (1925)",
+      "year": "1925"
+    },
+    {
+      "title": "Bilitis , ballet for voice, choir and orchestra (1930)",
+      "year": "1930"
+    },
+    {
+      "title": "Krakow March for brass orchestra (1937)",
+      "year": "1937"
+    },
+    {
+      "title": "Zaolzie Fantasy for boy's choir and small symohonic orchestra (1938)",
+      "year": "1938"
+    },
+    {
+      "title": "Juria , ballet for voice, choir and orchestra (1939)",
+      "year": "1939"
+    },
+    {
+      "title": "A Wedding Overture on Krakow themes for orchestra (1942)",
+      "year": "1942"
+    },
+    {
+      "title": "Sleepwalker for voice and piano (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "Small Children's Cantata (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "Mother's adoration , children's cantata (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "The Seasons of the Year , symphonic suite (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Morze na głos z fortepianem (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Kantata symfoniczna z „Ody do młodości” (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "Overture for orchestra (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "Symphonic Suite for orchestra (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "Phantasma , ballet music (1964)",
+      "year": "1964"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Barbara Smoleńska, Ostatnia z kręgu Młodej Polski, „Ruch Muzyczny” 1974 nr 21, s. 16-17 Marczyńska Jadwiga, Klechniowska Anna Maria, PWM, Kraków 1997 Kowalska-Zając Ewa, Klechniowska Anna Maria, Akademia Muzyczna w Łodzi, Łódź 2001",
+  "slug": "klechniowska-anna-maria-en"
+}

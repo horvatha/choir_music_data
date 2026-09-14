@@ -1,0 +1,1259 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/s/schaeffer-boguslaw-en",
+  "title": "Schaeffer Bogusław",
+  "name": "Schaeffer Bogusław",
+  "occupation": "composer, musicologist",
+  "is_composer": true,
+  "description": "composer, musicologist, playwright, graphic artist and teacher; b. 6th June 1929 in Lviv; d. 1st July 2019 in Salzburg. In 1946-49 he studied violin and music theory in Opole. In 1949-53 he studied composition with Artur Malawski at the State Higher School of Music in Krakow. In the same years he studied musicology under the supervision of Zdzisław Jachimecki at the Jagiellonian University, graduating with an extensive thesis on Witold Lutosławski. He completed his musical education in 1959 with Luigi Nono. After graduating, he was involved not only in composition, but also musicology. In 1952-57 he worked in the music department of the Polish Radio in Krakow, in 1953 – in the PWM Edition, in 1957 – as deputy editor-in-chief of the “Ruch Muzyczny” magazine, in 1955-57 – as a lecturer at the Institute of Musicology of the Jagiellonian University. From 1957 he devoted himself mainly to composing. From 1963 to 1998 he taught composition at the Academy of Music in Krakow (in 1989 he received the title of professor). In 1965 he started collaborating with the Polish Radio Experimental Studio in Warsaw, where he created his electronic compositions. In 1967-73 he was the editor-in-chief of the “Forum Musicum” journal (16 published issues). In 1970 he received a PhD in philosophy at the University of Warsaw. In 1986-2002 he taught composition at the Hochschule für Musik und darstellende Kunst 'Mozarteum' in Salzburg. He also taught courses in contemporary composition, including in Toruń, Warsaw, Krakow, Salzburg, Karlsruhe, Middelburg, York, Utrecht and Schwarz. He educated nearly 160 students of various nationalities. In the years 1956-92 he wrote several books (including New music. Problems of contemporary composing technique , Classics of Dodecaphony , Introduction to composition , Lexicon of 20th-Century Composers , 20th-Century Composers ), essays, articles on contemporary music, studies and works in the field of philosophy. He was also the author of three outlines of music history. In the 1960s and 1970s he created graphics, to various degrees related to music, which were exhibited in art galleries in Europe and the United States. From 1955, apart from composition and musicology, Schaeffer was also involved in playwriting. He wrote over 40 plays (and directed several of them), which were translated into 16 languages. In 1990 he founded his own publishing house in Salzburg – Collsch Edition. He won numerous awards at composition competitions. His Monosonata for six string quartets (1959) and Quattro movimenti for piano and orchestra (1957) were awarded at the Grzegorz Fitelberg Competition in 1959, his Music ips for orchestra of low-pitched instruments (1962) and Four pieces for string trio (1962) a the Artur Malawski Competition in 1962, and his Little Symphony (Scultura) (1960) and Collage and Form for eight jazz musicians and orchestra (1963) at the Grzegorz Fitelberg Competition in 1964. He also received an award for his dramatic work at the Polish Contemporary Arts Festival in Wrocław in 1987. From 1964 he was a member of the “Krakow Group” Artistic Association. From 2000 he was an honorary member of the Polish Society for Contemporary Music and from 2003 of the Polish Composers' Union. In 1999 the Jagiellonian University organised an International Scientific Symposium dedicated to Schaeffer’s compositional, dramatic and graphic work, accompanied by a monographic concert and staging of his theatre plays. Bogusław Schaeffer received many awards and distinctions, including the Award of the Minister of Culture and Art (1971, 1972, 1980, 2001), Golden Cross of Merit (1973), Award of the Polish Composers' Union (1977), Award of the City of Krakow (1977), Knight's Cross of the Order of Polonia Restituta (1986), Award of the Alfred Jurzykowski Foundation in New York (1999), the Gold Medal for Merit to Culture Gloria Artis (2006), Commander's Cross of the Order of Polonia Restituta (2013), \"Merited to Warsaw\" distinction of the city of Warsaw (2013). He was posthumously awarded the Grand Cross of the Order of Polonia Restituta (2019). The artist was buried at the Municipal Cemetery in Salzburg. updated: 2020 (ac)",
+  "birth": {
+    "place": "Lviv",
+    "date": "6th June 1929",
+    "raw": "b. 6th June 1929 in Lviv"
+  },
+  "death": {
+    "place": "Salzburg",
+    "date": "1st July 2019",
+    "raw": "d. 1st July 2019 in Salzburg"
+  },
+  "works": [
+    {
+      "title": "Music for String Quartet (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "Sonata for Solo Violin (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "Permutations for 10 instruments (1956)",
+      "year": "1956"
+    },
+    {
+      "title": "Model No. 1 for piano (1956)",
+      "year": "1956"
+    },
+    {
+      "title": "Model No. 2 for piano (1957)",
+      "year": "1957"
+    },
+    {
+      "title": "Extrema for 10 instruments (1957)",
+      "year": "1957"
+    },
+    {
+      "title": "String Quartet No. 1 (1957)",
+      "year": "1957"
+    },
+    {
+      "title": "Quattro movimenti (Concerto for Piano and Orchestra No. 2) for piano and orchestra (1957)",
+      "year": "1957"
+    },
+    {
+      "title": "Tertium datur a composer's treatise for harpsichord and chamber orchestra (1958)",
+      "year": "1958"
+    },
+    {
+      "title": "Concerto breve for cello and orchestra (1959)",
+      "year": "1959"
+    },
+    {
+      "title": "Concerto for String Quartet (1959)",
+      "year": "1959"
+    },
+    {
+      "title": "Monosonata for 6 string quartets (1959)",
+      "year": "1959"
+    },
+    {
+      "title": "Equivalenze sonore concerto for chamber percussion orchestra (1959)",
+      "year": "1959"
+    },
+    {
+      "title": "Little Symphony (Scultura) (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Linear Constructions for string orchestra (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Concerto per sei e tre for a changing solo instrument (clarinet, saxophone, violin, cello, percussion and piano) and 3 orchestras (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Montaggio for 6 players (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Topofonica for 40 instruments (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Azione a due for piano and 11 instruments (1961)",
+      "year": "1961"
+    },
+    {
+      "title": "Imago musicae for violin and ensemble (1961)",
+      "year": "1961"
+    },
+    {
+      "title": "Codes for chamber orchestra (1961)",
+      "year": "1961"
+    },
+    {
+      "title": "Model No. 3 for piano (1961)",
+      "year": "1961"
+    },
+    {
+      "title": "Musica for harpsichord and orchestra (1961)",
+      "year": "1961"
+    },
+    {
+      "title": "Violin Concerto (1961-63)",
+      "year": "1961-63"
+    },
+    {
+      "title": "Course „j” for jazz ensemble and chamber orchestra (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Musica ipsa for deep instruments orchestra (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Four Pieces for String Trio (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Constructions for vibraphone (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "TIS MW2 stage composition for actor, mime, ballerina and 5 musicians (1962-63)",
+      "year": "1962-63"
+    },
+    {
+      "title": "Expressive Aspects for soprano and flute (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "S’alto for saxophone and chamber orchestra of soloists (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Model No. 4 for piano (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "TIS GK stage composition (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Music for MI for voice, vibraphone, 6 narrators, jazz ensemble and orchestra (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Collage and Form for 8 jazz musicians and orchestra (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "String Quartet No. 2 (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Collage for chamber orchestra (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Symphony: Electronic Music (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Quartet for 2 Pianists and 2 Optional Performers (Quartet 2 + 2) (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Model No. 5 for piano (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Message for cello and 2 pianos (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Howl monodrama for reciter, 2 actors, ensemble of instrumentalists and ensemble of performers (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Quartet for Oboe and String Trio (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Trio for Flute, Harp, Viola and Tape (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Concerto for Piano and Orchestra (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Media for voices and instruments (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Symphony: Orchestral Music (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Concerto for Tape (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Jazz Concerto for jazz ensemble and orchestra (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Trio for Piano, Violin and Cello (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Heraklitiana for 12 solo instruments and tape (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Model No. 6 for piano (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Texts for orchestra (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Estratto for string trio (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Model No. 7 for piano (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "String Quartet No. 3 (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Mare concertino for piano and 9 instruments (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Experimenta for pianist on 2 pianos and orchestra (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Variants for wind quintet (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Sgraffito for flute, cello, harpsichord and 2 pianos (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Confrontations for solo instrument and orchestra (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Model No. 8 for piano (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Hommage à Czyżewski for ensemble of stage and musical performers (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Concerto for 3 Pianos (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Bergsoniana for soprano, flute, piano, horn, double bass and tape (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "blueS No. 1 for 2 pianos and tape (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Dreams of Schaeffer for performers (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "blueS No. 2 for instrumental ensemble (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Free Form No. 1 for 5 instruments (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Free Form No. 2 (Evocazioni) for double bass (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Symphony in 9 Movements for orchestra and 6 solo instruments (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "String Quartet No. 4 (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "aSa for clavichord solo (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "tentative music for 1-159 instruments (1973, 2004)",
+      "year": null
+    },
+    {
+      "title": "Open Music No. 2 for piano and tape (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Open Music No. 3 for piano and tape (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Warsaw Overture (Harmonies and Counterpoints I) for orchestra (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Missa elettronica [1st version] for boys' choir and tape (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Missa elettronica [2nd version] for mixed choir and tape (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Romuald Traugutt (Harmonies and Counterpoints II) for orchestra (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Model No. 9 for piano (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Spinoziana for performers (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Model No. 10 for piano (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Gravesono for winds and percussion (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "blueS No. 3 for 2 pianos (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Vaniniana for 2 actors, soprano, piano, cello and electronics (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Kesukaan for 13 strings (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Miserere for soprano, mixed choir, orchestra and tape (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Heideggeriana for 11 instruments (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Jangwa for double bass and orchestra (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Maah for orchestra and tape (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Te Deum for solo voices, vocal ensemble and orchestra (1979-2000)",
+      "year": "1979-2000"
+    },
+    {
+      "title": "Berlin ‘80/I (Tornerai) for piano, syn-lab, electronic media and tape (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Berlin ‘80/II (In jener Zeit) for piano, syn-lab, electronic media and tape (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Concerto for Saxophone Quartet (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Octet for Winds and Double Bass (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Entertainment Music for orchestra of wind and percussion (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Five Introductions and an Epilogue for small chamber orchestra (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Model No. 11 (Ngazi) for piano (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Addolorato for violin and tape (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Teatrino fantastico for actor, violin, piano with multimedia and tape (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Stabat Mater for soprano, alto, mixed choir, strings and organ (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Gasab for Gasab-violin and piano (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Open Music No. 4 for piano and tape (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Guitar Concerto (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Model No. 12 (Machar) for piano (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Accordion Concerto (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Concerto for Organ, Violin and Orchestra (B-A-C-H) (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Sonata No. 1 „Spring” for organ (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Sonata No. 2 „Summer” for organ (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Sonata No. 3 „Autumn” for organ (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Schpass (Nonet) for 3 oboes (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Kwaiwa for violin and computer (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Missa sinfonica for soprano, violin, soprano saxophone and orchestra (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Concerto for Flute, Harp and Orchestra (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "String Quartet No. 5 (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Sonata No. 4 „Winter” for organ (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Saxophone Concerto (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Model No. 13 (Mikrosonate) for piano (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Concerto for Violin, Gasab-Violin, 2 Oboes, English Horn and Orchestra (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Little Concerto for Violin and 3 Oboes (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Free Form No. 3 for double bass and piano (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Acontecimiento for 3 pianos and computer (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Model No. 14 ( Halatsah ) for piano (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Model No. 15 (Sahihi) for piano (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Double Conceto for 2 Violins and Orchestra (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Concerto for Jazz Percussion, Piano and Orchestra (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Concerto for 2 Pianos (8-Hands) and Orchestra (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "blueS No. 4 for 2 pianos and tape (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Sinfonia for orchestra (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Concerto for Piano and Orchestra No. 3 (1988-90)",
+      "year": "1988-90"
+    },
+    {
+      "title": "Liebesbliecke opera (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Liturgische Sätze for solo voices, choir and orchestra (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Kesukaan II for 13 strings (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Model No. 16 for piano (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "blueS No. 5 for piano and orchestra (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Symphony No. 6 for orchestra (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "String Quartet No. 6 (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Bewegnung for oboe, piano and percussion (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Love Song for string orchestra (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Megasonata for piano (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Leopolis for violin and orchestra (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Orchestral and Electronic Changes for amplified instruments and orchestra (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Clarinet Concerto (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Septet for Oboe, Bass Clarinet, Cello and Percussion (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Hommage à Guillaume Schaeffer for 2 cellos and piano (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Sinfonietta for chamber orchestra (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Trio for Flute, Viola and Guitar (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Hommage à Roman Haubenstock-Ramati for instrumental ensemble (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "OSCENOI for clarinet, soprano and instruments (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Concerto for Clarinet and 5 Instruments (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Hommage à Barbara Buczek for 2 saxophones (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Flute Concerto (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Concerto for Violin, Piano and Orchestra (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Symphony No. 7 for orchestra (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Quartet for Piano, Violin, Viola and Cello (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Viola Concerto (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "String Quartet No. 7 (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Monophonie I for 16 flutes (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Enigma for large orchestra (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Musica dell’ Avvenire for percussion orchestra (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Concerto da camera for 18 instruments (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Monophonie II for 13 violas (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Sexternus for 6 pianos (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Max Ernst Variations for saxophone, accordion, piano and computer (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "String Quartet No. 8 (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Bassoon Concerto (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Monophonie III for 12 oboes (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Monophonie IV for 8 English horns (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Monophonie V for 12 cellos (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Monophonie VI for 12 trumpets (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Monophonie VII for 17 saxophones (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "String Quartet No. 9 (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Piano Concerto No. 4 (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Four psalms for solo soprano, polyphonic choir, soprano saxophone and orchestra (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Mikrosonate for chamber orchestra (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Das Leben einer Stadt for 3 sopranos, bass clarinet, saxophone, organ, string quartet, orchestra and electronic media (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Six Etudes for String Quartet (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Concerto for Two Saxophonists and Orchestra (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Concerto for Chamber Orchestra (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Missa in honorem Beatae Virginis Mariae for voices and orchestra (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Ave Maria for soprano and orchestra (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Konzertstück for cello and orchestra (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Violin Concerto No. 3 (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Nine Studies on Themes of Max Ernst for chamber orchestra (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Sinfonia breve for chamber orchestra (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Zeitebenen for piano and electronic media (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Prolegomena for chamber orchestra (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "De profundis for soprano and chamber orchestra (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Model No. 20 for piano (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Zwölf Stücke for string quartet (String Quartet No. 10 ) (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Piano Trio (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Convocationes for orchestra (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "SeaHarb for saxophone and oboe (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Si quaeris miracula for soprano and orchestra (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Symphonie concertate for 4 trumpets and orchestra (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Concertino for harmonica, guitar and string trio (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Dialogue for saxophone and string quartet (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Quartet for Saxophone, Flute, Bass Clarinet and Piano (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Image sonore I for flute, saxophone and accordion (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Trois esquisses for oboe, saxophone and bassoon (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Sphinx for saxophone and piano (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Mosaic for bassoon solo (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Multicadenza for saxophone solo (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Quattri pezzi for saxophone (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Baclar for bass clarinet solo (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Fleurs de silence for alto saxophone solo (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Image sonore II for accordion (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Ciclo for vibraphone solo (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Espedizione for trombone solo (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Concerto for Saxophone, Piano and Orchestra (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Monophonie VIII for 48 violins (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Cantico di Zaccaria for 6 soloists (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Koncert na wibrafon i orkiestrę kameralną (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Dialogue for flute and cello (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Two Songs for soprano, flute, cello and piano (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Concerto for Celesta and Chamber Orchestra (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Per Violino Solo (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Concerto for Harp and Orchestra (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Petite pièce for contrabass sarrusophone solo (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Concertino for violin, cello and small orchestra (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Fantasia for violin, cello and small orchestra (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Concerto for Saxophone, Piano and Orchestra (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Concerto for Violin Solo (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Deux contes(tabilités) for violin and piano (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Scherzo for saxophone and piano (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Mikrotonale Ballade for 4 cellos (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Bewegte Stille for piano and computer (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Concerto for Violin and Orchestra No. 4 (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "BlueS No. 6 for piano, jazz ensemble, double bass and choir (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Trio for Saxophone, Piano and Tape (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Model No. 22 for piano (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Die abstrakte Nachtigall for saxophone solo (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Identity for orchestra (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Kreuzweg 11 for saxophone, accordion, percussion and viola (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Intrada for horn, trumpet, trombone and tuba (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Glosas for saxophone and piano (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Miniatures for saxophone and piano (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Sonata for Saxophone and Piano (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Nocturne for cello and piano (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Fiato for alto saxophone solo (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Organ Fantasia (24 movements) (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Sonata for Violin and Harp (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Model No. 23 for piano (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Concerto for Saxophone and Choir (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Pezzo capriccioso for harp (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Grand Sonate for cello (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Concerto for Saxophone, Piano and Orchestra (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Model No. 24 for piano (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Concerto for Violin with the Accompaniment of Polyphonic Choir (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Quartett for saxophone, piano, double bass and percussion (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Divertimento sinfonico for saxophone, piano and orchestra (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "BlueS No. 7 for piano and orchestra (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Dialogue for saxophone and piano (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Four Miniatures for alto saxophone and piano (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Composition for guitar and accordion (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Piano Concerto No. 5 for piano and choir of 15 vocal soloists (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Concerto for Viola and Chamber Orchestra (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Short Sonata for saxophone and piano (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "String Quartet No. 11 (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Quartet for saxophone, piano, percussion and double bass (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Colloquy for cello and vibraphone (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "A Small Divertimento for saxophone and piano (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Divertimento for saxophone and piano (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Poema tenero for violin and vibraphone (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "EsseH for English horn solo (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Clacco for bass clarinet and accordion (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Fragment III for 2 actors, chamber ensemble and electronic media (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Piano Concerto No. 6 (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Piano Concerto No. 7 (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Concerto for Trumpet and Chamber Orchestra (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Model No. 30 for piano (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "OSCENOI for voice, piano, chamber ensemble and electroacoustic media (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Sonata for Cello and Piano (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Panorama for orchestra (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Duodecet for 12 cellos (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Concerto for Percussion Orchestra (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Concerto for Double Bass and Chamber Orchestra No. 2 (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Time Sequences for flute, string quartet and double bass (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Rituals for ensemble (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "String Quartet No. 12 (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "String Quartet No. 13 (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "String Quartet No. 14 (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "String Quartet No. 15 (Mosaics) (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Quartet for Four Cellos (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Avec une expression intense for oboe, trombone, cello and piano (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Salzburg Spectres for 4 violas (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Notturno for violin, bass clarinet and vibraphone (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "String Trio (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Duo for violin and trombone (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Duetto for flute and cello (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Raccontino for marimbaphone solo (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Sonata dell'avenire for cello solo (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Clarinet Concerto No. 2 „Baclars” for bass clarinet, clarinet and alto saxophone (one soloist) and chamber orchestra with electronic media (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Concerto for Trombone and Chamber Orchestra (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Quartet for Four Violas (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "String Quartet No. 16 (Avec une légèreté fantastique mais précise) (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Model No. 31 for piano (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Grand Sonata for piano and electronic media (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Concerto for Marimbaphone and Chamber Orchestra (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Violin Concerto No. 5 for violin and female choir (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Concerto for Cello and Chamber Orchestra No. 2 (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Sonata for 3 Violins, Cello and Piano (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "String Sextet (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Concertino for cello, oboe (+ english horn), trombone and piano (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "String Quartet Nr. 17 (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Symphony No. 9 for large symphony orchestra (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Nonet (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "String Quartet for four Violas (2011)",
+      "year": "2011"
+    }
+  ],
+  "publications": "Leksykon kompozytorów XX wieku, PWM, Kraków t. 1 – 1963, t. 2 – 1965 Nowa Muzyka. Problemy współczesnej techniki kompozytorskiej, PWM, Kraków 1958, wyd. nowe 1969 Mały informator muzyki XX wieku, PWM, Kraków 1958, wyd. nowe 1975 Wstęp do kompozycji / Introduction to Composition, wyd. pol.-ang. PWM, Kraków 1976 Almanach polskich kompozytorów współczesnych, PWM, Kraków 1966, wyd. nowe 1982 Kompozytorzy XX wieku, WL, Kraków 1990",
+  "bibliography": "Synowiec Ewa, Teatr instrumentalny Bogusława Schaeffera, Akademia Muzyczna w Gdańsku, Gdańsk 1983 Stawowy Ludomira, Boguslaw Schaeffer. Leben, Werk, Bedeutung, Edition Helbling, Innsbruck 1991 Gołąb Maciej, Bogusław Schaeffer, edition text + kritik, München 1992- Zając Joanna, Muzyka, teatr i filozofia Bogusława Schaeffera, Collsch Edition, Salzburg 1992 Boguslaw Schaeffer 50 Jahre Schaffen, Collsch Edition, Salzburg 1994 Hodor Jadwiga Maria, Najnowsze utwory Bogusława Schaeffera, \"Ruch Muzyczny\" 2006 nr 13, s.10-11",
+  "slug": "schaeffer-boguslaw-en"
+}

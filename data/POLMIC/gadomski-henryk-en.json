@@ -1,0 +1,27 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/g/gadomski-henryk-en",
+  "title": "Gadomski Henryk",
+  "name": "Gadomski Henryk",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Tryptyk symfoniczny Ludowe tańce suita baletowa Kwartet smyczkowy Sonata fortepianowa pieśni Muzyka do filmów , m.in.: Polesie Muzyka do sztuk teatralnych , m.in.: Spoczynek dnia siódmego Paula Claudela, reż. Wacław Radulski - Teatr Narodowy w Warszawie (1928) Ulica Elmer L. Rice, reż. Stanisława Perzanowska – Teatr Ateneum w Warszawie (1930) Europa Jerzego Brauna, reż. Zygmunt Chmielewski – Teatr Ateneum w Warszawie (1931) Mam lat 26 Istvana Mihaly, reż. Stanisława Perzanowska – Teatr Ateneum w Warszawie (1932) Wojciech Bogusławski i jego scena Wincentego Rapackiego, reż. Józef Śliwicki - Teatr Narodowy w Warszawie (1936) Samuel Zborowski , reż. Leon Schiller – Teatr Narodowy w Warszawie (1939) Tryptyk: Miłość czysta u kąpieli morskich, Odwiedziny o zmroku, Czas jutrzenny , reż. Aleksander Zelwerowicz - Teatr Nowy w Warszawie (1939)",
+      "year": "1939"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Pamięci Henryka Gadomskiego, „Ruch Muzyczny” 1946 nr 20/21 Błaszczyk Leon Tadeusz , Dyrygenci polscy i obcy w Polsce działający w XIX i XX w., PWM, Kraków 1964 Gadomski Henryk, PWM, Kraków 1964 Walaciński Adam, Gadomski Henryk, PWM , Kraków 1987 Hordyński W., Henryk Gadomski, Zakład Narodowy im. Ossolińskich , Wrocław 1990 Gadomski Henryk, PWN , Warszawa 1994 Soińska Jolanta , Henryk Gadomski [wspomnienie], \"Gazeta Wyborcza” Szczecin nr 21, wyd. z dnia 26 stycznia 2005, s. 5 Iwanicka-Nijakowska Anna , Gadomski Henryk, Akademia Muzyczna im. Fryderyka Chopina w Warszawie / Akademia Muzyczna im. Stanisława Moniuszki w Gdańsku, Warszawa / Gdańsk 2005",
+  "slug": "gadomski-henryk-en"
+}

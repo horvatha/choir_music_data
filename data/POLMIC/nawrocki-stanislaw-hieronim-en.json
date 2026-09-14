@@ -1,0 +1,71 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/n/nawrocki-stanislaw-hieronim-en",
+  "title": "Nawrocki Stanisław Hieronim",
+  "name": "Nawrocki Stanisław Hieronim",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Wariacje b-moll na fortepian (1916, 1948)",
+      "year": null
+    },
+    {
+      "title": "Sonata es-moll na fortepian (1918, 1947)",
+      "year": null
+    },
+    {
+      "title": "Koncert na fortepian i orkiestrę z towarzyszeniem fanfar d-moll (1929, 1950)",
+      "year": null
+    },
+    {
+      "title": "Taniec hiszpański [wersja I] na fortepian (1930, 1948)",
+      "year": null
+    },
+    {
+      "title": "Wariacje G-dur na fortepian (1930, 1948)",
+      "year": null
+    },
+    {
+      "title": "Dwa nokturny na skrzypce i fortepian (1931, 1947)",
+      "year": null
+    },
+    {
+      "title": "Hymn dziękczynny na sopran, recytatora, 2 chóry, orkiestrę i organy (1932)",
+      "year": "1932"
+    },
+    {
+      "title": "U Króla Gór , opera dziecięca (1936)",
+      "year": "1936"
+    },
+    {
+      "title": "Dwanaście mazurków na fortepian (1944, 1949)",
+      "year": null
+    },
+    {
+      "title": "Czternaście preludiów na fortepian (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "Taniec hiszpański [wersja II] na orkiestrę (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "Karuzel na głos i orkiestrę (1950)",
+      "year": "1950"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "nawrocki-stanislaw-hieronim-en"
+}

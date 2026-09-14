@@ -1,0 +1,131 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/m/melcer-szczawinski-henryk-en",
+  "title": "Melcer-Szczawiński Henryk",
+  "name": "Melcer-Szczawiński Henryk",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Kanon na skrzypce, wiolonczelę i fortepian (1890)",
+      "year": "1890"
+    },
+    {
+      "title": "Kanony na fortepian (1890)",
+      "year": "1890"
+    },
+    {
+      "title": "Canzona na sopran i alt z towarzyszeniem fortepianu (1890)",
+      "year": "1890"
+    },
+    {
+      "title": "Koncert fortepianowy nr 1 e-moll (1893-94)",
+      "year": "1893-94"
+    },
+    {
+      "title": "Trio fortepianowe g-moll (1894)",
+      "year": "1894"
+    },
+    {
+      "title": "Trois morceaux caractéristiques B-dur na fortepian (1894)",
+      "year": "1894"
+    },
+    {
+      "title": "Pani Twardowska , ballada na tenor, chór mieszany i orkiestrę (1895)",
+      "year": "1895"
+    },
+    {
+      "title": "Koncert fortepianowy nr 2 c-moll (1897-98)",
+      "year": "1897-98"
+    },
+    {
+      "title": "Morceau fantastique na fortepian (1898)",
+      "year": "1898"
+    },
+    {
+      "title": "Quasi mazurka (na temat W.M.S) na fortepian (1903)",
+      "year": "1903"
+    },
+    {
+      "title": "Preludium na fortepian (1904)",
+      "year": "1904"
+    },
+    {
+      "title": "Nokturn na fortepian (1904)",
+      "year": "1904"
+    },
+    {
+      "title": "Sonata G-dur na skrzypce i fortepian (1907)",
+      "year": "1907"
+    },
+    {
+      "title": "Kaliszowi , pieśń na 4-głosowy chór męski (1908)",
+      "year": "1908"
+    },
+    {
+      "title": "Etiuda D-dur na fortepian (ok.1898)",
+      "year": null
+    },
+    {
+      "title": "Cztery nastrojowe obrazy w formie symfonii c-moll na orkiestrę (ok.1898)",
+      "year": null
+    },
+    {
+      "title": "Variations sur un thème de St. Moniuszko „Le cosaque” na fortepian (ok.1900)",
+      "year": null
+    },
+    {
+      "title": "Maria , opera w 3 aktach, libretto Gustaw Stefan Szczawiński według poematu Antoniego Malczewskiego (ok.1902)",
+      "year": null
+    },
+    {
+      "title": "Trois pensées musicales na fortepian (ok.1904-05)",
+      "year": null
+    },
+    {
+      "title": "Fuga czterogłosowa cis-moll na fortepian (ok.1904-05)",
+      "year": null
+    },
+    {
+      "title": "Valse à la Chopin na fortepian (ok.1904-05)",
+      "year": null
+    },
+    {
+      "title": "Pieśń tęsknoty na głos i fortepian (ok.1905)",
+      "year": null
+    },
+    {
+      "title": "Siostry na głos i fortepian (ok.1905)",
+      "year": null
+    },
+    {
+      "title": "Opłyń mnie, ciemny lesie na głos i fortepian (ok.1905)",
+      "year": null
+    },
+    {
+      "title": "Fünf Gesänge zu den Richard Dehmels Gedichten... na głos i fortepian (ok.1906-07)",
+      "year": null
+    },
+    {
+      "title": "Marsz generalski B-dur na orkiestrę dętą (ok.1920)",
+      "year": null
+    },
+    {
+      "title": "Wariacje na temat ludowy na fortepian (ok.1925)",
+      "year": null
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "melcer-szczawinski-henryk-en"
+}

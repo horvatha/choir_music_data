@@ -1,0 +1,127 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/t/taborowska-katarzyna-en",
+  "title": "Taborowska Katarzyna",
+  "name": "Taborowska Katarzyna",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": "composer and violinist; b. 31st May 1974 in Krakow. She studied composition under Bogusław Schaeffer in 1993-95. In 2001 she graduated from the Academy of Music in Poznań, where she studied with Lidia Zielińska, and in 2012 completed the Postgraduate Programme in Film and Theatre Music and Audiovisual Art. She is currently doing her PhD in composition at the Academy of Music in Krakow. She continued her education at the International Contemporary Music Workshops Krakow/Stuttgart, Acanthes 2000 workshops (thanks to a scholarship granted by the Muzyka Centrum Art Society), run by IRCAM in Paris, and International Multimedia Workshops in Skoki. Her works have been performed at many festivals of contemporary music, such as \"Poznań Music Spring\" (1998, 2000, 2012), \"Musica Polonica Nova\" in Wrocław (2000), Biennale of Art for Children in Poznań (2003, 2005), ACOUSMANIA Festival of Acoustic and Computer Music (2003), Contemporary Music Festival in Chile (2005), 16th Festival Forest Czech Republic (2005), Audio Art (2005, 2014), and \"No Woman No Art\" (2011). In 2002 Taborowska debuted at the \"Warsaw Autumn\" Festival; her work Dysocjacje ( Dissociations ) for accordion solo (2002), performed by Boris Lenka, has been commissioned by the Warsaw Autumn Friends’ Foundation and supported by Die Ernst von Siemens Musikstiftung. Her EQ SOUND for flute, clarinet, violin and cello (2002) and U 00 for tape (2001) were performed at the youth concerts accompanying the \"Warsaw Autumn\" Festival subsequently in 2003 and 2005. In 2005 Katarzyna Taborowska recorded a piece for the \"Rej 2005\" project on a commission of Polish Radio, which was premiered on March 28, 2006 on Polish Radio Programme 2. On December 5, 2012 the Mazovia Centre of Culture hosted a concert of her music (works composed between 2003 and 2012) as part of the series \"Portrety Kompozytorów\" (\"Portraits of Composers\"), organized by the Polish Composers' Union. Her works have been broadcast on Radio Beethoven (Chile), Radio Monalisa (the Netherlands), and Radio Merkury Poznań (Poland). As a violinist she performs her own solo works and collaborates with such ensembles as Trio+ or Familiare. Katarzyna Taborowska is a member of the Young Composers’ Circle of the Polish Composers’ Union (since 1999) and Polish Society for Electroacoustic Music - PSeME (since 2005). updated: November 2014 (ai)",
+  "birth": {
+    "place": "Krakow",
+    "date": "31st May 1974",
+    "raw": "b. 31st May 1974 in Krakow"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "21 minutes of music for organ (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Microsonatina for flute solo (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "String Quartet No. 1 (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Ave Maria for choir and seven instruments (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "String Quartet No. 2 (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Suite for string orchestra (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Recuerda for symphony orchestra (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Ping Violin Tape Pong for violin and tape (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "U 00 for tape (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Scheshem, instrumental theatre for instrumental ensemble, four actors, tape and video projections (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Dissociations for accordion solo (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "EQ SOUND for flute, clarinet, violin and cello (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Digi Cello 1 for cello and tape (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "String Quartet No. 3 (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Atmo 01 for violin and tape (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Elektroberek for violin and tape (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Through the window for chamber ensemble and tape (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "A toć była cała sprawa for violin and tape (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Romanza di Ratto for tape (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Three Nocturnal Stories for voice and electronics (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Wa Wa Wee You for tenor and cello (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Emfaza for violin and symphony orchestra (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Relay for three percussionists (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "2Pr for chamber ensemble and video projections (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Doser for symphony orchestra (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Rhizome , hypermedia symphonic piece (2014)",
+      "year": "2014"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "taborowska-katarzyna-en"
+}

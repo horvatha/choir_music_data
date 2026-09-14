@@ -1,0 +1,383 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/g/gorecki-henryk-mikolaj-en",
+  "title": "Górecki Henryk Mikołaj",
+  "name": "Górecki Henryk Mikołaj",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "b. 6th December 1933 in Czernica (near Rybnik), died 12th November 2010. He began his regular musical education in 1952 in the Secondary Music School in Rybnik, at the Teacher Department. He then went on to study composition with Bolesław Szabelski in the State Higher School of Music in Katowice(now the Music Academy)(1955-60). On 27th February 1958, Górecki's composer-concert was held at that academy; it was the first single-composer concert in the school's history. Five of his works were first performed at that concert, including the first version of Songs of Joy and Rhythm op. 7 for two pianos and chamber orchestra (1956) and Concerto for Five Instruments and String Quartet op. 11 (1957). In the same year, he made his debut at the 2nd International Festival of Contemporary Music \"The Warsaw Autumn\", where his Epitaph op. 12 for mixed choir and instrumental ensemble (1958) was performed. Thanks to this work, Górecki was hailed as one of the most radical avant-garde composers in Poland. He graduated in 1960 with first honours. In the same year, his Monologhi op. 16 for soprano and three instrumental groups (1960) won him the 1st prize in the Young Composers' Competition of the Polish Composers' Union. In 1967, his Refrain op. 21 for orchestra (1965) won the 3rd prize at the International Composers' Rostrum under the auspices of UNESCO in Paris; in 1968 - his Cantata op. 26 for organ (1968) won the 1st prize in a composers' competition in Szczecin; in 1973, his Ad Matrem op. 29 for solo soprano, mixed choir and orchestra (1971) received the 1st prize at the UNESCO International Composers' Rostrum in Paris. In 1961, Górecki worked in Paris, where his Symphony No. 1 \"1959\" op. 14 (1959) received the 1st prize in the 2nd Biennial Youth Competition. In Paris he also met Pierre Boulez, and in Cologne - Karlheinz Stockhausen. From 1965, Górecki was a faculty member at the State Higher School of Music in Katowice (as a lecturer from 1968, an associate professor - from 1972). At the academy, he taught score reading, instrumentation and composition. In 1973-74, thanks to funding from the Deutscher Akademischer Austauschdienst, he stayed in Berlin. In 1975-79 he was the rector of the State Higher School of Music in Katowice; in 1979 he became a nominated state professor. Among his students of composition, there were, among others, Eugeniusz Knapik, Andrzej Krzanowski, Rafał Augustyn. In that period, Górecki's works made an international success. He was granted the Music Award of the Katowice Province (1958 and 1975), the Minister of Culture and Art Award (3rd class - 1965, 1st class - 1969 and 1973), Polish Composers' Union Award for the year 1970, the Radio and Television Committee Award (1974), State Award, 1st Class (1976), Minister of Foreign Affairs Award (1992), Gold Cross of the Legion of Honor of the The Polish National Alliance in the USA (1994), TV Polonia award (1995), Award of Highest Honor of the Soka University in Tokyo (1996), \"Totus” Award of the Foundation Work of the New Millennium (Dzieło Nowego Tysiąclecia) Foundation established by the Polish Episcopal Conference, Music Award of the Polish Radio (2003), the \"Lux ex Silesia\" Award of the Metropolitan Bishop of Katowice Damian Zimoń (2003), the Commander’s Cross with Star of the Order of Polonia Restituta (2003), Order of St. Gregory the Great in 2009 – the highest decoration bestowed by the Holy See and the Order of White Eagle in 2010 – Poland’s highest decoration. Górecki received numerous honorary doctorates: from the Academy of Catholic Theology in Warsaw (1993), University of Warsaw (1994), Jagiellonian University in Kraków (2000), Catholic University of Lublin (2004), Academy of Music in Katowice (2004) and Kraków (2008), as well as Catholic University in Washington, University of Michigan in Ann Arbor, Victoria University in Victoria, Canada, and the University of British Columbia in Montreal. Married to the pianist Jadwiga Rurańska, he had two children: his daughter Anna is a pianist, his son Mikołaj - a composer. updated: 2018 (Izabela Zymer)",
+  "birth": {
+    "place": "Czernica (near Rybnik)",
+    "date": "6th December 1933",
+    "raw": "b. 6th December 1933 in Czernica (near Rybnik)"
+  },
+  "death": {
+    "place": null,
+    "date": "12th November 2010",
+    "raw": "died 12th November 2010"
+  },
+  "works": [
+    {
+      "title": "Four Preludes op. 1 for piano (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "Toccata op. 2 for two pianos (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "Three Songs op. 3 for medium voice and piano (1956)",
+      "year": "1956"
+    },
+    {
+      "title": "Variations op. 4 for violin and piano (1956)",
+      "year": "1956"
+    },
+    {
+      "title": "Quartettino op. 5 for two flutes, oboe and violin (1956)",
+      "year": "1956"
+    },
+    {
+      "title": "Sonatina in One Part op. 8 for violin and piano (1956)",
+      "year": "1956"
+    },
+    {
+      "title": "From a Bird’s Nest op. 9a for piano (1956)",
+      "year": "1956"
+    },
+    {
+      "title": "Lullaby op. 9 for piano (1956, 1980)",
+      "year": null
+    },
+    {
+      "title": "Two Songs to words by Federico Garcia Lorca op. 42 for medium voice and piano (1956, 1980)",
+      "year": null
+    },
+    {
+      "title": "Sonata for piano no. 1 op. 6 (1956, 1990)",
+      "year": null
+    },
+    {
+      "title": "Various Pieces op. 52 for piano (1956-61,19)",
+      "year": null
+    },
+    {
+      "title": "Sonata for Two Violins op. 10 (1957)",
+      "year": "1957"
+    },
+    {
+      "title": "Concerto for five instruments and string quartet op. 11 (1957)",
+      "year": "1957"
+    },
+    {
+      "title": "Epitaph op. 12 for mixed choir and instrumental ensemble (1958)",
+      "year": "1958"
+    },
+    {
+      "title": "Five Pieces op. 13 for two pianos (1959)",
+      "year": "1959"
+    },
+    {
+      "title": "Symphony No. 1 “1959” op. 14 for string orchestra and percussion (1959)",
+      "year": "1959"
+    },
+    {
+      "title": "Three Diagrams op. 15 for solo flute (1959)",
+      "year": "1959"
+    },
+    {
+      "title": "Songs of Joy and Rhythm op. 7 for two pianos and chamber orchestra (1959-60,19)",
+      "year": null
+    },
+    {
+      "title": "Monologhi op. 16 for soprano and three instrumental groups (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Scontri op. 17 for orchestra (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Diagram IV op. 18 for solo flute (1961)",
+      "year": "1961"
+    },
+    {
+      "title": "Chorale in the Canon Form for string quartet (1961, 1984)",
+      "year": null
+    },
+    {
+      "title": "Genesis – I. Elementi op. 19 no. 1 per tre archi (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Genesis – II. Canti strumentali op. 19 no. 2 per 15 esecutori (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Genesis – III. Monodramma op. 19 no. 3 per soprano, metalli di percussione e sei violbassi (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Three Pieces in the Old Style for string orchestra (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Choros I op. 20 per strumenti ad arco (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Refrain op. 21 for orchestra (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Little Music I op. 22 for two trumpet and guitar (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Little Music II op. 23 for 4 trumpets, 4 trombones, 2 pianos and percussion (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Little Music III op. 25 for violas (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Old Polish Music op. 24 for brass instruments and strings (1967-69)",
+      "year": "1967-69"
+    },
+    {
+      "title": "Cantata op. 26 for organ (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Canticum graduum op. 27 for orchestra (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Little Music IV “Trombone Concerto” op. 28 for clarinet, trombone, cello and piano (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Ad Matrem op. 29 for solo soprano, mixed choir and orchestra (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Two Sacred Songs op. 30 for solo baritone and orchestra (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Two Sacred Songs op. 30bis for solo baritone an orchestra (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Symphony No. 2 “Copernican” op. 31 for solo soprano and baritone, mixed choir and orchestra (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Two Songs op. 33 for a choir of 4 equal voices (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Euntes ibant et flebant op. 32 for mixed a cappella choir (1972-73)",
+      "year": "1972-73"
+    },
+    {
+      "title": "Three Dances op. 34 for symphony orchestra (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Amen op. 35 for mixed a cappella choir (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Symphony No. 3 “Symphony of Sorrowful Songs” op. 36 for solo soprano and orchestra (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Three Little Pieces op. 37 for violin and piano (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Beatus vir op. 38 - psalm for solo baritone, mixed choir and great orchestra (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Wide Water op. 39 for mixed a cappella choir (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Concerto for harpsichord (or piano) and string orchestra op. 40 (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Mazurkas op. 41 for piano (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Blessed Raspberry Songs op. 43 for voice and piano (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Dark Evening Falls op.45 , five folk songs for mixed a cappella choir (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "My Grey Vistula op. 46 , folk song for mixed a cappella choir (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Miserere op. 44 for mixed a cappella choir (1981-87)",
+      "year": "1981-87"
+    },
+    {
+      "title": "Lullabies and Dances op. 47 for violin and piano (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "O Domina Nostra op. 55 – Meditations on Our Lady of Jasna Góra for solo soprano and organ (1982-85,19)",
+      "year": null
+    },
+    {
+      "title": "Songs to words by Juliusz Słowacki op. 48 for voice and piano (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Oh, My Lavender Wreath op. 50 , seven folk songs for mixed a cappella choir (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Cloud Is Coming, Rain Is Falling op. 51 , five folk songs for mixed a cappella choir (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Recitativos and Ariosos “Lerchenmusik” op. 53 for clarinet, cello and piano (1984, 1986)",
+      "year": null
+    },
+    {
+      "title": "Three Lullabies op. 49 for mixed a cappella choir (1984, 1991)",
+      "year": null
+    },
+    {
+      "title": "Marian Songs op. 54 , five songs for mixed a cappella choir (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Under Your Care op. 56 , Marian song for 8-part mixed a cappella choir (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "For the Angelus Bells Are Ringing op. 57 for mixed a cappella choir (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "For You, Anne-Lill op. 58 for flute and piano (1986, 1990)",
+      "year": null
+    },
+    {
+      "title": "Aria (operatic scene) op. 59 for tuba, piano, tam-tam and great drum (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Totus Tuus op. 60 for mixed a cappella choir (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Come Holy Spirit op. 61 for mixed a cappella choir (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "It Is Already Dusk. String Quartet No. 1 op. 62 (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Good Night op. 63 for soprano, alto flute, 3 tam-tams and piano (1988-90)",
+      "year": "1988-90"
+    },
+    {
+      "title": "Intermezzo for piano (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Quasi una fantasia. String Quartet No. 2 op. 64 (1990-91)",
+      "year": "1990-91"
+    },
+    {
+      "title": "Concerto-Cantata op. 65 for solo flute and orchestra (1991-92)",
+      "year": "1991-92"
+    },
+    {
+      "title": "Little Requiem for a Certain Polka op. 66 (Kleines Requiem für eine Polka) for piano and 13 instruments (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Piece for String Quartet (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Lento cantabile na flet, skrzypce i wiolonczelę (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Moment musical na fortepian (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "By the Window, By Mine for voice and piano (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Three Fragments to words by Stanisław Wyspiański op. 69 for voice and piano (1995-96)",
+      "year": "1995-96"
+    },
+    {
+      "title": "Valentine Piece for flute and bell (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Little Fantasy op. 73 for violin and piano (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Salve Sidus Polonorum. Cantata About St Adalbert op. 71 for great mixed choir, two pianos, organ and percussion ensemble (1997-2000)",
+      "year": "1997-2000"
+    },
+    {
+      "title": "Hey, Downhill, Dun Horse , five regional Kurpie songs for a cappella choir (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "String Quartet No. 3 (1999-2005)",
+      "year": "1999-2005"
+    },
+    {
+      "title": "Lobgesang op. 76 for mixed choir and orchestral bells (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "May They Live and Sing for Us ( Niech nam żyją i śpiewają) for vocal ensemble (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Quasi una fantasia op. 78 for string orchestra (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "For Johnnie (Dla Jasiunia), 3 little pieces for violin and piano (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Why Come Here, Hoary Fog? ( Po co żeś tu przyszło Siwa Mgło) op. 80, small-scale pieces for two violin sections (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "The Song of Rodziny Katynskie ( Piesń Rodzin Katynskich ) op. 81 for a cappella choir (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Symphony No. 4 \"Tansman Episodes\" op. 85 for large orchestra with obbligato piano and organ (2006)",
+      "year": "2006"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Droba Krzysztof, Górecki Henryk Mikołaj, In: PWM Music Encyclopaedia (biographical section ed. by Elżbieta Dziębowska), vol. “efg”, PWM, Kraków 1987 Helman Zofia, Górecki Henryk Mikołaj, In: Komponisten der Gegenwart (Hg. Hanns-Werner Heister, Walter-Wolfgang Sparrer), edition text + kritik, edition text + kritik, München 1992- Jacobson Bernard, A Polish Renaissance, Phaidon Press Ltd., London 1996 Thomas Adrian, Górecki, Clarendon Press, Oxford 1997 Thomas Adrian, Górecki, PWM, Kraków 1998 Droba Krzysztof, Między wzniosłością a cierpieniem. O muzyce Henryka Mikołaja Góreckiego , \"Ruch Muzyczny\" 2008 nr 25, s. 6-8. Doksa Magdalena, Całe moje życie to muzyka, Henrykowi Mokołajowi Góreckiemu z okazji 75. rocznicy urodzin, \"Kultura i Biznes\" nr 45, listopad - grudzień 2008, s. 12-13.",
+  "slug": "gorecki-henryk-mikolaj-en"
+}

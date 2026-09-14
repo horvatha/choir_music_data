@@ -1,0 +1,231 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/w/wnuk-nazarowa-joanna-en",
+  "title": "Wnuk-Nazarowa Joanna",
+  "name": "Wnuk-Nazarowa Joanna",
+  "occupation": "promoter, composer, performer",
+  "is_composer": true,
+  "description": "composer, conductor and teacher; b. 28th May 1949 in Gdynia. She has lived in Kraków since the age of 5. She studied piano and also took oboe and violin lessons at the Fryderyk Chopin Secondary Music School in Kraków. In 1974 she graduated from the Academy of Music in Kraków, where she studied conducting and composition under Krzysztof Penderecki. In 1971-72 she participated in conducting courses with Hans Swarowski in Austria. She gained her first professional experience at the Silesian Opera in Bytom. In 1973-74 she was a musical director at the Ludowy Theatre in Kraków, and in 1977-78 at the Stary Theatre in Kraków. In 1991-1997 she was the managing director of the Kraków Philharmonic. She was also an adviser of the “Kraków 2000” Festival Programme Committee and a member of the Villa Decious Association. In 1997-1999 she held the office of the Polish Minister of Culture and Arts on the recommendation of the Freedom Union party. During her term, she actively participated in numerous international forums, such as the UNESCO Intergovernmental Conference on Cultural Policies for Development (Stockholm 1998), the International Network on Cultural Policy Meeting in Canada (Ottawa 1998), as well as Forum of the European Ministers of Culture in Austria (Linz 1998). In December 1998 she was the head of the Polish delegation on the Washington Conference on Holocaust Era Assets. In 2000-2018 she was the General and Programme Director of the Polish National Radio Symphony Orchestra in Katowice. She initiated numerous projects of the orchestra, such as Marathon of Górecki’s Works, Train to Kilar’s Music, Musical Voyage, Kilar’s Day, Kilar’s Night, Górecki/Penderecki Festival in celebration of the composers’ 75th anniversary, and Festival of Premieres – Polish Contemporary Music Biennale. Under her management, in 2014 the Polish National Radio Symphony Orchestra received a new concert hall of 1,800 seats with unique acoustics. Since 1974 she has been a lecturer at the Academy of Music in Kraków and a member of the Music Theory and Interpretation Department. She has taken part in numerous seminars and symposiums and published in academic and popular journals (among others on Zygmunt Konieczny’s theatre music). As a conductor, she has taken part in the most important international festivals, such as Warsaw Autumn or Oregon Bach Festival. Many times she has been invited to be a jury member of the “Cantate Deo” International Festival of Religious Songs in Gliwice. As a composer, Joanna Wnuk-Nazarowa writes mostly theatre music (e.g. to Eugène Ionesco’s Exit the King , Molier’s The Misanthrope , William Shakespeare’s Richard III , Witold Gombrowicz’s Operetta ) and music for the Polish Television Theatre productions (eg. Juliusz Słowacki’s The Silver Dream of Salomea , which was included in the list of the “Golden Hundred Television Theatre Productions”). She has also arranged music for many television spectacles, mainly directed by Kazimierz Kutz. Since retiring in 2018, she has devoted much time to composing. Joanna Wnuk-Nazarowa has received numerous awards and distinctions, including Knight’s and Officer's Cross of the Order of Polonia Restituta, Silver and Gold Medal for Merit to Culture “Gloria Artis”, Gold Medal of Merit for National Defense, Guardian of National Remembrance Sites Gold Medal, Meritorious Culture Activist Badge, Minister of Culture and Art Third Degree Award for Pedagogical Work, Polish Composers' Union Honorary Award, “Coryphaeus of Polish Music” Honorary Award, ZAiKS Authors' Association Award on its 100th anniversary. update: 2020 (Agnieszka Cieślak)",
+  "birth": {
+    "place": "Gdynia",
+    "date": "28th May 1949",
+    "raw": "b. 28th May 1949 in Gdynia"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Głos miłego mego , song for 3-voice female choir (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Wszech-kanon non-stop for 3 or more wind instruments (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "D.Z.W.M. for 13 performers (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Oh, Dr Jekyll, oh, Mr Hyde for oboe, organ and electric organ (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Lady Macbeth , song for female voice and flute, clarinet, oboe, fagot and percussion (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Solution for four actors and percussion (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Requiem II for soprano or mezzosoprano and grand symphony orchestra (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Kwadryptyk podwójnostroikowy for oboe, cor anglais, fagot and contrafagot (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Music for radio play Półbaśnie, dir. Romana Bobrowska for chamber ensemble (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Precz? , quadrophonic piece (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Życie i miłość poety , 10 romantic songs for alto, baritone and piano (1981-82)",
+      "year": "1981-82"
+    },
+    {
+      "title": "Lamento for oboe and strings (1983-84)",
+      "year": "1983-84"
+    },
+    {
+      "title": "Morze Śródziemne, żegnaj. Próba rekonstrukcji for two guitars and orchestra (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Liedchen ohne Worte for harp, harpsichord and piano (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Miniatures for string quartet (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Psalmy przyszłości? for choir to words by Zygmunt Krasiński (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Planctus – pamięci 96-ciu for choir and chamber ensemble (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Se je chant – chace for soprano, flute and oboe (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Scherzo for string quintet (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Psalm dobrej woli? for choir to words by Zygmunt Krasiński (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Quintetto per archi (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Preludē et Grande Fugue \"La Catastrophe\" for grand symphony orchestra, boy's soprano voice and hook harp (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Listen, Nero! for alto and grand symphony orchestra (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Il tempo passa , passacaglia for large symphony orchestra (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Wanda , opera for soloists (soprano, mezzo-soprano, tenor, bass), mixed choir, children's choir, ballet and symphony orchestra (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "A Maiden , a song for mixed choir to poem by Bolesław Leśmian (2022)",
+      "year": "2022"
+    },
+    {
+      "title": "Diptych \"Don't turn around\" for 2 flutes solo and chamber orchestra (2022)",
+      "year": "2022"
+    },
+    {
+      "title": "Quintetto per archi II Krzysztof Penderecki in memoriam (2023)",
+      "year": "2023"
+    },
+    {
+      "title": "Lark Concerto for amplified harpsichord and chamber orchestra (2023)",
+      "year": "2023"
+    },
+    {
+      "title": "Siedem grzechów głównych. Suita tragikomiczna for large symphony orchestra (2024)",
+      "year": "2024"
+    },
+    {
+      "title": "Lullabies for soprano, clarinet, percussion, violin and piano (2024)",
+      "year": "2024"
+    },
+    {
+      "title": "Triptych for trumpet and percussion solo (2024)",
+      "year": "2024"
+    },
+    {
+      "title": "Ciacona for carillon (2024)",
+      "year": "2024"
+    },
+    {
+      "title": "Kwadryptyk powstańczy for a 6-part mixed choir (2024)",
+      "year": "2024"
+    },
+    {
+      "title": "Gloria for symphony orchestra, mixed choir and children's choir (2025)",
+      "year": "2025"
+    },
+    {
+      "title": "Leonore the Fourth , symphonic overture (2025)",
+      "year": "2025"
+    },
+    {
+      "title": "Two Sonnets for a 18-part mixed choir to words by R. M. Rilke (2025)",
+      "year": "2025"
+    },
+    {
+      "title": "Annunciation for countertenor, large symphony orchestra and ensemble of ancient instruments to words by R. M. Rilke (2026)",
+      "year": "2026"
+    },
+    {
+      "title": "Music for television theatre production Grzech , dir. Irena Babel (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Music for theatre performance Operetka , dir. Krystyna Meissner for singing actors and small symphony orchestra (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Music for television theatre production Kolacja na 4 ręce , dir. Kazimierz Kutz (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Music for theatre performance Król umiera czyli ceremonie , dir. Krzysztof Nazar (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Music for television theatre production Mizantrop , dir. Krzysztof Nazar (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Music for television theatre production Sen srebrny Salomei , dir. Krzysztof Nazar (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Music for television theatre production Wujaszek Wania , dir. Kazimierz Kutz (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Music for television theatre production Ziarno zroszone krwią , dir. Kazimierz Kutz (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Music for television theatre production U rodziny , dir. Krzysztof Nazar (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Music for theatre performance Wesele , dir. Krzysztof Nazar (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Music for television theatre production Emigranci , dir. Kazimierz Kutz (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Music for television theatre production Antygona w Nowym Jorku , dir. Kazimierz Kutz (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Music for theatre performance Kolacja na 4 ręce , dir. Krzysztof Jasiński (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Music for theatre perfomance Ryszard III , dir. Krzysztof Nazar (2000)",
+      "year": "2000"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "wnuk-nazarowa-joanna-en"
+}

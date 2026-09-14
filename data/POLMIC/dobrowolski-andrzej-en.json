@@ -1,0 +1,147 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/d/dobrowolski-andrzej-en",
+  "title": "Dobrowolski Andrzej",
+  "name": "Dobrowolski Andrzej",
+  "occupation": "promoter, composer",
+  "is_composer": true,
+  "description": "composer and teacher, b. 9th September 1921 in Lwów (Lvov), d. 8th August 1990 in Graz. During the war he studied organ with Bronisław Rutkowski, clarinet with Ludwik Kurkiewicz and singing with Stefan Belina-Skupiewski at the Warsaw Conservatoire. In 1945-51 he continued his studies with Stefania Łobaczewska (theory) and Artur Malawski (composition) at the State Higher School of Music in Cracow. From 1947 to 1954 he taught theory at the State Secondary Music School and at the State Higher School of Music in Cracow. Subsequently, in 1954-76, he was associate professor of theory at the State Higher School of Music in Warsaw, where (from 1964) he also taught his own composition class. From 1976, after his state nomination to the academic title of professor, he was a lecturer at the Hochschule für Musik und darstellende Kunst in Graz, where he taught classes in composition and electronic music. From 1979 he also held the post of dean at the Department of Composition, Theory and Conducting at that academy. Dobrowolski was also engaged in the activity of the Experimental Studio of the Polish Radio in Warsaw as well as the Institut für Elektronische Musik at the Hochschule für Musik in Graz. Dobrowolski wrote a theoretical study entitled Metodyka nauczania harmonii w szkołach muzycznych II stopnia [ Methodology of teaching harmony in secondary music schools ] (PWM, Cracow 1967). In 1969 he was decorated with the Gold Cross of Merit. In 1971 he received the Minister of Culture and Arts Award, in 1972 - the Award of the Polish Composers' Union for all his artistic achievements, and in 1990 - the Johann Joseph Fux Music Award of the Government of Styria.",
+  "birth": {
+    "place": "Lwów (Lvov)",
+    "date": "9th September 1921",
+    "raw": "b. 9th September 1921 in Lwów (Lvov)"
+  },
+  "death": {
+    "place": "Graz",
+    "date": "8th August 1990",
+    "raw": "d. 8th August 1990 in Graz"
+  },
+  "works": [
+    {
+      "title": "Symphonic Variations for orchestra (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "Overture for symphony orchestra (1950-51)",
+      "year": "1950-51"
+    },
+    {
+      "title": "Concerto for bassoon and orchestra (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Symphony No. 1 (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "Trio for oboe, clarinet and bassoon (1956)",
+      "year": "1956"
+    },
+    {
+      "title": "Eight Studies for oboe, trumpet, bassoon and double-bass pizzicato (1958-59)",
+      "year": "1958-59"
+    },
+    {
+      "title": "Music for Magnetic Tape No. 1 (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Music for String Orchestra and Four Groups of Wind Instruments (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Music for Magnetic Tape and Solo Oboe (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Music for Strings, Two Groups of Wind Instruments and Two Loudspeakers (1966-67)",
+      "year": "1966-67"
+    },
+    {
+      "title": "Music for Orchestra No. 1 (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Krabogapa for clarinet, trombone, cello and piano (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Amar. Music for Orchestra No. 2 (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Music for Magnetic Tape and Solo Piano (1971-72)",
+      "year": "1971-72"
+    },
+    {
+      "title": "Music for Solo Tuba (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Music for Orchestra No. 3 (1972-73)",
+      "year": "1972-73"
+    },
+    {
+      "title": "S for S (Study for Synthi) for tape (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "A-LA. Music for Orchestra No. 4 (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Music for Mixed Choir, Two Groups of Wind Instruments, Double-Basses and Percussion (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Music for Magnetic Tape and Solo Double-Bass (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Music for Three Accordions, Mouth-Organ and Percussion (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Passacaglia. Music for Orchestra No. 5 (1978-79)",
+      "year": "1978-79"
+    },
+    {
+      "title": "Music for Magnetic Tape and Solo Bass Clarinet (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Music for Orchestra No. 6 (1981-82)",
+      "year": "1981-82"
+    },
+    {
+      "title": "Musik für Grazer Bläserkreis for 8 trumpets, 8 horns, 8 trombones, 2 tubas and percussion (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Music for Orchestra and Solo Oboe (1984-85)",
+      "year": "1984-85"
+    },
+    {
+      "title": "Flüchten - music for chamber ensemble and reciting voice to a text by Wilhelm Muster (1985-86)",
+      "year": "1985-86"
+    },
+    {
+      "title": "Music for Orchestra No. 7 (1986-87)",
+      "year": "1986-87"
+    },
+    {
+      "title": "Passacaglia für TX [1st version] computer music for tape (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Passacaglia für TX [2nd version] computer music for tape (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "String Quartet (1989)",
+      "year": "1989"
+    }
+  ],
+  "publications": "Metodyka nauczania harmonii w szkołach muzycznych II stopnia [Methodology of teaching harmony in secondary music schools], PWM, Kraków 1967 Wpływ festiwali \"Warszawska Jesień\" na rozwój życia muzycznego w Polsce [The Influence of “Warsaw Autumn” Festivals on Music Life Development in Poland], \"Muzyka\" 1975 nr 3",
+  "bibliography": "Stawowy Ludomira, Dobrowolski Andrzej, In: PWM Music Encyclopaedia (biographical section ed. by Elżbieta Dziębowska), vol. “CD”, PWM, Kraków 1984 Jaraczewska-Mockałło Krystyna, Dobrowolski Andrzej. Katalog twórczości i bibliografia [Catalogue of Works and Bibliography], Akademia Muzyczna w Warszawie, Warszawa 1996 Chodkowski Andrzej, Dobrowolski Andrzej, In: PWM Music Encyclopaedia (biographical section ed. by Elżbieta Dziębowska), vol. “CD – Supplement”, PWM, Kraków 2001",
+  "slug": "dobrowolski-andrzej-en"
+}

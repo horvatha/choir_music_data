@@ -1,0 +1,115 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/j/janas-pawel-en",
+  "title": "Janas Paweł",
+  "name": "Janas Paweł",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "TangoTronic for digital accordion (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Sonata No. 1 \"Infinity\" for accordion, multiphones and loudspeaker (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Hypnosis for accordion, loudspeaker, clip and music box (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Hyper for accordion and loopstation (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Home for accordion solo (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Catch Me! for accordion and loopstation (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Loopman for accordion and loopstation (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Black Button for accordion and loopstation (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Landscapes for accordion and loopstation (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Virus for accordion and loopstation (2018",
+      "year": null
+    },
+    {
+      "title": "station (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Landscapes for accordion and loopstation (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Virus for accordion and loopstation (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Moon Spice for accordion and loopstation (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Sonata No. 2 \"Signals\" for accordion solo (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Vinci for K-Drone and loopstation (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "PrepaReed for quarter-tone accordion, prepared accordion and button portative (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Ignis Fatuus for quarter-tone accordion and accordion (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Organism for accordion orchestra and visualizations (2022)",
+      "year": "2022"
+    },
+    {
+      "title": "Sonata No. 3 for accordion solo (2022)",
+      "year": "2022"
+    },
+    {
+      "title": "Organism 2.0 for accordion orchestra and electronics (2024)",
+      "year": "2024"
+    },
+    {
+      "title": "Accordion Concerto \"Ararauna\" for accordion, string orchestra and multi-percussion (2025)",
+      "year": "2025"
+    },
+    {
+      "title": "Kiedy słońce kłania się dwa razy for the button portative, K-drone, violin and viola d'amore (2025)",
+      "year": "2025"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "janas-pawel-en"
+}

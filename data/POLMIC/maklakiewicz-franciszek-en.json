@@ -1,0 +1,103 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/m/maklakiewicz-franciszek-en",
+  "title": "Maklakiewicz Franciszek",
+  "name": "Maklakiewicz Franciszek",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Kocham Cię , pieśń do słów Kazimierza Przerwy-Tetmajera (1934)",
+      "year": "1934"
+    },
+    {
+      "title": "Allegro symfoniczne na orkiestrę (1935)",
+      "year": "1935"
+    },
+    {
+      "title": "Kwartet smyczkowy (1935)",
+      "year": "1935"
+    },
+    {
+      "title": "Na próżno , pieśń do słów B. Bąkowskiej (1935)",
+      "year": "1935"
+    },
+    {
+      "title": "A możesz już zapomnieć , pieśń do słów B. Bąkowskiej (1935)",
+      "year": "1935"
+    },
+    {
+      "title": "Zawód , pieśń do słów Kazimierza Przerwy-Tetmajera (1935)",
+      "year": "1935"
+    },
+    {
+      "title": "W srebrną noc , pieśń do słów M. Łuczyńskiej (1935)",
+      "year": "1935"
+    },
+    {
+      "title": "Sen kotka na flet, altówkę, róg i harfę (1935)",
+      "year": "1935"
+    },
+    {
+      "title": "Kujawiak pogański na małą orkiestrę (1936)",
+      "year": "1936"
+    },
+    {
+      "title": "Wycinanki łowickie na małą orkiestrę (1936)",
+      "year": "1936"
+    },
+    {
+      "title": "Noc , pieśń do słów Teofila Lenartowicza (1936)",
+      "year": "1936"
+    },
+    {
+      "title": "Panieneczka , pieśń do słów Adama Asnyka (1936)",
+      "year": "1936"
+    },
+    {
+      "title": "Wanda , dwie sceny operowe do słów Cypriana Kamila Norwida (1936)",
+      "year": "1936"
+    },
+    {
+      "title": "Od wsi do wsi , suita na małą orkiestrę (1937)",
+      "year": "1937"
+    },
+    {
+      "title": "Zmrok , pieśń do słów Leopolda Staffa (1938)",
+      "year": "1938"
+    },
+    {
+      "title": "Stajenka betlejemska , sześć obrazów z muzyką do słów K. Jeżewskiej (1938)",
+      "year": "1938"
+    },
+    {
+      "title": "Jakże możecie kwiaty , pieśń do słów Leopolda Staffa (1938)",
+      "year": "1938"
+    },
+    {
+      "title": "Joanna tango , pieśń do słów Drabika (1938)",
+      "year": "1938"
+    },
+    {
+      "title": "Podanie o Piaście , utwór sceniczny do słów K. Jeżewskiej (1938)",
+      "year": "1938"
+    },
+    {
+      "title": "Marsz na orkiestrę dętą (1939)",
+      "year": "1939"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Demska Mieczysława, Maklakiewicz Franciszek, PWM, Kraków 2000",
+  "slug": "maklakiewicz-franciszek-en"
+}

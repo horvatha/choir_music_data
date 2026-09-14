@@ -1,0 +1,139 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/c/czyz-henryk-en",
+  "title": "Czyż Henryk",
+  "name": "Czyż Henryk",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": "conductor, composer and music tutor, b. 16th June 1923 in Grudziądz, d. 16th January 2003 in Warsaw. In 1946-48 he studied law and philosophy at the Nicolaus Copernicus University in Toruń. In 1952 he graduated from the State Higher School of Music in Poznań, where he studied composition under Tadeusz Szeligowski and conducting with Walerian Bierdiajew. In 1952-53 he conducted in the Stanisław Moniuszko Opera in Poznań; in 1953-57 he was 2nd conductor of the Polish Radio Grand Symphony Orchestra; in 1957-60 – artistic director and 1st conductor of Łódź Philharmonic; in 1961-62 – conductor in Warsaw Opera, in 1963-67 – artistic director and 1st conductor of Cracow Philharmonic. From 1962 to 1966 he taught a conducting class in the State Higher School of Music in Cracow. One of his famous disciples was Antoni Wit. In 1971-74 he held the post of Generalmusikdirektor in Düsseldorf, while simultaneously acting as artistic director and 1st conductor of Łódź Philharmonic. In 1980-95 he taught a conducting class in Warsaw’s Music Academy. He gave concerts in nearly all European countries, in South America and the United States, conducting such orchestras as: the Leningrad, Berlin, Stockholm and Madrid Philharmonics, BBC and Santa Cecilia Orchestras. His recordings were released under such labels as Polskie Nagrania, Philips, Harmonia Mundi, Melodiya, Electra. He won numerous record awards, including Grand Prix du Disque and the Edison Award for Krzysztof Penderecki’s Passion (Philips, 1967), Grand Prix Mondial for the quadrophonic recording of Raj i Peri by Robert Schumann (Electra, 1974). In his vast repertoire, much attention was dedicated to oratorios, classicism and contemporary music. He introduced into Polish opera and concert halls many works by Igor Stravinsky, Arthur Honegger, Claude Debussy. In 1966-69 he closely collaborated with Krzysztof Penderecki, conducting the first performances of the Passion, Dies irae, The Devils of Loudun , as well as presenting Penderecki’s works in other countries. He wrote and published many books on music, including Ucieczka spod klucza [ The Flight from the Clef ] (Warsaw 1973), Porcelanowy amorek [ China Cupid ] (Warsaw 1977), Jak z nut [ By the Notes ] (Warsaw 1978), Serkal i inne tizery [ Serkal and Other Teasers ] (Łódź 1978), Nie taki diabeł straszny – gawędy telewizyjne [ Don’t Be Afraid of the Wolf - TV Talks ] (Łódź 1979), Tizery [ Teasers ] (Warsaw 1982), Scrip-tease (Warsaw 1988), Pamiętam jak dziś [ I Remember As If It Were Today ] (Warsaw 1993), Niewczesne żarty [ Ill-Timed Jokes ] (Warsaw 1995). Henryk Czyż was decorated with the Gold Cross of Merit (1953), the Cavalier’s Cross of the Polonia Restituta Order (1958), Minister of Culture and Art Award, 1st Class (1975), State Award, 1st Class for his whole artistic activity (1978).",
+  "birth": {
+    "place": "Grudziądz",
+    "date": "16th June 1923",
+    "raw": "b. 16th June 1923 in Grudziądz"
+  },
+  "death": {
+    "place": "Warsaw",
+    "date": "16th January 2003",
+    "raw": "d. 16th January 2003 in Warsaw"
+  },
+  "works": [
+    {
+      "title": "Shepherdess for high-pitched voice and piano (1941)",
+      "year": "1941"
+    },
+    {
+      "title": "Triptych for symphony orchestra (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "Farewells Three Songs for low voice and piano to words by Alexander Pushkin (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "Study for symphony orchestra (1948-49)",
+      "year": "1948-49"
+    },
+    {
+      "title": "A Wedding cantata for tenor, mixed choir and orchestra to words by Bruno Jasieński (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "Divertimento in B-flat Major [1st version] for chamber orchestra (1949-50)",
+      "year": "1949-50"
+    },
+    {
+      "title": "Concertino for piano and orchestra (1949-62)",
+      "year": "1949-62"
+    },
+    {
+      "title": "Quartet for flute, oboe, clarinet and bassoon (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "Symphonic Variations on a Polish Theme for orchestra (1950-52)",
+      "year": "1950-52"
+    },
+    {
+      "title": "Piano Variations (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "Rondo for piano and small symphony orchestra (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Dance Impressions for small symphony orchestra (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Overture for symphony orchestra (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "White-Haired a musical (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Three Humorous Songs for low voice and piano (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Two Buffo Arias for bass and piano to words by the composer (1964-74)",
+      "year": "1964-74"
+    },
+    {
+      "title": "Bałandaszek’s Aria for tenor voice from the unfinished opera Them after Stanisław Ignacy Witkiewicz (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "The Baffled Cynologist comic opera in one act (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Musical Dreams two songs for soprano and piano (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Divertimento in B-flat Major [2nd version] for chamber orchestra (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Divertimento per otto (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Kreutzer Etude no. 1 in A Minor for string orchestra (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Kreutzer Etude no. 2 in C Major for symphony orchestra (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Kreutzer Etude no. 8 in E Major for symphony orchestra (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Jazz Study for string quartet (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Canzona di barocco for string orchestra (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Rondo for flutes and double-bass (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Joy of Swinging Music dance-suite for flute quartet and double-bass (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Triptych for voice and string orchestra (1999)",
+      "year": "1999"
+    }
+  ],
+  "publications": "Ucieczka spod klucza [The Flight from the Clef], Warszawa 1973 Porcelanowy amorek [China Cupid], Warszawa 1977 Jak z nut [By the Notes], Warszawa 1978 Serkal i inne tizery [Serkal and Other Teasers], Łódź 1978 Nie taki diabeł straszny – gawędy telewizyjne [Don’t Be Afraid of the Wolf - TV Talks], Łódź 1979 Tizery [Teasers], Warszawa 1982 Scrip-tease, Warszawa 1988 Pamiętam jak dziś [I Remember As If It Were Today], Warszawa 1993 Niewczesne żarty [Ill-Timed Jokes], Warszawa 1995 Zaczarowana szkatułka. Listy i opowieści przeważnie prawdziwe [A Magic Casket. Letters and Stories Mostly True], Ars Nova, Poznań 1998",
+  "bibliography": "Erhardt Ludwik, Czyż Henryk, In: PWM Music Encyclopaedia (biographical part ed. by Elżbieta Dziębowska), t. „cd”, PWM, Kraków 1985",
+  "slug": "czyz-henryk-en"
+}

@@ -1,0 +1,207 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/b/bujarski-zbigniew-en",
+  "title": "Bujarski Zbigniew",
+  "name": "Bujarski Zbigniew",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "composer, b. 21st August 1933 in Muszyna; d. 13th April 2018 in Krakow. He studied conducting (1955-58), and composition with Stanisław Wiechowicz (1956-60) at the State Higher School of Music in Cracow. In 1959-61 he worked as an editor for the PWM Polish Music Publishers in Cracow, and in 1961-67 as a music presenter and editor in the Rzeszów Philharmonic. Since 1972 he has been on the faculty of the Music Academy in Cracow. In 1978-86 he was dean of the Department of Composition, Conducting and Music Theory. Since 1992 he has held the post of professor of composition in that academy. Bujarski's compositions have been awarded in numerous competitions. In 1961 he received an honourable mention at the Young Composers' Competition of the Polish Composers' Union for Zones for symphony ensemble (1961), and in 1964 - 2nd prize in the Grzegorz Fitelberg Competition for Composers in Katowice for his Kinoth for chamber orchestra (1963). In 1967 his Contraria for symphony orchestra (1965) received an honourable mention, and in 1978 his Musica domestica for 18 string instruments (1977) was one of the recommended works at the International Rostrum of Composers in Paris. Zbigniew Bujarski has twice been granted the Minister of Culture and Arts Award, Second Class (1979, 1987), as well as the Award of the Polish Composers' Union and the City of Cracow Award (1984). In 1991 he received the American Alfred Jurzykowski Foundation Award. In 2011 he was awarded the \"Gloria Artis\" Silver Medal for Merit to Culture by the Minister of Culture and National Heritage.",
+  "birth": {
+    "place": "Muszyna",
+    "date": "21st August 1933",
+    "raw": "b. 21st August 1933 in Muszyna"
+  },
+  "death": {
+    "place": "Krakow",
+    "date": "13th April 2018",
+    "raw": "d. 13th April 2018 in Krakow"
+  },
+  "works": [
+    {
+      "title": "Burning Bushes [1st version], 3 songs for voice and piano (1958)",
+      "year": "1958"
+    },
+    {
+      "title": "Burning Bushes [2nd version], 3 songs for voice and chamber ensemble (1958)",
+      "year": "1958"
+    },
+    {
+      "title": "Triptych for string orchestra and percussion (1958)",
+      "year": "1958"
+    },
+    {
+      "title": "Synchrony I for soprano and chamber ensemble (1959)",
+      "year": "1959"
+    },
+    {
+      "title": "Synchrony II for soprano, mixed choir and symphony orchestra (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Zones for symphony ensemble (1961)",
+      "year": "1961"
+    },
+    {
+      "title": "Kinoth for chamber orchestra (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Chamber Music Composition for voice, flute, harp, piano and percussion (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Contraria for symphony orchestra (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "El Hombre , oratorio for solo voices (soprano, mezzo-soprano, baritone), mixed choir and orchestra (1969-73)",
+      "year": "1969-73"
+    },
+    {
+      "title": "Musica domestica for 18 string instruments (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Concerto per archi for solo violin and string orchestra (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Similis Greco I for symphony orchestra (1st part of the Similis Greco cycle) (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Quartet for the Opening of the House for string quartet (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Nativity for mixed choir and symphony orchestra (3rd part of the Similis Greco cycle) (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Veni Creator Spiritus for organ (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "God Will Give Us One Day , a song for baritone and piano to words by Jan Lechoń (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Quartet for Advent for string quartet (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Gardens a song cycle for soprano and orchestra (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Veni Creator Spiritus for symphony orchestra (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Quartet for Easter for string quartet (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Concerto per archi II for solo cello and string orchestra (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Birds’ Fear for violin, viola and percussionist (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Scolaresca for string orchestra (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Pavan for “The Remote One” for string orchestra (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Birds’ Fear II for 2 clarinets and percussion (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Five Songs for soprano, string orchestra and vibraphone (1994-96)",
+      "year": "1994-96"
+    },
+    {
+      "title": "Birds’ Fear III for clarinet, bass clarinet, violin, viola and percussion (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Cassazione per Natale for chamber wind ensemble and percussion (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Per cello for solo cello (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Lumen for symphony orchestra (2nd part of the “Similis Greco” cycle) (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "La Danza per “Aukso” for chamber string orchestra (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Alleluiah for mixed choir, string orchestra, two trumpets and percussion (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Stabat Mater na chór mieszany i orkiestrę symfoniczną (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "String Quartet “For the Autumn” (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Bagatelle for string orchestra (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Orniphania for cello and piano (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Frutti di Marek for cello, accordion and piano (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Peirene for symphony orchestra (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Daybreak songs for mezzo-soprano and string orchestra (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Elegos , funeral song for cello solo and string orchestra (2004-2005)",
+      "year": "2004-2005"
+    },
+    {
+      "title": "Games for orchestra (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "To the Space for symphony orchestra (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "KalSzlez for cello and piano (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Largo for two cellos and viola (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Adagio for two cellos (2013)",
+      "year": "2013"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Perkowska Małgorzata, Bujarski Zbigniew , In: PWM Music Encyclopaedia (biographical part ed. by Elżbieta Dziębowska) [Encyklopedia Muzyczna PWM (część biograficzna pod red. Elżbiety Dziębowskiej)], PWM, Kraków 1979 Malecka Teresa, Zbigniew Bujarski’s Music World - The Songs [Świat muzyki Zbigniewa Bujarskiego. Twórczość pieśniowa], In: Cracow School of Composers 1888-1988 [Krakowska Szkoła Kompozytorska 1888-1988] (ed. by Teresa Malecka), Akademia Muzyczna w Krakowie, Kraków 1992 Małecka-Myślik Magda, Rodem z Muszyny: „Nie znoszę festiwali” , rozmowa ze Zbigniewem Bujarskim, „Almanach Muszyny” 1993 Malecka Teresa, Rejuvenating Tradition in the Music of Zbigniew Bujarski [Odnawianie tradycji w muzyce Zbigniewa Bujarskiego], In: Polish Music 1945-1995 [Muzyka polska 1945-1995 ] (ed. by Krzysztof Droba, Teresa Malecka, Krzysztof Szwajgier), Akademia Muzyczna w Krakowie, Kraków 1996 Widłak Elżbieta, Bujarski Zbigniew, In: PWM Music Encyclopaedia (biographical part ed. by Elżbieta Dziębowska) [Encyklopedia Muzyczna PWM (część biograficzna pod red. Elżbiety Dziębowskiej)], PWM, Kraków 1998 Malecka Teresa, The Sphere of Inspiration in the Work of Zbigniew Bujarski, or the History of an Independent Artist [Sfera inspiracji w twórczości Zbigniewa Bujarskiego czyli historia artysty niezależnego], In: Musicology in the Face of Cultural and Civilisational Changes [Muzykologia wobec przemian kultury i cywilizacji] (ed. by L. Bielawski, K. Dadak-Kozicka, A. Leszczyńska), Związek Kompozytorów Polskich, Warszawa 2001 Malecka Teresa , Zbigniewa Bujarskiego \"Stabat Mater\" na koniec wieku, \"Saeculum Christianum: pismo historyczno-społeczne\", 2002 nr 9/2 Malecka Teresa, Zbigniew Bujarski. Composer - Painter [Zbigniew Bujarski. Kompozytor - malarz], In: Studies in the Philosophy of Music [Filozofia muzyki. Studia] (ed. by Krzysztof Guczalski), Musica Iagellonica, Kraków 2003 Janicka-Słysz Małgorzata, Rozmowy z kompozytorem, w ramach spotkań z wybitnymi twórcami, organizowanych przez Koło Naukowe Studentów Teorii Muzyki , Akademia Muzyczna, Kraków 2003 Kowalczyk Marcin, Istotą muzyki jest synteza , rozmowa ze Zbigniewem Bujarskim, „Kwarta” 2003 nr 12 Świstak Aleksandra, Zbigniew Bujarski. Katalog tematyczny utworów, Akademia Muzyczna w Krakowie, Kraków 2005 Malecka Teresa, Zbigniew Bujarski. Twórczość i osobowość, Akademia Muzyczna w Krakowie, Kraków 2006 Chopinspira. Współcześni kompozytorzy polscy o Chopinie, Warszawa 2009 Tomaszewski Mieczysław, W zadziwieniu i zadumie nad „pokoleniem 33\", „Teoria Muzyki: Studia Interpretacje Dokumentacje”, 2013 nr 3 Pawłowska Małgorzata, Oblicza sonoryzmu we wczesnej twórczości Zbigniewa Bujarskiego, \"Teoria Muzyki\" (Akademia Muzyczna w Krakowie) 2014 nr 5",
+  "slug": "bujarski-zbigniew-en"
+}

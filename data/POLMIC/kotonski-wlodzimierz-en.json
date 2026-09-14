@@ -1,0 +1,299 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/k/kotonski-wlodzimierz-en",
+  "title": "Kotoński Włodzimierz",
+  "name": "Kotoński Włodzimierz",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "composer and academic teacher; b. 23 rd August 1925 in Warsaw, d. 4 th September 2014 in Warsaw. He studied composition with Piotr Rytel at the State Higher School of Music in Warsaw (1945-51), and privately with Tadeusz Szeligowski (1950-51). He also studied piano with M. Klimont-Jacynowa. In the 1950s he conducted research into Polish folk music at the State Institute of Art; the results were published in the book Góralski i zbójnicki [ Highlander and Highland Robber Dances ] (PWM Polish Music Publishers, Cracow 1956). In 1957-61 Kotoński participated in the International Summer Courses of New Music in Darmstadt. In that period he began experimenting with electronic transformations of sound. His quest for new sound qualities resulted in the first electronic composition in Poland - Etiuda na jedno uderzenie w talerz ( Study on One Cymbal Stroke - musique concréte, 1959). Since 1958, the composer has regularly collaborated with the Experimental Studio of the Polish Radio. He also worked at other electronic music centres: the Westdeutscher Rundfunk Studio in Cologne (1966-67), Groupe de Recherches Musicales ORTF in Paris (1970), the Südwestfunk Baden-Baden Studio in Freiburg (SWF - 1979), the Stiftelsen Elektroakustik Musik i Sverige in Stockholm (EMS - 1984), and the Groupe de Musique Expérimentale de Bourges (GMEB - 1986). In 1970-71 he conducted his study in Berlin as a Deutscher Akademischer Austauschdienst scholarship holder. From 1967 he taught composition at Warsaw's Music Academy (from 1972 - as an associate professor; from 1983 and 1990 he held the state titles of professor), as well as directing the Electronic Music Studio in that academy. Among his students there have been such composers as: Paweł Szymański, Hanna Kulenty, Stanisław Krupowicz, Tadeusz Wielecki, Edward Sielicki, Jacek Grudzień. As a visiting professor, Kotoński also taught composition and electronic music at the Royal Academy of Music in Stockholm (1971), the State University of New York in Buffalo (1978), the University of Southern California in Los Angeles (1982), the Rubin Academy of Music in Jerusalem (1990) and in Seoul (1994-95). In 1974-76 he was the music editor-in-chief in Polish Radio and the general music manager in the Polish Radio and Television. In 1983 he became president of the International Society for Contemporary Music (ISCM/SIMC), Polish Section, a post he held till 1989. In 1963, he published his book entitled Instrumenty perkusyjne we współczesnej orkiestrze [ Percussion Instruments in the Modern Orchestra ] (PWM, Cracow 1963; 2nd ed. – 1981; Hungarian transl.: A modern zenekar ütöhangszerei , Zenemükiadó, Budapest 1967; German transl.: Schlaginstrumente im modernen Orchester , Schott, Mainz 1968). In 1989, he published the monograph Muzyka elektroniczna [ Electronic music ] (PWM, Cracow 1989; 2nd ed. – 2002), and in 1999 – Leksykon współczesnej perkusji [ A Lexicon of the Contemporary Percussion ] (PWM, Cracow 1999). An honorary member of the Polish Composers' Union, ISCM Polish Section, and the International Confederation of Electro-Acoustic Music CIME-ICEM. Kotoński’s accolades included the Minister of Culture and Arts Award (1973, 1989 and 2000), the Award of the Polish Composers' Union for 1976, and the Prize of the Chairman of the Radio and Television Committee (1979), Prix Magisterium in Bourges (1998), the Gold Cross of Merit (1955), the Cavalier’s Cross (1974) and the Officer’s Cross (1982) of the Order of Polonia Restituta, as well as the Gold Medal for Merit to Culture “Gloria Artis” (2006). updated: 2015 (Aleksandra Braumańska)",
+  "birth": {
+    "place": "Warsaw",
+    "date": "23rd August 1925",
+    "raw": "b. 23 rd August 1925 in Warsaw"
+  },
+  "death": {
+    "place": "Warsaw",
+    "date": "4th September 2014",
+    "raw": "d. 4 th September 2014 in Warsaw"
+  },
+  "works": [
+    {
+      "title": "Poem for orchestra (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "Highlander Dances for orchestra (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "Quartettino for 4 horns (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "Prelude and Passacaglia for orchestra (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Six Miniatures for clarinet and piano (1957)",
+      "year": "1957"
+    },
+    {
+      "title": "Chamber Music for 21 instruments and percussion (1958)",
+      "year": "1958"
+    },
+    {
+      "title": "Musique en relief – a cycle of 5 miniatures for 6 orchestral groups (1959)",
+      "year": "1959"
+    },
+    {
+      "title": "Study on One Cymbal Stroke – musique concréte (1959)",
+      "year": "1959"
+    },
+    {
+      "title": "Trio for flute, guitar and percussion (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Concerto per quattro [1st version] for harp, harpsichord, guitar, piano and chamber orchestra (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Canto per complesso da camera (1961)",
+      "year": "1961"
+    },
+    {
+      "title": "Selection I for 4 jazz performers (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Pezzo per flauto e pianoforte (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Musica per fiati e timpani (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Microstructures for tape (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Monochromy for solo oboe (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Quintet for wind instruments (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Concerto per quattro [2nd version] for harp, harpsichord, guitar, piano and chamber orchestra (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "A battere for guitar, viola, cello, harpsichord and percussion (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Pour quatre for clarinet, trombone, cello and piano (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Music for 16 Cymbals and Strings (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "AELA or An Interplay of Aleatory Structures on One Harmonic Sound – electronic music (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Multiplay , instrumental theatre for six brass instruments (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Albumblatt , Hermann Moeck zum 75-ten Geburstag, na flet solo (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Concerto per oboe for oboe (also d’amore), 6 wind instruments and orchestra (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Promenade I – instrumental theatre for 4 performers (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Promenade II – instrumental theatre for 3 synthesisers, clarinet, trombone and cello (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Eol’s Harp for soprano and 4 instrumentalists (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Musical Games for wind quintet (instrumental theatre) (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "The Winds for orchestra (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Spring Music for flute, oboe, violin and synthesiser (or tape) (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Height of Summer for clarinet, piano, cello and electronic sounds (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Bora for orchestra (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Sirocco for orchestra (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Autumn Song for harpsichord and tape (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Terra incognita for orchestra (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Lyrical Scenes for 9 instruments (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Tlaloc for harpsichord and percussion (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Birds – 8 short pieces for clarinet, cello and piano (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Cadenze e arie for solo guitar (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Antiphonae for tape (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Bucolica (Morton Feldman in memoriam) for solo flute (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Three Rhythmic Studies for piano (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "La gioia for string orchestra or 9 string instruments (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Tierra caliente for tape (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Motu proprio for bassoon and piano (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Sonant for trombone quartet (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "7 Haiku for female voice and 5 instruments (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Concerto for Electric Guitar and Instrumental Ensemble (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Winter Journey for flute, oboe, clarinet, harpsichord, violin, cello and tape (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Symphony No. 1 (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Mijikayo for an ensemble of Japanese instruments (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Speculum vitae for tape and orchestra (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Concerto for Violin and Orchestra (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Three German Songs to texts by Joseph von Eichendorff and Durs Grünbein for baritone and guitar (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Three Songs to words by Durs Grünbein for baritone and guitar (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Northern Lights (Aurora Borealis) for amplified harpsichord and tape (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Sextet for wind quintet and piano (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Changeable Structures for clarinet, trombone, piano and cello (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Symphony No. 2 (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "String Quartet No.1 (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Wilanów Landscapes for string quartet and flute (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Concerto per clarinetto e orchestra (2002-2003)",
+      "year": "2002-2003"
+    },
+    {
+      "title": "Polish Madrigals for soprano and early music instruments, to texts by Old Polish poets (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Symphony No. 3 for orchestra (2004-2005)",
+      "year": "2004-2005"
+    },
+    {
+      "title": "Partita for organ and (or) harpsichord (2008-2009)",
+      "year": "2008-2009"
+    },
+    {
+      "title": "One-Minute Valse for orchestra (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Chorea polonica for 4 violas da gamba (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "String Quartet No. 3 (2013)",
+      "year": "2013"
+    }
+  ],
+  "publications": "books Instrumenty perkusyjne we współczesnej orkiestrze [Percussion Instruments in the Modern Orchestra], PWM, Kraków 1963 Leksykon współczesnej perkusji [A Lexicon of the Contemporary Percussion], PWM, Kraków 1999 Muzyka elektroniczna [Electronic music], PWM, Kraków 2002",
+  "bibliography": "Homma Martina, Włodzimierz Kotoński, In: Komponisten der Gegenwart (Hg. Hanns-Werner Heister, Walter-Wolfgang Sparren), edition text + kritik, München 1992– Jaraczewska-Mockałło, Włodzimierz Kotoński. Katalog twórczości i bibliografia [Włodzimierz Kotoński. A Catalogue of Works and Bibliography], Akademia Muzyczna w Warszawie, Warszawa 1995 Baculewski Krzysztof, Kotoński Włodzimierz., In: Encyklopedia Muzyczna PWM (część biograficzna pod red. Elżbiety Dziębowskiej) [The PWM Encyclopaedia of Music - biographical part, ed. by Elżbieta Dziębowska], vol. \"klł\", PWM, Kraków 1997 Thomas Adrian, Kotoński Włodzimierz, In: The New Grove Dictionary of Music and Musicians. Second Edition (ed. Stanley Sadie), vol. 13, Macmillan Publishers Limited, London 2001 Goniarska Barbara, Kotoński Włodzimierz Wojciech, In: Almanach Kompozytorów Akademii Muzycznej im. F. Chopina w Warszawie, Vol. I, Akademia Muzyczna w Warszawie, Warszawa 2004",
+  "slug": "kotonski-wlodzimierz-en"
+}

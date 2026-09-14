@@ -1,0 +1,51 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/k/kaniowska-malgorzata-en",
+  "title": "Kaniowska Małgorzata",
+  "name": "Kaniowska Małgorzata",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Szarady na chór mieszany i kwartet smyczkowy (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Partita na flet i fortepian (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Liczne opracowania i aranżacje kolęd, pieśni i arii na głosy solowe lub chór mieszany i orkiestrę smyczkową (1998-2007)",
+      "year": "1998-2007"
+    },
+    {
+      "title": "Suita „Boska Komedia” na orkiestrę symfoniczną (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Hejnał Święta Bytomia na trąbkę solo (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Hejnał Miasta Bytomia na trąbkę solo (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Maleńka Suita Polifoniczna na flet, klarnet, fagot (2006)",
+      "year": "2006"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "kaniowska-malgorzata-en"
+}

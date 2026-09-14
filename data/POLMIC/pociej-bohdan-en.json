@@ -1,0 +1,22 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/p/pociej-bohdan-en",
+  "title": "Pociej Bohdan",
+  "name": "Pociej Bohdan",
+  "occupation": "musicologist",
+  "is_composer": false,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [],
+  "publications": null,
+  "bibliography": "Sławińska Ewa, Pisarstwo muzyczne Bohdana Pocieja, Instytut Muzykologii UW, Warszawa 2003 Polony Leszek, Pociej Bohdan, t. „pe-r”, PWM, Kraków 2004",
+  "slug": "pociej-bohdan-en"
+}

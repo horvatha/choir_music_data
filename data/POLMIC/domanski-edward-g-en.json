@@ -1,0 +1,103 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/d/domanski-edward-g-en",
+  "title": "Domański Edward G.",
+  "name": "Domański Edward G.",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Requiem a Bolivar na 2 solistów, narratora, chór i orkiestrę (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Leyenda de Maracaibo , balet z solistą-wokalistą i chórem, libretto Udon Perez (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Clameur a la paix na 4 solistów, 3 chóry i orkiestrę symfoniczną (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "La fanfare de sainte rose na 4 solistów, chór i orkiestrę symfoniczną (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Tu es Petrus na 4 solistów, instrumenty, chór i projekcję wizualną (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "La Gigue de Saint Valentin na 7 głosów mieszanych do poezji Paula Verlaine’a (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Cantates, Ridentes na 7 głosów mieszanych do poezji Juliusza Słowackiego (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Adeste 92 na 7 głosów mieszanych (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Ave Maria de Montreal na 7 głosów mieszanych (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Ouverture de Quat’ Sous na 7 głosów mieszanych (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Sanguine , balet-opera fantastyczna, libretto Pierre Yves Pepin (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Les grands artistes , komedia muzyczna dla dzieci (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "1998 , komedia muzyczna na solistów, aktorów i taśmę (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Ballade polonaise en terre quebecoise do filmu La complainte de Sobieski w reż. Michela Audy’ego (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Śpiewogra chrześcijańska na solistów, chór i orkiestrę do tekstów Bożeny Jankowskiej (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Rondeau na sopran solo i taśmę do poezji Hanny Moszczyńskiej (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Michaele Archangele na sopran solo i chór mieszany (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Sonety słowiańskie do poezji Karola Woytyły na baryton solo, chór i orkiestrę symfoniczną (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Tous les jours sont Noel na chór a cappella do poezji Pierre’a Boujuta (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Les couleurs de nos saisons na chór a capella (2006)",
+      "year": "2006"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "domanski-edward-g-en"
+}

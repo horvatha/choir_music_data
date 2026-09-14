@@ -1,0 +1,219 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/s-1/sniady-marta-en",
+  "title": "Śniady Marta",
+  "name": "Śniady Marta",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "composer and music theorist; b. 2nd February 1986 in Pabianice. She graduated with honours from the composition class of Bronisław Kazimierz Przybylski (2010) and the music theory class of Ewa Kowalska-Zając (2011) at the Grażyna and Kiejstut Bacewicz Academy of Music in Łódź. She also followed postgraduate studies in film, computer, and audiovisual art with Krzysztof Knittel in Łódź. She holds a PhD from the Academy of Music in Łódź, where she has been teaching since 2015. In 2019 she completeed the Advanced Postgraduate Diploma Course in composition with Simon Steen-Andersen and Niels Rønsholdt at The Royal Academy of Music in Aarhus. She participated in various masterclasses and workshops conducted among others by Marek Chołoniewski, Grażyna Pstrokońska-Nawratil, Simon Steen-Andersen, Chaya Czernowin, Jennifer Walshe and Rebecca Saunders. In the years 2013-2016, she participated in the International Summer Course for Composers SYNTHETIS in Radziejowice with composers such as Miguel Azguime, Mauricio Sotelo, Zygmunt Krauze, Simon Steen-Andersen, Mark Andre, Chen Yi, Agata Zubel, Cezary Duchnowski and Paweł Hendrich. Her accolades includes 3rd prize at the competition organized for the 60th anniversary of the Academy of Music in Gdańsk (2009) for Dusza z ciała wyleciała for mixed choir a cappella and the joint 1st prize for s!c2 for soprano and electronics at the Tadeusz Ochlewski Composition Competition in Kraków (2013). In 2016, her work aer for bass clarinet/clarinet solo and chamber orchestra was submitted by the Polish Radio to the 63rd International Rostrum of Composers. She writes instrumental and stage music (notably to Euripides’s The Trojan Women directed by Kamila Michalak, Pollish Theatre in Poznań) as well as electroacoustic music and audio-video art. In her work as a composer, Marta Śniady follows the vision of a music that refers to different art forms. Furthermore, she feels that new music is an important medium of social communication, which is why she doesn’t treat it as pure sound art, but works on building multi-layered references and connections. These ideas are mirrored in different works, which has been performed at several important international and Polish festivals of contemporary music as e. g. Warsaw Autumn, Sacrum Profanum, Musica Electronica Nova, Audio Art Festival, Musica Moderna, Musica Privata, Frau Musica (nova), Pulsar Festival and Klang Festival. She has also worked with ensembles and performers such as Ensemble Garage, Kwartludium, ElletroVoce, Spółdzielnia Muzyczna Contemporary Ensemble, Esbjerg Ensemble, New Music Orchestra, Duo van Vliet and others. In the years 2009-2014 she wrote music reviews for the \"Dziennik Łódzki\" newspaper. Her articles have also been published in the \"Glissando\" magazine. Since 2017 she is a member of the \"Warsaw Autumn\" International Festival of Conteporary Music repertoire committee. updated: 2016 (Aleksandra Braumańska), 2020 (Agnieszka Cieślak)",
+  "birth": {
+    "place": "Pabianice",
+    "date": "2nd February 1986",
+    "raw": "b. 2nd February 1986 in Pabianice"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Dusza z cieła wyleciała for mixed a cappella choir (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Closeness for mixed a cappella choir to words by John Paul II (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Danc for chamber ensemble to words by Anna Podczasza (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Spectronic for double bass and electronics (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Three Pictures with Dimensions 10x13 cm for two pianos (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Mad girl’s love song for soprano, cello and orchestra to words by Sylvia Plath (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Garbage for computer (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Pieces of Chopin after bottle of wine , audiovisual installation (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Exorta for actor and electronics (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Kallisto for computer (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "S!c for voice, piano and electronics (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "aSH for violin, clarinet, piano and percussion (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "S!c 2 for soprano and electronics (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Stabat Mater for mixed choir a cappella (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Utter silence for amplified flute (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "aer for clarinet/bass clarinet and chamber orchestra (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "un for marimba (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "ore for percussion solo (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "closer for cello, video and electronics (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "(lm) for chamber ensemble (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "<<<st)i(ll<<< for amplified accordion and viola (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Meme Opera for voice, instrumental ensemble and visualisations (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "(lx) for string quartet (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "in the pink for 2 marimbas, video i electronics (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "admix+ for chamber ensemble (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "c_ut|e_#2 for flute, accordion, percussion, video and electronics (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "c_ut|e_#1 for chamber ensemble, video and electronics (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "probably the most beautiful music in the world for chamber ensemble, video and electronics (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "\"I will always be there for you\" - Sorry - Believe for flute, video and electronics (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "good things come to those who sweat for accordion, video and electronics (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "you make me feel so brand new for voice, sampler, video and electronics (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "YOUR ONLY LIMIT IS YOU for 2 performers, video and electronics (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Your ultimate guide on how to live a healthy lifestyle for chamber ensemble, video and audio playback (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Speak boldly for video and audio playback (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "4 rituals of women’s happiness for flute, baritone saxophone, electric guitar, percussion, cello, video and audio playback (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "4 rituals of women's happiness #2 for flute, video and audio playback (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "soft music for sensitive gals for orchestra, video and audio playback (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "New Forms for chamber ensemble, video and audio playback (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "About Time for percussion quartet, video and audio playback (2022)",
+      "year": "2022"
+    },
+    {
+      "title": "Wszystkie koty są czarne i tym podobne for 2 performers , audio playback and video (2022)",
+      "year": "2022"
+    },
+    {
+      "title": "Zwisa jej z księżyca mój uśmiech, bo żyć to nie przelewki for ensemble, audio playback and choreography (2022)",
+      "year": "2022"
+    },
+    {
+      "title": "un for marimba solo (2022)",
+      "year": "2022"
+    },
+    {
+      "title": "w obronie własnej ścigać sens codzienności , electroacoustic installation (2022)",
+      "year": "2022"
+    },
+    {
+      "title": "In broad, broad daylight for video and 12-channel sound system (2023)",
+      "year": "2023"
+    },
+    {
+      "title": "Body X Ultra for chamber ensemble, objects and audio playback (2023)",
+      "year": "2023"
+    },
+    {
+      "title": "Daily Bread , multimedia installation (2023)",
+      "year": "2023"
+    },
+    {
+      "title": "Body X Ultra - Glass Edition for chamber orchestra, unique glass instruments and audio playback (2024)",
+      "year": "2024"
+    },
+    {
+      "title": "Lumen for amplified chamber ensemble (2024)",
+      "year": "2024"
+    },
+    {
+      "title": "How Can I Help You? for chamber ensemble, electronics and video (2025)",
+      "year": "2025"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "sniady-marta-en"
+}

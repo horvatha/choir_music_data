@@ -1,0 +1,283 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/h/hans-olga-en",
+  "title": "Hans Olga",
+  "name": "Hans Olga",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Prelude for piano (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Conjugation for mezzo-soprano and piano to the text by Halina Poświatowska (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Elegy for cello and piano (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Two Miniatures for string trio (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Colorful Road for percussion ensemble (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Dialogues for two violas (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Improvisation for flute solo (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Fantasy for guitar solo (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Trio for reed instruments (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Verses for string quartet (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Da suonare a tre for viola, cello and piano (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Concertino da camera for violin solo, cello solo and string orchestra (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Cantus. Choral Fantasy for symphony orchestra (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Concerto for violin and orchestra (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Dialogues 2 for viola and cello (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Music for the film Via Dom , directed by Gabriel Buday (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Capriccio for violin and piano (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "String Quartet No. 2 (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Divertimento for string orchestra (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Sonata in modo antico for brass quintet (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Lullaby for brass quintet (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Sunny Songs for cello ensemble (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Ragtime for brass quintet (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Intermezzo. Adagio for string quartet (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Epigraf for alto flute solo (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Psalm (after Cyprian Basilicus) for mixed choir (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Da suonare a tre for violin, cello and piano (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Sonores for flute, cello and guitar (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Elegy for violin solo and orchestra (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Litaniae de Beatae Mariae Virginis for mezzo-soprano and organ (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Lullaby for M. for piano quintet (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Two Melodies for violin and piano (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "String Quartet No. 3 (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Litany for mixed choir a cappella (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Sequentia for Prof. F. Wesołowski on the 90th anniversary of his birth for strings and organ (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Sonata for cello solo (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Locus solus for cello octet (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Rainbow for a 4-part children's choir (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Musica anniversaria for 4 trumpets, 3 trombones and tuba (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Thyrsos for percussion, 3 trumpets, 2 horns and 2 trombones (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "String Quartet No. 4 (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Three Old Polish Psalms for mixed choir a cappella (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Miniature for cello and piano (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Nocturnes for violin, cello and piano (2006-2007)",
+      "year": "2006-2007"
+    },
+    {
+      "title": "Arabesque for string quartet (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Kreuzeriana – page from the school album for string orchestra (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Elegiac Preludes for flute and string quartet (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Cello Concerto for right hand (2007-2008)",
+      "year": "2007-2008"
+    },
+    {
+      "title": "String Quartet No. 5 (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Recitativo e Arioso for string instrument (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Musica festiva for brass trio (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Music for trumpet and percussion (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Pianocello sonata for cello and piano (2010-2011)",
+      "year": "2010-2011"
+    },
+    {
+      "title": "Locus solus , version for string quartet (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Zmyślenia 2 for string orchestra (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Double Concerto for percussion, cello and orchestra (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Arabesque for chamber orchestra (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Entelecheia , symphony concertante for cello, percussion and orchestra (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Let's play - for Evelyn and Dominik for marimba and cello (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Elegiac Preludes No. 2 for flute, alto flute and orchestra (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Paths, paths , suite with folk themes for children's choir and orchestra (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Chwila z muzyką for violin, cello and piano (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Music for the film 6 Films About Love , directed by Marcin Kopeć, Natalia Krasilnikova, Tomasz Blachnicki, Aleksandra Rek, Paweł Ziemilski and Matej Bobrik (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Nie pójdę tą ścieżką for voice and piano (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Ciemne i szare naoczności for accordion solo (2023)",
+      "year": "2023"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Kowalska-Zając Ewa, Hans Olga , Akademia Muzyczna w Łodzi, Łódź 2001",
+  "slug": "hans-olga-en"
+}

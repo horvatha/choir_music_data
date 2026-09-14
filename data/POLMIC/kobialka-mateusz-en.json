@@ -1,0 +1,91 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/k/kobialka-mateusz-en",
+  "title": "Kobiałka Mateusz",
+  "name": "Kobiałka Mateusz",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "composer and architect; b. 15th February 1978 in Cracow. He graduated from the Academy of Music in Cracow where he studied under the supervision of Anna Zawadzka-Gołosz. He also studied composition with Wolfgang Liebhart at the Vienna Conservatory and Bogusław Schaeffer during the Avantgarde Tirol masterclass in Austria. She studied electroacoustic composition with Marek Chołoniewski at the Electroacoustic Music Studio at the Academy of Music in Cracow. In 2004 he also graduated in architecture from the Cracow University of Technology. He has written classical and electronic music, scores for theatre productions and films (also for silent movies screened at the International Festival of Silent Films held by the Graffiti Film Centre). He also composes vocal music and works for voices and instruments, often using new composition techniques, elements of electronic music, and - most of all - interactive computer systems which are treated equally with other performers. His classical and electronic works have been performed at international festivals in Poland and abroad. In 2001 he established a chamber orchestra called X-musique, which gathers students and graduates of the Academies of Music in Łódź, Craców, and Katowice, and has recorded extensively with prominent musicians in Poland and abroad. Currently, he works as composer and sound engineer at the Recording Studio of the Academy of Music in Cracow. updated: November 2014",
+  "birth": {
+    "place": "Cracow",
+    "date": "15th February 1978",
+    "raw": "b. 15th February 1978 in Cracow"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Alleluja for choir a cappella (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Tear for soprano and chamber orchestra to poem by Jan Twardowski (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Fourth for soprano solo and choir a cappella to text by Wisława Szymborska (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Like A Prayer for soprano, mezzosoprano, organ and chamber orchestra to text by Adam Zagajewski (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Skene for soprano, accordion, ksylorimba and interactive computer system (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Skene 2 for soprano, flute and interactive computer system (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Adequatte for piano and flute (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Psalm for string quintet, organ and 2 mixed choirs (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Songs to texts by Bolesław Leśmian for soprano, piano and multimedia harp (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Muzyka do słuchowiska Głosy cz. 1 do słów Ireneusza Iredyńskiego (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Muzyka do spektaklu Kto otworzy drzwi , reż. Dariusz Starczewski (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Muzyka do spektaklu Błękit doskonały , reż. Andrzej Majczak (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Muzyka do spektaklu Postrzał , reż. Dariusz Starczewski (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Muzyka do spektaklu I zawsze przy mnie stój , reż. Dariusz Starczewski (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Muzyka do spektaklu Bliżej , reż. Dariusz Starczewski (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Muzyka do spektaklu Trzy siostry , reż. Dariusz Starczewski (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Muzyka do spektaklu Kotka na gorącym blaszanym dachu , reż. Dariusz Starczewski (2018)",
+      "year": "2018"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "kobialka-mateusz-en"
+}

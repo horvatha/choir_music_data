@@ -1,0 +1,47 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/c/czaja-krzysztof-en",
+  "title": "Czaja Krzysztof",
+  "name": "Czaja Krzysztof",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "composer, lecturer, electroacoustic engineer and programmer. Born on 5 July 1962 in Warsaw. He studied composition and music theory under Włodzimierz Kotoński at the Fryderyk Chopin Academy of Music in Warsaw (now – the Fryderyk Chopin University of Music). As a composer, he is interested in computer music and media art. Currently, he works at his alma mater’s New Music Study – an interdepartmental programme affiliated with the Department of Conducting, Composition and Theory of Music. He also delivered lectures on electroacoustic music, computer music, and interactive sound. He supervised the development of around a hundred installations and electroacoustic, interactive, and multimedia projects by students and graduates of music colleges. He has collaborated with many composers as electroacoustic engineer and programmer. He has been involved in the development of open source software for musicians and multimedia artists. He is a beneficiary of the Institute of Music and Dance's programme Composing Commissions 2013-14. The first performance of the composition Voyage or DJ in Hell. Extravaganza to texts by Charles Baudelaire and anonymous Professors (audiostage composiion, choreography: Monika Gut) was a part of the 2013 Audio Stage festival, organised by the Polish Society for Contemporary Music at the Centre for Contemporary Art Ujazdowski Castle. updated: September 2015 (iz)",
+  "birth": {
+    "place": "Warsaw",
+    "date": "5 July 1962",
+    "raw": "Born on 5 July 1962 in Warsaw."
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Votive Figures for clarinet, piano, and cello (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Still, Dusk for clarinet and tape (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Moment for cello, piano, and tape (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Id from Chopout for interactive computer and Disklavier (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Anathemata from Chopout for interactive computer and Disklavier (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Voyage or DJ in Hell. Extravaganza to texts by Charles Baudelaire and anonymous Professors - audiostage composition, choreography: Monika Gut (2013)",
+      "year": "2013"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "czaja-krzysztof-en"
+}

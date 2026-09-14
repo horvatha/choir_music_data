@@ -1,0 +1,87 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/s/sroczynski-tomasz-en",
+  "title": "Sroczyński Tomasz",
+  "name": "Sroczyński Tomasz",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": "producer and instrumentalist. He was born on 25 December 1987 in Radomsko. In his work he focuses on contemporary music, folk music, and electronic music. He is also an avid improviser. As a violinist he is able to replace a big chamber ensemble creating \"walls of sound\", both limitless and surprising, with the use of the harmoniser and a range of effects. He is a prolific composer; the musical scope of his works is practically impossible to foresee. Over the years he has collaborated with artists of alternative, experiment, electronic, and pop music, including: Jerzy Mazzoll, Marek Pospieszalski, Jacek Sienkiewicz, Ewa Prus, Qba Janicki, Bartłomiej Chmara, Basia Polańska, Darek Malejonek, Tomasz Budzyński, and Robert Friedrich. In 2006 he performed as a violinist in a television play titled Zorka , directed by Łukasz Wylężałek. In 2005-11 he collaborated with the band 2 TM 2,3, recoding two albums: Dementi (2008) and Koncert w Teatrze (2009). Mr Sroczyński has performed at the Unsound Festival (2012), Mózg Festival - International Contemporary Music & Visual Arts Festival (2011, 2012, 2014), 7th \"Kody\" Festival of Musical Tradition and Avant-garde (2013) and Warsaw Summer Jazz Days (2013) with the Jerzy Mazzoll Trio and Zdzisław Piernik. In 2014 organised in his hometown the first edition of the festival Dzień Muzyki Nowej (A Day of New Music). He also deals in publishing. In 2014 he wrote Wariacje multimedialne na temat polskich tańców ludowych ( Multimedia Variations on Themes of Polish Folk Dances ) thanks to a grant from the programme Collections - Composing Commissions run by the Institute of Music and Dance in Warsaw. Updated: February 2015 (mkk)",
+  "birth": {
+    "place": "Radomsko",
+    "date": "25 December 1987",
+    "raw": "born on 25 December 1987 in Radomsko."
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Hymn Three Parts of the Holy Rosary for a string quintet and 4-part female choir (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "A Passenger Train from Koluszki to Częstochowa for piano solo (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "A Short Skateboarding Lesson for piano solo (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Easter Quartet Reduced (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "MT 20 for violin, accordion, clarinet, and double bass (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Compulsory Awakening for jazz quintet (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "In Search for Timeless Consonance for jazz quintet (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Sudden Chest Pain for jazz quintet (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "The Vistula for violin, accordion, clarinet, and double bass (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Kampata i Kwarc fortune for 8-part male choir (2012) (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Klarowne pole for string quintet and electronics (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Gdańsk (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Let's Go Sledging a collection of 12 pieces for string quintet (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Multimedia Variations on Themes of Polish Folk Dances (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Signal (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Aranetha for tape and chamber orchestra (2014)",
+      "year": "2014"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "sroczynski-tomasz-en"
+}

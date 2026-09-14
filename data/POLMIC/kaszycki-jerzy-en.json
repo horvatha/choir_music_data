@@ -1,0 +1,435 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/k/kaszycki-jerzy-en",
+  "title": "Kaszycki Jerzy",
+  "name": "Kaszycki Jerzy",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Pięć pieśni do słów Konstantego Ildefonsa Gałczyńskiego na sopran, flet i fortepian (1950-54)",
+      "year": "1950-54"
+    },
+    {
+      "title": "Trzy pieśni słów Konstantego Ildefonsa Gałczyńskiego na głos i fortepian (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "Trzy preludia na fortepian (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Sonatina na fortepian (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Sonatina na flet i fortepian (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Uwertura na orkiestrę symfoniczną (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "Tryptyk ludowy na chór mieszany i orkiestrę symfoniczną (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "Andante na orkiestrę symfoniczną (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "Dwie pieśni do słów Juliana Tuwima na sopran i fortepian (1957)",
+      "year": "1957"
+    },
+    {
+      "title": "Dialogi na flet i harfę (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Miniatury kameralne na 2 fortepiany, flet, wiolonczelę i perkusję (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Kwartet smyczkowy nr 1 (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Stereosonata à 4 + 1 na 2 fortepiany, flet, wiolonczelę i głos (lub dowolny instrument) odtwarzany z taśmy (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Trio fortepianowe (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Cytrynowy rower , cykl widowisk dla dzieci (1973-74)",
+      "year": "1973-74"
+    },
+    {
+      "title": "Tryptyk koncertujący na fortepian, 5 kotłów i orkiestrę smyczkową (1974-89)",
+      "year": "1974-89"
+    },
+    {
+      "title": "Czarny Piotruś , muzyka do cyklu widowisk dla dzieci (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Dionizje , muzyka do widowiska baletowego (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Sześć inwencji na flet, obój i wibrafon (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Kwartet smyczkowy nr 2 (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Posłanie , kantata na sopran, chór mieszany i zespół instrumentalny (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Pieśń Wiary na chór mieszany a cappella (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Kwartet smyczkowy nr 3 (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Trzy psalmy (seria I) na alt (lub sopran) i organy do tekstów łacińskich (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Hymn o Miłości na alt i organy (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Trzy psalmy (seria II) na sopran (lub alt) i organy do tekstów łacińskich (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Jedenaście wariacji na temat „Sabałowej nuty” na fortepian (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Trio fortepianowe nr 2 [wersja I] na fortepian, skrzypce i wiolonczelę (1999-2005)",
+      "year": "1999-2005"
+    },
+    {
+      "title": "Trio fortepianowe nr 2 [wersja II] na fortepian, klarnet i wiolonczelę (1999-2005)",
+      "year": "1999-2005"
+    },
+    {
+      "title": "Andante cantabile na skrzypce solo (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Fuga „Beatus vir” na organy solo (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Sonata na skrzypce solo (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Preludium i burleska na fortepian (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Muzyka do filmu Matejko, Matejko (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Muzyka do sztuki Hamlet (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "Muzyka do sztuki Antygona (1956)",
+      "year": "1956"
+    },
+    {
+      "title": "Muzyka do sztuki Teatr na wozie (1956-58)",
+      "year": "1956-58"
+    },
+    {
+      "title": "Muzyka do sztuki Jaki piękny dzień (1957)",
+      "year": "1957"
+    },
+    {
+      "title": "Muzyka do sztuki Pamiętnik Anny Franck (1957)",
+      "year": "1957"
+    },
+    {
+      "title": "Muzyka do sztuki Baśń o zaklętym jaworze (1957)",
+      "year": "1957"
+    },
+    {
+      "title": "Muzyka do sztuki Dzieje Tristana i Izoldy (1958)",
+      "year": "1958"
+    },
+    {
+      "title": "Muzyka do sztuki Odyseja (1958)",
+      "year": "1958"
+    },
+    {
+      "title": "Muzyka do sztuki Parady (1958)",
+      "year": "1958"
+    },
+    {
+      "title": "Muzyka do sztuki Ta trzecia (1958)",
+      "year": "1958"
+    },
+    {
+      "title": "Muzyka do sztuki Faust (1959)",
+      "year": "1959"
+    },
+    {
+      "title": "Muzyka do sztuki Rakieta Piorun (1959)",
+      "year": "1959"
+    },
+    {
+      "title": "Muzyka do sztuki Zawisza Czarny (1959)",
+      "year": "1959"
+    },
+    {
+      "title": "Muzyka do sztuki Inwazja z Aldebarana (1959)",
+      "year": "1959"
+    },
+    {
+      "title": "Muzyka do sztuki Fantazy (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Muzyka do sztuki Nocny lot (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Muzyka do sztuki Solaris (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Muzyka do sztuki Janosik (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Muzyka do sztuki Radość z odzyskanego śmietnika (1961)",
+      "year": "1961"
+    },
+    {
+      "title": "Muzyka do sztuki Smok (1961)",
+      "year": "1961"
+    },
+    {
+      "title": "Muzyka do sztuki Dziady [wersja I] (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Muzyka do sztuki Zamek w Szwecji (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Muzyka do sztuki Prof. Tarantoga (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Muzyka do sztuki Czarna legenda (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Muzyka do sztuki Co się raz stało w Sydonie (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Muzyka do sztuki Przygody Lejzorka Rojtszwanca (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Muzyka do sztuki W pustyni i w puszczy (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Muzyka do sztuki Wesele (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Muzyka do sztuki Dziewięciu bez winy (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Muzyka do sztuki Wszystko dobre, co się dobrze kończy (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Muzyka do sztuki Na zamku w Niepołomicach (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Muzyka do sztuki Harfa traw (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Muzyka do sztuki Dziady [wersja II] (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Muzyka do sztuki Sposób bycia (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Muzyka do sztuki Don Alvarese (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Muzyka do sztuki Robin Hood (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Muzyka do sztuki Panna Julia (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Muzyka do sztuki Igrce w gród walą (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Muzyka do sztuki Bliźniaki z Wenecji (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Muzyka do sztuki Zygmuntowskie czasy (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Muzyka do sztuki Gilgamesz (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Muzyka do sztuki Dwanaście krzeseł (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Muzyka do sztuki Letnicy (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Muzyka do sztuki Męczeństwo Piotra Oheya (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Muzyka do sztuki Kartoteka (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Muzyka do sztuki Faustus (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Muzyka do sztuki Wszystko o miodzie (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Muzyka do sztuki Wariatka z Challiot (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Muzyka do sztuki Księżniczka na opak wywrócona (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Muzyka do sztuki Polacy nie gęsi (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Muzyka do sztuki Pastorałki (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Muzyka do sztuki Chodzi turoń... [wersja I] (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Muzyka do sztuki Romeo i Julia (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Muzyka do sztuki Alem kalem (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Muzyka do sztuki Dary wichru północnego (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Muzyka do sztuki Pigmalion (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Muzyka do sztuki Paryska eskapada (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Muzyka do sztuki Staromodna komedia (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Muzyka do sztuki Dzikie łabędzie (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Muzyka do sztuki Igraszki z diabłem (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Muzyka do sztuki Klonowi bracia (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Muzyka do sztuki Posążek Juraty (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Muzyka do sztuki Wesele Figara (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Muzyka do sztuki Ulica wielkiej kolędy (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Muzyka do sztuki Mały książę (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Muzyka do sztuki Księżniczka na ziarnku grochu (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Muzyka do sztuki Chodzi turoń... [wersja II] (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Muzyka do sztuki Pułapka na myszy (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Muzyka do sztuki Królewna z leśnej krainy (1995)",
+      "year": "1995"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Kowal Roman, Kaszycki Jerzy, PWM, Kraków 1997",
+  "slug": "kaszycki-jerzy-en"
+}

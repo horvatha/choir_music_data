@@ -1,0 +1,107 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/s/staszewski-maciej-en",
+  "title": "Staszewski Maciej",
+  "name": "Staszewski Maciej",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": "guitarist and composer, b. 16 July 1984 in Łódź. He graduated from the Grażyna and Kiejstut Bacewicz Academy of Music in Łódź, where he studied classical guitar with Jerzy Nalepka (diploma in 2008) and composition with Jerzy Bauer (diploma in 2009). As a soloist and composer he participated in numerous international festivals, including International Festival of Contemporary Music \"Warsaw Autumn\", Ad Libitum International Festival of Improvised Music, Tansman International Festival of Musical Personalities, ISCM World Music Days, several Musica Moderna concerts and national Polish guitar series. His compositions have been performed in Poland as well as abroad (Austria, Germany, Ukraine). He has worked with such Polish orchestras as the Łódź String Orchestra, Polish Camerata, Chamber Orchestra of the Grażyna and Kiejstut Bacewicz Academy of Music in Łódź, and Beethoven Academy Orchestra. He has also been involved in free improvisation projects, during which he has collaborated with K. Knittel, A. Kruglov, Y. Yaremczuk, M. Chołoniewski and M. Łuczyński, and other artists. He is a member of the P.U.R Collective improvised music group, with which he recorded the album Nichi Nichi Kore Kon’nichi (For Tune record label). Apart from works for guitar, Maciej Staszewski composed piano, chamber, choral and electroacoustic music. Many of his works have been released on CD/DVD or recorded for the radio and television. These include Island of Sounds for guitar and computer and Ambient (on the DVD Kooperacja ), Sonitus Noctis 2 for violin and piano (CD with a book Art Cannot Be Created Ex Nihilo. To Jerzy Bauer for His 70th Birthday ), as well as Free for Windows for guitar, ISA harp, midi monochord and iPhone (composed jointly with Krzysztof Knittel: CD Katedra Kompozycji – Faculty of Composition, Vol. 10 ). In 2006 he wrote music for the documentary Moja polskość ( My Polish-ness ), broadcast by TVP 2. His Sonitus Noctis for guitar was published by PWM Edition in 2007. Since 2008 Staszewski has worked as a lecturer at his alma mater. He obtained a PhD in 2013. updated: 2015 (wa) Composer’s website: https://maciejstaszewski.com/",
+  "birth": {
+    "place": "Łódź",
+    "date": "16 July 1984",
+    "raw": "b. 16 July 1984 in Łódź"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Spells for guitar (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Concertino for guitar and string orchestra (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Sonitus Noctis for guitar (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Fantasia for guitar and string orchestra (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "3 Etudes de concert for guitar (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Astrum for piano (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Interlude for 3 guitars (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Pentatonic tune for percussion ensemble and piano (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "A Quattro for string quartet (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Concerto for guitar and string orchestra (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Miniature for violin and guitar (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Dies Irae for mixed choir and piano (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Sonitus Noctis 2 for violin and piano (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Ambitent for computer (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Island of Sounds for guitar and computer (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Transformations for saxophone and computer (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Concerto for guitar and chamber orchestra (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Free for Windows for guitar, ISA harp, midi monochord and iPhone (with Krzysztof Knittel) (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Let's start for big band (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Alcázar for guitar (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Music for documentary My Polish-ness , dir. Katarzyna Jagodzińska, Krzysztof Kalinowski (2006)",
+      "year": "2006"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "staszewski-maciej-en"
+}

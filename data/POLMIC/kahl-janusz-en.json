@@ -1,0 +1,59 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/k/kahl-janusz-en",
+  "title": "Kahl Janusz",
+  "name": "Kahl Janusz",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Wariacje A-dur na kwartet smyczkowy (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "Sonata na fortepian (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Testament pieśń do słów W. Broniewskiego na baryton i fortepian (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "Suita na małą orkiestrę (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "Tańcujze dziwcyno piosenka kurpiowska na sopran lub mezzosopran i fortepian (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "Mała uwertura na wielką orkiestrę symfoniczną (1956)",
+      "year": "1956"
+    },
+    {
+      "title": "Kochanie pieśń ludowa na 4-gł. chór mieszany (1956)",
+      "year": "1956"
+    },
+    {
+      "title": "Tryptyk na flet i fortepian (1957)",
+      "year": "1957"
+    },
+    {
+      "title": "Zemsta opera komiczna na solistów, chór i małą orkiestrę symfoniczną (1958)",
+      "year": "1958"
+    }
+  ],
+  "publications": null,
+  "bibliography": "[materiały Archiwum Związku Kompozytorów Polskich], Iwanicka-Nijakowska Anna , Kahl Janusz, Akademia Muzyczna im. Fryderyka Chopina w Warszawie / Akademia Muzyczna im. Stanisława Moniuszki w Gdańsku, Warszawa / Gdańsk 2005",
+  "slug": "kahl-janusz-en"
+}

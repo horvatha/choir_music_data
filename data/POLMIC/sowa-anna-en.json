@@ -1,0 +1,135 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/s/sowa-anna-en",
+  "title": "Sowa Anna",
+  "name": "Sowa Anna",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "composer; b. 19th November 1987 in Tymbark. She studied eurhythmics with Szábolcs Esztényi and Elżbieta Aleksandrowicz at the Academy of Music in Łódź (graduated with distinction in 2011). She continued her studies in composition under the supervision of Zygmunt Krauze. Between 2014–2015 she was an Erasmus+ student with Dietrich Hahne at the Folkwang University of the Arts in Essen (Germany) as a KAAD scholarship holder. She obtained a Chinese governmental scholarship to study in Shanghai Conservatory of Music (2017–2018) and Witold Lutosławski scholarship (2019) – founded by the Lutosławski’s family and Nicati-de Luze Foundation Scholarship (CH). In 2021 she completed with distinction the Master's Programme in Composititon at Musik Akademie Basel (Switzerland), where she studied with Johannes Kreidler and Caspar Johannes Walter. She has taken part in different courses at the International Summer Courses for Composers Synthetis in Radziejowice (2014–2016) and at the Donauechingen Musiktage (2015). In 2017, Anna was an artist-in-residence in Tondela (Portugal). She presented her pieces during Musica Moderna sessions in Łódź (2011-2016), at Festival Musica Privata in Łódź (2014, 2018), Woche Neue Musik in Essen (2015), Kurt Weill Festival w Dessau/Bauhaus (2019) and during the concerts “_like a polish sunny day” in Baselga di Piné (Italy, 2018). Her piece entitled Lass mich heraus commissioned by Kölner Gesellschaft für Neue Musik was presented as part of the project Béton Brut & Bruits in Köln and afterwards in Musikhochschule Münster (2018). Her Concerto for accordion duo and string orchestra , dedicated to Duo Accosphere, was performed at 25th Festival of Accordion Music in Przemyśl (2018). Her works have also been performed at the National Eurhythmics Festival Exchange of ideas in Lusławice (Poland), The National Competition of Movement Interpretation in Dobczyce (Poland), the Touch the Theatre festival in Łódź, Royal Arcades of Art in Warsaw Royal Castle, the Nowowiejski na Nowo festival in Radom, Kurt Weil Festival in Bauhaus/ Dessau, Pergine Festival (Italy), Ludwigsburg Schloss (2019) São Paulo Contemporary Composers Festival (Brasil), Gare du Nord (Basel, Switzland), Warsaw Autumn (Polen), Sacrum Profanum (Polen), Ad Libitum (Polen), Theather Basel (Switzerland), Experimental Tuesdays – part of the Sinfonia Varsovia’s summer season (Polen). The composer also cooperated with Off Harnam Group and their joint project Roots was presented among others at Harnam’s Anniversary Concert in Łódź and during the FRU Festival: Polish Festival Improvisation Contact in 2012. In November 2012, she took part in the intercollegiate concert of composition students at the Academy of Music in Poznań. She was a co-organiser of Festiwal Kontrolowany in Radom, which was held within the projects: Lutosławski – Promesa 2013 and Kolberg – Promesa 2014. In February 2013, her piece The quintet was used for making choreographies by participants of the National Competition of Movement Interpretations, which took place during the 3rd Meetings with Eurhythmics (Radom). Moreover, she created music for the spectacle The Maids based on Jean Genet’s drama, which was shown by members of Pro Dance Theatre during the l Touch the Theatre festiva in Łódź. Anna has collaborated with a visual artist Xiaole Zhang. Their sound installations Dwelling and Erwartung were shown as part of a summer project Künstlerstadt Kalbe, while the installation Receiver not found was presented at C.A.R. contemporary art ruhr in Essen. In 2017, her piece Pizzicato for two performers and electronics was displayed during ChampdAction in Antwerp. Since 2018 she has been cooperating with an italian group ANOMALIA. In the years 2011–2017 she worked as a teacher at the Oskar Kolberg Music School in Radom. Between 2016-2017 she worked at the Academy of Music in Łódź as a piano improvisation lecturer. She is a member of the Youth Circle of the Polish Composers' Union, IAWM (The International Alliance for Women in Music), Young Polish Composer Society as well as the Polish Institute of World Art Studies. updated: 2021 (Agnieszka Cieślak) Composer's website: www.annasowa.eu",
+  "birth": {
+    "place": "Tymbark",
+    "date": "19th November 1987",
+    "raw": "b. 19th November 1987 in Tymbark"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Variations on a theme of folk song ”The mazurka from Tymbark” for cello solo (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Roots for ensemble and dancers (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "One time… for accordion solo (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Maids , performance (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Second time… for 2 accordions (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "An… for 2 accordions (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Krawall for orchestra and electronics (2015-2016)",
+      "year": "2015-2016"
+    },
+    {
+      "title": "…nA for dancers, video and electronics (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Pizzicato for 2 performers and electronics (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Dwelling , installation (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Erwartung , installation (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "String Quartet, piece for children (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Seh, do, yek…! for violin, accordion and electronics (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Lass mich heraus! for trombone quartet (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Concert for accordion duo and string orchestra (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Receiver not found , installation (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Étouffé for accordion, violin and electronics (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "String Quartet No. 1 (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "smar for soprano saxophone, double bass and electronics (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Setz Dich bitte hin for instrumental ensemble (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Message for the Year of the Metal Rat II for percussion, accordion, piano, 2 violins and electronics (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Faster for voice, flute, percussion, electric guitar, synthesizer and electronics (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Un for saxophones, percussion, accordion, violin and electronics (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "piece for saxophone and violin player (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "It’s Only the End of the World – music theatre for voice, flute, saxophone, percussion, piano, violin, cello, video and electronics (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Z rodziną najlepiej wychodzi się na zdjęciu (Auf Fotos sieht die Familie am besten aus) for percussion (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "Stillness is the Move for archiorgano, percussion, electric guitar, 2 performers and electronics (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "Close Up – instrumental theatre for voice, accordion, violin and electronics (2021)",
+      "year": "2021"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "sowa-anna-en"
+}

@@ -1,0 +1,99 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/w/wosko-milosz-en",
+  "title": "Wośko Miłosz",
+  "name": "Wośko Miłosz",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "pianist, composer, arranger, music producer, songwriter; b. 25th May 1979 in Szczecin. He studied composition and arrangement at the Jazz and Popular Music Department of the Karol Szymanowski Academy of Music in Katowice and at the Department of Sound Engineering at the Fryderyk Chopin Academy of Music in Warsaw. He writes compositions and arrangements in the so-called third stream genre, which is a synthesis of jazz and classical music, and broadly understood illustrative music. In collaoration with the Baltic Neopolis and Sinfonia Viva orchestras, he presented Baltic Suite for chamber orchestra and jazz section, Dance for accordion and orchestra, or miniatures for chamber orchestra. He also creates music for theater performances, animated films, documentaries and short films. He wrote music for a short animated film American Dream , which won the first prize at the “Youth and Film” Festival in 2008 in the \"Animation\" category. A documentary with his music Savage Joy was broadcast, among others on Planete TV, TVP Kultura and Kino Polska. The artist was also involved in theater productions, including Polish Television Theater. In 2011, he recorded piano parts for the Swedish-Polish co-production documentary Harbor of Hope . He was the music director, arranger and author of illustrative music for an outdoor multimedia spectacle The Saint from Wadowice: John Paul II by Michał Zabłocki. In the 2014/2015 season, he was a composer-in-residence at the Mieczysław Karłowicz Philharmonic in Szczecin, where he presented such works as Relations for solo accordion and orchestra, Weather for chamber orchestra and Five conversations on difficult topics for wind quintet. The programme was run by the Institute of Music and Dance. He works with many jazz and alternative music performers, both as an arranger, music consultant, producer, pianist and sound engineer. He has collaborated on the albums of Andrzej Smolik, Lora Szafran, Mela Koteluk, Mika Urbaniak, Iwona Loranc, Anna Gadt, Rykarda Parasol, Marek Dyjak, Tomek Wachnowski, and Afro Kolektyw. In 2014 he orchestrated works of the SBB band, which were performed during the SBB Reunion concert, organized as part of the \"Jazz on the Oder River\" Festival in Wrocław. In 2015 he founded the band Nash, with which he recorded an album combining singer-songwriter songs with the sound of brass instruments. He was involved in a number of concert projects. He arranged Fryderyk Chopin’s Preludes and songs for string instruments and the jazz section (2010), Old Gentlemen Cabaret’s songs (2010), Józef Skrzek’s compositions for a multimedia performance 63 days of anger on the occasion of the Warsaw Uprising anniversary (2011), Queen's songs for symphony orchestra performed with countertenor Artur Stefanowicz at the Mieczysław Karłowicz Philharmonic in Szczecin (2012), and Krzysztof Komeda’s works for piano and string quartet for Janusz Olejniczak and Atom String Quartet (2017). He was also a music director and arranger of songs used during the Castle Meetings Festival in Olsztyn (2011) and Kutno Station Festival (2017,2018). In 2018, he arranged for a chamber orchestra, rhythm and brass section, and partly composed songs to words by Zbigniew Herbert as part of the \"Herbert 3.0\" concert recorded by Polish Radio Channel 3. He also took part in educational projects aimed at students of music schools: \"Muzykoteka Szkolna\" (National Audiovisual Institute, 2011) and \"Grajkowie Przyszłości\" (Czesław Mozil, 2018). In 2019, he released his first instrumental music album Urban residents' beliefs (Opus Series) with works performed by the Aukso Chamber Orchestra of the City of Tychy, Polonika Quartet, Polish Brass Quintet, and soloists: accorrdionist Maciej Frąckiewicz, pianist Emilia Sitarz and percussionist Hubert Zemler. updated: 2020 (Agnieszka Cieślak)",
+  "birth": {
+    "place": "Szczecin",
+    "date": "25th May 1979",
+    "raw": "b. 25th May 1979 in Szczecin"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Music for film etude Żal [ Grief ], dir. Tomasz Skibicki (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Music for film etude Od wewnątrz [ From the Inside ], dir. Piotr Kloc (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Dance for accordion and orchestra (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Baltic Suite for chamber orchestra and jazz section (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Weather for chamber orchestra (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Relations for accordion and symphony orchestra (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Five conversations on difficult topics for wind quintet (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Music for radio programme series Miasto Archipelag [ The Archipelago City ] (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Dawn for accordion, chamber orchestra and electronics (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Music for radio series Fajrant [ Knocf-off time ] (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Urban Dances for string quartet, percussion and piano (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Ze szczytu schodów [ From the top of the stairs] for string orchestra percussion, brass section and recitation to words by Zbigniew Herbert (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Music for animated film American Dream, dir. Jakub Wroński (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Music for film Teczka [ File ], dir. Jakub Kossakowski (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Music for documentary film Dzikie szczęście [ Savage Joy ], dir. Piotr Kloc (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Music for animated film Przypadek zająca [ Case of a hare ] , dir. Jakub Wroński (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Music for film Razem stąd odjedziemy [ We will leave together ], dir. Paulina Bobrycz-Rogala (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Music for film Artyści z Koszalina [ Artists from Koszalin ], dir. Przemysław Młyńczyk (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Music for performance The Saint from Wadowice: John Paul II for choir, string quartet, brass sextet and prcussion, dir. Michał Zabłocki (2016)",
+      "year": "2016"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "wosko-milosz-en"
+}

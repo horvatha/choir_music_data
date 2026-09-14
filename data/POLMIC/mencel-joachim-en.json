@@ -1,0 +1,35 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/m/mencel-joachim-en",
+  "title": "Mencel Joachim",
+  "name": "Mencel Joachim",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Miłość mi wszystko wyjaśniła kantata jazzowa do tekstów Karola Wojtyły na combo jazzowe, orkiestrę smyczkową, chór chłopięcy i solistów (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "El Greco projekt literacko-muzyczny (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Transitus o życiu i śmierci św. Franciszka oratorium na solistów, chór dziecięcy i mieszany oraz orkiestrę z towarzyszeniem sekcji rytmicznej (2009)",
+      "year": "2009"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "mencel-joachim-en"
+}

@@ -1,0 +1,22 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/s/szalasna-anna-en",
+  "title": "Szałaśna Anna",
+  "name": "Szałaśna Anna",
+  "occupation": "musicologist",
+  "is_composer": false,
+  "description": "ethnomusicologist; b. 31st October 1926 in Chryplin. She was born to a well-off bourgeois family. She spent her early childhood in Chryplin, then moved with her family to Stanisławów where she started attending an elementary and music school, and studying piano. In 1935 her father accepted a post in Lviv, where Anna Szałaśna attended the School of St. Mary Magdalene and the Karol Szymanowski Conservatoire of Music. During World War II she was a prisoner at the concentration camp in Auschwitz and Ravensbrück, where she worked at a Siemens factory thanks to her connections. In April 1945 she left for Sweden as part of a programme run by the Red Cross and count Bernadotte offering assistance to victims of Nazism. When her quarantine finished, she worked for a year at Tretorna factory (producing rain boots). In 1946 she came back to Poland, completed a secondary school for adults in Szczecin in 1948 and moved to Poznań to study musicology under Marian Sobieski. She participated in the nationwide Fieldwork Collection of Musical Folklore as a transcriber of the Folk Music Laboratory in Poznań. After the fieldwork ended in 1954, she focused on arranging and describing the material and headed a team of field researchers in the area of Płock. In 1959 she moved to Warsaw and started collaboration with the Institute of Art of the Polish Academy of Sciences (IS PAN). Together with Jadwiga and Marian Sobieski, Anna Szałaśna produced a range of programmes on folklore, which were broadcast on Polish Radio. Starting with 1976 she headed, together with Adam Wągrodzki, the Phonographic Archives affiliated with IS PAN, which stored all the recordings made by the Sobieskis before and during the Fieldwork Collection of Musical Folklore. She sat on juries of the Festival of Folk Bands and Singers in Kazimierz Dolny and many other folk events. Her research focused on the folklore of Bieszczady. updated: 2014 (Aleksandra Braumańska)",
+  "birth": {
+    "place": "Chryplin",
+    "date": "31st October 1926",
+    "raw": "b. 31st October 1926 in Chryplin"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [],
+  "publications": null,
+  "bibliography": "Jackowski Jacek Piotr, Łowickie a Rawskie - muzyczne subregiony Mazowsza , Towarzystwo Naukowe Warszawskie, Instytut Muzykologii UW, Instytut Sztuki PAN, Oficyna Wydawniczo-Poligraficzna „Adam”, Warszawa 2007 Grzesińska Urszula, Akcja Zbierania Folkloru Muzycznego (1950-1945) w świetle zachowanej dokumentacji archiwalnej , Warszawa 2012",
+  "slug": "szalasna-anna-en"
+}

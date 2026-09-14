@@ -1,0 +1,75 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/r/rozbicki-kazimierz-en",
+  "title": "Rozbicki Kazimierz",
+  "name": "Rozbicki Kazimierz",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Trzy etiudy na flet i fortepian (1959)",
+      "year": "1959"
+    },
+    {
+      "title": "Concerto da camera na dwie harfy i orkiestrę kameralną (1959)",
+      "year": "1959"
+    },
+    {
+      "title": "Tempus perfectum na harfę, klawesyn, marimbafon, wiolonczelę i organy (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Kwartet smyczkowy (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Euforia na orkiestrę symfoniczną (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Szkice dźwiękowe na orkiestrę (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Preludium symfoniczne na orkiestrę (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Trifonium na orkiestrę (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Nawroty , scena symfoniczna na orkiestrę (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Lacrimonium pamięci ofiar Treblinki na organy i orkiestrę (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Symfonia koncertująca g-moll na fortepian i orkiestrę – opracowanie Sonaty wiolonczelowej g-moll op. 65 Fryderyka Chopina (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Missa festiva na solistów, chór mieszany i orkiestrę symfoniczną (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Muzyka do spektaklu Straszliwy wychowawca w reż.Janusza Tartyłło (1978)",
+      "year": "1978"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "rozbicki-kazimierz-en"
+}

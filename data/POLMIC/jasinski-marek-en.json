@@ -1,0 +1,243 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/j/jasinski-marek-en",
+  "title": "Jasiński Marek",
+  "name": "Jasiński Marek",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "composer and academic teacher, b. 10th Sept. 1949 in Stargard Szczeciński; d. 15th February 2010 in Cluj-Napoca (Romania). He graduated with honours from the Musical Education Dept. of the State Higher School of Music in Poznań (now Music Academy) (1974), and in the same year he began his studies with Andrzej Koszewski at the Theory, Composition and Conducting Dept. of the Poznań Academy, which he completed in 1979. He developed his abilities at International Master Classes in Composition organised by UNESCO International Music Council in Borovec, Bulgaria (1983 and 1987) and a two-semester postgraduate teacher training study (1987). Among his numerous awards, there have been: the 2nd prize (1981) and the 3rd prize (1984) in the Stanisław Wiechowicz Competition for Composers; 1st and 2nd prizes in the Polish Episcopate Competition (1984); 2nd prize in the Competition for Composers in Tours (France, 1987); 3rd prize in the Competition of the Silesian Composers' Rostrum (1988); 1st prize in the International Competition for Composers in Gdańsk. In 1979 he began his work in the Szczecin Branch of Poznań Music Academy. In 1995, he became a faculty member at the Composition and Music Theory Dept. of Bydgoszcz Music Academy, where he lectures in composition, counterpoint and instrumentation. Since 1999 he has also held the post of dean of studies at the Composition and Music Theory Dept. of Bydgoszcz Music Academy. He obtained the professor's title in 1999. Marek Jasiński's compositions have been presented, among others, during the \"Warsaw Autumn\", Poznań Music Spring, Young Polish Music in Szczecin, Musica Polonica Nova in Wrocław, Gaude Mater in Częstochowa, the International Witold Lutosławski Festival in Szczecin. His compositions have been performed in most European countries, as well as Argentina, Australia, Israel, Canada and the United States. He has received the Award of the West-Pomeranian Province (1989), the City of Szczecin Artistic Award (1997), the Rector of Bydgoszcz Music Academy Award, 1st Class (2000), the Marshal of the Kujawy-Pomeranian Province Award (2000).",
+  "birth": {
+    "place": "Stargard Szczeciński",
+    "date": "10th Sept. 1949",
+    "raw": "b. 10th Sept. 1949 in Stargard Szczeciński"
+  },
+  "death": {
+    "place": "Cluj-Napoca (Romania)",
+    "date": "15th February 2010",
+    "raw": "d. 15th February 2010 in Cluj-Napoca (Romania)"
+  },
+  "works": [
+    {
+      "title": "Passacaglia for organ (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Holiday City for children’s choir (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Lyrical Triptych for mixed choir and symphony orchestra (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "On the Baltic Shore for mixed choir (1979)",
+      "year": "1979"
+    },
+    {
+      "title": ">Warsaw for mixed choir (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "In a Fishing Harbour for mixed choir (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Fishing in the Baltic for mixed choir (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Nike for mixed choir and symphony orchestra (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Agitato-Cantabile for a cappella mixed choir (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Little Poem for mixed choir (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Three Humoresques for flute and piano (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Three Songs for children’s choir (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Warsaw’s Song for mixed choir (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Voce mea ad Dominum clamavi for soloists and mixed choir (1981-82)",
+      "year": "1981-82"
+    },
+    {
+      "title": "De profundis for symphony orchestra (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Episodes for brass instruments (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Lamentationes for mixed choir (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Symphonic Preludes for orchestra (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Three Preludes for bassoon and piano (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Dance Sketches for flute, 3 trumpets, tenor saxophone and 2 pianos (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Three Pieces in the Old Style for flute, 2 trumpets, tenor saxophone and piano (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Evening Prayer for women’s choir (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Lyrical Triptych for mixed choir (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Musica sacra for mixed choir (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Tu es Petrus for mixed choir (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Impressions for flute, harpsichord and vibraphone (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Voce mea ad Dominem clamavi for choir and orchestra (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Epinikion for mixed choir and orchestra (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Fantasia et fuga for organ (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Ave Maria for mixed choir (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Kyrie for mixed choir (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Laudate Dominum for mixed choir and great symphony orchestra (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Autumn Music for chamber string orchestra (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Requiem for boys’ choir, mixed choir and symphony orchestra (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Concertino for piano and orchestra (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Missa brevis [1st version] for children’s choir and organ (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Missa brevis [2nd version] for children’s (or women’s) choir (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Ave Maria II for mixed choir (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Marian Antiphons for mixed choir (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Concerto semplice for piano and orchestra (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "In terra pax for mixed choir (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Dona nobis pacem for mixed choir (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Psalm 100 for mixed choir (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Da pacem Domine for alto, baritone, mixed choir and symphony orchestra (1994-95)",
+      "year": "1994-95"
+    },
+    {
+      "title": "Psalm 150 [1st version] for choir (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Psalm 150 [2nd version] for choir and orchestra (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Carl Loewe in memoriam for organ (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Kammermusik for flute, vibraphone and harpsichord (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Laudes for mixed choir (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Jubilate Deo for mixed choir and orchestra (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Cantate Domino canticum novum na chór mieszany (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Ad Iuventatem na sopran solo, chór mieszany i wielką orkiestrę symfoniczną (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Canticum Sapientiale Mariae na chór mieszany i orkiestrę symfoniczną (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Symfonia „In principio” na baryton, chór i orkiestrę (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Miserere na chór mieszany (2006)",
+      "year": "2006"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Nowak Anna, Marek Jasiński , In: Kompozytorzy szczecińscy po 1945 roku [Szczecin Composers after 1945] (ed. by Eugeniusz Kus and Mikołaj Szczęsny), Zamek Książąt Pomorskich, Szczecin 2002",
+  "slug": "jasinski-marek-en"
+}

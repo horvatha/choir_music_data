@@ -1,0 +1,155 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/p/plonka-jaroslaw-en",
+  "title": "Płonka Jarosław",
+  "name": "Płonka Jarosław",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": "composer and cellist; b. 28th March 1984 in Łódź. He attended the Henryk Wieniawski Secondary School of Music in Łódź, where he studied cello with Robert Fender. In 2003 he won the 2nd prize at the Student Music Forum in Warsaw for Two Arabesques for chamber orchestra. He studied musicology at the Jagiellonian University for a year, then composition (2004-2009) at the Academy of Music in Krakow under Krystyna Moszumańska-Nazar and Wojciech Widłak. In the 2006/2007 academic year, thanks to a Socrates-Erasmus scholarship, he studied at Birmingham Conservatoire under Joe Cutler and Edwin Roxburgh. In 2009 he graduated with honours from his alma mater and began the Masters of Music programme at Rotterdam Conservatory. He studied composition with Peter-Jan Wagemans and Rene Uijlenhoet (electronic music), and graduated with honours in 2011. In 2010 he started his PhD studies at the Academy of Music in Krakow, where he currently works and organises academic sessions as an assistant at the Composition Department. He participated in the \"Composer Collider\" workshops run by musikFabrik, well-known ensemble specializing in performing new music. Płonka's works have been performed at such prestigious festivals as Festival of Contermporary Music \"Warsaw Autumn\", International Days of Kraków Composers, or Birmingham Chamber Music Society Festival. In 2006 he won the f1st prize at the Tadeusz Ochlewski Composition Competition held by PWM Edition for Konstrukcja w metalu ( Construction in Metal ) for trumpet solo. updated: May 2014 (mkk, ai)",
+  "birth": {
+    "place": "Łódź",
+    "date": "28th March 1984",
+    "raw": "b. 28th March 1984 in Łódź"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Canzona for violin and piano (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Two Arabesques for chamber orchestra (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Aphorisms for cello solo (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Essay for string orchestra (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Etudes for 4 pedal timpani (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Wind Trio (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Concertino for flute and chamber orchestra (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Play for 2 double basses (2005/2006)",
+      "year": null
+    },
+    {
+      "title": "Quartlude for symphony orchestra (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Construction in Metal - (Katarzyna Kobro in Memoriam) for trumpet solo (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Toccata for 2 pianos (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Quartet for string quartet (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Fabric for string trio (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Episodes for instrumental ensemble (2006/2007)",
+      "year": null
+    },
+    {
+      "title": "Other Voices for trombone solo (and tam-tam) (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Toccata for symphony orchestra (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Esja , electroacoustic composition (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Enzo , for any number of performers, a graphic score (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Herbert’s Stone for oboe, harp and string quartet (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Travel is dangerous for orchestra (2008/2009)",
+      "year": null
+    },
+    {
+      "title": "Croon for cello and piano (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Thesis-Antithesis for instrumental ensemble (2009/2010)",
+      "year": null
+    },
+    {
+      "title": "Radio Music , electronic music (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Palimpsest for instrumental ensemble (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "All you do is mathematics for string orchestra (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "The limits of my language for symphony orchestra (2010/2011)",
+      "year": null
+    },
+    {
+      "title": "YSL cutting fabric for string orchestra (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Untitled for violin and piano (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Ausland for string trio (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "lightly touch for violin solo (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "only skin for amplified cello solo (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "lightly touched / heavily pressed for cello and instrumental ensemble (2012/2013)",
+      "year": null
+    },
+    {
+      "title": "Year of Silence for cello and string quartet (2013)",
+      "year": "2013"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "plonka-jaroslaw-en"
+}

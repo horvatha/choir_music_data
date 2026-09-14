@@ -1,0 +1,95 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/g/golec-beata-e-en",
+  "title": "Golec Beata Elżbieta",
+  "name": "Golec Beata Elżbieta",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Polish Fantasy for piano and cello (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Four Preludes for piano solo (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Toccata for piano solo (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Toccata for organ solo (2001-2002)",
+      "year": "2001-2002"
+    },
+    {
+      "title": "Trio for Piano, Cello, Timpani and Bells (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Clouds for vibraphone and marimba (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Phobia for piano solo (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Forests for piano solo (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Minimal talk for trumpet and piano (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Toccata No. 2 for organ solo (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Falling for piano solo (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "The Consequence of Sin for prepared piano (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Balbutiendo Piano for looping piano (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Wings for piano solo (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "War and Sorrow for piano solo (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Tomorrow for piano solo (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "New Dawn for piano solo (2024)",
+      "year": "2024"
+    },
+    {
+      "title": "Blossom for piano solo (2024)",
+      "year": "2024"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Mysłowiczanka u progu światowej kariery, \"Dziennik Zachodni\", Katowice, maj, 2005 Dwa słowa o... amerykańskim śnie, \"Gala\" numer 8/2005 , 2005",
+  "slug": "golec-beata-e-en"
+}

@@ -1,0 +1,99 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/k/karlowicz-mieczyslaw-en",
+  "title": "Karłowicz Mieczysław",
+  "name": "Karłowicz Mieczysław",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": "composer and conductor, b. 11th Dec. 1876 in Wiszniewo, d. 8th Feb. 1909 in the Tatra. He spent his first six years of childhood in the family estate in Wiszniewo, Lithuania. Having sold the estate in 1882, the Karłowicz family moved to Heidelberg, then - in 1885 - to Prague, in 1886 - Dresden, and in 1887 they settled permanently in Warsaw. In Heidelberg and Dresden, Mieczysław Karłowicz attended prep schools, and from 1888 he went to the W. Górski public school in Warsaw. Brought up from his earliest childhood in a music-loving environment, during his stay abroad he became acquainted with operatic and symphonic music, incl. works by Bizet, Weber, Brahms, and Smetana. He strated taking private violin lessons in his 7th year of life, first in Dresden in Prague, then in Warsaw with Jan Jakowski. In 1889-95 he was a disciple of Stanisław Barcewicz, simultaneously learning harmony with Zygmunt Noskowski and Piotr Maszyński, later - counterpoint and musical forms with Gustaw Roguski. In the same period, he began composing. His earliest preserved piece, Chant de mai for piano, was written in 1893/94. In 1893-94, he attended lectures at the Natural Science Dept. of Warsaw University. In 1895 he left for Berlin, intending to study violin with József Joachim, but he failed to win a place on his course in Hochschule für Musik and therefore studied privately with Florian Zajic. Having decided to dedicate himself to composition, and began his studies with Heinrich Urban. Simultaneously, he attended lectures in music history, history of philosophy, psychology and physics at the Philosophical Dept. of Berlin University. Most of Karłowicz’s 22 solo songs preserved to our day were written between the late months of 1895 and the end of 1896. In Berlin, he also acted as a music correspondent for EMTA. Apart from minor compositions, during his years of study with Urban he wrote music for Józefat Nowiński’s drama The White Dove . In the late 1890s, he also began his work on the “Revival” Symphony , which he completed independently after his return to Poland. In 1901, having completed his study, he returned to Warsaw. In 1903 he worked in the Managing Board of Warsaw Music Society, where he founded and directed a string orchestra. Mieczysław Karłowicz dedicated himself wholly to one genre: the symphonic poem. In 1904-09, he wrote six symphonic poems op. 9 to 14. In 1906, he settled in Zakopane. His special love of the Tatra, which had originated many years before, was expressed in his activity in the Tatra Society, articles describing his mountain hikes, his passion for climbing, skiing and photography. He was also a pioneer of Tatra climbing. He died tragically in an avalanche in the Tatra, during a solitary mountain hike, on his way from Hala Gąsienicowa to Czarny Staw, at the foot of Mały Kościelec. He was buried at Warsaw’s Powązki Cemetery.",
+  "birth": {
+    "place": "Wiszniewo",
+    "date": "11th Dec. 1876",
+    "raw": "b. 11th Dec. 1876 in Wiszniewo"
+  },
+  "death": {
+    "place": "the Tatra",
+    "date": "8th Feb. 1909",
+    "raw": "d. 8th Feb. 1909 in the Tatra"
+  },
+  "works": [
+    {
+      "title": "Oh, Do Not Believe , song for voice and piano (1892)",
+      "year": "1892"
+    },
+    {
+      "title": "With New Spring , song for voice and piano (1895)",
+      "year": "1895"
+    },
+    {
+      "title": "At Times, When I Am Half-Asleep and Dreaming , song for voice and piano (1895)",
+      "year": "1895"
+    },
+    {
+      "title": "Six Songs op. 1 - for voice and piano (1895-96)",
+      "year": "1895-96"
+    },
+    {
+      "title": "It Shakes the Rusty Leaves from Trees , song for voice and piano (1896)",
+      "year": "1896"
+    },
+    {
+      "title": "10 Songs op. 3 - for voice and piano (1896)",
+      "year": "1896"
+    },
+    {
+      "title": "Serenade op. 2 for string orchestra (1897)",
+      "year": "1897"
+    },
+    {
+      "title": "Most Beautiful Songs op. 4 for voice and piano (1898)",
+      "year": "1898"
+    },
+    {
+      "title": "Under a Sycamore , song for voice and piano (1898)",
+      "year": "1898"
+    },
+    {
+      "title": "Bianca da Molena op. 6 , music for the drama White Dove by Józefat Nowiński (1900)",
+      "year": "1900"
+    },
+    {
+      "title": "“Revival” Symphony op. 7 (1902)",
+      "year": "1902"
+    },
+    {
+      "title": "For the Angelus , melo-recital for reciting voice and piano (1902)",
+      "year": "1902"
+    },
+    {
+      "title": "Viloin Concerto in A Major op. 8 (1902)",
+      "year": "1902"
+    },
+    {
+      "title": "Returning Waves op. 9 , symphonic poem (1904)",
+      "year": "1904"
+    },
+    {
+      "title": "Centuries-Old Songs op. 10 , symphonic poem (1906)",
+      "year": "1906"
+    },
+    {
+      "title": "Lithuanian Rhapsody op. 11 , symphonic poem (1906)",
+      "year": "1906"
+    },
+    {
+      "title": "Stanisław and Anna Oświecim op. 12 , symphonic poem (1906)",
+      "year": "1906"
+    },
+    {
+      "title": "Sad Tale op. 13 , symphonic poem (1908)",
+      "year": "1908"
+    },
+    {
+      "title": "Episode at a Masquerade op. 14 , symphonic poem (1908-09)",
+      "year": "1908-09"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Chybiński Adolf, Mieczysław Karłowicz (1876-1909). A Chronicle of An Artist and Tatra Climber’s Life, PWM, Kraków 1949 Marek Tadeusz, Symphonic Poems by Mieczysław Karłowicz, PWM, Kraków 1959 Dziębowska Elżbieta (red.), On the Life and Work of Mieczysław Karłowicz, PWM, Kraków 1970 Chmara-Żaczkiewicz Barbara, Spóz Andrzej, Michałowski Kornel, Mieczysław Karłowicz. Subject Catalogue of Works with Bibliography, PWM, Kraków 1986 Polony Leszek, Karłowicz Mieczysław, In: PWM Music Encyclopaedia (biographical part ed. by Elżbieta Dziębowska), vol. “klł”, PWM, Kraków 1997",
+  "slug": "karlowicz-mieczyslaw-en"
+}

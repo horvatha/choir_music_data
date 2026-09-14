@@ -1,0 +1,235 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/s/sydor-pawel-bartlomiej-en",
+  "title": "Sydor Paweł Bartłomiej",
+  "name": "Sydor Paweł Bartłomiej",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Sonata na fortepian „La Poloniae” (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Sen , fantazja na obój i orkiestrę (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Fuga na flet, obój, klarnet i fagot (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Gloria na sopran, alt i tenor (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "A Remembrance na sopran i zespół instrumentalny (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Krzyk na taśmę (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Koncert na obój i orkiestrę „Virtuti Militari” (1991-92)",
+      "year": "1991-92"
+    },
+    {
+      "title": "Abuse na zespół instrumentalny i tancerza (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "A Valley of the Birds na taśmę (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Storm of Silence na zespół instrumentalny (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Elegia na orkiestrę smyczkową (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Urgency II na zespół instrumentalny (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Symfonia na dwie orkiestry smyczkowe „Głosy ziemi” (1994-96)",
+      "year": "1994-96"
+    },
+    {
+      "title": "Hymn na orkiestrę smyczkową (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Galop na skrzypce i fortepian (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "A Door to Another World na altówkę elektryczną (MIDI) i komputer (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Salve Regina na chór mieszany (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Kyrie na chór mieszany (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Symphos na orkiestrę symfoniczną (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Ave Verum na chór mieszany (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Credo na sopran, tenor, chór mieszany i orkiestrę (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Kwartet smyczkowy nr 1 (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Pięć miniatur na klarnet i fortepian (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Zaczarowane ogrody na sopran, flet, rożek angielski i smyczki (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Lamento [wersja I] na wiolonczelę i orkiestrę smyczkową (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Lamento [wersja II] na wiolonczelę i fortepian (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Medytacje na wiolonczelę i orkiestrę smyczkową (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Lux aeterna na sopran, chór mieszany i orkiestrę (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Pie Jesu na sopran, chór mieszany i orkiestrę (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Pożegnanie na wiolonczelę i fortepian (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Alegorie na temat współczesności na orkiestrę smyczkową (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Przebudzenie , z cyklu Trzech pieśni na sopran i trio fortepianowe (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Gloria II na chór mieszany (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Musica per trio na klarnet, skrzypce i fortepian (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Muzyka do Niebios na orkiestrę smyczkową (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Missa \"Misterium Lucis\" na chór i orkiestrę symfoniczną (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Ave Maria na chór żeński i kwartet smyczkowy (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Kaddish na wiolonczelę, shofar i orkiestrę smyczkową (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Prayer na skrzypce i orkiestrę smyczkową (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Equilibrium na akordeon, skrzypce i dwie wiolonczele (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Koncert podwójny na skrzypce, wiolonczelę i orkiestrę symfoniczną (2013-14)",
+      "year": "2013-14"
+    },
+    {
+      "title": "Szalom na dwie wiolonczele i orkiestrę smyczkową (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Koncert \"Luminescencyjny\" na wiolonczelę, kontrabas i orkiestrę smyczkową (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Symfonia nr 1 \"Chrzest\" na chór mieszany i orkiestrę symfoniczną (2016-17)",
+      "year": "2016-17"
+    },
+    {
+      "title": "Uwertura koncertowa “Odkupienie” na orkiestrę symfoniczną (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Totus Tuus , opera w 4 aktach (2020-22)",
+      "year": "2020-22"
+    },
+    {
+      "title": "Muzyka do filmu Old Salt w reż. Josha Colovera (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Muzyka do filmu Real People, Real Sharks w reż. Richarda Haberkena (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Muzyka do filmu A Day in a Life of George w reż. Duane'a Castellana (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Muzyka do filmu Destiny w reż. Sama Unga (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Muzyka do filmu Trzy historie jednej historii w reż. Mariusza Malca (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Muzyka do filmu Popiełuszko. Wolność jest w nas w reż. Rafała Wieczyńskiego (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Muzyka do filmu Świat Józefa w reż. Rafała Wieczyńskiego (2010)",
+      "year": "2010"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "sydor-pawel-bartlomiej-en"
+}

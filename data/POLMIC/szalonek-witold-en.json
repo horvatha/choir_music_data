@@ -1,0 +1,315 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/s/szalonek-witold-en",
+  "title": "Szalonek Witold",
+  "name": "Szalonek Witold",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "composer and educator; b. 2 nd March 1927 in Czechowice-Dziedzice, d. 12 th October 2001 in Berlin. In 1949-56 he studied the piano with Wanda Chmielowska and composition with Bolesław Woytowicz at the State Higher Music School in Katowice. He continued his studies with Nadia Boulanger in Paris (1962–63). From 1967 he taught composition at the State Higher Music School in Katowice, and in 1970–74 he headed the Department of Composition and Theory. A DAAD scholarship in Berlin (1970–71) resulted in an engagement at the Hochschule der Künste in Berlin in 1973, where Szalonek succeeded Boris Blacher as professor of composition. One of his achievements was to discover “combined sounds”, multiphonics of a particular timbre, which can be obtained on woodwind instruments. From 1970 he conducted courses and seminars on his own compositional techniques at music academies and universities in various countries, including Denmark, Germany, Finland, Poland, and Slovakia. His works were performed at many festivals of contemporary music, such as the Summer Courses of New Music in Darmstadt, the ISCM World Music Days, the \"Warsaw Autumn\", \"Time of Music\" in Viitasaari (Finland), Gulbenkian Música in Lisbon, \"Inventionen\" in Berlin, \"Alternatives\" in Moscow, and \"Contrasts\" in Lviv. Witold Szalonek received the 2 nd prize in the Polish Composers’ Union's Competition in 1952 for Pastorale for oboe and piano (1952), 3 rd prize in the Artur Malawski Competition in 1966 for Quattro monologhi per oboe solo (1966) and 2 nd and 3 rd prizes in the Malawski Competition in 1968 for Mutazioni for chamber orchestra (1966) and Proporzioni I for flute, viola and harp (1967). In 1964 he was awarded the Music Prize of the City of Katowice, and in 1967 the Minister of Culture and Arts Award. In 1990 he received an honorary doctorate from the University of Münster, and in 1994 he won the annual award of the Polish Composers’ Union.",
+  "birth": {
+    "place": "Czechowice-Dziedzice",
+    "date": "2nd March 1927",
+    "raw": "b. 2 nd March 1927 in Czechowice-Dziedzice"
+  },
+  "death": {
+    "place": "Berlin",
+    "date": "12th October 2001",
+    "raw": "d. 12 th October 2001 in Berlin"
+  },
+  "works": [
+    {
+      "title": "Pastorale [version I] for oboe and piano (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Trio for flute, clarinet and bassoon (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Pastorale [version II] for oboe and orchestra (1952-65)",
+      "year": "1952-65"
+    },
+    {
+      "title": "Nocturne for baritone, string orchestra and harp to words by L. Staff (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "The Bell , ballad for 2 boys' or mixed choirs (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Silesian Folk Ballad for soprano and mixed choir (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Two Folk Songs for voice and piano (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Work-Roughened Hands for piano and mixed choir to words by W. Broniewski (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Lullaby for soprano and piano (1953/2001)",
+      "year": null
+    },
+    {
+      "title": "Toccata polyphonica for string orchestra (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "Kurpie Suite for alto and 9 instruments (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "Polyphonic Suite for string orchestra (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "Symphonic Satire for orchestra (1956)",
+      "year": "1956"
+    },
+    {
+      "title": "Sonata for cello and piano (1958)",
+      "year": "1958"
+    },
+    {
+      "title": "Confessions – triptych for narrator, mixed choir and chamber orchestra to words by K. Iłłakowiczówna (1959)",
+      "year": "1959"
+    },
+    {
+      "title": "Concertino per flauto e orchestra da camera (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Arabesques for violin and piano (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Katowice Ballad for soprano and mixed choir to words by A. Baumgardten (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Greetings for men's choir to words by K. Przerwa-Tetmajer (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Les Sons for symphony ensemble (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Mutazioni for chamber orchestra (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Quattro monologhi per oboe solo (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Proporzioni I for flute, viola and harp (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Songs about Silesia for mixed choir a cappella to words by A. Baumgardten (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Proporzioni II for flute, cello and piano (harp) (1967-70)",
+      "year": "1967-70"
+    },
+    {
+      "title": "Mutanza for piano (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Improvisations sonoristiques for clarinet, trombone, cello and piano (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Canzonetta for guitar (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "1 + 1 + 1 + 1 for 1-4 string instruments (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Dear Earth... , cantata for voice and orchestra to words by A. Gołubiew (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Aarhus music for wind quintet (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Concerto for Strings (1971-75)",
+      "year": "1971-75"
+    },
+    {
+      "title": "Three Sketches for harp (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Connections for chamber ensemble (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Proporzioni III for violin, cello and piano (harp) (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Musica concertante per violbasso e orchestra (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Piernikiana per tuba (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Trio per oboe, clarinetto e fagotto (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Little Symphony B-A-C-H for piano and symphony orchestra (1979-81)",
+      "year": "1979-81"
+    },
+    {
+      "title": "Take the Game... for 6 percussionists (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Alice’s Unknown Adventures in the Fairy Land of Percussion for 1 percussionist (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "D. P’s Five Ghoulish Dreams for alto saxophone solo (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Inside? - Outside? for bass clarinet and string quartet (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Toccata e corale Bolesław Woytowicz in memoriam [version I] for organ (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Dialogues for 2 Hands and 2 Legs for piano four hands (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Elegia na śmierć przyjaciela na klarnet i fortepian (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Toccata e corale [wersja II] na fortepian (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Symphony of Rituals for string quartet (1991-96)",
+      "year": "1991-96"
+    },
+    {
+      "title": "Medusa's Head I for 1-3 recorders (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Invocationi for 2 guitars (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Medusa's Head II for 1-3 flutes in C (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Diptych I for mixed choir (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Diptych II for 16 saxophones (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Gerard Hoffnung's Six Unpublished Drawings for saxophone quartet (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Fanfares for flute, clarinet, violin, viola, cello and piano (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Signals for 4 trumpets and 4 timpani (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Towards the Little Prince for flute and guitar (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Three Preludes for piano (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Zakopane Suite for reed mouthpiece (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Medusa’s Dream of Pegasus I for horn and recorder (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Medusa's Dream of Pegasus II for horn and flute in C (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Miserere for 12-voice mixed choir (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Chaconne-Fantaisie for violin solo (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Bagattellae di Dahlem II for flute and piano (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Oberek No. 1 for guitar (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Drei Liebeslieder for baritone and piano (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Oberek No. 2 for guitar (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Oberek No. 3 for guitar (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Hautbois mon amour for oboe solo, 2 harps, timpani and string orchestra (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Petite suite for organ (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Gloria for 3 sopranos and 3 altos (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Poseidon and Medusa for 2 piccolos, alto flute, crotales and bass flute (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Agnesissimo africanissimo for marimba (2001)",
+      "year": "2001"
+    }
+  ],
+  "publications": "articles & papers Szalonek Witold, Claude Debussy 1862-1918. W setną rocznicę urodzin [ Claude Debussy 1862-1918. For the Centenary of the Composer’s Birth ], Biblioteka PWSM w Katowicach, Katowice 1962 Gojowy Detlef, Drugie średniowiecze. Laudatio na cześć Witolda Szalonka [The Second Middle Ages. Laudatory Speech in Honour of Witold Szalonek] , \"Opcje\" 1994 nr 2, s. 79-85.",
+  "bibliography": "Sonntag Brunhilda, Przyczynek do twórczości kompozytorskiej Witolda Szalonka [Toward an Analysis of Witold Szalonek’s Music], \"Opcje\" 1994 nr 2, s. 86-89. Wokół sonoryzmu, „Opcje” 1994 nr 2, s. 75-78. Humphries Carl, Szalonek Witold, In: The New Grove Dictionary of Music and Musicians. Second Edition (ed. Stanley Sadie), vol. 24, Macmillan Publishers Limited, London 2001 Rottermund Krzysztof, Witold Szalonek in memoriam , \"Ruch Muzyczny\" 2007 nr 7, s.22 Humphries Carl, Sonoryzm i sonorystyka w muzyce Witolda Szalonka. Zagadnienia analizy i interpretacji [Sonorism and Sonoristic Qualities in the Music of Witold Szalonek. Issues of Analysis and Interpretation], \"Muzyka\" 2008 nr 1, s.93-105",
+  "slug": "szalonek-witold-en"
+}

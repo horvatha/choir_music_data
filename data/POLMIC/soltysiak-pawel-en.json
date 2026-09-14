@@ -1,0 +1,63 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/s/soltysiak-pawel-en",
+  "title": "Sołtysiak Paweł",
+  "name": "Sołtysiak Paweł",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "composer and psychologist. Born in 1970, he graduated from the Faculty of Psychology of the University of Warsaw and the Department of Composition, Conducting, Theory of Music and Rhythmics of the Academy of Music in Poznań. He also studied composition in Wrocław, Warsaw and Łódź, with such teachers as Grażyna Pstrokońska-Nawratil, Zygmunt Krauze, or Zbigniew Karnecki. He participated in composition and acting courses held by Polish Society for Contemporary Music and the Academy of Art and Culture in Warsaw. In 2004 he received a honourable mention at the 24th F. Mompou International Composing Competition. In 2005 his work Kilkanaście ostatnich akapitów [A Few Last Paragraphs] for clarinet, violin, marimba (vibraphone) and piano received a honourable mention at the Tadeusz Baird Competition for Young Composers, while the first version of Wspomnienia [Recollections] for string trio won the third prize at the Composing Competition for Students of Academies of Music held by the Fryderyk Chopin Academy of Music in Warsaw. He writes instrumental, film and theatre music. He has composed music for theatres in Zielona Góra, Opole, Gdynia, and Wrocław, as well as for Teatr Telewizji (TVP's television play series). . He is a member of the Youth Circle of the Polish Composers' Union. Updated: January 2013 (ai)",
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "A Few Last Paragraphs for clarinet, violin, marimba (vibraphone) and piano (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Recollections for string trio",
+      "year": null
+    },
+    {
+      "title": "Yet you Lied, Darie na zespół kameralny (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Muzyka do etiudy dokumentalnej Bezżycie w reż. Michała Dymka (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Pułbeczek ryb za złotych szesnaście , utwór audiosceniczny (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Muzyka do filmu animowanego Drżące Trąby w reż. Natalii Brożyńskiej (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Muzyka do spektaklu Dzień Świra w reż. Tomasza Mana (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Muzyka do spektaklu Casting w reż. Tomasza Mana (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Muzyka do spektaklu Złodziej w reż. Tomasza Mana (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Muzyka do spektaklu Dobrze w reż. Tomasza Mana (2006)",
+      "year": "2006"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "soltysiak-pawel-en"
+}

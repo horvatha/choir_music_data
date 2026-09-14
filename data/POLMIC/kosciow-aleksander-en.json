@@ -1,0 +1,451 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/k/kosciow-aleksander-en",
+  "title": "Kościów Aleksander",
+  "name": "Kościów Aleksander",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "composer, b. 5th May 1974 in Opole. In the years 1993-98 he studied composition with Marian Borkowski (diploma with distinction) and between 1994 and 1998 – viola with Błażej Sroczyński at the Academy of Music in Warsaw. In 2007 he obtained a doctor’s degree in composition (supervisor –Marian Borkowski). He was awarded in several competitions for composers, e.g. in Katowice (1991 – an honourable mention), Tychy (1992 – finalist), Warsaw (1995 – an honourable mention, 1998 – an honourable mention, 1999 – 1st prize, 2000 – an honourable mention), Częstochowa (1996 – an honourable mention), Gdańsk (1997 – 3rd prize), Cracow (1999 – 1st prize) and Katowice (2000 – main award). In 2004 he was granted a Fulbright Foundation scholarship (Junior Grant). Aleksander Kościów’s works have been performed both in Poland and abroad (Germany, England, Scotland, Russia, Ukraine, France, Italy, Japan, South Korea and the USA). He has worked as a lecturer at the F. Chopin Academy (now the University) of Music in Warsaw since the academic year 1998/99. He was also a guest lecturer in San Diego (USA), Weikersheim (Germany) and Taegu (South Korea). In 1999 he started cooperation with Joe Alter – an American contemporary ballet choreographer. Since 2009 he has been collaborating with the socio-cultural bimonthly “Strony” (“Sides”) edited by Jan Feusette. In the years 1996-98 Aleksander Kościów held the position of secretary of the Polish Composers’ Union’s Youth Circle. In 2002 he became a member of Polish Composers’ Union, “Contemporary Music Laboratory” Society and the Phonographic Academy. A CD dedicated exclusively to his works was released by the Polish Composers’ Union / Polish Music Information Centre (in co-operation with the Polish Radio and with the financial support of the Ministry of Culture and National Heritage) in 2013 as part of the “Polish Music Today – Portraits of Contemporary Polish Composers” Author of novels: The World of the Loon (2006), Say Sorry. A Player’s Manual (2008), Whales Flying (2010), as well as short stories. updated: 2013 (iz)",
+  "birth": {
+    "place": "Opole",
+    "date": "5th May 1974",
+    "raw": "b. 5th May 1974 in Opole"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Motet I: ”My Heart Overflows with a Goodly Theme” (Ps. 45) for mixed choir and percussion instruments (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Sonata for classical guitar solo (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Motet II: ”O Lord, Rebuke Me Not in Thy Anger” (Ps. 38) for baritone and instrumental ensemble (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Tritetron for female voice solo (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "String Septet for 2 guitars, 2 harps, 2 harpsichords and piano (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Three Songs to Ritual Texts in Old Celtic Language for mixed choir a cappella (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Partita for chamber orchestra (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Musica Pulla for 3 bassoons and oboe (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Miserere for mixed choir a cappella (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Musica Fusca for 3 bassoons, contrabassoon, 3 cellos, double bass and percussion (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Strophes for flute and violin (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Musica Viridis for percussion ensemble (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Sous-Entendu for viola solo (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "String Quartet No. 1 (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Nanda Devi for 4 trumpets and percussion (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Forsaken Gardens Are Full Of Weird Nooks for instrumental ensemble (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Musica Caesia for instrumental ensemble (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Fantasia for viola solo (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "String Quartet no 2 (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Krystus zmartwych wstał je (Christ from Death Is Risen) for mixed a cappella choir (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Agnus Dei for mixed choir a cappella (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Partita for viola solo (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Sonatina for viola and piano (1996-97)",
+      "year": "1996-97"
+    },
+    {
+      "title": "Pezzo Sinfonico for symphony orchestra (1996-97)",
+      "year": "1996-97"
+    },
+    {
+      "title": "Quinque carmina de aëre et aqua for 3 flutes and clarinet (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "St. John’s Eve for string orchestra (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Dies Irae for tape (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "String Quartet No. 3 (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Kyrie for mixed a cappella choir (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Five Cosmogonic Tales for piano solo",
+      "year": null
+    },
+    {
+      "title": "(1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Pressionata for violin solo (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Tempestate Apparendorum for 4 cellists (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Requiem Mundo for soprano, baritone, mixed choir and symphony orchestra (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Ultra Exterum for solo piano (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Déjà-vus Agonaux for violin and piano (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Auqisagin Ermisalmu for solo piano (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Liber Absens – String Quartet No. 4 (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "String Quartet No. 5 (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Holometabol for instrumental ensemble (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Elements for string orchestra (1999) (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "His... est Caritas na zespół kameralny (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Three Postludes for piano solo",
+      "year": null
+    },
+    {
+      "title": "(2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Four Songs for soprano and piano (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Liber sub cortice scriptus for clarinet and string quartet (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Lithiammokykliskia for solo violin",
+      "year": null
+    },
+    {
+      "title": "(2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Thule for cello quartet (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Kaleidergon for instrumental ensemble (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Liber Figurarum Aquae for 2 pianos (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "String Quartet No. 6 (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Hyalia for violin and piano",
+      "year": null
+    },
+    {
+      "title": "(2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Nenia for clarinet and piano (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Ilargia for accordion solo (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Unde for mixed choir, percussion and string orchestra (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Liber Ventinebulae na flet, klarnet, fortepian i kwartet smyczkowy (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Gloria for mixed choir a cappella (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Cludioculos na trzy flety, trąbkę, perkusję, akordeon, fortepian i smyczki (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Canor Keneias for cello and electronic media (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Liber Septem Serpentum Saligiæ – String Quartet No. 7 (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Ore Osse Oculo for clarinet, marimba, piano, violin and cello (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Omphalos for piano solo (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Shihaikai for soprano and piano (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "23:59:59 for 2 cellos and piano (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Voces for chamber orchestra (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Dilexit for mixed choir, 2 oboes, 2 trumpets, 3 trombones, percussion and string instruments (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Symfonia na chór i orkiestrę symfoniczną (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Song on Light of Water for choir and orchestra (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "String Quartet No. 8",
+      "year": null
+    },
+    {
+      "title": "(2008)",
+      "year": "2008"
+    },
+    {
+      "title": "String Quartet No. 9 (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Lenten Lamentations for female choir and 8 cellos (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Duae molentes in mola for a cappella choir (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Nebulae for 2 a cappella choirs (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Dusk Music for clarinet, percussion, cimbalom, hurdy-gurdy, violin and double bass (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Lithaniae na sopran, chór żeński głosów białych i orkiestrę (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "String Quartet No. 10 (2012-13)",
+      "year": "2012-13"
+    },
+    {
+      "title": "Iffy Shapes for saxophone, accordion and cello (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Święty Jacek, 02.09.44 na insterumenty dęte i perkusję (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Tnyganekuinlu na sekstet wokalny (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Thereisa Street na zespół akordeonów (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Steam Punk Gear na organy Hammonda i perkusję (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Wielki Kanon do tekstu Statutu Związku Kompozytorów Polskich na chór (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Oberek for Terry Riley na kwartet smyczkowy (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Krajobrazy młodoplskie na sopran, wiolonczelę i fortepian (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "O, Call Not Me na sekstet wokalny (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Many Cities na sopran i zespół (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Hílathi na kwartet smyczkowy (z ewentualnym chórem mieszanym lub żeńskim) (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Huascarán na skrzypce i perkusję (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "The Book of Teraa na sekstet wokalny i electric piano (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Kantata o Chrzcie Polski na chór mieszany, trzy klarnety, trzy puzony, trzech perkusistów, fortepian, siedem wiolonczel i kontrabas (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Noumen 1 na dwa fortepiany i perkusję (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Kwintet na obój i kwartet smyczkowy (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Koncert na akordeon i orkiestrę (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Hodos/Oikos - koncert na elektryczny kwartet smyczkowy i orkiestrę kameralną (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Noumen 3 for viola and piano (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "Jubilee Overture for symphony orchestra (2022)",
+      "year": "2022"
+    },
+    {
+      "title": "Shores of Scáth Scamaill for string orchestra, bass clarinet and marimba (2022)",
+      "year": "2022"
+    },
+    {
+      "title": "Noumen 4 for string quartet with electronics (2022)",
+      "year": "2022"
+    },
+    {
+      "title": "Four Advent Songs for female choir (2023)",
+      "year": "2023"
+    },
+    {
+      "title": "Anšušgùti for three accordions and cello (2023)",
+      "year": "2023"
+    },
+    {
+      "title": "Si tacuerint for clarinet, bass clarinet, mezzo-soprano, violin, viola and cello (2023)",
+      "year": "2023"
+    },
+    {
+      "title": "O Tomorr, o mal i lartë for vocal sextet (2023)",
+      "year": "2023"
+    },
+    {
+      "title": "Några dagar på flodstranden for a 16-part mixed choir, flute, percussion, viola and cello (2024)",
+      "year": "2024"
+    },
+    {
+      "title": "Music for the play Hecuba, dir. by Karolina Labakhua’s, based on Euripides (2011)",
+      "year": "2011"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Szymańska-Stułka Katarzyna, Kościów Aleksander Janusz, in: Almanach Kompozytorów Akademii Muzycznej im. F. Chopina w Warszawie [An Almanac of Composers of the Fryderyk Chopin Music Academy in Warsaw, in Polish], Volume One, Akademia Muzyczna w Warszawie, Warszawa 2004",
+  "slug": "kosciow-aleksander-en"
+}

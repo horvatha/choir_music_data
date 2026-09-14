@@ -1,0 +1,87 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/r/rowicki-witold-en",
+  "title": "Rowicki Witold",
+  "name": "Rowicki Witold",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Dwadzieścia pięć pieśni świeckich i religijnych na głos i fortepian (1939-42)",
+      "year": "1939-42"
+    },
+    {
+      "title": "Kwartet smyczkowy (1941)",
+      "year": "1941"
+    },
+    {
+      "title": "Suita w dawnym stylu na orkiestrę smyczkową (1942)",
+      "year": "1942"
+    },
+    {
+      "title": "Sonata w starym stylu na wiolę d’amore i klawesyn (1942)",
+      "year": "1942"
+    },
+    {
+      "title": "Koncert na fagot i orkiestrę smyczkową (1943)",
+      "year": "1943"
+    },
+    {
+      "title": "Mazurek na fortepian (1945)",
+      "year": "1945"
+    },
+    {
+      "title": "Pieśni walki i pokoju , kantata na bas (baryton), chór mieszany, chór dziecięcy i orkiestrę symfoniczną (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "Symfonia (1956)",
+      "year": "1956"
+    },
+    {
+      "title": "Koncert na orkiestrę (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Kolędy na głos i fortepian (ok. 1945)",
+      "year": null
+    },
+    {
+      "title": "Piosenka żołnierzy Czarneckiego na baryton, chór żeński, chór męski (ad libitum) i orkiestrę (ok. 1950)",
+      "year": null
+    },
+    {
+      "title": "Ty jesteś Warszawo na chór mieszany i orkiestrę (ok. 1950)",
+      "year": null
+    },
+    {
+      "title": "Mazurek na orkiestrę symfoniczną (ok. 1950)",
+      "year": null
+    },
+    {
+      "title": "Sarabanda na kwartet smyczkowy (ok. 1950)",
+      "year": null
+    },
+    {
+      "title": "Menuet na kwartet smyczkowy (ok. 1950)",
+      "year": null
+    },
+    {
+      "title": "Hejze ino fijołecku leśny na głos i orkiestrę (przed 1947)",
+      "year": null
+    }
+  ],
+  "publications": null,
+  "bibliography": "Mrygoń Adam, Rowicki Witold, PWM, Kraków 2004",
+  "slug": "rowicki-witold-en"
+}

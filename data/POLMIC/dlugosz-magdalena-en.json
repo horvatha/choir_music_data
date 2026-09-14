@@ -1,0 +1,179 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/d/dlugosz-magdalena-en",
+  "title": "Długosz Magdalena",
+  "name": "Długosz Magdalena",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "composer, b. 23 March 1954 in Cracow, she works and lives in that city. Graduated in composition from the Music Academy in Cracow after studies with Krystyna Moszumańska-Nazar (1978) and in music theory (studies with Józef Patkowski). Since 1979, she has taught classes in the Electroacoustic Music Studio in her alma mater , where she also prepared her first compositions. On the later ones, she also worked in the Polish Radio Experimental Studio in Warsaw (SEPR – incl. Mictlan I , which received an honourable mention at the 3rd International Rostrum of Electroacoustic Music in Oslo, as well as TaBar and TaBaMa) , in Stockholm’s Elektronmusikstudion (EMS – the piece entitled Pulsations ) and Radio Bratislava’s Centrum pre elektroakustickú a computerovú hudbu (CECM – At the Source ). She also collaborates with electroacoustic music centres in France. Her Lenyon and Océan Cité were composed for the GRAME (Groupe de Recherche Appliquée en Musique Electroacoustique) Studio in Lyon, and her Beyond Silence , premiered with the use of the Cybernéphone Instrument system – for IMEB (Institut International de Musique Electroacoustique de Bourges). The latter two compositions were nominated for the OPUS Public Media Award (2008, 2009) and both reached the finals. The composer’s contacts with the musical environment of Paris resulted in the composition SaxSpiro , prepared in collaboration with the eminent saxophone player Daniel Kientzy. Many of Magdalena Długosz’s works have been produced at home in the peace and quiet of her own mini-studio. These include Gemisatos for orchestra, concertante percussion, computer and live electronics , which was recommended at the prestigious International Rostrum of Composers in Paris in 2009. The work TReM was composed as the Polish Composers' Union commission and co-financed by the Ministry of Culture and National Heritage, Poland, within the framework of the “Collections – the priority Composers’ Commissions” programme (2014) implemented by the Institute of Music and Dance. Magdalena Długosz is also a distinguished lecturer at the Chair of Composition, Academy of Music in Cracow. In 2010 she received the Award of the Polish Composers’ Union “for outstanding compositions and her contribution to the development of electroacoustic music.” Her pieces have been performed at contemporary music festivals in Poland (Warsaw, Poznań, Wrocław, Gdańsk, Kraków) and abroad (Nuremberg, Cologne, Berlin, Dresden, Hamburg, Stockholm, Oslo, Bratislava, Lyon, Seoul, Taegu, Washington, Strasbourg, Stuttgart, Bourges, Lvov, Minsk). In 2013, Polish Music Information Centre POLMIC, in co-operation with Polish Radio SA and thanks to the generous support of the Ministry of Culture and National Heritage, released an audio CD dedicated to her music, as part of the the Polish Music Today – Portraits of Contemporary Polish Composers series. Since 1995, she has been a member of the Polish Composers' Union; since 1999 – of the Repertoire Committee of the “Warsaw Autumn” International Festival of Contemporary Music. updated: May 2016 (wa), May 2018 (iz)",
+  "birth": {
+    "place": "Cracow",
+    "date": "23 March 1954",
+    "raw": "b. 23 March 1954 in Cracow"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Quaerens for tape (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Visus for 5 instruments and tape (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Gay for tape (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Modus for tape (1979-80)",
+      "year": "1979-80"
+    },
+    {
+      "title": "Spatial Arrangement for small orchestra and electronic devices (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Pulsations for tape (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Mictlan I for tape (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Mictlan II for accordion, digital echo devices and tape (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Both Yes and No for tape (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "At the Spring for tape (1990-91)",
+      "year": "1990-91"
+    },
+    {
+      "title": "Lenyon for tape (1994-95)",
+      "year": "1994-95"
+    },
+    {
+      "title": "Patjan for percussion and tape (1996-97)",
+      "year": "1996-97"
+    },
+    {
+      "title": "TaBaMa for tape (1997-98)",
+      "year": "1997-98"
+    },
+    {
+      "title": "TaBar for electronically transformed double-bass and computer sound layer (1998-2000)",
+      "year": "1998-2000"
+    },
+    {
+      "title": "Zakopane Liryki for electronically modified clarinet and computer-generated sound layer (1999-2000)",
+      "year": "1999-2000"
+    },
+    {
+      "title": "Burlata for marimbaphone, synthesiser and electronics (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Ombraggio for violin and electroacoustic layer (2002-2003)",
+      "year": "2002-2003"
+    },
+    {
+      "title": "Ombrarchetto for tape (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Abamus for cello and electroacoustic layer (2003-2004)",
+      "year": "2003-2004"
+    },
+    {
+      "title": "Nemini molestus for tape to words by 16-century poet Mikołaj Rej (2004-2005)",
+      "year": "2004-2005"
+    },
+    {
+      "title": "How Far...? , for tape, to words by Rev. Jan Twardowski (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Hommage to Joseph – 26.10.2005 for tape (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Gemisatos for orchestra, concerto percussion, orchestra and electroacoustic layer (2005-2006)",
+      "year": "2005-2006"
+    },
+    {
+      "title": "Silent Asphodels , for flutes, cello and electronics (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Océan Cité , octophonic electroacoustic music for the French ballet project by P. Deloche (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Beyond Silence , octophonic electroacoustic composition (2007-2008)",
+      "year": "2007-2008"
+    },
+    {
+      "title": "DesAkordaR for accordion, 4 trombones, percussion and electroacoustic layer (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "SaxSpaCeS for alto saxophone and electroacoustic layer (2008-2009)",
+      "year": "2008-2009"
+    },
+    {
+      "title": "BisAkordaR , electroacoustic composition (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "SaxSpiro for saxophone (soprano and alto) and electroacoustic layer (2010-2011)",
+      "year": "2010-2011"
+    },
+    {
+      "title": "MonoGram - HoloGram , electroacoustic composition (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "SaxInSpiro , electroacoustic composition (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "TReM na 2 instrumenty akustyczne i komputer (2013-2014)",
+      "year": "2013-2014"
+    },
+    {
+      "title": "MirAGe for percussion and computer music layer (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Sonoplastykon , electroacoustic composition (2016-2017)",
+      "year": "2016-2017"
+    },
+    {
+      "title": "Capriccio movente, composition for solo instrument, electroacoustic layer and solo computer part (2017-2018)",
+      "year": "2017-2018"
+    },
+    {
+      "title": "ἐλεγεία, electroacoustic composition interpreted live by 2 performers (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Concertato after Krystyna Moszumańska's Music for percussion and computer sound layer (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "On the Edge of Light for large symphony orchestra, solo part of the electroacoustic layer and live electronics (2019)",
+      "year": "2019"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "dlugosz-magdalena-en"
+}

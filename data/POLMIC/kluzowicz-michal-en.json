@@ -1,0 +1,51 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/k/kluzowicz-michal-en",
+  "title": "Kluzowicz Michał",
+  "name": "Kluzowicz Michał",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Dla Julii na skrzypce i fortepian (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Mutria? na dwoje skrzypiec, klarnet, wiolonczelę, kontrabas fortepian i perkusję (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Appassionato na skrzypce, altówkę i wiolonczelę (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Fantasia brevis na fortepian (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Siloe na orkiestrę symfoniczną (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Kwartet smyczkowy (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Con Certo Stupore na altówkę (2007)",
+      "year": "2007"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "kluzowicz-michal-en"
+}

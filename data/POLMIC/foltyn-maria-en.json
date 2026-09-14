@@ -1,0 +1,22 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/f/foltyn-maria-en",
+  "title": "Fołtyn Maria",
+  "name": "Fołtyn Maria",
+  "occupation": "performer",
+  "is_composer": false,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [],
+  "publications": null,
+  "bibliography": "Jaworska Krystyna, Fołtyn Maria, PWM, Kraków 1987 Mamos Elżbieta, Dobry rok Marii Fołtyn, \"Twoja Muza\" 2007 nr 5, s.20-21",
+  "slug": "foltyn-maria-en"
+}

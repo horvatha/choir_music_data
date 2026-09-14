@@ -1,0 +1,479 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/k/kopczynski-marcin-en",
+  "title": "Kopczyński Marcin",
+  "name": "Kopczyński Marcin",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Lacrimosa na sopran i fortepian (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Dziewięć wariacji na temat Mozarta z „Sonaty A-dur KV 331” na fortepian (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Oddechy na obój lub klarnet i fortepian (1993-94)",
+      "year": "1993-94"
+    },
+    {
+      "title": "Muzyka radosna na fortepian na 4 ręce (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Koloreska na gitarę (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Hexa-Hir na fortepian na 6 rąk (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Sonata fortepianowa nr 1 (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Kwartet smyczkowy (1995-96)",
+      "year": "1995-96"
+    },
+    {
+      "title": "Dłonie pełne szeptu [wersja I] na sopran i 4 perkusje (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Agnus Dei [wersja I] na chór żeński (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "In Te Domine speravi , motet na chór 8-głosowy (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Concha na orkiestrę (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Passacaglia na orkiestrę (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Sonata skrzypcowa nr 1 (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Tutti e Soli na orkiestrę smyczkową (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Panta Rhei na fortepian (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Signals na fortepian (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Capriccio na kontrabas i fortepian (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Sonata fortepianowa nr 2 (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Sonata skrzypcowa nr 2 (1999, 2006)",
+      "year": null
+    },
+    {
+      "title": "Fatamorgana [wersja I] na chór mieszany (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Elizium na wiolonczelę i fortepian (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "3 x 3 na 3 rogi (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Symfonia \"Elipsa\" (2001-2006)",
+      "year": "2001-2006"
+    },
+    {
+      "title": "Koncert fortepianowy nr 2 (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Wstrząsy i drżenia [wersja I] na kwintet smyczkowy (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Wstrząsy i drżenia [wersja II] na fortepian (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Wstrząsy i drżenia [wersja III] na orkiestrę smyczkową (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Tempus fugit na 2 perkusje, flet, obój, klarnet, róg i fortepian (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Zwiastowanie [wersja I] na chór (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Lamento e Trionfo [wersja I] na trio fortepianowe (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Lamento e Trionfo [wersja II] na fortepian (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Dłonie pełne szeptu [wersja II] na sopran i fortepian (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Italiam! Italiam! na sopran i fortepian (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Noc letnia na sopran i fortepian (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Zwiastowanie [wersja II] na sopran i fortepian (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Uwielbiam, Panie, Twe przebite ręce , [wersja I] pieśń pasyjna na sopran, chór i organy lub fortepian (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "W tajemniczym ogrodzie , miniatura na fortepian dla dzieci (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Agnus Dei [wersja II] na sopran i fortepian (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Kyrie, Sanctus, Agnus Dei na chór w łatwym układzie (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Sonata fortepianowa nr 3 (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Sanctus [wersja I] na chór (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Tota pulchra es Maria na chór lub na sopran i fortepian (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Sanctus [wersja II] na sopran i fortepian (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Jeden człowiek, wiele cieni na altówkę i fortepian (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Aż do końca… na fortepian (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Dolorosa na chór lub na sopran i fortepian (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Na polanie soczystej na sopran i fortepian (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "W zamroczeniu dnia na sopran i fortepian (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Felices sensus , miniatura na sopran i chór (ewentualnie fortepian lub organy) (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Concerto da camera per chitarra e orchestra d’archi (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Przestrzeń barw na fortepian (2006-2007)",
+      "year": "2006-2007"
+    },
+    {
+      "title": "Trzy sonety Leopolda Staffa na baryton i fortepian (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Recordare, Virgo Mater Dei na sopran i fortepian (lub organy) (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Myśli moja płyń z aniołem na gitarę i kwartet smyczkowy (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Radość jak muzyka na fortepian i orkiestrę kameralną (2007,2011)",
+      "year": null
+    },
+    {
+      "title": "Regina mundi na sopran i fortepian (lub organy) (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Sonata fortepianowa nr 4 (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Tota formosa et suavis es na sopran i fortepian (lub organy) (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Efemeryda na orkiestrę (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Sonata fortepianowa nr 5 (2009-2010)",
+      "year": "2009-2010"
+    },
+    {
+      "title": "Audi filia na sopran i fortepian (lub organy) (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Echa [wersja I] na klarnet i harfę (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Echa [wersja II] na skrzypce i fortepian (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Z okowów najmroczniejszej nocy na głos i fortepian (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Dwie pieśni op.56: Prośba o skrzydła, Kłamstwo do słów L. Staffa na mezzosopran (tenor) i fortepian (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Moc marzeń op.57 do słów L. Staffa (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Czas jak sen op.58 [wersja I] do słów L. Staffa na mezzosopran, perkusję i orkiestrę smyczkową (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Więc można kochać op. 59 do słów L. Staffa na sopran i fortepian (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Czas jak sen , wersja części I na fortepian (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Czas jak sen op.58 [wersja II] do słów L. Staffa na mezzosopran i fortepian (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Gaude Maria Virgo op. 60 na sopran, mezzosopran, tenor i organy lub fortepian (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Capriccio polacco op. 61(a) na klarnet, kontrabas i fortepian lub akordeon (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Wróżba op. 62 do słów L. Staffa na sopran (mezzosopran) i fortepian (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Lied vom Meer op. 63 do słów R. M. Rilke na sopran i fortepian (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Intermezzo op. 64 [wersja I] na altówkę i fortepian (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Fatamorgana [wersja II] na sopran i fortepian (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Sonata fortepianowa nr 6 op. 65 (2013-2017)",
+      "year": "2013-2017"
+    },
+    {
+      "title": "Omnipotens sempiterne Deus op. 66 na sopran i fortepian (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Waves op.67 na skrzypce (lub klarnet), akordeon i fortepian (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Przymykam oczy op. 68 [wersja I] na tenor i fortepian do słów L. Staffa (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Dico ego opera mea Regi op. 69 [wersja I] na sopran i orkiestrę smyczkową (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Dico ego opera mea Regi op. 69 [wersja II] na sopran i fortepian (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Ogniwo op. 70 na 2 fortepiany i 2 perkusje (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Felix namque es, sacra Virgo Maria op. 71 na sopran i fortepian (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Jak groźnie, jak surowo przemawiasz do mnie, Panie na tenor (sopran) i fortepian do słów L. Staffa (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Koncert fortepianowy nr 1 (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Symfonia nr 2 \"Nie pytaj dokąd\" na orkiestrę (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Temblores del corazón [wersja I] na fortepian na 4 ręce i orkiestrę smyczkową (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Preludium i Toccata na fortepian (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Temblores del corazón [wersja II] na fortepian na 4 ręce (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Sceny leśne na róg (lub klarnet) i fortepian (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Gaudeamus omnes in Domino [wersja I] na chór żeński (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Gaudeamus omnes in Domino [wersja II] na sopran i fortepian (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Czas jak sen , wersja części I na orkiestrę smyczkową (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Przymykam oczy op. 68 [wersja II] na baryton i orkiestrę smyczkową do słów L. Staffa (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Sonatina na fortepian (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Intermezzo op. 64 [wersja II] na skrzypce i fortepian (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Kwartet smyczkowy nr 2 \"Scherzo misterioso\" (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Preludium, fantazja i toccata na fortepian i perkusję (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Gałązka bzu , miniatura na flet i fortepian (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Uwielbiam, Panie, Twe przebite ręce , [wersja II] pieśń pasyjna na sopran, skrzypce i fortepian (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Sonata fortepianowa nr 7 (2017-2018)",
+      "year": "2017-2018"
+    },
+    {
+      "title": "Canzona na 5 fagotów (lub 4 fagoty i kontrafagot) (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Sonata na altówkę (lub wiolonczelę) i fortepian (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Sonata na saksofon (lub klarnet) i fortepian \"…słuchając morza i lasu…\" (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Trzy pieśni bez słów na altówkę i fortepian (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Trzy pieśni do słów Leopolda Staffa (Pójdziemy razem…, Upojenie, Sen o morzu) na tenor i fortepian (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Suita Narodów Europy (z: Eliska Cilkova-Andrsova, Gyula Fekete, Vojtech Vojcik, Jonas Jurkunas, Miroslav Skoryk, Kirill Volkov, Konstanty Wileński) (2018-2020)",
+      "year": "2018-2020"
+    },
+    {
+      "title": "Sonata fortepianowa nr 8 (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Notturno diabolico na fortepian i 4 perkusje (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Sonata skrzypcowa nr 4 (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Chant d’amour na obój i fortepian (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "Solo de concours , wersja na flet solo (2022)",
+      "year": "2022"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Nowak Anna, Kompozytorzy regionu kujawsko-pomorskiego, Wydawnictwo Akademii Muzycznej w Poznaniu, Poznań 2003 Nowak Anna, Kliczewska Katarzyna, Kopczyński Marcin, Gdańsk-Warszawa 2005 Pietrzykowska Marlena, Problemy wykonawcze i aspekty dydaktyczne w wybranych utworach fortepianowych kompozytorów bydgoskich, Bydgoskie Towarzystwo Naukowe, Bydgoszcz 2006 Jędrasik Arkadiusz, Strumień myśli - z kompozytorem Marcinem Kopczyńskim rozmawia Arkadiusz Jędrasik, „Muzyka 21”, 2008 nr 11 Kłaput-Wiśniewska Aleksandra, Strumień myśli Marcina Kopczyńskiego, „Muzyka 21”, 2008 nr 11 Jędrasik Arkadiusz, Muzyka Marcina Kopczyńskiego, „Nasz Dziennik” nr 45 (3366), 23.02.2009 Jędrasik Arkadiusz, Jestem optymistą - z kompozytorem Marcinem Kopczyńskim rozmawia Arkadiusz Jędrasik, „Muzyka 21”, 2012 nr 2 Mikołajczak Malwina, , Akademia Muzyczna w Bydgoszczy , Bydgoszcz 2012 Ratajczak Małgorzata, Prośba o skrzydła. Analiza formy w wybranych utworach na mezzosopran i fortepian Marcina Kopczyńskiego, Wydawnictwo RED Paweł Brankiewicz, Borne Sulinowo 2012 Renat Maryla, Odmienność estetyki brzmienia w sonatach skrzypcowych kompozytorów bydgoskich, Instytut Muzyki Akademii im. Jana Długosza w Częstochowie, Częstochowa 2012 Renat Maryla, Sonata skrzypcowa w muzyce polskiej XX wieku, Wydawnictwo im. Stanisława Podobińskiego Akademii im. Jana Długosza w Częstochowie, Częstochowa 2012 Renat Maryla, Odmienność estetyki brzmienia w sonatach skrzypcowych kompozytorów bydgoskich, Wydawnictwo Uniwersytetu Kazimierza Wielkiego, Bydgoszcz 2012",
+  "slug": "kopczynski-marcin-en"
+}

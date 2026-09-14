@@ -1,0 +1,499 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/s-1/swierzynski-adam-en",
+  "title": "Świerzyński Adam",
+  "name": "Świerzyński Adam",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Cztery pieśni ludowe [wersja I] na tenor i fortepian (1932)",
+      "year": "1932"
+    },
+    {
+      "title": "Cztery pieśni ludowe [wersja II] na tenor i orkiestrę (1932)",
+      "year": "1932"
+    },
+    {
+      "title": "Pozdrowienie z Gdyni na fortepian (1934)",
+      "year": "1934"
+    },
+    {
+      "title": "Sonata na skrzypce i fortepian (1941)",
+      "year": "1941"
+    },
+    {
+      "title": "Melodie Tatr [wersja I] na głos i fortepian (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "Melodie Tatr [wersja II] na głos i orkiestrę (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "Koncert fortepianowy (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "Krakowiak [wersja I] na flet i fortepian (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "Koncert skrzypcowy (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "Kołobrzeskie zaślubiny [wersja I] na chór mieszany i orkiestrę symfoniczną (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "Koncert fletowy (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Uwertura na orkiestrę symfoniczną (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Sonata na flet i fortepian (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "Stare Miasto , kantata (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "Sonatina na flet i fortepian (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "Drammatico na skrzypce i fortepian (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "Nokturn morski na flet i fortepian (1956)",
+      "year": "1956"
+    },
+    {
+      "title": "Etiuda na flet i fortepian (1956)",
+      "year": "1956"
+    },
+    {
+      "title": "Dwa preludia na skrzypce i fortepian (1956)",
+      "year": "1956"
+    },
+    {
+      "title": "Preludium i melodia na flet i fortepian (1957)",
+      "year": "1957"
+    },
+    {
+      "title": "Krakowiak [wersja II] na orkiestrę symfoniczną (1957)",
+      "year": "1957"
+    },
+    {
+      "title": "Lalki na fortepian (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Impresje na tematy Henry Moore’a na małą orkiestrę symfoniczną (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Trzy utwory na 2 fortepiany (1961)",
+      "year": "1961"
+    },
+    {
+      "title": "Bursztynowa panna , balet (1961)",
+      "year": "1961"
+    },
+    {
+      "title": "Rapsodia na orkiestrę symfoniczną (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Cyranka na flet i fortepian (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Pieśń o tęsknocie na orkiestrę symfoniczną (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Witanie młodości na chór mieszany a cappella (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Taniec kaszubski na flet i fortepian (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Luteńka na chór mieszany a cappella (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Z nad morza na orkiestrę symfoniczną (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Młodzi idą na chór męski a cappella (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Dialog , scena baletowa na orkiestrę symfoniczną (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Polka na orkiestrę symfoniczną (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Marsz, Druga Armio! , pieśń na baryton solo, narratora, chór męski, flet mały i werbel (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Usta Odry , kantata (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Gdańscy Pocztowcy na recytatora, głosy solowe, chór mieszany, orkiestrę i taśmę (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Stutthof na narratora, głosy solowe, chór mieszany i orkiestrę (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Przybyli ułani na orkiestrę symfoniczną (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Dwa walce na flet i fortepian (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Dwunastu [wersja I] na baryton i fortepian (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Dwunastu [wersja II] na baryton i kwintet fortepianowy (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Hosanna [wersja I] na baryton i fortepian (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Hosanna [wersja II] na baryton i kwintet fortepianowy (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Pieśń rybaków dalekomorskich [wersja I] na chór mieszany a cappella (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Pieśń rybaków dalekomorskich [wersja II] na baryton i chór mieszany (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Powrót , kantata (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Kołobrzeskie zaślubiny [wersja II] na chór mieszany (i fortepian ad libitum) (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Kołobrzeskie zaślubiny [wersja III] na chór męski (i fortepian ad libitum) (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Kołobrzeskie zaślubiny [wersja IV] na chór męski i orkiestrę symfoniczną (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Kołobrzeskie zaślubiny [wersja V] na baryton i fortepian (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Kołobrzeskie zaślubiny [wersja VI] na tenor i fortepian (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Mazur na orkiestrę symfoniczną (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Liryki morskie na mezzosopran i zespół instrumentalny (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Noc fromborska [wersja I], 5 pieśni na baryton i kwintet fortepianowy (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Noc fromborska [wersja II], 5 pieśni na baryton i fortepian (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Pieśni morskie na mezzosopran i fortepian (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Roztańczona polka [wersja I] na fortepian (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Roztańczona polka [wersja II] na klarnet i fortepian (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Roztańczona polka [wersja III] na klarnet i orkiestrę (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Roztańczona polka [wersja IV] na zespół kameralny (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Roztańczona polka [wersja V] na orkiestrę symfoniczną (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Zamkowe godziny na sopran i fortepian (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Malarz i syrena [wersja I] na głos i fortepian (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Malarz i syrena [wersja II] na głos i orkiestrę (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Hej żeglarzu, żegluj że na chór mieszany a cappella (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Temu, który morze ujrzał pierwszy raz na mezzosopran i kwintet fortepianowy (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Na śmierć Conrada na mezzosopran i kwintet fortepianowy (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Kołobrzeskie zaślubiny [wersja VII] na orkiestrę dętą (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Morski wiatr [wersja I] na orkiestrę symfoniczną (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Morski wiatr [wersja II] na orkiestrę dętą (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Morski wiatr [wersja III] na chór mieszany a cappella (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Trzy tańce kaszubskie [wersja I] na skrzypce i fortepian (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Trzy tańce kaszubskie [wersja II] na skrzypce i zespół instrumentalny (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Pięć pieśni kaszubskich na chór mieszany a cappella (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Bitwa pod Oliwą [wersja I] na zespół kameralny (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Bitwa pod Oliwą [wersja II] na wielką orkiestrę symfoniczną (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Roztańczona polka [wersja VI] na orkiestrę dętą (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Dwa gdańskie tańce polskie w dawnym stylu [wersja I] na flet i orkiestrę smyczkową (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Dwa gdańskie tańce polskie w dawnym stylu [wersja II] na kwartet smyczkowy (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Ave Maris Stella na zespół kameralny (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Serenada kaszubska na chór mieszany a cappella (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Morska panna na skrzypce i fortepian (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Kołysanka na chór mieszany a cappella (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Menuet na flet i fortepian (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Kociewianka na fortepian (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Kołobrzeskie zaślubiny [wersja VIII] na fortepian (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Kołobrzeskie zaślubiny [wersja IX] na orkiestrę symfoniczną (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Fantazja morskich fal , bałtykana na flet i fortepian (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Lamento, Arend Dickmann in memoriam na wiolonczelę i fortepian (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Ballada , bałtykana na klarnet i fortepian (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Fantazja kaszubska na obój i fortepian (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Impresje morskie na altówkę i fortepian (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Taniec kociewski na skrzypce i fortepian (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Walc marynarski na flet i fortepian (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Romans morski na skrzypce i fortepian (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Smętek , wariacje na temat melodii kaszubskiej na fagot i fortepian (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Elegia na altówkę i fortepian (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Mewy na flet i fortepian (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Pieśni o Warszawie na głos i fortepian (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Słońce już wstało na chór żeński a cappella (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Święta Cecylia na głos i fortepian (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Sonata księżycowa na głos i fortepian (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Krzyk na głos i fortepian (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Legenda o gdańskim młynie na obój i fortepian (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Poemat morski na klarnet i fortepian (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Bałtykana na fagot i fortepian (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Przez otwarte okno na głos i fortepian (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Fantazja morska na altówkę i fortepian (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Capriccio na wiolonczelę i fortepian (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Rapsodia bałtycka na wiolonczelę i fortepian (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Pejzaż bałtycki na klarnet i fortepian (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Legenda gdańska na orkiestrę kameralną (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Oda do Bałtyku na obój i fortepian (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Ogród Neptuna na fagot i fortepian (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Melodie i tańce kaszubskie na fortepian (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Polka kaszubska na flet i fortepian (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Purim Bal , wariacje na temat tańca hebrajskiego na flet i fortepian (1990)",
+      "year": "1990"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "swierzynski-adam-en"
+}

@@ -1,0 +1,163 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/e/esztenyi-szabolcs-en",
+  "title": "Esztényi Szabolcs",
+  "name": "Esztényi Szabolcs",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": "composer, pianist, improviser and piano tutor of Hungarian descent, b. 20th December 1939 in Budapest; d. 29th June 2024 in Warsaw. Lived in Poland since 1961. Studied piano with Margerita Trombini-Kazuro and composition with Witold Rudziński at the State Higher School of Music in Warsaw, graduating in both subjects with honours degrees. In 1998 he was granted the academic title of professor of musical arts. Szabolcs Esztényi won 1st prize in the 1st National Piano Improvisation Competition in 1968. In 1988, he received the Medal of the Polish Composers’ Union for the promotion of contemporary Polish music; in 1989 – the “Orpheus” Award of the Polish Musicians’ Association, Critics Section, for the performance of works by Tomasz Sikorski at the 32nd “Warsaw Autumn” International Festival of Contemporary Music. As a composer and soloist, he had performed in Poland and other countries at numerous festivals (Warsaw Autumn, Poznań Music Spring, Warsaw Music Encounters, Musica Polonica Nova in Wrocław, Łańcut Festival, The Lutosławski Forum, Festival of Polish Piano Music in Słupsk, Biennale Zagreb, Budapesti Zenei Hetek, Donaueschinger Musiktage, Piano Festival in Bergamo-Brescia, Festival d’été de Lanaudière in Quebec, Nordiske Musikdage, Recontres Internationales de Musique Contemporaine in Metz). He had collaborated with such eminent artists as: Jerzy Artysz, Andrzej Hiolski, Heinz Holliger, Roman Jabłoński, Jadwiga Kotnowska, Wilanów Quartet, Halina Łukomska, Olga Pasiecznik, Jadwiga Rappé, Zygmunt Krauze’s Music Workshop, Jerzy Witkowski, and Iwona Mironiuk (since 1999 – in a piano duo). He has given world premiere performances of many works by Polish contemporary composers (incl. Kazimierz Serocki’s Pianophonie, Rafał Augustyn’s Variations on a Theme by Paganini, Paweł Szymański’s Études) and recorded extensively for the Polish Radio. For many years he has also worked closely with Ferenc Lantos and Mária Apagyi, pioneers of the combined music/drawing creative learning methodology and founders of the Free School of Art in Pecs, Hungary. Since 1972 he had taught piano improvisation at the F. Chopin Secondary Music School in Warsaw and the Academies of Music in Warsaw and Łódź. Regularly was invited to academic centres in Poland (Białystok, Bydgoszcz, Cieszyn, Gdańsk, Katowice, Kraków, Poznań, Wrocław) and Hungary (F. Liszt Academy of Music in Budapest, Dept. of Instrument Teaching, Music Academy in Debrecen, University of Pécs, Pécs Educational Centre) to give music-illustrated lectures in creative pedagogy and improvisation teaching. He conducts courses of piano improvisation for students and teachers of primary and secondary art schools. Since 1996, he has held lectures and piano improvisation workshops at the Summer Master Classes of Contemporary Piano and Vocal Music in Bystrzyca Kłodzka and Świdnica. Szabolcs Esztényi won the annual Award of the Polish Composers’ Union (1993). In 2009 the Polish President Lech Kaczyński decorated him with the Cavalier’s Cross of the Order of Polonia Restituta.",
+  "birth": {
+    "place": "Budapest",
+    "date": "20th December 1939",
+    "raw": "b. 20th December 1939 in Budapest"
+  },
+  "death": {
+    "place": "Warsaw",
+    "date": "29th June 2024",
+    "raw": "d. 29th June 2024 in Warsaw"
+  },
+  "works": [
+    {
+      "title": "Six Pieces for piano (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "String Quartet (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Quartetto per batteria (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Concerto per orchestra sinfonica e pianoforte (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Andante for two static and three moving performers [with Krzysztof Wodiczko] (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Instrument “Percussion Laboratory” for an actor and electronic media [with Krzysztof Wodiczko] (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Intermezzo No. 2 for flute, trombone, percussion, piano and cardboard boxes for the audience to play (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Transistors Alone for 8 to 20 full frequency transistor radios with users [with Krzysztof Wodiczko] (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Concerto for tape and piano (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Quality Mark: 1 , conceptual music [with Krzysztof Wodiczko] (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Duo for two pianos (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Concertino per due pianoforti (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Motet for 3 Polish reciting voices (amplified) (1973-74)",
+      "year": "1973-74"
+    },
+    {
+      "title": "Six Studies for two pianos (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Created Music No. 1 in memoriam Andrzej Bieżan for piano (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Created Music No. 3 in memoriam Tomasz Sikorski for piano (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Created Music No. 4 in memoriam 1956 for piano and tape (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Wanderer-Phantasy for piano (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Cykadiana for prepared piano (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "All’Ungarese collage for piano – improvised music drawing on works by Zoltan Kodály and Béla Bartók (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Created Music No. 5 for piano (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Gates to the Garden for two pianos (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Dedication for two pianos (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Three New Studies for two pianos (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Music for the poetic-literary spectacle A Quarter Higher for total piano (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Untitled for piano (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Toccata for two pianos (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Created Music in memoriam Prof. A. Karużas for piano (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "A Look from Afar for alto and 2 pianos (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Metamorphoses for voice and total piano (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Bells for total piano with computer sound transformation [with Tadeusz Sudnik] (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Torus from the project Chopout for interactive computer and Disklavier [Chopout project co-created by Krzysztof Czaja, Andrzej Kopeć] (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Stones of Oblivion from the cycle Photographic Scores – version for photographs and two pianos – improvised music to photographs by Mariusz Wideryński [with Jerzy Kornowicz, cycle concept: Ryszard Latecki and Mariusz Wideryński] (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "ENIGMA? created music for solo piano (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Introduzione e Toccatina per pianoforte (2015)",
+      "year": "2015"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Gronau-Osińska Alicja, Esztényi Szabolcs László, Akademia Muzyczna w Warszawie, Warszawa 2004 Borys Klaudia, Improwizacja fortepianowa Szabolcs Esztényiego, wydanie II poprawione, Uniwersytet Muzyczny Fryderyka Chopina, Warszawa 2009",
+  "slug": "esztenyi-szabolcs-en"
+}

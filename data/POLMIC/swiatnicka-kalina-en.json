@@ -1,0 +1,211 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/s-1/swiatnicka-kalina-en",
+  "title": "Świątnicka Kalina",
+  "name": "Świątnicka Kalina",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "Normal 0 21 composer; b. 29th April 1988 in Warsaw. She began her musical education at the age of 6 in the piano class. By the time she graduated from Józef Elsner Secondary Music School in Warsaw (specialty: rhythmics), she had already composed her first pieces under the supervision of Urszula Borkowska. In years 2007-2013 she studied composition with Krzysztof Baculewski at the Frederic Chopin University of Music in Warsaw, and sound engineering at the Film and Television Academy in Warsaw. Between 2010-2011, as a ‘Erasmus’ program participant, she continued her composition studies with Mark Andre at the Strasbourg Conservatory, focusing on electroacoustic and spectral music. In 2012 she obtained the Master of Arts degree for her master thesis “The outline of spectralism in Gérard Grisey's and Tristan Murail’s music” at the Frederic Chopin University of Music. Currently she is a student of Lumière University in Lyon (Université Lyon 2) at the department of Visuals Arts Music (Musiques appliquées aux arts visuels), in which she leads the audiovisual projects in cooperation with film and animation schools (Ecole Factory, Supinfocom, Ecole Emile Cohl, ESIA 3D). Her works have been repeatedly performed at the concerts and festivals in Poland and abroad – at the La Semaine Du Son Festival in Strasburg, Street Art Dopping Festival in Warsaw, UFM in Secondary Music School no 1 in Warsaw, “Words, machine, sound” festival in Klimontów, Dansez Campus 2013 in Lyon, Portes ouvertes in Strasbourg Conservatory and Limonest Conservatory. One of the most important events of her career was composing and performing, together with composer Adrianna Furmanik, the opera Phrenetizo as a part of “Meeting the opera” project financed by European Union funds of the “Youth on the move” program. Her compositions include orchestral, chamber, solo and electroacoustic works, as well as audiovisual installations ( IN-OUT prepared together with Andrzej Kopeć and Maciej Świątnicki), motion picture sountracks ( Evenement 2028, Palais informative videos for Maison de production 2028 in Lyon), animated film music ( Les pyramides Lise Corriol, Animaux Benoit Dulac), also performed live by percussion students of Limonest Conservatory, Orchestre de Fourviere and Brass Band du Rhone, and computer games music ( Musiquiz for muzykotekaszkolna.pl website, Vue imprenable sur jardin secret Juliette Laude), theatre plays music (monodrama Dziwnotwór by Maja Baczyńska, Airmythe dance theatre of Barbara Loison), performance arts music (distiction award for composition to the performance Fletolot for Children’s Art Centre in Poznań, performance Mani-pulsation at the Street Art Dopping Festival, modern dance performance at the Dansez campus 2013) and soundtracks to museum exhibitions and visual art ( Des…astres Victor Caniato exhibition).",
+  "birth": {
+    "place": "Warsaw",
+    "date": "29th April 1988",
+    "raw": "b. 29th April 1988 in Warsaw"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Normal 0 21 La lumière for string quartet (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Normal 0 21 Une étoile noire for piano quintet (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Matka powieszonych pieśń na bas, skrzypce i fortepian (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Normal 0 21 Phrenetizo opera (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Normal 0 21 Fuga for piano solo (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Normal 0 21 Trzy romanse (Three romances) for flute, cello, trumpet and marimba (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Normal 0 21 Sonata for flute solo (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Normal 0 21 Wokaliza (Vocalise) for mezzosoprano, violin, viola and cello (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Normal 0 21 Dies Irea for string orchestra, choir and percussion (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Normal 0 21 Etiuda (Etude ) for harp (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Normal 0 21 Tętno (Pulse) for wind quintet (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Normal 0 21 Żywioły (Classical elements) for percussion (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Normal 0 21 Dyslokacje na granicach (Dislocation at the borders) for accordion and tape (2009 )",
+      "year": null
+    },
+    {
+      "title": "Normal 0 21 Rêves song cycle for mezzosoprano, bass and chamber orchestra (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Normal 0 21 Miasto snu (The city of dream ) for accordion, cello and tape (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Normal 0 21 Inertie for vibraphone and live electronics (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Normal 0 21 Absence for flute and live electronics (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Cello quartet (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Normal 0 21 Sen na Jawie (Daydreaming ) for string orchestra and tape (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Normal 0 21 Ecoute for tape (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Normal 0 21 Loko soundtrack to choreography (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Normal 0 21 Cywilizacja (Civilization) soundtrack to monodrama Dziwnotwór by Maja Baczyńska (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Normal 0 21 IN-OUT audiovisual installation (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Normal 0 21 Mani-pulsacje (Mani-pulsations ) performance (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Normal 0 21 Fletolot performance music for flute and tape (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Normal 0 21 Normal 0 21 Musiquiz computer game music (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Normal 0 21 Vue imprenable sur jardin secret computer game music (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Normal 0 21 Poèmes pour Begue for string quartet and mezzosoprano to the text of Jean Lescure (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Normal 0 21 Des…astres soundtrack to Victor Caniato's exhibition (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Normal 0 21 Animaux soundtrack to animation (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Normal 0 21 Les pyramides soundtrack to animation (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Normal 0 21 Evenement 2028 soundtrack to informative video (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Normal 0 21 Palais soundtrack to informative video (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Nie dotykać jesteśmy w muzeum , muzyka do instalacji artystycznej Spotlight Kids (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Airmythe , muzyka do teatru tańca współczesnego Barbary Loison (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Lights&Shadows , muzyka do gry Piotra Antoniaka i Joanny Soboty (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Il rumore del silenzio , utwór elektroakustyczny (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Podróże , muzyka do wystawy prac graficznych Michała Polaczka (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Muzyka do krótkometrażowego filmu Jules César, Blanche-Neige et moi w reż. Christine Paillard (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Muzyka do krótkometrażowego filmu Est-ce que maman a tué papa w reż. Christine Paillard (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Out of body na gamelan i elektronikę (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Muzyka do noweli Zhang Zhung, le mont Gang Ti Sā w reż. Arnaud Gabriel (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Muzyka do filmu animowanego Hungry Flower w reż. Maelle Gal (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Muzyka do filmu animowanego What goes up w reż. Quentina Lebastarda (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Muzyka do filmu animowanego Błękitne drzewo w reż. Anny Przybyłko (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Muzyka do filmu niemego z kolekcji Lobster Camera magique (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Muzyka do filmu animowanego Point of view w reż. Anny Rudnickiej (2016)",
+      "year": "2016"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "swiatnicka-kalina-en"
+}

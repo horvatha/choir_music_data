@@ -1,0 +1,75 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/k/krystkowiak-waldemar-en",
+  "title": "Krystkowiak Waldemar",
+  "name": "Krystkowiak Waldemar",
+  "occupation": "performer",
+  "is_composer": false,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Hej kolęda, kolęda (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Hej kolęda (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Piosenki dla dzieci (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Kolęda, kolęda (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Fortepian dla najmłodszych cz. I (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Fortepian dla najmłodszych cz. II (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Zagram ci mamo cz. I (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Zagram ci mamo cz. II (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Fortepian dla najmłodszych cz. III (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Jezus malusieńki (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Kolędować małemu (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Szkoła na fortepian (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Zagram ci mamo cz. III (2007)",
+      "year": "2007"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "krystkowiak-waldemar-en"
+}

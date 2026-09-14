@@ -1,0 +1,63 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/g/grajter-piotr-en",
+  "title": "Grajter Piotr",
+  "name": "Grajter Piotr",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Suita na klarnet i fagot (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Utwór koncertowy na skrzypce i organy (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Chorale pro organo (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Siedem medytacji o stworzeniu świata na perkusję (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Sygnały na instrumenty dęte blaszane (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Passacaglia na małą orkiestrę symfoniczną (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Partita na kwartet smyczkowy (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Anapeirae e harmonia na wielką orkiestrę symfoniczną (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Ab ovo na sekstet perkusyjny (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Introwersje na wiolonczelę i organy (1988)",
+      "year": "1988"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Szoka Marta, Grajter Piotr, Akademia Muzyczna w Łodzi, Łódź 2001",
+  "slug": "grajter-piotr-en"
+}

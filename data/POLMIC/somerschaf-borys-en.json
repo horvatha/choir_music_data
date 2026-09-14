@@ -1,0 +1,91 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/s/somerschaf-borys-en",
+  "title": "Somerschaf Borys",
+  "name": "Somerschaf Borys",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Muzyka do serialu Miodowe lata (1998-2004)",
+      "year": "1998-2004"
+    },
+    {
+      "title": "Muzyka do serialu Klasa na obcasach (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Muzyka do serialu Całkiem nowe lata miodowe (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Multimedialny koncert na sopran, baryton, chór i zespół instrumentalny (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Muzyka do filmu Czapla i żuraw w reż. Jana Hryniaka (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Muzyka do filmu Hotel Mistrzów w reż. Jana Hryniaka (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Muzyka do filmu Życie dla życia w reż. Tomasza Gawrońskiego (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Muzyka do filmu Strażnik minionego czasu w reż. Małgorzaty Potockiej (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Muzyka do filmu Dusza słowiańska w bezdusznych czasach w reż. Tomasza Lengrena (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Muzyka do spektaklu Wszystko w ogrodzie w reż. Zbigniewa Zapasiewicza (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Muzyka do spektaklu Sceny z życia Mitteleuropy w reż. Janusza Opryńskiego, Witolda Mazurkiewicza (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Muzyka do spektaklu Porucznik z Inishmore w reż. Krzysztofa Rekowskiego (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Muzyka do spektaklu Dialogi o zwierzętach w reż. Krzysztofa Rekowskiego (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Muzyka do spektaklu Żabia królowa w reż. Krzysztofa Rekowskiego (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Muzyka do spektaklu Chiny w reż. Krzysztofa Rekowskiego (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Muzyka do spektaklu Agata szuka pracy w reż. Krzysztofa Rekowskiego (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Muzyka do spektaklu Romeo i Julia w reż. Krzysztofa Rekowskiego (2006)",
+      "year": "2006"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "somerschaf-borys-en"
+}

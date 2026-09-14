@@ -1,0 +1,79 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/p/pieprzyk-lukasz-en",
+  "title": "Pieprzyk Łukasz",
+  "name": "Pieprzyk Łukasz",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": "composer, producer, video-art maker. Born on 9 March 1985 in Katowice, in 2004-09 he studied composition under Professor Zbigniew Bujarski at Academy of Music in Kraków, graduating with honours. He also studied with Professor Marek Chołoniewski at the Studio of Electroacoustic Music affiliated with his alma mater . In 2009-12 he completed 3-year PhD studies under Professor Krzysztof Penderecki. He participated in composition courses and workshops run by Per Nørgård, Kaija Saariaho, Alvin Lucier, Phill Niblock, Mike Patterson, Dieter Mack, Marta Ptaszyńska, and Richard Boulanger, among others. In 2011 he completed the Postgraduate Programme in Film and Theatre Music in Łódź. He won the two second prizes of the Patri Patriae Composition Competition in Katowice: in 2002 for Hymn for string orchestra and in 2006 for Entropy . On both occasions Wojciech Kilar was the chairman of the jury. In 2010 Pieprzyk won the audience award at the Wawel: Musica Festiva competition that marked 600 years of the Battle of Grunwald for Szarże [Charges] for symphony orchestra. . His works were performed in Kraków (International Festival of New Music, Polish-American Festival of Electroacoustic Music, Festival of Polish Music), Łódź (Musica Moderna), Wrocław (Musica Polonica Nova), Katowice, Warsaw, Chicago, New York, Sibiu in Romania, Ostrava and Prague in the Czech Republic, Trebnitz in Germany, Castelfranco Veneto in Italy. His diploma piece My Passion for choir, orchestra, video and electronics was performed by an ensemble of more than 120 persons on 17 May 2009 at Cracow Philharmonic. In May 2010 he took part in the ASCAP/NYU Film Scoring Workshop 2010 in New York, and during the workshop he wrote music to a fragment of the film Serenity . The piece was subsequently performed under Mark Snow and recorded by Tim Starnes. In August 2012 Łukasz Pieprzyk qualified to the finals of the Transatlantyk Film Music Competition 2012. Łukasz Pieprzyk composed music to the following film productions: Sonderaktion Krakau (TVP), Circus Maximus (directed by Bartek Kulas), Art of Freedom (directed by Marek Kłosowicz, Wojciech Słota), Kamil Stoch, Droga do zwycięstwa (Lotos). Currently, the composer is finalising his PhD – he makes a film with his own music. January 2013 (ai) The artist's websites: www.facebook.com/Nox.Composer www.youtube.com/user/noxsphere Contact: e-mail: This email address is being protected from spambots. You need JavaScript enabled to view it.",
+  "birth": {
+    "place": "Katowice",
+    "date": "9 March 1985",
+    "raw": "Born on 9 March 1985 in Katowice,"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Hymn for sting orchestra (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Entropy for computer (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "([Dis]integration I-III for video and electronics (2005-2006)",
+      "year": "2005-2006"
+    },
+    {
+      "title": "Stressful Warning for wind ensemble (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Final Warning for orchestra (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Prometheus for symphony orchestra (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "My Passion for choir, orchestra, electronics and video (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Ship's Pass for chamber orchestra (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Charges for orchestra and electronics (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Afterwards for electronics (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Art of Freedom , film soundtrack (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Reversal for percussion trio and electronics (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Falling Down for video, symphony orchestra, choir and electronics (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Ignition for string quartet, percussion and electronics (2013)",
+      "year": "2013"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "pieprzyk-lukasz-en"
+}

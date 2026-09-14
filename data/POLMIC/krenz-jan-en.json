@@ -1,0 +1,131 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/k/krenz-jan-en",
+  "title": "Krenz Jan",
+  "name": "Krenz Jan",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": "conductor and composer, b. 14th July 1926 in Włocławek; d. 15th September in Warsaw. Under the German occupation, he received tuition from Zbigniew Drzewiecki (piano) and Kazimierz Sikorski (composition). In 1945-47 he studied conducting with Kazimierz Wiłkomirski and composition with Kazimierz Sikorski at the State Higher School of Music in Łódź (now the Music Academy), from which he graduated with honours. He made his conducting debut in 1946 in Łódź. In 1947-49 he worked as a conductor at Poznań Philharmonic. He specialized in performing contemporary music. Together with Tadeusz Baird and Kazimierz Serocki, he formed a composers' group called \"Group 49\". In 1949 he became associated with the Polish Radio Grand Symphony Orchestra (WOSPR) in Katowice, in which he worked till 1951 under Grzegorz Fitelberg. After the latter's death in 1953 he became the principal conductor and director of the Orchestra, a post he held till 1968. In 1968-73 he was the artistic director of the Grand Theatre in Warsaw. Simultaneously, he conducted the Danmarks Radio Orchestra in Kopenhagen, the Yomiuri Nippon Symphony Orchestra in Tokyo, as well as appearing as a guest conductor with such orchestras as the Berliner Philharmoniker, Staatskapelle Dresden, Leningrad Philharmonic, Concertgebouw Orchestra in Amsterdam. In 1979-82 he held the post of Generalmusikdirektor of the City of Bonn, where he conducted the Beethovenhalle orchestra. In 1983-85 he was associated with the Dutch Radio in Hilversum. In 2005, he took the position of artistic director and first conductor of the Kraków Philharmonic, which he held until 2008. He was the honorary conductor of the Polish National Radio Symphony Orchestra. He regularly participated in the \"Warsaw Autumn\" International Festival of Contemporary Music (during which he twice received – in 1969 and 1974 – the \"Gold Orpheus\" Award for performances of Polish music) as well as festivals in Edinburgh, Bergen, Prague, Montreux, Osaka and Vienna. He made his debut earlier as a composer than as a conductor: his String Quartet No. 1 was premiered in 1943 in occupied Warsaw, during an underground concert. Later on, his brilliant conducting career held his creative work back, and at times many years separated his subsequent pieces. He composed, among others, music to films by the most important authors of the Polish film school: Andrzej Munk ( Bad Luck) and Andrzej Wajda ( Kanał ). Jan Krenz has received numerous awards and distinctions, including the Gold Cross of Merit (1952), State Award, 2nd Class (1955), The Music Award of the City of Katowice (1957), the Award of the Polish Composers' Union (twice: in 1968 and 1996), State Award, 1st Class (1972), the \"Diamond Baton\" Award for the 70th anniversary of the Polish Radio (1995), Commander's Cross of the Order of Polonia Restituta (2005), Gold Medal for Merit to Culture \"Gloria Artis\" (2005) and numerous international awards for his record releases. In 2011 he received the \"Coryphaeus of Polish Music\" Honorary Award of the Institute of Music and Dance. In 2018 he received an honorary doctorate from the Academy of Music in Łódź. updated: 2020 (ac)",
+  "birth": {
+    "place": "Włocławek",
+    "date": "14th July 1926",
+    "raw": "b. 14th July 1926 in Włocławek"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Triptych for voice and piano (1946)",
+      "year": "1946"
+    },
+    {
+      "title": "Sonata for oboe and piano (1947)",
+      "year": "1947"
+    },
+    {
+      "title": "Symphony No. 1 (1947-49)",
+      "year": "1947-49"
+    },
+    {
+      "title": "Classical Serenade for small orchestra (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "Two Songs (A Sad and A Joyful One) for a cappella choir (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "Quartet for flute, oboe, clarinet and bassoon (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "Symphonic Dance for orchestra (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "Rural Serenade for small orchestra (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "Rhapsody for string orchestra, xylophone, tam-tam, kettledrums and celesta (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Concertino for piano and small orchestra (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Musica per clarinetto solo (1958)",
+      "year": "1958"
+    },
+    {
+      "title": "Capriccio for 24 instruments (1961-62)",
+      "year": "1961-62"
+    },
+    {
+      "title": "Messa breve per coro e campane (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Masks , symphonic triptych for orchestra (1982-85)",
+      "year": "1982-85"
+    },
+    {
+      "title": "Musica da camera (Quartetto no. 3) per quartetto d'archi (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Sonatina per due violini soli (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Epitaphion for orchestra (1989-90)",
+      "year": "1989-90"
+    },
+    {
+      "title": "Symphony No. 2 (quasi una fantasia) (1989-92)",
+      "year": "1989-92"
+    },
+    {
+      "title": "Sinfonietta per fiati (1994-95)",
+      "year": "1994-95"
+    },
+    {
+      "title": "Impromptu pour violoncelle (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Tristan in memoriam. Postludium per quartetto d’archi (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Symphony No. 3 for string orchestra, piano, percussion and French horn solo (2001-2003)",
+      "year": "2001-2003"
+    },
+    {
+      "title": "Aria and Perpetuum mobile for orchestra (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Overture for symphony orchestra (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Requiem for baritone solo, mixed choir and orchestra (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Triptych for oboe and string orchestra (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Katyn Elegy for cello and orchestra (2009)",
+      "year": "2009"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Kydryński Lucjan, Jan Krenz, PWM, Kraków 1960 Markowska Elżbieta, Jana Krenza pięćdziesiąt lat z batutą. Rozmowy o muzyce polskiej [Jan Krenz's 50 years of conducting. Conversations about Polish music.], PWM, Kraków 1996 Helman Zofia, Krenz Jan, In: Encyklopedia Muzyczna PWM (część biograficzna pod red. Elżbiety Dziębowskiej) [PWM Encyclopaedia of Music - biographical part, ed. by Elżbieta Dziębowska], vol. \"klł\", PWM, Kraków 1997 Schaeffer Bogusław, Krenz Jan, In: The New Grove Dictionary of Music and Musicians. Second Edition (ed. Stanley Sadie), vol. 13, Macmillan Publishers Limited, London 2001",
+  "slug": "krenz-jan-en"
+}

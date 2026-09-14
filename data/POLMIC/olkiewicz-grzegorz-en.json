@@ -1,0 +1,22 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/o/olkiewicz-grzegorz-en",
+  "title": "Olkiewicz Grzegorz",
+  "name": "Olkiewicz Grzegorz",
+  "occupation": "performer",
+  "is_composer": false,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [],
+  "publications": null,
+  "bibliography": "Cichoń Ewa, Olkiewicz Grzegorz, PWM, Kraków 2002",
+  "slug": "olkiewicz-grzegorz-en"
+}

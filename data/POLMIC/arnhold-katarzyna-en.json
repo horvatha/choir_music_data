@@ -1,0 +1,135 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/a/arnhold-katarzyna-en",
+  "title": "Arnhold Katarzyna",
+  "name": "Arnhold Katarzyna",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "composer; b. 4th August 1968 in Opole. She studied composition with Grażyna Pstrokońska-Nawratil in the State Higher School of Music in Wrocław, as well as Iberian studies at the University of Wrocław between 1997 and 1999. Between 2001 and 2003 she participated in the Master’s Degree program for composers “Contemporary Music through Non-western Techniques”, during which she studied the music of South India (Karnataka) under the supervision of Rafael Reina. She also studied electronic music with Jorrit Tamminga, Jos Zwaanenburg and Kees Tazelaar in Amsterdam. She has repeatedly taken part in international composition courses organized by the Polish Society for Contemporary Music in Kazimierz Dolny, Białystok and Radziejowice. As a grantee of the Mexican Sones Contemporaneos Association, she participated in the 5th International Franco Donatoni Composition Courses in Mexico in 1998. In 1997, 1998 and 2000, as a three-time winner of the Instituto de la Juventud award, she took part in composition master classes given by Cristóbal Halffter, Tomás Marco and Mauricio Sotelo in Madrid and at the Centre for Euro-Latin American Music in Mollina, near Malaga. Her compositions have frequently been performed at festivals (“Warsaw Autumn”, “Audio-Art” festival in Warsaw and Wrocław, “Musica Polonica Nova” festival in Wrocław, the 6th Festival “Joven de Música Clásica” in Segovia, 26th Foro Internacional de Música Nueva ”Manuel Enríquez” in Mexico, the Internationaal Gaudeamus Vertolkers Concours & Week van de Hedendaagse Kamermuziek in Amsterda) and concerts of contemporary music in Poland, Spain and the Netherlands. She collaborated with visual artists: Piotr Lutyński, Anka Brudzińska and her sister, the actress Julia Krynke, with whom she worked on multimedia projects. Her compositions have been performed by many artists, such as Christina Ascher, Krzysztof Bąkowski, Tytus Wojnowicz, Lindsay Davidson, Martha Mavroidi, Grupo de Camara de la JONDE, New Juilliard Ensemble, AeroDynamic Trio. Between 1992 and 1995 Katarzyna Arnhold cooperated with the music department of Polish Radio Wrocław, preparing and hosting programs devoted to contemporary music.",
+  "birth": {
+    "place": "Opole",
+    "date": "4th August 1968",
+    "raw": "b. 4th August 1968 in Opole"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Portrait sketches for violin (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Glossary for violin and harpsichord (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "In the Not Too Serious Mood for bassoon and cello (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Transformations for string quartet (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Fading for female voice, guitar, vibraphone and cello (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Calling for 15 string instruments (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Arrival 3 songs to text by James Joyce for female voice and piano (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Res Sacra Miser chamber opera to a libretto by Oscar Wilde (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Dancing to the Wind for flute and piano * (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Attempts to Cross the Border for 2 cellos * (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Duder’as vocal sextet to text by Oliverio Girondo * (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Melancholy and a Black Sun for female voice, string trio and three reciters to texts by Thomas Stearns Eliot * (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Ascension-Into-Heaven for flute, clarinet, cello and piano (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Españoladas for flute and piano (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Chac Mool sacrificial music for chamber orchestra * (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Alas rotas del dolor for soprano, wind quintet and percussion to texts by Frida Kahlo (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Laughter Like the Rustling of Dry Leaves – a study of whispering for violin * (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Perforation-Coalescence for violin and piano * (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "A Soul Flew Out of the Body - Funeral Supplications for bass-baritone, bagpipe, violin and three weepers * (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "My Ghosts are like Birds for female voice and delay (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "The Lament of the Black Rose for female harpsichordist and female narrator to text by Ewa Sonnenberg (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Clearances. Pulsation of the Azure , electronic music (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Ene, Due for 2 female voices, 3 recorders, trumpet, guitar and percussion to texts by Anna Frank and Herman Hesse (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Tzeruf for Paetzold recorder, bass clarinet, trumpet, viola da gamba and female voice (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Rang-grol II: Karman’s Whirlwind for female voice and tape (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Tablet VI: Ishtar and The Bull of Heaven for 2 saxophones, trumpet and 2 percussions (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "In the Alchemy of the World’s Dream for soprano and 2 recorders (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Hay voces libres... for flute, bass clarinet, double bass and flamenco voice (2006)",
+      "year": "2006"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "arnhold-katarzyna-en"
+}

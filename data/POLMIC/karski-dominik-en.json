@@ -1,0 +1,199 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/k/karski-dominik-en",
+  "title": "Karski Dominik",
+  "name": "Karski Dominik",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "composer; b. 24th June 1972 in Szczebrzeszyn. He divides his time between Poland and Australia. He studied composition with Brian Howard, Stephen Cronin and Gerard Brophy in Perth and Brisbane in Australia. He obtained his doctoral degree in 2012 at the University of Melbourne under the supervision of Brenton Broadstock and Michael Christoforidis. In 2006-2007 he also worked under Chaya Czernowin at the Universität für Musik und darstellende Kunst Wien (Austria). In 2005 he participated in the International Summer Course for Young Composers at the Schloss Solitude Academy in Stuttgart under the direction of Chaya Czernowin, Steven Kazuo Takasuga and Michael Reudenbach, during which the Ensemble SurPlus performed his work inward for piccolo flute, bass clarinet and piano (2004). In 1998 he won the Australian ABC Young Composers' Award for Floating on the River of Time for instrumental ensemble (1997). He received a commissioned from FORUM 2000 in Montreal to write Les éruptions du rêve for 15 musicians (1999). In 2001 he won the first prize for Threads of Fate for violin, piano and cello (2001) at the Andrzej Panufnik International Competition for Young Composers in Kraków. In 2002 he took part in the \"Gaudeamus Music Week\" in Amsterdam, where he received an honorable mention for the work Glimmer for alto and bass flute (2002). In 2003 he represented Australia at the UNESCO International Rostrum of Composers with the composition Matter of Perspective for five musicians (2000). Due to several creative scholarships from the Ministry of Culture and National Heritage, he wrote, among others, pre-seed (2009), commissioned by Richard Craig, and Certainty’s Flux for solo violin (2013), written for Swedish violinist Karin Hellqvist. SuperbImposition for double bass flute (Paetzold) was commissioned by Anna Petrini with the support of KulturkontaktNord (Sweden, 2009). The premiere of this piece took place during the Musica Electronica Nova festival in Wrocław in 2011, and in September 2012 the composition was released on CD by dBProductions in Sweden. The album received the Swedish prize \"Nutida Sound\" – best new music CD of the year. His works Between Them And Eternity There is But a Minute And a Half , Streamforms III , Streamforms V (Crepuscular) and wherewhowhen were written as part of the \"Composing Commissions\" programme run by Institute of Music and Dance. In his composing, he focuses essentially on the player-instrument relationship as the primary source of the musical substance. Ensembles and soloists who have worked with the composer and presented his works include ELISION Ensemble, Quatuor Diotima, Flute o’clock, Carlton Vickers, Karin Hellqvist, Anna Petrini, The Roentgen Connection, Ensemble SurPlus, Elizabeth Sellars, Peter Neville, Claire Edwards, Geoffrey Gartner, Kathleen Gallagher and Malgorzata Walentynowicz, among many others. His works have been presented at numerous international events, including the Polish festivals Warsaw Autumn, Musica Polonica Nova, and Musica Electronica Nova, also Huddersfield Contemporary Music Festival (UK), Gaudeamus Music Week (The Netherlands), Frum Festival (Iceland), as well as the Totally Huge New Music Festival (Australia). CDs with his works have been released in Australia, Austria, Canada, Poland, Sweden, and the UK; of particular importance is a monographic disc with the composer’s flute works recorded by Flute o’clock and released in 2016 in Poland. updated: 2020 (ac) Composer's website: www.dominikkarski.net",
+  "birth": {
+    "place": "Szczebrzeszyn",
+    "date": "24th June 1972",
+    "raw": "b. 24th June 1972 in Szczebrzeszyn"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Beginnings to no end for percussion solo (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Les éruptions du rêve for fifteen musicians (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Along the Edge of Darkness for double bass solo (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Matter of Perspective for five musicians (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Streams of Consciousness for viola and cello (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Threads of Fate for violin, piano and cello (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Glimmer for alto and bass flute (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Inner Stream II for vibraphone and piano (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "motion + form for percussion, harp and double bass (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "open cluster M45 for bass flute (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "streamforms for bass flute (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Streams Within for fourteen musicians (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "streamforms II for cello solo (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "inward for piccolo flute, bass clarinet and piano (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "The Impulse Within for percussion and string quartet (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "(e)motion of forms for violin solo (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "To Remain in Change for piccolo flute (or flute or alto flute or bass flute) and cello (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "The Source for piano (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "RiverBed for flute, guitar, harp and violin (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "WaveLength for piccolo clarinet, contrabass clarinet, horn and cello (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "OverFlow for oboe, trumpet/piccolo trumpet, trombone and percussion (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "The Source Within for piano solo and three instrumental groups (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "The Outward Impulse for contrabss clarinet with tam-tam (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Un-tempered for viola (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Entangled for trombone and cello (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Gates of the Irrational for voice (bass-baritone) and piano (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Oscillations of Presence for bass and contrabass clarinet (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "pre-seed for flute soloist, clarinet, violin, vibraphone, piano (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "112 Iphigenia for amplified flute (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "In Search of Certainty for string quartet (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "SuperbImposition for amplified Paetzold contrabass recorder (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Certainty’s Extent for cello (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Velied Voice for two flutes (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Veiled Words for two alto flutes with tam-tams (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Certainty’s Flux for violin (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Between Them And Eternity There is But a Minute And a Half for flute, tam-tam, tape and voice (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Streampulses for harpsichord (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "The Unsearchable for piccolo flute or flute, percussion and harpsichord (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Streamforms III for flute, alto flute and harp (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "wherewhowhen for bass flute, percussion and harpsichord (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Metaphysical Graffiti for amplified prepared accordion (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Unquenchable for amplified alto flute (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Streamforms IV for percussion (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Streamforms V ( Crepuscular ) for alto flute, bass flute, piano and percussion instruments (2017)",
+      "year": "2017"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "karski-dominik-en"
+}

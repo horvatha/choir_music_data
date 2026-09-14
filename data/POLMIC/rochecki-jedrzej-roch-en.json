@@ -1,0 +1,171 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/r/rochecki-jedrzej-roch-en",
+  "title": "Rochecki Jędrzej Roch",
+  "name": "Rochecki Jędrzej Roch",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": "composer, sound engineer; b. 29th October 1988 in Toruń. He began his music education at the age of six at the Karol Szymanowski Music School in Toruń. In the years 2007-2010, he pursued a bachelor's degree in theory of music, sound engineering and composition (with Professor Marek Jasiński, then with Professor Zbigniew Bargielski) at the Felix Nowowiejski Academy of Music in Bydgoszcz. He received a master's degree in composition at the Feliks Nowowiejski Academy of Music in Bydgoszcz in Professor Marian Borkowski’s class and simultaneously in Film & TV Sound Engineering at the Fryderyk Chopin University of Music in Warsaw in Professor Nikodem Wołk-Łaniewski's class. In 2010, he was involved in the international project FABREC which was a cooperation between the Felix Nowowiejski Academy of Music in Bydgoszcz, Universitatea de Arta şi Design (Cluj-Napoca, Romania) and Université de Toulouse Le Mirail (Touluse, France). He also took part in the Inter-University Multimedia Program (MSM), working with such artists as Krzysztof Knittel, Krzesimir Dębski, Edward Sielicki, Marek Chołoniewski, Cezary Duchnowski. Jędrzej Rochecki received several prizes in composition competitions, including the 1st prize at the Marian Gordiejuk Composition Contest, the 2nd prize at the Academic Composer Competition for “Concerto grosso” in Bydgoszcz, the audience award for video-art Upstream at the Sound Screen Festival in Bydgoszcz. Thanks to financial support from the Polish Institute of Music and Dance, in the season 2012/2013 he was a composer-in-residence of the Toruń Symphony Orchestra. His music has been presented at many events in Poland and abroad. He also performed as violinist and sound engineer at many concerts of contemporary music. In his compositions, he uses electronis, visual arts, sound design, etc. He cooperates with other artists in many fields, for example he creates soundtracks for animations, video-arts, installation arts, exhibitions, movies, etc. Currently, he works as a sound director at the Municipal Cultural Center in Bydgoszcz and the Music Theater in Toruń. He also lectures at the Feliks Nowowiejski Academy of Music in Bydgoszcz. updated: 2018 (ac) The composer's website: http://www.rochecki.pl/",
+  "birth": {
+    "place": "Toruń",
+    "date": "29th October 1988",
+    "raw": "b. 29th October 1988 in Toruń"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Violin concerto in G minor for violin and symphony orchestra (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Jazz concerto for violin and symphony orchestra (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Kalinowe dwory for tenor, mixed choir and orchestra (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Concerto grosso \"Green Words\" for chamber orchestra (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Popyrtaniec for accordion, two violins and contrabass (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Original miniature for violin and piano (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Quadrogram for string quartet (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Par titata for two violins (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Mea maxima culpa for mixed choir (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Three songs to poems by Leopold Staff – Moonlight night , Afflation , Coming (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Two miniatures for perfumed piano (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Close at hand for electronics, tape, quadraphonics sound (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Oratio ad Beatissimam Virginem Mariam for two mixed choirs (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Missa brevis for mixed choir (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Fides, Ratio et Corpus for choir and organ (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Astrotonical improvisation – performance for unspecified musicans and live electronics (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Pory w ogrodzie for soprano and orchestra (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Al Tanka for prepared violin and orchestra (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Metamorphoses for flute and piano (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Godliness for bariton and piano to composer's poem (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Sinfonia concertante No. 1 for piano, violin, trumpet and orchestra (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Chopin's shadow to poem by Kazimierz Przerwa-Tetmajer for bariton and piano (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Lacrimosa and Sanctus for soprano, mezzo-soprano, alto, female choir and orchestra – two parts of Requiem in memoriam Professor Marek Jasiński (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Urban space performance for two clarinets, bass guitar, percussion, live electronics and light installation (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Symphony No. 2 „LCR” (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Mix-tury for orchestra and live electronics (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Asperges me for mixed choir (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Symphonic Suite \"Thorunium\" for mixed choir, orchestra, organ and soloist (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Blisko-daleko for piano and electronics (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Parti tata for violin solo (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Quid est corpus for mixed choir (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Angry rhapsody for string orchestra and percussion (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "FORTEfications of Torun for orchestra (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Visions for violin and computer (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Visions II for piano, accordion and computer (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Music for film Daj popatrzeć! dir. Nikodem Wojciechowski (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Music for film Krzycz, jeśli chcesz dir. Jagoda Szelc (2011)",
+      "year": "2011"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "rochecki-jedrzej-roch-en"
+}

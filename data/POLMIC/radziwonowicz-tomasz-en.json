@@ -1,0 +1,67 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/r/radziwonowicz-tomasz-en",
+  "title": "Radziwonowicz Tomasz",
+  "name": "Radziwonowicz Tomasz",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": "violinist and chamber musician, composer, conductor and arranger; b 23rd March 1953 in Warsaw. Having graduated in 1978 from Fryderyk Chopin Academy of Music in Warsaw, where he was a student of professor Irena Dubiska, Tomasz Radziwonowicz worked as a first violinist of the National Philharmonic in Warsaw. From 1981 to 1982 he was a soloist and second concertmaster of the Philharmonic in Las Palmas, where he founded the string quintet Camerata Musica Viva. His concert activity as a soloist was very dynamic there, and included Johannes Brahms’s Double Concerto Op. 102 for violin and cello (with Urszula Wejman) and Sinfonia concertante KV 364 by Wolfgang Amadeus Mozart. The year 1986 marked his debut in Salle Cortot. In 1987, during the Henryk Wieniawski Days in Szczawnica Zdrój, he and his brother Karol did the first performance of the Great Sonata by Józef Wieniawski. In 1990 Radziwonowicz founded the string quintet I Solisti di Varsavia, a successful ensemble which gives numerous performances both in Poland and abroad (France, Germany, Canada, Russia, Cyprus) and makes recordings for the Radio and Television. Radziwonowicz recorded 7 CD’s with the ensemble (among others: Fryderyk Chopin’s complete works for piano and orchestra arranged for string quintet, nominated for Fryderyk 1998 Music Award for the Best Chamber Music Album). His concert routes include also the Netherlands (the series of concerts of Polish music), Great Britain (Edinburg) and Canada (Ottawa, Hull, Toronto). In 1998 he founded the chamber orchestra Sinfonia Viva, and has been its artistic director since then. Sinfonia Viva has recorder ten CD’s. Three of them were nominated for Fryderyk Music Awards: Muzyka i Ekran II in 2001 and Tango in 2005 for the Best Orchestral Music Album, and Uniesienie in 2005 for the Best Jazz Album. Tomasz Radziwonowicz is interested in all aspects of music, privately studies composition and conducting, does not avoid jazz. He has arranged numerous pieces, including popular music, Christmas carols and jazz standards. Among his latest compositions are: Concert for cello and strings, String quartet and 3 Songs to the lyrics by Karol Wojtyła . All Fryderyk Chopin’s works for piano and orchestra have been arranged by Tomasz Radziwonowicz for piano and string quintet, and some of Chopin’s piano works – for string quintet.",
+  "birth": {
+    "place": "Warsaw",
+    "date": "23rd March 1953",
+    "raw": "b 23rd March 1953 in Warsaw"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Concerto for cello and string orchestra",
+      "year": null
+    },
+    {
+      "title": "Violin Concerto",
+      "year": null
+    },
+    {
+      "title": "Three Thoughts for vibraphone and cello",
+      "year": null
+    },
+    {
+      "title": "Violin Concerto No. 2",
+      "year": null
+    },
+    {
+      "title": "Antiphon for soprano, mixed choir and 10 string instruments",
+      "year": null
+    },
+    {
+      "title": "Songs to words by Karol Wojtyła",
+      "year": null
+    },
+    {
+      "title": "Missa nocturna (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Fantasy for piano, string orchestra and 7 wind instruments (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Requiem for the World for soloists, choir and orchestra (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Music for the film Ego , dir. by Adam Ustynowicz (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Music for the play Shakespeare's Testament , dir. by Adam Ustynowicz (1994)",
+      "year": "1994"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "radziwonowicz-tomasz-en"
+}

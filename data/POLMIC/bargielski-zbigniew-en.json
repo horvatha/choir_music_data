@@ -1,0 +1,779 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/b/bargielski-zbigniew-en",
+  "title": "Bargielski Zbigniew",
+  "name": "Bargielski Zbigniew",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "composer; b. 21st January 1937 in Łomża. He studied law at Maria Skłodowska-Curie University in Lublin (1954-57). In 1958, he began his composition study in the State Higher School of Music in Warsaw with Tadeusz Szeligowski, and after the latter’s death - with Bolesław Szabelski in the State Higher School of Music in Katowice, from which he graduated in 1964. In 1966-67 he continued his studies with Nadia Boulanger in Paris, and in 1972 - in Hochschule für Musik in Graz. In 1986, he received a scholarship of the Deutscher Akademischer Austauschdienst. His works have been performed in many European countries, in the USA, Australia and South America. Zbigniew Bargielski has won numerous competitions for composers. In 1965 he was awarded 1st prize in the Young Composers’ Competition of the Polish Composers’ Union for Parades for orchestra (1965). His String Quartet No.1 “Alpine” (1976) won him the 2nd prize in the Artur Malawski competition for composers in Cracow in 1976 and was one of the recommended works of the International Rostrum for Composers in Paris in 1981. A Dream’s Just a Dream for tenor and piano to words by Kazimierz Wierzyński (1982) took 3rd prize in the Karol Szymanowski competition in 1982. In 1995 his Trigonalia for guitar, accordion, percussion and chamber orchestra (1994) received a recommendation of the International Rostrum for Composers in Paris. A CD dedicated exclusively to his works was released by the Polish Radio in 2006 as part of the “Music of Our Time” series. In April 2008, the Silesian Quartet recorded Bargielski’s complete string quartets, released under the CD Accord label in 2012. The recording was Critics’ Choice for February 2013 of MusicWeb International and received a nomination for the Fryderyk 2013 Award of the Polish Phonographic Academy. Besides composing, he is a writer and music teacher. He has been teaching composition in Music Academy in Bydgoszcz (since 2002) and in Music Academy in Kraków (since 2003). He also writes music for films and the stage. Zbigniew Bargielski has been decorated with the Medal of “Merit for the Polish Culture” (1990), the Officer’s Cross of the Polonia Restituta Order (1995). the Award of the Polish Composers’ Union (2001), and the Gloria Artis Gold Medal (2011).",
+  "birth": {
+    "place": "Łomża",
+    "date": "21st January 1937",
+    "raw": "b. 21st January 1937 in Łomża"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Romanze für Friedrich for chamber ensemble",
+      "year": null
+    },
+    {
+      "title": "Waltz for double bass and piano",
+      "year": null
+    },
+    {
+      "title": "Seven Studies for piano (1957)",
+      "year": "1957"
+    },
+    {
+      "title": "Sinfonia for orchestra (1957)",
+      "year": "1957"
+    },
+    {
+      "title": "3 compositions de chamber (1958)",
+      "year": "1958"
+    },
+    {
+      "title": "Neosonatina for violin and piano (1958-1959)",
+      "year": "1958-1959"
+    },
+    {
+      "title": "Sonatina for piano (1959)",
+      "year": "1959"
+    },
+    {
+      "title": "Consensus I for chamber string orchestra (1961)",
+      "year": "1961"
+    },
+    {
+      "title": "Field Triptych for orchestra and male choir (1961-1962)",
+      "year": "1961-1962"
+    },
+    {
+      "title": "Five Sonnets for solo violin (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Consensus II for vibraphone, viola, trombone and flute (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Les desinvoltures for 3 instrumental ensembles (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "The Little Prince , musical story (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Parades for symphony orchestra (1964-1965)",
+      "year": "1964-1965"
+    },
+    {
+      "title": "Servert for 1-3 string instruments, perussion and piano (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Achilles' Shield for mezzo-soprano (alto), viola and bass clarinet (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Męczeństwo i śmierć Marata , opera (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Danton or Several Scenes from the History of the Great French Revolution , pseudo-historical opera (1968-1969)",
+      "year": "1968-1969"
+    },
+    {
+      "title": "In the Circle for soprano, alto, baritone, solo bass and chamber ensemble to words by Alicja Patey-Grabowska (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Parades 1970 for orchestra (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Small Children's Suite for chamber ensemble (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Four Love Songs for mezzo-soprano (alto) and piano to words by Alicja Patey-Grabowska (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Rosegarden for baritone or alto and bass clarinet to words by T. S. Eliot (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Gespenster Lügen nicht, opera (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Alice in Wonderland , opera for young people (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Nature Morte I for violin, guitar and tape (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Nature Morte II for violin, viola, cello, flute, harp and tape (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Krzesiwo na zespół kameralny (1972-1973)",
+      "year": "1972-1973"
+    },
+    {
+      "title": "Ein Zimmer [1st version] for clarinet, trombone, cello, piano, and reciting voice or tape (1973/1987)",
+      "year": null
+    },
+    {
+      "title": "Ein Zimmer [2nd version] for clarinet, trombone, cello, piano, reciting voice or tape and metronome (1973/1987)",
+      "year": null
+    },
+    {
+      "title": "Ein Zimmer [3rd version] for clarinet, trombone, cello, piano, marimba, reciting voice or tape and metronome (1973/1991)",
+      "year": null
+    },
+    {
+      "title": "Trauermusik na orkiestrę kameralną (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Concerto for percussion and orchestra (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Impromptu for solo percussion (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Ballade for violin and piano (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Concerto for violin and orchestra (1975-1976)",
+      "year": "1975-1976"
+    },
+    {
+      "title": "Ballade na skrzypce i akordeon (1975/2016)",
+      "year": null
+    },
+    {
+      "title": "Polish Rhapsody for wind instruments and percussion (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "String Quartet No. 1”Alpine” (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "A Valley of Bare Bones [1st version] for instrumental ensemble and percussion (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Stilleben mit Rose for wind instruments and percussion (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "A Valley of Bare Bones [2nd version] for improvised piano, instrumental ensemble and percussion (1977/1993)",
+      "year": null
+    },
+    {
+      "title": "Dolina tęczowych dzwonów for piano and tape (1977/2008)",
+      "year": null
+    },
+    {
+      "title": "... Ablaze Will They Be with Unquenchable Fire for string orchestra (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "A Butterfly Cage for wind quintet (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "In a Manor , opera after Stanisław Witkiewicz (1979-1980)",
+      "year": "1979-1980"
+    },
+    {
+      "title": "Nilpferde for 2 accordions (1979-1982)",
+      "year": "1979-1982"
+    },
+    {
+      "title": "Zapfenstreich for 3 accordions and percussion (1979-1982)",
+      "year": "1979-1982"
+    },
+    {
+      "title": "Es ist noch Nacht, noch ein Laut für Mezzosopran, Schlagzeug und Orchester (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Traumvogel für Akkordeon und Schlagzeug (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "String Quartet No. 2 \"Wiosenny\" (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "An Evening in the Past for guitar, harpsichord and celesta (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Wooden Wings for 6 percussionists (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Zyklopenblick na tubę i fortepian (1980-1981)",
+      "year": "1980-1981"
+    },
+    {
+      "title": "Nocturne in Blue for violin and string orchestra (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Icarus for bass clarinet or alto saxophone and marimbaphone or vibraphone (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Vienna G'schichten for 2 pianos (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Two Songs for mezzo-soprano and piano (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Halo, panie Mozart!, fun for piano for 3 students (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Spielendes Alphabet for 2 pianos and percussion instruments (1981-1983)",
+      "year": "1981-1983"
+    },
+    {
+      "title": "Talking to a Shadow for 2 accordions (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Gemalte Wolken for accordion solo (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "A Dream’s Just a Dream [1st version] for tenor and piano to words by Kazimierz Wierzyński (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "A Dream’s Just a Dream [2nd version] for baritone and piano to words by Kazimierz Wierzyński (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Epitaphium for 2 violins (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Four Trees with a Horn for wind quintet (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Four on a Journey for saxophone quartet (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Portrait from Memory for string sextet: 2 violins, 2 violas, 2 cellos (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Pięciu po drodze , kwartet saksofonowy z marimbą (1982-1986)",
+      "year": "1982-1986"
+    },
+    {
+      "title": "Epitaffio secondo for violin and cello (1982/1999)",
+      "year": null
+    },
+    {
+      "title": "Rondo alla polacca for small orchestra (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Sonnenlieder for mezzo-soprano, baritone, bass, choir and chamber ensemble (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Labirynt na fortepian (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Totenklage for baritone and any instruments (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "A Night of Farewells for accordion and string quartet (1983/1995)",
+      "year": null
+    },
+    {
+      "title": "Three Polish Suites for solo accordion (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Black Mirror for guitar and accordion (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Other Voices for oboe and clarinet (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Notturno for violin and guitar (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Notturno'81 for violin and piano (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Labyrinth der vergessenen Blicke for cello and piano (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Notturno for flute and guitar (1984/1986)",
+      "year": null
+    },
+    {
+      "title": "Flooded Flame for violin, cello and accordion (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "A Garden of Desires for soprano, bass clarinet (and alto saxophone), percussion and accordion (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Arc-en-ciel for mandolin and Celtic harp (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Folk Music for 2 violins (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Taniec polski na skrzypce (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Ateliermusik II na perkusję i taśmę (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "String Quartet No. 3 “Still Life with a Shriek” (1985-1986)",
+      "year": "1985-1986"
+    },
+    {
+      "title": "A Suite of Songs and Dances for accordion (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "A Report from the Vienna Wood for vocal-instrumental ensemble (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Quatuor à l’heure dite for strings (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Grazer Variationen für Akkordeonsorchester (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Sonata for violin and piano (“Forgetfulness Sonata”) (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Night Birds for clarinet quintet (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Panopticum for piano for 4 hands (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Labyrinth for cello and accordion (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Theme with Variations for piano (1987/2015)",
+      "year": null
+    },
+    {
+      "title": "Illusions for organ and percussion (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Caleidoscope for accordion (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Bildnis for violin (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Aria with Couplet for 2 accordions (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "In No-Man’s Land , oratorio (1988-1989)",
+      "year": "1988-1989"
+    },
+    {
+      "title": "String Quartet with Clarinet \"On the Other Side of the Mirror\" (1988/2003)",
+      "year": null
+    },
+    {
+      "title": "String Quartet with Flute \"On the Other Side of the Mirror\" (1988/2009)",
+      "year": null
+    },
+    {
+      "title": "Oboe Quintet \"On the Other Side of Silence\" (1988/2014)",
+      "year": null
+    },
+    {
+      "title": "A Ring of Shadows for saxophone quartet (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Woodcutter's Dance for clarinet, tuba and piano (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Cha-ord for orchestra (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Egad for accordion and vibraphone (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Soundmill for accordion orchestra and percussion (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Zwischenspiel for 2 pianos for 8 hands (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Konzert für Trompette und Orchester (1991/2005)",
+      "year": null
+    },
+    {
+      "title": "Requiem for orchestra (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Mutationen 92' für Tonband (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Beethoven’s Wanderweg zum Fürst Lichnovsky for piano (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Muzyka linii nieskończonych for tape (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Trigonalia for guitar, accordion, percussion and chamber orchestra (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "String Quartet No. 4 “Le temps ardent” (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Concertino for piano and chamber orchestra (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "A Dance on the Edge of Light for chamber ensemble (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Night-Day , 5 songs for soprano and piano (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Lost-Found for solo violin (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Orpheus for baritone, violin and bells (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "In the Search of the Lost Sound for solo flute (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "A Landscape of Memories (Witold Lutosławski in memoriam) for violin, cello and piano (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Hierophany for 5 percussionists (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "A la espagnola for guitar (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Tango for chamber ensemble (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Slapstick for chamber orchestra (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Tango for piano (1997/2015)",
+      "year": null
+    },
+    {
+      "title": "Shrine for An Anonymous Victim , electronic music (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Music for Children for piano (1999-2001)",
+      "year": "1999-2001"
+    },
+    {
+      "title": "Light Cross , electronic music (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Tangoroso for piano for 4 hands or 2 pianos (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Flea Market [2nd version] for instrumental ensemble (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Tango for accordion (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Flea Market [1st version], a cycle of piano miniatures for 2 and 4 hands (2000/2015)",
+      "year": null
+    },
+    {
+      "title": "Notturno, ballata e fantasia for piano (2000/2015)",
+      "year": null
+    },
+    {
+      "title": "Towards Organic Geometry , electronic music (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "String Quartet No. 5 „Le temps qui n’est plus” (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Elegeia for piano (2001/2015)",
+      "year": null
+    },
+    {
+      "title": "Le cristal flamboyant for harpsichord and tape (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Jeux à trois for 3 accordions (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "A.S.K. Autoportret for tape (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Letter to Milena for soprano, violin and piano (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "L’espace attrapè for orchestra (2005-2006)",
+      "year": "2005-2006"
+    },
+    {
+      "title": "Nocturne in Red and Blue for violin and string orchestra (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "String Quartet No. 6 “Dramatic” (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Beyond the Horizon for choir, orchestra and tape (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Inventions and Oddstates for small symphony orchestra (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Non omnis... for chamber ensemble (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Suite in the Old Style for string orchestra (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Mystery of Space for symphony orchestra, choir and electronic tape (2010-2011)",
+      "year": "2010-2011"
+    },
+    {
+      "title": "Das schöne Zimmer for soprano, baritone and chamber ensemble (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Trans-sonans for tape (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Hierofania II \"decoupage\" for percussion and small orchestra (2011-2012)",
+      "year": "2011-2012"
+    },
+    {
+      "title": "Schizophonia for string quartet and piano (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Monodia dla Andrzeja [Chłopeckiego] for string orchestra (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Polychrome, or EGAD [2nd version] for Wiener Glass Armonica Duo (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Apokalipsa na taśmę (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Concerto for Piano, Percussion and Symphony Orchestra (2013/2016)",
+      "year": null
+    },
+    {
+      "title": "An Open Night Window for baritone, bass clarinet, guitar and percussion (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Scrabble for piano (2015-2016)",
+      "year": "2015-2016"
+    },
+    {
+      "title": "Aria and Couplet for piano (2015rev.)",
+      "year": null
+    },
+    {
+      "title": "Fonoplasticon for wind quintet and piano (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Blues for 4 trombones (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Tango for 4 trombones (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "I wanted to write a letter to you for the rapper and chamber ensemble (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Monodia dla Andrzeja, version for flute, oboe, clarinet, bassoon or tenor saxophone, French horn, guitar and string orchestra (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Kilka minut obecności , alleged poem for voice and accordion (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Domino for flute, violin and cello (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Aforyzjada - opera w puzzlach (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Lullaby for piano and Celtic harp (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "anilo-Vi - klänge for violin, viola, cello, flute, clarinet, piano and percussion to the text by Hugo Ball (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Histe(O)ryjki. Panneau de 21 carreaux for piano (2018-2019)",
+      "year": "2018-2019"
+    },
+    {
+      "title": "Clavertett for harpsichord and string quartet (2020-2021)",
+      "year": "2020-2021"
+    },
+    {
+      "title": "Dyptyk krotochwilny for actor, wind quintet and percussion (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "Rhapsody 2022 for piano and string orchestra (2022)",
+      "year": "2022"
+    },
+    {
+      "title": "Music for the film Gorzki chleb obczyzny (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Music for the film Powszedni dzień Warszawskiego Getta (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Music for the film Habsburgowie polscy (2001-2002)",
+      "year": "2001-2002"
+    },
+    {
+      "title": "Music for the film Dobry jest wspólny posiłek, bo zbliża oddalonych (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Music for the film Ventzki, czyli Dzieci sprawców – dzieci ofiar (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Music for the film Mordechaj Gebirtig, czyli bądź zdrów mój Krakowie (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Music for the play Ostatnie dni ludzkości (2006-2007)",
+      "year": "2006-2007"
+    },
+    {
+      "title": "Music for the play Alpejskie zorze (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Music for the play Badenheim 1939 (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Music for the play Schody Strudlhofu (2009)",
+      "year": "2009"
+    }
+  ],
+  "publications": "articles & papers Pytania i odpowiedzi, „Res Facta” 1971 nr 5",
+  "bibliography": "Perkowska Małgorzata, Bargielski Zbigniew, In: PWM Music Encyclopaedia (biographical section ed. by Elżbieta Dziębowska), vol. „ab”, PWM, Kraków 1979 Dąbek Stanisław, Zbigniew Bargielski’s Work, Ruch Muzyczny 1979 nr 5 Podobińska Klaudia, Bargielski Zbigniew, in: Encyklopedia Muzyczna PWM (biographical section ed. by Elżbieta Dziębowska), vol. \"ab - suplement”, PWM, Kraków 1998 Ledzińska Agnieszka, Przech Violetta , Zbigniew Bargielski. Katalog tematyczny utworów, [thematic catalogue, in Polish], Akademia Muzyczna im. Feliksa Nowowiejskiego / Uniwersytet Muzyczny Fryderyka Chopina, , Bydgoszcz - Warszawa 2012",
+  "slug": "bargielski-zbigniew-en"
+}

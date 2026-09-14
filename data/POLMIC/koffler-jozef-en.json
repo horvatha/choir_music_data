@@ -1,0 +1,143 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/k/koffler-jozef-en",
+  "title": "Koffler Józef",
+  "name": "Koffler Józef",
+  "occupation": "composer, musicologist",
+  "is_composer": true,
+  "description": "composer, musicologist, academic teacher and press commentator, b. 28th November 1896 in Stryj (now the Ukraine), d. probably in 1944 near Krosno. In 1910-14 he attended a secondary school in Stryj. Simultaneously, he took private lessons in harmony, counterpoint and the piano. From 1914 till 1923 (with a four-year break in 1916-20 for military service) he studied at the University of Vienna, first at the Law Department (1914-16) and, as part of his curriculum, also attended workshops in harmony and composition with Hermann Grädener. After the winter semester in his 2nd year of study, he moved to the Philosophy Department to study musicology (1916, 1920-23). His teachers were, among others, Guido Adler, Robert Lach, Wilhelm Fischer and Egon Wellesz. Simultaneously, he studied conducting with Felix Weingartner and Joseph Kaiser. In 1923, he obtained a doctor's degree in musicology on the basis of the dissertation Über orchestrale Koloristik in den symphonischen Werken von Felix Mendelssohn-Bartholdy. After graduation, he stayed in Vienna till the summer of 1924, working as a singing tutor and choral conductor in the Burgtheater. In that period, he met Alban Berg. After his return to Poland, Józef Koffler took permanent residence in Lwów (now - Lviv in the Ukraine). In 1924-41, he taught harmony, musical forms, instrumentation and composition in the Conservatory of the Polish Music Society (from 1928 - as professor of harmony and atonal composition). His students were, among others, Roman Haubenstock-Ramati, Czesław Halski and Jakub Mund. From 1929, he entered into correspondence with Arnold Schönberg. Two years later he became a member of the Managing Board of Polish Composers' Association in Warsaw, at the same time sitting on the board of Polish Musician-Teachers' Union. In the 1930s, his works earned him international recognition and were hailed by the ISCM (International Society for Contemporary Music) as representative of new music: in 1931, his String Trio op. 10 (1928) received an honorable mention and was performed during the 9th International Society for Contemporary Music Festival in Oxford; in 1933, his 15 Variations d'apres une suite de 12 tons op. 9a for string orchestra (1931) got an honorable mention and was included in the programme of the 11th ISCM Festival in Amsterdam; in 1938, his Symphony No. 3 op. 21 for wind instruments and percussion (c. 1935) was presented during the 16th ISCM Festival in London. In the 1920s and 1930s, Koffler was active not only as a composer and teacher, but also as a critic and music commentator. From 1926 to 1939, he was editor-in-chief of the \"Orkiestra\" periodical, and in 1936-37 - also of the \"Echo\". His articles on contemporary music were also printed in such Polish newspapers and magazines as \"The Army Musician\", \"Music Quarterly\", \"Contemporary Music\" and \"Evening Express\". After the outbreak of World War II in 1939, Józef Koffler was appointed to the chair of composition and became vice-rector of the Mykola Lysenko State Conservatory, opened in Lvov after the city had been occupied by the Soviet Red Army. The high academic commission in Moscow also granted him a professor's title, and he became an active organiser of music life in the Soviet Lvov. In 1939, he joined the Composers' Union of the Soviet Ukraine, of which he became secretary. In 1939-41, he participated in the organisation of many cultural events, including concerts in Kiev during a guest session of the Soviet Composers' Union Organisation Committee, as well as \"A Decade of Soviet Music and Stage\". In 1941, he co-organised a concert of the Ukrainian Radio Committee and concerts accompanying the 2nd General Assembly of the Composers' Union of the Soviet Ukraine. In 1941, after the occupation of Lvov by the German army, Józef Koffler, his wife and son were transported to the ghetto in Wieliczka. His later fate and the circumstances of his death are unknown. He probably perished early in 1944 near Krosno, where he was in hiding after the dissolution of the Wieliczka ghetto, and where he and his family were shot by the Nazis.",
+  "birth": {
+    "place": "Stryj (now the Ukraine)",
+    "date": "28th November 1896",
+    "raw": "b. 28th November 1896 in Stryj (now the Ukraine)"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Songs for soprano and piano op. 1 (1917)",
+      "year": "1917"
+    },
+    {
+      "title": "Chanson slave for piano (1918?)",
+      "year": null
+    },
+    {
+      "title": "Jewish Folk Songs for piano (1920?)",
+      "year": null
+    },
+    {
+      "title": "Salzburg! Salzburg! – a song from the Singspiel Mozart by Julius Wilhelm and Paul Frank, arranged for a high-pitched voice and piano (1923?)",
+      "year": null
+    },
+    {
+      "title": "Forty Polish Folk Songs op. 6 for piano (1925)",
+      "year": "1925"
+    },
+    {
+      "title": "Four Polish Folk Songs for soprano (tenor) and piano (1925)",
+      "year": "1925"
+    },
+    {
+      "title": "Musique de ballet op. 7 for piano (1926)",
+      "year": "1926"
+    },
+    {
+      "title": "Musique. Quasi una sonata op. 8 for piano (1927)",
+      "year": "1927"
+    },
+    {
+      "title": "Quinze variations d’après une suite de douze tons op. 9 pour piano (1927)",
+      "year": "1927"
+    },
+    {
+      "title": "Streichtrio Op. 10 (1928)",
+      "year": "1928"
+    },
+    {
+      "title": "Symphonie No. 1 op. 11 for small orchestra (1930)",
+      "year": "1930"
+    },
+    {
+      "title": "Sonatine op. 12 pour piano (1930)",
+      "year": "1930"
+    },
+    {
+      "title": "Quinze variations d’après une suite de douze tons op. 9a for string orchestra (1931)",
+      "year": "1931"
+    },
+    {
+      "title": "Die Liebe op. 14 – a cantata for voice, clarinet, viola and cello (1931)",
+      "year": "1931"
+    },
+    {
+      "title": "Four Pieces for Children for piano (1931)",
+      "year": "1931"
+    },
+    {
+      "title": "Concerto pour piano op. 13 (1932)",
+      "year": "1932"
+    },
+    {
+      "title": "Alles durch M. O. W. op. 15 – a ballet in one act for two solo voices (soprano and baritone), mixed choir, orchestra and choreographic ensemble (1932)",
+      "year": "1932"
+    },
+    {
+      "title": "Sonata for cello and piano (1932?)",
+      "year": null
+    },
+    {
+      "title": "Symphonie No. 2 op. 17 for small orchestra (1933)",
+      "year": "1933"
+    },
+    {
+      "title": "String Quartet op. 20 (1934)",
+      "year": "1934"
+    },
+    {
+      "title": "Polish Carols for mixed choir (1934-36)",
+      "year": "1934-36"
+    },
+    {
+      "title": "Quatre poèmes op. 22 for voice and piano (1935)",
+      "year": "1935"
+    },
+    {
+      "title": "Variations sur une valse de Johann Strauss op. 23 for piano (1935)",
+      "year": "1935"
+    },
+    {
+      "title": "Symphonie No. 3 op. 21 for wind instruments and percussion (1935)",
+      "year": "1935"
+    },
+    {
+      "title": "Polish Suite op. 24 for small orchestra (1936)",
+      "year": "1936"
+    },
+    {
+      "title": "Violin Concerto (1936)",
+      "year": "1936"
+    },
+    {
+      "title": "Capriccio op. 18 for violin and piano (1936?)",
+      "year": null
+    },
+    {
+      "title": "Little Suite after J. S. Bach for orchestra (1937?)",
+      "year": null
+    },
+    {
+      "title": "Symphonie No. 4 op. 26 for great orchestra (1940)",
+      "year": "1940"
+    },
+    {
+      "title": "Ukrainian Sketches op. 27 for string quartet (1941?)",
+      "year": null
+    }
+  ],
+  "publications": null,
+  "bibliography": "Gołąb Maciej, Koffler Józef, In: Komponisten der Gegenwart (Hg. Hanns-Werner Heister, Walter-Wolfgang Sparrer), edition text + kritik, München 1992- Gołąb Maciej, Józef Koffler, Musica Iagellonica, Kraków 1995 \"Muzyka\" 1996 nr 2 [numer poświęcony J. Kofflerowi], \"Muzyka\" 1996 no. 2 [an issue dedicated to J. Koffler] Gołąb Maciej, Koffler Józef, In: Encyklopedia Muzyczna PWM (część biograficzna pod red. Elżbiety Dziębowskiej) [The PWM Encyclopaedia of Music - biographical part, ed. by Elżbieta Dziębowska], vol. \"klł\", PWM, Kraków 1997 Gołąb Maciej, Koffler Józef, In: The New Grove Dictionary of Music and Musicians. Second Edition (ed. Stanley Sadie), vol. 13, Macmillan Publishers Limited, London 2001 Schaeffer Bogusław, O muzyce fortepianowej Kofflera, \"Muzyka21\" 2006 nr 5, s.24-26 Gołąb Maciej, Garść informacji o Józefie Kofflerze i jego rodzinie z ksiąg metrykalnych gminy żydowskiej w Stryju, \"Muzyka\" 2007 nr 2, s.61-73 Milewska Hanna, Józef Koffler, dwanaście tonów do Europy , \"Hi-Fi i Muzyka\" 2009 nr 5, s.95-98",
+  "slug": "koffler-jozef-en"
+}

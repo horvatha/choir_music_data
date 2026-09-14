@@ -1,0 +1,415 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/k/koszewski-andrzej-en",
+  "title": "Koszewski Andrzej",
+  "name": "Koszewski Andrzej",
+  "occupation": "composer, musicologist",
+  "is_composer": true,
+  "description": "composer, musicologist and academic teacher, b. 26th July, 1922 in Poznań; d. 17th February 2015, Poznań. In 1945 he began to study musicology with Adolf Chybiński at Poznań University (graduated in 1950). Simultaneously, in 1946-48, he studied music theory, and in 1948-53 – composition with Stefan Bolesław Poradowski at the State Higher School of Music in Poznań. In 1953-58 he continued his studies with Tadeusz Szeligowski as a doctoral student at the State Higher School of Music in Warsaw. Andrzej Koszewski began his teaching activity in 1948. In 1948-61 he taught at the State Secondary School of Music, in 1950-63 – at the Music College in Poznań. In 1957 he joined the faculty of the State Higher School of Music in Poznań – from 1965 he was an associate professor, in 1978 and 1985 he received the state titles of professor. From 1967 he taught a class of composition. In 1984-87 he also occupied the chair of composition and music theory at the Poznań Academy. He has received numerous artistic awards, including the Minister of Culture and Arts Award, Second Class (1967, 1973 and 1977) and First Class (1978, 1982 and 1988), the Prime Minister's Award for works for children and young people (1982), the annual award of the Polish Composers' Union (1986) and the Jerzy Kurczewski Award (2003). Andrzej Koszewski has contributed several musicological publications to the fields of Chopin studies and music ethnology. He also wrote Materiały do nauki improwizacji fortepianowej [ Materials for the Study of Piano Improvisation ], the first Polish handbook of this kind (State Higher School of Music in Poznań, 1968).",
+  "birth": {
+    "place": "Poznań",
+    "date": "26th July, 1922",
+    "raw": "b. 26th July, 1922 in Poznań"
+  },
+  "death": {
+    "place": "Poznań",
+    "date": "17th February 2015",
+    "raw": "d. 17th February 2015, Poznań"
+  },
+  "works": [
+    {
+      "title": "Concerto grosso (Suite in the Old Style) for string orchestra (1947)",
+      "year": "1947"
+    },
+    {
+      "title": "Capriccio for piano (1947)",
+      "year": "1947"
+    },
+    {
+      "title": "Trio for violin, cello and piano (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "A Dance from Wielkopolska (Szocz) for small symphony orchestra (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "A Pastoral Cantata for mixed choir and small symphony orchestra (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "A Mazovian for mixed choir (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Lullaby [1st version] for 3 female voices (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Lullaby [2nd version] for women’s choir (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Lullaby [3rd version] for mixed choir (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Lullaby [4th version] for high-pitched voice and mixed choir (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Lullaby [5th version] for high-pitched voice and piano (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Lullaby [6th version] for 3 female voices and piano (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Cassubian Suite for mixed choir (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Dance Scene for piano (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Vocalise on a theme from J. S. Bach’s chorale for high-pitched voice and piano (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Symphonic Allegro for great orchestra (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Sonata breve for piano (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "Sinfonietta for orchestra (1956)",
+      "year": "1956"
+    },
+    {
+      "title": "Music fa-re-mi-do-si for mixed choir (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Intermezzo for piano (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Five Old Dances for piano (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Kujawy Overture for symphony orchestra (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "La Espero for two mixed choirs (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Hail, Glorious Queen [1st version] for mixed choir (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Hail, Glorious Queen [2nd version] for men’s choir (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Hail, Glorious Queen [3rd version] for women’s choir (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Wielkopolska Triptych [1st version] for mixed choir (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Wielkopolska Triptych [2nd version] for mixed choir and symphony orchestra (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Nicolao Copernico dedicatum cantata for 3 mixed choirs (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "A Meeting in Szczecin for mixed choir (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Games [1st version], children’s little suite for mixed choir (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Games [2nd version], children’s little suite for women’s or boys’ choir (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Poppy Seeds , 14 miniatures for reciting voice and piano (for solo piano) (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "A Brieviary of Love for baritone and instrumental ensemble (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Cantilena for women’s or boys’ choir (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Yesterday was Sunday for women’s or boys’ choir (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Warthe Banks - Little Suite for mixed choir (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Tuning Moods , 7 folk melodies from Wielkopolska for piano (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Ba-no-sche-ro per coro misto (1971-72)",
+      "year": "1971-72"
+    },
+    {
+      "title": "Da fischiare , 3 etudes for whistling ensemble (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Canzone e danza [1st version] for women’s or boys’ choir (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Canzone e danza [2nd version] for men’s choir (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Canzone e danza [3rd version] for mixed choir (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Prologus for mixed choir (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Sonatina I for piano (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Sonatina II for piano (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Sonatina III for piano (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Ad musicam for vocal orchestra (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Kanony wokalne na 2-3 głosy solowe (lub chóralne) (1979-2003)",
+      "year": "1979-2003"
+    },
+    {
+      "title": "Campana for mixed choir (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Angelus Domini for mixed choir (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Sententia for two mixed choirs (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "In memoriam for two mixed choirs (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Pax hominibus for two mixed choirs (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Charms for children’s or women’s choir (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Three Children’s Miniatures for mixed choir (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Lubuskie Suite for women’s or boys’ choir (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Field Musicians for women’s choir (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Rain for women’s choir (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Cantemus omnes for mixed choir (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Campana for men’s choir (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Intrada for women’s choir (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Canta-move for mixed choir (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Flusso-riflusso for mixed choir (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Ostinato for mixed choir (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "A Troubadour’s Verses for mixed choir (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Enigma 575 for women’s choir (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Chaconne I for mixed choir (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Chaconne II for mixed choir (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Chaconne III for mixed choir (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Rainbow Drops for children’s or women’s choir (1987-88)",
+      "year": "1987-88"
+    },
+    {
+      "title": "The Wooden Fence in Winter for children’s or women’s choir (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Three Polish Dances [1st version] for women’s choir (1988-89)",
+      "year": "1988-89"
+    },
+    {
+      "title": "Three Polish Dances [2nd version] for mixed choir (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Serioso-giocoso for mixed choir (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Canti sacri for mixed choir (1989-91)",
+      "year": "1989-91"
+    },
+    {
+      "title": "Trittico di messa for mixed choir (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Carmina sacrata for mixed choir (1992-94)",
+      "year": "1992-94"
+    },
+    {
+      "title": "Wi-La-Wi triptych for children’s or women’s choir (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Et lux perpetua... for mixed choir (1995-96)",
+      "year": "1995-96"
+    },
+    {
+      "title": "At Dawn, At Dusk for soprano and piano (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Non sum dignus for mixed choir (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Reflex na kwintet smyczkowy (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Antiquo more na chór mieszany (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Płochliwy zając na chór dziecięcy (lub żeński) (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Wszystko z baśni na chór dziecięcy (lub żeński) (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Missa “Gaude Mater” for mixed choir (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Pater noster na chór mieszany (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Crux – lux na chór mieszany (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Razem ze słonkiem na głos (lub chór żeński), fortepian i perkusję (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Unitis viribus , dyptyk na chór mieszany (2002-2003)",
+      "year": "2002-2003"
+    },
+    {
+      "title": "Ad multos annos na chór mieszany (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Spes nostra na chór mieszany (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "La valse na chór mieszany (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Magnificat anima mea Dominum na chór mieszany (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Alfabet Guidona na chór mieszany (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Magnificat na chór mieszany (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Stabat mater na sopran, alt i fortepian lub organy (2011)",
+      "year": "2011"
+    }
+  ],
+  "publications": "books Materiały do nauki improwizacji fortepianowej [Materials for the Study of Piano Improvisation], Państwowa Wyższa Szkoła Muzyczna w Poznaniu, Poznań 1968 articles & papers Melodyka walców Chopina [The Melodies of Chopin’s Waltzes], PWM, Kraków 1953 „Kantata Pokoju” Stanisława Skrowaczewskiego, „Muzyka” 1954 nr 5-6, s. 29-36 Nowoodkryte walce Chopina, „Ruch Muzyczny” 1957 nr 3, s. 2-4 Problemy rytmiczne i agogiczne w walcach Chopina [Problems of Rhythm and Metre in Chopin’s Waltzes], TiFC-PWM, Warszawa 1958 „Koncert na orkiestrę” Witolda Lutosławskiego, „Ruch Muzyczny” 1958 nr 21, s. 15-18 „Les symphonies de timbres” i „Staendchen” Romana Haubenstocka-Ramatiego, „Ruch Muzyczny” 1959 nr 15, s. 28-29 Das Walzerelement im Schaffen Chopins, w: Deutsches Jahrbuch der Musikwissenschaft , vol. V, Edition Peters, Lipsk 1961 Pierwiastek walcowy w twórczości Chopina, w: The Book of the First International Musicological Congress Devoted to the Works of F. Chopin 16th-22nd February 1960 (pod red. Zofii Lissy), Warszawa 1963 Das Wienerische in Chopins Walzern, w: Chopin-Jahrbuch , vol. II, Wiedeń 1963 Walce w zbiorach Oskara Kolberga [Waltzes in Oskar Kolberg’s Collection], TiFC-PWN, Warszawa 1965 Ze wspomnień o Tadeuszu Szeligowskim, w: Zeszyty Naukowe nr 16 , Państwowa Wyższa Szkoła Muzyczna w Gdańsku, Gdańsk 1977 Ze wspomnień o Tadeuszu Szeligowskim, Wyd. Pomorze, Bydgoszcz 1987 Ksiądz Wacław Gieburowski jako dyrygent i kompozytor, „Monochord: De musica acta, studia et commentarii”, vol. VI-VII, 1995, s. 85-93 critical & collective editions Chopin Fryderyk , Dwa zapomniane utwory , PWM, Kraków 1965 Kurpiński Karol, Album per pianoforte, [wspólnie z K. Koszewską], PWM, Kraków 1991",
+  "bibliography": "Zielińska Lidia, Przewodnik po twórczości Andrzeja Koszewskiego [A Guide to Andrzej Koszewski’s Works], Brevis, Poznań 1993 Jasińska Danuta, Koszewski Andrzej, in: Encyklopedia Muzyczna PWM (część biograficzna pod red. Elżbiety Dziębowskiej) [The PWM Encyclopaedia of Music - biographical part, ed. by Elżbieta Dziębowska], vol. \"klł\", PWM, Kraków 1997",
+  "slug": "koszewski-andrzej-en"
+}

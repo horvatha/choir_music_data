@@ -1,0 +1,22 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/k/kaczka-krzysztof-en",
+  "title": "Kaczka Krzysztof",
+  "name": "Kaczka Krzysztof",
+  "occupation": "performer",
+  "is_composer": false,
+  "description": "flute; b. 16th May 1977 in Torun. He made his New York debut at Carnegie Recital Hall as winner of the IBLA Grand Prize International Competition in 2008. He graduated from the Hochschule für Musik und Theater in Munich, where his teacher was prof. Marianne Henkel-Adorjan, and completed his postgraduate studies with prof. Irena Grafenauer at the University Mozarteum Salzburg as well as with the principal flutist of the Wiener Philharmoniker, prof. Wolfgang Schulz, at the University of Music and Performing Arts in Vienna. He also studied with prof. Pierre Yves Artaud at the Conservatoire National Superieur de Musique et de Danse de Paris (Erasmus Scholarsip), with Elzbieta Dastych-Szwarc and Grzegorz Cimoszko at the Frederic Chopin Academy of Music in Warsaw, with Zbigniewa Kamionka in Cracow and with Cecylia Knopp in Chorzow. As an “Artist- in Residence” at the Banff Centre for the Arts in Canada he has performed with Joel Smirnoff (Juilliard String Quartet), Barry Shiffman (St. Lawrence String Quartet), Pedja Muzijevic, Chen Halevi and Eliot Fisk among others. He has been finalist in many Polish and International competitions including IBLA, Padova, Sydney Flute Festival, Haverhill, the National Flute Association Chamber Music Competition in Pittsburgh (USA, 2 nd prize), the 5 th A. Tansmann International Competiton of Musical Personalities (Poland), Concorso Internazionale \"Citta di Barletta\" (2 Gold Medals) and has been awarded scholarships by the Foundation of Culture in Warsaw, DAAD, Promoting Talent Fund, Lions Club International, Yehudi Menuhin Foundation Munich, Dartington Arts Center, Top Wind London among others. He has taken part in numerous music festivals and has performed as a soloist and chamber musician in Washington DC (Polish Embassy), New York University, Calgary (Cathedral), Vancouver, Munich (Gasteig, Herkulesaal), Paris, Sydney (Verbrugghen Hall), in Vienna and Berlin. In 2006 he become a laureate of the prestigious “Young Poland” Award of the Minister of Culture of the Rupublic of Poland in Warsaw and released three CD´s with Perry Schack, Esti Rofé, Anna Kijanowska, Henri Bonamy and Eugeen Skeef for Acte Prealable Label. Krzysztof Kaczka is currently principal flutist of the Shenzhen Symphony Orchestra in China.",
+  "birth": {
+    "place": "Torun",
+    "date": "16th May 1977",
+    "raw": "b. 16th May 1977 in Torun"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [],
+  "publications": null,
+  "bibliography": "Stolarzewicz Maria, Niedostateczny czy najlepszy z najlepszych, \"Twoja Muza\" 2006 nr 5, s.28-29 Lubię koncertować i podróżować, \"Muzyka21\" 2007 nr 1, s. 23-24. Najistotniejsza jest promocja poprzez koncerty i prasę..., \"Muzyka21\" 2007 nr 10, s. 28-29",
+  "slug": "kaczka-krzysztof-en"
+}

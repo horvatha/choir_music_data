@@ -1,0 +1,27 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/s/salacinski-daniel-en",
+  "title": "Sałaciński Daniel",
+  "name": "Sałaciński Daniel",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Muzyka do filmu Tenderness w reż. Wacława Mikłaszewskiego (2017)",
+      "year": "2017"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "salacinski-daniel-en"
+}

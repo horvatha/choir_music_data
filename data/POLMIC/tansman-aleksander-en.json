@@ -1,0 +1,1243 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/t/tansman-aleksander-en",
+  "title": "Tansman Aleksander",
+  "name": "Tansman Aleksander",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Mélodie pour violon et piano (1914-15)",
+      "year": "1914-15"
+    },
+    {
+      "title": "Piano Sonata No. 1 in A flat Major (1915)",
+      "year": "1915"
+    },
+    {
+      "title": "Romanza for cello (1915)",
+      "year": "1915"
+    },
+    {
+      "title": "Prélude pour piano (1915)",
+      "year": "1915"
+    },
+    {
+      "title": "Mazurkas , 1er recueil pour piano (1915-28)",
+      "year": "1915-28"
+    },
+    {
+      "title": "Sonata No. 1 for violin and piano (1916)",
+      "year": "1916"
+    },
+    {
+      "title": "Lied pour chant et piano (1916)",
+      "year": "1916"
+    },
+    {
+      "title": "Prometheus , poème symphonique pour orchestre (1916-17)",
+      "year": "1916-17"
+    },
+    {
+      "title": "Valse et berceuse pour piano (1916-17)",
+      "year": "1916-17"
+    },
+    {
+      "title": "Toison d’or , poème symphonique basé sur un mythe grec pour orchestre (1916-17)",
+      "year": "1916-17"
+    },
+    {
+      "title": "String Quartet No. 1 (1917)",
+      "year": "1917"
+    },
+    {
+      "title": "Sonata No. 2 in D Major for violin and piano (1917-19)",
+      "year": "1917-19"
+    },
+    {
+      "title": "Petite suite pour piano (1917-19)",
+      "year": "1917-19"
+    },
+    {
+      "title": "Vingt pièces faciles sur des mélodies populaires polonaises pour piano (1917-24)",
+      "year": "1917-24"
+    },
+    {
+      "title": "Eight Japanese Melodies Kaï-Kaï [1st version] for soprano and piano (1918)",
+      "year": "1918"
+    },
+    {
+      "title": "Eight Japanese Melodies Kaï-Kaï [2nd version] for voice and chamber orchestra (1918)",
+      "year": "1918"
+    },
+    {
+      "title": "Etude for piano (1918-19)",
+      "year": "1918-19"
+    },
+    {
+      "title": "Romance for violin and piano (1918-19)",
+      "year": "1918-19"
+    },
+    {
+      "title": "Prélude symphonique (1919)",
+      "year": "1919"
+    },
+    {
+      "title": "Allegro appassionato for violin and piano (1920)",
+      "year": "1920"
+    },
+    {
+      "title": "Vision nocturne , impression symphonique pour orchestre (1920)",
+      "year": "1920"
+    },
+    {
+      "title": "Quatre préludes pour piano (1921)",
+      "year": "1921"
+    },
+    {
+      "title": "Trois préludes pour piano (1921)",
+      "year": "1921"
+    },
+    {
+      "title": "String Quartet No. 2 (1922)",
+      "year": "1922"
+    },
+    {
+      "title": "Trois études transcendantes pour piano (1922)",
+      "year": "1922"
+    },
+    {
+      "title": "Etude-Scherzo pour piano (1922)",
+      "year": "1922"
+    },
+    {
+      "title": "Cinq impromptus pour piano (1922-25)",
+      "year": "1922-25"
+    },
+    {
+      "title": "Sextuor , ballet d’aprés un nouvelle de Alexandre Arnoux (1923)",
+      "year": "1923"
+    },
+    {
+      "title": "Sextuor [radio version], ballet d’aprés un nouvelle de Alexandre Arnoux (1923)",
+      "year": "1923"
+    },
+    {
+      "title": "Sonatine pour piano (1923)",
+      "year": "1923"
+    },
+    {
+      "title": "Quatre danses miniatures pour piano (1923)",
+      "year": "1923"
+    },
+    {
+      "title": "Légende pour orchestre (1923-24)",
+      "year": "1923-24"
+    },
+    {
+      "title": "Sinfonietta [1st version] pour orchestre de chambre (1924)",
+      "year": "1924"
+    },
+    {
+      "title": "Sinfonietta [2nd version] for 2 pianos (1924)",
+      "year": "1924"
+    },
+    {
+      "title": "Sonata quasi una fantasia pour violon et piano (1924)",
+      "year": "1924"
+    },
+    {
+      "title": "String Quartet No. 3 (1925)",
+      "year": "1925"
+    },
+    {
+      "title": "Concerto pour piano avec accompagnement d’orchestre (1925)",
+      "year": "1925"
+    },
+    {
+      "title": "Mazurka [1st version] pour guitare (1925)",
+      "year": "1925"
+    },
+    {
+      "title": "Feuillet d’album pour piano (1925)",
+      "year": "1925"
+    },
+    {
+      "title": "Zwei Lieder für mittlere Stimme und Klavier (1925)",
+      "year": "1925"
+    },
+    {
+      "title": "Sonata rustica pour piano (1925)",
+      "year": "1925"
+    },
+    {
+      "title": "Mouvement symphonique pour petit orchestre (1925)",
+      "year": "1925"
+    },
+    {
+      "title": "La nuit kurde , drame lyrique en 3 actes et un proloque (1925-27)",
+      "year": "1925-27"
+    },
+    {
+      "title": "Suite in modo polonico pour guitare ou pour guitare et harphe (1925-62)",
+      "year": "1925-62"
+    },
+    {
+      "title": "Symphonie nr 2 en la mineur pour orchestre (1926)",
+      "year": "1926"
+    },
+    {
+      "title": "Ouverture symphonique pour grand orchestre (1926)",
+      "year": "1926"
+    },
+    {
+      "title": "Mazurka [3rd version] pour violon et piano (1926)",
+      "year": "1926"
+    },
+    {
+      "title": "Cinq mélodies pour chant et piano (1927)",
+      "year": "1927"
+    },
+    {
+      "title": "Esquisse pour orchestre (1927)",
+      "year": "1927"
+    },
+    {
+      "title": "Concerto pour piano et orchestre (1927)",
+      "year": "1927"
+    },
+    {
+      "title": "Mazurka [2nd version] pour piano (1928)",
+      "year": "1928"
+    },
+    {
+      "title": "Suite pour deux pianos avec accompagnement d’orchestre (1928)",
+      "year": "1928"
+    },
+    {
+      "title": "Sérénade pour violon, violoncelle et piano (1928)",
+      "year": "1928"
+    },
+    {
+      "title": "Toccata [1st version] pour orchestre (1928-29)",
+      "year": "1928-29"
+    },
+    {
+      "title": "Toccata [2nd version] for string orchestra (1929)",
+      "year": "1929"
+    },
+    {
+      "title": "Sonate nr 2 pour piano (1929)",
+      "year": "1929"
+    },
+    {
+      "title": "Suite-Divertissement pour violon, alto, violoncelle et piano (1929)",
+      "year": "1929"
+    },
+    {
+      "title": "Deux pièces pour piano (1929)",
+      "year": "1929"
+    },
+    {
+      "title": "Suite dans le style ancien pour piano ou petit orchestre (1929)",
+      "year": "1929"
+    },
+    {
+      "title": "Le cercle éternel , ballet en 2 tableaux (1929)",
+      "year": "1929"
+    },
+    {
+      "title": "Cinq pièces pour violon avec accompagnement de piano ou de petit orchestre (1930)",
+      "year": "1930"
+    },
+    {
+      "title": "Sonatine transatlantique [1st version] pour piano (1930)",
+      "year": "1930"
+    },
+    {
+      "title": "Sonatine transatlantique [2nd version] for 2 pianos (1930)",
+      "year": "1930"
+    },
+    {
+      "title": "Sonatine transatlantique [3rd version] for orchestra (1930)",
+      "year": "1930"
+    },
+    {
+      "title": "Sonate nr 2 pour violoncelle et piano (1930)",
+      "year": "1930"
+    },
+    {
+      "title": "Vocalise-Etude pour voix moyenne et piano (1930)",
+      "year": "1930"
+    },
+    {
+      "title": "Triptique pour quatuor ou orchestre à cordes (1930)",
+      "year": "1930"
+    },
+    {
+      "title": "Arabesques , six pièces pour piano (1930)",
+      "year": "1930"
+    },
+    {
+      "title": "Symphonie nr 3 „Concertante” pour violon, alto, violoncelle, piano et orchestre (1931)",
+      "year": "1931"
+    },
+    {
+      "title": "Quatre danses polonaises [1st version] pour orchestre (1931)",
+      "year": "1931"
+    },
+    {
+      "title": "Quatre danses polonaises [2nd version], arrangement pour piano par l’auteur (1931)",
+      "year": "1931"
+    },
+    {
+      "title": "Deux pièces pour violoncelle et piano (1931)",
+      "year": "1931"
+    },
+    {
+      "title": "Concertino pour piano avec accompagnement d’orchestre (1931)",
+      "year": "1931"
+    },
+    {
+      "title": "Septuor pour flûte, hautbois, clarinette, basson, trompete, alto et violoncelle (1931-32)",
+      "year": "1931-32"
+    },
+    {
+      "title": "Mazurkas , 2e recueil pour piano (1932)",
+      "year": "1932"
+    },
+    {
+      "title": "Deux moments symphoniques (1932)",
+      "year": "1932"
+    },
+    {
+      "title": "Sonate nr 3 pour piano (1932)",
+      "year": "1932"
+    },
+    {
+      "title": "Chants hébraïques harmonisés par Alexandre Tansman pour chant et piano (1933)",
+      "year": "1933"
+    },
+    {
+      "title": "Deux pièces pour orchestre (1933)",
+      "year": "1933"
+    },
+    {
+      "title": "Sonatine nr 3 pour piano (1933)",
+      "year": "1933"
+    },
+    {
+      "title": "Rapsodie hébraïque pour petit orchestre (1933)",
+      "year": "1933"
+    },
+    {
+      "title": "Pour les enfants (1er recueil, trés facile) pour piano de difficulté progressive (1933)",
+      "year": "1933"
+    },
+    {
+      "title": "Partita pour orchestre à cordes (1933)",
+      "year": "1933"
+    },
+    {
+      "title": "Pour les enfants (2e recueil, facile) pour piano de difficulté progressive (1933)",
+      "year": "1933"
+    },
+    {
+      "title": "Pour les enfants (3e recueil, assez facile) pour piano de difficulté progressive (1933)",
+      "year": "1933"
+    },
+    {
+      "title": "Pour les enfants (4e recueil, moyenne dificulté) pour piano de difficulté progressive (1933)",
+      "year": "1933"
+    },
+    {
+      "title": "Six petites pièces faciles à la 1ere position pour violon et piano (1934)",
+      "year": "1934"
+    },
+    {
+      "title": "Deux intermezzi pour orchestre (1934)",
+      "year": "1934"
+    },
+    {
+      "title": "Cinq impressions pour piano (1934)",
+      "year": "1934"
+    },
+    {
+      "title": "Six Songs for voice and piano (1934)",
+      "year": "1934"
+    },
+    {
+      "title": "Deux images de la Bible pour orchestre (1935)",
+      "year": "1935"
+    },
+    {
+      "title": "Bric-à-brac , ballet en trois tableaux (1935)",
+      "year": "1935"
+    },
+    {
+      "title": "String Quartet No. 4 (1935)",
+      "year": "1935"
+    },
+    {
+      "title": "La grande ville , ballet en trois tableaux pour 2 pianos (1935)",
+      "year": "1935"
+    },
+    {
+      "title": "Deux mouvements pour quatuor de violoncelles (1935)",
+      "year": "1935"
+    },
+    {
+      "title": "Rapsodie hébraïque pour piano (1935-38)",
+      "year": "1935-38"
+    },
+    {
+      "title": "Fantaisie pour violoncelle avec orchestre ou piano (1936)",
+      "year": "1936"
+    },
+    {
+      "title": "Huit novelettes pour piano (1936)",
+      "year": "1936"
+    },
+    {
+      "title": "Adagio pour orchestre à cordes (1936)",
+      "year": "1936"
+    },
+    {
+      "title": "Concerto pour alto avec accompagnement d’orchestre (1936-37)",
+      "year": "1936-37"
+    },
+    {
+      "title": "Symphonie nr 4 (1936-39)",
+      "year": "1936-39"
+    },
+    {
+      "title": "Variations sur un thème de Frescobaldi pour orchestre (1937)",
+      "year": "1937"
+    },
+    {
+      "title": "Concerto pour violon et orchestre (1937)",
+      "year": "1937"
+    },
+    {
+      "title": "Sérénade nr 2 pour violon, alto et violoncelle (1937)",
+      "year": "1937"
+    },
+    {
+      "title": "Le Géant pour piano (1937)",
+      "year": "1937"
+    },
+    {
+      "title": "Huit duos pour deux violons à la 1ere position (1937)",
+      "year": "1937"
+    },
+    {
+      "title": "Fantaisie pour piano et orchestre (1937)",
+      "year": "1937"
+    },
+    {
+      "title": "Trois préludes en forme de blues pour piano (1937)",
+      "year": "1937"
+    },
+    {
+      "title": "Les huit hymnes primitifs pour chant et petit orchestre (1937)",
+      "year": "1937"
+    },
+    {
+      "title": "Suite nr 1 pour orchestre de chambre (1937)",
+      "year": "1937"
+    },
+    {
+      "title": "Mappemonde et Papemonde pour deux pianos (1937)",
+      "year": "1937"
+    },
+    {
+      "title": "Introduction et fugue [1st version] for organ solo (1938)",
+      "year": "1938"
+    },
+    {
+      "title": "Introduction et fugue [2nd version] pour 2 pianos (1938)",
+      "year": "1938"
+    },
+    {
+      "title": "Fugue pour orchestre à cordes (1938)",
+      "year": "1938"
+    },
+    {
+      "title": "Trio nr 2 pour piano, violon et violoncelle (1938)",
+      "year": "1938"
+    },
+    {
+      "title": "La toison d’or [1st version], opéra-bouffe en 3 actes et 4 tableaux (1938)",
+      "year": "1938"
+    },
+    {
+      "title": "La toison d’or [2nd version], opéra-bouffe en 3 actes et 4 tableaux (1938)",
+      "year": "1938"
+    },
+    {
+      "title": "Deux Chorals de Johann-Sebastian Bach pour orchestre (1938-39)",
+      "year": "1938-39"
+    },
+    {
+      "title": "Intermezzi pour piano , 1er recueil (1939)",
+      "year": "1939"
+    },
+    {
+      "title": "Intermezzi pour piano , 2e recueil (1939)",
+      "year": "1939"
+    },
+    {
+      "title": "Intermezzi pour piano , 3e recueil (1939-40)",
+      "year": "1939-40"
+    },
+    {
+      "title": "Rapsodie polonaise [1st version] pour orchestre (1940)",
+      "year": "1940"
+    },
+    {
+      "title": "Rapsodie polonaise [2nd version] pour deux pianos (1940)",
+      "year": "1940"
+    },
+    {
+      "title": "Rapsodie polonaise [3rd version] pour piano (1940)",
+      "year": "1940"
+    },
+    {
+      "title": "Valse-Impromptu pour piano (1940)",
+      "year": "1940"
+    },
+    {
+      "title": "String Quartet No. 5 (1940)",
+      "year": "1940"
+    },
+    {
+      "title": "Intermezzi pour piano , 4e recueil (1940)",
+      "year": "1940"
+    },
+    {
+      "title": "Elégie pour un ami pour orchestre (1940)",
+      "year": "1940"
+    },
+    {
+      "title": "Sextuor à cordes (1940)",
+      "year": "1940"
+    },
+    {
+      "title": "Études symphoniques (1940-42)",
+      "year": "1940-42"
+    },
+    {
+      "title": "Mazurkas , 3e recueil pour piano (1941)",
+      "year": "1941"
+    },
+    {
+      "title": "Mazurkas , 4e recueil pour piano (1941)",
+      "year": "1941"
+    },
+    {
+      "title": "Sonate pour 2 pianos (1941)",
+      "year": "1941"
+    },
+    {
+      "title": "Canzone orientale pour piano (1941)",
+      "year": "1941"
+    },
+    {
+      "title": "Ballad No. 2 for piano (1941)",
+      "year": "1941"
+    },
+    {
+      "title": "Mazurka pour piano (1941)",
+      "year": "1941"
+    },
+    {
+      "title": "Moment musical pour piano (1941)",
+      "year": "1941"
+    },
+    {
+      "title": "Ballad No. 1 for piano (1941)",
+      "year": "1941"
+    },
+    {
+      "title": "Ballad No. 3 for piano (1941)",
+      "year": "1941"
+    },
+    {
+      "title": "Sonate nr 4 pour piano (1941)",
+      "year": "1941"
+    },
+    {
+      "title": "Six études de virtuosité pour piano (1941)",
+      "year": "1941"
+    },
+    {
+      "title": "Study in Boogie-woogie for orchestra (1941)",
+      "year": "1941"
+    },
+    {
+      "title": "Sonate nr 6 pour piano (1941)",
+      "year": "1941"
+    },
+    {
+      "title": "Carnaval Suite [1st version] pour orchestre (1941-42)",
+      "year": "1941-42"
+    },
+    {
+      "title": "Sonatine nr 2 pour violon et piano (1941-42)",
+      "year": "1941-42"
+    },
+    {
+      "title": "Carnaval Suite [2nd version] pour 2 pianos (1941-42)",
+      "year": "1941-42"
+    },
+    {
+      "title": "Symphonie nr 5 en ré (1941-42)",
+      "year": "1941-42"
+    },
+    {
+      "title": "Ricercari pour orchestre (1941-49)",
+      "year": "1941-49"
+    },
+    {
+      "title": "Prélude et trois fugues [1st version] pour piano à 4 mains (ou 2 pianos) (1942)",
+      "year": "1942"
+    },
+    {
+      "title": "Prélude et trois fugues [2nd version] pour orchestre (1942)",
+      "year": "1942"
+    },
+    {
+      "title": "Mazurkas arranged for chamber orchestra (1942)",
+      "year": "1942"
+    },
+    {
+      "title": "Trois fugues pour piano à quatre mains ou 2 pianos (1942)",
+      "year": "1942"
+    },
+    {
+      "title": "Sérénade nr 3 pour orchestre ou pour deux pianos (1943)",
+      "year": "1943"
+    },
+    {
+      "title": "Suite pour violon et piano (1943)",
+      "year": "1943"
+    },
+    {
+      "title": "Prélude et toccata pour piano (1943)",
+      "year": "1943"
+    },
+    {
+      "title": "Six caprices pour piano (1943)",
+      "year": "1943"
+    },
+    {
+      "title": "Choeur pour voix de femmes et cordes ou piano (1943)",
+      "year": "1943"
+    },
+    {
+      "title": "Konzertstück für Klavier für die linke Hand allen und Orchester (1943)",
+      "year": "1943"
+    },
+    {
+      "title": "Cinq pièces faciles pour violon et piano (1943-44)",
+      "year": "1943-44"
+    },
+    {
+      "title": "Lied et Toccata pour orchestre (1944)",
+      "year": "1944"
+    },
+    {
+      "title": "Symphonie nr 6 „In Memoriam” pour choeur mixte et orchestre (1944)",
+      "year": "1944"
+    },
+    {
+      "title": "Short Suite for orchestra and instrumental groups (1944)",
+      "year": "1944"
+    },
+    {
+      "title": "Divertimento [1st version] pour orchestre de chambre (1944)",
+      "year": "1944"
+    },
+    {
+      "title": "Divertimento [2nd version] pour ensemble d’instrumental (1944)",
+      "year": "1944"
+    },
+    {
+      "title": "Cinq petites pièces faciles pour piano (1944)",
+      "year": "1944"
+    },
+    {
+      "title": "Partita nr 2 pour piano et petit orchestre (1944)",
+      "year": "1944"
+    },
+    {
+      "title": "String Quartet No. 6 (1944)",
+      "year": "1944"
+    },
+    {
+      "title": "R’Hitia , jewish dance pour piano (1944)",
+      "year": "1944"
+    },
+    {
+      "title": "Four Piano Moods (1944)",
+      "year": "1944"
+    },
+    {
+      "title": "Symphonie nr 7 „Lyrique” (1944)",
+      "year": "1944"
+    },
+    {
+      "title": "Suite hébraïque pour orchestre (1944)",
+      "year": "1944"
+    },
+    {
+      "title": "Grzech pierworodny for reciter and orchestra (1944)",
+      "year": "1944"
+    },
+    {
+      "title": "Passacaglia et fugue [1st version] pour orchestre (1944-45)",
+      "year": "1944-45"
+    },
+    {
+      "title": "Four Impressions [1st version] for octet (1945)",
+      "year": "1945"
+    },
+    {
+      "title": "Concertino pour guitare et orchestre (1945)",
+      "year": "1945"
+    },
+    {
+      "title": "Fanfare Dedicated to France for brass instruments and percussion (1945)",
+      "year": "1945"
+    },
+    {
+      "title": "Deux chants religieux anciens polonais pour choeur mixte et piano ou orgue (1945)",
+      "year": "1945"
+    },
+    {
+      "title": "Prière hébraïque „Kol-Nidrei” pour ténor, choeur mixte et orgue ou piano (1945)",
+      "year": "1945"
+    },
+    {
+      "title": "Four Impressions [2nd version] for piano (1945)",
+      "year": "1945"
+    },
+    {
+      "title": "Exotique for piano (1945)",
+      "year": "1945"
+    },
+    {
+      "title": "Esquisses javanaises pour piano (1945)",
+      "year": "1945"
+    },
+    {
+      "title": "Piano Miniatures (1945)",
+      "year": "1945"
+    },
+    {
+      "title": "Fugue pour quintette à cordes (1945)",
+      "year": "1945"
+    },
+    {
+      "title": "Quatre choeurs d’enfants avec piano (1945)",
+      "year": "1945"
+    },
+    {
+      "title": "Children at Play , thirteen easy pieces for piano (1945)",
+      "year": "1945"
+    },
+    {
+      "title": "Passacaglia et fugue [2nd version] pour orgue (1945)",
+      "year": "1945"
+    },
+    {
+      "title": "Polish Religious Song for piano (1945)",
+      "year": "1945"
+    },
+    {
+      "title": "Ponctuation française pour chant et orchestre de chambre ou piano (1946)",
+      "year": "1946"
+    },
+    {
+      "title": "Ma Tovu – How Fair are the Tents for tenor or baritone solo, mixed choir and organ (1946)",
+      "year": "1946"
+    },
+    {
+      "title": "Ten Diversion for The Young Pianist (1946)",
+      "year": "1946"
+    },
+    {
+      "title": "Heureuses Pâques pour piano (1946)",
+      "year": "1946"
+    },
+    {
+      "title": "He, She and I , ballet for symphony orchestra (1946)",
+      "year": "1946"
+    },
+    {
+      "title": "Introduction et Danse gitane [1st version] pour orchestre de chambre (1946)",
+      "year": "1946"
+    },
+    {
+      "title": "Introduction et Danse gitane [2nd version] pour piano (1946)",
+      "year": "1946"
+    },
+    {
+      "title": "Le cantique des cantiques , poème musical pour orchestre de chambre (1946)",
+      "year": "1946"
+    },
+    {
+      "title": "La sulamite , poème chorégraphique pour orchestre de chambre (1946)",
+      "year": "1946"
+    },
+    {
+      "title": "Chanson berrichonne for oboe, 2 violins, viola and piano (1946)",
+      "year": "1946"
+    },
+    {
+      "title": "Trio nr 2 pour violon, alto et violoncelle (1946)",
+      "year": "1946"
+    },
+    {
+      "title": "Lento for orchestra (1947)",
+      "year": "1947"
+    },
+    {
+      "title": "String Quartet No. 7 (1947-48)",
+      "year": "1947-48"
+    },
+    {
+      "title": "Musique pour cordes (1947-48)",
+      "year": "1947-48"
+    },
+    {
+      "title": "Musique pour orchestre (Symphonie nr 8) (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "Dos Elegias para orquesta de cámara (1948-51)",
+      "year": "1948-51"
+    },
+    {
+      "title": "Eight Cantilenes for Piano Hommage to J. S. Bach (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "Musique pour octuor à vent (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "Tombeau de Chopin pour quintette à cordes ou orchestre à cordes (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "Suite pour trio d’anches (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "Allegro sinfonico pour orchestre (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "Musique de table pour orchestre (1949-56)",
+      "year": "1949-56"
+    },
+    {
+      "title": "Isaïe le Prophète , oratorio symphonique pour choeur mixte et orchestre (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "Sonate pour deux violons (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "Cavatina pour guitare (1950-52)",
+      "year": "1950-52"
+    },
+    {
+      "title": "Quatre prières pour choeur mixte (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "Le train de nuit , ballet pour deux pianos (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "Sinfonia piccola für Orchester (1951-52)",
+      "year": "1951-52"
+    },
+    {
+      "title": "Deux mélodies „Mad/a/RI/a/GAUX” [1st version] pour chant et piano (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Concertino pour hautbois, clarinette et orchestre à cordes (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Quatre nocturnes pour piano (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Le cercle de craie , fragments symphoniques pour musique de scène pour orchestre (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Sonatine da camera pour flûte, violon, alto, violoncelle et harpe (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Trois madrigaux de Michel-Ange pour choeurs à cappella (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Chant sans parole pour piano (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Sonatine pour basson et piano (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Le Serment , épisode lyrique en deux tableaux (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Suite variée pour piano (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Chanson de Mer pour violon et piano (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Concerto pour orchestre (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "Trois pièces pour guitare (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "Suite pour guitare (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "Capriccio pour orchestre (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "Deux pièces hébraïques pour orgue ou piano (1954-55)",
+      "year": "1954-55"
+    },
+    {
+      "title": "Suite pour Segovia pour guitare (1954-57)",
+      "year": "1954-57"
+    },
+    {
+      "title": "Onze interludes pour piano (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "Récréations pour piano (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "Musica a cinque (Quintette Chigiano) (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "Suite légère pour orchestre (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "Sonate nr 5 pour piano (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "Quatre Sonnets de Shakespeare pour chant et orchestre de chambre ou piano (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "Partita pour violoncelle et piano (1955-56)",
+      "year": "1955-56"
+    },
+    {
+      "title": "Quatre mouvements symphoniques (1956)",
+      "year": "1956"
+    },
+    {
+      "title": "Suite pour 3 flûtes à bec (1956)",
+      "year": "1956"
+    },
+    {
+      "title": "Cantate nuptiale pour soprano, alto, ténor, basse et piano (1956)",
+      "year": "1956"
+    },
+    {
+      "title": "String Quartet No. 8 (1956)",
+      "year": "1956"
+    },
+    {
+      "title": "Proloque et cantate pour choeur de femmes et orchestre de chambre (1957)",
+      "year": "1957"
+    },
+    {
+      "title": "Concerto pour clarinette et orchestre de chambre (1957)",
+      "year": "1957"
+    },
+    {
+      "title": "Pariginissima pour piano (1957)",
+      "year": "1957"
+    },
+    {
+      "title": "Symphonie nr 9 (1957-58)",
+      "year": "1957-58"
+    },
+    {
+      "title": "Piano in Progress - Volume I (1958)",
+      "year": "1958"
+    },
+    {
+      "title": "Piano in Progress – Volume II (1958)",
+      "year": "1958"
+    },
+    {
+      "title": "Visit to Israel, Dix Feuillets de Voyage Suite for Piano (1958)",
+      "year": "1958"
+    },
+    {
+      "title": "Album d’Israël pour orchestre de chambre (1958)",
+      "year": "1958"
+    },
+    {
+      "title": "Suite baroque pour orchestre de chambre (1958)",
+      "year": "1958"
+    },
+    {
+      "title": "Zehn Kinderstücke für Klavier (1958)",
+      "year": "1958"
+    },
+    {
+      "title": "Les habits neufs du Roi , divertissement symphonique – ballet, pantomime, mimodrame en 1 act (1959)",
+      "year": "1959"
+    },
+    {
+      "title": "Deux poèmes de François Nérault pour chant et piano (1959)",
+      "year": "1959"
+    },
+    {
+      "title": "Onze Chansons pour Pippa pour chant avec harpe (ou piano) (1959)",
+      "year": "1959"
+    },
+    {
+      "title": "Musique de cour pour guitare et orchestre de chambre d’après des thèmes de Robert de Visée (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "La lutte de Jacob avec l’Ange , mouvement symphonique inspirée par le tableau de Paul Gauguin pour orchestre (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Suite pour basson avec piano (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Happy Time – Book I (primary) for piano (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Happy Time – Book II (elementary) for piano (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Happy Time – Book III (intermediate) for piano (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Symphonie de chambre (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Studio ostinato pour percussion (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Psaumes (118-119-120) pour ténor solo, choeur mixte et orchestre (1960-61)",
+      "year": "1960-61"
+    },
+    {
+      "title": "Fantaisie sur des Valses de Johann Strauss pour 2 pianos (1961)",
+      "year": "1961"
+    },
+    {
+      "title": "Notturno intermezzo pour piano (1961)",
+      "year": "1961"
+    },
+    {
+      "title": "Résurrection , ballet en 4 acts (1961-62)",
+      "year": "1961-62"
+    },
+    {
+      "title": "Six mouvements pour orchestre à cordes (1962-63)",
+      "year": "1962-63"
+    },
+    {
+      "title": "Six études pour orchestre (1962-63)",
+      "year": "1962-63"
+    },
+    {
+      "title": "Fantaisie pour violon et piano (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "La table , ballet pour orchestre à cordes de la Suite „Six mouvements pour orchestre à cordes” (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Concerto pour violoncelle et orchestre (1963-64)",
+      "year": "1963-64"
+    },
+    {
+      "title": "Ballade pour guitare (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Suite concertante pour hautbois avec accompagnement d’orchestre de chambre (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Hommage à Chopin pour guitare (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Miniatures pour trio de cuivres (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Etude pour piano (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Quatre mouvements pour orchestre (1967-68)",
+      "year": "1967-68"
+    },
+    {
+      "title": "Interlude lyrique pour instruments à vente (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Concertino pour flûte, orchestre à cordes et piano (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Hommage à Erasme de Rotterdam pour orchestre (1968-69)",
+      "year": "1968-69"
+    },
+    {
+      "title": "Diptique pour orchestre de chambre (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Pezzo in modo antico per chitarra (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Mini-Etude pour piano (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Trois pièces pour clarinette, harpe et quatuor à cordes (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Variations sur un thème de Scriabine pour guitare (1971-72)",
+      "year": "1971-72"
+    },
+    {
+      "title": "Stèle in memoriam Igor Stravinsky pour orchestre (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Douze pièces faciles pour guitare , 1er recueil (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Douze pièces faciles pour guitare , 2e recueil (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Fugue pour orgue (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Hommage à Arthur Rubinstein , deux pièces pour piano (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Georges Dandin , comédie en trois actes (1973-74)",
+      "year": "1973-74"
+    },
+    {
+      "title": "Elégie à la mémoire de Darius Milhaud pour orchestre (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Deux mélodies „Mad/a/RI/a/GAUX” [2nd version] pour chant et piano (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Apostrophe à Zion , cantate pour choeur et orchestre (1976-77)",
+      "year": "1976-77"
+    },
+    {
+      "title": "Deux chansons populaires pour guitare (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Les dix commandements pour orchestre (1978-79)",
+      "year": "1978-79"
+    },
+    {
+      "title": "Sinfonietta nr 2 pour orchestre de chambre (1978-79)",
+      "year": "1978-79"
+    },
+    {
+      "title": "Huit stèles de Victor Segalen pour chant et orchestre de chambre (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Album d’amis , neuf miniatures pour piano (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Musique pour harpe et orchestre à cordes (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Musique pour clarinette et quatuor à cordes (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Hommage à Lech Wałęsa pour guitare (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Alla polacca pour alto et piano (1985)",
+      "year": "1985"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Cegiełła Janusz, Szkice do autoportretu polskiej muzyki współczesnej, PWM, Kraków 1976 Cegiełła Janusz, Dziecko szczęścia. Aleksander Tansman i jego czasy, PIW, Warszawa 1986 Wendland Andrzej, Gitara w twórczości Aleksandra Tansmana, Ars Longa, Łódź 1996 Cegiełła Janusz, Dziecko szczęścia. Aleksander Tansman i jego czasy, Wydawnictwo 86 Press, Łódź 1996 Rae Caroline, Tansman Aleksander, Macmillan Publishers Limited, London 2001 Milewska Hanna, Aleksander Tansman - polski kompozytor, światowy człowiek , \"Hi-Fi i Muzyka\" 2009 nr 3, s. 86-89",
+  "slug": "tansman-aleksander-en"
+}

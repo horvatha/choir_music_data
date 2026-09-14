@@ -1,0 +1,131 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/m/majka-grzegorz-en",
+  "title": "Majka Grzegorz",
+  "name": "Majka Grzegorz",
+  "occupation": "composer, musicologist, performer",
+  "is_composer": true,
+  "description": "composer, conductor and music theorist; b. 14th September 1981 in Zaborów. In 2001-11 he studied music theory with Krzysztof Szwajgier and composition with Anna Zawadzka-Gołosz at the Academy of Music in Kraków. Since 2013 he has taught music theory at the Father J. Tischner Primary Music School in Domosławice. He successively includes his own works as teaching material for practical study of elements of contemporary music. During his studies he wrote reviews and articles for \"Ruch Muzyczny\", \"Muzyka 21\" and \"Twoja Muza\" magazines. As a music theorist he studied the music of Juliusz Łuciuk and prepared for publication the composer’s first monograph Juliusz Łuciuk. W harmonii myśli i ducha [ Harmony of Thought and Spirit ] (not yet published). He has also written many smaller-scale analyses, including introductions to 6 CDs with Łuciuk’s music released by Acte Préalable label. Majka was also active as a conductor (founder and director of Tarnów God’s Mercy Orchestra 2010-12 and of the Vox Animae Choir at the Centre for Culture in Żabno 2011-14). In the later period he concentrated exclusively on composition and teaching, occasionally conducting orchestras in performances of his own music. In his varied aesthetic interests he uses music of such composers as Guillaume de Machaut, Josquin dés Prés, Johann Sebastian Bach, György Ligeti, Horatiu Radulescu, Bogusław Schaeffer and Juliusz Łuciuk as points of reference. Since 2010 Majka’s compositions have been regularly performed at the International Festival of Kraków Composers, Young Composers’ Forum in Kraków and the Lesser Poland Accordion Festival. In 2014-2019, his works were presented annually at the Krzysztof Penderecki European Centre for Music in Lusławice. His music has been performed by such Polish ensembles and orchestras as the Euphony Piano Quartet, Jurków Chamber Choir, Tarnów God’s Mercy Orchestra and duoAccosphere. His composition Fog. Lyrical Suite was commissioned by the Father J. Tischner Primary Music School in Domosławice in 2015 as part of the \"Collections – Composing Commissions\" programme run by the Institute of Music and Dance. In 2017 he received the Ministry of Culture and National Heritage scholarship to compose the Great Book of Miniatures – a series of 30 miniatures for duets and trios, which is a review of 30 composing techniques, textures and aesthetic trends. His Testament of wounds to words by Tadeusz Szyma for soprano, baritone, two accordions and sound director was premiered on 16 November 2019 in the Jasna Góra Monastery in Częstochowa as part of the \"Independent\" programme run by the Ministry of Culture and National Heritage to celebrate the 100th anniversary of Poland regaining its independence. During the concert, the song. In the same year, his Domosławice Mass was performed in Kamieniec Podolski and Lviv. As a composer Grzegorz Majka explores the possibilities of extending the Klangfarbenmelodie by adding a distinct rhythmic profile. This \"rhythmicity of colours\" has become a sphere of creative quests in works for all kinds of instrumentation. He aims to autonomize and give meaning to a sound sphere that does not bear any signs of programme music. updated: 2016 (ab), 2020 (ac)",
+  "birth": {
+    "place": "Zaborów",
+    "date": "14th September 1981",
+    "raw": "b. 14th September 1981 in Zaborów"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Ray for violin (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Quartet for Various Times for violin, viola, cello and piano (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Zaborów Mass for 3 sopranos and orchestra (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Sub tuum praesidium for mixed unaccompanied choir (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Dominications for mezzo-soprano, 2 flutes, 2 bassoons, piano and string quartet (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "11,2 for violin (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Three Grotesques for tenor, bassoon and viola to words by Miron Białoszewski (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Vipers for symphony orchestra (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Ad astra , cantata for 3 sopranos, 2 mezzo-sopranos, speaker, choir and orchestra (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Metaspaces of Expectation for violin and viola (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Metaspaces of Fulfillment for 2 accordions (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Prism for violin, cello and piano (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Knocker of Aliens for flute (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Fog , lyrical suite for 3 sopranos, choir and orchestra (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Prelude in Two Shades for organ and accordion (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Encounters of Colour and Movement for piano (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Shimmering for soprano and piano (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Symphony of the First Degree for orchestra, choir, non-vocal voice and electric guitar (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Soul Night for flute, French horn and string trio (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Great Book of Miniatures, 30 miniatures for various duos and trios (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Terraces for flute, viola and harp (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Drzewa Wieku Wolności for soprano, baritone, choir and orchestra to words by Ryszard Ostrowski (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Testament of Wounds for soprano, baritone, 2 accordions and performer-sonorist to words by Tadeusz Szyma (2018-2019)",
+      "year": "2018-2019"
+    },
+    {
+      "title": "Domosławice Mass (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Accommodation for clarinet, string trio and piano (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Desire for baritone and piano to words by Tadeusz Szyma (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Between Time and (for Example) a Stone for flute, clarinet, string trio and piano (2019)",
+      "year": "2019"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "majka-grzegorz-en"
+}

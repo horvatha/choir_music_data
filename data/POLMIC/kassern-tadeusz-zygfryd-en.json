@@ -1,0 +1,247 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/k/kassern-tadeusz-zygfryd-en",
+  "title": "Kassern Tadeusz Zygfryd",
+  "name": "Kassern Tadeusz Zygfryd",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Sonata na fortepian nr 1 h-moll (1926)",
+      "year": "1926"
+    },
+    {
+      "title": "Trzy preludia na fortepian (1926)",
+      "year": "1926"
+    },
+    {
+      "title": "Cztery pieśni do słów Tadeusza Micińskiego na głos z fortepianem (1926)",
+      "year": "1926"
+    },
+    {
+      "title": "Dwa mazurki na fortepian (1927)",
+      "year": "1927"
+    },
+    {
+      "title": "Kołysanka na głos z fortepianem do słów Józefa Wittlina (1928)",
+      "year": "1928"
+    },
+    {
+      "title": "Koncert na sopran i orkiestrę (1928)",
+      "year": "1928"
+    },
+    {
+      "title": "Pieśni naiwne na głos z fortepianem do słów Kazimierza Wierzyńskiego (1929)",
+      "year": "1929"
+    },
+    {
+      "title": "Koncert na flet i orkiestrę (1933)",
+      "year": "1933"
+    },
+    {
+      "title": "Trzy kołysanki na głos z fortepianem do słów Marii Paruszewskiej (1933)",
+      "year": "1933"
+    },
+    {
+      "title": "Malowanki , kantata dziecięca na chór i orkiestrę (1934)",
+      "year": "1934"
+    },
+    {
+      "title": "Dies irae , poemat symfoniczny (1935)",
+      "year": "1935"
+    },
+    {
+      "title": "Koncert na kontrabas i orkiestrę (1935)",
+      "year": "1935"
+    },
+    {
+      "title": "Concertino na flet, klarnet i fagot (1935)",
+      "year": "1935"
+    },
+    {
+      "title": "Sonatina na fortepian nr 1 (1935)",
+      "year": "1935"
+    },
+    {
+      "title": "Ballady na chór męski a cappella (1935)",
+      "year": "1935"
+    },
+    {
+      "title": "Koncert na orkiestrę smyczkową [wersja I] (1936)",
+      "year": "1936"
+    },
+    {
+      "title": "Hymn do słońca na głos i orkiestrę (1936)",
+      "year": "1936"
+    },
+    {
+      "title": "Suita pastoralna na małą orkiestrę (1937)",
+      "year": "1937"
+    },
+    {
+      "title": "Sonata na fortepian nr 2 „Orawska” (1937)",
+      "year": "1937"
+    },
+    {
+      "title": "Cztery motety kopernikowskie na chór mieszany a cappella (1937)",
+      "year": "1937"
+    },
+    {
+      "title": "Suita orawska na mezzosopran i chór męski (1938)",
+      "year": "1938"
+    },
+    {
+      "title": "Ojczyzna na chór mieszany a cappella (1938)",
+      "year": "1938"
+    },
+    {
+      "title": "Pieśni do słów Leopolda Staffa na głos z fortepianem (1938)",
+      "year": "1938"
+    },
+    {
+      "title": "Concertino na fortepian i orkiestrę (1940)",
+      "year": "1940"
+    },
+    {
+      "title": "Suita dziecięca na dwa fortepiany (1940)",
+      "year": "1940"
+    },
+    {
+      "title": "Ballada o wieprzu i pieprzu na głos z fortepianem do słów Jana Brzechwy (1940)",
+      "year": "1940"
+    },
+    {
+      "title": "Koncert na orkiestrę smyczkową [wersja II] (1943)",
+      "year": "1943"
+    },
+    {
+      "title": "Sonatina na fortepian nr 2 (1944)",
+      "year": "1944"
+    },
+    {
+      "title": "Sonatina na fortepian nr 3 „Kolędowa” (1945)",
+      "year": "1945"
+    },
+    {
+      "title": "Tryptyk żałobny na głos z fortepianem do słów według XVI-wiecznych kancjonałów Stanisława Grochowskiego i Walentego z Brzozowa (1945)",
+      "year": "1945"
+    },
+    {
+      "title": "Concertino na obój i orkiestrę smyczkową (1946)",
+      "year": "1946"
+    },
+    {
+      "title": "Dziesięć polskich pieśni ludowych z Ziem Zachodnich na głos z fortepianem (1947)",
+      "year": "1947"
+    },
+    {
+      "title": "Concertino na flet, ksylofon, czelestę i orkiestrę smyczkową (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "Sonatina na flet i fortepian (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "Lullaby na fortepian (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "Walc na fortepian (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "Blessed Music Book na fortepian (195)",
+      "year": null
+    },
+    {
+      "title": "The Anointed ( Koniec Mesjasza ), opera według Jerzego Żuławskiego (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "Teen-Age Concerto nr 1 F-dur na orkiestrę (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Sun-up ( Jutrzenka ), opera według Luli Vollmera (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "For Me the Sun Shines Every Day na głos z fortepianem (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Our Day na głos z fortepianem (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Arizona is Your Switch na głos z fortepianem (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Our Prayer na głos z fortepianem (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Comedy of the Dumb Wife ( Komedia o niemej żonie ), opera według Francoisa Rabelais’ego i Anatole’a France’a (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Space Flight Concerto na orkiestrę (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "Eros i Psyche , opera według Jerzego Żuławskiego (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "Three Pieces for Strings from the Blessed Music Book (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "Teen-Age Concerto nr 3 C-dur na orkiestrę (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "Teen-Age Concerto nr 4 F-dur na orkiestrę (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "Space Travel Music Book na fortepian (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "Słodki kramik ( Candy Music Book ) na fortepian (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "Amusement Park Music Book na fortepian (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "Swing Kings Concerto na orkiestrę [nieukończony] (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "Piano Sonatina on Stephen C. Foster Themes (po 1948)",
+      "year": null
+    },
+    {
+      "title": "Cztery miniatury na fortepian (po 1948)",
+      "year": null
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "kassern-tadeusz-zygfryd-en"
+}

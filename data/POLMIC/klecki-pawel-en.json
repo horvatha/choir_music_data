@@ -1,0 +1,131 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/k/klecki-pawel-en",
+  "title": "Klecki Paweł",
+  "name": "Klecki Paweł",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "String Quartet in A Minor op. 1 (1923)",
+      "year": "1923"
+    },
+    {
+      "title": "Four Songs op. 2 for voice and piano (1923)",
+      "year": "1923"
+    },
+    {
+      "title": "Three Night Songs op. 3 for voice and piano (1923)",
+      "year": "1923"
+    },
+    {
+      "title": "Three Preludes op. 4 for piano (1923)",
+      "year": "1923"
+    },
+    {
+      "title": "Three Songs op. 6 for voice and piano (1923)",
+      "year": "1923"
+    },
+    {
+      "title": "Sinfonietta in E Minor op. 7 for orchestra (1923)",
+      "year": "1923"
+    },
+    {
+      "title": "Fantasy in C Minor op. 9 for piano (1924)",
+      "year": "1924"
+    },
+    {
+      "title": "String Quartet No.2 in C Minor op. 13 (1925)",
+      "year": "1925"
+    },
+    {
+      "title": "Eight Songs op. 15 for voice and piano (1926)",
+      "year": "1926"
+    },
+    {
+      "title": "Piano Trio in D Major op. 16 (1926)",
+      "year": "1926"
+    },
+    {
+      "title": "Symphony in D Minor op. 17 for orchestra (1927)",
+      "year": "1927"
+    },
+    {
+      "title": "Symphony No. 2 in G Minor op. 18 for voice and orchestra (1927)",
+      "year": "1927"
+    },
+    {
+      "title": "Violin Concerto op. 19 (1928)",
+      "year": "1928"
+    },
+    {
+      "title": "Orchestral Variations op. 20 (1929)",
+      "year": "1929"
+    },
+    {
+      "title": "Introduction und Rondo op. 21 for violin and piano (1930)",
+      "year": "1930"
+    },
+    {
+      "title": "Piano Concerto op. 22 (1930)",
+      "year": "1930"
+    },
+    {
+      "title": "String Quartet No. 3 in D Minor op. 23 (1931)",
+      "year": "1931"
+    },
+    {
+      "title": "Capriccio op. 24 for orchestra (1931)",
+      "year": "1931"
+    },
+    {
+      "title": "Concert Music op. 25 for orchestra (1932)",
+      "year": "1932"
+    },
+    {
+      "title": "Violin Sonata op. 26 (1933)",
+      "year": "1933"
+    },
+    {
+      "title": "Little Partita op. 27 for piano (1933)",
+      "year": "1933"
+    },
+    {
+      "title": "String Trio op. 29 (1934)",
+      "year": "1934"
+    },
+    {
+      "title": "Lyric Suite op. 30 for orchestra (1938)",
+      "year": "1938"
+    },
+    {
+      "title": "Symphony No. 3 op. 31 for orchestra (1939)",
+      "year": "1939"
+    },
+    {
+      "title": "Trio for flute, violin and cello op. 32 (1940)",
+      "year": "1940"
+    },
+    {
+      "title": "Concertino op. 34 for orchestra (1940)",
+      "year": "1940"
+    },
+    {
+      "title": "Variations on a theme of E. Jacques Dalcroze op. 37 for orchestra (1940)",
+      "year": "1940"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "klecki-pawel-en"
+}

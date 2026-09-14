@@ -1,0 +1,227 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/h/huszcza-anna-maria-en",
+  "title": "Huszcza Anna Maria",
+  "name": "Huszcza Anna Maria",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "composer; b. 23rd March 1987 in Rzeszów. She graduated with honours from the Karol Szymanowski State Music School in Rzeszów at the Department of Eurhythmics (2006). In the same year, she began studies at the Fryderyk Chopin University of Music in Warsaw in the field of Eurhythmics, and in 2011 she obtained a master's degree in fine arts. In 2009, she started composition studies at the same university in the class of Prof. Marcin Błażewicz, receiving in 2012 a bachelor's degree with honours in composition. In 2014 she graduated from the composition and multimedia specialty in the class of Prof. Marcin Błażewicz, obtaining another master's degree in art. She is currently a PhD student at the FCUM in Composition and Theory of Music in the class of Prof. Lidia Zielińska. She teaches courses in harmony, counterpoint and contemporary composing techniques. She is a laureate of composers' competitions, including \"Call for sounds\" organized as part of the 52nd \"Warsaw Autumn\" International Festival of Contemporary Music (2009). In December 2011 she won the 2nd degree honorable mention at the 3rd H. M. Górecki Music Festival \"Santa's playing\" in Rydułtowy. In May 2012 she received an honorable mention in the 53rd Tadeusz Baird Competition for Young Composers for the work SaHarBAD , which was performed at the Mazovia Region Centre of Culture and Arts. In December 2012 her work Wonderful Widow 2012 was awarded at the \"CAGE 1,2,3\" International Composition and Performance Competition. In May 2014 she received the 3rd prize in the Youngest Composers Competition \"Vox juventutis\" in Vilnius for the work mAngel for choir and oboe. The passion for combining folk and electronic music resulted in the work Kielmin , which was awarded the 1st prize and a special prize (residence at the Electroacoustic Music Studio in Poznań) at the composers' competition organized by the Świętokrzyska Philharmonic in 2014. She composes in a wide variety of different genres and styles, including classical forms and scorings, electronic music and elements of popular music and musicals, as well as film music and interdisciplinary projects for children. In her instrumental and electroacoustic compositions, the artist connects extended performance techniques with more traditional sounds, occasionally inspired by folklore or various genres of popular music. Her works were performed in Poland and abroad, including Lithuania, Croatia, Ukraine, Slovenia, the Czech Republic, Germany, France, Sweden, Belgium, Japan. Anna Maria Huszcza’s compositions were released on such albums as: The Sound Chronicle of the \"Warsaw Autumn\" (2009), Paweł Gusnar’s Saxophone Varie (2013) and Saxophone Varie vol. 2 (2017), Zagan Acoustic’s Folk & Roll (2015), ŁOJ! (2017) and Źwierściadło / Slavic Mirrror (2017). In 2016 she released a monographic album wydziwiAnka thanks to the “Young Poland” scholarship programme. Among her published scores are compositions for children, i.e. Three Miniatures ( Santa's playing. Works for piano for children , \"Phoenix\" Rydułtowy Cultural Centre, 2012), two three-part cycles Miniatures for flute and piano and Miniatures for percussion and piano (Polimedia, 2016), as well as saxophone works included in the Paweł Gusnar Collection series (Ars Musica, 2017). updated: 2020 (ac) Composer's website : http://www.annamariahuszcza.com/",
+  "birth": {
+    "place": "Rzeszów",
+    "date": "23rd March 1987",
+    "raw": "b. 23rd March 1987 in Rzeszów"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "AB_synth schaevarius for tape (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Fuga con cret for cymbals and tape (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "W wyłomie muru stoję i widzę… (the wall) for alto saxophone and piano (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "2 pi r for symphony orchestra and female voice (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "TINATOOS for symphony orchestra (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Solarm for accordeon solo (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "The music between us for accordeon and strings (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Soltarra for guitar solo (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Drill for orchestra and tape (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Solarp (Berceuse) for harp solo (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Secrets of life for saxophones, percusssion and mixed choir to words by J. E. Bolek (2010-2011)",
+      "year": "2010-2011"
+    },
+    {
+      "title": "EtLuda for electronics (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Tre for harp and percussion (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Dimension for symphony orchestra (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Flux for symphony orchestra (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "SaHarBAD for alto saxophone and harp (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Wonderful Widow 2012 for tape and actress (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Nubes for symphony orchestra (2012-2013)",
+      "year": "2012-2013"
+    },
+    {
+      "title": "nagaZ for clarinet, violin, accordeon and double bass (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Ib_sen for double bass solo, music to the dance spectacle Suzannah (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "AbySsus for soprano/tenor saxophone and electronics (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Fairytale Land for mixed choir (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Bird Radio for mixed choir and radio (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "mAngel for oboe and mixed choir (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Laura na Zamku Godzin, musical spectacle for children for solo voices and chamber orchestra (2013-2014)",
+      "year": "2013-2014"
+    },
+    {
+      "title": "Hortus per archi (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Kielmin for electronics (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Bóg się na świat zjawił, Christmas carol for mixed choir to traditional words (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Hej nam, hej, Christmas carol for mixed choir to traditional words (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Objects for electronics (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Snake and Cow for electronics (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "The Hut on Hen's Legs for electronics (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Ogłaszamy dziś nowinę, Christmas carol for mixed choir to traditional words (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Felix Anna for organ and mixed choir (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Sonosphere for saxophone quartet, traditional singing and electronics (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Northern Lights for electronics (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Intercosmic for soprano saxophone and electronics (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Alice in Wonderland, musical for children for solo voices and chamber orchestra (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "OnaHe for instrumental ensemble and mimes (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Without a Name, song cycle for soprano, piano and cello to words by K. K. Baczyński (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Nihanja for 13 saxophones (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Hymn Chóralnych Akceleracji Uniwersytetu Warszawskiego for mixed choir and percussion instruments (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "JaMy, opera to words by J. E. Bolek (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "4 for 4 for clarinet, violin, accordeon and double bass (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Owadologia for soprano and chamber orchestra to the composer's libretto (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Vox in Rama for mixed choir a ceppella (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Silence for mixed choir a cappella to words by A. Siemieńczuk (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Erysipelas for traditional singing, vocal quartet, orchestra and electronics (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Music to the spectacle Pomieszanie z poplątaniem, dir. K. Janaszek-Hańska (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Music to the spectacle Zaczyna się księga i dzieje, dir. M. Reif (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Music to the spectacle Różaniec z Gusen, dir. M. Reif (2016)",
+      "year": "2016"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "huszcza-anna-maria-en"
+}

@@ -1,0 +1,223 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/s/szajna-lewandowska-jadwiga-en",
+  "title": "Szajna-Lewandowska Jadwiga",
+  "name": "Szajna-Lewandowska Jadwiga",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Sonatina na obój i fortepian (1953-54)",
+      "year": "1953-54"
+    },
+    {
+      "title": "Concertino na flet i smyczki (1954-56)",
+      "year": "1954-56"
+    },
+    {
+      "title": "Preludia mitologiczne na flet i fortepian (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "Pinokio , balet dziecięcy (1956)",
+      "year": "1956"
+    },
+    {
+      "title": "Sonatina giocosa na fortepian (1958-59)",
+      "year": "1958-59"
+    },
+    {
+      "title": "Dwie etiudy na skrzypce i fortepian (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Regiment , kantata na chór mieszany i małą orkiestrę (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Capriccio na klarnet i smyczki utwór edukacyjny (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Sonatina na flet i fortepian (1961)",
+      "year": "1961"
+    },
+    {
+      "title": "Zazdroszczę nut , cykl pieśni na sopran i orkiestrę kameralną (1961)",
+      "year": "1961"
+    },
+    {
+      "title": "Dwie etiudy na fortepian i orkiestrę smyczkową (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Harfista , mimodrama (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Trzy pieśni żartobliwe na 2-głosowy chór żeński, kwintet smyczkowy i perkusję (1962-64)",
+      "year": "1962-64"
+    },
+    {
+      "title": "O El Mole Rahmim na chór mieszany, orkiestrę i recytatora (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Ballada na skrzypce i orkiestrę kameralną (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Concertino na 2 fortepiany (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Tre legerezze na fortepian (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Porwanie w Tiutiurlistanie , balet dziecięcy (1965-66)",
+      "year": "1965-66"
+    },
+    {
+      "title": "Ein Spaziergang in der Stadt , balet dziecięcy (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Wierszyki Pana Leara na recytatora i orkiestrę kameralną (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Trzy fragmenty na fortepian i smyczki (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Dwie pieśni perskie [wersja I] na chór męski a cappella (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Thais , balet (1969-70)",
+      "year": "1969-70"
+    },
+    {
+      "title": "Dwie pieśni perskie [wersja II] na baryton, flet, klarnet, harfę, smyczki i perkusję (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Koncert na fortepian, orkiestrę smyczkową i perkusję (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Sześć piosenek [wersja I] na głos i fortepian dla dzieci (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Funerailles [wersja I] na 2 fortepiany (1970-72)",
+      "year": "1970-72"
+    },
+    {
+      "title": "Funerailles [wersja II] na orkiestrę smyczkową, fortepian i perkusję (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Sześć piosenek [wersja II] na chór dziecięcy i fortepian (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Dwanaście wierszy na sopran solo i kwartet smyczkowy (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Księżniczka w oślej skórce , opera-musical dziecięcy (1972-74)",
+      "year": "1972-74"
+    },
+    {
+      "title": "Dziesięć etiud na 2 fortepiany (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Błękitny Kot [wersja I], bajka muzyczna w 2 aktach (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Błękitny Kot [wersja II], bajka muzyczna w 3 aktach z prologiem (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Wiersze na recytatora i fortepian (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Zaczarowany krawiec , widowisko historyczno-fantastyczne (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Dwie pieśni do tekstów Hanny Januszewskiej na 2-głosowy chór dziecięcy i fortepian (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "All’Antico , utwór edukacyjny na orkiestrę (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Pięć utworów na kwintet fortepianowy (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Sześć utworów na fortepian i kwartet smyczkowy (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Sześć utworów na skrzypce i fortepian dla młodych solistów i kameralistów (1978-80)",
+      "year": "1978-80"
+    },
+    {
+      "title": "Cztery tańce w dawnym stylu na zespół kameralny instrumentów dętych i perkusję (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Koncert na fortepian i orkiestrę dla uczniów szkoły muzycznej II-go stopnia (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Mit o Aleksandrze [II wersja baletu Thais ] (1979-80)",
+      "year": "1979-80"
+    },
+    {
+      "title": "Sześć trioletów na 2 flety i fortepian (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Sześć etiud na 2 fortepiany dla młodych solistów i kameralistów (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Czerwony Kapturek , balet dla najmłodszych (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Wiersz Karnawałowy na mezzosopran i orkiestrę (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Słowik cesarza chińskiego , balet dziecięcy (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Księżniczka na ziarnku grochu , balet dziecięcy (1992)",
+      "year": "1992"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "szajna-lewandowska-jadwiga-en"
+}

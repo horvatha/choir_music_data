@@ -1,0 +1,335 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/m/mroszczyk-karol-en",
+  "title": "Mroszczyk Karol",
+  "name": "Mroszczyk Karol",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Na ten ugór for choir a cappella (1935)",
+      "year": "1935"
+    },
+    {
+      "title": "Pieśń żniwna for violin and piano (1937)",
+      "year": "1937"
+    },
+    {
+      "title": "Little Poem for violin and piano (1937)",
+      "year": "1937"
+    },
+    {
+      "title": "Allegro [version I] for violin and piano (1939)",
+      "year": "1939"
+    },
+    {
+      "title": "Polonaise in D Major for violin and piano (1941)",
+      "year": "1941"
+    },
+    {
+      "title": "Sonata in B Minor for violin and piano (1941)",
+      "year": "1941"
+    },
+    {
+      "title": "Romantic Sonata for violin and piano (1942)",
+      "year": "1942"
+    },
+    {
+      "title": "Polonaise for violin and symphony orchestra (1942)",
+      "year": "1942"
+    },
+    {
+      "title": "Small Suite on Folk Themes for orchestra (1942)",
+      "year": "1942"
+    },
+    {
+      "title": "Allegro [version II] for string orchestra (1943)",
+      "year": "1943"
+    },
+    {
+      "title": "Ten Folk Songs for mixed choir a cappella (1946)",
+      "year": "1946"
+    },
+    {
+      "title": "Clouds, song for voice and piano (1946)",
+      "year": "1946"
+    },
+    {
+      "title": "Two Songs for voice and piano (1947)",
+      "year": "1947"
+    },
+    {
+      "title": "Two Songs for mixed choir a cappella (1947)",
+      "year": "1947"
+    },
+    {
+      "title": "Three Preludes for piano solo (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "Variations in a Classical Style for violin or viola and piano (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "Folk Songs [version I] for voice and piano (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "Two Silesian Songs for voice, choir and ensemble (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "Studies for piano solo (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "Folk Songs for voice and piano (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "Folk Songs [version II] for mixed choir a cappella (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "Theme with Variations for piano solo (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "Valse lente for coloratura voice and orchestra (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "Kurpie Song for voice and piano (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "Variations for piano solo (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Quasi notturno for string orchestra (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Lullaby for small symphony orchestra (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "Lullaby for string orchestra and woodwind instruments (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "Nad wodą wielką i czystą for voice and piano to words by Adam Mickiewicz (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "Triptych for string orchestra (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "Children's Songs for voice and piano (1956)",
+      "year": "1956"
+    },
+    {
+      "title": "Nocturne for violin and piano (1957)",
+      "year": "1957"
+    },
+    {
+      "title": "Ballet Sketches for small symphony orchestra (1958)",
+      "year": "1958"
+    },
+    {
+      "title": "Songs to words by Kazimiera Iłłakowiczówna for voice and piano (1958)",
+      "year": "1958"
+    },
+    {
+      "title": "Canzona antica for string orchestra (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Sixteen Children's Pieces for piano solo (1961)",
+      "year": "1961"
+    },
+    {
+      "title": "Concertino Popolare for piano and orchestra (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Piano Concerto (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Jedno małe kłamstwo , musical comedy (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Melody for symphony orchestra (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Nad Odrą for choir a cappella (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Dumo moja Warszawo for choir a cappella (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Autumn for voice and orchestra (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Spanish Dance for small symphony orchestra (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Small Variations in the Rhythm of Gavotte for piano solo (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Three Pieces for piano solo (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Sieradz Ballad for voice and piano (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Six Songs to words by Kazimiera Iłłakowiczówna for soprano and piano (1967-68)",
+      "year": "1967-68"
+    },
+    {
+      "title": "Odlatujące żurawie for voice and piano (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Erotyk for voice and piano (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Two Songs for a 3-part children's choir a cappella (1968-69)",
+      "year": "1968-69"
+    },
+    {
+      "title": "Song about Janek Krasicki for a 3-part female choir and piano (ad libitum) (1968-69)",
+      "year": "1968-69"
+    },
+    {
+      "title": "Rowan for voice and piano (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Sunny Fluff for voice and piano (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Nocturne [version I] for a 3-part female choir and piano (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Nocturne [version II] for a 3-part female choir and orchestra (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Nad źródłem for voice and piano (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Litworowe doliny for mixed choir a cappella (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Lyrical Suite No. 2 for string orchestra (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Birch for voice and piano (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Episode for violin and piano (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Sonnet for voice and piano (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Canzonetta for violin and piano (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Variations in E Minor for piano solo (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Variations in A Major for piano solo (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Sonatina for clarinet and piano (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Clouds, song for voice and piano (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "The Song of Don Juan I for baritone and piano (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "The Song of Don Juan II for baritone and piano (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Moment musical for string orchestra (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Arietta for violin and piano (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Three Preludes for piano solo (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Sonatina in memory of Muzio Clementi for piano solo (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Lullaby for voice and piano (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Twelve Children's Pieces for piano solo (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Sonata for cello and piano (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Sonata for violin and piano No. 2 (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Sonata for clarinet and piano (1975)",
+      "year": "1975"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Szoka Marta, Mroszczyk Karol, Akademia Muzyczna w Łodzi, Łódź 2001",
+  "slug": "mroszczyk-karol-en"
+}

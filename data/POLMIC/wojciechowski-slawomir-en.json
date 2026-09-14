@@ -1,0 +1,155 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/w/wojciechowski-slawomir-en",
+  "title": "Wojciechowski Sławomir",
+  "name": "Wojciechowski Sławomir",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": "composer, journalist and translator; b. 3rd May 1971 in Łódź. Having completed two years of composition studies with Marian Borkowski at the Academy of Music in Warsaw (1995-97), he graduated from the Staatliche Hochschule für Musik und Darstellende Kunst in Stuttgart, where he studied composition with Marco Stroppa (2000–04) as well as theory and new media with Matthias Hermann (1998–2002). He attended courses and seminars taught by Helmut Lachenmann, Brian Ferneyhough, Karlheinz Stockhausen, Klaus Huber, Louis Andriessen, Paweł Szymański and Irvine Arditti. He has received scholarships from the Donaueschinger Musiktage, ZAIKS Polish Association of Authors and Composers, the Minister of Culture and National Heritage, the Capital City of Warsaw and the Institute of Music and Dance. His music has been performed at many contemporary music festivals, e.g. Musica Polonica Nova and Musica Electronica Nova in Wrocław, Elektronische Nacht in Stuttgart, Intersonanzen in Potsdam, Berlin Biennale, \"Ad Libitum\" in Warsaw, Festival of World Premieres in Katowice and the \"Warsaw Autumn\" Festival, by such ensembles as: the Radio Sinfonieorchester Stuttgart under Manfred Trojahn, Zementwerk, Junge Musik Berlin, Kwartludium, cross-art, Cellonet, Kwadrofonik, and Smash ensemble. As a music performer (an “ad hoc-spieler” on unconventional instruments) he has appeared with numerous German ensembles and orchestras, including SWR Sinfonieorchester, Kölner Philharmoniker and Bamberger Symphoniker. He participated in the recording of Helmut Lachenmann’s opera Das Mädchen mit den Schwefelhölzern (he was in charge of electronic layer) in Staatsoper in Stuttgart (2001). In 2007 he co-organized the Musica Electronica Nova Festival in Wrocław. Sławomir Wojciechowski is also active as a feature writer and translator of musical publications. He collaborates with magazines \"Ruch Muzyczny\" and \"Glissando\", as well as with Polish Radio. updated: 2014 (Anna Iwanicka) Composer’s website: https://slawomirwojciechowski.wordpress.com/",
+  "birth": {
+    "place": "Łódź",
+    "date": "3rd May 1971",
+    "raw": "b. 3rd May 1971 in Łódź"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Quintet for wind quintet (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Ge-Sheng for flute, accordion, violin, clarinet and cello (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Riesenfalter for flute, clarinet, violin and cello (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Rope of Sands for Kwartludium (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "sight/light for bass clarinet, violin, cello, piano and percussion (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Double Pendulum for violin and samples (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "warsaw soundmap , electronic piece (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Rapid Repeats, graphic score for Kwartludium and Robin Rimbaud aka Scanner (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Blind Spot for prepared string quartet (2010, 2013)",
+      "year": null
+    },
+    {
+      "title": "Fingertrips for 8 prepared cellos (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "rizoom for flute, saxophone, objects and electronics (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Victory over the Sun , chamber opera to text by Marcin Cecko (2013-2014)",
+      "year": "2013-2014"
+    },
+    {
+      "title": "Machina zawiła for soprano, piano, 2 percussions, objects and electronics (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "a matter of choice for ensemble and electronics (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Room 404 , multimedia performance for clarinet, violin, percussion, objects, sampler and video (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "…play them back... for ensemble and electronics (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Speedcore for percussion and electronics (2015-2016)",
+      "year": "2015-2016"
+    },
+    {
+      "title": "King Ludd dla LUX NM ensemble (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Aaron S ., multimedia performance for LUX NM ensemble, electronics and video (2015-2016)",
+      "year": "2015-2016"
+    },
+    {
+      "title": "Triple Pendulum for cello and video (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "uno on off for double bass, ensemble and soundtrack (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Claude for ensemble and soundtrack (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Handmade for instruments and video (2018-2019)",
+      "year": "2018-2019"
+    },
+    {
+      "title": "Woyfer/Zajwert for electronics, analog synthesizers and video (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Rituals for prepared piano and video (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Sci-Fi Retro: Hommage à Georges Méliès for violin, cello, electric guitar and video (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Magenta for string quartet and soundtrack (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "ITAKA , multimedia performance for instruments, voices, actors, electronics and video (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "Digging for Gold for symphony orchestra and samples (2022-2023)",
+      "year": "2022-2023"
+    },
+    {
+      "title": "Paradoks ukrytej cykady , monodrama for Ewa Bukała (2023)",
+      "year": "2023"
+    },
+    {
+      "title": "Plexus for 2 flutes and soundtrack (2024)",
+      "year": "2024"
+    },
+    {
+      "title": "Elastic fictions for violin, piano and MicroKORG (2024)",
+      "year": "2024"
+    },
+    {
+      "title": "Equally real for choir, chamber orchestra and electronics (2025)",
+      "year": "2025"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "wojciechowski-slawomir-en"
+}

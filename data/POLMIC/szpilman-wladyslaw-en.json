@@ -1,0 +1,107 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/s/szpilman-wladyslaw-en",
+  "title": "Szpilman Władysław",
+  "name": "Szpilman Władysław",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Violin Concerto (1931)",
+      "year": "1931"
+    },
+    {
+      "title": "Toccatina for piano (1931)",
+      "year": "1931"
+    },
+    {
+      "title": "Life of the Machines , suite for piano (1931)",
+      "year": "1931"
+    },
+    {
+      "title": "Waltz in an Old Style for symphony orchestra (1937-68)",
+      "year": "1937-68"
+    },
+    {
+      "title": "Concertino for piano and orchestra (1940)",
+      "year": "1940"
+    },
+    {
+      "title": "Mazurka for piano (1942)",
+      "year": "1942"
+    },
+    {
+      "title": "Variations on a Theme of a Waltz from the opera „Casanova” by Ludomir Różycki for voice, 2 pianos, symphony orchestra and jazz orchestra (1945)",
+      "year": "1945"
+    },
+    {
+      "title": "Paraphrase on Own Themes for symphony orchestra (1947)",
+      "year": "1947"
+    },
+    {
+      "title": "Negro Song for symphony orchestra (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "Two Waltzes for symphony orchestra (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "Three Miniatures for piano (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Music for a fairy tale Red Riding Hood (1958)",
+      "year": "1958"
+    },
+    {
+      "title": "Little Overture for symphony orchestra (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Ballet music for theatrical play Karol's Aunt (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Ballet Scene for symphony orchestra (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Little Piano Pieces (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Music for film Wrzos dir. by Juliusz Gardan (1938)",
+      "year": "1938"
+    },
+    {
+      "title": "Music for film Doktór Murek dir. by Juliusz Gardan (1939)",
+      "year": "1939"
+    },
+    {
+      "title": "Music for film Zawsze pierwsi dir. by Joanna Rojewska (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Music for film Zadzwońcie do mojej żony dir. by Jaroslav Mach (1958)",
+      "year": "1958"
+    },
+    {
+      "title": "Music for film Piłkarski poker dir. by Janusz Zaorski (1988)",
+      "year": "1988"
+    }
+  ],
+  "publications": "books Pianista. Warszawskie wspomnienia 1939-1945, Znak, Kraków 2000",
+  "bibliography": null,
+  "slug": "szpilman-wladyslaw-en"
+}

@@ -1,0 +1,31 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/s/stachurska-anna-en",
+  "title": "Stachurska Anna",
+  "name": "Stachurska Anna",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "isolated - disintegrated na flet i live electronics (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Zolpidem na kwartet smyczkowy (2014)",
+      "year": "2014"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "stachurska-anna-en"
+}

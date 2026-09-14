@@ -1,0 +1,175 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/s/serocki-kazimierz-en",
+  "title": "Serocki Kazimierz",
+  "name": "Serocki Kazimierz",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": "Composer and pianist; born March 3, 1922, in Toruń; died January 9, 1981, in Warsaw. He studied composition in the class of Kazimierz Sikorski and piano under Stanisław Szpinalski at the State Higher School of Music in Łódź. From 1947 to 1948, he continued his studies in Paris, focusing on composition with Nadia Boulanger and piano with Lazare Lévy. Beetween 1946 and 1951, he performed as a pianist both in Poland and abroad, including in Romania, Germany, and Czechoslovakia. From 1952 onwards, he focused exclusively on composition. In 1956 and 1958, he received awards at the Grzegorz Fitelberg Competition for his Sinfonietta for two string orchestras (1956), Musica concertante for orchestra (1958), and the song cycle Eyes of the Air ( Oczy powietrza ) for soprano and piano (1957). In 1959, his Sinfonietta received an honorable mention at the UNESCO International Rostrum of Composers. Kazimierz Serocki, a leading representative of the avant-garde in new Polish music, was remarkable for the sheer diversity of interests displayed in his work. Together with Tadeusz Baird and Jan Krenz, he founded \"Group 49\", which championed a \"positive optimism\" manifested through music that was both communicative and uncomplicated. However, just a few years later, in 1956, he and Tadeusz Baird established the \"Warsaw Autumn\" International Festival of Contemporary Music, which became the place of the most avant-garde musical manifestations in Poland at that time. Though he began his creative journey with connections to folk music, it did not prevent him from taking an interest in refined dodecaphonic techniques and serialism. Soon after, he began to incorporate aleatoric music, allowing for a significant role of chance in the composition, and the concept of open form. From 1954 to 1955, he served as the Vice President of the Board of the Polish Composers' Union. Kazimierz Serocki received numerous Polish and foreign artistic awards, including: the State Prize for his score to the film Chopin’s Youth ( Młodość Chopina ) in 1952, the Award of the Minister of Culture and Art for his lifetime achievement in 1963, and the Polish Composers' Union Award in 1966. In 1972, he was awarded the State Prize, 1st Degree, for the second time, \"for outstanding achievements in musical composition\". update: 2002 (mk) see: www.serocki.polmic.pl",
+  "birth": {
+    "place": "Toruń",
+    "date": "March 3, 1922",
+    "raw": "born March 3, 1922, in Toruń;"
+  },
+  "death": {
+    "place": "Warsaw",
+    "date": "January 9, 1981",
+    "raw": "died January 9, 1981, in Warsaw."
+  },
+  "works": [
+    {
+      "title": "Tryptyk na orkiestrę kameralną (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "Sonatina na fortepian (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "Trzy melodie kurpiowskie na soprany, tenory i zespół kameralny (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "Romantic Concerto na fortepian i orkiestrę (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "Trzy śpiewki na chór mieszany a cappella (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "Pieśń traktorzystów na głos z fortepianem (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "Symfonia nr 1 (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Suita preludiów na fortepian (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Koncert na puzon i orkiest rę (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Krasnoludki miniatury dla dzieci na fortepian (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Suita na 4 puzony (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Symfonia nr 2 „Symfonia pieśni” na sopran, baryton, chór i orkiestrę (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Sobótkowe śpiewki na chór mieszany a cappella (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "Sonatina na puzon i fortepian (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "Suita opolska na chór mieszany a cappella (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "Taniec na klarnet i fortepian (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "Sonata na fortepian (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "Sinfonietta na 2 orkiestry smyczkowe (1956)",
+      "year": "1956"
+    },
+    {
+      "title": "Serce nocy cykl pieśni na baryton i fortepian (1956)",
+      "year": "1956"
+    },
+    {
+      "title": "Oczy powietrza cykl pieśni na sopran i fortepian (1957)",
+      "year": "1957"
+    },
+    {
+      "title": "Musica concertante na orkiestrę (1958)",
+      "year": "1958"
+    },
+    {
+      "title": "Epizody na smyczki i 3 grupy perkusyjne (1959)",
+      "year": "1959"
+    },
+    {
+      "title": "Segmenti na orkiestrę (1960-61)",
+      "year": "1960-61"
+    },
+    {
+      "title": "A piacere propozycje na fortepian (1962-63)",
+      "year": "1962-63"
+    },
+    {
+      "title": "Freski symfoniczne na orkiestrę (1963-64)",
+      "year": "1963-64"
+    },
+    {
+      "title": "Continuum sekstet na instrumenty perkusyjne (1965-66)",
+      "year": "1965-66"
+    },
+    {
+      "title": "Niobe muzyka do fragmentów poematu K. I. Gałczyńskiego na 2 recytatorów, chór i orkiestrę (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Forte e piano muzyka na dwa fortepiany i orkiestrę (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Poezje na sopran i orkiestrę kameralną (1968-69)",
+      "year": "1968-69"
+    },
+    {
+      "title": "Dramatic Story na orkiestrę (1968-70)",
+      "year": "1968-70"
+    },
+    {
+      "title": "Swinging Music na klarnet, puzon, wiolonczelę (lub kontrabas) i fortepian (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Fantasmagoria na fortepian i perkusję (1970-71)",
+      "year": "1970-71"
+    },
+    {
+      "title": "Fantasia elegiaca na organy i orkiestrę (1971-72)",
+      "year": "1971-72"
+    },
+    {
+      "title": "Impromptu fantasque na flety proste, mandoliny, gitary, perkusję i fortepian (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Ad libitum 5 utworów na orkiestrę (1973-77)",
+      "year": "1973-77"
+    },
+    {
+      "title": "Concerto alla cadenza per flauto a becco e orchestra (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Arrangements na 1-4 flety proste (1975-76)",
+      "year": "1975-76"
+    },
+    {
+      "title": "Pianophonie na fortepian, środki elektroniczne i orkiestrę (1976-78)",
+      "year": "1976-78"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Maciejewski Bogusław M., Twelve Polish Composers, Allegro Press, London 1976 Kaczorek Ireneusz, Wartość estetyczna i artystyczna \"Fresków symfonicznych\" Kazimierza Serockiego, Akademia Muzyczna, Poznań 1999 Jagiełło Aleksandra, Kazimierz Serocki. Dżentelmen sonoryzmu, \"Muzyka21\" 2004 nr 3, s.26-27 Paja-Stach Jadwiga, Związki muzyki Kazimierza Serockiego z sonoryzmem, \"Muzyka\" 2008 nr 1, s.93-107-118 Lindstedt Iwona, Kazimierz Serocki. Piszę tylko muzykę, PWM, Kraków 2020",
+  "slug": "serocki-kazimierz-en"
+}

@@ -1,0 +1,103 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/s/stepien-wojciech-en",
+  "title": "Stępień Wojciech",
+  "name": "Stępień Wojciech",
+  "occupation": "composer, musicologist",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Offertorium for soprano and chamber orchestra",
+      "year": null
+    },
+    {
+      "title": "Four Songs for soprano and piano to words of L. Staff (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Wandering Monasteries for flute and strings (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Whiteness , three songs for soprano, baritone, flute and piano to words of J. Twardowski and J. Baka (2000-2001)",
+      "year": "2000-2001"
+    },
+    {
+      "title": "Interrupted Sonnet for bassoon and piano (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Poem \"when it is snowing...\" for baritone and piano to words of B. Czaykowski (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "String Quartet „Sketch à Dymitri” (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Mass „Domus Dei” for soprano, mezzo-soprano, mixed choir and orchestra (2002-2003)",
+      "year": "2002-2003"
+    },
+    {
+      "title": "Credo for mixed choir (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Liturgical Songs for soprano, oboe, english horn to the text of Roman missal (2003-2004)",
+      "year": "2003-2004"
+    },
+    {
+      "title": "Kyrie for mixed choir (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Breviary Hymns for mixed choir, wind ensemble and percussion (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Cello Concerto \"Suffering Angels\" (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Amor facit for children and mixed choir to words of John from Hoveden (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "O Crux for children and mixed choir to words of Reginald from Canterbury (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Christiani plaudite for children and mixed choir to words of Peter Abelard (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Five Letters to the Beautiful Knight for baritone and viola da gamba to words of Raimbaut de Vaqueiras (2018,2020)",
+      "year": null
+    },
+    {
+      "title": "Black Mirror , chamber opera/mystery play for boy soprano, mezzosoprano, tenor, baritone, bass, 5 violas da gamba, percussion and male choir to the libretto of M. Sikorska-Miszczuk (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Wind Whines , 3 songs for baritone and piano to James Joyce's poems (2020-2021)",
+      "year": "2020-2021"
+    },
+    {
+      "title": "Captain Who , shanty musical for boys' soprano, mezzo-soprano, baritone, bass, male shanty ensemble, violin, viola da gamba and dancers to texts by Paweł Jędrzejko (2022)",
+      "year": "2022"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "stepien-wojciech-en"
+}

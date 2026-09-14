@@ -1,0 +1,323 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/h/hawel-jan-wincenty-en",
+  "title": "Hawel Jan Wincenty",
+  "name": "Hawel Jan Wincenty",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": "composer, conductor and academic teacher, b. 10th July 1936 in Pszów near Wodzisław in Upper Silesia. He studied at the State Higher School of Music in Katowice (now the Karol Szymanowski Music Academy), from which he obtained three degrees: a degree from the Faculty of Musical Education (1960), in composition (1964, after studies with Bolesław Szabelski) and in conducting (1967, studied with Karol Stryja). Directly after completing his musical education he joined the faculty of his alma mater, where he taught classes of composition and conducting. From 1987 to 1990 he held the chair of composition and music theory, and in 1981-87 and again 1990-96 - the post of rector of the Music Academy. Apart from composition and teaching activity, Hawel is also a conductor. Since 1975 he has directed the Academic Symphony Orchestra, and since 1981 he has been artistic director and conductor of the Silesian Chamber Orchestra, which he founded and with which he has given concerts both in Poland and abroad: in Austria, the Czech Republic, Slovakia, France, Germany, and Switzerland. He has won many honours as a composer, including: in 1965 - 2nd prize in the Young Composers' Competition of the Polish Composers' Union for Konstrukcje ( Constructions ) for great symphony orchestra (1965); in 1969 - 2nd prize in the Stanisław Wiechowicz Competition for Composers for his Sinfonietta per coro misto a cappella (1969); in 1970 - 1st prize in the Artur Malawski Competition for Composers in Cracow for Capriccio-Fantasia no. 1 per contrabbasso (1970); in 1972 - 1st prize in the Grzegorz Fitelberg Competition for Composers for Sinfonia concertante no. 2 for organ and orchestra (1972) and 1st prize in the \"Opole Spring\" Competition for Composers for Witraże ( Stained Glass Windows ) for piano (1972); in 1978 - 2nd prize at the National Competition for Composers for Classical Guitar in Łódz for Concerto for solo guitar (1978); in 1979 - his Ballada warszawska ( Warsaw Ballad ) for mixed choir (1979) won 2nd prize, and his Warszawski wiatr ( Warsaw Wind ) for children's choir (1979) - 3rd prize in the Open Competition for Composers organised to celebrate the 34th anniversary of the liberation of Warsaw; in 1980 - he received 2nd prize in the Artur Malawski Competition for Composers for his String Quartet no. 3 (1980); in 1981 - 1st prize at the National Competition for Composers in Warsaw for Psalm nadziei ( Psalm of Hope ) for mixed choir (1981); in 1982 - 1st prize in the Competition for Composers in Katowice for Oratorium Polskie ( Polish Oratorio ) for soloists, reciter, two choirs and orchestra (1981) and 2nd prize in the Artur Malawski Competition for Composers for String Quartet no. 4 (1982). Hawel has also been granted the Minister of Culture and Arts Award (four times), and - in 1981 - the Katowice Province Award for his entire oeuvre of compositions and for his teaching activity.",
+  "birth": {
+    "place": "Pszów near Wodzisław in Upper Silesia",
+    "date": "10th July 1936",
+    "raw": "b. 10th July 1936 in Pszów near Wodzisław in Upper Silesia"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "String Quartet No. 1 (1959)",
+      "year": "1959"
+    },
+    {
+      "title": "Two Pieces for chamber ensemble (1959-60)",
+      "year": "1959-60"
+    },
+    {
+      "title": "Septet for wind instruments (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Symphony No. 1 (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Profiles for men’s choir and orchestra (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Joyful Songs for 14 instruments (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Contrasts for orchestra (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Constructions for large symphony orchestra (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Study for organ (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Divertimento for trombone, piano and percussion (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Passacaglia per organo (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Variazioni for piano (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Forest Impressions , oratorio for reciting voice, mixed choir and orchestra (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Nocturne for a cappella men’s choir (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Sinfonietta per coro misto a cappella (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Capriccio-Fantasia No. 1 per contrabbasso (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Concerto for two mixed choirs, ensemble of wind instruments, two pianos and percussion (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Poem in Three Parts for 2 mixed choirs (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Quartetto d’archi No. 2 (1971-72)",
+      "year": "1971-72"
+    },
+    {
+      "title": "Sinfonia concertante No. 2 for organ and orchestra (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Stained-Glass Windows for piano (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Little Vocal Concerto for 4 soloists and 2 mixed choirs (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Magnificat for vocal ensemble and orchestra (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Symphony No. 3 in three parts in the old style (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Capriccio-Fantasia No. 2 for two pianos (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Prelude per contrabasso (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Interlude per contrabasso (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Sonata per violino solo (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Musica concertante per 6 esecutori (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Symphony No. 4 (1976-77)",
+      "year": "1976-77"
+    },
+    {
+      "title": "Colours of Day , three musical events for 2 solo voices, flute, cello, harpsichord and tape (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Concertino per clavicembalo e due quartetti d’archi (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Symphony No. 5 for wind quintet, piano, 2 string quartets and double-bass (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Concerto for solo guitar (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Our Day , little poem for mixed choir (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Warsaw Ballad for mixed choir (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Partita per clavicembalo (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Warsaw Wind for children’s choir (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Marine Sonata for solo cello (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Sinfonia concertante No. 6 per pianoforte e orchestra (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Hymnus for mixed choir and ensemble of wind instruments (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "String Quartet No. 3 (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Song about Joy , intrada for two wind orchestras and percussion (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Triptych for amplified harpsichord and piano (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Vocal Concerto (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Toys for children’s choir (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Psalm of Hope for mixed choir (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Three Poems to texts by Czesław Miłosz for voice and instrumental ensemble (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Polish Oratorio for soloists, reciting voice, 2 choirs and orchestra (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "String Quartet No. 4 (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Missa pro pace per coro misto (1982-83)",
+      "year": "1982-83"
+    },
+    {
+      "title": "Easter for string orchestra (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Concertino for harpsichord or piano and string orchestra (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "String Quartet No. 5 (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Sounds of Summer – musica concertante no. 2 for oboe and/or English horn and string orchestra (1985-86)",
+      "year": "1985-86"
+    },
+    {
+      "title": "Threnody for mixed choir (1986-87)",
+      "year": "1986-87"
+    },
+    {
+      "title": "Concerto per violino ( Genevan Concerto ) (1986-87)",
+      "year": "1986-87"
+    },
+    {
+      "title": "Impression Op. 114 for voice and piano (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Moments musicaux for string instruments (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Symphony No. 7 “Musica sacra” for voice, mixed choir and symphony orchestra (1990-91)",
+      "year": "1990-91"
+    },
+    {
+      "title": "Quartetto d’archi No. 6 da Requiem (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "First Four Songs for voice and orchestra (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Three Poems for voice and chamber orchestra (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Tatra’s Landscape for strings (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Vesper Psalms for Sunday for solo voice, mixed choir and symphony orchestra (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Psalm – Laudate Dominum for voice, mixed choir and orchestra (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Capriccio-Fantasia No. 3 “Kyrie eleison” per violino solo (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "“Gloria” - Rhapsody for piano (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "“Gaudeamus omnes” - Canto for string quartet (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Psalm radosny for mixed choir (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Divertimento Op. 126 for string orchestra (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Three Psalmodic Songs Op. 127 for a cappella choir (2004-2005)",
+      "year": "2004-2005"
+    },
+    {
+      "title": "Violinkonzert - Mysterium Op. 130 für Violine und Orchester (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Lyrical Inspirations for female voice, string orchestra, percussion and piano (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Symphony No. 8 \"Symphony of Biblical Psalms\" for symphony orchestra, choir, organ, baritone and soprano (2020)",
+      "year": "2020"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Hawel Jan Wincenty, In: Kompozytorzy i muzykolodzy środowiska katowickiego [Composers and Musicologists of theKatowice Milieu] (ed. by Ewa Bocek, Andrzej Kornecki and Krystyna Turek), Katowickie Towarzystwo Społeczno-Kulturalne, Katowice 1982 Zmuda Grzegorz, Hawel Jan Wincenty, In: PWM Music Encyclopaedia (biographical part, ed. by Elżbieta Dziębowska), vol. “hij”, PWM, Kraków 1993 Hawel Jan Wincenty, In: Utwory i publikacje członków katowickiego oddziału ZKP [Works and Publications by Members of the PCU Katowice Branch] (ed. by Jolanta Bauman-Szulakowska, Magdalena Dziadek and Krystyna Turek), „Śląsk”, Katowice 1994 Bogusławski Edward, Symfonie Jana Wincentego Hawela [The Symphonies of Jan Wincenty Hawel], Akademia Muzyczna w Katowicach, Katowice 1998",
+  "slug": "hawel-jan-wincenty-en"
+}

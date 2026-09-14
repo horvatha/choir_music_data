@@ -1,0 +1,83 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/z/zemler-hubert-en",
+  "title": "Zemler Hubert",
+  "name": "Zemler Hubert",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": "percussionist and composer; b. 8th September 1980 in Warsaw. In 1999-2004 he studied percussion with Prof. Edward Iwicki at the Fryderyk Chopin Academy of Music in Warsaw. As a percussionist he has given concerts in Europe, the United States, Turkey, the Near East (Syria, Jordan, Egypt, Lebanon), as well as Korea and Japan. He has won awards in international competitions: the Grand Prix with Galaxy ensemble at the Jazz-on-the-Oder Festival (1999), the Grand Prix with Jan Smoczyński Trio and an individual award at the Jazz Juniors Festival (2000), and the bronze medal at the Delphic Games in South Korea (category: solo percussion) in 2009. Hubert Zemler’s repertoire includes music by 20th- and 21st-century composers: AIR by Helmut Lachenmann (performed at the opening concert of the 2015 Warsaw Autumn with the Polish National Radio Symphony Orchestra in Katowice conducted by Alexander Liebreich), Music for 18 Musicians by Steve Reich (Zemler took part in the Polish premiere of this work), as well as compositions by Tadeusz Wielecki, Tomasz Sikorski, Zdzisław Piernik, Cornelius Cardew and Arturas Bumšteinas. Simultaneously with his classical academic studies and work with symphony orchestras (the Teatr Wielki – National Opera Orchestra, Sinfonia Varsovia), Hubert Zemler played in jazz ensembles, learning techniques of improvisation and experimental music. At present he is one of the best known percussionists in the Polish improvised, experimental and free jazz music scene. He performs on one stage with representatives of various musical styles, such as jazz, world music, rock, blues, and improvised music. He is a member of Warsaw-based independent scene ensembles: Piętnastka (with Piotr Kurek), Slalom (with Bartosz Weber and Bartłomiej Tyciński), Shy Albatross (with Raphael Rogiński and Natalia Przybysz), LAM jazz trio (with Wacław Zimpel, and Krzysztof Dys), and the Pilokatabaza duo (with Paweł Szpura). He takes part in numerous projects exploring the borderline areas between contemporary music and improvisation. He also gives concerts as a soloist, performing his own works as well as improvisations. He has worked with such artists as, among others: Evan Ziporyn, Gyan Riley, Agustí Fernández, John Tilbury, Felix Kubin, Reinaldo Ceballo, Kwadrofonik ensemble, Mitch & Mitch, Kamil Szuszkiewicz, Raphael Rogiński, Wacław Zimpel, and the Mud Cavaliers collective. Hubert Zemler’s solo repertoire has been released on 2 CDs: Moped (LADO ABC, 2011) and Gostak & Doshes (Bołt Records, 2014). updated: 2015 (Wiktoria Antonczyk)",
+  "birth": {
+    "place": "Warsaw",
+    "date": "8th September 1980",
+    "raw": "b. 8th September 1980 in Warsaw"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Out of the Frying Pan into the Fire for percussion (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Two Left Legs for percussion (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Night on Cwil Hill for percussion (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Übung macht den Meister for percussion (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Mr Kupiński on the Moon for percussion (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Chronosynclastic Infundibule for jazz ensemble (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Gostak And Doshes , suite for 1 percussionist (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Music for the film Moloch , dir. by Szymon Kapeniak (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Music for the film O wilkach w dole , dir. by Martin Rath (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Music for the film Dzień czekolady , dir. by Jacek Piotr Bławut (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Music for animation Królewski sen (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Music for the film Eastern , dir. by Piotr Adamski (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Music for the film Kamień , dir. by Bartosz Kozera (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Music for the film Victoria , dir. by Karolina Porcari (2022)",
+      "year": "2022"
+    },
+    {
+      "title": "Music for the film Siostra , dir. by Katarzyna Krystyna Pieróg (2022)",
+      "year": "2022"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "zemler-hubert-en"
+}

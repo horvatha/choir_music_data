@@ -1,0 +1,267 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/p/panufnik-andrzej-en",
+  "title": "Panufnik Andrzej",
+  "name": "Panufnik Andrzej",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": "composer and conductor, b. 24 th September 1914 in Warsaw, d. 27 th October 1991 in Twickenham. In 1932-36 he studied music theory and composition with Kazimierz Sikorski at Warsaw Conservatory, obtaining an honours degree. In 1937-38 he started conducting studies with Felix Weingartner in Vienna; he continued these studies in 1938-39 with Philippe Gaubert in Paris. During the war and German occupation, he lived in Warsaw, where he performed as a pianist in both legal and illegal concerts (also in a piano duo with Witold Lutosławski). After the war, in 1945-46, he conducted the Cracow Philharmonic Orchestra (1945-46), and held the post of director in Warsaw Philharmonic (1946-47). He also appeared as a guest conductor in Germany (with the Berliner Philharmoniker), France (with the Parisian Orchestre National de France) and Britain (with the London Philharmonic Orchestra). In 1950, he was elected vice-president of the UNESCO International Music Council. In 1953, he headed Poland’s official cultural delegation to China, where he was greeted by Mao Zedong in person. After the war, he won numerous awards in competitions for composers in Poland and abroad, including: in 1947 – 1 st prize in the Karol Szymanowski Competition for Composers in Cracow for Nocturne for orchestra (1947); in 1948 – The City of Cracow Award for Lullaby for 29 string instruments and 2 harps (1947); in 1949 – 1 st prize in the Frederic Chopin Competition for Composers in Warsaw for Sinfonia rustica for 8 wind instruments and two string orchestras (1948); in 1952 – 1 st prize in the pre-Olympic Competition for Composers at the Olympics in Helsinki for Heroic Overture for orchestra (1951-52). In 1949 he was granted the highest state distinction in communist Poland – the Banner of Labour, 1 st Class, and in 1951 and 1952 – State Award, 2 nd Class. Refusing to accept the restrictions imposed by the communists on artistic freedom, Andrzej Panufnik left Poland in 1954. The Polish communist censorship responded by introducing a ban on performing and publishing Panufnik’s works, and even on mentioning his name in publications, and in radio and television broadcasts. The composer took permanent residence in England, where he continued his conducting career (among others, as the music director and principal conductor of the City of Birmingham Symphony Orchestra, 1957-59). Later, however, he dedicated himself entirely to composition. He received Prix de Composition Musicale Prince Pierre de Monaco twice: in 1963 – for Sinfonia sacra for orchestra (1963) and in 1983 – for his entire output. In 1965, he was presented with the Sibelius Centenary Medal for Composition (a medal for compositions marking the centenary of Jean Sibelius’ birth). In 1966 in the United States, he was named Knight of the Mark Twain Prize by the Mark Twain Society. In 1977, the Management Board of the Polish Composers’ Union persuaded the culture department of the communist party’s Central Committee to lift the censorship ban on Panufnik’s music and name. In the same year, the “Warsaw Autumn” International Festival of Contemporary Music presented the first Polish performances of Panufnik’s works, such as Universal Prayer , a cantata for 4 solo voices, 3 harps, organ and mixed choir (1968-69), Dreamscape , vocalises for mezzo-soprano and piano (1976-77), Sinfonia mistica for orchestra (1977). In 1984 he became an honorary member of the Royal Academy of Music in London, and in 1987 – an honorary member of the Polish Composers’ Union (from which he had been removed in 1954). Also in 1987, Panufnik published in England his autobiography Composing Myself (whose authorised translation into Polish by Marta Glińska, entitled Panufnik o sobie [ Panufnik About Himself ], was published by Independent Publishing House in Warsaw in 1990). In 1990, he received the Award of the Polish Minister of Foreign Affairs for his contribution to Polish culture. In the same year, he visited Poland after 36 years of absence at the invitation of the 1990 “Warsaw Autumn” festival, during which 11 of his works were performed, including three which he conducted himself: Symphony No. 10 for orchestra (1988), Harmony , a poem for chamber orchestra (1989) and Violin Concerto (1971). In 1991, Andrzej Panufnik was knighted by the British Queen Elisabeth II and was henceforth entitled to be addressed as ‘Sir’. In the same year, he received the honorary doctorate of the Academy of Music in Warsaw. Posthumously, he was honoured with the Order of Polonia Restituta. See: www.panufnik.com and https://panufnik.polmic.pl/",
+  "birth": {
+    "place": "Warsaw",
+    "date": "24th September 1914",
+    "raw": "b. 24 th September 1914 in Warsaw"
+  },
+  "death": {
+    "place": "Twickenham",
+    "date": "27th October 1991",
+    "raw": "d. 27 th October 1991 in Twickenham"
+  },
+  "works": [
+    {
+      "title": "Trio for violin, cello and piano (1934)",
+      "year": "1934"
+    },
+    {
+      "title": "Five Folksongs for soprano or soprano choir and 5 wind instruments (1940)",
+      "year": "1940"
+    },
+    {
+      "title": "Tragic Overture for orchestra (1942)",
+      "year": "1942"
+    },
+    {
+      "title": "Jaworzyna March for small orchestral ensemble (1945-46)",
+      "year": "1945-46"
+    },
+    {
+      "title": "Nocturne for orchestra (1947)",
+      "year": "1947"
+    },
+    {
+      "title": "Divertimento after trios by Feliks Janiewicz for strings (1947)",
+      "year": "1947"
+    },
+    {
+      "title": "Lullaby for 29 string instruments and 2 harps (1947)",
+      "year": "1947"
+    },
+    {
+      "title": "Circle of Fifths for piano (1947)",
+      "year": "1947"
+    },
+    {
+      "title": "Sinfonia rustica for 8 wind instruments and two string orchestras (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "Hommage à Chopin – 5 vocalises for soprano and piano (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "Old Polish Suite for string orchestra (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "Symphony of Peace for choir and symphony orchestra (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "Gothic Concerto for trumpet, string orchestra, harp and kettledrums (1951-52)",
+      "year": "1951-52"
+    },
+    {
+      "title": "Heroic Overture for orchestra (1951-52)",
+      "year": "1951-52"
+    },
+    {
+      "title": "Quintet for flute, oboe, 2 clarinets and bassoon (1952-53)",
+      "year": "1952-53"
+    },
+    {
+      "title": "Rhapsody for orchestra (1956)",
+      "year": "1956"
+    },
+    {
+      "title": "Sinfonia elegiaca for orchestra (1957)",
+      "year": "1957"
+    },
+    {
+      "title": "Polonia – orchestral suite (1959)",
+      "year": "1959"
+    },
+    {
+      "title": "Piano Concerto (1961)",
+      "year": "1961"
+    },
+    {
+      "title": "Landscape , interlude for string orchestra (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Autumn Music for chamber orchestra without violins (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Two Lyric Pieces for young performers (1962-63)",
+      "year": "1962-63"
+    },
+    {
+      "title": "Sinfonia sacra for orchestra (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Song to the Virgin Mary for unaccompanied choir or 6 solo voices (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Hommage à Chopin for flute and small string orchestra (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Jagiellonian Triptych for string orchestra (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Katyń Epitaph for orchestra (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Reflections for piano (1968-69)",
+      "year": "1968-69"
+    },
+    {
+      "title": "Universal Prayer – cantata for 4 solo voices, 3 harps, organ and mixed choir (1968-69)",
+      "year": "1968-69"
+    },
+    {
+      "title": "Thames Pageant – cantata for young musicians and singers (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Concerto for violin and string orchestra (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Triangles for 3 flutes and 3 cellos (1971-72)",
+      "year": "1971-72"
+    },
+    {
+      "title": "Invocation for Peace – cantata for children’s voices, 2 trumpets and 2 trombones (or strings or woodwinds) (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Fanfare for Europe for 9 wind instruments (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Winter Solstice – cantata for solo voices, choir and instruments (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Sinfonia concertante for flute, harp and strings (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Sinfonia di Sfere for orchestra (1974-75)",
+      "year": "1974-75"
+    },
+    {
+      "title": "String Quartet No. 1 (1975-76)",
+      "year": "1975-76"
+    },
+    {
+      "title": "Love Song [1st version] for mezzo-soprano and piano (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Dreamscape – vocalise for mezzo-soprano and piano (1976-77)",
+      "year": "1976-77"
+    },
+    {
+      "title": "Sinfonia mistica for orchestra (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Metasinfonia for organ, strings and timpani (1977-78)",
+      "year": "1977-78"
+    },
+    {
+      "title": "Concerto festivo for orchestra (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Concertino for timpani, percussion and strings (1979-80)",
+      "year": "1979-80"
+    },
+    {
+      "title": "Paean [1st version] for brass ensemble (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Paean [2nd version] for 11 instruments (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "String Quartet No. 2 “Messages” (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Sinfonia votiva for orchestra (1980-81)",
+      "year": "1980-81"
+    },
+    {
+      "title": "Procession for Peace for orchestra (1982-83)",
+      "year": "1982-83"
+    },
+    {
+      "title": "Arbor Cosmica – 12 evocations for 12 string instruments (or string orchestra) (1983-84)",
+      "year": "1983-84"
+    },
+    {
+      "title": "Pentasonata for piano (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Concerto for bassoon and small orchestra (1984-85)",
+      "year": "1984-85"
+    },
+    {
+      "title": "Sinfonia di Speranza for orchestra (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Song to the Virgin Mary for string sextet (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "String Sextet “Trains of Thought” (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Symphony No. 10 for orchestra (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Harmony – a poem for chamber orchestra (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "A Prayer to the Virgin of Skępe for solo voice or choir in unison and organ (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "String Quartet No. 3 “Paper Cuts” (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Love Song [2nd version] for mezzo-soprano (or soprano), harp (or piano) and string orchestra (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Cello Concerto (1991)",
+      "year": "1991"
+    }
+  ],
+  "publications": "Panufnik Andrzej, Impulse and Design in my Music, Boosey and Hawkes, London 1974 Panufnik Andrzej, Composing Myself, Methuen, London 1987",
+  "bibliography": "Panufnik Andrzej, Impulse and Design in my Music, Boosey and Hawkes, London 1974 Maciejewski Bogusław M., Twelve Polish Composers, Allegro Press, London 1976 Glińska Marta, Panufnik o sobie [Panufnik About Himself], Niezależna Oficyna Wydawnicza, Warszawa 1990 Kaczyński Tadeusz, Andrzej Panufnik i jego muzyka [Andrzej Panufnik and His Music], Wydawnictwo Naukowe PWN, Warszawa 1990 Jacobson Bernard, A Polish Renaissance, Phaidon Press Ltd., London 1996 Siemdaj Ewa, “Pomiędzy uczuciem a intelektem. Geneza autorefleksji muzycznej Andrzeja Panufnika.” [“Between Emotion and Intellect. The Origins of Andrzej Panufnik’s Musical Autoreflection”]., Muzyka polska 1945-1995 [Polish Music 1945-1995], Akademia Muzyczna w Krakowie, Kraków 1996 Jaraczewska-Mockałło Krystyna, Andrzej Panufnik. Katalog dzieł i bibliografia [Andrzej Panufnik. Catalogue of Works and Bibliography], Akademia Muzyczna w Warszawie, Warszawa 1997 Bolesławska Beata, Panufnik, PWM, Kraków 2001 Paja-Stach Jadwiga, Panufnik Andrzej, In: PWM Music Encyclopaedia (biographical part, ed. by Elżbieta Dziębowska), vol. “n-pa”, PWM, Kraków 2002 Siemdaj Ewa, Andrzej Panufnik. Twórczość symfoniczna [Andrzej Panufnik. Symphonic Works], Akademia Muzyczna w Krakowie, Kraków 2003",
+  "slug": "panufnik-andrzej-en"
+}

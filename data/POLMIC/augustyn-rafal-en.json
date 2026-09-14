@@ -1,0 +1,331 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/a/augustyn-rafal-en",
+  "title": "Augustyn Rafał",
+  "name": "Augustyn Rafał",
+  "occupation": "promoter, composer, musicologist",
+  "is_composer": true,
+  "description": "Polish composer, music critic, scholar (Polish philology), b. Aug. 28, 1951 in Wrocław. In 1971-74 he studied composition with Ryszard Bukowski at the State Higher School of Music in Wrocław, subsequently – in 1975-78 – with Henryk Mikołaj Górecki at the State Higher School of Music in Katowice. Simultaneously he studied Polish philology at Wrocław University (1969-74). Since 1973 he has been on the faculty in the Institute of Polish Philology at Wrocław University. In 1979-80 he taught Polish at the State University of New York at Stony Brook, Department of Germanic and Slavic Languages. In 1982 he received a doctor's degree in philology. Rafał Augustyn has held the following scholarships: Stichting Eduard von Beinum, Foundation Acanthes, MacDowell Foundation, Salzburg Seminar (twice), Stiftung Kulturfonds. He has won several competitions for composers. In 1972 he received 1st prize in the \"Jazz on the Oder\" Festival for Rozmowa [ Conversation ] for big band, in 1973 – an honorable mention in the International Organ Competition in Szczecin for Laudes for organ (1973), in 1979 – 2nd prize in the Young Composers' Competition of the Polish Composers' Union for Atlantyda I [ Atlantis I ] for large orchestra (1979). His compositions have frequently been performed at the “Warsaw Autumn” and other Polish festivals, as well as in numerous European countries, in America and the Far East. In 2001, on the initiative of Christine Pryn, a series of concerts entitled “Rafał Augustyn and Denmark” was organised in the latter country with musicians from “Nordlys” ensemble. As a music critic, he has also published reviews in music and literary press as well as appearing on the Polish Radio and Television. In 1984-94, together with Marek Pijarowski, he was director of the \"Musica Polonica Nova\" Festival of Polish Contemporary Music in Wrocław. In 1980-98 he was a member of the Repertoire Committee of the \"Warsaw Autumn\" International Festival of Contemporary Music. He was co-founder of the \"Brevis\" Music Publishers.",
+  "birth": {
+    "place": "Wrocław",
+    "date": "Aug. 28, 1951",
+    "raw": "b. Aug. 28, 1951 in Wrocław"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Four Silesian Songs for mixed choir * (1970-71)",
+      "year": "1970-71"
+    },
+    {
+      "title": "Travel Pieces for piano (1971-82)",
+      "year": "1971-82"
+    },
+    {
+      "title": "String Quartet no. 1 (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Monosonata for piano * (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Three Calligrammes by Apollinaire for soprano or mezzo-soprano and piano (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Ballad for strings (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Klangfarbenmelodie for percussion quartet (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "En blanc et noir [1st version] for harpsichord * (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Romance for trombone, double-bass, kettledrums and two pianos (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Atlantis I for large orchestra (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Dedication for soprano and string quartet (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "En blanc et noir [2nd version] for harpsichord and chamber orchestra (1979-87)",
+      "year": "1979-87"
+    },
+    {
+      "title": "Carmina de tempore for soprano, piano and viola to words by early Polish poets (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "String Quartet no. 2 with flute ad libitum * (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "A Life’s Parallels for high-pitched voice and orchestra (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Atlantis II for large orchestra and choir (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Long Island Rail Road from Pennsylvania Station, N.Y.C. to Port Jefferson, Suffolk, L.I. (eastbound), Change at Huntington; or From Nathan Milstein to Paul Zukofsky, for solo violin, for Lasrom Tychy for violin and accompanying objects (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Last Year in Elsinore , two sketches for trumpet and piano (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Symphony of Hymns for two sopranos, trumpet, electronics, choir and orchestra (1984-2004)",
+      "year": "1984-2004"
+    },
+    {
+      "title": "Devil’s Frolics , a ballet in one act after Adam Münchheimer and Stanisław Moniuszko (1984-85)",
+      "year": "1984-85"
+    },
+    {
+      "title": "Sub Iove , nocturne for mixed choir * (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Cyclic Piece no. 1 for solo violin or violin ensemble * (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Three Roman Nocturnes for mixed choir * (1986-91)",
+      "year": "1986-91"
+    },
+    {
+      "title": "Varesiana for solo flute * (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Stela [1st version] for solo violin (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Variations on a Theme from Paganini for piano * (1987-89)",
+      "year": "1987-89"
+    },
+    {
+      "title": "Stela [2nd version] for string orchestra * (1987-91)",
+      "year": "1987-91"
+    },
+    {
+      "title": "A King for Seven Days , a pantomime (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Auftakt for orchestra (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Cyclic Piece no. 2 for solo amplified double-bass (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Five calligrammes by Apollinaire for soprano and piano * (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Szczebrzeszyn , five tongue twisters for three-part children’s choir * (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "SPHAE.RA (Cyclic Piece no. 3) , music in 24 parts for tapes and soloists (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Cantus puerorum, Sacra rappresentazione , a pantomime (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "A linea , 14 variations for cello and string orchestra (1994-95)",
+      "year": "1994-95"
+    },
+    {
+      "title": "In partibus , colloquium for men’s choir and piano (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Grand jeté. Quartet No. 2 1/2 with Electronics (1995-2005)",
+      "year": "1995-2005"
+    },
+    {
+      "title": "Cinque pezzi diversi per violino e pianoforte * (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Toccata festiva for symphony orchestra (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Per Sawa , short radio play for tape (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Miroirs for five performers (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Do ut des for string quartet (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Mass for soprano, alto, organ and choir (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Osobne , 4 poems by Miron Białoszewski for soprano, flute and harp (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "IMAGE/ILLUSION , a sound collection (audio-visual installation, prepared jointly with Jerzy Olek and Tadeusz Sawa-Borysławski) (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Nie ma nic , a madrigal in many parts to the composer’s own words for mixed choir (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Variations on a Theme by Maria Zduniak for tape or computer (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Au pair for violin and piano (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Itinerarium , concertino for orchestra and piano (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Little Narratives for instrumental ensemble, 2 speakers and electronics (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Against Method for violin solo (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Od Sasa. Sounds-Pauses-Events for mixed choir and found objects (2004-2005)",
+      "year": "2004-2005"
+    },
+    {
+      "title": "Shadow, Inc. A parable for four players after H. Ch. Andersen for clarinet, violin, cello and piano (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "A-4. Travel Impression for cello and piano (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "The Saragossa Manuscript , ballet in one act after Jan Potocki (2006-2007)",
+      "year": "2006-2007"
+    },
+    {
+      "title": "Vagor ergo sum. Little Cantata for mixed choir and gongs to words by Zbigniew Herbert, Emperor Hadrian and Italian State Railway (2008-2011)",
+      "year": "2008-2011"
+    },
+    {
+      "title": "Hinta-palinta for 3 performers (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Acqua alta. Cyclic Piece No. 4 for saxophone and electronics (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "SPHAE.RA – Cyclic Piece No. 3.2 , music in 24 movements for electronics and soloists (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Rondeau for wind quintet (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "String Quartet No. 3 „Monadologia“ (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Venta Quemada , suite from the ballet Manuscript Found in Saragossa for small orchestra and electronics (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Ricercar sopra il corale Es ist genug for clavichord and piano (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "First Reading. (Un)Parliamentary Rhapsody for two groups of performers, improvised composition (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Cinque pezzi diversi (Five Sundry Pieces) [2nd version] for clarinet, violin, cello and piano (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Krupówki. Cyclic Piece No. 5 for string ensemble (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Droning_Holm for viola and accordion (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Krótka rozprawa (studium z retoryki stosowanej dla trzech wykonawców) for flute, violin and cello (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Matrimonium. Cyclic Piece no. 6 for 2 flutes and piano (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Fotki z wakacji for violin ensemble and piano (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Przedtakt, electronic music [composed together with Cezary Duchnowski] (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Un moment éternel for chamber ensemble (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Omaggio a MPK. Cyclic Piece No. 7 for small and large instruments and video (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Quatre petite mazurkas pour Le Grand Jury for piano (2021-2022)",
+      "year": "2021-2022"
+    },
+    {
+      "title": "Verbalia III. Linguistic Rhapsody for voices, instruments, electronics and video (2022)",
+      "year": "2022"
+    },
+    {
+      "title": "Traffic . Collection of traveling pieces for piano quartet (2023)",
+      "year": "2023"
+    },
+    {
+      "title": "13 Plus for 13+ performers (2024)",
+      "year": "2024"
+    }
+  ],
+  "publications": null,
+  "bibliography": "An interview with the composer, a bibliography, and photos are available on the website for Dr. Marietta Morawska-Büngeler's book: https://duszadzwiekow.polmic.pl/kompozytor/rafal_augustyn/rafal_augustyn_wywiad",
+  "slug": "augustyn-rafal-en"
+}

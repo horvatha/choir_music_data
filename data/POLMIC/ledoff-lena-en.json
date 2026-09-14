@@ -1,0 +1,31 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/l/ledoff-lena-en",
+  "title": "Ledoff Lena",
+  "name": "Ledoff Lena",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Koncert na fortepian i orkiestrę symfoniczną \"Komeda\" (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Muzyka do spektakli i przedstawień teatralnych : Giovanni , reż. G. Jarzyna, Teatr Rozmaitości Bal pod Orłem , reż. Zbigniew Brzoza, Teatr Studio Śladami Okudżawy , Teatr Polonia w Warszawie Marianna i smoki , reż. Stefan Batonik, Teatr im. Bogusławskiego w Kaliszu (2011) Chcę do nieba. LeningradŁódź , Teatr Nowy w Łodzi (2013)",
+      "year": "2013"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "ledoff-lena-en"
+}

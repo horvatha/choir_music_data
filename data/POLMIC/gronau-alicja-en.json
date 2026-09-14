@@ -1,0 +1,383 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/g/gronau-alicja-en",
+  "title": "Gronau Alicja",
+  "name": "Gronau Alicja",
+  "occupation": "promoter, composer, musicologist",
+  "is_composer": true,
+  "description": "composer and scholar; b. 7 th December 1957 in Warsaw. She was graduated theory of music (with prof. Witold Rudzinski), composition (with prof. Marian Borkowski) and Postgraduate Studies of Music Theory (all with distinctions) at the Warsaw Chopin Academy of Music. At present she is assistant professor (adiunkt) in that Academy in the Chair of Composition, in which she’s head of Polish Contemporary Music Laboratories. She participated in many international composing courses organized by Polish Society of Contemporary Music (PTMW). Her pieces were awarded of many composing competitions at home and abroad. The most significant are: 1st prize at T. Baird Polish Composers’ Society Competition for Young Composers (for OKNA/Windows , Warsaw 1992), 4th prize at Schola Cantorum Gedanensis Choir Composers’ Competition (for Mironczarnie II , Gdansk 1992), distinction at Polish Composers’ Union (for Pentarchia , Warsaw 1987), 1st prize at Prof. Ivan Spassov Composers’ Competition (for Invocazione – Sinfonia Vocale , Plovdiv, Bulgaria, 2001), 1st prize at Garden Music Composers’ Competition (for Poblyski , Krakow, 2001), 1st prize at Opera na Zamku Composers’ Competition (for I co wy na to? czyli cierpienia nowego Pirandella , Szczecin 2002). She is also a prize-winner of the Special Prize of Ministry of Art and Culture and the Wawrzyniec Zulawski Grant by ZAiKS (Polish Authors’ Society). Her pieces were often performed during festivals: International Young Composers’ Forum, Warsaw Music Days, Zamosc Music Days, Bydgoszcz Music Festival, Gdansk Meeting of Young Composers’, Laboratory of Contemporary Music, 7th European Youth Music Festival (Bern, Switzerland), Warsaw Autumn. Her pieces were recorded on CD (one of them was nominated for Fryderyk Prize – famous polish music prize). Her didactic and science activity is concentrated on creative teaching, Dalcroze Method, integrated education, complete music analysis, musical-movement analysis, studies in 20th century music, compositional workshop and technique. She is co-authoress of two books and authoress of one as well as many lectures and publications. She is a guest professor at Warsaw University, Zielona Góra University, Pomeranian Pedagogical Academy, Podlaski University.",
+  "birth": {
+    "place": "Warsaw",
+    "date": "7th December 1957",
+    "raw": "b. 7 th December 1957 in Warsaw"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Trzy pieśni na mezzosopran i fortepian (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Przenikanie for clarinet solo (1981-83)",
+      "year": "1981-83"
+    },
+    {
+      "title": "Gioco per voci e batteria (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "In tre parte na orkiestrę kameralną (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Mironczarnie I na sekstet wokalny a cappella (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Flowing for two symphonic orchestras (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Open for clarinet, french horn and viola (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "String Quartet (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Versioni for 24 performers’ (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Hiob for choirs and symphonic orchestra (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Pentarchia for chamber string orchestra (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Passaggio per batteria (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Scena for percussionist solo (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Wyliczanki for 6-voices kinders’ choir (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Okna for 23 string instruments (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Mironczarnie II for mixed choir a cappella (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Paralele for two symphonic orchestra ensembles (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Progres for flute solo (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Afirmacje chamber cantata for soprano, mezzosoprano, alt and orchestra (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "String Quartet II (1996-97)",
+      "year": "1996-97"
+    },
+    {
+      "title": "Progres II for clarinet solo (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Invocazione sinfonia vocale (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Błogosławiony for 3 mixed choirs (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Pobłyski for soprano and chamber orchestra (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Divertimento per il Divertimento for chamber orchestra (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Re-Garden Music for wood wind sextet (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Sei canti latini per il coro femminile (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Hejnał Gdański for trumpet solo or for brass wind quintet and timpani (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Aletheia per orchestra (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Offrande pour orchestre des flutes (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "I co wy na to? czyli cierpienia nowego Pirandella , chamber opera for 6 soloists, choir and chamber orchestra (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Ekspresyjny rytm swobodny. Minimultimedialny happening chwilowy for improvising musical-movement ensemble, recitator and tape (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Naprawdę „Ciało jako instrument” for improvising musical-movement soloist (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Rytm swobody for any improvising ensemble (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Veni. Illumina. Gloria per il coro a cappella (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Marianiana. Selection For Four for improvising ensemble (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Trzy kotwice: Nadzieja – Miłość – Wiara , cykl pieśni do słów Stanisławy Gronau na sopran, flet, fortepian i perkusję (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Improwizacjo! Ty nad poziomy… for improvising musical-movement soloist and tape (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Poemat – Requiem for symphony orchestra (2005-2006)",
+      "year": "2005-2006"
+    },
+    {
+      "title": "Agnezioni for flute solo (per Agnes) (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Suita Krasnobrodzka. Koncert poczwórny for flute, organ, violin, cello and string orchestra (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Suita Krasnobrodzka. Koncert poczwórny na flet, organy, skrzypce, wiolon­czelę i orkiestrę smyczkową [wersja II] (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Lapidaria for saxophone sopran and alto and violin [1st version] (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Lapidaria for saxophone sopran, alto, violin and improvising musical-movement ensemble [2nd version] (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "7 Walców minutowych for flute and piano (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Three Songs for soprano, mezzo-soprano, alto and string quartet to the texts of the psalms: O Panie (Psalm 8), Niech błogosławi (Psalm 67), Dziękczynienie (Psalm 100 i 29) (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Rozmowa dwóch młodych perkusistów: Stasia i Ignasia , percussion duo for 2 xylophones (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Miłe – miłego początki for improvising ensemble and electronic sound layer [together with Małgorzata Krawczak and Aldona Nawrocka; scenography: Magdalena Wajzner] (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Marsz perkusistów dla dwóch wykonawców for percussion instruments (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Last of February for String Quartet (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Anielskie podzwonne for prepared piano to own words (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Quartango for marimba (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Sambattro for 4 percussionists (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Holy Week for any vocal ensemble and 2 percussions (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Prolog, kwartango and sambartet for percussion and strings (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Tree of Life , collective composition with Anna Ignatowicz-Glińska, Magdalena Wajzner, Małgorzata Lewandowska and Agata Chodyra; multimedia composition: music, film, movement (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Agnezioni II per flauto solo (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Prolog, kwartango i sambartet for percussion and strings (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Winter is icumen for 7 saxophones (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Winter is icumen in II for alto saxophone and piano (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Kilka spojrzeń na Paulę for string quartet (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Drabiną do …? , 5 variations for 3 percussionists (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Dwojakość – wspomnie-nie , audioscene for improvising with movement and voice dancer or actor (with Aleksandra Dziurosz) (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Sześć spojrzeń na Paulę , music-art-movement spectacle for string quartet, visualisation and dancers (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Zwei selbsverfasste Lieder for mezzo-soprano and piano: 1. Bedauern 2. Schmerz (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Trans-Baltic Bridge for chamber ensemble (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "The Struggle Between Winter and Summer for 12-part mixed choir (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "The Struggle Between Summer and Winter II for vocal sextet (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Wandering for harp and double bass (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Lapidaria II (Alicja, Canto, Chorale, Dorota, Alicja and Dorota) for soprano saxophone and alto saxophone (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Cells, collective composition for 2 pianos and 2 percussions (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Critical Apology, collective composition for solo reciter (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "From Sweden to Poland, 6 miniatures for piano solo (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Lapidary Impressions for 2 saxophones and visualisations (with Paula Jaszczyk) (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Na / Alicję / symfoniczną / Poemat / Gronau, audiovisual collage (with Mateuszem Kajma and Jakub Tscherse) (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Pięć myślowych prowokacji for soprano and string quartet to words by Krzysztof Bilica (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Dźwiękopole for soprano saxophone and string quartet (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Trois fresques maritimes sur le paroles originales de l’auteur (Trzy freski nadmorskie do słów własnych) for 2 sopranos, 2 violins and symphony orchestra (hommage à Tadeusz Paciorkiewicz) (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Multidramma nelle parole dell’autore con l'improvvisazione nello stile della commedia dell'arte per clarinetto (anche basso), Soprano, Yamaha Disklavier (pianoforte MIDI), quartetto d'archi e contrabbasso (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Dedication for soprano, flute and string quartet (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Winter is icumen in IV for soprano saxophone and piano (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Accipe animam meam for organ solo (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Non-existent street for saxophone quartet (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Suita Krasnobrodzka II for flute, violin, piano and string orchestra (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Five Minute Studies for wind quintet (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Pejzaż osobisty for trumpet solo (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Aviators Square for wind quintet (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Sierpc we mgle for string orchestra (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Splątanie from the cycle Meandry for string quartet and spatial figure with visualisation (with Paula Jaszczyk) (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Lapidaria Moniuszkowskie for alto saxophone and piano (2019)",
+      "year": "2019"
+    }
+  ],
+  "publications": "books Gronau Alicja, Kazem-Bek Jan, Stowpiec Mariusz, Nowe pokolenie kompozytorów polskich – Almanach, „Pomorze”, Bydgoszcz 1988 Gronau Alicja, Turska Barbara, Podstawy metody rytmiki – wybrane zagadnienia i doświadczenia, Akademia Muzyczna w Warszawie, Warszawa 1992 Rytmika w Akademii Muzycznej im. F. Chopina w Warszawie , t. I: lata 1974–1988 , Akademia Muzyczna w Warszawie, Warszawa 2004 Poemat – Requiem. Forma znacząca , Akademia Muzyczna w Warszawie, Warszawa 2007 Lucjan Kaszycki. Kompozytorzy Uniwersytetu Muzycznego, [wspólnie z Aldoną Nawrocką, Wacławem Pankiem, Bartłomiejem Walusiem], UMFC, Warszawa 2012 articles & papers Wielowarstwowość / Poliwarstwowość / Multiwarstwowość , w: I Sympozjum Kompo­zy­torskie Akademii Muzycznej im. F. Chopina , (pod red. Alicji Gronau-Osińskiej), Zeszyt Naukowy nr 42, Akademia Muzyczna w Warszawie, Warszawa 1999 Finał \"VII Symfonii C-dur\" Franciszka Schuberta jako autorskie rozwiązanie inte­gracji formy allegra sonatowego , w: Muzyka a analiza, integracja, filozofia (pod red. Alicji Gronau-Osińskiej), Akademia Muzyczna w Warszawie, Warszawa 2000 Analiza \"Polichromii\" Zygmunta Krauzego na podstawie tez Umberto Eco , w: Analiza – Interpretacja – Recepcja. W stronę rozumienia muzyki (pod red. Alicji Gronau-Osińskiej), Zeszyt Naukowy nr 52, Akademia Muzyczna w Warszawie, Warszawa 2001 Przestrzeń w myśleniu kompozytorskim, w: Matematyka. Społeczeństwo. Nauczanie , nr 30, Akademia Podlaska, Ośrodek Kultury Matematycznej, Siedlce 2003 Twórczość wokalna i wokalno-instrumentalna Piotra Perkowskiego – typologia i idio­matyka , w: Piotr Perkowski. Życie i dzieło (pod red. Alicji Gronau-Osińskiej), Akademia Muzyczna w Warszawie, Warszawa 2003 Zakorzenieni w tradycji, „Wychowanie Muzyczne w Szkole” 2004 nr 2, s. 58-63 Twórczość wokalna i wokalno-instrumentalna Witolda Rudzińskiego, w: Wokół tw­órczości Witolda Rudzińskiego (pod red. Alicji Gronau-Osińskiej), Akademia Muzyczna w Warszawie, Warszawa 2004 Wybrane problemy techniki kompozytorskiej w „Enantiodromii” Jani Christou, w: Teksty o muzyce współczesnej . Zeszyt Naukowy nr 59 (pod red. Alicji Gronau-Osińskiej), Akademia Muzyczna w Warszawie, Warszawa 2004 Wołanie , w: Ekspresja formy – ekspresja treści. Marianowi Borkowskiemu w siedem­dzie­sięciolecie urodzin (pod red. Alicji Gronau-Osińskiej), Akademia Muzyczna w Warszawie, Warszawa 2004 Echa innych kultur w muzyce współczesnej, w: Muzyka i pedagogika pomiędzy kulturami. Okcydent i orient (pod red. Jarosława Chacińskiego), Pomorska Akademia Pedago­gicz­na, Słupsk 2005 Klasyczna technika muzyczna: polifonia – dawniej i dziś , w: Matematyka. Społeczeństwo. Nauczanie nr 34, Akademia Podlaska, Ośrodek Kultury Matematycznej, Siedlce 2005 Uniwersalizm przekazu w indywidualnej formie , „Musica Sacra Nova” 2007 nr 1, s. 180-203 Wpływ rozwiązań technologiczno-formalnych i estetycznych Iannisa Xenakisa na moją twórczość , w: Dzieło muzyczne. Rezonans (pod red. Anny Nowak), Akademia Muzyczna w Bydgoszczy, Bydgoszcz 2008 Działalność pedagogiczna Mariana Borkowskiego , „Musica Sacra Nova” 2008 nr 2, s. 111–175 Integracja formy w 'Poemacie-Requiem' na orkiestrę symfoniczną , w: Muzyka symfoniczna kompozytorów UMFC (pod red. Alicji Gronau-Osińskiej), Uniwersytet Muzyczny Fryderyka Chopina, Warszawa 2009 The intergration of Form in The 'Poem-Requiem' for Symphony Orchestra , w: Revista Artes vol. 9-10, Centrul de Cercetari „Stiinta Muzisii”, Universitatea de Arte „George Enescu”, Iasi 2010 Był improwizatorem – intuicjonistą. Rozmowa Alicja Gronau-Osińskiej z Marcinem. T. Łukaszewskim , w: Marian Sawa in memoriam. Wspomnienia, rozmowy, refleksje (pod red. Marcina T. Łukaszewskiego), Towarzystwo im. Mariana Sawy, Warszawa 2010 Miałem dużo szczęścia i satysfakcji. Z Lucjanem Kaszyckim rozmawiają Aldona Nawrocka i Alicja Gronau-Osińska, w: Lucjan Kaszycki. Kompozytorzy Uniwersytetu Muzycznego , UMFC, Warszawa 2012 Indywidualny horyzont postrzegania, w: Spotkania z Mistrzem. Marian Borkowski w oczach uczniów i przyjaciół , Musica Sacra, Warszawa 2014 Ruch – bezruch. Inspiracje obrazem i dźwiękiem w poszukiwaniu syntezy, w: Piękno zespolić ze sobą. Korespondencja na styku sztuk [wspólnie z Paulą Jaszczyk], UMFC, Warszawa 2015 Próba podsumowania doświadczeń Eksperymentalnego Warsztatu Rytmiki, w: Instytut Pedagogiki Muzycznej PWSM/AMFC w Warszawie (1974-1992) , red. Mirosława Jankowska, Wojciech Jankowski, Chopin University Press, Warszawa 2016 Forma znacząca w warsztacie kompozytora współczesnego , w: Analiza dzieła muzycznego. Historia – theoria – praxis , red. Anna Granat-Janki, t. IV, Akademia Muzyczna we Wrocławiu, Wrocław 2016 Chwytanie wrażeń. Dwojakie ujęcie przez kompozytorkę i plastyczkę, w: Pulchritudo delectans. Korespondencja na styku sztuk , red. Karol Klauza, Joanna Cieślik-Klauza, [wspólnie z Paulą Jaszczyk], Białystok 2017 Zawartość fresku w \"3 Freskach nadmorskich\" - autoanaliza, w: Ars inter disciplinis. Korespondencja na styku sztuk , red. Joanna Cieslik-Klauza, Magdalena Gajl, Tomasz Baranowski, Białystok 2018 Sześć obrazów polskiej współczesnej muzyki kameralnej z teki kompozytorów Uniwersytetu Muzycznego Fryderyka Chopina, Chopin University Press, „Musica Intellectualis” nr 2, 2018 Zanurzony w kulturze. Narodowy czy uniwersalny?, w: Interpretacje dzieła muzycznego. Narodowość a wartości uniwersalne , red. Anna Nowak, Akademia Muzyczna w Bydgoszczy, Bydgoszcz 2019 Marian Borkowski jako mistrz pedagogiki twórczości, w: Wymiary czasu, przestrzeni i ciszy w muzyce Mariana Borkowskiego , red. Alicja Gronau-Osińska, Chopin University Press, Warszawa 2019 Próba typologii ciszy w muzyce na przykładzie własnej twórczości, w: Barwy ciszy , red. Tomira Rogala, Warszawa 2019",
+  "bibliography": "Łukaszewski Marcin Tadeusz, Gronau Alicja Dorota, Akademia Muzyczna w Warszawie, Warszawa 2004",
+  "slug": "gronau-alicja-en"
+}

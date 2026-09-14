@@ -1,0 +1,187 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/s/sikorski-kazimierz-en",
+  "title": "Sikorski Kazimierz",
+  "name": "Sikorski Kazimierz",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Motet na chór i orkiestrę smyczkową (1915)",
+      "year": "1915"
+    },
+    {
+      "title": "Kwartet smyczkowy nr 1 (1915)",
+      "year": "1915"
+    },
+    {
+      "title": "Motet na chór i organy (1915)",
+      "year": "1915"
+    },
+    {
+      "title": "Psalm VII na chór i orkiestrę smyczkową (1915)",
+      "year": "1915"
+    },
+    {
+      "title": "Suita na orkiestrę smyczkową (1917)",
+      "year": "1917"
+    },
+    {
+      "title": "Kwartet smyczkowy nr 2 (1918)",
+      "year": "1918"
+    },
+    {
+      "title": "Symfonia nr 1 (1919)",
+      "year": "1919"
+    },
+    {
+      "title": "Sekstet smyczkowy d-moll na dwoje skrzypiec, dwie altówki i dwie wiolonczele (1920)",
+      "year": "1920"
+    },
+    {
+      "title": "Suita ludowa na orkiestrę (1921)",
+      "year": "1921"
+    },
+    {
+      "title": "Symfonia nr 2 (1921)",
+      "year": "1921"
+    },
+    {
+      "title": "Czemuście mnie , śląska pieśń ludowa na chór mieszany a cappella (1934)",
+      "year": "1934"
+    },
+    {
+      "title": "Kwartet smyczkowy nr 3 (1939)",
+      "year": "1939"
+    },
+    {
+      "title": "Stabat Mater [wersja I], oratorium na bas, chór mieszany i organy (1943)",
+      "year": "1943"
+    },
+    {
+      "title": "Uwertura na małą orkiestrę (1945)",
+      "year": "1945"
+    },
+    {
+      "title": "Obrazki wiejskie , suita na małą orkiestrę (1945)",
+      "year": "1945"
+    },
+    {
+      "title": "Allegro symfoniczne na orkiestrę (1946)",
+      "year": "1946"
+    },
+    {
+      "title": "Koncert na klarnet i orkiestrę (1947)",
+      "year": "1947"
+    },
+    {
+      "title": "Leć głosie po rosie , kurpiowska pieśń ludowa na chór mieszany a cappella (1947)",
+      "year": "1947"
+    },
+    {
+      "title": "Na środku pola , kurpiowska pieśń ludowa na chór mieszany a cappella (1947)",
+      "year": "1947"
+    },
+    {
+      "title": "Mazurek kurpiowski na chór mieszany a cappella (1947)",
+      "year": "1947"
+    },
+    {
+      "title": "Hej, zabujały , pieśń ludowa rekrutów z czasów niewoli na chór mieszany a cappella (1947)",
+      "year": "1947"
+    },
+    {
+      "title": "Pójdziesz ty , kujawska pieśń ludowa na chór mieszany a cappella (1947)",
+      "year": "1947"
+    },
+    {
+      "title": "Koncert na róg i małą orkiestrę (1948-49)",
+      "year": "1948-49"
+    },
+    {
+      "title": "Suita z Istebnej na małą orkiestrę symfoniczną (1948-51)",
+      "year": "1948-51"
+    },
+    {
+      "title": "Mazurek [wersja I] na głos i fortepian (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "Matulu moja , pieśń na głos i fortepian (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "Stabat Mater [wersja II], oratorium na cztery głosy solowe, chór i wielką orkiestrę (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "Mazurek [wersja II] na głos i orkiestrę (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "Symfonia nr 3 w formie Concerto grosso (1953-55)",
+      "year": "1953-55"
+    },
+    {
+      "title": "Uwertura popularna na orkiestrę (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "Koncert na flet i orkiestrę (1957)",
+      "year": "1957"
+    },
+    {
+      "title": "Koncert na trąbkę, orkiestrę smyczkową i perkusję (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Six Old Polish Dances na orkiestrę (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Koncert polifoniczny na fagot i orkiestrę (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Koncert na obój i orkiestrę (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Symfonia nr 4 (1968-69)",
+      "year": "1968-69"
+    },
+    {
+      "title": "Koncert na puzon i orkiestrę (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Cztery polonezy wersalskie na orkiestrę smyczkową (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Symfonia nr 5 (1978-79)",
+      "year": "1978-79"
+    },
+    {
+      "title": "Trzy kanony na jeden temat na orkiestrę smyczkową (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Symfonia nr 6 (1983)",
+      "year": "1983"
+    }
+  ],
+  "publications": "books Instrumentoznawstwo, TWMP, Warszawa 1932 Harmonia, cz. I, II, III, PWM, Kraków 1948-49 Kontrapunkt, cz. 1 Gatunki , PWM, Kraków 1953 Kontrapunkt, cz. 2 Kanon , PWM, Kraków 1954 Kontrapunkt, cz. 3 Fuga , PWM, Kraków 1957 Harmonia. Podręcznik dla średnich szkół muzycznych, cz. I, II, PWM, Kraków 1960-61 Harmonia. Podręcznik dla średnich szkół muzycznych., Zbiór zadań i przykładów , PWM, Kraków 1965",
+  "bibliography": "Kowalczyk Henryka, Jaraczewska-Mockałło Krystyna, Kazimierz Sikorski. Życie i twórczość. W 100-lecie urodzin Profesora, Akademia Muzyczna w Warszawie, Warszawa 1995 Peret-Ziemlańska Zofia, Kazimierz Sikorski (1895-1986), Akademia Muzyczna w Warszawie, Warszawa 1999 Peret-Ziemlańska Zofia, Profesor Kazimierz Sikorski - wspomnienie w stulecie urodzin, Akademia Muzyczna w Warszawie, Warszawa 1999 Peret-Ziemlańska Zofia, Moje trzynaście lat z Kazimierzem Sikorskim. Wspomnienia Adeli Sikorskiej, Akademia Muzyczna w Warszawie, Warszawa 1999 Peret-Ziemlańska Zofia, Kazimierz Sikorski - wspomnienie, Akademia Muzyczna w Warszawie, Warszawa 1999 Szoka Marta, Sikorski Kazimierz, Akademia Muzyczna w Łodzi, Łódź 2001",
+  "slug": "sikorski-kazimierz-en"
+}

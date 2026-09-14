@@ -1,0 +1,103 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/s/szymonowicz-zbigniew-en",
+  "title": "Szymonowicz Zbigniew",
+  "name": "Szymonowicz Zbigniew",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Mazurek nr 1 cis-moll na fortepian solo (1938)",
+      "year": "1938"
+    },
+    {
+      "title": "Mazurek nr 2 fis-moll na fortepian solo (1938)",
+      "year": "1938"
+    },
+    {
+      "title": "Preludium gis-moll na fortepian solo (1938)",
+      "year": "1938"
+    },
+    {
+      "title": "Preludium b-moll na fortepian solo (1938)",
+      "year": "1938"
+    },
+    {
+      "title": "Wariacje na skrzypce i fortepian (1940)",
+      "year": "1940"
+    },
+    {
+      "title": "Mazurek nr 3 es-moll na fortepian solo (1940)",
+      "year": "1940"
+    },
+    {
+      "title": "Nokturn na skrzypce i fortepian (1940)",
+      "year": "1940"
+    },
+    {
+      "title": "Mazurek nr 4 D-Dur na fortepian solo (1941)",
+      "year": "1941"
+    },
+    {
+      "title": "Mazurek nr 5 na fortepian solo (1941)",
+      "year": "1941"
+    },
+    {
+      "title": "Preludium i toccata na fortepian solo (1941)",
+      "year": "1941"
+    },
+    {
+      "title": "Pieśni do słów Marii Konopnickiej i Leopolda Staffa na głos z fortepianem (1941-43)",
+      "year": "1941-43"
+    },
+    {
+      "title": "Mazurek nr 6 na fortepian solo (1943)",
+      "year": "1943"
+    },
+    {
+      "title": "Koncert fortepianowy (1956)",
+      "year": "1956"
+    },
+    {
+      "title": "Wariacje i Fuga na temat B-A-C-H na dwa fortepiany (1957)",
+      "year": "1957"
+    },
+    {
+      "title": "Szkice programowe , suita na orkiestrę symfoniczną (1961)",
+      "year": "1961"
+    },
+    {
+      "title": "Concertino na fortepian i małą orkiestrę symfoniczną (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Tryptyk na fortepian solo (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Dialogi na fortepian, orkiestrę smyczkową i perkusję (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Per aspera na orkiestrę symfoniczną (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Miniatury na fortepian i orkiestrę (1973)",
+      "year": "1973"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Bęben Aleksandra, Szymonowicz Zbigniew, Akademia Muzyczna w Łodzi, Łódź 2001",
+  "slug": "szymonowicz-zbigniew-en"
+}

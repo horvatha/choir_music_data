@@ -1,0 +1,47 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/s/strobel-janusz-en",
+  "title": "Strobel Janusz",
+  "name": "Strobel Janusz",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Vorfall na zespół jazzowy (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Pięć Preludiów na zespół jazzowy (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Preludium urodzinowe na zespół jazzowy (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Wybrane piosenki : Boża piąstka , piosenka do słów J. Wołka Chcę z tobą być , piosenka do słów J. Kofty Chrońmy dzieci , piosenka do słów W. Młynarskiego Coś nie tak , piosenka do słów J. Wołka Czas nie przyszedł , piosenka do słów J. Kofty Do góry dnem , piosenka do słów J. Wołka Dzieci , piosenka do słów K. Wojtyły Głupi albo gra , piosenka do słów J. Wołka Jestem przypadkiem , piosenka do słów J. Strobla Jeśli w nas , piosenka do słów J. Wołka Jeśli musisz kłamać , piosenka do słów J. Wołka Księżyc w nowiu , piosenka do słów J. Kofty Motyle , piosenka do słów J. Strobla Nieobecni , piosenka do słów J. Kofty O kominiarzu panu Stanisławie , piosenka do słów J. Wołka Parafraza , piosenka do słów K. Wojtyły Piosenka o pośpiechu , piosenka do słów J. Kofty Pośpij jeszcze , piosenka do słów J. Wołka Przygody Rafałka i karpia Polikarpa , piosenka do słów J.Wołka Rozpustna piosenka kolejowa , piosenka do słów J. Wołka Tak młodo jak teraz , piosenka do słów J. Wołka To nie miało być o łzach , piosenka do słów J. Wołka Trzeba marzyć , piosenka do słów J. Kofty Vorfall , piosenka do słów J. Strobla Warunki stawiam ja , piosenka do słów J. Wołka W duecie z Mieciem , piosenka do słów J. Cygana Więc tak , piosenka do słów J. Wołka W moim magicznym domu , piosenka do słów M. Czapińskiej W środku ważnych dat , piosenka do słów J. Wołka Zapatrzony , piosenka do słów J. Kofty Zawołałam za późno , piosenka do słów J. Kofty Zdarzyło mi się coś takiego , piosenka do słów J. Strobla Ździebełko ciepełka , piosenka do słów J. Kofty (i inne)",
+      "year": null
+    },
+    {
+      "title": "Muzyka do spektaklu muzyczno-poetyckiego Strofy dla ciebie (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Muzyka do spektaklu poetyckiego Miłość w reż. Janusza Kukuły (2015)",
+      "year": "2015"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "strobel-janusz-en"
+}

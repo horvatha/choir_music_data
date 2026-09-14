@@ -1,0 +1,103 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/m/michalek-stanislaw-en",
+  "title": "Michalek Stanisław",
+  "name": "Michalek Stanisław",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": "conductor and composer; b. 20th May 1925 in Kraków; d. 6th July 1997 in Opole. In the years 1937-39 he studied at the Władysław Żeleński Music School in Kraków. After World War II, he studied conducting with Walerian Bierdiajew and then with Witold Krzemieński at the State Higher School of Music in Kraków (diploma in 1952). He developed his conducting skills during master classes with Paweł Klecki in Prague. He also started composition studies with Artur Malawski at the Academy of Music in Kraków and continued them with Stefan Bolesław Poradowski at the State Higher School of Music in Wrocław (diploma in 1957). He was the music director of the Groteska Theatre in Kraków (1945-49), the conductor of the Wrocław Opera (1952-54), the first conductor and artistic director of the Polish Radio Orchestra in Wrocław (1953-1958), the conductor and artistic director of the Opole Symphony Orchestra (1959-1971), the conductor and artistic director of the Rzeszów Philharmonic (1971-76). He performed at various music festivals in Poland, including the Moniuszko Festival in Kudowa-Zdrój, Henryk Wieniawski Festival in Szczawno-Zdrój, Polish Contemporary Music Festival in Wrocław), as well as abroad. He has made over 200 world premieres, mainly of works by Polish composers. He was a winner of many composition competitions. In 1950 he received an honorable mention at the Bach Competition for Prelude and Toccata for piano, in 1964 – an honorable mention at the Art Festival of the Western and Northern Lands in Opole for Overture for orchestra, in 1962 – the 2nd prize at the \"Opole Spring\" Composition Competition for Music for string quartet . Stanisław Michalek was a member of the Polish Composers' Union from 1982. updated: 2020 (ac)",
+  "birth": {
+    "place": "Kraków",
+    "date": "20th May 1925",
+    "raw": "b. 20th May 1925 in Kraków"
+  },
+  "death": {
+    "place": "Opole",
+    "date": "6th July 1997",
+    "raw": "d. 6th July 1997 in Opole"
+  },
+  "works": [
+    {
+      "title": "Poem abut love and death for piano and reciting ensemble (1945)",
+      "year": "1945"
+    },
+    {
+      "title": "Three songs for soprano and piano (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "Miniatures for piano (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "Prelude and Toccata for piano (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "Variations on a Lower Silesian folk song for orchestra (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "Allegro for orchestra (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "A Book , pantomime sketch for seven instrumentalists (1957)",
+      "year": "1957"
+    },
+    {
+      "title": "Pantomime Suite for orchestra (1958)",
+      "year": "1958"
+    },
+    {
+      "title": "Music for string quartet (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Working-class oratorio for orchestra and actors ensemble (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Offertoria for symphony orchestra (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Suite for 3 flutes (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Variations for piano (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Four bagatelles for flute, oboe and violin (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Overture for orchestra (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Popular suite for symphony orchestra (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Chorale and 6 variations for piano (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Five miniatures for flute, oboe and clarinet (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Homophonic variations for orchestra (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Variations on a folk theme for orchestra (1974)",
+      "year": "1974"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "michalek-stanislaw-en"
+}

@@ -1,0 +1,347 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/j/jablonski-henryk-hubertus-en",
+  "title": "Jabłoński Henryk Hubertus",
+  "name": "Jabłoński Henryk Hubertus",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Dwie suity polskie na orkiestrę (1945-46)",
+      "year": "1945-46"
+    },
+    {
+      "title": "Kwartet smyczkowy (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "Suita chmur na orkiestrę (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "Trio na flet, klarnet i wiolonczelę (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "Uwertura „Jubileuszowa” na orkiestrę (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "Młodość , poemat symfoniczny (1949-51)",
+      "year": "1949-51"
+    },
+    {
+      "title": "Uwertura „Gdańska” na orkiestrę (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "Z Wybrzeża , kantata na baryton, recytatora, chór mieszany i orkiestrę (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "Suita na orkiestrę (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Symfonia nr 1 „Kaszubska” na orkiestrę (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Wyzwolenie Wybrzeża , poemat symfoniczny (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Suita na flet, klarnet, fortepian, klawesyn i smyczki (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Sonatina na wiolonczelę lub altówkę (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Groteska na 2 pikuliny i orkiestrę (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Sonata na wiolonczelę solo (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Symfonia nr 2 (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "Sonata na skrzypce i wiolonczelę (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "Bagatela na fagot i orkiestrę (1956)",
+      "year": "1956"
+    },
+    {
+      "title": "Koncert na wiolonczelę i orkiestrę (1959)",
+      "year": "1959"
+    },
+    {
+      "title": "Drei Stücken na orkiestrę mandolinową (1959)",
+      "year": "1959"
+    },
+    {
+      "title": "Koncert na flet i orkiestrę (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Pomorski szumi wiatr na chór mieszany a cappella (1961)",
+      "year": "1961"
+    },
+    {
+      "title": "Muzyka na skrzypce i fortepian (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Tryptyk ( Improwizacja ) na organy (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "La stelo de l’espero na flet, harfę, czelestę, perkusję i smyczki (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Trzy fantazyjne tańce polskie na orkiestrę (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Trzy miniatury na 3 klarnety (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Trzy utwory na 3 klarnety (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Allegro symfoniczne na orkiestrę (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Cztery pieśni do słów Juliana Tuwima [wersja I] na sopran i orkiestrę (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Cztery pieśni do słów Janiny Kątkowskiej [wersja I] na głos wysoki i fortepian (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Cztery pieśni do słów Janiny Kątkowskiej [wersja II] na sopran, harfę, smyczki i perkusję (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Milliarium na wiolonczelę i 11 instrumentów (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Janko Muzykant , poemat symfoniczny (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Cztery pieśni do słów Juliana Tuwima [wersja II] na sopran i fortepian (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Janko Muzykant , widowisko baletowe (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Freski na skrzypce solo i orkiestrę (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Siedem improwizacji na wiolonczelę i fortepian (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Frak , widowisko baletowe (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "C-67 na wiolonczelę i orkiestrę (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Tryptyk na 3 wiolonczele (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Suita na wiolonczelę i fortepian (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Koncert na trąbkę i orkiestrę (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Koncert na skrzypce i orkiestrę (1968-69)",
+      "year": "1968-69"
+    },
+    {
+      "title": "Suita organowa (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Gdańska noc , widowisko baletowe na głosy solowe, recytatora, 2 chóry mieszane i orkiestrę (1969-70)",
+      "year": "1969-70"
+    },
+    {
+      "title": "Espressione per violoncello ed archi (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Lieder zu Gedichten von Johannes Bobrowski [wersja I] na sopran i fortepian (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Lieder zu Gedichten von Johannes Bobrowski [wersja II] na sopran i orkiestrę (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Suita na obój, fagot i fortepian (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Trzy inwencje na 3 wiolonczele (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Trzy obrazy muzyczne na wiolonczelę i fortepian (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Capriccio per orchestra (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Capriccio na wiolonczelę solo (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Gromnicznik , 4 pieśni na sopran i bas z towarzyszeniem fortepianu (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Nec temere nec timide na bas solo, chór mieszany i orkiestrę (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Trzy tańce polskie na orkiestrę dętą (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Koncert fortepianowy (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Rapsodia polska [wersja I] na orkiestrę (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Rapsodia polska [wersja II] na orkiestrę dętą (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Dwie miniatury na gitarę solo (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Pani Helena (czyli Gołąb o orlich skrzydłach) , opera (1973-75)",
+      "year": "1973-75"
+    },
+    {
+      "title": "Koncert na 2 wiolonczele i orkiestrę symfoniczną (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Sei capriccios per cello solo (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Mosty na orkiestrę (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "In medias res na orkiestrę smyczkową (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Trzy fragmenty muzyczne na 5 instrumentów dętych (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Trio na skrzypce, wiolonczelę i fortepian (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Koncert na organy, sopran, alt, baryton, chór męski i orkiestrę (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Koncert na klarnet, gitarę, wiolonczelę i orkiestrę (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Short Story na wiolonczelę i fortepian (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Kaprys na skrzypce solo (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Dolina milczenia , poemat symfoniczny (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Traumulus na orkiestrę smyczkową (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Fantazja na temat „Wśród nocnej ciszy” na smyczki, perkusję, harfę i fortepian (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Fantazja na temat „Przybieżeli do Betlejem” na smyczki, perkusję, harfę i fortepian (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Pięć aforyzmów organowych (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Intrada na orkiestrę dętą (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Aforyzmy na organy (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Cztery wizje na wiolonczelę i fortepian (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Koncert na organy, sopran (lub tenor) i dzwony (1983)",
+      "year": "1983"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "jablonski-henryk-hubertus-en"
+}

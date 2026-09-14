@@ -1,0 +1,363 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/m/machl-tadeusz-en",
+  "title": "Machl Tadeusz",
+  "name": "Machl Tadeusz",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": "composer, organist and music tutor, b. 22 October 1922 in Lwów (Lvov, now in Ukraine), d. 31st August 2003 in Cracow. He started learning to play the piano at the age of 10; he received training from Helena Kasparek at the Music School in Lwów. In 1939-41 he attended a secondary school in Lwów (from September 1939 under Soviet rule), and after graduating with honours he was selected for a scholarship to study piano, composition and organ playing at the Moscow Conservatory. This plan was thwarted by the outbreak of the Soviet-German war. In 1941-43 he took part in regular clandestine concerts organized in the Polish Orphans' House in Lwów. He accompanied such soloists as Edward Statkiewicz, Andrzej Hiolski, Franciszek Bedlewicz, Romuald Cyganik. After the war he held the post of organist at St. Elisabeth Church in Lwów (1944-46) and Corpus Christi Church in Cracow (1947-50). In 1947-51 Machl continued his musical education at the State Higher School of Music (now the Music Academy) in Cracow, where he studied composition with Artur Malawski, instrumentation with Feliks Wrobel and organ playing with Bronisław Rutkowski. From 1950 to 1954 he held the functions of proofreader, then assistant editor, editor and music advisor to the Polish Music Publishers in Cracow. Machl was engaged in extensive teaching activity: in 1952-98 he lectured in composition and instrumentation at the State Higher School of Music in Cracow (from 1976 he held the state title of professor). In 1982-86 he taught at the Faculty of Musicology of the Jagiellonian University in Cracow, and from 1999 - at the Faculty of Pedagogy of the same university. He also occupied posts in many cultural institutions in Poland: in 1967-70 he was the dean of the Faculty of Music Theory, Composition and Conducting of the Music Academy in Cracow, and in 1970-73 - vice-rector of that academy. In 1969-72 and 1976-79 he was a member of the Council of Higher Artistic Education at the Ministry of Culture and Arts. He was also active in the Polish Composers' Union: in 1962-65 he was the president of the Cracow branch, and in 1970-72 and 1974-76 - secretary of the Auditors’ Committee of the Union. From 1979 to 1983 he presided over the Association of Amateur Choirs and Orchestras in Cracow. Among many awards and distinctions for his artistic achievements, he received: in 1956 and 1959 - special distinctions for his String Quartet No. 1 (1950) and String Quartet No. 2 (1957) at the International Competition for Composers in Liège; in 1965 - the Gold Cross of Merit for his teaching and compositions, in 1971 and 1990 - the Minister of Culture and Arts Award, First Class; in 1972 - the Cavalier's Cross, and in 1988 - the Officer's Cross of the Polonia Restituta Order.",
+  "birth": {
+    "place": "Lwów (Lvov",
+    "date": "22 October 1922",
+    "raw": "b. 22 October 1922 in Lwów (Lvov"
+  },
+  "death": {
+    "place": "Cracow",
+    "date": "31st August 2003",
+    "raw": "d. 31st August 2003 in Cracow"
+  },
+  "works": [
+    {
+      "title": "Stabat Mater , oratorio for 4 soloists, mixed choir and orchestra (1945)",
+      "year": "1945"
+    },
+    {
+      "title": "Three Symphonic Miniatures for orchestra (1946)",
+      "year": "1946"
+    },
+    {
+      "title": "Symphony No. 1 for mixed choir and orchestra (1947)",
+      "year": "1947"
+    },
+    {
+      "title": "Symphony No. 2 (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "A Day of Work , cantata for 4 soloists and small symphony orchestra (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "Symphony No. 3 ( Symphonic Overture “The Tatra” ) for orchestra (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "Organ Concerto No. 1 for organ and great symphony orchestra (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "String Quartet No. 1 (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "Five Virtuoso Studies for organ (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "Three Songs to words by Leopold Staff and Konstanty Ildefons Gałczyński for soprano and piano (1950-55)",
+      "year": "1950-55"
+    },
+    {
+      "title": "Organ Concerto No. 2 for organ and great symphony orchestra (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Organ Concerto No. 3 ( Overture Concertante ) for organ and great symphony orchestra (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Youth Cantata for soprano, baritone, mixed choir and great symphony orchestra (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "Symphony No. 4 for great symphony orchestra (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "Lyrical Suite for violin and piano (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "Lyrical Suite for great symphony orchestra (1956)",
+      "year": "1956"
+    },
+    {
+      "title": "Organ Concerto No. 4 for organ and string orchestra (1957)",
+      "year": "1957"
+    },
+    {
+      "title": "String Quartet No. 2 (1957)",
+      "year": "1957"
+    },
+    {
+      "title": "Concerto for soprano and great symphony orchestra (1958)",
+      "year": "1958"
+    },
+    {
+      "title": "Violin Concerto (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "String Quartet No. 3 (1961)",
+      "year": "1961"
+    },
+    {
+      "title": "Harpsichord Concerto (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Symphony No. 5 ( Four Virtuoso Studies ) for soprano, women’s choir and orchestra (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Deux Piéces pour Grand Orgue (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Piano Concerto (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Pièce en cinqe mouvements for organ (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Concerto for harp and symphony orchestra (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Double Concerto for harpsichord, piano and orchestra (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Concerto for cello or viola (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Mini-Suite for organ (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Icarus’ Flight , cantata concertante for soprano, reciting voice, organ and orchestra (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Triptych for large organ (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Organ Concerto No. 5 for three organs and symphony orchestra (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Anniversary Overture for orchestra (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Triple Concerto for 2 pianos, organ and orchestra (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Ten Pieces for medium-sized organ (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Concerto for horn and orchestra (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "String Quartet No. 4 (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Sonata for three organs (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Blue Cross , cantata for soprano, 2 reciting voices, 2 tapes and orchestra (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Landscapes I , a cycle of preludes and fugues for organ (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Landscapes II , a cycle of preludes and fugues for organ (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Organ Concerto No. 6 for organ and two orchestras (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Anniversary Poem for great symphony orchestra (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Grand Fantasy with a double B-A-C-H fugue for organ (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Haerbarium , septet for organ, English horn, horn, bassoon, cello, harp and percussion (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Requiem for Those Lost in the Tatra for soprano, baritone, reciting voice, mixed choir, organ and great symphony orchestra (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Rupicaprae , 8 studies for double pedal (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Landscapes III , a cycle of preludes and fugues for organ (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Terrarium na organy, harfę, skrzypce i perkusję (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Fifteen Rosary Poems for organ (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Organ Concerto No. 7 (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Preludium na fortepian (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Ballada o Dniestrze na chór mieszany a cappella (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Impresja na organy, harfę i perkusję (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Stained-Glass Windows , suite for organ, flute, oboe and horn (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Srebrne skrzydła , uwertura symfoniczna na wielką orkiestrę symfoniczną (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Symphonic Scherzo ( Controversies ) for orchestra (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Capriccio for harpsichord (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Chorał, Cantabile, Fuga na organy (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Dissonatio for organ (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Ave Maria na chór mieszany a cappella (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Missa brevis na chór mieszany a cappella (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Improvisation pour orgue (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Sonatina „In memoriam I. J. Paderewski” na fortepian (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Poem for organ (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "My City , symphonic poem for great symphony orchestra (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Tryptyk na baryton i fortepian (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Heartfelt Landscapes , triptych for 4 reciting voices, a fourfold mixed quartet and chamber orchestra (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Witraże na organy solo (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Tren , poemat symfoniczny na wielką orkiestrę symfoniczną (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Night on Kazalnica , rhapsody for great symphony orchestra, dedicated to Stanisław Janik (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Ave Maria na chór mieszany i 2 instrumenty (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Serenada na orkiestrę smyczkową (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Suita na orkiestrę smyczkową (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Preludia na temat polskich pieśni kościelnych na organy (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Symphony No. 6 “Sinfonia Desiderii” for great symphony orchestra (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "In memoriam St. Kinga na obój i zespół smyczkowy (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Oremus pro pontifice , utwór na XX-lecie pontyfikatu Jana Pawła II na baryton solo, organy i zespół smyczkowy (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Msza na sopran, tenor, chór mieszany i organy (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Tryptyk pamięci Andrzeja Hiolskiego na baryton i zespół kameralny (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Epitafium dédié à Jean Langlais na organy (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Fantazja na fortepian (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Janowi Sebastianowi Bachowi w Hołdzie , poemat na wielką orkiestrę symfoniczną (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Poematy Różańcowe na zespół kameralny (2001)",
+      "year": "2001"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Kowal Roman, Koncerty organowe i twórczość organowa Tadeusza Machla [Tadeusz Machl's organ concertos and other organ works], in: Krakowska szkoła kompozytorska 1888-1988 [The Cracow School of Composition 1888-1988] (ed. Teresa Malecka), Akademia Muzyczna w Krakowie, Kraków 1993 Jarzębska Alicja, Machl Tadeusz, In: Encyklopedia Muzyczna PWM (część biograficzna pod red. Elżbiety Dziębowskiej) [PWM Music Encyclopaedia, biographical part ed. by Elżbieta Dziębowska], vol. “m”, PWM, Kraków 2000",
+  "slug": "machl-tadeusz-en"
+}

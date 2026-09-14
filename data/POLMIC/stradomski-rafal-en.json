@@ -1,0 +1,387 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/s/stradomski-rafal-en",
+  "title": "Stradomski Rafał",
+  "name": "Stradomski Rafał",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "composer and writer; b. 13th October 1958 in Warsaw. He is a graduate of the Fryderyk Chopin Academy of Music in Warsaw, where he studied composition with Tadeusz Paciorkiewicz and oboe. In 1986 he received 2 awards: at the Young Composers’ Competition for Wind Quintet and at the Grzegorz Fitelberg Composition Competition for A tre for large symphony orchestra. In 1988 his work 555 for saxophone ensemble was admitted to the final round of the 1st International Competition for Saxophone Quintet in Paris. In 1992-93, having been awarded a grant by the French Government, he studied at the Ecole Normale de Musique in Paris. In 1992 he established Felix Victor publishing house. In his compositions, Rafał Stradomski seeks new solutions for construction rather than new sound effects. In some works, he employs serialism or dodecaphonic technique, however his approach is not strict. He draws on the experience of aleatorism and uses elements of jazz, combining them with different composing techniques, which he has invented (often for the use of a single work). In 1984-2001 he organized concerts at the Warsaw Music Society. He is also a preforming artist - he used to play early and contemporary music on oboe, now he plays piano. As a writer he made his debut in 1995, having published a satiric story Sexual Life of Moomintrolls . He also wrote books: The View From a Room Without Windows , Russian Watch or Eternal Love , All President’s Girlfriends , Return of the President , The President’s Secret , The Deer’s Day and four theatre plays: The Lawn , The Godson , The Dolt and The Contrabassoonist . Since 1986 he has been a member of the Polish Composers’ Union. updated: March 2016 (wa)",
+  "birth": {
+    "place": "Warsaw",
+    "date": "13th October 1958",
+    "raw": "b. 13th October 1958 in Warsaw"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Reed Trio (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "String Quartet (1982-83)",
+      "year": "1982-83"
+    },
+    {
+      "title": "Three Quite Rhythmic Compositions for piano (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "MCXIII for saxophone (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Fugue for piano (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Prelude, Fugue and Improvisation for solo flute (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Clarinet Concerto (1984-85)",
+      "year": "1984-85"
+    },
+    {
+      "title": "Theme for piano (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Sonata for Clarinet and Piano (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Ballad on a Lonely Pump for soprano, oboe and piano (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Ricercar for recorder quartet (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "A tre for large symphony orchestra (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Wind Quintet (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Sonata for also saxophone and piano (1986-87)",
+      "year": "1986-87"
+    },
+    {
+      "title": "Canzona I for 4 crumhorns or other wind instruments (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "For R. for tenor saxophone and piano (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Introduction and Fugue for chamber orchestra (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Canzona II for 4 crumhorns or other wind instruments * (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "6-8-7 for large symphony orchestra (1987-88)",
+      "year": "1987-88"
+    },
+    {
+      "title": "555 for saxophone ensemble (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Per Gato for alto or tenor saxophone and piano (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Trio for oboe, alto saxophone and cello (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Passacaglia for flute and piano (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Prelude for piano (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Concerto for alto saxophone and orchestra (1989-90)",
+      "year": "1989-90"
+    },
+    {
+      "title": "3 Preludes for piano (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Sonatina for saxophone or bassoon or oboe (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "12 Black and White Symmetrical Compositions for piano (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Chaconne (inspired by G. F. Haendel) for brass instruments and timpani (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Sonata for cello and piano (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "3 Characteristic Compositions for saxophone or oboe (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "La Folia for piano (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Scherzo for piano (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Capriccio for violin (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "4 Minatures for piano (1993-94)",
+      "year": "1993-94"
+    },
+    {
+      "title": "4 Songs for voice and piano (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Rondo for harp or piano (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "3 Gloomy Pieces for clarinet and piano (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Sonata No. 2 for alto saxophone and piano (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Variations on a Theme of Telemann for harpsichord or piano (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "B-A-C-H , study for piano (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Missa Latina for male choir [dedicated to John Paul II] (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Fantasy for guitar (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Little Prelude for piano (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Variations on a Theme of Purcell for soprano saxophone and piano (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Concerto for piano, saxophone quartet and strings (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "3 Love Songs for voice and piano (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "String Quartet No. 2 in D minor (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Agnus Dei for voice and organ or string quartet or recorder ensemble (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Black Despair for cello or viola and piano (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Largo - Variations on a Theme of Chopin for piano (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Missa Latina II for mixed choir (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Ballad on a Prosecutor for female voice and piano (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Elegy for bassoon or cello and piano (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Notturno - Variations on a Theme of Chopin for piano (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Gloria (for John Paul II) for mixed choir a cappella (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Symphonic Rhapsody \"Ukraine\" (2004-2005)",
+      "year": "2004-2005"
+    },
+    {
+      "title": "Credo for mixed choir [John Paul II in memoriam] (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "4 Little Variations for piano (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Notaries' March for piano (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Summer Afternoon for piano (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Mazovia , 5 pieces for piano (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Variations on a Theme of Beethoven for piano (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Bulgarian Rhapsody for large symphony orchestra (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Korea , 3 pieces for piano (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Polish Csárdás for piano [Insurgents of the Hungarian Uprising 1956 in memoriam] (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Pezzo un po triste for piano (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Scherzo - Variazioni su un tema di Paganini ed altri for tuba, trombone, contrabassoon or other wind instrument (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Polonaise for the End of the World for double bass and piano (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Fantasy for piano (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Bagatelle for guitar (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Lamentation for alto saxophone and piano [Insurgents of the Warsaw Ghetto Uprising 1943 in memoriam] (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Trio for 3 flutes (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "II Trio \"Bach in memoriam\" for 3 flutes (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Ringraziamento for piano (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Missa Nova for mixed choir a cappella (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Rondo for piano (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Wedding March for organ or piano (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Trio per tre flauti (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Polonaise for the End of the World for piano or organ (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Trio No. 2 \"Bach in memoriam\" per tre flauti (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Łużyce , 6 pieces for piano (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Corrente. Variations on a Theme of Purcell No. 2 for flute and harpsichord or piano (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Corant. Variations on a Theme of Purcell No. 3 for harpsichord or piano (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Variazioni su un tema di Mozart per flauto solo (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Passione per flauto solo (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "String Quartet No. 3 “Torture of Love” (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Dalance Grande Valse for piano (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Lamento irlandese for oboe and piano (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Hornpipe. Double Variations on a Theme of Purcell for harpsichord or piano (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "The Vienna Waltz for symphony orchestra (2019)",
+      "year": "2019"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "stradomski-rafal-en"
+}

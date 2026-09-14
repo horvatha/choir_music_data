@@ -5,9 +5,9 @@
   "years": "1811−1894",
   "description": "Fredrik Wilhelm Klint. Organist, music teacher and composer. Born 7 February, 1811 in Visby, died 1 June, 1894 in Stockholm. Studied at Uppsala University, later at the Royal Conservatory of Music in Stockholm. Organist for the French Reformed Church in Stockholm from 1842, active on the island of Gotland from 1854 as organist for Östergarn Church 1859−1878.",
   "birth": {
-    "place": null,
-    "date": null,
-    "raw": null
+    "place": "Visby",
+    "date": "7 February, 1811",
+    "raw": "Born 7 February, 1811 in Visby,"
   },
   "death": {
     "place": "Stockholm",

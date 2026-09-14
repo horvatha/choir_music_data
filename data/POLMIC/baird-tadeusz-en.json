@@ -1,0 +1,223 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/b/baird-tadeusz-en",
+  "title": "Baird Tadeusz",
+  "name": "Baird Tadeusz",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "composer, b. 26 th July 1928 in Grodzisk Mazowiecki; d. 2nd September 1981 in Warsaw. He began his composition studies with Bolesław Woytowicz and Kazimierz Sikorski under the German occupation and continued them in 1947-51 with Piotr Rytel and Piotr Perkowski in the State Higher School of Music in Warsaw. He also studied the piano with T. Wituski and – for three years – musicology at the University of Warsaw. Tadeusz Baird received numerous awards in Poland and abroad, including: the 1 st prize in the G. Fitelberg Competition in 1958 for Four Essays for Orchestra (1958); three 1 st prizes of the International Rostrum for Composers in Paris (in 1959 for Four Essays ; in 1963 for Variations without a Theme for symphony orchestra - written in 1961-62; in 1966 - for Four Dialogues for oboe and chamber orchestra, written in 1964); three State Awards (in 1951 - for Symphony No. 1 of 1950; in 1964 - for his entire outpit of compositions; in 1970 - for Symphony No. 3 of 1969 and Five Songs for mezzo-soprano and chamber orchestra to words by Irena Poświatowska, written in 1968), the Minister of Culture and Art Award (in 1962 for Erotic Poems – 6 Songs for soprano and symphony orchestra to words by Małgorzata Hillar, a piece written in 1960-61). He was one of the initiators and founders of the “Warsaw Autumn” International Festival of Contemporary Music, held since 1956. From 1974 he taught composition in the State Higher School of Music in Warsaw. In 1977, he was awarded the state title of professor and appointed to the chair of composition. From 1976, he was the president of the International Society for Contemporary Music, Polish Section, from 1979 – a member of Akademie der Künste in Berlin. He has received such prestigious European awards, as the City of Cologne Music Award (1963), the annual award of the Polish Composers’ Union for his entire output (1966), the Serge Koussevitzky Award (1968), the City of Warsaw Artistic Award (1970), the Alfred Jurzykowski Prize granted by the A. Jurzykowski Foundation in New York (1971), A. Honegger Award (1974), Sibelius Medal (1976), the Prime Minister’s Award and the Medal of the Commission of National Education (1979). Posthumously, in 1981, he was honoured with the Order of the Banner of Labour, 1 st Class. A website dedicated to the composer:",
+  "birth": {
+    "place": "Grodzisk Mazowiecki",
+    "date": "26th July 1928",
+    "raw": "b. 26 th July 1928 in Grodzisk Mazowiecki"
+  },
+  "death": {
+    "place": "Warsaw",
+    "date": "2nd September 1981",
+    "raw": "d. 2nd September 1981 in Warsaw"
+  },
+  "works": [
+    {
+      "title": "Sonatina for piano no. 1 (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "Sinfonietta for orchestra (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "Concerto for piano and orchestra (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "Overture in Old Style for orchestra (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "Symphony No. 1 (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "Colas Breugnon Suite in Old Style for string orchestra with flute (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "Little Children’s Suite for piano (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Sonatina for piano No. 2 (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Overtura giocosa for orchestra (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Symphony No. 2 ( Sinfonia quasi una fantasia ) (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Three Songs to Old Italian texts for soprano, 3 violas and cello (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Due Capricci for clarinet and piano (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Concerto for orchestra (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Lyric Suite , 4 songs for soprano with symphony orchestra to words by Julian Tuwim (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Two Love Songs for soprano and piano (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Two Songs for mixed choir (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Ballad of the Soldier’s Mug for baritone, reciting voice, mixed choir and orchestra to words by Stanisław Strumph-Wojtkiewicz (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "Four Preludes for bassoon and piano (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "Five Songs for Children for woman’s voice and piano (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "Four Love Sonnets [1st version] for baritone and orchestra to words by William Shakespeare (1956)",
+      "year": "1956"
+    },
+    {
+      "title": "Cassazione per orchestra (1956)",
+      "year": "1956"
+    },
+    {
+      "title": "Divertimento for flute, oboe, clarinet and bassoon (1956)",
+      "year": "1956"
+    },
+    {
+      "title": "Creek Waters Flowing for mixed a cappella choir (1956)",
+      "year": "1956"
+    },
+    {
+      "title": "String Quartet (1957)",
+      "year": "1957"
+    },
+    {
+      "title": "Four Essays for orchestra (1958)",
+      "year": "1958"
+    },
+    {
+      "title": "Expressions for violin and orchestra (1958-59)",
+      "year": "1958-59"
+    },
+    {
+      "title": "Exhortation to Old Hebrew Texts for reciting voice, mixed choir and symphony orchestra (1959-60)",
+      "year": "1959-60"
+    },
+    {
+      "title": "Erotic Poems [PWM Edition: Love Songs] - 6 Songs for soprano and symphony orchestra to words by Małgorzata Hillar (1960-61)",
+      "year": "1960-61"
+    },
+    {
+      "title": "Study for vocal orchestra, percussion and piano (1961)",
+      "year": "1961"
+    },
+    {
+      "title": "Variations without a theme for symphony orchestra (1961-62)",
+      "year": "1961-62"
+    },
+    {
+      "title": "Chansons des Trouvères for alto (or mezzo-soprano) with 2 flutes and cello (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Music of the Epiphany for orchestra (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Four Dialogues for oboe and chamber orchestra (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Tomorrow musical drama in one act to a libretto by Jerzy S. Sito (1964-66)",
+      "year": "1964-66"
+    },
+    {
+      "title": "Four Songs for mezzo-soprano and chamber orchestra to poems by Vesna Parun (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Four Novelettes for chamber orchestra (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Sinfonia breve for orchestra (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Five Songs for mezzo-soprano and chamber orchestra to words by Halina Poświatowska (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Symphony No. 3 (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Four Love Sonnets [2nd version] for baritone, strings and harpsichord to words by William Shakespeare (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Goethe-Briefe , a cantata for baritone, mixed choir and orchestra (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Play for string quartet (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Psychodrama for orchestra (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Concerto for oboe and orchestra (1972-73)",
+      "year": "1972-73"
+    },
+    {
+      "title": "Elegeia for orchestra (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Concerto lugubre for viola and orchestra (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Scenes (Conversation, Argument and Reconciliation) for cello, harp and orchestra (1976-77)",
+      "year": "1976-77"
+    },
+    {
+      "title": "Wariacje w formie ronda na kwartet smyczkowy (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Canzona for orchestra (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Voices from Afar , 3 songs for baritone and orchestra to words by Jarosław Iwaszkiewicz (1981)",
+      "year": "1981"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Books Baird Tadeusz, Grzenkowicz Izabella, Rozmowy, szkice, refleksje , Kraków 1982, wyd. 2 Kraków 1998. Lindstedt Iwona, Sonorystyka w twórczości kompozytorów polskich XX wieku , Warszawa 2010. Literska Barbara, Tadeusz Baird. Kompozytor, dzieło, recepcja , Zielona Góra 2012. Pro Sinfonika. Zeszyt Muzyczny. Edycja nadzwyczajna poświęcona życiu i dziełu Tadeusza Bairda. Materiały z sesji popularnonaukowej (Poznań 26.04.1982), red. Alojzy Andrzej Łuczak, Poznań 1982. Tadeusz Baird – sztuka dźwięku, sztuka słowa . Materiały z sympozjum, Warszawa 12 grudnia 1982, red. K. Tarnawska-Kaczorowska, Warszawa 1984. Tadeusz Baird pośród nas… , red. Alojzy Andrzej Łuczak, Poznań 2002. Tarnawska-Kaczorowska Krystyna, Świat liryki wokalno-instrumentalnej Tadeusza Bairda , Kraków 1982. Tarnawska-Kaczorowska Krystyna, Tadeusz Baird , „Biblioteka Problemowa Pro Sinfoniki”, t. 5, Poznań 1995. Tarnawska-Kaczorowska Krystyna, Tadeusz Baird. Glosy do biografii , Kraków 1997. Adrian Thomas, Polish music since Szymanowski , Cambridge University Press 2005. Zieliński Michał, Twórczość orkiestrowa Tadeusza Bairda w kontekście techniki instrumentacji , Bydgoszcz 2005. Zieliński Tadeusz Andrzej, Tadeusz Baird , Kraków 1966.",
+  "slug": "baird-tadeusz-en"
+}

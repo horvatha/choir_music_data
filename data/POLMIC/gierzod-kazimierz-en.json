@@ -1,0 +1,22 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/g/gierzod-kazimierz-en",
+  "title": "Gierżod Kazimierz",
+  "name": "Gierżod Kazimierz",
+  "occupation": "performer",
+  "is_composer": false,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [],
+  "publications": null,
+  "bibliography": "Dybowski Stanisław, Gierżod Kazimierz, Selene, Warszawa 2003",
+  "slug": "gierzod-kazimierz-en"
+}

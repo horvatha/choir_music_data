@@ -1,0 +1,115 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/g/gorzycki-rafal-en",
+  "title": "Gorzycki Rafał",
+  "name": "Gorzycki Rafał",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Mintaka, 6 miniatur na skrzypce i fortepian (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Wiek Światła na fortepian i drobne ingerencje (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Oedipus na trio fortepianowe (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Der Prozess, kwartet smyczkowy nr 1 (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Quasi, quasi na dwa fortepiany (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Śmierć Pana S [wersja I] na sopran, altówkę, fortepian i elektronikę (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Dżety Miłości na orkiestrę smyczkową (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Ostatnimi czasy dla jednego wykonawcy i warstwę elektroniczną (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Trzeci cień Bogurodzicy na perkusję solo (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Czy są na sali Stawonogi? na fortepian, klarnety, perkusję (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Bażant i Żebrak na fortepian, i elektronikę (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "A TY? na kwartet fortepianowy (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Ereksjas na klarnet, skrzypce, wiolonczelę, fortepian i perkusję (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Brekkek Kekkek na klawesyn, akordeon, waltornię, obój i perkusję (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Kwartet smyczkowy nr 2 (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "4 Miejsca, w których leży Ukojenie na sopran, gitarę elektryczną i orkiestrę (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "Ludzie z Vełny na zespół kameralny (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "Śmierć Pana S [wersja II] na sopran, altówkę, fortepian i elektronikę (2022)",
+      "year": "2022"
+    },
+    {
+      "title": "Requiem na kwartet smyczkowy, elektronikę i syntezator mowy (2022)",
+      "year": "2022"
+    },
+    {
+      "title": "Stabat Mater na sopran, fortepian, klarnet i perkusję (2023)",
+      "year": "2023"
+    },
+    {
+      "title": "Osobliwość Calabiego-Yau na flet, tubę, gitarę i wiolonczelę (2023)",
+      "year": "2023"
+    },
+    {
+      "title": "Hiperprzestrzeń na dwa flety, orkiestrę symfoniczną i elektronikę (2023-2024)",
+      "year": "2023-2024"
+    },
+    {
+      "title": "Die Arien der Zeit na sopran, syntezator mowy, Flügelhorn, fortepian i elektronikę (2024)",
+      "year": "2024"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "gorzycki-rafal-en"
+}

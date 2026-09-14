@@ -1,0 +1,63 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/o/ormicki-wlodzimierz-en",
+  "title": "Ormicki Włodzimierz",
+  "name": "Ormicki Włodzimierz",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": "conductor, composer and teacher; b. 18th May 1905 in Kraków; d. 31st May 1974 in Bydgoszcz. In the years 1915-22 he studied piano with Kazimierz Krzyształowicz and Wiktor Łabuński, composition with Michał Piotrowski and conducting with Bolesław Wallek-Walewski at the Conservatory of the Music Society in Kraków. In 1922-24 he studied piano with Ferdynand Rebay and composition with Joseph Marx at the Akademie für Musik in Vienna. In 1924-26 he studied composition with Walter Courvoisier and conducting with Sigmund von Hausegger, Hugo Röhr and Eberhardt Schwickerath at the Akademie der Tonkunst in Munich. He worked as a tutor and conductor at the Bayerische Staatsoper in Munich (1926-27) and at the Sölothurn-Biel Theater Orchestra in Switzerland (1927-29). He collaborated with the Wagner Festival in Bayreuth (1928), the Mozart festival in Salzburg (1931-1932), and the orchestra and opera ensembles in Vienna (1931-34). After returning to Poland, he was the choir director at the Polish National Opera in Warsaw (1934-36), and the artistic director of the Kraków Symphony Orchestra and conductor of the Kraków Opera Society (1937-39). He was the first conductor of the Polish Radio Symphony Orchestra in Katowice (1945-48), Łódź Philharmonic Orchestra (1948-50) and Wrocław Opera (1950-53). He was the artistic director and conductor of the Silesian Opera in Bytom (1953-63), the Wrocław Philharmonic (1963-65), again the conductor of the Great Symphony Orchestra of the Polish Radio (1965-69) and the artistic director of the Bydgoszcz Opera (1969-72). He brought to the stage many forgotten works, e.g. Stanisław Moniuszko’s In the quarters , Flis and Paria in Wrocław, Ludomir Różycki’s Boleslav the Bold , Karol Szymanowski’s Hagith and Jerzy Gablenz’s The Magic Wheel in Bytom. He also gave concerts abroad, in Bulgaria, Romania, Germany, Yugoslavia and Hungary. Włodzimierz Ormicki lectured at the State Higher School of Music in Łódź (1948-50), Wrocław (1950-54) and Katowice (1954-55). updated: 2020 (ac)",
+  "birth": {
+    "place": "Kraków",
+    "date": "18th May 1905",
+    "raw": "b. 18th May 1905 in Kraków"
+  },
+  "death": {
+    "place": "Bydgoszcz",
+    "date": "31st May 1974",
+    "raw": "d. 31st May 1974 in Bydgoszcz"
+  },
+  "works": [
+    {
+      "title": "Sinfonietta for orchestra (1926)",
+      "year": "1926"
+    },
+    {
+      "title": "Songs for mezzo-soprano with string sextet and harp (1928)",
+      "year": "1928"
+    },
+    {
+      "title": "Songs for soprano with string quintet and flute (1933)",
+      "year": "1933"
+    },
+    {
+      "title": "Miłostki ułańskie , comic opera in one act (1939)",
+      "year": "1939"
+    },
+    {
+      "title": "Christmas Carols Suite [version I] for orchestra (1940)",
+      "year": "1940"
+    },
+    {
+      "title": "Missa for men choir and organ (1941)",
+      "year": "1941"
+    },
+    {
+      "title": "Christmas Carols Suite [version II] for solo voices and orchestra (1941-42)",
+      "year": "1941-42"
+    },
+    {
+      "title": "Missa for mixed choir, organ and wind instruments ensemble (1942)",
+      "year": "1942"
+    },
+    {
+      "title": "Improvisation for orchestra (1942)",
+      "year": "1942"
+    },
+    {
+      "title": "Our Day , cycle of pieces for piano (1943)",
+      "year": "1943"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "ormicki-wlodzimierz-en"
+}

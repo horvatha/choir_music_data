@@ -1,0 +1,31 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/m/milosz-anthony-oscar-en",
+  "title": "Milosz Anthony Oscar",
+  "name": "Milosz Anthony Oscar",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Utwory do słów Czesława Miłosza: Rzeki Ty silna noc Oda do ptaka Droga Tak mało Wieść I świeciło to miasto Rzeki maleją Podziw Rozmowy na Wielkanoc 1620 roku (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Frater, polsko-litewska suita multimedialna na konsort 4 viol da gamba, saksofon, komputer, syntezator (lub fortepian) i głos [we współautorstwie z V. Germanavičiusem, A. Malcysem, Z. Koniecznym, B. Kutavičiusem] (2013)",
+      "year": "2013"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "milosz-anthony-oscar-en"
+}

@@ -1,0 +1,59 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/s/sudnik-tadeusz-en",
+  "title": "Sudnik Tadeusz",
+  "name": "Sudnik Tadeusz",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": "sound director, performer, and composer; born on 6 December 1955 in Warsaw. He is the founder of the Studio of Impossible Sounds, creates multimedia concert performances and takes part in jam sessions. He worked in the Experimental Studio of Polish Radio, recording electronic music, film music, music for theatre productions and ballets. At the same time he toured Europe and recorded albums with the oat recognised jazz musicians, including Tomasz Stańko's Freelectronic (1980s). He was a long-standing collaborator of Warsaw Autumn and the Polish Society for Contemporary Music. In 2003 he recorded an album and toured Europe with Adam Pierończyk's Amusos band, and played with an international line-up of musicians in Transylvaniana led by percussionist Maurice de Martin (Berlin). In 2004 he performed with the revived Freelectronic. In 2006 he showed his multimedia installation Kolej rzeczy ż The Way Things Go] at Warsaw's Galeria XX1 and took part in the Polish tour of Der Rotte Bereich. 2006 also saw the release of the album The Best Of Polish Smooth Jazz vol. 3 cd 1 – Tadeusz Sudnik & His Friends in Art (Polonia Records). He has performed with Dom Um Romao of Weather Report, Sonny Sharrock, Adrian Mears, Peter Giger, Apostolis Anthimos, Janusz Skowron, Michał Miśkiewicz, Jakub Sienkiewicz, Aleksander Korecki, Andrzej Bieżan, Mamadou Diouf, Gunnar Geise. He took part in Tomasz Stańko's latest concert project Peyotl3. He performed at festivals in Montreaux, Berlin, La Mans, Madrid, Athens, Zurich, Warsaw (Jazz Jamboree), and Gdynia (Gdynia Summer Jazz Days). Currently, Tadeusz Sudnik is part of the concert line-up of Kawalerowie Błotni (set up in 2001), along with Jerzy Kornowicz, Mieczysław Litwiński, Ryszard Latecki, Krzysztof Knittel and Tadeusz Wielecki. The band combines free jazz traditions with site-specific composition and intuitive actions (e.g. on meadows or in woodlands). He also plays in the bands of Helmut Nadolski and Andrzej Przybielski, Mathieu Sadowski (France), Adam Pierończyk's Digivooco with Gary Thomas (a collaborator of Miles Davis and John McLaughlin), Park Maszynowy with Włodek Kiniorski, Analogics with Wojciech Konikiewicz, Koncert Figur Niemożliwych with Andrzej Mitan, Interakcje with Krzysztof Knittel, and Joined Forces with Paweł Prochnowski (Canada). He is interested in live music played on analogue synthesisers, groovebox and electronic instruments of sound transformation; he uses the sounds of nature, creating a small studio on stage. January 2013 (ajs)",
+  "birth": {
+    "place": "Warsaw",
+    "date": "6 December 1955",
+    "raw": "born on 6 December 1955 in Warsaw."
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Dancing Blue, installation (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Soundtrack to the exhibition Kolej rzeczy (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Soundtrack to Stanisław Drożdż's exhibition OD-DO (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Filonik – Sudnik Instalacja fabularna, installation (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Soundtrack to the documentary Wielkie dusze, małe cuda (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Soundtrack to the documentary Wewnętrzna moc (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Soundtrack to the documentary Tombakowanie (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Music to the ballet Pejzaż Nocą",
+      "year": null
+    },
+    {
+      "title": "Music for the play Wooden Man (2007)",
+      "year": "2007"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "sudnik-tadeusz-en"
+}

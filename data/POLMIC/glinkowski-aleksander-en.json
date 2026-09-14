@@ -1,0 +1,131 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/g/glinkowski-aleksander-en",
+  "title": "Glinkowski Aleksander",
+  "name": "Glinkowski Aleksander",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Gdybyś musiał kiedyś... na chór mieszany (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Kolor wiosny na chór mieszany (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Kwartet smyczkowy (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Inicjacje na kwartet smyczkowy, organy i perkusję (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Pieśni Safony na alt, orkiestrę i taśmę (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Passacaglia lugubra na organy (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Amphi [wersja I] na obój i 2 fortepiany (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Amphi [wersja II] na obój i fortepian (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Passacaglia na organy (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Aisthesis na organy i orkiestrę (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Pour trombone na puzon, wiolonczelę i fortepian (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Sequentia na saksofon altowy i fortepian (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Ostinato [wersja I] na chór mieszany i taśmę (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Ostinato [wersja II] na dwa chóry mieszane (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Koncert wenecki na obój i orkiestrę (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Stasis na kwartet smyczkowy i taśmę (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Après silence teatr instrumentalny (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Muzyka przestrzenna [wersja I] na 4 zespoły orkiestrowe (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Muzyka przestrzenna [wersja II] na taśmę (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Dialogos I na fortepian na 4 ręce (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Trzy etiudy na chór żeński (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Concerto notturno na klawesyn i zespół kameralny (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Sinfonia mesta e tranquilla na alt, chór mieszany i orkiestrę (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Chwila westchnienia kantata na alt lub baryton i orkiestrę (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Sonata organowa (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Kantata na powrót cichego syna na głos recytujący, chór mieszany i orkiestrę (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Intermezzo na skrzypce lub flet z orkiestrą kameralną (1983)",
+      "year": "1983"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Zmuda Grzegorz, Glinkowski Aleksander, t. „efg”, PWM, Kraków 1987",
+  "slug": "glinkowski-aleksander-en"
+}

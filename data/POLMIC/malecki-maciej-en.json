@@ -1,0 +1,263 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/m/malecki-maciej-en",
+  "title": "Małecki Maciej",
+  "name": "Małecki Maciej",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": "composer and pianist, b. 27th November 1940 in Warsaw. He studied in the State Higher School of Music in Warsaw – composition with Kazimierz Sikorski and piano with Natalia Hornowska, graduating in 1965 in both subjects (in piano – an honours degree). In 1967-68 a Kosciuszko Foundation scholarship allowed him to study composition with Samuel Adler and piano with Eugene List in Eastman School of Music in Rochester (USA). After studies, he played for many years in a piano duo with Jerzy Derfl. In the 1970s, he composed music mostly for the theatre, TV, radio and film, writing, among others, for the legendary Student Theatre of Satirists, as well as the Polish Radio Theatre and Television Theatre. In the following decade, he abandoned this kind of work and concentrated on contemporary classical music. In 1991 he became vice-president, and in 1993-99 he was the president of the Polish Composers’ Union. For his compositions, mostly for his works for the radio and television, Maciej Małecki has received numerous prizes and awards, incl. in 1981 – a prize for his music to the TV staging of Wyspiański’s drama The Wedding ; in 1982 – an honorable mention in the Karol Szymanowski Competition for Four Songs to words by Kazimierz Przerwa-Tetmajer for baritone and piano (1981); in 1989 – the “Golden Microphone” critics’ award for his radio music; in 1996 – 1st prize in the Competition for Composers organised as part of the 3rd National Festival of Carols and Christmas Songs in Będzin for his song The Tiny Child on Straw for mixed choir (1996); in 2003 – an award for his music to the radio play Unholy Symphony (2002) at the “Two Theatres” Festival. The composer’s internet site: www.malecki.art.pl",
+  "birth": {
+    "place": "Warsaw",
+    "date": "27th November 1940",
+    "raw": "b. 27th November 1940 in Warsaw"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "The Shadow , musical fable for adults (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Infantryman’s Spirit for great wind orchestra (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "The Trouble in Recco , opera (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Sonata for piano (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Four Songs to words by Kazimierz Przerwa-Tetmajer for baritone and piano (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Rondo for piano and orchestra (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Suite for wind quintet (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Nocturne for 4 horns and 4 trombones (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Humoresque for piano (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Games, A Quarrel and An Echo for 3 percussions (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Poem in Three Moods for wind orchestra, two harps and percussion (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "When There Are More Poems in the World , a song for 3-part children’s or women’s choir (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Elegy for alto saxophone (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Concertino for two harps and string orchestra (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Scherzando for 10 instruments (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Song and Ostinato for violin, viola, cello and piano (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Concertino for 12 instruments (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "A Violinist Possessed , ballet based on Bolesław Leśmian’s mime fable of the same title (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Concert March for wind orchestra (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Concerto for electric harp and orchestra (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "A Brazilian in Paris , ballet on themes from Jacques Offenbach (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Concerto for Piano and Orchestra for a young pianist (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Offenbachiana , a suite-fantasy from the ballet A Brazilian in Paris for orchestra (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "String Quartet No. 1 (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Concerto for trombone and orchestra (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Little Four Seasons for unaccompanied children’s choir (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Polish Easter Hymns for orchestra (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Concert Overture for great wind orchestra (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "The Tiny Child on Straw [1st version] ,Christmas song for mixed choir (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "The Tiny Child on Straw [2nd version], Christmas song for voice and piano (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Sinfonietta for 9 instruments (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Winter Crops in My Heart for girls’ choir (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "String Quartet No. 2 (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Love Songs for 4-part mixed choir to words by Kazimierz Przerwa-Tetmajer (1997-2000)",
+      "year": "1997-2000"
+    },
+    {
+      "title": "Wild Dove, Forest and the Maiden , a symphonic poem (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Concerto for alto saxophone and orchestra (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "A Suite of Carols for voice and small orchestra (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Symphony No. 1 (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Balladyna , radio opera in theatrical version after Juliusz Słowacki (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Capriccio for clarinet (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Hymnus – Refugium et spes for alto saxophone and chamber string orchestra (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Allegro for orchestra (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Cheating Flee , radio music fable in theatrical version after Jan Brzechwa (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Unholy Symphony , radio play in theatrical version after Zygmunt Krasiński (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Koncert na saksofon altowy i orkiestrę (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Mała symfonia polska na orkiestrę dętą (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Aria and Scherzo for saxophone and string quartet (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Pastorale and Toccata for violin, clarinet and cello (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Sonata-Fantasy for cello (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Symphony No. 2 for mixed choir and orchestra (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Operetta , radio play in theatrical version after Witold Gombrowicz (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Koncert na flet i orkiestrę smyczkową w czterech epizodach (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Andante i allegro na altówkę solo i 5 instrumentów smyczkowych lub orkiestrę smyczkową (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Jesień polska w tradycji i poezji , spektakl radiowo-estradowy do tekstów polskich poetów (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Nokturn na czelestę i smyczki (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Suita polska na kwartet smyczkowy (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Concertino na wiolonczelę i orkiestrę symfoniczną (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Trzy pieśni na chór mieszany (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Operowo-językowy zawrót głowy czyli edukacyjna mini opera dziecięca na sopran, bas baryton i kwartet smyczkowy (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "as well as musicals, music for the theatre and film, for the Polish Radio Theatre and Television Theatre, small choral pieces, songs, children’s songs, and others (x)",
+      "year": null
+    }
+  ],
+  "publications": null,
+  "bibliography": "Lindstedt Iwona, Małecki Maciej, In: Encyklopedia Muzyczna PWM (część biograficzna pod red. Elżbiety Dziębowskiej), t. „m” [PWM Music Encyclopaedia, biographical part ed. by Elżbieta Dziębowska], vol. “M”, PWM, Kraków 2000 Dybowski Stanisław, Małecki Maciej, In: Słownik pianistów polskich [Dictionary of Polish Pianists], Selene, Warszawa 2003",
+  "slug": "malecki-maciej-en"
+}

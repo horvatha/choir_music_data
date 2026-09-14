@@ -1,0 +1,22 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/a/artysz-jerzy-en",
+  "title": "Artysz Jerzy",
+  "name": "Artysz Jerzy",
+  "occupation": "performer",
+  "is_composer": false,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [],
+  "publications": "Poszukiwanie. Jerzy Artysz w rozmowie z Sylwią Wachowską i Aleksandrem Laskowskim , Kraków, PWM, 2022.",
+  "bibliography": "Michalski Grzegorz, Artysz Jerzy , w: Encyklopedia Muzyczna PWM (część biograficzna pod red. Elżbiety Dziębowskiej), t. „ab”, PWM, Kraków 1986. Neuer Adam, Artysz Jerzy , w: Encyklopedia Muzyczna PWM (część biograficzna pod red. Elżbiety Dziębowskiej), t. „ab - suplement”, PWM, Kraków 1998. \"Orfeusz\" dla Jerzego Artysza , \"Ruch Muzyczny\" 2004 nr 21, s.3. Nie każdy \"Heifetzem\" [z wybitnymi pedagogami i artystami z Akademii Muzycznej im. F. Chopina - prof. Jerzym Artyszem, barytonem, honorowym przewodniczącym międzyuczelnianego konkursu wokalnego, i prof. Romanem Lasockim [...] rozmawia Eugeniusz Ratajczyk], \"Twoja Muza\" 2006 nr 1, s. 93-95.",
+  "slug": "artysz-jerzy-en"
+}

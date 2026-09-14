@@ -1,0 +1,155 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/b/blonska-alina-en",
+  "title": "Błońska Alina",
+  "name": "Błońska Alina",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Chwal duszo moja Pana na chór mieszany a cappella (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Canto del Amor na wiolonczelę i marimbę (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Melancholia. Johann Sebastian Bach in memoriam na orkiestrę kameralną (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Odbicia na sopran i fortepian do słów Anny Kamieńskiej (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Lutoslawiana na flet, klarnet, skrzypce, wiolonczelę, fortepian i perkusję (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Wołanie w ciszę na klarnet solo (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Modlitwa życia na chór mieszany a cappella (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Out of Time na flet, klarnet, skrzypce i wiolonczelę (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Entre el cielo y el mar – Lienzos de arena na marimbę i taśmę (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Entre el cielo y el mar – Lienzos de arena na marimbę, skrzypce i taśmę (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Płomienie na flet, obój, klarnet, fagot, fortepian i perkusję (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Ziemia nieludzka na orkiestrę smyczkową i elektronikę (2002-2003)",
+      "year": "2002-2003"
+    },
+    {
+      "title": "Płomienie II na orkiestrę smyczkową (2003-2004)",
+      "year": "2003-2004"
+    },
+    {
+      "title": "„La musica callada” na orkiestrę smyczkową (2004-2005)",
+      "year": "2004-2005"
+    },
+    {
+      "title": "„La musica callada” na wiolonczelę solo (2004-2005)",
+      "year": "2004-2005"
+    },
+    {
+      "title": "Circles na skrzypce, wiolonczelę i kontrabas (2004-2005)",
+      "year": "2004-2005"
+    },
+    {
+      "title": "Dla Almy na fortepian (2005-2006)",
+      "year": "2005-2006"
+    },
+    {
+      "title": "Dla Almy na flet, flet altowy i flet basowy (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Sekwencja na mezzospran (sopran) amplifikowany i przetwarzany na żywo (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Avgrund na organy (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Nattflyg na taśmę (2007-2008)",
+      "year": "2007-2008"
+    },
+    {
+      "title": "Światłość w ciemności na orkiestrę symfoniczną (2010-2011)",
+      "year": "2010-2011"
+    },
+    {
+      "title": "Tenebrae [wersja I] na chór mieszany a cappella (2011-2012)",
+      "year": "2011-2012"
+    },
+    {
+      "title": "Tombeau pour Pologne na violę da gamba (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Soliloquio na sopran, violę da gamba i klawesyn (2013-2016)",
+      "year": "2013-2016"
+    },
+    {
+      "title": "Introducción y Fanfarria na trąbkę i organy (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Tenebrae [wersja II] na kwartet wokalny (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Tenebrae [wersja III] na consort viol da gamba (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Canción de jinete na sopran i fortepian do słów Federica Garcii Lorki (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Kantate “Christ ist erstanden” na sopran, baryton, skrzypce barokowe, wiolonczele barokowe, violę da gamba i organy (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Noche oscura na mezzosopran i wiolonczelę do słów św. Jana od Krzyża (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Hacia la verdad como Quijotes / Ku prawdzie jak Don Kiszoci na narratora, skrzypce, wiolonczelę, fortepian i perkusję do słów Cypriana Kamila Norwida (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Epitafium na akordeon i klawesyn (2018)",
+      "year": "2018"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "blonska-alina-en"
+}

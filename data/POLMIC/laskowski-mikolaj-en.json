@@ -1,0 +1,159 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/l/laskowski-mikolaj-en",
+  "title": "Laskowski Mikołaj",
+  "name": "Laskowski Mikołaj",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "composer; b. 14th October 1988 in Gdynia. In 2009–2014 he studied with Grażyna Pstrokońska-Nawratil at the Karol Lipiński Academy of Music in Wrocław. He graduated with distinction from the Royal Conservatory in The Hague, where he studied with Yannis Kyriakides and Peter Adriaansz in 2013-2015. He has participated in many workshops and composition courses conducted by such composers as Pierluigi Billone, Christian Wolff, Carola Bauckholt, Jennifer Walshe, Bernhard Lang, Carola Bauckholt, and Dmitri Kourliandski. In 2014 he was granted the Witold Lutosławski Scholarship. In 2016 he was awarded with the Kranichsteiner Stipendienpreis on the 48th Darmstadt International Summer Course for New Music. He was awarded in competitions such as Generace (2012), the Young Composers Meeting (2013), \"The Science of Fiction\" composition competition, co-organised by the Adam Mickiewicz Institute and Klangforum Wien (2020). In 2015 he received a recommendation at the 62nd International Rostrum of Composers. In 2019 his piece Deep Relaxation vol. 4: Self-Care was chosen for a performance on the ISCM World New Music Days in Auckland. In 2021 ha was awarded with Kompositionspreis der Landeshauptstadt Stuttgart. Laskowski composes instrumental and electronic music, focusing on extended performance techniques and the use of analogue sound sources and lo-fi aesthetics in electronic music. He is interested in blurring borders between the performer and the listener, distance and intimacy, kitsch and sophitsication, irony and seriousness. He combines various inspirations, such as science fiction, New Age, ASMR and plunderphonics creating concert music, participatory performances, and online pieces. He has been working with such ensembles as Asko|Schönberg, Electronic ID, Ensemble Adapter, Ensemble Garage, Ensemble Nikel, Ives Ensemble, Kwadrofonik, Kwartludium, LUX:NM, New European Ensemble, musikfabrik, Royal String Quartet, Shallfeld Ensemble, Slaagwerk Den Haag, Spółdzielnia Muzyczna Contemporary Ensemble, orkest de ereprijs, Ostravska Banda, The Black Page Orchestra, TWOgether Duo, Wet Ink Ensemble and others. His works have been performed in many countries at such festivals as e.g. Darmstadt International Summer Course for New Music, Festival Presences, Gaudeamus Muziekweek, Klang Festival, Musica Polonica Nova, Musica Electronica Nova, Warsaw Autumn, Gdańsk Music Festival, Nordic Music Days, Ostrava Days, Tampere Biennale, Ultima, Unsafe+Sounds Festival, Young Composers Meeting. Currently, he is based in Berlin updated: 2021 (ac) Composer's website : https://mikolaj-laskowski.com/",
+  "birth": {
+    "place": "Gdynia",
+    "date": "14th October 1988",
+    "raw": "b. 14th October 1988 in Gdynia"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Gezaar Aefir for string quartet (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Aonvrotn for computer (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "AO for ensemble (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "hsvaoe for computer (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Sharfnesses for gamelan and string quartet (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Darling in my Deaf for clarinet, cello and piano (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Flux in die blomster for accordion, cello and 2 megaphones (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Na for ensemble and 2 sopranos (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "'neath me, itch! for accordion and feedback (2013-2014)",
+      "year": "2013-2014"
+    },
+    {
+      "title": "Oh, Zoroaster...I Love You, Too...But... for piano and ensemble (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Badly Stuffed Hands for 1 piano and 3 performers (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Not for you for positive organ (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Untitled for positive organ (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "The tiger left me unsatisfied for bass clarinet, violin, percussion and Hammond organ (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Dzięcielina Pała for flute, clarinet/bass clarinet, oboe, french horn, trumpet, vibraphone, harp (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Continuous Play High Speed Dubbing [composed in collaboration with Mákó Mári] for amplified cassette player (2 performers) (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Limbs of Sun for medieval organ (2 performers) or electronics, flute, bass clarinet, trombone, piano, gongs (3 performers), cello (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Ach, Pocierać Woskową Buddę ( Oh, to Rub the Waxy Buddah ) for 2 samplers, piano, percussion (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Atlantis & **** for flute, bass and contrabass clarinets, harp, percussion, electronics (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Deep Relaxation Vol. 1: Accordion & Viola DNA Delete Mode for accordion, viola or violin and electronics (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Deep Relaxation vol. 2: Accordions & Electronics Causing Situations and Preventing Change for 2 accordions and electronics (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Deep Relaxation vol. 3: Isochronic Flute Subliminal Motivation for bass flute and electronics (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "At the Opening of A Clockwork Orange, 1995 VHS for flute, bass clarinet, baritone saxophone, sampler, violin and cello (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Korprealism 1. Death and Wellness for ensemble, electronics and video (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Safe&Sound® for alto/bass flute, bass clarinet, harp, percussion, electronics and video (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "FIRE UP/ZAPAL SIĘ for flute, bass clarinet, trumpet, percussion, violin, cello, electronics and video (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Outer Space for baritone saxophone, percussion, piano, electric guitar, electronics and video (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "5 Things That Really Matter for ensemble and electronics (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Deep Relaxation vol. 4: Self-Care for 4 performers, electronics and sound objects (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Deep Relaxation vol. 5: It's Your Body for 4 performers, earplugs, snacks and electronics (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Deep Relaxation vol. 6: Sound Isolation for online video and earphones (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Infectious (Feel It®) for big band and electronics (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Deep Relaxation vol. 7: TouchMe for 8 performers, objects and electronics (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Deep Relaxation vol. 8: Do It to Yourself for string quartet, objects, video and electronics (2020)",
+      "year": "2020"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "laskowski-mikolaj-en"
+}

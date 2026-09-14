@@ -1,0 +1,495 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/w/weinberg-mieczyslaw-en",
+  "title": "Weinberg Mieczysław",
+  "name": "Weinberg Mieczysław",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": "(Mieczysław [Moishe, Moisey Samuilovich] Weinberg [Veinberg]), composer and pianist, b. 8 th December 1919 in Warsaw, d. 26 th February 1996 in Moscow. He was born into a musical family. His father was a composer and violinist; he conducted a music ensemble at Warsaw’s Jewish “Scala” Theatre. He was also a head of the Jewish department of the “Syrena Records” phonographic company. It was at the “Scala” Theatre that Weinberg played his first concert as a pianists at age ten (or eleven). In 1931 he began studies the State Warsaw Conservatory in Warsaw. He studied piano under Józef Turczyński and in 1937, he composed for his teacher String Quartet No. 1 . After the outbreak of WWII, he emigrated to the Soviet Union. His family lost their life in the Nazi Trawniki concentration camp in 1943. Weinberg initially settled in Minsk (now Belarus), where in 1939-41 he studied composition with Vasily Zolotarev. In 1941 he fled the German invasion to Tashkent (Uzbekistan), where he worked in the opera and ballet theatre and married Natalia Vovsi-Mikhoels, the daughter the Salomon Mikhoels – the city’s Jewish theatre actor and plays’ director, at that time director of the opera and ballet theatre. Two years later (1943), he sent a manuscript of his Symphony No. 1 to Dmitri Shostakovich in Moscow. This was the start of a long-time friendship between the two composers. Thanks to Shostakovich’s efforts, Weinberg could come to Moscow and he lived there till the end of his life, dedicating himself mostly to composition and giving concerts as a pianist. 1948 saw the assassination of his father-in-law (related to Stalin’s anti-Semitic witch-hunt); five years later Weinberg himself was arrested for the same reasons and spent almost three months in prison. He was released thanks to Shostakovich’s intervention after Stalin’s death. The deep friendship between the composers found its reflection in their music. Shostakovich dedicated to Weinberg his String Quartet No. 10 , and the latter responded with the dedication of his Symphony No. 12 . In 1975 Shostakovich attended the premiere of Weinberg’s opera The Madonna and the Soldier . He could return to Warsaw in 1966, when he was delegated to visit the “Warsaw Autumn” International Festival of Contemporary Music. In 1971 he was awarded the title of Meritorious Artist of the Soviet Union, in 1980 – National Artist of the Soviet Union. In 1990 he received State Award of the Soviet Union. Weinberg’s extensive output comprises 26 symphonies, 7 concertos, 17 string quartets, about 30 song cycles, 22 sonatas for piano and other instruments, 7 operas, 2 ballets, music for 65 films, theatrical plays and radio dramas.",
+  "birth": {
+    "place": "Warsaw",
+    "date": "8th December 1919",
+    "raw": "b. 8 th December 1919 in Warsaw"
+  },
+  "death": {
+    "place": "Moscow",
+    "date": "26th February 1996",
+    "raw": "d. 26 th February 1996 in Moscow"
+  },
+  "works": [
+    {
+      "title": "Two Pieces for piano (1933)",
+      "year": "1933"
+    },
+    {
+      "title": "Three Songs for violin and piano (1934)",
+      "year": "1934"
+    },
+    {
+      "title": "Berceuse for piano op.1 (1935)",
+      "year": "1935"
+    },
+    {
+      "title": "String Quartet No. 1 op. 2/141 (1937, 1985)",
+      "year": null
+    },
+    {
+      "title": "Suite for Orchestra op. 26 (1939-45)",
+      "year": "1939-45"
+    },
+    {
+      "title": "String Quartet No. 2 op. 3 (1940)",
+      "year": "1940"
+    },
+    {
+      "title": "Piano Sonata No. 1 op. 5 (1940)",
+      "year": "1940"
+    },
+    {
+      "title": "Symphony No. 9 for speaker, choir and orchestra op. 93 (1940-67)",
+      "year": "1940-67"
+    },
+    {
+      "title": "Symphonic Poem op. 6 (1941)",
+      "year": "1941"
+    },
+    {
+      "title": "Symphony No. 1 op. 10 (1942)",
+      "year": "1942"
+    },
+    {
+      "title": "Aria for string quartet op. 9 (1942)",
+      "year": "1942"
+    },
+    {
+      "title": "Piano Sonata No. 2 op. 8 (1942)",
+      "year": "1942"
+    },
+    {
+      "title": "Capriccio for violin and piano op. 11 (1943)",
+      "year": "1943"
+    },
+    {
+      "title": "Violin Sonata No. 1 op. 12 (1943)",
+      "year": "1943"
+    },
+    {
+      "title": "Violin Sonata No. 2 op. 15 (1944)",
+      "year": "1944"
+    },
+    {
+      "title": "Piano Quintet op. 18 (1944)",
+      "year": "1944"
+    },
+    {
+      "title": "String Quartet No. 3 op. 14 (1944)",
+      "year": "1944"
+    },
+    {
+      "title": "Three Books for Children for piano op. 16, 19, 23 (1944/45)",
+      "year": null
+    },
+    {
+      "title": "Cello Sonata op. 21 (1945)",
+      "year": "1945"
+    },
+    {
+      "title": "Piano Trio op. 24 (1945)",
+      "year": "1945"
+    },
+    {
+      "title": "Sonata for Clarinet and Piano op. 28 (1945)",
+      "year": "1945"
+    },
+    {
+      "title": "String Quartet No. 4 op. 20 (1945)",
+      "year": "1945"
+    },
+    {
+      "title": "String Quartet No. 5 op. 27 (1945)",
+      "year": "1945"
+    },
+    {
+      "title": "Symphony No. 2 for strings op. 30 (1946)",
+      "year": "1946"
+    },
+    {
+      "title": "String Quartet No. 6 op. 35 (1946)",
+      "year": "1946"
+    },
+    {
+      "title": "Piano Sonata No. 3 op. 31 (1946)",
+      "year": "1946"
+    },
+    {
+      "title": "21 Easy Pieces for Piano op. 34 (1946)",
+      "year": "1946"
+    },
+    {
+      "title": "Festive Tableaux for orchestra op. 36 (1946/47)",
+      "year": null
+    },
+    {
+      "title": "Five Songs for Flute and Piano (1947)",
+      "year": "1947"
+    },
+    {
+      "title": "Violin Sonata No. 3 op. 37 (1947)",
+      "year": "1947"
+    },
+    {
+      "title": "Violin Sonata No. 4 op. 39 (1947)",
+      "year": "1947"
+    },
+    {
+      "title": "Sinfonietta No. 1 op. 41 (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "Concertino for violin and strings op. 42 (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "Cello Concerto op. 43 (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "Symphony No. 3 op. 45 (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "Moldovan Rhapsody for violin and orchestra op.47/3 (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "Sonatina for violin and piano op. 46 (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "Polish Melodies – suite for orchestra op.47/2 (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "String Trio op.48 (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "Improvisation for string quartet (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "Symphonic Songs op. 68 (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "Sonatina for piano op. 49 (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "Fantasy for cello and orchestra op. 52 (1951-53)",
+      "year": "1951-53"
+    },
+    {
+      "title": "Serenade for orchestra op. 47/4 (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Violin Sonata No. 5 op. 53 (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Partita for piano op. 54 (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "The Golden Key – ballet op. 55 (1954/55)",
+      "year": null
+    },
+    {
+      "title": "Piano Sonata No. 4 (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "Piano Sonata No. 5 op. 58 (1956)",
+      "year": "1956"
+    },
+    {
+      "title": "Symphony No. 4 op. 61 (1957)",
+      "year": "1957"
+    },
+    {
+      "title": "Morning-Red [Dawn] – symphonic poem op. 60 (1957)",
+      "year": "1957"
+    },
+    {
+      "title": "String Quartet No. 7 op. 59 (1957)",
+      "year": "1957"
+    },
+    {
+      "title": "The White Chrysanthemum – ballet op. 64 (1958)",
+      "year": "1958"
+    },
+    {
+      "title": "Cello Sonata No. 2 op. 63 (1958/59)",
+      "year": null
+    },
+    {
+      "title": "Sonata for Two Violins op. 69 (1959)",
+      "year": "1959"
+    },
+    {
+      "title": "String Quartet No. 8 op. 66 (1959)",
+      "year": "1959"
+    },
+    {
+      "title": "Violin Concerto op. 67 (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Sinfonietta No. 2 op. 74 (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Sonata No. 1 for Solo Cello op. 72 (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Piano Sonata No. 6 op.73 (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Concerto for Flute and Strings op. 75 (1961)",
+      "year": "1961"
+    },
+    {
+      "title": "Symphony No. 5 op. 76 (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Symphony No. 6 for boys’ choir and orchestra op. 79 (1962/63)",
+      "year": null
+    },
+    {
+      "title": "String Quartet No. 9 op. 80 (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Symphony No. 7 for harpsichord and strings op. 81 (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Symphony No. 8 “Polish Flowers” for tenor, choir and orchestra op. 83 (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Sonata No. 1 for Solo Violin op. 82 (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Sonata No. 2 for Solo Cello op. 86 (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "String Quartet No. 10 op. 85 (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "The Diary of Love for tenor, boys’ choir and chamber orchestra op. 87 (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Piotr Plaksin for alto, tenor and chamber orchestra op. 91 (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Requiem for soprano, children’s choir, choir and orchestra op. 96 (1965-67)",
+      "year": "1965-67"
+    },
+    {
+      "title": "String Quartet No. 11 op. 89 (1965/66)",
+      "year": null
+    },
+    {
+      "title": "Hiroshima Five-Line Stanzas for choir and orchestra op. 92 (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Concerto for Trumpet op. 94 (1966/67)",
+      "year": null
+    },
+    {
+      "title": "Sonata No. 2 for Solo Violin op. 95 (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "The Passenger – opera op. 97 (1967/68)",
+      "year": null
+    },
+    {
+      "title": "Triptych for bass and orchestra op. 99 (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Symphony No. 10 for chamber orchestra op. 98 (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "24 Preludes for Solo Cello op. 100 (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Symphony No. 11 \"Festive\" for choir and orchestra op. 101 (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "String Quartet No. 12 op. 103 (1969/70)",
+      "year": null
+    },
+    {
+      "title": "The Madonna and the Soldier – opera op. 105 (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Concerto for Clarinet and Strings op. 104 (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Sonata No. 3 for Solo Cello op. 106 (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Sonata No. 1 for Solo Viola op. 107 (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Sonata for Double-Bass op. 108 (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "The Love of d'Artagnan – opera op. 109 (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Congratulations! – opera op. 111 (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Lady Magnesia – opera op. 112 (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Symphony No. 12 op. 114 (1975/76)",
+      "year": null
+    },
+    {
+      "title": "Symphony No. 13 op. 115 (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Symphony No. 14 op. 117 (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Symphony No. 15 “I Believe in this Earth!” for soprano, baritone, women’s choir and orchestra op. 119 (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "String Quartet No. 13 op. 118 (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Sonata No. 2 for Solo Viola op. 123 (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "String Quartet No. 14 op. 122 (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Sonata No. 3 for Solo Violin op. 126 (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "The Portrait – opera op. 128 (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "String Quartet No. 15 op. 124 (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Symphony No. 16 op. 131 (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "String Quartet No. 16 op. 130 (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Sonata No. 3 for Solo Viola op. 135 (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Symphony No. 17 “Memory” op. 137 (1982-84)",
+      "year": "1982-84"
+    },
+    {
+      "title": "Symphony No. 18 “ War, there isn’t a Crueller Word ” for choir and orchestra op.138 (1982-84)",
+      "year": "1982-84"
+    },
+    {
+      "title": "Sonata No. 4 for Solo Viola op. 136 (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Symphony No. 19 “Bright May” op. 142 (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Sonata No. 4 for Solo Cello op. 110 (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "String Quartet No. 17 op. 146 (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "The Idiot – opera op. 144 (1986-89)",
+      "year": "1986-89"
+    },
+    {
+      "title": "Chamber Symphony No. 1 op. 145 (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Chamber Symphony No. 2 op. 147 (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Concerto for Flute and Strings No. 2 op.148 (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Peace to the Nations – suite for choir and orchestra op. 149 (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Symphony No. 20 op. 150 (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Chamber Symphony No. 3 op. 151 (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Symphony No. 21 op. 152 (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Chamber Symphony No. 4 op. 153 (1992)",
+      "year": "1992"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Anderson M., Obituary. Moisei Vainberg , “Tempo”, Issue 197, July 1996, „Tempo” Issue 197 July 1996 Dmitriyevna Nikitina L., Weinberg Moisey , In: The New Grove Dictionary of Music and Musicians. Second Edition (ed. Stanley Sadie), Vol. 27, Macmillan Publishers Limited, London 2001, Macmillan Publishers Limited, London 2001 Gwizdalanka Danuta, Mieczysław Wajnberg: kompozytor z trzech światów ,, Teatr Wielki im. Stanisława Moniuszki w Poznaniu, Poznań 2013",
+  "slug": "weinberg-mieczyslaw-en"
+}

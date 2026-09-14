@@ -1,0 +1,55 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/j/jedrzejewski-robert-en",
+  "title": "Jędrzejewski Robert",
+  "name": "Jędrzejewski Robert",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Improwizacja i trans obojga na obój solo (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Chłam na zespół instrumentalny i taśmę (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Concerto Presagio na wiolonczelę i taśmę (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Kalokagathia na taśmę i improwizującego solistę (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Video Partytura performance [wspólnie z Anną Jędrzejewską] (2004-2010)",
+      "year": "2004-2010"
+    },
+    {
+      "title": "Video Partytura 2 performance [wspólnie z Anną Jędrzejewską] (2011-2012)",
+      "year": "2011-2012"
+    },
+    {
+      "title": "Rezonans Energetyczny performance [wspólnie z Anną Jędrzejewską] (2013-2014)",
+      "year": "2013-2014"
+    },
+    {
+      "title": "Pure Intuitive Act performance (2014-2015)",
+      "year": "2014-2015"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "jedrzejewski-robert-en"
+}

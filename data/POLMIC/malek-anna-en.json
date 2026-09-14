@@ -1,0 +1,91 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/m/malek-anna-en",
+  "title": "Małek Anna",
+  "name": "Małek Anna",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Aliens na klawesyn (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Kristallographie na skrzypce, wiolonczelę, gitarę elektryczną i tam-tam (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Imaginary landscape I. Eine Realisation na elektronikę (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Ferdydurkismus na sopran, trąbkę, klarnet, gitarę, altówkę, kontrabas i klawesyn (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "L’exacerbació del romanticisme aboca a la demència na klarnet, skrzypce, wiolonczelę i fortepian (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Vier Stücke für zwei Klaviere (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Carmina 4,7 na 2 trąbki, 2 waltornie, 2 puzony, tubę, perkusję, fortepian i chór mieszany (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Papillons noirs na flet, klarnet (klarnet basowy) i skrzypce (2003-2005)",
+      "year": "2003-2005"
+    },
+    {
+      "title": "Solo for Flute (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Preludio na fortepian (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Kontrollinstanz na kwartet smyczkowy (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Ein Mysterienspiel , opera kameralna (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "From Hell na elektronikę (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "T Tauri na orkiestrę symfoniczną (2005-2008)",
+      "year": "2005-2008"
+    },
+    {
+      "title": "Trifida na fortepian (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "To repel ghosts na flet, obój, waltorni ę, skrzypce i fortepian (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Ku najjaśniejszej z gwiazd na chór głosów równych, skrzypce, altówkę i wiolonczelę (2011)",
+      "year": "2011"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "malek-anna-en"
+}

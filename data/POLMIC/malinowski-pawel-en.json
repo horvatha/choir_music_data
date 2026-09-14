@@ -1,0 +1,91 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/m/malinowski-pawel-en",
+  "title": "Malinowski Paweł",
+  "name": "Malinowski Paweł",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Transgresje na fortepian (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Panteistyczne na sopran i zespół (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Romantic landscape na flet, klarnet, perkusję, skrzypce i wiolonczelę (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "…still untitled:( [love songs] na saksofon, perkusję, fortepian, kontrabas i elektronikę (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Płótno ( Canvas ) na amplifikowane organy i wideo (2015-2016)",
+      "year": "2015-2016"
+    },
+    {
+      "title": "schwarzeis for na klarnet basowy, perkusję i wiolonczelę (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Future is calling us na elektronikę (4.1) (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "quick guide to contemporary guitar na gitarę elektryczną, wideo i elektronikę (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "I <3 Franz na kwartet smyczkowy (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "no właśnie co na głos, sampler i wiolonczelę (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Viens! Maman va te prendre en photo na 7 muzyków, wideo i elektronikę (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Smuga cienia na fortepian i elektronikę (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "…über BWV 971 na flet i trio smyczkowe (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Dziś wydaje mi się że jest lepiej na 11 muzyków, wideo i elektronikę (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "It helps relieve tension na flet basowy, kontrabas i elektronikę (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "C’mon Join to Joyride na 3 performerów, magnetofony i wideo (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Op.50/>№1 na fortepian (2017)",
+      "year": "2017"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "malinowski-pawel-en"
+}

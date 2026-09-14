@@ -1,0 +1,199 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/r/radko-piotr-en",
+  "title": "Radko Piotr",
+  "name": "Radko Piotr",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Invocatio et Psalmus na pięć instrumentów smyczkowych (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Sonata na fortepian nr 1 (1983-84)",
+      "year": "1983-84"
+    },
+    {
+      "title": "Tren na wielką orkiestrę symfoniczną (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Epitafium-Metamorfozy na orkiestrę kameralną (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Cantabile. Allegro con fuoco na skrzypce, wiolonczelę i fortepian (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Introdukcja. Allegro barbaro na kontrabas z fortepianem (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Sinfonietta na orkiestrę (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Pięć utworów na fortepian (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Symfonia nr 2 na orkiestrę (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Sonata na fortepian nr 2 (1998-99)",
+      "year": "1998-99"
+    },
+    {
+      "title": "Koncert na kontrabas i orkiestrę (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Cztery bagatele na skrzypce i fortepian (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Sześć utworów na fortepian (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Postscriptum na orkiestrę smyczkową (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Sonata na wiolonczelę i fortepian (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Kantylena na orkiestrę symfoniczną (2005-2006)",
+      "year": "2005-2006"
+    },
+    {
+      "title": "Siedem miniatur na fortepian (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Poemat ekspresji na 13 instrumentow smyczkowych (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Adagio na orkiestrę symfoniczną (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Festliche Mülheimer Konzertouvertüre na orkiestrę symfoniczną (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Medytacja wielkanocna na orkiestrę smyczkową (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Largo na klarnet i kwartet smyczkowy (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Osiem utworów na fortepian (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Preludia na fortepian (2011-2013)",
+      "year": "2011-2013"
+    },
+    {
+      "title": "Sonatina na flet i fortepian (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Scherzo na obój i fortepian (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Temat z wariacjami na klarnet i fortepian (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Humoreska na fagot i fortepian (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Sonatina na skrzypce i fortepian (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Legenda na altówkę i fortepian (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Nokturn na wiolonczelę i fortepian (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Pieśń bez słów na fortepian (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Małe studia na fortepian (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Suita romantyczna na kwartet smyczkowy (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Rondo concertante na orkiestrę symfoniczną (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Elegia na fortepian (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Intermezzo na fortepian (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Adagio II na orkiestrę symfoniczną (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Sonata na fagot i fortepian (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Sentymentalny walc na fortepian (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Vocalise for choir a cappella (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "Nokturn na fortepian (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "Scherzo na fortepian (2022)",
+      "year": "2022"
+    },
+    {
+      "title": "Nostalgia for piano (2025)",
+      "year": "2025"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Blechert Bożena, Tradycja i nowatorstwo w „I Sonacie fortepianowej” Piotra Radko, Akademia Muzyczna w Gdańsku, Gdańsk 1987 Bauman-Szulakowska Jolanta, Dziadek Magdalena, Turek Krystyna, Utwory i publikacje członków katowickiego oddziału ZKP, Związek Kompozytorów Polskich – Oddział w Katowicach, Katowice 1994",
+  "slug": "radko-piotr-en"
+}

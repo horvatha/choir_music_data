@@ -1,0 +1,467 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/g/grudzien-jacek-en",
+  "title": "Grudzień Jacek",
+  "name": "Grudzień Jacek",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "composer, b. 7th December 1961 in Warsaw. He studied composition with Włodzimierz Kotoński and piano improvisation with Szabolcs Esztényi in Warsaw Music Academy. He participated in courses of composition in Darmstadt, Kazimierz Dolny, Patras and Dartington. In 1986-87, thanks to a postgraduate scholarship funded by Witold Lutosławski, he studied electronic music and MIDI system in London. At present, he collaborates with the Experimental Studio of the Polish Radio. His interests include also music for the theatre and film. Jacek Grudzień is a winner of the Young Composers’ Competition of the Polish Composers’ Union (1988) and the All-Polish Competition for a Work for Classical Guitar (1995). In 2003 his Ad Naan was a recommended work at the International Composers’ Rostrum under the auspices of UNESCO in Vienna. He lives and works in Warsaw.",
+  "birth": {
+    "place": "Warsaw",
+    "date": "7th December 1961",
+    "raw": "b. 7th December 1961 in Warsaw"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Tristaniana for piano (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Turdus musicus for amplified harpsichord (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Movement I for double-bass (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Music from the Window for two violins (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Mechanical Garden for piano (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "For E. Luise, or A Certain Pianist’s Nightmare , instrumental theatre for oboe, clarinet, 2 trombones, percussion and piano (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Sonosphere for tape (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Androvanda for solo guitar (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Interlude for piano (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Violin Concerto (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Hologram for string quartet (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Sounds of the Night for tenor saxophone and digital delay (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Lumen for mixed choir and symphony orchestra (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Somnus for tape (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Hologram II for string quartet (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Movement II for double-bass and tape (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Trees for alto saxophone and tape (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Missa brevis for mixed choir (or boys’ and men’s choir) and brass quintet (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Wind from the Sea for clarinet (or soprano saxophone) and piano (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Tritonos for harpsichord and tape (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Pavane for cello and tape (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Muzyka do serialu Jest jak jest w reż. Jana Łomnickiego i in. (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "One Jubilee Rag for clarinet, trombone, cello and piano (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Hyacinth Girl for soprano and tape (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Nonstrom for clarinet, trombone, cello and piano (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Galliard for string quartet (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Concerto per sassofono soprano ed archi (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Slanting Light for soprano, alto saxophone and piano (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Postlude for piano, violin and cello (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Study of an Object for piano for four hands (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Oktet na instrumenty smyczkowe (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Ad Naan for cello and computer sound processing (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Leanyka for flute and tape (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Piosenka na klarnet, puzon, wiolonczelę, fortepian i taśmę (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "YAZD na orkiestrę (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Preparation for Change na fortepian, tancerza i taśmę (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Muzyka do spetaklu Pakujemy manatki. Komedia na osiem pogrzebów w reż. Artura Tyszkiewicza (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Muzyka do filmu W punkcie zero w reż. Małgorzaty Trznadel (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Muzyka do filmu Rabbi w reż. Elżbiety Rottermund i Michała Górala (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Muzyka do filmu Na swoje podobieństwo w reż. Grzegorza Zglińskiego (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Muzyka do filmu AlaRm w reż. Dariusza Gajewskiego (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Muzyka do filmu Tout un hiver sans feu w reż. Grzegorza Zglińskiego (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Muzyka do filmu Wymyk w reż. Grzegorza Zglińskiego (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Muzyka do filmu Ostatnie piętro w reż. Tadeusza Króla (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Muzyka do spektaklu radiowego Jest jak jest w reż. Janusza Kukuły (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Muzyka do spektaklu Noc w teatrze w reż. Marka Robaczewskiego (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Muzyka do spektaklu Alkestis w reż. Zbigniewa Maciaka (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Muzyka do spektaklu Tatuowana róża w reż. Zdzisława Wardejna (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Muzyka do spektaklu Magnetyzm serca w reż. Sylwii Torsh (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Muzyka do spektaklu Burza w reż. Zbigniewa Brzozy (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Muzyka do spektaklu Zatrudnimy clowna w reż. Emilii Sadowskiej (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Muzyka do spektaklu The Weir ( Tama ) w reż. Agnieszki Lipiec-Wróblewskiej (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Muzyka do spektaklu Czarownice z Salem w reż. Remigiusza Brzyka (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Muzyka do spektaklu Kaleka z Inishmaan w reż. Remigiusza Brzyka (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Muzyka do spektaklu Noc Helvera w reż. Zbigniewa Brzozy (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Muzyka do spektaklu Miłość na Madagaskarze w reż. Zbigniewa Brzozy (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Muzyka do spektaklu Wiśniowy sad w reż. Remigiusza Brzyka (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Muzyka do spektaklu Romeo i Julia w reż. Waldemara Zawodzińskiego (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Muzyka do spektaklu Podróż do Buenos Aires [we współautorstwie z Gregiem Zglinskim] w reż. Mariana Półtoranosa (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Muzyka do spektaklu Kadisz w reż. Remigiusza Brzyka (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Muzyka do spektaklu telewizyjnego Portugalia w reż. Zbigniewa Brzozy (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Muzyka do spektaklu Amadeus w reż. Zbigniewa Brzozy (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Muzyka do spektaklu Zima w reż. Mateusza Bednarkiewicza (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Muzyka do spektaklu 20 minut z aniołem w reż. Andrzeja Majczaka (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Muzyka do spektaklu norway.today w reż. Andrzeja Majczaka (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Muzyka do spektaklu Mewa w reż. Zbigniewa Brzozy (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Muzyka do spektaklu Gry w reż. Redbada Klynstra (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Muzyka do spektaklu Bal pod Orłem w reż. Zbigniewa Brzozy (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Muzyka do spektaklu telewizyjnego Mary Stuart w reż. Remigiusza Brzyka (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Muzyka do spektaklu Merylin Mongoł w reż. Nikołaja Kolady (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Muzyka do spektaklu Wojna matka w reż. Remigiusza Brzyka (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Muzyka do spektaklu Więź w reż. Zbigniewa Brzozy (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Muzyka do spektaklu telewizyjnego Géza dzieciak w reż. Zbigniewa Brzozy (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Muzyka do spektaklu telewizyjnego The Weir ( Tama ) w reż. Agnieszki Lipiec-Wróblewskiej (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Muzyka do spektaklu Mały bies w reż. Remigiusza Brzyka (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Muzyka do spektaklu radiowego Motel w pół drogi w reż. Janusza Kukuły (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Muzyka do spektaklu Światła miasta , reż. K. Majchrzak, B. Nowicka (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Muzyka do spektaklu Rozkłady jazdy, czyli ostatnie przedstawienie sztuki Michaela Frayna \"Chińczycy\" w reż. Agnieszki Lipiec-Wróblewskiej (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Muzyka do spektaklu mede:a w reż. Grzegorza Jarzyny (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Muzyka do spektaklu Pasja w reż. Zbigniewa Brzozy (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Muzyka do spektaklu Edmond w reż. Zbigniewa Brzozy (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Muzyka do spektaklu Komedia omyłek w reż. Zbigniewa Brzozy (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Muzyka do spektaklu Lew w zimie w reż. Grzegorza Jarzyny (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Muzyka do spektaklu Powrót do domu w reż. Artura Urbańskiego (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Muzyka do spektaklu Brygada szlifierza Karhana w reż. Remigiusza Brzyka (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Muzyka do spektaklu radiowego Iwona, księżniczka Burgunda w reż. Artura Tyszkiewicza (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Muzyka do spektaklu telewizyjnego O prawo głosu w reż. Janusza Petelskiego (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Muzyka do spektaklu T.E.O.R.E.M.A.T. w reż. Grzegorza Jarzyny (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Muzyka do spektaklu Miasto w reż. Artura Urbańskiego (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Muzyka do spektaklu Balladyna w reż. Artura Tyszkiewicza (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Muzyka do spektaklu Areteia w reż. Grzegorza Jarzyny (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Muzyka do spektaklu Sprzedawcy gumek w reż. Artura Tyszkiewicza (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Muzyka do spektaklu Wodzirej w reż. Remigiusza Brzyka (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Muzyka do spektaklu Generał w reż. A. Popławskiej, M. Kality (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Muzyka do spektaklu Shitz w reż. Artura Tyszkiewicza (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Muzyka do spektaklu Z Różewicza dyplom w reż. Zbigniewa Brzozy (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Muzyka do spektaklu Józef i Maria w reż. Grzegorza Wiśniewskiego (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Muzyka do spektaklu Korzeniec w reż. Remigiusza Brzyka (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Muzyka do spektaklu Sen nocy letniej w reż. Artura Tyszkiewicza (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Muzyka do spektaklu Był sobie Polak, Polak, Polak i diabeł, czyli w heroicznych walkach narodu polskiego wszystkie sztachety zostały zużyte w reż. Remigiusza Brzyka (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Muzyka do spektaklu Nosorożec w reż. Artura Tyszkiewicza (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Muzyka do spektaklu Gorączka czerwcowej nocy w reż. Remigiusza Brzyka (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Muzyka do spektaklu Siła przyzwyczajenia w reż. Remigiusza Brzyka (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Muzyka do spektaklu Noc żywych Żydów w reż. A. Popławskiej, M. Kality (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Muzyka do spektaklu Druga kobieta w reż. Grzegorza Jarzyny (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Muzyka do spektaklu Mistrz i Małgorzata w reż. Artura Tyszkiewicza (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Muzyka do spektaklu Obwód głowy w reż. Zbigniewa Brzozy (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Muzyka do spektaklu Rzeźnia w reż. Artura Tyszkiewicza (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Muzyka do spektaklu Przyjdzie Mordor i nas zje, czyli Tajna historia Słowian w reż. Remigiusza Brzyka (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Muzyka do spektaklu Herkules i stajnia Augiasza w reż. Artura Tyszkiewicza (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Muzyka do spektaklu Ziemia obiecana w reż. Remigiusza Brzyka (2015)",
+      "year": "2015"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "grudzien-jacek-en"
+}

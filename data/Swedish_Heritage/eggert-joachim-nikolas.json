@@ -5,9 +5,9 @@
   "years": "1779−1813",
   "description": "Born on 25 February 1779 in Ginst in Swedish Pomerania, died on 14 April 1813 in Kisa, Sweden. Music director of the court theatre in Mecklenburg-Schwerin in 1802, travelled to Stockholm the following year where he was employed by the Royal Court Orchestra as violinist (1803−07) and then as hovkapellmästare (chief conductor) (1808−11). He conducted the first Swedish production of a Mozart opera ( The Magic Flute ) and introduced Beethoven’s early symphonies. He composed in a Viennese classical style with features of romanticism. In his final years he also became a collector of folk songs. Elected into the Royal Swedish Academy of Music in 1807.",
   "birth": {
-    "place": null,
-    "date": null,
-    "raw": null
+    "place": "Ginst in Swedish Pomerania",
+    "date": "25 February 1779",
+    "raw": "Born on 25 February 1779 in Ginst in Swedish Pomerania,"
   },
   "death": {
     "place": "Kisa, Sweden",

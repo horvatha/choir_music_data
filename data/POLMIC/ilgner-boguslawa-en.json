@@ -1,0 +1,35 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/i/ilgner-boguslawa-en",
+  "title": "Ilgner Bogusława",
+  "name": "Ilgner Bogusława",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Czarodziejski Kwiat opera dziecięca (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Pierścień Dziwolongów opera dziecięca (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Lis i sroka bajka muzyczna wg. bajki La Fontaine’a (1966)",
+      "year": "1966"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "ilgner-boguslawa-en"
+}

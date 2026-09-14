@@ -1,0 +1,375 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/r/rudzinski-witold-en",
+  "title": "Rudziński Witold",
+  "name": "Rudziński Witold",
+  "occupation": "composer, musicologist",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Sonatina na flet i fortepian (1934)",
+      "year": "1934"
+    },
+    {
+      "title": "Koncert fortepianowy [wersja I] (1936)",
+      "year": "1936"
+    },
+    {
+      "title": "Divertimento na orkiestrę smyczkową (1940)",
+      "year": "1940"
+    },
+    {
+      "title": "Ballada o Janosiku [wersja I] na głos i fortepian (1941)",
+      "year": "1941"
+    },
+    {
+      "title": "Symfonia nr 2 (1944)",
+      "year": "1944"
+    },
+    {
+      "title": "Pięć lat , poemat wojenny na chór mieszany a cappella (1945)",
+      "year": "1945"
+    },
+    {
+      "title": "Siedem pieśni ludowych na chór mieszany (1945)",
+      "year": "1945"
+    },
+    {
+      "title": "Sonata na altówkę i fortepian (1946)",
+      "year": "1946"
+    },
+    {
+      "title": "Koncert fortepianowy [wersja II] (1947)",
+      "year": "1947"
+    },
+    {
+      "title": "Nonet na flet, obój, klarnet, fagot, róg, skrzypce, altówkę, wiolonczelę i kontrabas (1947)",
+      "year": "1947"
+    },
+    {
+      "title": "Pieśni kurpiowskie , 8 pieśni na mały zespół orkiestrowy, 2-głosowy chór mieszany lub 2 solistów (1947)",
+      "year": "1947"
+    },
+    {
+      "title": "Trzy pieśni do tekstów ludowych na chór mieszany (1947)",
+      "year": "1947"
+    },
+    {
+      "title": "Suita polska na fortepian (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "Janko Muzykant , opera w 3 aktach (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "Chłopska droga , kantata na sopran, tenor, baryton, chór mieszany i orkiestrę (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Przewodnik liryczny po Warszawie na sopran i fortepian (1953-81)",
+      "year": "1953-81"
+    },
+    {
+      "title": "Kwintet z fletem (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "Ballada o Janosiku [wersja II] na chór mieszany i małą orkiestrę (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "Lustro życia , śpiewogra w 3 aktach (1957)",
+      "year": "1957"
+    },
+    {
+      "title": "Parady [wersja I], suita na orkiestrę symfoniczną (1958)",
+      "year": "1958"
+    },
+    {
+      "title": "Muzyka koncertująca na fortepian i orkiestrę kameralną (1958)",
+      "year": "1958"
+    },
+    {
+      "title": "Komendant Paryża (Jarosław Dąbrowski) , opera w 3 aktach (1958)",
+      "year": "1958"
+    },
+    {
+      "title": "Deux portraits des femmes na sopran solo i kwartet smyczkowy (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Dach świata , poemat muzyczny na głos recytujący i orkiestrę symfoniczną (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Odprawa posłów greckich , opera w 1 akcie (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Sulamita , opera w 1 akcie (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Obrazy Świętokrzyskie na orkiestrę symfoniczną (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Moniuszkiana , suita symfoniczna (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Gaude Mater Polonia , muzyka oratoryjna na głos recytujący, sopran, alt, tenor, chór mieszany i orkiestrę symfoniczną (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Wariacje i fuga na perkusję solo (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Preludia na klarnet, altówkę, harfę i perkusję (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Largo, aria e toccata per arpa sola (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Lipce , muzyka oratoryjna na chór mieszany i orkiestrę (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Burleska na klarnet i fortepian (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Polonaise-rapsodie na wiolonczelę i fortepian (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Żółta szlafmyca , komedioopera w 3 aktach (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Concerto grosso [wersja I] na perkusję solo i dwie orkiestry smyczkowe (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Fantazja góralska na gitarę solo (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Uwertura góralska na orkiestrę symfoniczną (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Chłopi , opera (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Do obywatela Johna Browna , concertino na sopran oraz flet, róg, wiolonczelę, fortepian i perkusję (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Proverbia latina na klawikord (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Quasi una sonata per pianoforte (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Gdziekolwiek ziemia jest snem na sopran i fortepian (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Duo concertante per batteria (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Dwie pieśni do słów Cypriana Kamila Norwida na głos i fortepian (1976-77)",
+      "year": "1976-77"
+    },
+    {
+      "title": "Sonata na klawesyn (1977-78)",
+      "year": "1977-78"
+    },
+    {
+      "title": "Sonata pastorale na skrzypce i fortepian (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Śpiewające podwórko (Dzięcioł i sosna) , 20 piosenek dla dzieci na głos i fortepian (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Dzięcioł i sosna , piosenki dla dzieci na głos i fortepian (1978-97)",
+      "year": "1978-97"
+    },
+    {
+      "title": "Capriccio-Impromptu – Hommage à Bizet [wersja I] na skrzypce i fortepian (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Ricercar sopra „Roman Lasocki” per violino solo (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Pierścień i róża , opera dla dzieci (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Pobudka na czworo skrzypiec (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Capriccio-Impromptu – Hommage à Bizet [wersja II] na skrzypce i małą orkiestrę (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Chleba powszedniego , motet na głos męski, chór mieszany i organy (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Trzy pieśni starohebrajskie na głos i fortepian (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Dialog , sonata na saksofon altowy i fortepian (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Dzieńdobrynki, dobranocki... na głos i fortepian (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "W kręgu psalmów , muzyka oratoryjna na sopran, tenor, baryton, chór chłopięcy, dwa chóry mieszane i 6 grup perkusyjnych (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Plejady , sonata na klarnet i fortepian (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Kasjopea , sonata na skrzypce i fortepian (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Trzy liturgie etiopskie na 6 głosów męskich (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Pies i mucha , 6 utworów dla dzieci na skrzypce i fortepian (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Kotek i kłębuszek , utwory na fortepian dla dzieci (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Gadanki – śpiewanki na chór mówiony (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Madonna [wersja I], 5 pieśni na sopran (ad libitum z fletem lub klarnetem) i fortepian (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Jakub i Rachel , balet na mały zespół perkusyjny i mały chór (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Psalmus VI „Domine, ne in furore tuo arguas me” na 5 głosów (lub chór) i organy (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Słowa Panny Maryji na chór mieszany i małą orkiestrę (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Concerto grosso [wersja II] na perkusję solo i 2 fortepiany (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Madonna [wersja II], 5 pieśni na głos i orkiestrę symfoniczną (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Laurea Romana poetorum , 5 pieśni na chór mieszany a cappella (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Serenata per violino, viola e violoncello (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Litania Ostrobramska na sopran, 2 trąbki, 4 kotły i organy (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Etude-Fantaisie pour flûte et piano (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Capriccio per clarinetto solo (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Kaszubskie pieśni weselne na chór mieszany a cappella (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Trio klarnetów na 3-5 klarnetów (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Planctus. Lament Świętokrzyski. Żale Matki Boskiej pod Krzyżem na chór z organami ad libitum (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Trzy pieśni na chór a cappella (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "O morsciech wiatrach na chór mieszany a cappella (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Passacaglia per violino solo (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Divertimento rustico na orkiestrę smyczkową (1996-97)",
+      "year": "1996-97"
+    },
+    {
+      "title": "Już próżno! na głos i fortepian (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Triplo concerto per tromba, due corni, batteria concertante e orchestra d’archi (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Improvvisazione sopra il nome J. S. Bach na fortepian (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Gaspar Ruiz [niedokończony], opera w 1 akcie na solistów, chór i orkiestrę (2002)",
+      "year": "2002"
+    }
+  ],
+  "publications": "Lekcje słuchania muzyki. Zarys metodyki dla szkół umuzykalniających, PWM, Kraków 1947 Co to jest opera, PWM, Kraków 1955 Stanisław Moniuszko, cz. I W Wilnie , PWM, Kraków 1955 Stanisław Moniuszko, cz. II W Warszawie , PWM, Kraków 1961 Warsztat kompozytorski Beli Bartoka, PWM, Kraków 1964 Muzyka dla wszystkich, PWM, Kraków 1966 Moniuszko i jego muzyka, PZWS, Warszawa 1970 O muzyce przy głośniku. Nauka słuchania muzyki, PWM, Kraków 1975 Nauka o rytmie muzycznym, PWM, Kraków 1987",
+  "bibliography": "Witoldowi Rudzińskiemu w 80-lecie urodzin, Akademia Muzyczna w Warszawie, Warszawa 1993 Thomas Adrian, Rudziński Witold, Macmillan Publishers Limited, London 2001 Goniarska Barbara, Rudziński Witold, Akademia Muzyczna w Warszawie, Warszawa 2004",
+  "slug": "rudzinski-witold-en"
+}

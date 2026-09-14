@@ -1,0 +1,363 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/r/rydzewska-zaneta-en",
+  "title": "Rydzewska Żaneta",
+  "name": "Rydzewska Żaneta",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": "composer and clarinetist; b. October 5, 1991, Ełk. She completed her studies at the Fryderyk Chopin University of Music in the composition classes of Aleksander Kościów and Stanisław Moryto, and the clarinet class of Wojciech Mrozek, as well as at the Hochschule für Musik und Tanz Köln in the composition class of Brigitta Muntendorf. In 2021, she furthered her education with postgraduate studies in philosophy at the University of Warsaw, and in 2026, she was awarded the degree of Doctor of Arts. She has consulted on her works during composition masterclasses with such figures as George Friedrich Haas, Wolfgang Rihm, Dieter Ammann, Francesco Filidei, Simon Steen-Andersen, Enno Poppe, Alexander Schubert, Michael Beil, Marko Nikodijevic, Caspar Johannes Walter, Carola Bauckholt, Matthew Shlomowitz, Manos Tsangaris, and Mathias Spahlinger. In 2025, she participated in Max/MSP courses at IRCAM as part of the \"Young Researchers of FCUM\" project. Her artistic achievements have been recognized through numerous awards and fellowships, including the Bernd-Alois-Zimmermann-Stipendium in Cologne (2019), scholarships from the Minister of Culture and National Heritage for outstanding academic and artistic results (2018/2019), the \"Young Poland\" scholarship (2020), as well as grants from the Marshal of the Warmian-Masurian Voivodeship and the Rector of the FCUM. Her competition record includes a distinction for a work set to an Esperanto text at the \"Esperanto\" Music Competition (2008), second prize at the Festival of Young Creators in Białystok (2009), and distinctions at the 2nd \"Patri Patrie\" International Composition Competition in Katowice (2014) and the 3rd M. Stachowski National Competition for Young Composers in Kraków (2016). She received second prizes at the \"...when I think Berio...\" National Composition Competition in Wrocław (2015) and the FCUM Inter-University Composition Competition (2015). Furthermore, she was a laureate of the AKOM Ensemble International Call for Scores in Rotterdam and the 7th Z. Mycielski Composition Competition (2016). Her later accolades include third prize at the Stanisław Moniuszko Composition Competition in Gdańsk (2018), an Individual Prize at the IEMA Ensemble International Call for Scores (2018), and the International BTHVN Competition in Bonn (2020). In 2020, she was a laureate of \"The Science of Fiction\" competition organized by the Adam Mickiewicz Institute and Klangforum Wien (ex aequo with Mikołaj Laskowski). She also received the \"Best Original Score\" award at the WIFFEN 2022 international film festival in Nigeria for the film Last Days of Summer, directed by Klaudia Kęska, and won the Internationaler Acht Brücken Kompositionswettbewerb (2025), which led to a commission for her work Superheroines by the Kölner Philharmonie. In her compositions, she frequently references nature, physics, and philosophy, while addressing contemporary social issues and interpersonal relations. Her output focuses on instrumental music integrated with electronics, choreography, video, lighting, installations, and olfaction. Her professional experience includes collaborations with numerous renowned ensembles, such as Ensemble intercontemporain, Ensemble Modern, WDR Sinfonieorchester, Klangforum Wien, Ensemble Musikfabrik, Trio Catch, Mivos Quartet, Sinfonia Varsovia, Polish Radio Symphony Orchestra, Lüneburger Symphoniker, AUKSO, Silesian Quartet, Kwartludium, Ensemble Garage, hand werk, Schwerpunkt Ensemble, Internationale Ensemble Modern Akademie, Spółdzielnia Muzyczna, Ensemble for New Music Tallinn, United Instruments of Lucilin, electronic ID, Broken Frames Syndicate, Kollektiv3:6Koeln, AKOM Ensemble, Chopin University Modern Ensemble, and Sinfonietta Pomerania. Her works have been performed at major festivals, including Warsaw Autumn, ManiFeste (IRCAM), Wittener Tage für neue Kammermusik (WDR3), Lucerne Festival, Ultraschall Berlin, Acht Brücken, Orgel-Mixturen (Deutschlandfunk), Tampere Biennale, Sacrum Profanum, Festival of Premieres, Ad libitum, Korvat auki Helsinki, ON-Cologne, Avant Art Festival, AudioArt, T. Stańko Jazz Autumn, High Noon Musik 2000+ in Konstanz, Cluster in Lucca, Warsaw Music Meetings, and New Waves in Gdańsk. She has also participated in the ManiFeste Academy, Luxembourg Composition Academy, Lucerne Festival Academy, and Donaueschinger Musiktage \"Next Generation\". The composer currently teaches instrumentation and computer music composition at the Department of Composition and Music Theory of the FCUM. She served as the chair of the Youth Circle of the Polish Composers' Union (ZKP) from 2016 to 2018 and has been a member of the ZKP since 2023. As of 2026, she serves as the faculty advisor for the Youth Circle of the ZKP. In 2022, she was honored with the ZAiKS Authors' Association Award for the best composer of the young generation during the Fryderyk Awards Gala.",
+  "birth": {
+    "place": "Ełk",
+    "date": "October 5, 1991",
+    "raw": "b. October 5, 1991, Ełk"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Miniature for clarinet and piano (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Trio for clarinet, bass clarinet (or cello) and piano (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Tale for clarinet (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Metamorphoses for accordion (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Barcarolle for violin, clarinet and piano (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Toccata for piano (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Though for oboe and piano (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "You Who Wronged... for mezzo-soprano and piano (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "SynEsthESiA for accordion (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "WINDows for clarinet in E flat solo (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Elegy for clarinet and orchestra (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Close and Distant for alto and string orchestra (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Der verlorene Berg for accordion (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Les mots se moquent de nous... for accordion and string quartet (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "MorE for instrumental ensemble (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Fydihom for instrumental ensemble (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "5/3 for string quartet (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "I am d'Arc for soprano and orchestra (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Winterwald for clarinet, accordion and percussion (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Gestern ist sie von mir gegangen... for baritone and piano (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "String Quartet (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "A complaint for soprano, clarinet, horn, piano and percussion (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Hidden for clarinet, accordion, viola and percussion (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "IN for string orchestra (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Am Scheideweg for accordion and harpsichord (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Rose for symphony orchestra (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Folla for viola and accordion (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "after all for alto saxophone and piano (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Alone I for clarinet, violin, piano and percussion (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Torrent for alto saxophone, accordion, viola and electronics (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Tagtraum for clarinet and accordion (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Concerto for clarinet and orchestra (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Dauer for clarinet and electronics (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "spit it out for flute, clarinet, violin, viola and cello (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "under for clarinet, cello and piano (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "underneath for flute, clarinet, violin, viola, cello and objects (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "so forth for viola, electronics and video (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "so forth and so forth for clarinet, electronics, video and lights (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "binaural beats for symphony orchestra (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "circles for accordion (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "relaxation music for chamber orchestra (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "no-body for ensemble, video, electronics and scents (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "where , theatre music for violin, two violas and objects (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "data processing for chamber ensemble (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "3/3 for saxophone, accordion and piano (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "error for three female performers, objects and electronics (with Teoniki Rożynek and Aleksandra Kaca; 2019)",
+      "year": null
+    },
+    {
+      "title": "der Kuss , music theatre for children's choir (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "sit back and relax for piano, percussion, double bass, electronics and lights (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "returns for clarinet and electronics (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "#bawsiedobrze , sound installation (with Dorota Błaszczak, Teoniki Rożynek, Wiktor Gniazdowski, Bartłomiej Majewicz and Emil Rymanowicz; 2019)",
+      "year": null
+    },
+    {
+      "title": "Nocny lot , dir. Agnieszka Mastalerz (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Ciało-proces , theater play, dir. Pamela Leończyk (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "double concerto for clarinet, percussion and orchestra (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Ultimate errors compilation , improvisation for three performers, objects, instruments and live electronics (with Aleksandra Kaca and Teoniki Rożynek; 2020)",
+      "year": null
+    },
+    {
+      "title": "Defense mechanisms for clarinet, percussion and orchestra (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "don't look for two violins, accordion, piano, percussion and electronics (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Music for the film Ostatnie dni lata , dir. Klaudia Kęska (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Zauberwürfel for brass quintet (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "The winner is... for flute, clarinet, cello, small percussion and choreography (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "Außerhalb der Zeit for organ (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "Innerhalb for piano (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "to my stars for chamber ensemble (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "Forest Specters for horn, light and electronics (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "Take me for soprano, piano and percussion (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "Elusive for ensemble and electronics (2022)",
+      "year": "2022"
+    },
+    {
+      "title": "Fanfare for flute, violin, percussion and piano (2022)",
+      "year": "2022"
+    },
+    {
+      "title": "Hin und her for saxophone and harpsichord (2022)",
+      "year": "2022"
+    },
+    {
+      "title": "Lass mich for soprano and piano (2022)",
+      "year": "2022"
+    },
+    {
+      "title": "Music for the film Corrida , dir. Piotr Karolczak (2022)",
+      "year": "2022"
+    },
+    {
+      "title": "Plath , theater play, dir. Katarzyna Kalwat (2022)",
+      "year": "2022"
+    },
+    {
+      "title": "botanical studies for string quartet and electronics (2023)",
+      "year": "2023"
+    },
+    {
+      "title": "Frost for orchestra (2023)",
+      "year": "2023"
+    },
+    {
+      "title": "Le Petit Scandale for flute and clarinet (2023)",
+      "year": "2023"
+    },
+    {
+      "title": "Doubler for accordion and ensemble (2023)",
+      "year": "2023"
+    },
+    {
+      "title": "Insatiability for ensemble and electronics (2023)",
+      "year": "2023"
+    },
+    {
+      "title": "Vor lauterm Lärm for soprano, flute, clarinet, viola and double bass (2023)",
+      "year": "2023"
+    },
+    {
+      "title": "Soma for multi-channel audio playback (2023)",
+      "year": "2023"
+    },
+    {
+      "title": "Roast for performer (composer) solo (2023)",
+      "year": "2023"
+    },
+    {
+      "title": "Tunnelblick for ensemble, video, lights and electronics (2023-2024)",
+      "year": "2023-2024"
+    },
+    {
+      "title": "The Painted Bird for ensemble and electronics (2024)",
+      "year": "2024"
+    },
+    {
+      "title": "Entomophony for clarinet, percussion, piano, violin and electronics (2024)",
+      "year": "2024"
+    },
+    {
+      "title": "Fire for orchestra (2024)",
+      "year": "2024"
+    },
+    {
+      "title": "Symphony for orchestra (2024-2025)",
+      "year": "2024-2025"
+    },
+    {
+      "title": "Melodrama for recorder, flute, harp, harpsichord and electronics (2025)",
+      "year": "2025"
+    },
+    {
+      "title": "MySource , video (2025)",
+      "year": "2025"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "rydzewska-zaneta-en"
+}

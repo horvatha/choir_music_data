@@ -1,0 +1,27 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/o/olszewski-jaroslaw-en",
+  "title": "Olszewski Jarosław",
+  "name": "Olszewski Jarosław",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Pocztówki muzyczne musical-opera dziecięca w reż. Magdaleny Wąsowskiej do słów Wojciecha Graniczewskiego (2014)",
+      "year": "2014"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "olszewski-jaroslaw-en"
+}

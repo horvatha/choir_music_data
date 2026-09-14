@@ -1,0 +1,219 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/k/kiesewetter-tomasz-en",
+  "title": "Kiesewetter Tomasz",
+  "name": "Kiesewetter Tomasz",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": "composer, conductor and academic teacher, b. 8th September 1911 in Sosnowiec, d. 29th November 1992 in Łódź. He graduated from the State Music Conservatory in Warsaw (1936) after studying composition with Piotr Rytel, conducting with Walerian Bierdiajew and piano with Margerita Trombini-Kazuro. In 1936-38 he was an assistant conductor to Bierdiajew; he also conducted many symphonic concerts in Warsaw, Cracow, Vilnius, Berlin and Stockholm. In 1938, he participated in the “Mozarteum” conducting course in Salzburg. In 1938-39, he directed the Stanisław Moniuszko Choir. Under the German occupation during World War II he fought in the underground. After the war, he was a lecturer in the State Higher School of Music in Łódź, from 1959 - as a nominated professor, teaching composition, conducting, instrumentation and score reading. In 1945-70 he conducted the Łódź Philharmonic Symphony Orchestra, Orchestra of the Communal Music Institute, the Polish Radio Orchestra in Łódź, and the student orchestra of the State Higher School of Music in Łódź. For many years, he was also the president of the Polish Composers’ Union, Łódź Branch. For his compositions, Kiesewetter received numerous awards, including: in 1951 - State Award, 3rd Class for Symphony No. 1 in B-flat Major (1948) and Suite No. 2 “Dance Suite” for symphony orchestra (1950), in 1955 - an award at the 2nd Polish Music Festival for Suite No. 1 “Polish Dances” for symphony orchestra (1947), in 1968 – an award in a choral competition in Łódź for his song Seven Verses on Nightingales for mixed choir (1968), in 1975 - an award at the 16th Festival of Polish Contemporary Art in Wrocław for his music for Witold Gombrowicz’s play Operetta . He was also decorated with the Gold Cross of Merit (1954), Officer’s Cross of the Polonia Restituta Order (1964), Commander’s Cross of the Polonia Restituta Order (1975), the Minister of Culture and Art Award, 1st Class (three times: 1967, 1974, 1981), Order of the Banner of Labour, 1st Class (1985).",
+  "birth": {
+    "place": "Sosnowiec",
+    "date": "8th September 1911",
+    "raw": "b. 8th September 1911 in Sosnowiec"
+  },
+  "death": {
+    "place": "Łódź",
+    "date": "29th November 1992",
+    "raw": "d. 29th November 1992 in Łódź"
+  },
+  "works": [
+    {
+      "title": "Menuetto for small symphony orchestra (1933)",
+      "year": "1933"
+    },
+    {
+      "title": "String Quartet No. 1 in D Major (1933)",
+      "year": "1933"
+    },
+    {
+      "title": "Fugues for organ (1934)",
+      "year": "1934"
+    },
+    {
+      "title": "Concerto grosso for orchestra (1934)",
+      "year": "1934"
+    },
+    {
+      "title": "Tempo di marcia for symphony orchestra (1934)",
+      "year": "1934"
+    },
+    {
+      "title": "Adventures of Sindbad the Sailor - a symphonic poem (1936)",
+      "year": "1936"
+    },
+    {
+      "title": "Stabat Mater - oratorio for soprano, women’s choir and organ (1944)",
+      "year": "1944"
+    },
+    {
+      "title": "Suite No. 1 “Polish Dances” [1st version] for symphony orchestra (1947)",
+      "year": "1947"
+    },
+    {
+      "title": "Symphony No. 1 in B-flat Major (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "Three Songs in a Folk Style for voice and piano (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "Krzesany in the highlander style for orchestra (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "Waltz for orchestra (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "Concerto for viola and orchestra in D major (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "Suite No. 2 “Dance Suite” for symphony orchestra (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "Suite No. 3 “Suite in the Old Ballet Style” for small symphony orchestra (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "Quintet for wind instruments in B-flat major (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "Olympic Overture for orchestra (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Symphony No. 2 in D Major (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Suite No. 1 “Polish Dances” [2nd version] for great wind orchestra (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Three Mazurkas for piano (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Suite No. 4 “Notes from a Journey” for orchestra (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "String Quartet No. 2 in C Major (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Stańczyk (The Royal Jester) - a ballet in three acts in 4 scenes (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "Playing with the Devil - a polka for small symphony orchestra (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "Suite No. 1 “Polish Dances” [3rd version] for mandolin orchestra (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "A Merry Tram Driver - a gallop for orchestra (1957)",
+      "year": "1957"
+    },
+    {
+      "title": "Symphony No. 3 (1958)",
+      "year": "1958"
+    },
+    {
+      "title": "Sonatina for piano (1959)",
+      "year": "1959"
+    },
+    {
+      "title": "Espana for solo piano with symphony orchestra (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Caballero, ole! for symphony orchestra (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Suite No. 5 “Zagłoba the Matchmaker” for orchestra (1961)",
+      "year": "1961"
+    },
+    {
+      "title": "Concerto „In the Old Style” for organ and string orchestra (1961)",
+      "year": "1961"
+    },
+    {
+      "title": "A Ball for the Lonely Ones - an operetta in 3 acts (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Elopement - musical theatrical in the old style based on the ballad by Antoni Edward Odyniec (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Suite No. 6 “Circus” for great symphony orchestra (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Fable of the Wandering Soldier [1st version], overture for wind orchestra (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Triptych for baritone or medium voice with orchestra or piano (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Sonatina for clarinet with piano (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Fable of the Glass Mountain - overture for 4 accordions, double-bass and percussion (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Seven Verses on Nightingales for mixed choir (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Orchestra, Sing of Yourself - a cantata for soloists, mixed choir and great symphony orchestra (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "L’Improvisatione for harp (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Nocturne for great wind orchestra (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Tale of the Great Drum with a Hole - overture for orchestra (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Organ Concerto No. 2 (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Messa a quatro tromboni (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "“Mozartean” Cello Concerto (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Prelude and Toccata in C Major for organ (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Suite des danses excentriques for two pianos (1992)",
+      "year": "1992"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Jasińska Danuta, Kiesewetter Tomasz, In: PWM Music Encyclopaedia (biographical part ed. by Elżbieta Dziębowska), vol. “klł”, PWM, Kraków 1997",
+  "slug": "kiesewetter-tomasz-en"
+}

@@ -1,0 +1,83 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/t/tabakiernik-piotr-en",
+  "title": "Tabakiernik Piotr",
+  "name": "Tabakiernik Piotr",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "composer; b. in 1986. He graduated from the Department of Composition, Conducting and Theory of Music of the Fryderyk Chopin University of Music in Warsaw (composition class of Stanisław Moryto). He also studied improvisation with Szábolcs Esztényi. His works have been performed in Poland at festivals such as \"Warsaw Autumn\", \"Musica Sacra\", Laboratory of Contemporary Music in Białystok, Festival of 7 Currents and Concert of 7 Premieres (70th anniversary of the Polish Composers' Union) and abroad: in the UK (Trinity College of Music in London – commissioned as part of the Polish Contemporary Music for Cello project, under the auspices of the Polish Cultural Institute in London and the Joan Greenfiels Trust), Italy (Sale Apollinee del Teatro La Fenice, Venice – commissioned by the \"Agimus Venezia\" Festival). He is the author of performances and happenings ( Bösendorfer PROJECT , Feedback , Tak zwana ludzkość w obłędzie/The So-called Humanity Gone Mad ). Since 2005 he has been collaborating with Igor Gorzkowski and the Koło Theatre Studio. He has written music to more than a dozen of theatre productions, including Spacerowicz, Żółta Strzała, Starucha (Teatr Ochoty in Warsaw), Burza, Kalino malino, czerwona jagodo, Wariat i zakonnica, Rewizor (Teatr Powszechny in Warsaw), and Zaćmienie (Teatr Zagłębia in Sosnowiec). In 2007 the film Der Kloane/The Runt with a soundtrack composed by Tabakiernik reached the finals of the international European Talent Competition \"Screening\". Among his Polish and international accolades one should mention: 1st prize at the Tadeusz Baird Composing Competition (2012) and 3rd prize (ex-aequo) at the 13th Kazimierz Serocki International Composers’ Competition (2013). u pdated: November 2016 (ab), 2020 (wa)",
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "burst suppression for large orchestra and electronic layers (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "transcendental etudes for string quartet (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "paroles gelées for bass flute and piano (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "piano concerto user’s guide for piano and orchestra (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "feldman’s lens I/II/III for piano, celesta and computer (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "šeg for cello and accordion (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "WAM-iationen for accordion (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "ἀπόπτωσις (apoptōsis) for vocal sextet (words by W. Shakespeare) (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "toutur thrœu (Ritual of Hearing) for cello and ensemble (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Symphonic Piece for philharmonic (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "monachomachia , music theatre (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "VOICES/VOTES, performance / park game for actors and musicians (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Da pacem Domine for 6 male voices and female voices ad libitum (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "De Trinitate for cello solo, vocal ensemble, instrumental ensemble and electronics (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Novae Sonatae Rosarii for violin and basso continuo (2020)",
+      "year": "2020"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "tabakiernik-piotr-en"
+}

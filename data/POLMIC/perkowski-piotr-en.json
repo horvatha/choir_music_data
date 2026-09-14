@@ -1,0 +1,655 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/p/perkowski-piotr-en",
+  "title": "Perkowski Piotr",
+  "name": "Perkowski Piotr",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "composer and academic teacher, b. 17th March 1901 in Oweczacze (now in Ukraine), d. 12th August 1990 in Otwock. In 1923-25 he studied composition with Roman Statkowski in Warsaw Conservatory as well as privately with Karol Szymanowski. He continued his studies in 1926-28 with Albert Roussel in Paris and in the School of Political Science (1927-29). During his studies in 1926 he founded, and till 1930 was the first president of the Association of Young Polish Musicians in Paris. On his return to Poland in 1930 he was appointed director of the Friends of Symphonic Music Society in Warsaw and vice-president (till 1939) of the International Society for Contemporary Music, Polish Section. In 1931-35 he held the post of vice-president of the Polish Music Publishing Society. From 1931 he also served on the board of the Polish Composers’ Association. In 1936-39, he was professor and director of the Conservatory of the Pomeranian Music Society in Toruń (Thorn). Under the German occupation (1939-44) he lived in Warsaw, organising underground concerts and teaching music theory and composition at underground classes. He fought in the Warsaw Uprising (as Dr Puławski), and after its surrender he set up the Polish Red Cross Transport Group which evacuated young Polish Home Army soldiers, wounded or ill, from Warsaw. After the “liberation” by the Red Army, he was staying in Cracow, where from March 1945 he was president of the Musicians’ Trade Union Organisational Committee, which set out to establish 1st and 2nd level music schools, as well as the Philharmonic, in Cracow. In April 1945 he returned to the ruins of Warsaw, where he was appointed director of the Music Department in the Ministry of Culture and Art and chairman of Central Verification Committee for Musicians. In 1946-51 and 1954-71 he was a professor in the State Higher School of Music in Warsaw (now the F. Chopin Academy), where from 1964 he held the Chair of Composition. From 1951 to 1954, he held the post of dean at the Department of Instrumental Play, Music Theory and Composition in the State Higher School of Music in Wrocław. Apart from his work as an academic teacher, he was the director-general and artistic director of Cracow Philharmonic (1949-51) and of the Great Symphony Orchestra of the Polish Radio in Katowice (1956-57). Throughout his life, he remained committed to the community service and deeply involved in the organisation of music life. He co-organised the Polish Composers’ Union, of which he was elected the first president (1945-48). He was also a co-organiser and first president of the Opera Society in Cracow 1954-56), took part in the organisation of Wrocław Philharmonic (1957-61), and performed many public functions, such as president of the Warsaw Music Society (1959-65), vice-president of ZAiKS Authors’ Association, Warsaw city councillor (1965-73), chairman of the jury of the International Henryk Wieniawski Competition for Composers in Poznań (1966), president of the Polish Composers’ Union’s Warsaw Branch (1971-73 and 1975-77). From 1973, he served on the Music Programme Council at the Ministry of Culture and Art. In 1946, he was granted the honorary membership of the Pomeranian Music Society, in 1949 – of the Polish Composers’ Union and the Musicians’ Trade Union of the People’s Republic of Poland, in 1973 – of the Warsaw Music Society. Piotr Perkowski received numerous prizes and distinctions, such as The Golden Cross of Merit (1930), Officer’s Cross of the Polonia Restituta Order (1939), Award of the Polish Composers’ Union (1949), the Music Award of the City of Cracow (1954), Cross of Valour (1959), Commander’s Cross of the Polonia Restituta Order (1960), the Medal of Merit to Polish Culture (1963), the Music Award of the Capital City of Warsaw (1965), The Minister of Culture and Art Award (1966, 1983), the Golden Cross of Merit with Swords`(1967), the ZAiKSHonorary Prize (1968), Prime Minister’s Music Award (1976), the Medal of Merit “For a Distinguished Teacher” (1981), the Medal of Merit to National Culture (1988), the Award of the Polish Culture Foundation (1990). updated: 2006",
+  "birth": {
+    "place": "Oweczacze (now in Ukraine)",
+    "date": "17th March 1901",
+    "raw": "b. 17th March 1901 in Oweczacze (now in Ukraine)"
+  },
+  "death": {
+    "place": "Otwock",
+    "date": "12th August 1990",
+    "raw": "d. 12th August 1990 in Otwock"
+  },
+  "works": [
+    {
+      "title": "Six Preludes for piano (1923-25)",
+      "year": "1923-25"
+    },
+    {
+      "title": "Five Japanese Songs for orchestra (1924)",
+      "year": "1924"
+    },
+    {
+      "title": "Japanese Uta op. 4, seven songs for soprano and piano (1924)",
+      "year": "1924"
+    },
+    {
+      "title": "Lullaby for voice and piano (1924)",
+      "year": "1924"
+    },
+    {
+      "title": "Anacreon’s Third Song for soprano and piano (1924-26)",
+      "year": "1924-26"
+    },
+    {
+      "title": "Symphony No. 1 for solos, choir, organ and orchestra (1925)",
+      "year": "1925"
+    },
+    {
+      "title": "My Quiet Reverie for soprano and piano (1925)",
+      "year": "1925"
+    },
+    {
+      "title": "Three Nocturnes op. 9 for violin and orchestra (1925)",
+      "year": "1925"
+    },
+    {
+      "title": "Sunset for voice and piano (1925)",
+      "year": "1925"
+    },
+    {
+      "title": "A Kiss op. 3, song for soprano and piano (1925-27)",
+      "year": "1925-27"
+    },
+    {
+      "title": "Night op. 26, song for soprano and piano (1925-27)",
+      "year": "1925-27"
+    },
+    {
+      "title": "Bagatelle op. 7 for piano (1926)",
+      "year": "1926"
+    },
+    {
+      "title": "Study for piano (1926)",
+      "year": "1926"
+    },
+    {
+      "title": "Lullaby for violin and piano (1926)",
+      "year": "1926"
+    },
+    {
+      "title": "Krakowiak for violin and piano (1926)",
+      "year": "1926"
+    },
+    {
+      "title": "Parodies for violin and piano (1926)",
+      "year": "1926"
+    },
+    {
+      "title": "Sonata for piano op. 8 (1926)",
+      "year": "1926"
+    },
+    {
+      "title": "Three Pieces op. 6 for violin and piano (1926)",
+      "year": "1926"
+    },
+    {
+      "title": "Melody for voice and piano (1926)",
+      "year": "1926"
+    },
+    {
+      "title": "Two Pan Flutes for voice and orchestra (1926-27)",
+      "year": "1926-27"
+    },
+    {
+      "title": "Deux Preludes op. 6 for piano (1926-28)",
+      "year": "1926-28"
+    },
+    {
+      "title": "I Am the Way for two sopranos and piano (1926-30)",
+      "year": "1926-30"
+    },
+    {
+      "title": "Svantevit , ballet in three acts (1926-30)",
+      "year": "1926-30"
+    },
+    {
+      "title": "Winter Fables , six preludes for piano (1926-52)",
+      "year": "1926-52"
+    },
+    {
+      "title": "Two Impressions for violin and piano (1927)",
+      "year": "1927"
+    },
+    {
+      "title": "Two Melodies for violin and piano (1927)",
+      "year": "1927"
+    },
+    {
+      "title": "Four Krakowiaks for piano (1927)",
+      "year": "1927"
+    },
+    {
+      "title": "L’enfant Eros , song for soprano and piano (1927)",
+      "year": "1927"
+    },
+    {
+      "title": "Sinfonietta op. 17 for great symphony orchestra (1927)",
+      "year": "1927"
+    },
+    {
+      "title": "Krakowiaks op. 12 for piano (1927)",
+      "year": "1927"
+    },
+    {
+      "title": "Impression [1st version] for viola and piano (1927-80)",
+      "year": "1927-80"
+    },
+    {
+      "title": "Impression [2nd version] for cello and piano (1927-80)",
+      "year": "1927-80"
+    },
+    {
+      "title": "Dolls , song for soprano and piano (1928)",
+      "year": "1928"
+    },
+    {
+      "title": "Humoresque for piano (1928)",
+      "year": "1928"
+    },
+    {
+      "title": "Two Songs op. 14 for soprano and piano (1928-30)",
+      "year": "1928-30"
+    },
+    {
+      "title": "Waltz for soprano and piano (1929)",
+      "year": "1929"
+    },
+    {
+      "title": "Krakowiak for piano (1929)",
+      "year": "1929"
+    },
+    {
+      "title": "Violin Concerto No. 1 (1930)",
+      "year": "1930"
+    },
+    {
+      "title": "String Quartet No. 1 ( “French” ) (1930)",
+      "year": "1930"
+    },
+    {
+      "title": "On the Way for voice and piano (1930)",
+      "year": "1930"
+    },
+    {
+      "title": "Easy Pieces for piano (1930-60)",
+      "year": "1930-60"
+    },
+    {
+      "title": "I don’t want you, Kathy for unaccompanied choir (1931)",
+      "year": "1931"
+    },
+    {
+      "title": "Hey Wild Violet in the Wood for unaccompanied choir (1932)",
+      "year": "1932"
+    },
+    {
+      "title": "Oratorio for soprano, choir and orchestra (1932)",
+      "year": "1932"
+    },
+    {
+      "title": "Thorn Sketches op. 25 for great symphony orchestra (1938)",
+      "year": "1938"
+    },
+    {
+      "title": "My Mummy for voice and piano (1938)",
+      "year": "1938"
+    },
+    {
+      "title": "Three Readings of the Banns , song for soprano and piano (1938-39)",
+      "year": "1938-39"
+    },
+    {
+      "title": "A Pomeranian Ballad for soprano, tenor, mixed choir and orchestra (1939)",
+      "year": "1939"
+    },
+    {
+      "title": "Russian Dance for orchestra (1939)",
+      "year": "1939"
+    },
+    {
+      "title": "I Rode Out into the Field for voice and piano (1939)",
+      "year": "1939"
+    },
+    {
+      "title": "Romance op. 7 for violin and piano (1942)",
+      "year": "1942"
+    },
+    {
+      "title": "Your Twenty Years [1st version] for voice and piano (1946)",
+      "year": "1946"
+    },
+    {
+      "title": "Svantevit , symphonic music from Act Two of the ballet (1946-47)",
+      "year": "1946-47"
+    },
+    {
+      "title": "O Moon, Who Shinest , song for solo voice and piano (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "Rivers [1st version] for voice and piano (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "Rivers [2nd version] for mixed choir (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "Anonyme , song for solo voice and piano (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "To Chopin for mixed unaccompanied choir (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "Rhapsody , ballet in one act (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "The Prisoner for bass-baritone and piano (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "Music for the radio play October Morning (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "Little Bird for baritone and piano (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "Music for the radio play Woe to Him Who Has Brains (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "Intermezzo for flute and piano (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "Music for the radio play Spring (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "Winter Evening for bass-baritone and piano (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "We Are Building Nowa Huta for voice and piano (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "Your Twenty Years [2nd version] for mixed unaccompanied choir (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "Canons for piano (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "A Soldier’s Song for mixed unaccompanied choir (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "Epitaph for Nikos Beloyannis , cantata for baritone, mixed choir and orchestra (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "The Vistula [1st version], cantata for solo voices, choir and orchestra (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "The Vistula [2nd version], cantata for mixed choir (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "Black Path for soprano choir in unison, clarinet and solo violin (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Black Hen for 3-part women’s choir (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Orasion for 3-part women’s choir (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "A Willow in the Field for 3-part women’s choir (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Wedding Suite for soprano, tenor, mixed choir and orchestra (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Variations on a Theme by Lessel for flute and orchestra (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "On the Other Side of the Field for soprano and orchestra (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Good Night for soprano, choir of altos, clarinet and violin (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Prelude for piano (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Four Folk Songs for unaccompanied choir (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "On Sunday for tenor, women’s choir and orchestra (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Proposal for soprano, mixed choir and orchestra (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "She Must Be Given for mixed choir and orchestra (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Thank You Host for mixed choir and orchestra (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Virgin Evening for soprano and orchestra (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Virgin Evening for soprano and orchestra (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Prelude op. 2 no. 8 for piano (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Hops for soprano and orchestra (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "A Linden in the Field for solo soprano, nine altos, clarinet and violin (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Symphony No. 2 (1952-55)",
+      "year": "1952-55"
+    },
+    {
+      "title": "To Karol Szymanowski [1st version] for violin and piano (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "To Karol Szymanowski [2nd version] for symphony orchestra (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Four Easy Pieces for piano (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Five Easy Pieces for piano (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Epic Suite for mixed choir and symphony orchestra (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "With a Cockerel , a folk scene for small symphony orchestra and mixed choir (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Sonata for clarinet and piano (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "Sonatina for trumpet and piano (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "Warsaw Overture for great orchestra (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "Springtime , a folk scene for mixed choir and small symphony orchestra (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "Sonata for flute and piano (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "Sonata for oboe and piano (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "Nocturne for orchestra (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "Warsaw for voice and piano (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "In the Commonplace Book for baritone and piano (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "Three Folk Songs for solo soprano, nine altos, clarinet, violin and piano (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "Kujawiak for small orchestra (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "Three Dances from the Lublin Region for small orchestra (1956)",
+      "year": "1956"
+    },
+    {
+      "title": "Demon for bass-baritone and piano (1957)",
+      "year": "1957"
+    },
+    {
+      "title": "Sketches from the Marketplace , a ballet episode (1957)",
+      "year": "1957"
+    },
+    {
+      "title": "Violin Concerto No. 2 (1957-60)",
+      "year": "1957-60"
+    },
+    {
+      "title": "Where Did You Johnnie for mixed unaccompanied choir (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "All the World Left Far Behind , song for solo voice and piano (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Ornithologist for voice and piano (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Jugglers No. 1 for two voices and piano (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Jugglers No. 2 for voice and piano (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Clementine, A Polish Queen of Scotland , ballet in three acts (1960-63)",
+      "year": "1960-63"
+    },
+    {
+      "title": "Balladyna , ballet in two acts (1960-64)",
+      "year": "1960-64"
+    },
+    {
+      "title": "Over the Dew for mixed unaccompanied choir (1961)",
+      "year": "1961"
+    },
+    {
+      "title": "Garlands , short radio opera (1961)",
+      "year": "1961"
+    },
+    {
+      "title": "Cantata 1962 for mixed choir and orchestra (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Sinfonia drammatica for great orchestra (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Japanese Uta for voice and small orchestra (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Alexiares , cantata for male choir, speaker, piano, symphony orchestra and tape (1966-69)",
+      "year": "1966-69"
+    },
+    {
+      "title": "Sappho’s Songs , five songs for soprano, two flutes and two clarinets (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "The Homeless , song for solo voice with piano (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Scottish Impressions for small symphony orchestra (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Romance for symphony orchestra and brass band (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Steam Engine for mixed unaccompanied choir (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Amphiction [ He Who Unites ] for great symphony orchestra (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Witch for solo soprano, choir, percussion and piano (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Sky on Fire , six songs for soprano and piano (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Ballad of... , song for solo voice with piano (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Glory , canon for children’s choir, piano and percussion (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Rose , cantata for solo voice, choir and great symphony orchestra (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Sappho Lost in Thought for voice and piano (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Heroic Cantata for solo bass, speaker, mixed choir and great symphony orchestra (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Cello Concerto (1973-74)",
+      "year": "1973-74"
+    },
+    {
+      "title": "Poems by Aben-Azam , song cycle for baritone and great symphony orchestra (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Six Songs for voice and piano (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "To Adam , a brief joke for wind instruments (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "White So White , song for solo voice with piano (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "String Quartet No. 2 (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Song for piano (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Towards Atma [1st version] for string orchestra, piano and percussion (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Symphony (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Towards Atma [2nd version] for symphony orchestra (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Music for the film Night Cavaliers (1932)",
+      "year": "1932"
+    },
+    {
+      "title": "Music for the film Soldier of Victory (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Music for the film A Hundred Years Old Steelworks (1957)",
+      "year": "1957"
+    },
+    {
+      "title": "Music for the film Salty Bread (1957)",
+      "year": "1957"
+    },
+    {
+      "title": "Music for the play Balladyna (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "Music for the play The Wedding (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "Music for the play R.U.R (1959)",
+      "year": "1959"
+    },
+    {
+      "title": "Music for the play Tailors of Happiness (1976)",
+      "year": "1976"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Piotr Perkowski. Life and Work. [orig. Piotr Perkowski. Życie i dzieło.], (ed. by Marian Borkowski), Akademia Muzyczna w Warszawie, Warszawa 2003 Mrygoń Adam, Perkowski Piotr, In: PWM Music Encyclopaedia (Biographical part, ed. by Elżbieta Dziębowska), vol. “Pe-R”, PWM, Kraków 2004",
+  "slug": "perkowski-piotr-en"
+}

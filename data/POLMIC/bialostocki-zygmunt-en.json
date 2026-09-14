@@ -1,0 +1,35 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/b/bialostocki-zygmunt-en",
+  "title": "Białostocki Zygmunt",
+  "name": "Białostocki Zygmunt",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Miłość i złoto operetka [razem z Józefem Haftmanem] (1933)",
+      "year": "1933"
+    },
+    {
+      "title": "Piosenki, m.in.: Andriusza fokstrot Choć goło lecz wesoło, sł. Aleksander Jellin Jesienne marzenia tango Katiusza Na dnie serca Nie można zmuszać do miłości Nie wierzę ci Po malutku, po cichutku , sł. Andrzej Włast Szczęście trzeba rwać jak świeże wiśnie , sł. Walery Jastrzębiec Zosiu , sł. Walery Jastrzębiec Pieśń o matce, sł. Tadeusz Żeromski [Jerzy Wrzos] (1933) Rebeka tango, sł. Andrzej Włast (1933) Nasze kawalerskie, sł. Zbigniew Drabik Argus (1936) Noc jesienna , sł. Zbigniew Drabik Argus (1936)",
+      "year": "1936"
+    },
+    {
+      "title": "Muzyka do filmu Biała trucizna (1932)",
+      "year": "1932"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Białostocki Zygmunt Dąbrowski Wojciech, Białostocki Zygmunt Lerski Tomasz, Syrena Record pierwsza polska wytwórnia fonograficzna 1904-1939, Editions „KARIN”, New York - Warsaw [br]",
+  "slug": "bialostocki-zygmunt-en"
+}

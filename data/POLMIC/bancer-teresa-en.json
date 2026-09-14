@@ -1,0 +1,111 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/b/bancer-teresa-en",
+  "title": "Bancer Teresa",
+  "name": "Bancer Teresa",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Sześć preludiów na fortepian (1959)",
+      "year": "1959"
+    },
+    {
+      "title": "Wizyta na mezzosopran lub sopran i zespół instrumentalny (1959)",
+      "year": "1959"
+    },
+    {
+      "title": "Arabeska na sopran i zespół instrumentalny (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Concertino na orkiestrę (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Etiudy filmowe na orkiestrę symfoniczną (1961)",
+      "year": "1961"
+    },
+    {
+      "title": "Sonata na fortepian (1961)",
+      "year": "1961"
+    },
+    {
+      "title": "Liryka symfoniczna na orkiestrę symfoniczną z udziałem altu do słów Safony (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Symfonia (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Muzyka na instrumenty strunowe, perkusję i chó żeński (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Muzyka do spektaklu Księga Hioba (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Muzyka do spektaklu Klub kłamców (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Muzyka do spektaklu Frytki do wszystkich dań (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Muzyka do spektaklu Madzia w Iksinowie (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Muzyka do spektaklu Kobieta bez skazy (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Muzyka do spektaklu Śmierć komiwojażera (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Muzyka do spektaklu Złodziej idealny (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Muzyka do spektaklu Elżbieta, Maria, Małgorzata (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Muzyka do spektaklu Bóg jest i na śmieciach (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Muzyka do spektaklu Sąsiedzi (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Muzyka do spektaklu Tajny więzień stanu (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Muzyka do spektaklu Derby w pałacu (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Muzyka do spektaklu Każdy w bunkrze na swoim cukrze (1992)",
+      "year": "1992"
+    }
+  ],
+  "publications": null,
+  "bibliography": "[materiały Archiwum Związku Kompozytorów Polskich], Iwanicka-Nijakowska Anna, Bancer Teresa, Akademia Muzyczna im. Fryderyka Chopina w Warszawie / Akademia Muzyczna im. Stanisława Moniuszki w Gdańsku, Warszawa / Gdańsk 2005",
+  "slug": "bancer-teresa-en"
+}

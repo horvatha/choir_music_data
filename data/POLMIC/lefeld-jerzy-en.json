@@ -1,0 +1,111 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/l/lefeld-jerzy-en",
+  "title": "Lefeld Jerzy",
+  "name": "Lefeld Jerzy",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Symfonia nr 1 f-moll op. 2 [wersja I] na orkiestrę (1917)",
+      "year": "1917"
+    },
+    {
+      "title": "Sekstet smyczkowy Es-dur op. 3 (1919)",
+      "year": "1919"
+    },
+    {
+      "title": "Symfonia nr 2 e-moll op. 5 [wersja I] na orkiestrę (1921)",
+      "year": "1921"
+    },
+    {
+      "title": "Cztery pieśni op. 4 na głos z fortepianem (1921-23)",
+      "year": "1921-23"
+    },
+    {
+      "title": "Trzy preludia op. 6 na fortepian (1936)",
+      "year": "1936"
+    },
+    {
+      "title": "Nokturn op. 7 na fortepian (1943)",
+      "year": "1943"
+    },
+    {
+      "title": "Osiem utworów dla dzieci op. 8 na fortepian (1945)",
+      "year": "1945"
+    },
+    {
+      "title": "Jesień op. 11 nr 2 na fortepian (1945)",
+      "year": "1945"
+    },
+    {
+      "title": "Dwa mazurki op. 9 na fortepian (1947)",
+      "year": "1947"
+    },
+    {
+      "title": "Zachowaj mnie u swoich drzwi op. 10 nr 1 na głos z fortepianem (1947)",
+      "year": "1947"
+    },
+    {
+      "title": "Cóż jest prócz nieba op. 10 nr 2 na głos z fortepianem (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "Krakowiak op. 11 nr 1 na fortepian (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "Kołysanka op. 11 nr 3 na fortepian (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "Cztery sonety krymskie op. 15 na baryton i orkiestrę symfoniczną (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Sonet „Błogosławieństwo” op. 14 na baryton, orkiestrę smyczkową i harfę (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Symfonia nr 1 f-moll op. 2 [wersja II] na orkiestrę (1969-76)",
+      "year": "1969-76"
+    },
+    {
+      "title": "Symfonia nr 2 e-moll op. 5 [wersja II] na orkiestrę (1969-76)",
+      "year": "1969-76"
+    },
+    {
+      "title": "Intermezzo symfoniczne op. 16 na orkiestrę (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Odchodzę [wersja I], pieśń na głos solowy i fortepian (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Odchodzę [wersja II], pieśń na głos solowy orkiestrę (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Mazurek-impromptu na fortepian (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Preludium na fortepian (1977)",
+      "year": "1977"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "lefeld-jerzy-en"
+}

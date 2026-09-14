@@ -1,0 +1,71 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/g/gliniak-bartlomiej-en",
+  "title": "Gliniak Bartłomiej",
+  "name": "Gliniak Bartłomiej",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Neumo progremodum na taśmę (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Hyperis na taśmę (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Retro el-sonobis na taśmę (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "El-Duo na fortepian i taśmę (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Muzik-a Capriccio na chór, live electronics i taśmę (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Siedem Pieśni Marii oratorium do słów Zbigniewa Książka (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Listy z Placu Zgody oratorium do słów Zbigniewa Książka (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Oratorium Kalwaryjskie do słów Zbigniewa Książka (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Legenda Tatr opracowanie utworów zespołu Trebunie-Tutki na kapelę góralską, chór i orkiestrę symfoniczną (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "muzyka do sztuk teatralnych :",
+      "year": null
+    },
+    {
+      "title": "Dzielny Ołowiany Żołnierzyk , reż. Włodzimierz Feleczak - Teatr Guliwer w Warszawie (1998) Europa , reż. Kazimierz Braun - Teatr im. Ludwika Solskiego w Tarnowie (2003) Drugi Maja , reż. Agnieszka Glińska - Teatr Narodowy w Warszawie [adaptacje] (2004) muzyka do słuchowisk Teatru Polskiego Radia :",
+      "year": null
+    },
+    {
+      "title": "Anioły , reż. Wojciech Markiewicz (1995) Kasprowicz , reż. Romana Bobrowska (1996) Złodziej Snów , reż. Wojciech Markiewicz (1997) Bader albo trzy dania, reż. Wojciech Markiewicz (1998) Pan Tadeusz czyli ostatni zajazd na Litwie , reż. Wojciech Markiewicz (2001) Krótka i prawdziwa historia o Każdym , reż. Wojciech Markiewicz (2002) muzyka do filmów i seriali telewizyjnych :",
+      "year": null
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "gliniak-bartlomiej-en"
+}

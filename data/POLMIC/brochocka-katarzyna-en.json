@@ -1,0 +1,171 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/b/brochocka-katarzyna-en",
+  "title": "Brochocka Katarzyna",
+  "name": "Brochocka Katarzyna",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "composer, librettist, and pianist; b. 4th January 1982 in Lidzbark Warmiński. She graduated with honours from the Academy of Music in Wrocław having studied composition with Jan Antoni Wichrowski. She attended also postgraduate master class in composition with Edward Knight at the Wanda L. Bass School of Music (Oklahoma City) and studied composition with Doina Rotaru at the University of Music in Bucharest as a Socrates-Erasmus student and recipient of a grant given by her hometown’s local authorities. In 2010 she received the Fund for Promotion of Creativity (Funduszu Promocji Twórczości from the Polish Ministry of Culture and National Heritage that allowed her to write a libretto and compose a bilingual opera Zegarmistrz ( The Horologist ). Katarzyna Brochocka has won many international awards. She has composed symphonic, chamber, and solo works, however her interests focus mainly on vocal and stage music. She has written a few operas, including Happy Garden of Life , which won a distinction at the Nancy Van de Vate International Composition Prize for Opera (Vienna, 2008) and was awarded by the artistic director of Opera Vista (Houston, 2010). The artist's another opera The Young Wife won a distinction at the Flourish Opera Competition (London, 2012) and the audience award for the best musical/opera at the Capital Fringe Festival (Washington, 2013). She also received the Grand Prix (category: chamber music) at the ISB/David Walter Composition Competition (USA, 2008) for a cycle of songs to James Joyce’s texts and was a finalist of the Douglas Moore Fund for American Opera (New York, 2010). Katarzyna Brochocka's pieces have been performed in Poland (e.g. by orchestras of the Kalisz Philharmonic, Sudety Philharmonic, Warmia and Mazury Philharmonic, and Warsaw Chamber Orchestra) and abroad (Germany, Romania, USA, UK). She has written music to more than a dozen theatre productions staged in Warsaw, Wrocław, Opole, Olsztyn, Toruń, and Kielce. updated: January 2015 (mkk, ab)",
+  "birth": {
+    "place": "Lidzbark Warmiński",
+    "date": "4th January 1982",
+    "raw": "b. 4th January 1982 in Lidzbark Warmiński"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Oberek for double bass and piano (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Variations for violin and piano (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Bangladeszcz for string chamber orchestra (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Piano Sonata No. 1 (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Music for the silent film Love is Silent directed by Grupa Inicjatyw Twórczych \"Samowar\" (in collaboration with M. Biekieta) (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Story for soprano, double bass, tape and video (in collaboration with J. Szcześniak) (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Pre-text for tape, tapping actor and indifferent female voice (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Ballade Concertare for piano and orchestra (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Ma-rim-bam-bom for 4 marimbas (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Music Box , a children's piece for 4 hands (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Paradance , a children's piece for 4 hands (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Piano Sonata No. 2 (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Absurdwaltzer for clarinet solo (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "King Lear , opera in three acts (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Six Songs to words by K.D. Szatrawski for soprano and orchestra (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "With A Little Bit of Shyness for tenor and piano set to K. Brochocka's text (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Double Bass Concerto (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Symphony (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Concert in uno tempo per violino e orchestra (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Sonata for double bass and piano (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "The Happy Garden of Life , a tragic grotesque opera in one act based on K. Vonnegut's story (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "4 T for timpani solo (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "String Quintet (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Chamber Music , three songs for mezzosoprano, harp (or piano) and double bass to J. Joyce's Chamber Music (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Double Bass Concerto arranged for double bass and piano (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Halloween Music for clarinet and string quartet or piano (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Piano Trio (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Rondo Perpetuo for piano (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Traps for trombone solo (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "The Horologist , an opera to K. Brochocka's libretto (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Young Wife , monodramatic operetta based on G. Zapolska's novel Z pamiętników młodej mężatki (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Shots , a flash opera to A. Biernacki's libretto (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Pas de basse suita for double bass solo (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "The Brain Within Its Groove for soprano, viola and piano to E. Dickinson's poem (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Imaginary Place , a tragicomic flash opera to K. Brochocka's libretto (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Fancy That , a cycle of songs for children for soprano and piano to texts by H. Mierzejewska-Mikosza and K. Brochocka (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Nocturnos , a cycle of songs for mezzosoprano and piano set to Spanish poetry by C. Cortijo (2014)",
+      "year": "2014"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Brochocka Katarzyna, Nuty mają gramatykę , \"Nasz Olsztyniak\" 2007 nr 456 Szatrawski Krzysztof, Twórczość kompozytorska na Warmii i Mazurach po roku 1989 w: Kompozytorzy w kulturze XX-wiecznej Warmii , red. K. D. Szatrawski, Stowarzyszenie Inicjatyw Obywatelskich, Barczewo 2009",
+  "slug": "brochocka-katarzyna-en"
+}

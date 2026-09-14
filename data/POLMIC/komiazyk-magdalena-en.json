@@ -1,0 +1,83 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/k/komiazyk-magdalena-en",
+  "title": "Komiażyk Magdalena",
+  "name": "Komiażyk Magdalena",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Cykl drobnych utworów na fortepian (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Toccata na fortepian (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Etiuda na fortepian (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Nokturn na fortepian (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Moment muzyczny na fortepian (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Wariacje na fortepian (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Preludia na fortepian (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Kwartet smyczkowy (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Ciemna noc pieśń do słów J. Tuwima na głos z fortepianem (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Maliny pieśń do słów M. Ośniałowskiego na głos z fortepianem (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Poezja pieśń do słów A. Słonimskiego na głos z fortepianem (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Divertimento na septet instrumentalny (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Pieśni do słów T. Ferenca na głos z fortepianem (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Trio smyczkowe (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Tamten człowiek kantata na chór mieszany i wielką orkiestrę symfoniczną do słów T. Różewicza (1971)",
+      "year": "1971"
+    }
+  ],
+  "publications": null,
+  "bibliography": "[materiały Archiwum Związku Kompozytorów Polskich], Dybowski Stanisław, Słownik pianistów polskich, Selene , Warszawa 2003 Iwanicka-Nijakowska Anna , Komiażyk Magdalena, Akademia Muzyczna im. Fryderyka Chopina w Warszawie / Akademia Muzyczna im. Stanisława Moniuszki w Gdańsku, Warszawa / Gdańsk 2005",
+  "slug": "komiazyk-magdalena-en"
+}

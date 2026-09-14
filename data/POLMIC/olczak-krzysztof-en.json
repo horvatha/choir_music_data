@@ -1,0 +1,243 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/o/olczak-krzysztof-en",
+  "title": "Olczak Krzysztof",
+  "name": "Olczak Krzysztof",
+  "occupation": "promoter, composer, performer",
+  "is_composer": true,
+  "description": "composer and accordion player, b. 26th May 1956 in Łódź. He studied accordion with Włodzimierz Lech Puchnowski in the Music Academy in Warsaw (1975-79), and subsequently composition with Eugeniusz Głowski in the Music Academy in Gdańsk (honours degree in 1986). At present, he teaches an accordion class, conducts chamber ensembles and teaches a facultative course entitled “20th-century music performance practice” in the Music Academy in Gdańsk, where he also lectures in composition and instrumentation. For the last few years, he has also been the co-ordinator of the International Workshops of Contemporary Music for Composers and Performers, organised by the Gdańsk Academy. He has received numerous awards for his compositions,incl. 1st and 2nd prizes (1984) and again 2nd prize (1988) in the “Premio Citta di Castelfidardo” Competition for Composers in Italy, 1st prize in the National Competition for Works for Accordion in Rzeszów (1985). He has also frequently been awarded as an accordion player, e.g. during the International Accordion Competition in Auckland (New Zealand) – bronze medal in 1980. His other awards and distinctions granted for his artistic activity include: The Stanisław Wyspiański Artistic Award for Young Artists (1989), the Minister of Culture and Art Award (1993), the Individual Award of the Centre for Artistic Education (1992, 1998). Krzysztof Olczak is an accordion player performing solo and in chamber ensembles (in Classical Accordion Duo), giving concerts in Poland and abroad (in Austria, Finland, Germany, Norway, Russia, Sweden, Slovakia, and Italy). His compositions have been presented at numerous festivals of contemporary music, e.g. Musik Biennale in Berlin, Internationale Studienwoche in Bonn, Musica Polonica Nova in Wrocław, Poznań Music Spring, the Warsaw Autumn, and others. The composer’s internet site: http://krzysztofolczak.pl/",
+  "birth": {
+    "place": "Łódź",
+    "date": "26th May 1956",
+    "raw": "b. 26th May 1956 in Łódź"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Prelude and Fugue for solo accordion (1976-85)",
+      "year": "1976-85"
+    },
+    {
+      "title": "Manualiter for solo accordion (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Fantasmagorie for solo accordion (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Sonatina No. 1 for solo accordion (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Winter Suite for solo accordion (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Summer Suite for solo accordion (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Study for One Push of the Bellows , music for tape (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Maestoso Mesto-Postludium for 3 accordions (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "One More Word... for two actors, four instrumentalists and tape (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Spaces of the Sea , verses for soprano and prepared piano (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Pozymk for four performers (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Szpęgawsk in memoriam for soprano and strings (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Rząpielnik, or a Pomeranian Sketch Book for accordion (1982-84)",
+      "year": "1982-84"
+    },
+    {
+      "title": "Summer for mixed choir, two oboes and bassoon (1983-92)",
+      "year": "1983-92"
+    },
+    {
+      "title": "Cantata for soprano and 2 accordions (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Sonatina No. 2 for solo accordion (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Rondino for solo accordion (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Sinfonietta Concertante for percussion and orchestra (1985-86)",
+      "year": "1985-86"
+    },
+    {
+      "title": "Belt the Bellow for tuba and accordion (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Trio hommage à Szymanowski for violin, guitar and accordion (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Intervals for organ and 2 accordions (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Concerto for accordion and orchestra (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Song of Mr Tralalinski for solo tenor and chamber ensemble (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Concerto grosso for wind orchestra (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Children’s Suite No. 3 for accordion (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Epitaph 1444 for clarinet, cello and piano (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Holiday Song for children’s choir and two pianos (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Pneuma for soprano and tape (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Gdańsk Concerto for 3 guitars and orchestra (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Starogard Cantata for soprano, tenor, two choirs and orchestra (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Kościerzyna Intrada for 3 accordions (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Angels of Darkness for 4 accordions (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Toccatina for twopianos (1998-99)",
+      "year": "1998-99"
+    },
+    {
+      "title": "Credo for soprano, tenor, alto, bass, choir and orchestra (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Studies for solo accordion (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Where the Vistula... , concertino for guitar and orchestra (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Angels of Darkness for accordion and string quartet (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Three Studies for solo violin (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Three Studies for solo kettledrums (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Buxur, vesti... , humoresque for mixed unaccompanied choir (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Illur Laekur for snare-drum and accordion (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Variations on the Theme of the Icelandic Children’s Songs “Good Mummy for accordion (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Visur Islendinga for organ (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Expedition hommage á Strawiński na flet, altówkę, gitarę, akordeon i fortepian (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Signum temporis na wokalistkę jazzową, zespół kameralny i live electronic (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Encounter na flety proste, marimbę i klawesyn (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Bahar Miayad na tombak i akordeon (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Epitafium 1444 wersja na skrzypce, wiolonczelę i fortepian (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Chanson na akordeon i środki elektroniczne (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Trio hommage á Chopin na fortepian, akordeon i perkusję z taśmą (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Koncert Gdański wersja na gitarę i orkiestrę kameralną (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Pieśń na jubileusz 450-lecia śpiewającego zegara ratuszowej wieży Głównego Miasta w Gdańsku na chór mieszany, dwa carillony i kwintet dęty blaszany (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Epitafium 1444 wersja na skrzypce, akordeon i fortepian (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Acco tango na akordeon solo (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Koncert na flet i orkiestrę (2014)",
+      "year": "2014"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "olczak-krzysztof-en"
+}

@@ -1,0 +1,67 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/c/chorosinski-andrzej-en",
+  "title": "Chorosiński Andrzej",
+  "name": "Chorosiński Andrzej",
+  "occupation": "promoter, composer, performer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Kwartet smyczkowy (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Idee i prawda na chór mieszany, harfę i recytatora (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Koncert na organy i orkiestrę symfoniczną (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Cztery miniatury na skrzypce i fortepian (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Barwy i cienie , concertino na orkiestrę smyczkową (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Postludium na obój, róg, trąbkę i organy (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Ecce Homo na organy (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Dein Zweiglein na chór mieszany i organy (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Introdukcja i Fuga na organy (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Inwokacja na organy (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Modlitwa Polska. Pieśń na 1050. rocznicę Chrztu Polski do słów ks. Pawła Sobierajskiego na męski zespół wokalny i organy (2016)",
+      "year": "2016"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Świderska Barbara, Chorosiński Andrzej, PWM, Kraków 2001 Strzelecki Paweł, Chorosiński Andrzej Tomasz, Akademia Muzyczna w Warszawie, Warszawa 2004",
+  "slug": "chorosinski-andrzej-en"
+}

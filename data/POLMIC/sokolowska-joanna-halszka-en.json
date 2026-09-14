@@ -1,0 +1,51 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/s/sokolowska-joanna-halszka-en",
+  "title": "Sokołowska Joanna Halszka",
+  "name": "Sokołowska Joanna Halszka",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": "actress, composer, philosopher, and vocalist. She also creates theatre productions and experimental artistic forms, and has worked as performer, dancer, choreographer, and director. She sings in post-rock band called Przepraszam (Sorry) and is the leader of Der Father ensemble, where she performs together with Daniel Pigoński and Jerzy Rogiewicz. As for her theatre experience, she has performed together with Joanna Piwowar in the piece Wykwalifikowane at the Stage Song Review (OFF Stream) in Wrocław and with Candelaria Saenz Valiente in Asian Candies in Dick Flavor SOS show. She writes mainly choral works, as well as music for film and theatre. In July 2013 her opera In Sarah, Mencken, Christ and Beethoven There Were Men and Women based on the poem by John B. Wolgamot was premiered at Komuna//Warszawa, as part of the Opera//Remix series. Updated: July 2014 (ai)",
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "In Sarah, Mencken, Christ and Beethoven There Were Men and Women , opera for four lead vocals, choir, instrumentalist and one person (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Music to the documentary Grotowski - Flaszen , directed by Małgorzata Dziewulska (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Music to the feature film Dziewczyna z szafy , directed by Bodo Kox [composed with Filip Zawadą (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Music to the performance Maria de Buenos Aires , directed by Małgorzata Dziewulska (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Music to the theatrical play Hecabe by Euripides, directed by Łukasz Chotkowski, Polski Theatre in Bydgoszcz [composed with Piotr Bukowski] (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Music to the theatrical play Matki/Błagalnice. Koncert śmierci based on Die Mütter by Hans Ulrich Müller-Schwefe and Einar Schleef, directed by Łukasz Chotkowski, Stefan Jaracz Theatre in Olsztyn (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Music to the theatrical play Winter Journey by Elfriede Jelinek, directed by Maja Kleczewska, Powszechny Theatre in Łódz and Polski Theatre in Bydgoszcz (2013)",
+      "year": "2013"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "sokolowska-joanna-halszka-en"
+}

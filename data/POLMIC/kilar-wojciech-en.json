@@ -1,0 +1,831 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/k/kilar-wojciech-en",
+  "title": "Kilar Wojciech",
+  "name": "Kilar Wojciech",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": "Born in Lviv on 17 July 1932, died in Katowice on 29 December 2013, composer and pianist. He studied piano playing and composition with Bolesław Woytowicz at the High School of Music in Katowice, graduating with the highest honours in 1955. In 1955-58 he was Woytowicz's assistant at the State Higher School of Music in Cracow. In 1957 he participated in the Summer Courses for New Music in Darmstadt. In 1959-60 he held a scholarship from the French government to study with Nadia Boulanger. In 1977, he was a founding member of the Karol Szymanowski Society in Zakopane. For many years he was also the chairman of the Katowice branch of the Polish Composers' Union, serving as vice-chairman of the entire organisation in 1979-81. He also sat on the Repertoire Committee of the Warsaw Autumn Festival. His numerous awards including the Lili Boulanger Foundation Award in Boston (1960), Polish Minister of Culture and the Arts Award (1967, 1975, 2003), Polish Composers' Union Award (1975), Katowice Voivodeship Prize (1971, 1976, 1980), City of Katowice Prize (1975, 1992), State Prize, 1st Degree (1980), Alfred Jurzykowski Foundation Award in New York (1984), Arts Award of the Solidarity Independent Culture Committee (1995), Lux et Silesia Prize from the Archbishop of Katowice (1995), Special Award from the Silesia Cultural Prize of the state of Lower Saxony (1996), Golden Staff from the Polish Culture Foundation (2000), Culture Foundation Grand Award (2001), Diamond Wreath (2003), Polish Ministry of Culture and the Arts Award for music (2003), Silesian Juliusz Ligoń Prize (2003), Golden Hyppolyte (2004), TV Polonia Prize \"for promoting Poland and Polishness\" (2003), Silesian Oscar (2005), Animus Silesiae Award from the Śląsk Song and Dance Ensemble (2006), Phoenix Award of the Order of Malta Poland for artists cultivating the Christian tradition (2008), Totus Award of the Polish Bishops' Conference's Foundation \"Work of the New Millennium\" (2009), Lech Kaczyński Honorary Award (2011), Golden Fryderyk for lifetime achievement (2012), Golden Polish Muse of the Polish Music Association (2012), and Polish Music Coryphaeus Honorary Award (2012). From 1998, he was an honorary citizen of the City of Rzeszów, followed by Katowice and Wodzisław Śląski in 2006. He was granted honorary doctorates from the Opole University (1998) and Silesian University in Katowice (2012). He also received numerous awards for his lm music, including for Andrzej Wajda's The Promised Land at the Polish Film Festival in Gdańsk (1975), the Prix Louis Delluc for Paul Grimault's animated movie Le Roi et l'oiseau (1980), at the International Film Festival in Cork for Krzysztof Zanussi's Da un paese lontano: Papa Giovanni Paolo II (1981), ASCAP Award 1992 and Best Score Composer for a 1992 Horror Film for Francis Ford Coppola's Bram Stoker's Dracula , Philip Award for lifetime achievement at the 3rd TP S.A. Music & Film Festival (2001), and Polish Film Academy's Eagle for Krzysztof Zanussi's Persona non grata (2006). In 1991, he also received the State Cinema Committee Award, followed by the Tarnów Film Award for lifetime achievement and contribution to Polish film in 2010. Wojciech Kilar held the Knight's Cross (1976) and Commander's Cross with Star (2002) of the Order of Polonia Restituta, as well as the Order of the White Eagle, awarded by President Bronisław Komorowski \"in honour of the highest merits for Polish culture and outstanding achievements in artistic work\" (2012). Two film were made about the composer: Krzysztof Zanussi's Wojciech Kilar (1991) and Violetta Rotter-Kozera and Zdzisław Sowiński's Wojciech Kilar. Credo (2013). updated: 2015 (Aleksandra Braumańska)",
+  "birth": {
+    "place": "Lviv",
+    "date": "17 July 1932",
+    "raw": "Born in Lviv on 17 July 1932"
+  },
+  "death": {
+    "place": "Katowice",
+    "date": "29 December 2013",
+    "raw": "died in Katowice on 29 December 2013"
+  },
+  "works": [
+    {
+      "title": "Dwie miniatury dziecięce na fortepian (1947)",
+      "year": "1947"
+    },
+    {
+      "title": "Suita na fortepian nr 1 (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "Suita na fortepian nr 2 (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "Sonatina for flute and piano (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "Three Preludes for piano (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "Wariacje na temat Paganiniego na fortepian (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "Dwanaście preludiów na fortepian (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "Wind Quintet for flute, oboe, clarinet, bassoon and horn (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Sonata na fortepian (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Wyczarowanie na baryton, flet, tam-tam, harfę i kwartet smyczkowy (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Sonata for horn and piano (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "Ptak na sopran i fortepian (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "Symphony No. 1 for strings (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "Little Overture for orchestra (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "Symphony No. 2 “Sinfonia concertante” for piano and great symphony orchestra (1956)",
+      "year": "1956"
+    },
+    {
+      "title": "Suita beskidzka na tenor, chór mieszany i małą orkiestrę (1956)",
+      "year": "1956"
+    },
+    {
+      "title": "Ode Béla Bartók in memoriam for violin, wind instruments and 2 percussions (1957)",
+      "year": "1957"
+    },
+    {
+      "title": "Kołysanki na sopran, 3 klarnety, fagot, róg, harfę i fortepian (1957)",
+      "year": "1957"
+    },
+    {
+      "title": "Concerto for two pianos and percussion orchestra (1958)",
+      "year": "1958"
+    },
+    {
+      "title": "Herbsttag for female voice and string quartet (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Riff 62 for orchestra (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Générique for orchestra (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Diphthongos for mixed choir and orchestra (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Springfield Sonnet for orchestra (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Solenne per 67 esecutori (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Training 68 for clarinet, trombone, cello and piano (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Upstairs-Downstairs for 2 children’s choirs and orchestra (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Prelude and Carol for 4 oboes and strings (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Krzesany - symphonic poem (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Bogurodzica [ Mother of God ] for mixed choir and orchestra (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "W górę – w dół , balet (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Kościelec 1909 - symphonic poem (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Hoary Fog for baritone and orchestra (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Fanfara na chór mieszany i orkiestrę (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Exodus per orchestra e coro misto (1979-81)",
+      "year": "1979-81"
+    },
+    {
+      "title": "Angelus for soprano, mixed choir and symphony orchestra (1982-84)",
+      "year": "1982-84"
+    },
+    {
+      "title": "Victoria per coro misto e orchestra (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Orawa for chamber string orchestra (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Choralvorspiel für Kammerorchester (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "How Will I Calm Myself for voice and piano after Wyspiański (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Króluj nam Chryste na głos i fortepian (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Concerto for piano and orchestra (1996-97)",
+      "year": "1996-97"
+    },
+    {
+      "title": "Requiem for Father Kolbe for strings, piano, celesta, harp and timpani (1996-97)",
+      "year": "1996-97"
+    },
+    {
+      "title": "Agnus Dei for mixed choir (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Missa pro pace for soprano, alto, tenor, bass, mixed choir and symphony orchestra (1999-2000)",
+      "year": "1999-2000"
+    },
+    {
+      "title": "Introitus for organ (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Symphony no. 3 September Symphony (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Lament for mixed choir (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Symphony no. 4 Sinfonia de motu for soprano, baritone, mixed choir and symphony orchestra (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Music for film Persona non grata dir. by Krzysztof Zanussi (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Ricordanza for string orchestra (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Magnificat for solo voices, choir and orchestra (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Symphony no. 5 Advent Symphony for mixed choir and orchestra (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Te Deum for solo voices, choir and orchestra (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Paschalis Hymn for mixed choir (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Veni Creator for mixed choir and string orchestra (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Solemn Overture for orchestra (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Piano Concerto No. 2 (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Lumen for mixed choir (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Sonnets to Laura for baritone and piano (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "A Prayer to St Therese for mixed choir (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Music for film Narciarze dir. by Natalia Brzozowska (1958)",
+      "year": "1958"
+    },
+    {
+      "title": "Music for film Lunatycy dir. by Bohdan Poręba (1959)",
+      "year": "1959"
+    },
+    {
+      "title": "Music for film Nikt nie woła dir. by Kazimierz Kutz (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Music for film Milczące ślady dir. by Zbigniew Kuźmiński (1961)",
+      "year": "1961"
+    },
+    {
+      "title": "Music for film Tarpany dir. by Kazimierz Kutz (1961)",
+      "year": "1961"
+    },
+    {
+      "title": "Music for film Spotkanie w „Bajce” dir. by Jan Rybkowski (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Music for film Rodzina Milcarków dir. by Józef Wyszomirski (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Music for film Czerwone berety dir. by Julian Dziedzina (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Music for film I ty zostaniesz Indianinem dir. by Konrad Nałęcki (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Music for film Głos z tamtego świata dir. by Stanisław Różewicz (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Music for film Daleka jest droga dir. by Bohdan Poręba (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Music for film Mansarda dir. by Konrad Nałęcki (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Music for film Kryptonim „Nektar” dir. by Leon Jeannot (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Music for film Milczenie dir. by Kazimierz Kutz (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Music for film Trzy kroki po ziemi dir. by Jerzy Hoffman and Edward Skórzewski (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Music for film Wyspa złoczyńców dir. by Stanisław Jędryka (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Music for film Giuseppe w Warszawie dir. by Stanisław Lenartowicz (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Music for film Echo dir. by Stanisława Różewicza (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Music for film Późne popołudnie dir. by Aleksander Ścibor-Rylski (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Music for film Pięciu dir. by Paweł Komorowski (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Music for film Obok prawdy dir. by Janusz Weychert (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Music for film Ciemnogród dir. by Konrad Nałęcki (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Music for film Katastrofa dir. by Sylwester Chęciński (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Music for film Jutro Meksyk dir. by Aleksander Ścibor-Rylski (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Music for film Salto dir. by Tadeusz Konwicki (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Music for film Powrót na ziemię dir. by Stanisław Jędryka (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Music for film Piekło i niebo dir. by Stanisław Różewicz (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Music for film Marysia i Napoleon dir. by Leonard Buczkowski (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Music for film Chudy i inni dir. by Henryk Kluba (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Music for film Bumerang dir. by Leon Jeannot (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Music for film Ktokolwiek wie ... dir. by Kazimierz Kutz (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Music for film Wstęp do wiedzy o sztuce – Artysta dir. by Konrad Nałęcki (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Music for film Maria Skłodowska-Curie dir. by Stanisław Grabowski (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Music for film Upiór dir. by Stanisław Lenartowicz (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Music for film Wilcze echa dir. by Aleksander Ścibor-Rylski (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Music for film Westerplatte dir. by Stanisław Różewicz (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Music for film Cała naprzód dir. by Stanisław Lenartowicz (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Music for film Bicz boży dir. by Maria Kaniewska (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Music for film Stajnia na Salwatorze dir. by Paweł Komorowski (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Music for film Sami swoi dir. by Sylwester Chęciński (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Music for film Morderca zostawia ślad dir. by Aleksander Ścibor-Rylski (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Music for film Samotność dir. by Stanisław Różewicza (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Music for film Molo dir. by Wojciech Solarz (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Music for film Ostatni po Bogu dir. by Paweł Komorowski (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Music for film Tabliczka marzenia dir. by Zbigniew Chmielewski (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Music for film Lalka dir. by Wojciech Jerzy Has (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Music for film Człowiek z M-3 dir. by Leon Jeannot (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Music for film Przygody pana Michała dir. by Paweł Komorowski (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Music for film Zbrodniarz, który ukradł zbrodnię dir. by Janusz Majewski (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Music for film Tylko umarły odpowie dir. by Sylwester Chęciński (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Music for film Struktura kryształu dir. by Krzysztof Zanussi (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Music for film Czerwone i złote dir. by Stanisław Lenartowicz (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Music for film Sól ziemi czarnej dir. by Kazimierz Kutz (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Music for film Sąsiedzi dir. by Aleksander Ścibor-Rylski (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Music for film Romantyczni dir. by Stanisław Różewicz (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Music for film Rejs dir. by Marek Piwowski (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Music for film Przystań dir. by Paweł Komorowski (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Music for film Lokis dir. by Janusz Majewski (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Music for film Dancing w kwaterze Hitlera dir. by Jan Batory (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Music for film Góry o zmierzchu reż. Krzysztof Zanussi (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Music for film Die Rolle dir. by Krzysztof Zanussi (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Music for film Perła w koronie dir. by Kazimierz Kutz (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Music for film Życie rodzinne dir. by Krzysztof Zanussi (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Music for film Brylanty pani Zuzy dir. by Paweł Komorowski (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Music for film Bolesław Śmiały dir. by Witold Lesiewicz (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Music for film Pierścień księżnej Anny dir. by Maria Kaniewska (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Music for film Martwa fala dir. by Stanisław Lenartowicz (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Music for film Gwiazda wytrwałości dir. by Paweł Komorowski (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Music for film Szklana kula dir. by Stanisław Różewicz (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Music for film Hipoteza dir. by Krzysztof Zanussi (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Music for film Wielka miłość Balzaka dir. by Wojciech Solarz (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Music for film Zazdrość i medycyna dir. by Janusz Majewski (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Music for film Iluminacja dir. by Krzysztof Zanussi (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Music for film Hubal dir. by Bohdan Poręba (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Music for film Drzwi w murze dir. by Stanisław Różewicz (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Music for film Opętanie dir. by Stanisław Lenartowicz (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Music for film The Catamount Killing dir. by Krzysztof Zanussi (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Music for film Bilans kwartalny dir. by Krzysztof Zanussi (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Music for film Linia dir. by Kazimierz Kutz (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Music for film Znikąd donikąd dir. by Kazimierz Kutz (1975) (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Music for film Jarosław Dąbrowski dir. by Bohdan Poręba (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Music for film Ziemia obiecana dir. by Andrzej Wajda (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Music for film Trzecia granica dir. by Wojciech Solarz and Lech Lorentowicz (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Music for film Die Nachtdienst dir. by Krzysztof Zanussi and Edward Żebrowski (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Music for film Trędowata dir. by Jerzy Hoffman (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Music for film Barwy ochronne dir. by Krzysztof Zanussi (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Music for film Ptaki ptakom dir. by Paweł Komorowski (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Music for film Smuga cienia dir. by Andrzej Wajda (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Music for film Brigitte Horney dir. by Krzysztof Zanussi (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Music for film Anatomie Stunde dir. by Krzysztof Zanussi (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Music for film Haus der Frauen dir. by Krzysztof Zanussi (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Music for film Z punktu widzenia nocni portiera dir. by Krzysztof Kieślowski (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Music for film Spirala dir. by Krzysztof Zanussi (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Music for film Rodzina Połanieckich dir. by Jan Rybkowski (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Music for film Paciorki jedni różańca dir. by Kazimierz Kutz (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Music for film Le Roi et l’oiseau dir. by Paul Grimault (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Music for film David dir. by Peter Lilienthal (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Music for film Wege in der Nacht dir. by Krzysztof Zanussi (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Music for film Krzesany dir. by Conrad Drzewiecki (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Music for film Ród Gąsieniców dir. by Konrad Nałęcki (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Music for film Constans dir. by Krzysztof Zanussi (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Music for film Kontrakt dir. by Krzysztof Zanussi (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Music for film Przypadek dir. by Krzysztof Kieślowski (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Music for film Versuchung dir. by Krzysztof Zanussi (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Music for film Z dalekii kraju. Ojciec Święty Jan Paweł II dir. by Krzysztof Zanussi (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Music for film Imperative dir. by Krzysztof Zanussi (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Music for film Unerreichbar dir. by Krzysztof Zanussi (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Music for film Capitali culturali – Vatican dir. by Krzysztof Zanussi (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Music for film Blaubart dir. by Krzysztof Zanussi (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Music for film Na straży swej stać będę dir. by Kazimierz Kutz (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Music for film Marynia dir. by Jan Rybkowski (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Music for film Paradigme du le pouvoir du mal dir. by Krzysztof Zanussi (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Music for film Rok spokojni słońca dir. by Krzysztof Zanussi (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Music for film Kronika wypadków miłosnych dir. by Andrzej Wajda (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Music for film Gdzieśkolwiek jest, jeśliś jest dir. by Krzysztof Zanussi (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Music for film La table tournante dir. by Paul Grimault (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Music for film Napoleon et l’Europe dir. by Krzysztof Zanussi (1989-90)",
+      "year": "1989-90"
+    },
+    {
+      "title": "Music for film Korczak dir. by Andrzej Wajda (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Music for film Leben für Leben – Maximilian Kolbe dir. by Krzysztof Zanussi (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Music for film Long Conversation with a Bird dir. by Krzysztof Zanussi (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Music for film Le retour dir. by Josée Dayan (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Music for film The Touch dir. by Krzysztof Zanussi (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Music for film Dracula dir. by Francis Ford Coppola (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Music for film König der letzten Tage dir. by Tom Toelle (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Music for film Śmierć jak kromka chleba dir. by Kazimierz Kutz (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Music for film Faustyna dir. by Jerzy Łukaszewicz (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Music for film Śmierć i dziewczyna dir. by Roman Polański (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Music for film Cwał dir. by Krzysztof Zanussi (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Music for film Deux fantômes en colère dir. by Gérard Oury (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Music for film Portret damy dir. by Jane Campion (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "for film Pan Tadeusz dir. by Andrzej Wajda (1998-99)",
+      "year": "1998-99"
+    },
+    {
+      "title": "Music for film Dziewiąte wrota dir. by Roman Polański (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Music for film Życie jako śmiertelna choroba przenoszona drogą płciową dir. by Krzysztof Zanussi (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Music for film Pianista dir. by Roman Polański (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Music for film Zemsta dir. by Andrzej Wajda (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Music for film Suplement dir. by Krzysztof Zanussi (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Music for film Królowie nocy dir. by James Gray (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Music for film Czarne słońce dir. by Krzysztof Zanussi (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Music for film Krew jest sednem życia dir. by Kim Aubry (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Music for film Serce na dłoni dir. by Krzysztof Zanussi (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Music for film Poste restante dir. by Marcel Łoziński (2008) (2008)",
+      "year": "2008"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Cegiełła Janusz, Wojciech Kilar, In: Szkice do autoportretu polskiej muzyki współczesnej [Sketches for a Self-Portrait of Contemporary Music], PWM, Kraków 1976 Machowska Antonina, Kilar Wojciech, In: PWM Music Encyclopaedia (biographical part ed. by Elżbieta Dziębowska), vol. “klł”, PWM, Kraków 1997 Podobińska Klaudia, Polony Leszek, Cieszę się darem życia. Rozmowy z Wojciechem Kilarem [I Rejoice in the Gift of Life. Interviews with Wojciech Kilar], PWM, Kraków 1997 Żukowska-Sypniewska Izabela, Poloneza czas zacząć. O muzyce filmowej Wojciecha Kilara [Let’s Start the Polonaise. On Wojciech Kilar’s Film Music], „Kino” 1999 nr 10, s. 24-26 Jaraczewska-Mockałło Krystyna,, Wojciech Kilar: katalog dzieł i bibliografia piśmiennictwa o kompozytorze ,, AM, Warszawa 1999 Scherzo dla Wojciecha Kilara poprowadziły Maria Malatyńska i Agnieszka Malatyńska-Stankiewicz , PWM, Kraków 2002 Binkowski Jerzy, Laur dla Wojciecha Kilara, „Twoja Muza” 2004 nr 5, s. 38 Łukaszewski Marcin Tadeusz, Na Jasnej Górze odnalazłem wolną Polskę ... i siebie, „Twoja Muza” 2004 nr 5, s. 38 Marczyński Jacek, Miłość porusza gwiazdy i słońce, „Twoja Muza” 2005 nr 5, s. 47-48 Polony Leszek, Kilar. Żywioł i modlitwa, PWM, Kraków 2005 Gowarzewska-Griessgraber Regina, Wach-Malicka Henryka, Witalizm w najlepszym wydaniu, \"Twoja Muza\" 2007 nr 5, s. 18-19 Wilczek-Krupa Maria, , W mojej głowie gra orkiestra: o symfonice Wojciecha Kilara , \"Muzyka\" 2012 nr 10, 11, ss. 36-37, 33-35 Jeżewski Krzysztof A., , Wojciech Kilar (1932-2013): kompozytor z ducha , \"Topos\" 2014 nr 1/2, s. 214-215 Barbara Gruszka-Zych, Takie piękne życie. Portret Wojciecha Kilara , Wydawnictwo Niecałe, Bytom 2015",
+  "slug": "kilar-wojciech-en"
+}

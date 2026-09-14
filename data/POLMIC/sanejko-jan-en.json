@@ -1,0 +1,99 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/s/sanejko-jan-en",
+  "title": "Sanejko Jan",
+  "name": "Sanejko Jan",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Sonatina na flet solo (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "2 Etiudy na fortepian solo (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Sonata na fortepian solo (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Getsemani na fortepian solo (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "D.N.A. na orkiestrę symfoniczną (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Nadelhorn na orkiestrę kameralną (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Intermezzi na fortepian solo (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Meditations na kwartet smyczkowy (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "S.O.S. na orkiestrę smyczkową (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Tango na klarnet solo (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Aria na fagot i taśmę (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Confessions na skrzypce solo (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "In memory of Mark Rothko na fortepian preparowany i live electronics (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Butterfly Effect na orkiestrę symfoniczną (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Pulsary na chór jazzowy (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Requiem na orkiestrę smyczkową (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Mesjasz na chór i orkiestrę smyczkową (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Chasing after the wind na orkiestrę symfoniczną (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Sen Jakubowy na flet i fortepian (2016)",
+      "year": "2016"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "sanejko-jan-en"
+}

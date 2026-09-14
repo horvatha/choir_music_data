@@ -1,0 +1,22 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/s/sobieski-marian-en",
+  "title": "Sobieski Marian",
+  "name": "Sobieski Marian",
+  "occupation": "musicologist",
+  "is_composer": false,
+  "description": "ethnomusicologist; b. 14th June 1908 in Miłosławice, d. 25th October 1967 in Warsaw. In 1928-1935 he studied musicology at the Poznań University under Łucjan Kamieński and W. Gieburowski. He also studied violin at a conservatoire in Poznań. He wrote his MA thesis in 1935 on the work of W. Dankowski, and chose to specialise in ethnomusicology only in 1945. In 1929-1934 he conducted an academic choir in Poznań. Already in 1928 he accompanied Ł. Kamieński when conducting ethnographic fieldwork in the regions of Kujawy (Kuyavia) and Wielkopolska (Greater Poland). In 1935 Sobieski took the post of assistant at the Regional Phonographic Archives of the Department of Musicology at the Poznań University. Starting from 1945 he was involved in the Department's reactivation. From 1959 he headed the Musical Folklore Research Laboratory at the Institute of Art of the Polish Academy of Sciences, while in 1954-67 he taught Polish music ethnography at the universities of Warsaw, Poznań and Łódź, as well as at the State Higher School of Music in Poznań. In 1947 Marian Sobieski started campaigning for a nationwide programme of documenting folklore. The Sobieski family worked on similar topics in parallel or, more often, together. Only in the 1960s they divided their tasks (but not interests). Jadwiga Sobieska focused on the musical folklore of the region of Wielkopolska gathering material for the first regional monograph of the series Polska Pieśń i Muzyka Ludowa. Źródła i Materiały (Polish Folk Song and Music. Sources and Materials), while Marian Sobieski studied folk instruments preparing the Polish section of Handbuch der europäischen Volksmusikinstrumente edited by E. Emsheimer and E. Stockmann. Jadwiga and Marian Sobieski were also involved in \"applied\" ethnomusicology, sitting on juries of folk festivals, acting as consultants of folk bands, and devising radio and television programmes on regional music traditions. updated: January 2015 (mkk)",
+  "birth": {
+    "place": "Miłosławice",
+    "date": "14th June 1908",
+    "raw": "b. 14th June 1908 in Miłosławice"
+  },
+  "death": {
+    "place": "Warsaw",
+    "date": "25th October 1967",
+    "raw": "d. 25th October 1967 in Warsaw"
+  },
+  "works": [],
+  "publications": "books Szlakiem kozła lubuskiego, (współautor: J. Sobieska), Kraków 1954 Pieśni ludowe Warmii i Mazur, Kraków 1955 Piosenki z Kujaw, Kraków 1955 Wybór polskich pieśni ludowych, Kraków 1955 Polska muzyka ludowa i jej problemy, (współautor: J.Sobieska), wybór prac pod red. L. Bielawskiego, PWM, Kraków 1955",
+  "bibliography": "Dahlig Piotr, Sobieski Marian, PWM, Kraków 2007",
+  "slug": "sobieski-marian-en"
+}

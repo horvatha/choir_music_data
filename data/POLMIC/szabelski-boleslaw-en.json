@@ -1,0 +1,139 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/s/szabelski-boleslaw-en",
+  "title": "Szabelski Bolesław",
+  "name": "Szabelski Bolesław",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": "composer and organist; b. 3rd December 1896 in Radoryż near Łuków; d. 27th August 1979 in Katowice. In the years 1908-13 he studied piano and organ with Jan Łysakowski at the Organ School of the Warsaw Music Society. Between 1913-15 he studied organ with Mieczysław Surzyński, music theory with Roman Statkowski, and history with Aleksander Poliński at the Warsaw Conservatory. In 1917 he started working as an organ teacher and organist at the Cathedral in Płock. In 1921-22 he was organist at the Cathedral of Holy Virgin Mary in Radom. Then he moved to Warsaw, where he played in the churches of St Boniface and Holy Trinity. Between 1923-29 he was organist at the Garrison Church of St Joseph in Powązki. He also continued his studies in organ playing with Mieczysław Surzyński and composition with Roman Statkowski (1923-25) and Karol Szymanowski (1927-29) at the Warsaw Conservatory. In 1929 Szabelski began working at the Silesian Conservatory in Katowice, where he taught counterpoint and organ. From 1934 he also taught at the Music School in Cieszyn. During World War II, he stayed mostly in Sadowne, where he was organist at the parish church. He also composed and worked as a teacher. From 1940 he was active in the Home Army under the pseudonym of Chmiel. In 1945 he was appointed Dean of the Education Faculty and in 1957 he became head of the Department of Composition of the State Higher School of Music in Katowice. In the years 1946-50 he founded and headed the Karol Szymanowski School of Musicianship. In 1958 he was awarded the title of full professor. Among his students were Zbigniew Bargielski, Edward Bogusławski, Ryszard Gabryś, Aleksander Glinkowski, Henryk Mikołaj Górecki, Jan Wincenty Hawel, Zdzisław Szostak, Piotr Warzecha. Bolesław Szabelski's works have been performed many times at the \"Warsaw Autumn\" Festival of Contemporary Music, and were popularized abroad by conductor Leopold Stokowski. From 1957 Szabelski worked with the Main Board of the Polish Composers' Union. He received many awards and decorations, including the State Award, 2nd degree (1953), Commander's Cross of the Order of Polonia Restituta (1959), Award of the Polish Composers' Union (1961, 1967), Award of the Minister of Culture and Art, 2nd degree (1961) and 1st degree (1976), Commander's Cross with Star of the Order of Polonia Restituta (1977). updated: 2020 (Agnieszka Cieślak)",
+  "birth": {
+    "place": "Radoryż near Łuków",
+    "date": "3rd December 1896",
+    "raw": "b. 3rd December 1896 in Radoryż near Łuków"
+  },
+  "death": {
+    "place": "Katowice",
+    "date": "27th August 1979",
+    "raw": "d. 27th August 1979 in Katowice"
+  },
+  "works": [
+    {
+      "title": "String Quartet No. 1 (1924)",
+      "year": "1924"
+    },
+    {
+      "title": "Symphony No. 1 (1925-26)",
+      "year": "1925-26"
+    },
+    {
+      "title": "Cantata for choir and symphony orchestra (1927-28)",
+      "year": "1927-28"
+    },
+    {
+      "title": "Symphony No. 2 for soprano solo, mixed choir and symphony orchestra (1929-32)",
+      "year": "1929-32"
+    },
+    {
+      "title": "Passacaglia for organ (1930)",
+      "year": "1930"
+    },
+    {
+      "title": "Suite for symphony orchestra (1936)",
+      "year": "1936"
+    },
+    {
+      "title": "Etude for orchestra (1938)",
+      "year": "1938"
+    },
+    {
+      "title": "Magnificat for soprano solo, mixed choir and orchestra (1938-42)",
+      "year": "1938-42"
+    },
+    {
+      "title": "Sonata for organ (1943)",
+      "year": "1943"
+    },
+    {
+      "title": "Soldiers' March [version I] for mixed choir and wind instruments (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "Soldiers' March [version II] for mixed choir and piano (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "Sinfonietta for string orchestra and percussion (1948-49)",
+      "year": "1948-49"
+    },
+    {
+      "title": "Symphony No. 3 (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "Heroic Poem for mixed choir and orchestra (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Solemn Overture for symphony orchestra (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Concerto grosso for orchestra (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "Concertino for piano and orchestra (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "String Quartet No. 2 (1956)",
+      "year": "1956"
+    },
+    {
+      "title": "Symphony No. 4 (1957)",
+      "year": "1957"
+    },
+    {
+      "title": "Sonets for orchestra (1958)",
+      "year": "1958"
+    },
+    {
+      "title": "Improvisations for mixed choir and chamber orchestra (1959)",
+      "year": "1959"
+    },
+    {
+      "title": "Poems for piano and symphony orchestra (1960-61)",
+      "year": "1960-61"
+    },
+    {
+      "title": "Aphorisms \"9\" for chamber ensemble (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Preludes for chamber orchestra (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Concerto for flute and orchestra (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Symphony No. 5 for mixed choir, organ and symphony orchestra (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Nicolaus Copernicus , symphonic poem for soprano solo, 2 mixed choirs and symphony orchestra (1972-75)",
+      "year": "1972-75"
+    },
+    {
+      "title": "Reduta 56 for solo voices, mixed choir and symphony orchestra (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Concerto for piano and orchestra (1978)",
+      "year": "1978"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "szabelski-boleslaw-en"
+}

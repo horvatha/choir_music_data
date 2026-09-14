@@ -1,0 +1,75 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/g/gabrysiewicz-pawel-en",
+  "title": "Gabrysiewicz Paweł",
+  "name": "Gabrysiewicz Paweł",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Szreń na grani na sopran i kwartet smyczkowy (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Kantata o miłości na alt i kameralną orkiestrę smyczkową, dwa oboje i dwa fagoty (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Concertino na skrzypce i orkiestrę (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Apparition na kwartet smyczkowy (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Fugue na altówkę i wiolonczelę (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Concertino Hommage à Paul Delvaux na perkusję i orkiestrę smyczkową (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Poematy , kantata na kontralt i orkiestrę kameralną (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Symfonia o zmierzchu na orkiestrę (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Variations and fugue na gitarę (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Inwencja na organy (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Medytacja jasnogórska na chór mieszany a cappella (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Deus autem noster in coelo na chór mieszany a cappella (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Duetto for You na 2 skrzypiec (2009)",
+      "year": "2009"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "gabrysiewicz-pawel-en"
+}

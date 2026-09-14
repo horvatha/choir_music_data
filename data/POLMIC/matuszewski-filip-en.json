@@ -1,0 +1,67 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/m/matuszewski-filip-en",
+  "title": "Matuszewski Filip",
+  "name": "Matuszewski Filip",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Cztery etiudy na fortepian solo (1994-95)",
+      "year": "1994-95"
+    },
+    {
+      "title": "Shades na flet traverso, skrzypce barokowe, altowy flet prosty i klawesyn barokowy (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Dla Kubusia na trąbkę solo (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Towards na flet, klarnet, saksofon altowy, saksofon barytonowy, trąbkę, 2 rogi, 2 puzony, tubę, perkusję, fortepian, gitarę elektryczną i gitarę basową (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "In memoriam of F. Chopin na flet, saksofon tenorowy, ksylofon, marimbę, gitarę elektryczną, gitarę basową i akordeon (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Concoction na flet, klarnet, wibrafon, dzwoneczki, skrzypce, wiolonczelę, kontrabas i fortepian (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Szarpany na ćwierćtonową mandolinę, gitarę, flet, klarnet, obój, harfę, ksylofon, skrzypce, altówkę, wiolonczelę i kontrabas (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Trzy pieśni do poezji Juliana Tuwima na sopran, flet piccolo i klarnet (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Concoction 2 na kameralną orkiestrę smyczkową (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Taniec weselny na akordeon, 2 ksylofony, bongosy, konga, gwizdki, dzwonki agogo, guiro, kabaza, tamburyn, triangiel, talerz i timbales (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Koncert na trąbkę i zespół (2005)",
+      "year": "2005"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "matuszewski-filip-en"
+}

@@ -1,0 +1,155 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/w/wozny-joanna-en",
+  "title": "Woźny Joanna",
+  "name": "Woźny Joanna",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "composer, born on 27 July 1973 in Zabrze, in 1992-98 she studied philosophy at the Silesian University in Katowice. In 1996-2003 she studied composing with Beat Furrer at the Universität für Musik und Darstellende Kunst in Graz, graduating with honours. Among the awards she has won are: Musikförderungspreis der Stadt Graz (young composers award) (2001), Honorary prize by the Kunstuniversität Graz (2004), SKE Publicity Preis (2010), and Erste Bank Kompositionspreis (2010). Her works have been performed by RSO Radiosymphonieorchester Wien, DSO Deutsches Symphonie-Orchester Berlin, Munich Radio Orchestra, Polish National Radio Symphony Orchestra in Katowice, Klangforum Wien, Ensemble Mosaik, ensemble recherche, Ensemble ascolta, Ensemble Courage, PluralEnsemble, Ensemble PHACE, die reihe, conducted by Brad Lubman, Enno Poppe, and Lukas Vis, among others. Joanna Woźny's music has been presented at such festivals as Wien Modern, Ultraschall Berlin, Warsaw Autumn, Musica Polonica Nova, Klangspuren Schwaz, Musikprotokoll Graz, Forum Neuer Musik in Cologe, Festival Eclat Stuttgart, ISCM World New Music Days 2013. She lives in Austria. Updated: June 2014 Read more on website of the composer's publisher: www.editionjulianeklein.de",
+  "birth": {
+    "place": "Zabrze",
+    "date": "27 July 1973",
+    "raw": "born on 27 July 1973 in Zabrze,"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "...zum unberührten Schnee im fahlen Mondlicht... for four percussionists (1999/2005)",
+      "year": null
+    },
+    {
+      "title": "Die verlorenen Pfade I for tenor saxophone, double bass and percussion (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Die verlorenen Pfade II for clarinet and tape (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Die verlorenen Pfade II for clarinet and tape (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "chweben wohin , electroacoustic music (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "(2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Music for Automatic Piano (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Das tiefe Blau dort im Lauf der Tage for oboe solo (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Pneuma for organ (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "silben- meer- farben for flute, clarinet, violin, viola and cello (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Musik für Flöte, Bassklarinette und Klavier (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Return for saxophone solo and ensemble (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Loses for orchestra (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "kahles Astwerk for voice, flute, violin and cello (2007/8)",
+      "year": null
+    },
+    {
+      "title": "Ferne-Annäherung for mixed choir (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Surfacing for string trio (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Archipel for orchestra (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Retrun [revised] for tenor saxophone solo and ensemble (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Prolepsis for trombone, percussion and double bass (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Für Viola , solo for viola (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "as in a mirror, darkly for ensemble (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "disintegrated for orchestra (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Vom Verschwinden einer Landschaft II for violin, viola, cello and piano (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "mobile elements for bass clarinet, trombone, percussion, piano, violin, cello and double bass (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "divided for double bass recorder (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "air balance for organ (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "lost motion for cello and string orchestra (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "diffraction courses for clarinet, saxophone, 2 percussionists, piano, violin, cello and double bass (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "stairs for flute, piano, accordion, violin, viola and cello (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "suspended for flute, accordion and cello (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "as in a mirror, darkly [revised] for ensemble (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "brown , fizzled out for trumpet, trombone, 2 percussionists, piano, electronic guitar and cello (2013/14)",
+      "year": null
+    },
+    {
+      "title": "some remains for flute, clarinet, piano, viola and double bass (2014)",
+      "year": "2014"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Ender Daniel, Joanna Woźny: „Musik für zwei Gitarren”, Österreichische Musikzeitschrift 2005 nr 9, s. 34-35",
+  "slug": "wozny-joanna-en"
+}

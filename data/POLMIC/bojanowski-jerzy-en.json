@@ -1,0 +1,103 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/b/bojanowski-jerzy-en",
+  "title": "Bojanowski Jerzy",
+  "name": "Bojanowski Jerzy",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Indian Sketches na orkiestrę (1943)",
+      "year": "1943"
+    },
+    {
+      "title": "Rhapsody on Three Songs of Scotland na orkiestrę (1945)",
+      "year": "1945"
+    },
+    {
+      "title": "Prayer for the Dead na orkiestrę smyczkową (1945)",
+      "year": "1945"
+    },
+    {
+      "title": "Symphony in D minor (1947)",
+      "year": "1947"
+    },
+    {
+      "title": "The Bridge Builder pieśni (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "Divinity na kwartet wokalny (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "Four Polish Carols na duet wokalny (1957)",
+      "year": "1957"
+    },
+    {
+      "title": "Starlight Night, Tone Poem na tenor i orkiestrę (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "A Net to Snare th Moonlight na głos solowy lub chór z zespołem, lub sam zespół (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Poland’s Hymns opracowanie na orkiestrę (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Marquette University Anthem na 4-oktawowy carillon (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Essay in Antique and Modern Mode na 4-oktawowy carillon (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Light Piercing Gradually (z cyklu Mother ) na alt i carillon lub fortepian (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "To an African Bishop na baryton i carillon lub fortepian (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "The Armaments Factory Worker na baryton i carillon lub fortepian (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Improvisation Nocturne na carillon (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Summer Sunset na 4-oktawowy carillon (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Pośród niesnasków Pan Bóg uderza na głos i carillon lub fortepian (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Illuminations na carillon (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Meditation na carillon (1981)",
+      "year": "1981"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Wisconsin Music Archives. Papers and Manuscripts: Jerzy Bojanowski Collection Bojanowski Jerzy, PWM, Kraków 1964 Błaszczyk Leon Tadeusz , Dyrygenci polscy i obcy w Polsce działający w XIX i XX w., PWM, Kraków 1964 Erhardt Ludwik, Bojanowski Jerzy, PWM, Kraków 1986 Bojanowski Jerzy, PWM , Kraków 1998 Iwanicka-Nijakowska Anna, Bojanowski Jerzy, Akademia Muzyczna im. Fryderyka Chopina w Warszawie / Akademia Muzyczna im. Stanisława Moniuszki w Gdańsku, Warszawa / Gdańsk 2005",
+  "slug": "bojanowski-jerzy-en"
+}

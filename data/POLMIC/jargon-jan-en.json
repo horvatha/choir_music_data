@@ -1,0 +1,47 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/j/jargon-jan-en",
+  "title": "Jargoń Jan",
+  "name": "Jargoń Jan",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": "organist and composer; b. 23rd June 1928 in Pawłów; d. 31 October 1995 in Kraków. In 1947-52 he studied organ with Bronisław Rutkowski, and in 1950-56 composition with Stanisław Wiechowicz at the State Higher School of Music in Kraków. In 1950 he won the first prize at the Polish Bach Competition in Poznań. He began teaching in 1948. Until 1951 he was a teacher at the State Secondary Music School in Bytom, and then from 1954 at the State Higher Music School in Kraków, where he organised an organ class and taught harmony, counterpoint and improvisation. In 1956, he began teaching at the Department of Organ of the State Higher School of Music in Kraków. He was the deputy dean of the Faculty of Musical Education (1966-69), the dean of the Instrumental Department (1969-72), the vice-rector (1972-75), and the head of the Organ Department (1976-1995). In 1981 he obtained the title of associate professor and in 1987 – full professor. In 1973-76 and 1979-82 he was a member of the High Council of the Ministry of Culture and Arts, as well as a member of the Archdiocesan Commission for Church Music at the Metropolitan Curia in Kraków, acting for several years in the subcommittee on the construction of organs. Jan Jargoń gave concerts in Poland and abroad, including in Austria, Bulgaria, Czechoslovakia, Denmark, France, Spain, the Netherlands, Germany and Hungary. He also actively participated in various international music festivals and competitions devoted to organ music (Johann Sebastian Bach Festival in Leipzig, Nuremberg and Prague), and also made CD and radio-television recordings in the country and abroad. In 1971 he initiated and co-organised the Historic Organ Conservation Workshop of the Kraków branch of the Atelier for Conservation of Cultural Property (PKZ). As its permanent scientific consultant, he collaborated on the renovation of a dozen or so buildings, holding the most valuable Polish historic organs (Kazimierz Dolny on the Vistula, Olkusz, Jędrzejów). He took part in a number of renovation works to the historic instruments installed in Kraków churches (including St. Nicholas, the Pauline Fathers at Skałka, St. Mary's Basilica and the Carmelite Fathers in Piasek). He was also the author of many acoustics projects of newly built organs (including at the Kraków Philharmonic and the Kraków Academy of Music). For his contribution to Polish culture and music pedagogy, he received, among others, three times the Award of the Minister of Culture and Art of the 1st and 2nd degree (1971, 1974, 1982), the Knight's Cross of the Order of Polonia Restituta (1973), the Award of the City of Kraków (1974) and the title of the “Meritorious Teacher of the Polish People's Republic” (1985). updated: 2020 (ac)",
+  "birth": {
+    "place": "Pawłów",
+    "date": "23rd June 1928",
+    "raw": "b. 23rd June 1928 in Pawłów"
+  },
+  "death": {
+    "place": "Kraków",
+    "date": "31 October 1995",
+    "raw": "d. 31 October 1995 in Kraków"
+  },
+  "works": [
+    {
+      "title": "Introduction. Passacaglia for organ (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Silesia , cantata for solo voices, choir and orchestra (1954-55)",
+      "year": "1954-55"
+    },
+    {
+      "title": "Baroque Concerto for organ and orchestra (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "Sonata for violin and piano (1958)",
+      "year": "1958"
+    },
+    {
+      "title": "Songs for soprano and piano (1959)",
+      "year": "1959"
+    },
+    {
+      "title": "Triptychon for organ (1963)",
+      "year": "1963"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Perkowska Małgorzata, Jargoń Jan, PWM, Kraków 1993",
+  "slug": "jargon-jan-en"
+}

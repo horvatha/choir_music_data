@@ -1,0 +1,119 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/w/wecowski-jan-en",
+  "title": "Węcowski Jan",
+  "name": "Węcowski Jan",
+  "occupation": "composer, musicologist",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Przyjdź o Jezu , motet eucharystyczny na 2 głosy z organami (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "O salutaris Hostia na chór mieszany i organy (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Z otchłani ziemskiej na głos średni i organy (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "Z ziemskiego trudu , pieśń ślubna na głos z akompaniamentem organów (1958)",
+      "year": "1958"
+    },
+    {
+      "title": "Cum Rex gloriae , motet wielkanocny na chór mieszany a cappella (1958)",
+      "year": "1958"
+    },
+    {
+      "title": "Pieśń do św. Judy Tadeusza na głos, chór mieszany i organy (1959)",
+      "year": "1959"
+    },
+    {
+      "title": "Czarodziejskie krzesiwo na głos i fortepian (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Biedna dziewczynka z zapałkami na głos i fortepian (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Dwie pieśni dla dzieci na głos i fortepian (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Kiedy pierwsza gwiazdka błyśnie [wersja I] na głos i organy (lub fortepian) (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Pan mój i Bóg mój na chór i organy (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Modlitwa nasza , kantata na bas solo, chór mieszany i orkiestrę symfoniczną (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Salve Regina [wersja I] na chór mieszany i organy (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Kiedy pierwsza gwiazdka błyśnie [wersja II] na chór mieszany a cappella (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Ave Maria, Mater mea na chór mieszany a cappella (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Fantazja Polska na klarnet solo (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Salve Regina [wersja II] na chór mieszany a cappella (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Crescat in terra pax na chór mieszany a cappella (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Modlitwa narodów na chór mieszany a cappella (1998-2004)",
+      "year": "1998-2004"
+    },
+    {
+      "title": "Oratio pro benignitate Poloniae. In tertium Millennium [wersja I] na chór mieszany a cappella (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Oratio pro benignitate Poloniae. In tertium Millennium [wersja II] na chór mieszany a cappella (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "O Salutaris na chór mieszany i organy (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Tantum ergo na chór mieszany i organy (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Salve Regina [wersja III] na chór mieszany i basso continuo (2005-2006)",
+      "year": "2005-2006"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Łukaszewski Marcin Tadeusz, Węcowski Jan, Akademia Muzyczna w Warszawie, Warszawa 2004",
+  "slug": "wecowski-jan-en"
+}

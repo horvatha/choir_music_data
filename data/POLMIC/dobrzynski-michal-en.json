@@ -1,0 +1,287 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/d/dobrzynski-michal-en",
+  "title": "Dobrzyński Michał",
+  "name": "Dobrzyński Michał",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "composer; b. 24th November 1980 in Szczecin. In 2005 he graduated (with honours) from the Academy of Music in Bydgoszcz, having studied composition with Marek Jasiński and Zbigniew Bargielski. In 2008 he obtained a PhD at the Academy of Music in w Warsaw. He also studied in Italy (Instituto Achille Peri in Regio Emilia) under Andrea Talmelli and Maurizio Ferrari. He also participated in a range of master classes and seminars, held e.g. by the Polish Society for Contemporary Music, led by Anders Hillborg, Luca Francesconi, Marco Stroppa, Ivan Fedele, Horaţiu Rădulescu, David Dramm, Fabián Panisello, and Hugues Doufor. Michał Dobrzyński was selected by Krzysztof Penderecki and Henryk Mikołaj Górecki to participate in the programme \"Young Composers In Tribute to Chopin\" organized in 2007-2010 by the European Krzysztof Penderecki Centre for Music. He is an award-winning composer. In 2003 he received the 3rd prize (1st was not awarded) in the \"instrumental and vocal works\" category for Pax Omnes Gentes for mixed choir and symphony orchestra (2003) at the Composition Competition in Wrocław marking 25 years of John Paul II’s pontificate and 1st prize of the 8th Intercollegiate Fugue Competition, in 2004 – an honourable mention at the International Composition Competition celebrating the 30th anniversary of the Academy of Music in Bydgoszcz for Quartetto for string quartet (2002), in 2006 – 2nd prize (1st was not awarded) at the Ignacy Jan Paderewski International Composition Competition in Bydgoszcz for Pentagram for piano (2006). Michał Dobrzyński received scholarships from Minister of Culture and National Heritage of Poland in 2003/2004, 2004/2005, and in 2012. The latter allowed him to write Symfonia rzeźb dźwiękowych ( Symphony of Sound Sculptures ) for string orchestra and electronics. In September 2012 DUX record label released his monographic album Expression (performers: Choir and Orchestra of the Silesian Philharmonic in Katowice, Silesian Chamber Orchestra under Przemysław Fiugajski, and soloists, including Bartłomiej Nizioł). In 2008 the album Młodzi kompozytorzy w hołdzie Fryderykowi Chopinowi ( Young Composers In Tribute to Chopin ), released by DUX, featured Dobrzyński's Trio florenckie ( Florence Trio ) for violin, cello and piano. The album was nominated for the \"Fryderk\" award. Michał Dobrzyński has collaborated with a number of professional ensembles, including Aukso, Kwadrofonik, Choir and Orchestra of the Silesian Philharmonic, Silesian Chamber Orchestra, Szczecin Philharmonic, Kalisz Philharmonic, Częstochowa Philharmonic, Schola Cantorum Posnaniensis, Baltic Neopolis Orchestra, Warsaw Chamber Opera, and excellent soloists and conductors such as Bartłomiej Nizioł, Mariusz Patyra, Urszula Kryger, Jerzy Salwarowski, Adam Klocek, Marek Moś, Przemysław Fiugajski, Jadwiga Gałęska-Tritt, Natalia Sawościanik, Magdalena Lisak, Piotr Żukowski, Isabelle Cottet, or Yuko Mine. His compositions were performed at festivals in Poland and abroad: \"Warsaw Autumn\" Festival (concerts of the Youth Circle), Festival of World Premieres in Katowice, Poznań Music Spiring, Sopot Classic, Sacrum non Profanum, Zamość Days of Music, Festival of Prize-Winners of Music Competitions in Bydgoszcz, Compositori a Confronto in Italy, and numerous concerts in Poland, Germany, Sweden, Italy, Czech Republic, and China. Dobrzyński's works are included in PWM Edition catalogue. In January 2013 PWM published two pieces, which have also been featured on Dobrzyński's monographic album produced by DUX: Iluminacje. Concerto-notturno ( Illuminations. Concerto-notturno ; 2010) for piano and string orchestra and Elegia I ( Elegy No. 1 ; 2006) for violin solo. He is a member of the Youth Circle of the Polish Composers' Union (sitting on its board in 2008-10). He teaches at the Faculty of Composition, Theory of Music and Sound Engineering at the Academy of Music in Bydgoszcz and leads the Academy's Studio of Contemporary Music. updated: November 2014 (ai) Composer's website: www.michaldobrzynski.com",
+  "birth": {
+    "place": "Szczecin",
+    "date": "24th November 1980",
+    "raw": "b. 24th November 1980 in Szczecin"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Igraszki for koniec wieku for piano (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Five Stages for piano (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Visions for organ (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Concerto Erasmus for flute, cello, piano, accordion and percussion (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Concertino for brass quintet (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Quartetto for string quartet (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Kiss of Greyness for soprano and piano (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Pax Omnes Gentes for mixed choir and symphony orchestra (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Florence Trio for violin, cello and piano (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Scherzo-Fantasie for piano (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Vibrasounds for violin and piano (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Rhitmos for piano and orchestra (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Sonar a due for violin and piano (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Violin Concerto (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Spider Etude for marimba (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Three Preludes for Christmas for piano (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Two Preludes for piano (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Magnus Dominus for mixed choir i symphony orchestra (2005-2010)",
+      "year": "2005-2010"
+    },
+    {
+      "title": "Pentagram for piano (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Elegy I for violin solo (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Orlikowe Pląsy for violin and symphony orchestra (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Poem for piano (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Elegy II: Dialogue for violin and electronics (2007/08)",
+      "year": null
+    },
+    {
+      "title": "Divertimento for clarinet and string quartet (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Continuum for 2 pianos and 2 percussions (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Elegy III for string quartet, flute, trumpet and live electronics (dj'ing) (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Carousel electronic composition (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Elegy III: Dissonance for string quartet, flute, trumpet and dj`ing (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Elegy IV: Multiphony for string orchestra (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "De profundis II for 10 pianos and symphony orchestra (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "De profundis for chamber Baroque string orchestra and mixed choir (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Iluminations: Concerto-notturno for piano and string orchestra (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Kyrie for choir a cappella (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Blink for string quintet, horn, bassoon, clarinet (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Reflections of Space for vibraphone (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Blink II , version for clarinet and string quartet (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Three Songs to Rilke for soprano and orchestra (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Symphony of Sound Sculptures for chamber orchestra and electronics (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "String Quartet No. 2 \"Orestes” (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Operetta , chamber opera in three acts (after Gombrowicz) for seven soloists, vocal ensemble and orchestra (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Rebeka , Kashubian chamber opera for three voices solo, male choir and chamber orchestra (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "…Das man mit Ihnen redet… for violin, piano and electronics (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Blink III for alto saxophone, soprano saxophone and string quartet (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Concertinetto for I.S. for brass quintet (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Three Granaries for piano (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Hiob-Zyklus for violin, piano and electronics (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "String Quartet No. 3 \"Musica Delenit\" (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Tango, opera (after Mrożek) for seven soloists, vocal ensemble and orchestra (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Afterglows of Atlantis for violin and piano (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "2xH for actor, piano quintet, percussion and electronic sounds (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Epitaph for violin solo (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Moving Frames for piano (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Stepping & playing for piano (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Instrumentation and arrangement of \"Halka\" (Vilnius) by Stanisław Moniuszko (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "InGarden. String Quartet No. 4 (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Lutostrada for oboe and accordion (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Chorea for saxophonist and piano (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "2xH , version for actor, violin, cello, piano, percussion and electronics (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Quasi una partita. Omaggio a Tansman for cello and piano (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "Było kiedyś morze szkliste , song cycle for mezzo-soprano and symphony orchestra (2022)",
+      "year": "2022"
+    },
+    {
+      "title": "Okruchy pamięci with elements of improvisation inspired by the works of Gero Hellmuth (2022)",
+      "year": "2022"
+    },
+    {
+      "title": "Amaltea for saxophone and piano or any string instrument and piano (2022)",
+      "year": "2022"
+    },
+    {
+      "title": "Reconstruction of the 2nd and 3rd movements of Karol Kurpiński's Clarinet Concerto (2022)",
+      "year": "2022"
+    },
+    {
+      "title": "Fraternité . Concerto for piano and orchestra (2024)",
+      "year": "2024"
+    },
+    {
+      "title": "MonoQuartet. Paintings Children of War . String Quartet No. 5 (2024)",
+      "year": "2024"
+    },
+    {
+      "title": "Hi§tory , opera in 2 acts (after Gombrowicz) for soloists, vocal ensemble and orchestra (2024)",
+      "year": "2024"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Wierni intuicji, \"Twoja Muza\" 2007 nr 5, s. 35-36",
+  "slug": "dobrzynski-michal-en"
+}

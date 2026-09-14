@@ -1,0 +1,179 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/g/gronowicz-michal-en",
+  "title": "Gronowicz Michał",
+  "name": "Gronowicz Michał",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "2’22’’ na fagot, wibrafon i skrzypce (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "a-o-lo na 20 sopranów, 20 basów, 20 skrzypiec i 20 wiolonczel (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Lot Ikara na 2 skrzypiec i fortepian (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Debata na dwa kwartety smyczkowe (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Quartettino na 2 altówki i 2 fagoty (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Canone a due na 2 fortepiany (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Haiku (I-IV) na różne zespoły kameralne (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Czas na mnie, pieśń na sopran i trio smyczkowe do słów T. Różewicza (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Haiku (V-XII) na różne zespoły kameralne (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Tangerium I na klawesyn (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "De Psalmo VI na chór mieszany i orkiestrę smyczkową (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Conversazione na 2 saksofony (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Glivotte na skrzypce, altówkę i 3 wiolonczele (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Bąmble, utwór elektroakustyczny (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Inuis, utwór elektroakustyczny (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Dodecaffo na 2 skrzypiec (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "aeAl na 3 fortepiany (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Tangerium II na klawesyn (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Cisza, pieśń na chór mieszany a cappella do słów A. Kamieńskiej (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Ut-nak-o-mi na instrumenty dęte blaszane i organy (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "De Psalmo VI na solistów i chór lub dwa chóry (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Comprehendere... na duży zespół kameralny (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Haiku (XIII-XIV) na zespoły kameralne (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Sinfonia à 10 na dwa klawesyny na 10 rąk (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Haiku (XV-XVI) na zespoły kameralne (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Small Objects , pieśń na sopran, mezzosopran, wiolonczelę i fortepian do słów A. Zagajewskiego w angielskim tłumaczeniu (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Subtilia I na zespół kameralny (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Haiku (XVII-XX) na różne zespoły kameralne (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Mazur na wiolonczelę (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Air sur un fa dièse na sopran i zespół kameralny (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "La Margot na klawesyn i 3 kotły (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "La folle giornata , opera w siedmiu odsłonach na solistów, orkiestrę, taśmę i live electronics do libretta własnego na motywach P.-A. Carona de Beaumarchais (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Tangerium III na skrzypce (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Subtilia II na zespół kameralny (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Sinfonia na orkiestrę smyczkową (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Suite pour le souper du... na klarnet, skrzypce, altówkę i wiolonczelę (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Na Horacjusza Flakkusa \"Carmen XXIII, Lib. I\" na flet prosty w trzech odmianach, klawesyn i perkusję (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Kyrie na chór żeński (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Marsz na fortepian na 4 ręce (2017)",
+      "year": "2017"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "gronowicz-michal-en"
+}

@@ -1,0 +1,255 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/k/krupowicz-stanislaw-en",
+  "title": "Krupowicz Stanisław",
+  "name": "Krupowicz Stanisław",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "composer, born on 25th November 1952 in Grodno. In 1971-76, he studied at the Department of Mathematics and Mechanics of Warsaw University. In 1975-81 he studied composition with Tadeusz Baird and Włodzimierz Kotoński at the State Higher School of Music (now the Music Academy in Warsaw), from which he graduated with honours. He participated in summer courses for composers in Bayreuth (1979) and Darmstadt (1982). In 1982-84 he participated in the activity of the Independent Studio of Electroacoustic Music. He received a Fulbright Foundation grant to study composition and computer music under John Chowning and Leland Smith in the Center for Computer Research in Music and Acoustics at Stanford University, California (1983-84). In 1986 he received Prix-de-Paris – a Stanford University grant for the composition of a work at the Institut de Recherche et de Coordination Acoustique/Musique. In 1989 he was awarded a fellowship of the Barbara Piasecka-Johnson Foundation and Stanford University for a study of the Stradivarius violin. In the same year he was awarded the Doctor of Musical Arts degree in composition from Stanford University. In 1991-92 he was a Leverhulme Post-doctoral Fellowship holder. Stanisław Krupowicz has received prizes at numerous competitions for composers, including in 1981 – 2nd prize in the Young Composers' Competition of the Polish Composers' Union for Tempo 72 for amplified harpsichord and strings (1981); in 1985 – 2nd prize in the International Computer Music Competition NEWCOMP in Boston for Tako rzecze Bosch [Thus Spake Bosch] for tape (1985); in 1987 – an honourable mention in the 8th Irino Prize International Competition in Tokyo for Wariacje pożegnalne na temat Mozarta [Farewell Variations on a Theme by Mozart] for amplified string quartet and tape (1986). He twice received the Alexander Borodin Foundation Award – in 1989 for Tylko Beatrycze [Only Beatrice] for amplified string quartet and tape (1988) and in 1990 for Tako rzecze Bosch [Thus Spake Bosch] for tape (1985). In 1994 his composition Fin de siècle for orchestra (1993) received a recomendation of the International Rostrum of Composers in Paris. His compositions have been performed in many countries of Europe, Asia and both Americas. Member of the \"Warsaw Autumn\" Repertoire Committee in 1993-96; co-founder and in 1998-2000, president of the Friends of the Warsaw Autumn Foundation. In 2005, he was also one of the initiators of the \"Musica Electronica Nova\" Festival in Wrocław, of which he was the first artistic director. He teaches composition and computer music at the Academy of Music in Wrocław. He is also the head of the Academy’s Computer Composition Studio, which he initiated and organised. In 2013 he was granted the academic title of Professor of Musical Arts.",
+  "birth": {
+    "place": "Grodno",
+    "date": "25th November 1952",
+    "raw": "born on 25th November 1952 in Grodno."
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Four Pieces for piano (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Introduction and Passacaglia for string quartet (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Chapter XLVII to excerpts from James Joyce’s Ulisses for female reciting voice and orchestra (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Stochos for organ (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "De metamusicae to extracts from Plato, Aristotle, Epicure and others for soprano, alto, bass and chamber ensemble (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Larghetto for oboe d’amore and orchestra (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Commentary [version I] for mixed choir (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Ardo 4031 for wind quintet (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Epiphora for 44 strings (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Fassquel for flute, bass flute and two Synthi AKS synthesisers (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Symphony (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Tempo 72 for amplified harpsichord and strings",
+      "year": null
+    },
+    {
+      "title": "String Quartet No. 2 (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Easter Disloyalty of CD for optional instruments (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "A Certain Case of a Certain Generalised Canon in the Fourth and Fifth for nine performers (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Unquestioned Answer, variation on the theme by Ives for chamber orchestra (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Music for S for tape (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Half a Dozen Chaste Stanzas for piano (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Thus Spake Bosch for tape (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Farewell Variations on a Theme by Mozart for amplified string quartet and tape (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Halfway for tape (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Concerto for tenor saxophone and computers (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Nightfall for tape (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Only Beatrice for female reciting voice, amplified string quartet and tape (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Alcoforado for tape (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Smoking Room Blues for MIDI ensemble (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "A Lighter Shade of Grey for violin and tape (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Fin de siècle for orchestra (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Polonaise 1995 for orchestra (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Certain Cases of the Generalised Mixed Cadence for synthetisers and computers (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Commentary [version II] for mixed choir (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Miserere for soprano and two mixed choirs (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Christmas Oratorio for soloists, mixed choir and orchestra (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "444 for string quartet (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Gratanter iubilemus for two a cappella choirs (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Terre Minus , performance (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Tous Ensemble , performance (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Fanfares for ACH for chamber orchestra (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Paragon Paradigm for sinfonietta (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Centum annos for alto, improvising conductor and a cappella choir (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Partita for cello and computers (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Europa , computer opera in one act after William Blake (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Nativity na chór a cappella do tekstu Wilama Blake’a (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Lament of the Republic for alto and computer to words by Mikołaj Rej (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "...everything that lives is holy... for a cappella choir to words by William Blake (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Toplap Music for computer quartet (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Two Sides for piano (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Prolongement for amplified string quartet and computer (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Opus 10 for computer and ambisonic sound projection (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Chopin’s Computer op. 10, audiovisual show (with Marcin Bortnowski and Marcin Rupociński) (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Computer Concerto for computer and orchestra (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Machinæ cœlestes for soprano, choir, computers and orchestra (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Piano Concerto (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "America , computer opera to a libretto based on the poem America by William Blake (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Sotto voce for violin, clarinet, cello and piano (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Conversation for percussion trio and video (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Multimedia Composition for 3 computers, harpsichord, accordion, choir and video (with Marcin Bortnowski and Marcin Rupociński) (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "Fusionfonia. Muzyka ziemi ukraińskiej for soloists, jazz ensemble, folk ensemble, computer trio and orchestra (with Ivan Taranenko, Marcin Bortnowski and Marcin Rupociński) (2022)",
+      "year": "2022"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Baculewski Krzysztof, Krupowicz Stanisław, In: Encyklopedia Muzyczna PWM [PWM Music Encyclopaedia] (biographical part, ed. by Elżbieta Dziębowska), vol. „klł”, PWM, Kraków 1997 Thomas Adrian, Krupowicz Stanisław, In: The New Grove Dictionary of Music and Musicians. Second Edition (ed. Stanley Sadie), vol. 13, Macmillan Publishers Limited, London 2001 Topolski Jan, Stanisław Krupowicz [wywiad], \"Glissando” 2006 nr 9, s. 104-107 Łabuś Katarzyna, Krupowicz i Szymański: dwa oblicza surkonwencjonalizmu w polskiej muzyce współczesnej (1), \"Muzyka21\" 2009 nr 5, s. 33",
+  "slug": "krupowicz-stanislaw-en"
+}

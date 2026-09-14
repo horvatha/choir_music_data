@@ -1,0 +1,123 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/b/budzynski-bartlomiej-en",
+  "title": "Budzyński Bartłomiej",
+  "name": "Budzyński Bartłomiej",
+  "occupation": "promoter, composer, performer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Sonata na gitarę solo (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Góreckiada [wersja I] na cztery gitary (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Trzy utwory na gitarę solo (1982-84)",
+      "year": "1982-84"
+    },
+    {
+      "title": "Three Polish Tunes na trzy gitary (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Góreckiada [wersja II] na osiem gitar (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Koncert na cztery gitary i orkiestrę (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Diallada na gitarę i klawesyn (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Tiento na cztery gitary (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Cztery improwizacje na gitarę solo (1990-93)",
+      "year": "1990-93"
+    },
+    {
+      "title": "La Folia na gitarę solo (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Partita concertante na dwie gitary i orkiestrę (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Toccata i Berceuse na dwie wiolonczele, gitarę i gitarę basową (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Capriccio na gitarę solo (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Koncert na gitarę i orkiestrę (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Wariacje na temat Griega na gitarę solo (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Passacaglia na obój i gitarę (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Riffs & Breaks na sześć gitar i perkusję (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Fantazja na skrzypce i gitarę (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "...Like a Comet’s Tail na orkiestrę gitarową (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Lamentationes I na chór mieszany, obój, harfę, altówkę i wiolonczelę (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Rondo na osiem gitar (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Sonata na gitarę solo nr 2 (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Tam, gdzie rządzą jamniki na cztery gitary (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Pieśni nabożne na chór mieszany i osiem gitar do słów O. Błażeja Derey'a OP z 1645 (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Muzyka do filmu dokumentalnego Cud nad Wisłą w reż. Krzysztofa Nowak-Tyszowieckiego (2005)",
+      "year": "2005"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "budzynski-bartlomiej-en"
+}

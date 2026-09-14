@@ -1,0 +1,79 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/s/slawinski-adam-en",
+  "title": "Sławiński Adam",
+  "name": "Sławiński Adam",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Upamiętnienie na mezzosopran, fortepian przestrojony i taśmę magnetofonową do słów Wisławy Szymborskiej (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Ballada dla 6 perkusistów (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Canto na orkiestrę smyczkową (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Pulsar na perkusję i taśmę magnetofonową (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Intermezzo na kwartet smyczkowy (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Lis Witalis , baśń symfoniczna na 3 solistów-aktorów (w tym 2 śpiewających), chór mieszany i orkiestrę symfoniczną z saksofonem solo (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Symfonia c-moll „Dokończona” na mezzosopran, bas, chór mieszany i orkiestrę symfoniczną do słów Jeremiego Przybory (nowa wersja utworu z 1969) - utwór popularyzatorski, edukacyjny, skomponowany na zamówienie TV na potrzeby audycji, w której autorzy mieli za zadanie wyjaśnić słowem i muzyką czym jest symfonia (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Polonez Świętokrzyski na orkiestrę symfoniczną (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Muzyka na smyczki (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Wariacje w paru stylach na klarnet i fortepian (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Dodecanzonetta na dwa flety (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Dodecanzonetta na skrzypce solo i dwoje skrzypiec (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Dodecanzonetta na flet solo (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Koncert na dwa flety i orkiestrę kameralną (2018)",
+      "year": "2018"
+    }
+  ],
+  "publications": "articles & papers System rytmiczny w jazzie?, „Ruch Muzyczny” 1957 nr 5, s. 2-7 Konfrontacje, „Ruch Muzyczny” 1962 nr 20, s. 10-11",
+  "bibliography": "Wielki Śpiewnik Agnieszki Osieckiej, Fundacja Okularnicy / PWM, Warszawa - Kraków 2004",
+  "slug": "slawinski-adam-en"
+}

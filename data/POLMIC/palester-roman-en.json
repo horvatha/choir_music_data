@@ -1,0 +1,371 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/p/palester-roman-en",
+  "title": "Palester Roman",
+  "name": "Palester Roman",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "composer, b. 28 th December 1907 in Śniatyń (now Sniatyn, Ukraine), d. 25 th August 1989 in Paris. He started learning the piano at the age of seven; he studied this instrument in the Music Institute in Cracow (1919-21), then with Maria Sołtys in Lvov Conservatory (1921-25). From 1925, he studied history of art at the Philosophical Department of Warsaw University. Simultaneously, from 1928 he studied with Kazimierz Sikorski in Warsaw Conservatoire, graduating in 1931 with a degree in music theory and composition. As his debut, Palester chose the Warsaw performance (in the same year) of Muzyka symfoniczna [ Symphonic Music ] (1930), which later brought him a tremendous success at the Festival of the International Society for Contemporary Music in London. In 1931-39, Roman Palester travelled extensively (most of all, to Paris) and his compositions were frequently awarded both in Poland and abroad, e.g. in 1932 in the Competition of the Singers’ Societies Association (for Psalm V for baritone, choir and orchestra, 1930-31) and in 1935 in the Competition of Polish Music Publishing Society (1st prize for Variations for chamber orchestra, 1935). In 1937 his ballet Song of the Earth won him the gold medal at the World Exposition in Paris. In the 1930s, he also composed much music for films, the theatre and the radio, collaborating with such famous theatre directors as Leon Schiller or Juliusz Osterwa. In this period he also took active part in music life, serving as secretary (from 1936) and vice-president (1938-39) of the Polish Composers’ Association. From 1937, he was also vice-president of the International Society for Contemporary Music, Polish Section. In 1939, he co-organised the 17 th Festival of the International Society for Contemporary Music in Warsaw and Cracow. He was also a member of the Managing Board of ZAiKS Authors’ Association and the Musical Council of the Society for Promotion of Polish Art Abroad. During the World War II, Roman Palester lived in Warsaw; in 1940, he spent about 6 weeks in the Gestapo prison on Pawiak. Many of his scores perished in the Warsaw Uprising. After the war, he moved to Cracow. In 1945-47, he worked as professor of composition in the State Higher School of Music in Cracow. From 1 st May to 31 st August 1945, he also held the post of deputy vice-chancellor of that academy. He was then regarded as one of the greatest living Polish composers, and his compositions were awarded and performed both in Poland and abroad. In 1946, he was the first winner of the City of Cracow Music Award. At the Festival of the International Society for Contemporary Music in London (1946), the performance of his Violin Concerto (1939-41) received an enthusiastic applause. In 1947, Roman Palester moved to Paris and dedicated himself primarily to composition. Two years later, following the Assembly of Composers and Music Critics in Łagów Lubuski, whose participants proclaimed the submission of Polish music to the principles of socialist realism, Palester finally decided to emigrate from Poland. Till 1951, he was resident in Paris, then in 1952-72 he lived in Munich, where he worked as head of the culture department in the Polish section of Radio Free Europe, the anti-communist station broadcasting for listeners behind the “Iron Curtain”. He presented a series of broadcasts entitled “Music Abolishes the Frontiers”, in which he presented compositions forbidden in Poland at that time, as well as the programme “Window on the World”, dedicated to the most important cultural events in the West. From 1972, he lived again in Paris. After Roman Palester’s departure from Poland, his name was erased from all kinds of Polish publications, and his scores – withdrawn from sales and public use. The Management Board of the Polish Composers’ Union cancelled his membership, and performances of his works were prohibited. At the same time, Palester wrote many important and awarded works as an émigré. In 1962, his “musical action” The Death of Don Juan (1959-61) won the 1 st prize in an international competition for an operatic work organised by the Italian Section of the International Society for Contemporary Music. Two years later – in 1964 – he became the first Polish winner of the Alfred Jurzykowski Award (for his émigré works). Roman Palester was absent from Polish culture and media till 1977. In 1981, the Polish Composers’ Union aned its earlier decision and granted Palester the title of honorary member. Similar decisions came from the International Society for Contemporary Music, Polish Section, and the Karol Szymanowski Music Society. The composer visited Poland only once – in September 1983 he was present at the first performance of his Hymnus pro gratiarum actione for children’s choir, 2 mixed choirs and instrumental ensemble (1979). He was buried at the old Polish cemetery in Montmorency. In accordance with the composer’s last will, his works returned to Poland. See : www.palester.polmic.pl",
+  "birth": {
+    "place": "Śniatyń (now Sniatyn",
+    "date": "28th December 1907",
+    "raw": "b. 28 th December 1907 in Śniatyń (now Sniatyn"
+  },
+  "death": {
+    "place": "Paris",
+    "date": "25th August 1989",
+    "raw": "d. 25 th August 1989 in Paris"
+  },
+  "works": [
+    {
+      "title": "Sonatina for violin and cello (1929)",
+      "year": "1929"
+    },
+    {
+      "title": "String Quartet No. 1 (1929-30)",
+      "year": "1929-30"
+    },
+    {
+      "title": "Three Songs to words by Kazimiera Iłłakowiczówna for soprano and piano (1930)",
+      "year": "1930"
+    },
+    {
+      "title": "Psalm V for baritone, mixed choir and orchestra (1930-31)",
+      "year": "1930-31"
+    },
+    {
+      "title": "A Dance from Osmołoda for symphony orchestra (1932)",
+      "year": "1932"
+    },
+    {
+      "title": "Children’s Symphony for 7 instruments (1932)",
+      "year": "1932"
+    },
+    {
+      "title": "Symphony No. 1 for great orchestra (1934-35)",
+      "year": "1934-35"
+    },
+    {
+      "title": "Variations for chamber orchestra (1935)",
+      "year": "1935"
+    },
+    {
+      "title": "Little Overture for symphony orchestra (1935)",
+      "year": "1935"
+    },
+    {
+      "title": "Łowicz Folksong for piano (1935)",
+      "year": "1935"
+    },
+    {
+      "title": "Freight Train for piano (1935)",
+      "year": "1935"
+    },
+    {
+      "title": "Canon for piano (1935)",
+      "year": "1935"
+    },
+    {
+      "title": "Concerto for piano and orchestra (1935-36)",
+      "year": "1935-36"
+    },
+    {
+      "title": "String Quartet No. 2 (1936)",
+      "year": "1936"
+    },
+    {
+      "title": "Sonatina for three clarinets (1936)",
+      "year": "1936"
+    },
+    {
+      "title": "Song of the Land ballet in three scenes (1937)",
+      "year": "1937"
+    },
+    {
+      "title": "Polish Dances from the ballet Song of the Land for orchestra (1937)",
+      "year": "1937"
+    },
+    {
+      "title": "Symphonic Suite (1937-38)",
+      "year": "1937-38"
+    },
+    {
+      "title": "Concertino for alto saxoophone and string orchestra (1938)",
+      "year": "1938"
+    },
+    {
+      "title": "Sonata for two violins and piano (1939)",
+      "year": "1939"
+    },
+    {
+      "title": "Divertimento for 6 instruments (1939-40)",
+      "year": "1939-40"
+    },
+    {
+      "title": "Concerto for violin and orchestra (1939-41)",
+      "year": "1939-41"
+    },
+    {
+      "title": "Sonatina for piano for 4 hands (1940)",
+      "year": "1940"
+    },
+    {
+      "title": "Symphony No. 2 (1941-42)",
+      "year": "1941-42"
+    },
+    {
+      "title": "Concertino for piano and orchestra (1942)",
+      "year": "1942"
+    },
+    {
+      "title": "Wedding Cakes wedding poem for women’s choir and chamber orchestra (1942)",
+      "year": "1942"
+    },
+    {
+      "title": "String Quartet No. 3 (1942-44)",
+      "year": "1942-44"
+    },
+    {
+      "title": "M. K. Ogiński’s Polonaises for small orchestra (1943)",
+      "year": "1943"
+    },
+    {
+      "title": "Two Studies for piano (1943)",
+      "year": "1943"
+    },
+    {
+      "title": "Requiem for 4 solo voices, mixed choir and orchestra (1945-49)",
+      "year": "1945-49"
+    },
+    {
+      "title": "Serenade for two flutes and string orchestra (1946)",
+      "year": "1946"
+    },
+    {
+      "title": "String Trio No. 1 (1946)",
+      "year": "1946"
+    },
+    {
+      "title": "Nocturne [1st version] for string orchestra (1947)",
+      "year": "1947"
+    },
+    {
+      "title": "Little Serenade for flute, violin and viola (1947)",
+      "year": "1947"
+    },
+    {
+      "title": "Sinfonietta for chamber orchestra (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "Divertimento for 9 instruments (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "Wedding Suite for small instrumental ensemble (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "Symphony No. 3 for two string orchestras (1948-49)",
+      "year": "1948-49"
+    },
+    {
+      "title": "The Vistula [1st version] a cantata for reciting voice, mixed choir and instrumental ensemble (1948-49)",
+      "year": "1948-49"
+    },
+    {
+      "title": "Symphony No. 4 [1st version] (1948-52)",
+      "year": "1948-52"
+    },
+    {
+      "title": "Threnodies [1st version] – three fragments after Jan Kochanowski for voice and instrumental ensemble (1950-51)",
+      "year": "1950-51"
+    },
+    {
+      "title": "Missa brevis for mixed unaccompanied choir (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "Passacaglia for orchestra (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Nocturne [2nd version] for string orchestra (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "Adagio for string orchestra (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "Preludes for piano (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "Variazioni per orchestra [1st version] (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "Polish Dances from the ballet Song of the Land for violin and piano (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "Concertino per clavicembalo e dieci strumenti su temi di vecchie danze polacche (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "Music for two pianos and orchestra (1956-59)",
+      "year": "1956-59"
+    },
+    {
+      "title": "Concerto for violin and orchestra [2nd version] (1957-59)",
+      "year": "1957-59"
+    },
+    {
+      "title": "Study 58 for chamber orchestra (1958)",
+      "year": "1958"
+    },
+    {
+      "title": "Piccolo Concerto per orchestra da camera (1958)",
+      "year": "1958"
+    },
+    {
+      "title": "String Trio No. 2 (1959)",
+      "year": "1959"
+    },
+    {
+      "title": "Don Juan’s Death musical action in one act (1959-61)",
+      "year": "1959-61"
+    },
+    {
+      "title": "Threnodies [2nd version] three fragments after Jan Kochanowski for voice and instrumental ensemble (1962,1973)",
+      "year": null
+    },
+    {
+      "title": "Don Juan’s Death three symphonic fragments for orchestra (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Varianti for two pianos (1963-64)",
+      "year": "1963-64"
+    },
+    {
+      "title": "Duets for two violins (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Metamorphoses for orchestra (1966-68)",
+      "year": "1966-68"
+    },
+    {
+      "title": "Reed Trio (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Variazioni per orchestra [2nd version] (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Sonata for Violin and Cello (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Suite for Four for oboe, violin, viola and cello (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Sonata No. 1 for piano (1970-71)",
+      "year": "1970-71"
+    },
+    {
+      "title": "Symphony No. 4 [2nd version] (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Variations for piano (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Passacaglia for piano (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "String Quartet No. 3 [2nd version] (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Expressions for piano (1974-75)",
+      "year": "1974-75"
+    },
+    {
+      "title": "Three Poems by Czesław Miłosz for soprano and 12 instruments (1975-77)",
+      "year": "1975-77"
+    },
+    {
+      "title": "Concerto for viola and orchestra (1975-78)",
+      "year": "1975-78"
+    },
+    {
+      "title": "Concertino for alto saxophone and string orchestra [2nd version] (1977-78)",
+      "year": "1977-78"
+    },
+    {
+      "title": "Symphony No. 5 (1977-81)",
+      "year": "1977-81"
+    },
+    {
+      "title": "Monograms chamber concerto for soprano and piano (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "The Vistula [2nd version] cantata for reciting voice, mixed choir and instrumental ensemble (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Hymnus pro gratiarum actione for children’s choir, 2 mixed choirs and instrumental ensemble (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Studies for piano (1979-81)",
+      "year": "1979-81"
+    },
+    {
+      "title": "Sonata No. 2 for piano (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Concerto for violin and orchestra [3rd version] (1984-85)",
+      "year": "1984-85"
+    },
+    {
+      "title": "Letters to My Mother cantata for baritone and small orchestra (1984-87)",
+      "year": "1984-87"
+    },
+    {
+      "title": "Trio for flute, viola and harp (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "The Vistula [3rd version] cantata for reciting voice, mixed choir and two pianos (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Symphonic Suite [2nd version] (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Carols for mixed choir (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Carols for solo soprano with instrumental accompaniment (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Psalm V [2nd version] for baritone, mixed choir and orchestra (1988)",
+      "year": "1988"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Tarnawska-Kaczorowska Krystyna (red.), Muzyka źle obecna [Misrepresented Music], Sekcja Muzykologów Związku Kompozytorów Polskich, Warszawa 1989 Helman Zofia, Palester Roman, In: Komponisten der Gegenwart (eds. Hanns-Werner Heister, Walter-Wolfgang Sparrer), edition text + kritik, München 1992- Janicka-Słysz Małgorzata, Krakowskie lata Stefana Kisielewskiego i Romana Palestra [The Cracow Years of Stefan Kisielewski and Roman Palester], In: Krakowska szkoła kompozytorska 1888-1988 [The Cracow School of Composers 1888-1988] (ed. Teresa Malecka), Akademia Muzyczna w Krakowie, Kraków 1993 Helman Zofia, Roman Palester. Twórca i dzieło [Roman Palester. The Artist and His Work], Musica Iagellonica, Kraków 1999 Helman Zofia, Palester Roman, In: The New Grove Dictionary of Music and Musicians. Second Edition (ed. Stanley Sadie), vol. 18, Macmillan Publishers Limited, London 2001 Zdechlik Małgorzata, Roman Palester. Portret zapomnianego kompozytora, \"Muzyka21\" 2007 nr 12, s.23-24",
+  "slug": "palester-roman-en"
+}

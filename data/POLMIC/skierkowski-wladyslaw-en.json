@@ -1,0 +1,22 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/s/skierkowski-wladyslaw-en",
+  "title": "Skierkowski Władysław",
+  "name": "Skierkowski Władysław",
+  "occupation": "musicologist",
+  "is_composer": false,
+  "description": "Catholic priest, researcher, and collector of folk songsl b. 12th March 1886 in Głużek, near Mława, d. 20th August 1941 in Działdowo. He studied organ in Mława and Płock with E. Gruberski and later became an organist. In 1912 he became a priest. First he worked as vicar in Dzierzgowo, in 1913 he moved to Myszyniec, in 1915 – to Krasnosielec, and in 1917 – to Różan. In 1920 he was appointed the parish priest in Ciachcin, and 5 years later - in Imielnica (near Płock). In March 1941 he was arrested by the German army. He died in August 1941 in the Soldau concentration camp in Działdowo. Starting from 1913 Władysław Skierkowski would note down folk songs of the Kurpie region. In 1928, using the expert advice of Adolf Chybiński, he started publishing them in the anthology Puszcza kurpiowska w pieśni ( Songs of Puszcza Kurpiowska ), which was a useful resource for many composers (Karol Szymanowski, Michał Kondracki, Roman Maciejewski). The collection included 790 wedding and grooming songs (688 with melodies) and references. He noted songs by ear, without the use of the phonograph, trying to be as precise as possible. A collection of over two thousand songs he gathered was published posthumously by H. Gadomski, and remains the largest compilation of songs of Puszcza Zielona. He was a member of the Płock Scientific Society and often spoke on Puszcza Kurpiowska, its customs, and songs. In 1928 his play Wesele na Kurpiach ( A Kurpie Wedding ) was premiered in Płock. The composition was later staged across Poland, as well as during the Folk Culture Week in Brussels and Antwerp (1935). updated: February 2015 (mkk)",
+  "birth": {
+    "place": "Głużek",
+    "date": "12th March 1886",
+    "raw": "b. 12th March 1886 in Głużek"
+  },
+  "death": {
+    "place": "Działdowo",
+    "date": "20th August 1941",
+    "raw": "d. 20th August 1941 in Działdowo"
+  },
+  "works": [],
+  "publications": "books Puszcza kurpiowska w pieśni, 4 zeszyty, Wydawnictwo Towarzystwa Naukowego Płockiego, Płock 1928-34 Wesele na Kurpiach. Widowisko ludowe w czterech obrazach ze śpiewami i tańcami, nakład autora, Płock 1933 Puszcza kurpiowska w pieśni. Dzieła zebrane, 3 tomy (reedycja), red. H. Gadomski, Ostrołęka 1997-2003 articles & papers Muzykalność ludu kurpiowskiego, \"Kwartalnik Muzyczny\" 1933 nr 17-18 O niektórych tańcach kurpiowskich, \"Polski Rocznik Muzykologiczny\" II 1936 Zwyczaje i wierzenia na Kurpiach, \"Kurier Mazowiecki\" 1937 nr 50",
+  "bibliography": "Dahlig Piotr, Skierkowski Władysław, PWM, Kraków 2007",
+  "slug": "skierkowski-wladyslaw-en"
+}

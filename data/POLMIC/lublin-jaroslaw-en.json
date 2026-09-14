@@ -1,0 +1,75 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/l/lublin-jaroslaw-en",
+  "title": "Lublin Jarosław",
+  "name": "Lublin Jarosław",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "An Eclipse of the Moon na taśmę (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Kocoboły na taśmę (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Zatopiona Wieża Mariacka na taśmę (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Rum-Cum na taśmę (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Adam i Apoloniusz na taśmę (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Aria Miecznika na taśmę (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Beach Patrol na taśmę (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Krótki utwór na fortepian i taśmę (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Feedback na wibrafon i taśmę (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Summer-sea-sons na taśmę (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Repetidiem na taśmę (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Give Me More na taśmę (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "De Visu na taśmę (2006)",
+      "year": "2006"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "lublin-jaroslaw-en"
+}

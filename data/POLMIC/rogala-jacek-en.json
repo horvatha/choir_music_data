@@ -1,0 +1,127 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/r/rogala-jacek-en",
+  "title": "Rogala Jacek",
+  "name": "Rogala Jacek",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "By the Sea for children's choir a cappella (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Spring Is Coming for voice and piano (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Shell for female choir a cappella (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Year for children's choir and chamber orchestra (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Jedna krótka myśl for flute solo (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Grief for male choir a cappella (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Prośba o wyspy szczęśliwe for 12 string instruments and tape (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Tras la ventana , computer music (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Divertimento for strings in memory of Ryszard Bukowski (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Litoral for flute and piano (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Fraszka-Igraszka for oboe, horn, cello, percussion and children's audience (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Concerto for bassoon and orchestra (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "So-Na-Ta (Soft-Narcotic-Tapestry) for bassoon solo (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Sextet Studio for string sextet (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Rainy Canon for four percussionists and children's audience (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Puzonowe pogwarki for two trombones (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Do Matki Boskiej Piekarskiej for mixed choir a cappella (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Blaszana stonoga for 2 trumpets, horn, trombone and children's audience (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Cuckoo, a choral play for children's audience (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Szabadaba , a choral play for children's audience (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Spring in the Park on Fairhill Road for saxophone and percussion (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Jedna krótka myśl for flute solo (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Fantasia for strings (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "September Chestnuts for voice and piano (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "There's Always Weather for voice and piano (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Notturno for orchestra (2001-2002)",
+      "year": "2001-2002"
+    }
+  ],
+  "publications": "Rogala Jacek, Muzyka polska XX wieku , PWM, Kraków 2000",
+  "bibliography": null,
+  "slug": "rogala-jacek-en"
+}

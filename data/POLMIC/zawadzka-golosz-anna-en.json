@@ -1,0 +1,251 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/z/zawadzka-golosz-anna-en",
+  "title": "Zawadzka-Gołosz Anna",
+  "name": "Zawadzka-Gołosz Anna",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "composer, b. 1st December 1955 in Kraków. In 1981 she graduated from the Music Theory department and in 1987 – the Composition department of the State Higher School of Music in Cracow. She studied composition with Krystyna Moszumańska-Nazar. In 1986-87 she continued her education with Wolfgang Hufschmidt in the Folkwang Hochschüle für Musik, Theater und Tanz in Essen-Werden in Germany. During and after her studies she collaborated with the Polish Radio Experimental Music Studio in Warsaw and the Electronic Music Studio in the Academy of Music in Cracow. This experience resulted in many electroacoustic compositions. In years 1983-86 she participated in the International Courses for Young Composers in Kazimierz, during which she attended lectures and workshops by Witold Lutosławski, Iannis Xenakis, Witold Szalonek, Makoto Shinohara, François-Bernard Mâche and others. Her music has frequently been performed in Poland (the Silesian Days of Contemporary Music in Katowice, Cracow Composers' Days, the Warsaw Autumn, etc.) and abroad (Belgium, the Netherlands, Finland, Norway, Japan, Germany, France, Russia, Slovakia and Ukraine). Since graduation, Anna Zawadzka-Gołosz has worked in the Academy of Music in Cracow as a lecturer in composition and theory. She holds the position of director of the Academy’s Institute of Composition, Conducting and Music Theory. updated: 2008",
+  "birth": {
+    "place": "Kraków",
+    "date": "1st December 1955",
+    "raw": "b. 1st December 1955 in Kraków"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Synonyms for timpani and double bass (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Voices for mixed choir a cappella (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Invocation and Chorale for strings (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Magma for string orchestra (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Monoidee for piano (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Non liquet for bass clarinet and string quartet (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "A due for double bass and tape (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Con-centrum for bassoon, percussion and tape (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Wedding Music for strings (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Idea for soprano, double bass, timpani, xylophone and 2 string quartets (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Lyric for vocal quartet, wind quartet, string quintet and piano (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Thema for piano and string orchestra (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Pro/Re-Gres for symphony orchestra (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Landscape for 2 guitars and string orchestra * (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Senza for double bass (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Girare for percussion and tape * (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Esoterikos for soprano and oboe quartet (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Ingradimenti – Five-shot Picture for choir and orchestra (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Papermusic for female voice (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Stained Glass II for clarinet, cello, accordion and vibraphone * (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Ornamental Improvisations for 2 violins, clarinet, cello, vibraphone and piano (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Blades of Grass for percussion (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Rhetorical Figures for 3 string quartets, strings, oboe, harpsichord and piano * (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Poco a poco piu... for viola and piano (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Anaphora for harp (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Regina Poloniae for wind instruments and string orchestra (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Trio contra punctum for flute, oboe and bassoon (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Glissbigliando for oboe and tape (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Mozartkugeln for flute (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Mirrors for string orchestra * (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Fantasia and Chorale for piano (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Metaphrases for string quartet (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Cadenza for string quartet (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Concerto for 8-string guitar and string orchestra with piano (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Tanviolingo-metamorphrases for violin and piano (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Spacetime Sketches for 2 pianos (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Tercseptina for piano (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Solotutti for violin solo (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Three Phrases in 4/4 time for flute and viola (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Wroceńska Miniballad for piano (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "The Study of CHIARO-scuro for flute and viola (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Epiphrases for flute, oboe, clarinet, bassoon and horn (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Spettro for violin, piano and symphony orchestra (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Danzonetta for flute (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Three Psalms in Landscape for cello and piano (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Choreophonies for symphony orchestra (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Sussurro di campane for piano (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Poco divertimento for cello and piano (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Ex motu for orchestra (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "And four strings talk to each other (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "Frazy ocalone, spod klapy klawiatury wydobyte, zintegrowane i w słodko-kwaśnym rezonansie podane for piano (2022)",
+      "year": "2022"
+    },
+    {
+      "title": "Escape of Landscape for flute, clarinet, violin, cello and piano (2022)",
+      "year": "2022"
+    },
+    {
+      "title": "FunFare for ensemble (2023)",
+      "year": "2023"
+    },
+    {
+      "title": "Nihil est veritatis luce dulcius for strings (2024)",
+      "year": "2024"
+    },
+    {
+      "title": "Distractions for woodwind instruments and accordion (2024)",
+      "year": "2024"
+    },
+    {
+      "title": "In the beginning there was a string for clarinet, violin, cello and piano (2025)",
+      "year": "2025"
+    },
+    {
+      "title": "Strofy otwarte for clarinet, bassoon, cello and piano (2025)",
+      "year": "2025"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "zawadzka-golosz-anna-en"
+}

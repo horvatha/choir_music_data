@@ -29,7 +29,12 @@ from pathlib import Path
 
 import click
 
-from adapters.date_parsing import DAY_PRECISION_DATE, parse_abbreviated_birth_death
+from adapters.date_parsing import (
+    DAY_PRECISION_DATE,
+    parse_abbreviated_birth_death,
+    parse_born_died_noplace,
+    parse_born_died_sentence,
+)
 from adapters.page_fetch import fetch as fetch_bytes
 from adapters.page_fetch import strip_tags
 
@@ -72,50 +77,13 @@ SUMMARY_RE = re.compile(r'<strong style="letter-spacing: 1px;">(.*?)</strong>', 
 #     "foddes den DATE (oklart var). Avled i PLACE2 den DATE2."  (Adam -- birth place unknown)
 _DATE = DAY_PRECISION_DATE  # shared with adapters/date_parsing.py and fetch_polmic.py
 _SV_DATE = r"\d{1,2}\s+[a-zA-ZåäöÅÄÖ]+\s+\d{4}"
-# Place-capturing groups are restricted to [^.]+? (never crossing a full
-# stop) rather than a bare .+? -- the regex runs against the *whole*
-# multi-sentence summary paragraph, not just the birth/death sentence in
-# isolation, so an unrestricted .+? happily skips right over the comma/
-# period after the real place and keeps consuming text until it finds a
-# much later "and" or "on DATE" match elsewhere in the bio (found via
-# Stenhammar: birth "place" came back as half his biography).
-# "on" before the date is itself optional and inconsistently used across
-# the site's freeform prose (found via Wilhelm Uddén: "born in Stockholm
-# 4 August 1799 and died there 3 May 1868", no "on" anywhere) -- applied
-# to every place/date pattern below, not just the two spots (Stenhammar,
-# Du Puy) where it was first noticed.
-# The place capture must not cross a "died" clause -- found via Conrad
-# Friedrich Hurlebusch: "born in Brunswick, Northern Germany in 1691
-# (baptised 30 December) and died in Amsterdam 17 December 1765." His
-# birth is genuinely year-only (no day/month attached to "1691"; "30
-# December" is a baptism date, a different event, with no year of its
-# own nearby), so unguarded this pattern ran straight past "and died in
-# Amsterdam" and matched the DEATH date/place as if they were birth's.
-BORN_PLACE_DATE_RE = re.compile(rf"born (?:in|at) ((?:(?!died|\.).)+?)\s+(?:on\s+)?({_DATE})")
-# Two-tier fallback, tried in this order: PLACE can itself contain a
-# comma (e.g. "Löth parish, Östergötland"), so prefer stopping at " and"
-# (the Agrell shape: "...in PLACE and died...") and only fall back to
-# stopping at the first comma/period (the Stenhammar shape: "...in
-# PLACE, was one of...", no "and died" continuation) when no " and"
-# is found -- a comma-stop alone would wrongly truncate a comma-
-# containing place name in the first shape.
-BORN_DATE_PLACE_AND_RE = re.compile(rf"born (?:on )?({_DATE}) in ([^.]+?)\s+and\s+died\b")
-BORN_DATE_PLACE_PUNCT_RE = re.compile(rf"born (?:on )?({_DATE}) in ([^.,]+)[.,]")
-DIED_SAME_PLACE_RE = re.compile(rf"died there (?:on )?({_DATE})|where (?:he|she|they) (?:also )?died (?:on )?({_DATE})")
-DIED_PLACE_DATE_RE = re.compile(rf"(?:deceased|died) (?:at|in) ([^.]+?)\s+(?:on\s+)?({_DATE})")
-DIED_DATE_PLACE_RE = re.compile(rf"died (?:on )?({_DATE}) in ([^.]+?)\.")
-# "b."/"d." abbreviated form (found via Bror Beckman: "b. 10 February
-# 1866 in Kristinehamn, d. 22 July 1929 in Ljungskile.", "in PLACE" or
-# ", PLACE" both occur -- Erik Gustaf Geijer's entry uses the comma
-# form), tried after the full "born"/"died" patterns since it's a less
-# common style -- shared adapters/date_parsing.parse_abbreviated_birth_
-# death(), since this exact shape recurred verbatim on polmic.pl too.
-# Last-resort, no-place fallbacks -- some entries never name a place at
-# all for one or both events (found via Bengt Wilhelm Hallberg: "was born
-# on 13 May 1824 and died 4 May 1883", no place anywhere in the
-# sentence). Tried only after every place-aware pattern above has failed.
-BORN_DATE_NOPLACE_RE = re.compile(rf"born (?:on )?({_DATE})\b")
-DIED_DATE_NOPLACE_RE = re.compile(rf"died (?:on )?({_DATE})\b")
+# The English "born .../died ..." full-sentence patterns (place-before-
+# date, date-before-place, no-place fallback) now live in
+# adapters/date_parsing.py (parse_born_died_sentence/
+# parse_born_died_noplace) -- shared with fetch_polmic.py, which turned
+# out to need the exact same patterns (Wojciech Kilar: "Born in Lviv on
+# 17 July 1932, died in Katowice on 29 December 2013"). Only the
+# Swedish-language mirror set stays here.
 # Swedish patterns, case-insensitive throughout -- "Född"/"Avled" routinely
 # start a sentence (found via Sigrid Johansson: "Född 19 oktober 1874 i
 # Uppsala, död därstädes 1 december 1964", missed entirely by the
@@ -144,15 +112,9 @@ SV_DIED_DATE_NOPLACE_RE = re.compile(rf"(?:död|avled(?:es)?|avliden) (?:den )?(
 
 
 def _parse_birth(summary: str) -> dict:
-    m = BORN_PLACE_DATE_RE.search(summary)
-    if m:
-        return {"place": m.group(1).strip(), "date": m.group(2).strip(), "raw": m.group(0)}
-    m = BORN_DATE_PLACE_AND_RE.search(summary)
-    if m:
-        return {"place": m.group(2).strip(), "date": m.group(1).strip(), "raw": m.group(0)}
-    m = BORN_DATE_PLACE_PUNCT_RE.search(summary)
-    if m:
-        return {"place": m.group(2).strip(), "date": m.group(1).strip(), "raw": m.group(0)}
+    en_birth, _en_death = parse_born_died_sentence(summary)
+    if en_birth["date"]:
+        return en_birth
     m = SV_BORN_PLACE_DATE_RE.search(summary)
     if m:
         return {"place": m.group(1).strip(), "date": m.group(2).strip(), "raw": m.group(0)}
@@ -165,22 +127,16 @@ def _parse_birth(summary: str) -> dict:
     m = SV_BORN_DATE_ONLY_RE.search(summary)
     if m:
         return {"place": None, "date": m.group(1).strip(), "raw": m.group(0)}
-    m = BORN_DATE_NOPLACE_RE.search(summary)
-    if m:
-        return {"place": None, "date": m.group(1).strip(), "raw": m.group(0)}
+    en_birth_noplace, _en_death_noplace = parse_born_died_noplace(summary)
+    if en_birth_noplace["date"]:
+        return en_birth_noplace
     return {"place": None, "date": None, "raw": None}
 
 
 def _parse_death(summary: str, birth_place: str | None) -> dict:
-    m = DIED_SAME_PLACE_RE.search(summary)
-    if m:
-        return {"place": birth_place, "date": (m.group(1) or m.group(2)).strip(), "raw": m.group(0)}
-    m = DIED_PLACE_DATE_RE.search(summary)
-    if m:
-        return {"place": m.group(1).strip(), "date": m.group(2).strip(), "raw": m.group(0)}
-    m = DIED_DATE_PLACE_RE.search(summary)
-    if m:
-        return {"place": m.group(2).strip(), "date": m.group(1).strip(), "raw": m.group(0)}
+    _en_birth, en_death = parse_born_died_sentence(summary, birth_place=birth_place)
+    if en_death["date"]:
+        return en_death
     m = SV_DIED_SAME_PLACE_RE.search(summary)
     if m:
         return {"place": birth_place, "date": m.group(1).strip(), "raw": m.group(0)}
@@ -193,9 +149,9 @@ def _parse_death(summary: str, birth_place: str | None) -> dict:
     _abbrev_birth, abbrev_death = parse_abbreviated_birth_death(summary)
     if abbrev_death["date"]:
         return abbrev_death
-    m = DIED_DATE_NOPLACE_RE.search(summary)
-    if m:
-        return {"place": None, "date": m.group(1).strip(), "raw": m.group(0)}
+    _en_birth_noplace, en_death_noplace = parse_born_died_noplace(summary)
+    if en_death_noplace["date"]:
+        return en_death_noplace
     m = SV_DIED_DATE_NOPLACE_RE.search(summary)
     if m:
         return {"place": None, "date": m.group(1).strip(), "raw": m.group(0)}

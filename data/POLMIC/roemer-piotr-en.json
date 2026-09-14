@@ -1,0 +1,87 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/r/roemer-piotr-en",
+  "title": "Roemer Piotr",
+  "name": "Roemer Piotr",
+  "occupation": "composer, musicologist, performer",
+  "is_composer": true,
+  "description": "Normal 0 21 Normal 0 21 music theoretician, composer, violinist, writer; b. 11 th December 1988 in Kraków. He is a graduate (diploma with distinction) of the Frederic Chopin Secondary Music School in Kraków in the violin class of Anna Rychlik. In 2013 he graduated with honours from the music theory depertment of Academy of Music in Kraków (master thesis titled ‘About time in Difference for 2 pianos and percussion by Wojciech Ziemowit Zych’ written under the supervision of dr Małgorzata Janicka-Słysz). Despite young age, he has already been successful as an artist. In 2009 his piece Tango sonore received the distinction award at the Call for Sounds competition organized by the International Contemporary Music Festival “Warsaw Autumn” and, as a result, was performed at one of the festival’s concerts and published at POLMIC’s promotional record Sound Chronicle of the Warsaw Autumn . In 2012 his work Re-Sublimations for string orchestra and percussion was presented at the 5 th “Wawel Royal Castle at Dusk” Summer Music Festival in Kraków. His compositions have also been performed at Audio Art Festival in Kraków and Sound Screen Festival in Bydgoszcz. In 2012 he was commissioned by the Ministry of Culture and National Heritage, as a consequence of Polish Composers’ Union’s suggestion, to write a piece for chamber ensemble (flute, clarinet, violin, cello, piano, percussion and live electronics) as a part of “Collections – Priority. Commissioned Compositions” program. He is the recipient of numerous scholarship, such as: the Ministry of Culture and National Heritage Scholarship (2010/2011), the City of Kraków Scholarship (2010/2011), the Sapere Auso Foundation Artistic Scholarship (2011/2012). He is the violinist of the “Con Passione” Małopolska Chamber Orchestra. He has also been active as a writer. His first short story White whispers was awarded in the “Replika” publishing house’s competition and published in the anthology of fantasy short stories (Replika, 2008). In 2008 his work Crumbling the wind received a distinction award at the national competition of “Muzyka w Duszy Gra” publishing house. Another two of his short stories were published in the anthologies of Forma publishing house: The General Pause in City 1. Anthology of Polish thriller stories (Forma, 2009) and Rock Lady – in City 2. Anthology of Polish thriller stories (Forma, 2011). His essay titled Jan Sebastian Babel was published in Pro Musica Sacra – volume VIII. Words – Sound – Music (Academic Publishing House UPJPII in Kraków, 2010) and his interview with composer Karol Nepelski – in the Academy of Music Journal Music Theory. Studies, interpretations, documentation (Volume 1, 2012, no 1). His literary texts can be found, among others, at www.fahrenheit.net.pl .",
+  "birth": {
+    "place": "Kraków",
+    "date": "11th December 1988",
+    "raw": "b. 11 th December 1988 in Kraków"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Tango sonore electroacoustic piece (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Trio na stół i nożyce preparowane ( Trio for a table and prepared scissors ) for 2 violins, double bass and live electronics (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Tesla for 2 saxophones (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Projekt: Tesla ( Project: Tesla ) electroacoustic piece for improvising musicians (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Re-Sublimacje ( Re-Sublimations ) for string orchestra and percussion (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Soneostasis for chamber ensemble and electronic media (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Sin palabras , electroacoustic poem (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Cpujrotu for traditional Chinese instruments ensemble and electronics (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Camadelirium for small symphony orchestra (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Antiphon for trombone, brass ensemble and electronics (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Duet → Solo for symphony orchestra and electronics (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Expressis non-verbis, audio stage monodrama for dancer (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Sublimations for string orchestra and percussion (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Phantasm for symphony orchestra and electronics (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Panopticum. Is this the end? , electroacoustic composition (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Marche éphémère , electroacoustic composition (2020)",
+      "year": "2020"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "roemer-piotr-en"
+}

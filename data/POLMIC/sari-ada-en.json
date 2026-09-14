@@ -1,0 +1,22 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/s/sari-ada-en",
+  "title": "Sari Ada",
+  "name": "Sari Ada",
+  "occupation": "performer",
+  "is_composer": false,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [],
+  "publications": null,
+  "bibliography": "Chmara-Żaczkiewicz Barbara, Sari Ada, PWM, Kraków 2007",
+  "slug": "sari-ada-en"
+}

@@ -1,0 +1,107 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/p/porzyc-anna-en",
+  "title": "Porzyc Anna",
+  "name": "Porzyc Anna",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Trzy pieśni do słów Wojciecha Bąkowskiego na baryton, fortepian i perkusję (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Wielokrotny na kwartet smyczkowy (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Trzy na trzy saksofony, perkusję i smyczki (2009-2010)",
+      "year": "2009-2010"
+    },
+    {
+      "title": "A-A na akordeon solo (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Trzy pieśni do słów Mirona Białoszewskiego na baryton, chór i orkiestrę (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "9.2010 na smyczki (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Liryka śpiącego pieśń na sopran i harfę (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Fresk symfoniczny (2010-2011)",
+      "year": "2010-2011"
+    },
+    {
+      "title": "Double B na taśmę (2010-2011)",
+      "year": "2010-2011"
+    },
+    {
+      "title": "Freeze na trzy marimby (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Elegia Duinejska, fragment II Elegii Duinejskiej Rainera Rilkego na recytatora, chór i orkiestrę (2011 )",
+      "year": null
+    },
+    {
+      "title": "Wieczór pieśń do słów Czesława Miłosza na baryton i fortepian (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Trans-krypcje na wibrafon solo (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Shana na komputer (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Copyright na recytatora, wokalistkę, orkiestrę i live electronics (2011-2012)",
+      "year": "2011-2012"
+    },
+    {
+      "title": "On na taśmę (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Copyright na wokalistkę i live electronics (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Pacierz prywatny na smyczki (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Private prayer na instrumenty dęte blaszane i smyczki (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Sample 1 na głos i komputer (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Kwartet II na kwartet smyczkowy (2013)",
+      "year": "2013"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "porzyc-anna-en"
+}

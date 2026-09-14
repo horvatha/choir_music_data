@@ -1,0 +1,367 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/s/szeligowski-aleksander-en",
+  "title": "Szeligowski Aleksander",
+  "name": "Szeligowski Aleksander",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Concerto grosso na orkiestrę smyczkową (1950-53)",
+      "year": "1950-53"
+    },
+    {
+      "title": "Cztery aforyzmy na fortepian (1954-55)",
+      "year": "1954-55"
+    },
+    {
+      "title": "Sonata na organy nr 1 (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "Scherzo na organy solo (1956)",
+      "year": "1956"
+    },
+    {
+      "title": "Sonata na organy nr 2 (1957)",
+      "year": "1957"
+    },
+    {
+      "title": "Allegro na wiolonczelę i fortepian (1957)",
+      "year": "1957"
+    },
+    {
+      "title": "Mała suita na dwoje skrzypiec i altówkę (1957)",
+      "year": "1957"
+    },
+    {
+      "title": "Poemat nr 1 na orkiestrę smyczkową (1957)",
+      "year": "1957"
+    },
+    {
+      "title": "Trzy psalmy na chór żeński, smyczki i perkusję (1958, 1965)",
+      "year": null
+    },
+    {
+      "title": "Missa brevis [wersja I] na organy solo (1959)",
+      "year": "1959"
+    },
+    {
+      "title": "Cykl triów na organy (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Lament nad Agadirem. Poemat nr 2 na smyczki i perkusję (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Siedzę u proga [wersja I], pieśń na chór żeński a cappella (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Siedzę u proga [wersja II], pieśń na chór mieszany a cappella (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Stojała lipeńka , pieśń na chór mieszany a cappella (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Cykl pieśni do słów Andrzeja Partuma na sopran i orkiestrę kameralną (1961)",
+      "year": "1961"
+    },
+    {
+      "title": "Cztery pieśni do słów Zbigniewa Herberta na sopran i 17 instrumentów (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Trzy pieśni do słów Leopolda Staffa na sopran i zespół instrumentalny (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Wokaliza na sopran i zespół kameralny (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Tułacz , pieśń na chór mieszany a cappella (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Concertino na fortepian i orkiestrę (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Miniatury na puzon i fortepian (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Missa brevis [wersja II] na flet i organy (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Suita di 5 na flet i kwartet smyczkowy (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Miniatury na flet i fortepian (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Miniatury na fortepian (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Bohaterom Powstania Wielkopolskiego. Poemat nr 3 na orkiestrę smyczkową (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Scherzo na orkiestrę (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Chory kotek , bajka dla dzieci (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Six pièces pour flute et orgue (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Miniatury na kwartet smyczkowy (1967-68)",
+      "year": "1967-68"
+    },
+    {
+      "title": "Ody mitologiczne na flet i orkiestrę kameralną (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Koncert potrójny dla jednego wykonawcy na obój, rożek angielski, obój miłosny i smyczki (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Pieśń o naszej Uczelni na chór mieszany a cappella (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Kruszynka , opera dla dzieci (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Koncert na fagot i orkiestrę (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Koncert na flet i orkiestrę (1970-71)",
+      "year": "1970-71"
+    },
+    {
+      "title": "Miniatury żartobliwe na chór mieszany a cappella (1970-71)",
+      "year": "1970-71"
+    },
+    {
+      "title": "Niby fuga na chór mieszany a cappella (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Walc koncertowy na fortepian i orkiestrę (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Siedem gwiazd na chór mieszany a cappella (1972-73)",
+      "year": "1972-73"
+    },
+    {
+      "title": "Koncert na róg i orkiestrę (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Koncert dziecięcy w dawnym stylu na fortepian i orkiestrę (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Atokamala , żart na chór mieszany a cappella (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Trzy piosenki do słów Juliana Tuwima na chór mieszany i orkiestrę (1975-76)",
+      "year": "1975-76"
+    },
+    {
+      "title": "Z tobą cykl , pieśni do słów Nikosa Chadzinikolau na sopran i zespół instrumentalny (1975-76)",
+      "year": "1975-76"
+    },
+    {
+      "title": "Dwa cykle utworów dla młodzieży na skrzypce i orkiestrę (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "For six na perkusję (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Szkice stroikowe na 2 oboje i fagot (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Pięć propozycji na 3 flety i 2 wibrafony (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Kantylena i fugato na 5 akordeonów (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Preludia taneczne na chór mieszany i perkusję ad libitum (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Ptasie ulice , bajka (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Siedem piosenek na 2- i 3-głosowy chór dziewczęcy a cappella (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Kołysz mi się kołysz na 3-głosowy chór dziecięcy i zespół instrumentalny (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Suita (dziecięca) na obój i fortepian (1978-79)",
+      "year": "1978-79"
+    },
+    {
+      "title": "Album z obrazkami na fortepian (1978-79)",
+      "year": "1978-79"
+    },
+    {
+      "title": "Sentencje na 2 fortepiany (1978-79)",
+      "year": "1978-79"
+    },
+    {
+      "title": "Grudniowe dzwony na chór mieszany a cappella (1978-79)",
+      "year": "1978-79"
+    },
+    {
+      "title": "Suita wielkopolska na małą kapelę (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Musica per otto na orkiestrę (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Solo e tutti na smyczki (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Musica per archi (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Musica da camera na 8 instrumentów (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Trzy utwory na fortepian (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Kontrasty na alt i 7 instrumentów (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Muzyczna gama na solistów, recytatora, chór i orkiestrę (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Temat z wariacjami na 3 głosy żeńskie a cappella (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Kumy na 3 głosy żeńskie a cappella (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Morze na chór mieszany a cappella (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Trzy piosenki o Warszawie na chóry różne a cappella (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Koncert na klarnet i orkiestrę (1979-80)",
+      "year": "1979-80"
+    },
+    {
+      "title": "Dwie pieśni do słów Nikosa Chadzinikolau na sopran i 7 instrumentów (1979-80)",
+      "year": "1979-80"
+    },
+    {
+      "title": "Kropka, wykrzyknik, znak zapytania na solistów, recytatora, chór i orkiestrę (1979-80)",
+      "year": "1979-80"
+    },
+    {
+      "title": "Dwa utwory na organy, blachę, perkusję i smyczki (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Allegro na akordeon (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Cykl utworów dla dzieci na fortepian na 4 ręce (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Humoreska na chór żeński a cappella (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Mały koncert klasyczny na flet (lub obój) i zespół instrumentalny (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Mała suita szamotulska na fortepian i zespół instrumentalny (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Rozmaitości na różne zestawy instrumentów dętych drewnianych (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Temat z wariacjami na flet i smyczki (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Suita na orkiestrę smyczkową (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Dwie humoreski na flet (lub obój), fagot i zespół kameralny (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Małe sonatiny dziecięce na fortepian (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Maszyna do pisania na chór dziecięcy i zespół instrumentalny (1981)",
+      "year": "1981"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "szeligowski-aleksander-en"
+}

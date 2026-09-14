@@ -1,0 +1,107 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/j/jazwinska-jazwinski-barbara-en",
+  "title": "Jaźwińska (Jazwinski) Barbara",
+  "name": "Jaźwińska (Jazwinski) Barbara",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Music for Chamber Orchestra Trzy miniatury na flet i fortepian (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Dialoghi na fortepian solo (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Sextet na flet altowy, klarnet, trąbkę, kontrabas, wibrafon i perkusję (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Trio smyczkowe (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Concerto for Chamber Orchestra and Cello Solo (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Flower Shadows na sopran, flet (piccolo), klarnet, skrzypce, wiolonczelę i fortepian (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "The Seventh Night of the Seventh Moon na sopran, klarnet i fortepian (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Stryga na orkiestrę symfoniczną (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Incantations na skrzypce solo (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Remembering the Muses na żeński chór a cappella (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Invocations na skrzypce, wiolonczelę i fortepian (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Visions na klarnet solo (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "To the Evening Star na sopran, flet, klarnet, skrzypce i fortepian (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Sequenze Concertanti na orkiestrę smyczkową (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Winter Dreams na flet, klarnet, skrzypce, wiolonczelę i fortepian (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Quintet for flute, oboe, clarinet, bassoon and piano (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Fantasy on Jazz na klarnet solo i orkiestrę symfoniczną [lub fortepian] (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Blue Tango na obój, klarnet, fagot i fortepian (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Images in Blue ma kwartet saksofonowy (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Blue Shadows na flet, klarnet i fortepian (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Designs in Blue Shadows na fortepian (2006)",
+      "year": "2006"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Tulane University - Liberal Arts - Music - Barbara M. Jazwinski Barbara Jazwinski [materiały Archiwum Związku Kompozytorów Polskich], Iwanicka-Nijakowska Anna, Jaźwińska (Jazwinski) Barbara, Akademia Muzyczna im. Fryderyka Chopina w Warszawie / Akademia Muzyczna im. Stanisława Moniuszki w Gdańsku, Warszawa / Gdańsk 2005",
+  "slug": "jazwinska-jazwinski-barbara-en"
+}

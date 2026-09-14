@@ -1,0 +1,95 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/j/jastrzebska-anna-danuta-en",
+  "title": "Jastrzębska Anna Danuta",
+  "name": "Jastrzębska Anna Danuta",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Chilean Cantata (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Gloria victis na 62-głosowy chór mieszany (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Creation na kwartet smyczkowy (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Incydent , multi-kompozycja (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Colpo 79 na orkiestrę (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Teleks do Polski na fortepian (1981-82)",
+      "year": "1981-82"
+    },
+    {
+      "title": "De profundis na sopran dramatyczny i wiolonczelę (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Labirynt na orkiestrę smyczkową (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Siedem wiatrów , kantata (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Planetary Trip na fortepian (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Dance Trance , muzyka baletowa (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Northway in Norway na orkiestrę (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Mozaika na kwartet smyczkowy (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Piu inflano na flet i fortepian (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Between Towns – Antananarivo na chór żeński (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Tomme tanker ( Puste myśli ) na chór męski (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Jesus Christ our Lord na chór mieszany (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Muzyka do spektaklu teatralnego Ziemia zdradzona (1973)",
+      "year": "1973"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "jastrzebska-anna-danuta-en"
+}

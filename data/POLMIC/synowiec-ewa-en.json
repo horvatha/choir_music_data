@@ -1,0 +1,539 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/s/synowiec-ewa-en",
+  "title": "Synowiec Ewa",
+  "name": "Synowiec Ewa",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": "composer, music theorist, pianist and teacher; born 12th April 1942 in Krakow; d. 6th March 2021 in Gdańsk. She studied piano with Ludwik Stefański (diploma with distinction in 1967) and composition with Bogusław Schaeffer (diploma in 1973) at the State Higher School of Music in Krakow. In 1967-68, thanks to a scholarship from the French Government, she continued her piano studies under Susanne Roche and Vlado Perlemutter in Paris. She took part in numerous piano competitions, winning the 5th place in the Ferenc Liszt and Béla Bartók International Competition in Budapest (1966), and the 2nd prize in the Maria Canals International Music Competition in Barcelona (1968). Until 1978 she performed as a pianist with recitals and concerts in Poland and abroad. Later she devoted herself exclusively to composing. Ewa Synowiec made her debut as a composer in 1972 at the Community Centre in Krakow. She received awards at composition competitions in 1973 (for Sonata per pianoforte No. 1 , 1969) and in 1974 (for Quartettino d'archi , 1969). She was awarded a scholarship by the Polish Composers' Union twice (1974, 1975). Her works have been performed at festivals, including in Wrocław, Warsaw (\"Warsaw Autumn\"), Katowice, Poznań, Boswil (as part of the Frauenmusik-Forum), Salzburg, Zurich, and her music graphics (almost half of her compositional output) were exhibited in Poland, Germany and Great Britain, France, Austria, Switzerland and Canada. In 1966-1975 she taught piano at the State Higher School of Music in Krakow. Then she moved to Gdańsk, where she taught piano and composition at the Academy of Music (from 1991 as a professor). She is the author of a book Bogusław Schaeffer's Instrumental Theatre (Academy of Music in Gdańsk, 1983). From 1975 she was a member of the Polish Composers' Union. In 1977-81 she was treasurer of the PCU’s Gdańsk Branch. Ewa Synowiec was honoured with, among others, the Award of the Minister of Culture and Art, third degree (1980) and the Award of the Minister of Culture and Art, first degree (1990). updated: 2021 (ac)",
+  "birth": {
+    "place": "Krakow",
+    "date": "12th April 1942",
+    "raw": "born 12th April 1942 in Krakow;"
+  },
+  "death": {
+    "place": "Gdańsk",
+    "date": "6th March 2021",
+    "raw": "d. 6th March 2021 in Gdańsk"
+  },
+  "works": [
+    {
+      "title": "Dwugłos na flet i fortepian (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Cztery duety na instrumenty dęte (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Utwór na dwa fortepiany (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "3 X 4 na flet, saksofon altowy i fagot (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Sonata w formie otwartej na fortepian (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Kwartet smyczkowy nr 1 (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Kompozycja fletowa (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Sonata minima na fortepian (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Mały kwintet na instrumenty dęte (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Psalm XXII [wersja I] na alt, flet, skrzypce i czelestę (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Trio smyczkowe (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Duet na skrzypce i altówkę (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Kompozycja nr 2 na flet solo (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Psalmodia na alt i chór mieszany (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "1 + 11 na wiolonczelę i saksofony (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Sonata per pianoforte nr 1 (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Quartettino d’archi (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Szkice na orkiestrę kameralną (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Schizofonia na wielką orkiestrę symfoniczną (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Kwartet smyczkowy (ósemkowy) (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "72 na orkiestrę symfoniczną (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Change dla dwóch pianistów (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Gra dla 2, 3, 4, 5 lub 6 trębaczy (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Konwersacje na flet i fortepian (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Serial dla Ryszarda na flety blokowe (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Plus ça change – plus c’est la même chose , sekstet smyczkowy (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Tytus , tercet na głos, flet i wiolonczelę (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Fantazja in B [wersja I] na trąbkę i orkiestrę symfoniczną (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Fantazja in B [wersja II] na trąbkę i fortepian (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Martwa natura I na flet, trąbkę, skrzypce, altówkę i wibrafon (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Invitation (Martwa natura II) na trąbkę, wibrafon, skrzypce, flet, ksylofon, altówkę, marimbafon, wiolonczelę i klarnet (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Fragmenty do tekstów Safony na głos i 2 flety (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Syntonia na wielką orkiestrę symfoniczną (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Solo dla perkusisty na dzwonki, wibrafon i marimbę (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "UDMSW, czyli Martwa natura III (Utwór dla miasta Stalowa Wola) na klarnet, trąbkę, wibrafon, skrzypce, altówkę i wiolonczelę (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "TV-Poker na 4 dowolne instrumenty dęte i taśmę (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Kompozycja jednostronna na skrzypce solo (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Ricordanza (Martwa natura IV) na flet, trąbkę i wibrafon (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Wersja nr 3 na skrzypce solo (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Fantazja na skrzypce solo (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Da camera na flet, skrzypce i wiolonczelę (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Kwartet smyczkowy „Resume” (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Postscriptum na fortepian i perkusję (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Koncert na smyczki (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Alternative I na fortepian solo lub dwa fortepiany (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Pory roku na flet, skrzypce, altówkę i wiolonczelę (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Psalm XXII [wersja II] na głos, flet, 2 skrzypiec, altówkę i fortepian (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Sinfonietta da camera , kompozycja graficzna dla 10-15 dowolnych wykonawców (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Quasi una sonata per pianoforte solo (o 2 pianoforti) (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Alternative II na fortepian lub klawesyn solo albo na 2 fortepiany (2 klawesyny) (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Sonata per pianoforte nr 2 (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Sonata per violino solo (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Espressivo na 7 instrumentów (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Concertino na flet, wibrafon, wiolonczelę solo i smyczki (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Arboretum na sekstet smyczkowy (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Spiegelspiel na orkiestrę symfoniczną (1980-81)",
+      "year": "1980-81"
+    },
+    {
+      "title": "Muzyka i mózg , kompozycja graficzna dla dowolnych wykonawców (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Temat z wariacjami na kwartet smyczkowy (lub zespół smyczków) (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Refuge (Absence) , kompozycja graficzna na dowolnego solistę lub dowolny zespół kameralny lub symfoniczny (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Fleuraison , kompozycja graficzna na dowolny instrument solo lub zespół wykonawców (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Tryptyk organowy (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Omni modo na organy lub klawesyn lub akordeon (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Nostradamus , kompozycja graficzna (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Głosy ze ściany , kompozycja graficzna na orkiestrę symfoniczną (1982-83)",
+      "year": "1982-83"
+    },
+    {
+      "title": "Trivium na flet (lub marimbę) i orkiestrę (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Dedykacja na chór mieszany a cappella (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Sezon w piekle ( Une saison en enfer ) na orkiestrę symfoniczną (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "NDSL (a dies sine linea) , kompozycja graficzna dla dowolnych wykonawców (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "DO-DU czyli DOwolny DUet , kompozycja graficzna barwna dla dwóch dowolnych wykonawców (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "aFiMeRaL , kompozycja graficzna barwna dla 4-7 dowolnych instrumentalistów (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Diabolus in musica , kompozycja graficzna (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Sextory na saksofon solo lub kilka dowolnych saksofonów (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "d.p.P.G.d.d.u. (dla pana Piotra Grelli do dowolnego użytku) , kompozycja graficzna (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Idiom na fortepian (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "En bleu , kompozycja graficzna (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Vitrail casse , kompozycja graficzna (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Fleyers , kompozycja graficzna (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Destrukcje , kompozycja graficzna (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Aut , kompozycja graficzna (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Orkus , kompozycja graficzna (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Non ens , kompozycja graficzna (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "ABRA... per oboe e corno inglese (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Pejzaże z lotu ptaka , kompozycja graficzna (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Signature , kompozycja graficzna (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Pieśń jesienna , kompozycja graficzna (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Tryptyk kolorystyczny , kompozycja graficzna (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Ogrody , kompozycja graficzna (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Bajki , kompozycja graficzna (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Apokalipsa na organy i grupę instrumentów dętych blaszanych (1985-86)",
+      "year": "1985-86"
+    },
+    {
+      "title": "Quasi modo na klawesyn solo (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Do szuflady na fortepian (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Pieśni o dwunastu miesiącach [wersja I] na alt i fortepian (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Monstre , kompozycja graficzna (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Paques , kompozycja graficzna (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Kwiat paproci , kompozycja graficzna (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Ikar , kompozycja graficzna (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Krajobraz , kompozycja graficzna (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Zaduszki , kompozycja graficzna (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Egzotyki , kompozycja graficzna (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Dyptyk , kompozycja graficzna (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Atlantyda , kompozycja graficzna (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "To się podoba mojej Mamie , kompozycja graficzna (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Ikony , kompozycja graficzna (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Bajka japońska , kompozycja graficzna (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Change II na fortepian na 4 ręce (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Au mois de... na alt i fortepian (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "ABRA II , kompozycja graficzna (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Modliszka , kompozycja graficzna (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Ikona IV , kompozycja graficzna (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Dzwony , kompozycja graficzna (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "In esse – in posse , kompozycja graficzna (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Obietnica poranka , kompozycja graficzna (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Diariusz na fortepian (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Pieśni o dwunastu miesiącach [wersja II] na alt i fortepian (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "An die Musik na 15 instrumentów smyczkowych (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Coś, czego nie lubię , kompozycja graficzna (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Chichot , kompozycja graficzna (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Winobranie , kompozycja graficzna (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Landschaft I , kompozycja graficzna (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Landschaft II , kompozycja graficzna (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Bez tytułu , kompozycja graficzna (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Quidquid id est... , kompozycja graficzna (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Szkoda tej czarownicy na stos , kompozycja graficzna (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Sonata per pianoforte nr 3 (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Ostatnie źródło , 7 pieśni na głos i fortepian (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Elegia dla Matki na fortepian (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Cykl pieśni do własnych wierszy Haiku na głos i fortepian (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Dziewiętnaście listów do Zmarłej na fortepian (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Trzydzieści Haiku na fortepian (1999)",
+      "year": "1999"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "synowiec-ewa-en"
+}

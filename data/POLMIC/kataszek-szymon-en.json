@@ -1,0 +1,27 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/k/kataszek-szymon-en",
+  "title": "Kataszek Szymon",
+  "name": "Kataszek Szymon",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Wielki marsz muzyka do rewii (1930) piosenki i utwory taneczne, m.in. : Czemuś o mnie zapomniał tango Jeden raz boston Wiosna tango Donna Maria tango Mów mi ty shimmy Zula charleston Abram ja ci zagram foxtrot Serce na ulicy boston Daj mi tę szkarłatną różę walc angielski Serce matki tango Czy pamiętasz tę noc w Zakopanem [napisana wspólnie z Z. Karasińskim] muzyka do filmów, m.in. : Serce na ulicy (1931) Legion ulicy [z tangiem Raz, dwa, trzy ] (1932) Ostatnia eskapada [z foxtrotem Tyś jest dla mnie tajemnicą ( Noi due soli )] (1933) Każdemu wolno kochać [z piosenką pod tym samym tytułem i passodoble Chcesz to mnie bierz , muzyka napisana wspólnie z Z. Karasińskim] (1933)",
+      "year": "1933"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Lerski Tomasz , Syrena Record pierwsza polska wytwórnia fonograficzna 1904-1939, Editions „KARIN”, New York - Warsaw [br] Karpiński Krzysztof, Szymon Kataszek, „Jazz Forum” 2002 nr 1/2",
+  "slug": "kataszek-szymon-en"
+}

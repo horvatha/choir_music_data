@@ -1,0 +1,63 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/k/kaczynski-adam-en",
+  "title": "Kaczyński Adam",
+  "name": "Kaczyński Adam",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Koncert na orkiestrę jazzową (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Choices na 3 fortepiany, fortepian elektryczny, czelestę, klawesyn i chór (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Preludia na fortepian (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Koncert na fortepian i orkiestrę (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Nowenna dla Jednego Polaka na 4 fortepiany (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Ten Dzień na fortepian, perkusję i toy-piano (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Shape na 2 fortepiany (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "To, to na flet i fortepian (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Shape II na 2 perkusistów (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Choices II dla 2 perkusistów i grupy perkusyjnej (1996)",
+      "year": "1996"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "kaczynski-adam-en"
+}

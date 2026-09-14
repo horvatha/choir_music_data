@@ -1,0 +1,103 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/p/pieniek-grzegorz-en",
+  "title": "Pieniek Grzegorz",
+  "name": "Pieniek Grzegorz",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "Grzegorz Pieniek, composer, b. 18th November 1982, Kamień Pomorski. He graduated with an honours degree in 2008 after composition studies with Lidia Zielińska at the Academy of Music in Poznań. He continued his composition studies with Michael Jarrell at the Universität für Musik und darstellende Kunst in Vienna (2008-2009). Participant of numerous courses for composers, e.g. the Nationwide Course for Composers in Jelenia Góra (1999), International Workshops of Contemporary Music Cracow/Stuttgart (2002), International Summer Courses for Young Composers in Warsaw (2003), Workshop of Interactive Music in Wrocław (2005). Winner of many competitions for composers and contests of knowledge about contemporary music: 2nd prize and President of the City of Białystok Award in the 4th Nationwide Competition “Around Witold Lutosławski” (1999), Grand Prix in the “Crescendo” National Competition for Composers in Tarnów (2001), 4th prize in the Nationwide Contest of Knowledge about Contemporary Music in Szczecin (2001), honourable mentions in the 47th T. Baird Competition for Young Composers in Warsaw (2005/2006), Concurso Internacional De Miniaturas Electroacústicas 2007 in Spain and the A. Malawski Competition for Composers in Rzeszów (2008). In 2009 he obtained the “Young Poland” scholarship of the Minister of Culture and National Heritage and the scholarship of the Adam Mickiewicz Institute; in 2011 – the Theodor-Körner-Preis and the scholarship of the Ernst von Siemens Musikstiftung. Grzegorz Pieniek’s compositions have been performed at festivals in Poland and abroad, e.g. the “Warsaw Autumn”, Ny Musik Uge in Denmark, Festival Synthese in France, Festival Internacional de Música Electroacústica Punto de Encuentro in Spain, Wiener Frühlingsfestival and Wien Modern in Austria, Festival Druskomanija in Lithuania, the “Poznań Music Spring”, the Festival of First Performances in Katowice, Wiener Frühlingsfestival in Austria, Festival Internazionale di Musica Elettroacustica del Conservatorio S. Cecilia di Roma, Festival Eterotopie in Italy, and Musicacoustica Beijing in China. Grzegorz Pieniek currently resides in Austria. Updated in April 2014 (iz) The composer’s internet site: www.pieniek.com contact Email: This email address is being protected from spambots. You need JavaScript enabled to view it.",
+  "birth": {
+    "place": "Kamień Pomorski",
+    "date": "18th November 1982",
+    "raw": "b. 18th November 1982, Kamień Pomorski"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Taiga for guitar, piano and percussion (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Tundra for guitar, piano and percussion (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Remote Worlds for tape (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Uroboros for 2 pianos and percussion (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Dreamscape for male choir (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Zones for orchestra (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Kaamos for 12 performers (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Ruins of a factory na taśmę (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "sent in november for viola (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "String Quartet (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Virtual Memories for 15 string instruments (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Filakizmeni eleftheria , 3 songs to words by Konstantinos Petrou Kavafis for mezzo-soprano, ensemble and electronics (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Corridors for tape (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Im Nebel for transverse flute, contrabass Paetzold recorder and electronics (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Illusion for piano (four hands) and live electronics (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Fortress , 5 pieces for tape (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Jede Nacht besucht uns ein Traum for six instruments (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Zeitlupe for six instruments (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Days to come, days gone by for mezzo-soprano, clarinet and guitar to texts by Konstantinos Petrou Kavafis (2012-2013)",
+      "year": "2012-2013"
+    },
+    {
+      "title": "Sommertraum for flute, clarinet, violin and cello (2013)",
+      "year": "2013"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "pieniek-grzegorz-en"
+}

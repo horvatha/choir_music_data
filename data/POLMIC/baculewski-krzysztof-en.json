@@ -1,0 +1,303 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/b/baculewski-krzysztof-en",
+  "title": "Baculewski Krzysztof",
+  "name": "Baculewski Krzysztof",
+  "occupation": "composer, musicologist",
+  "is_composer": true,
+  "description": "composer and teacher; b. 26th December 1950 in Warsaw. He studied composition with Witold Rudziński in the State Higher School of Music in Warsaw (degree in 1974), then continued his music studies in 1975-76 with Olivier Messiaen in Paris Conservatory and during an internship with Pierre Schaeffer in Groupe de Recherches Musicales. In 1977-1980, he was on the faculty of Warsaw University, Institute of Musicology. In 1980 he was granted a doctor’s degree in human sciences from Warsaw University. Since 1982, he teaches in Warsaw’s Music Academy, Department of Composition, Conducting and Music Theory (since 2001 as a nominated professor). Since 1973, he has contributed to the “Ruch Muzyczny” music monthly. His works have been performed, among others, in Poland, Germany, France, Finland, the Czech Republic, Hungary, the USA and Latin America. Awards for his compositions include: 3rd prize for La terra incompareggiabile for organ (1970-73) in the International Competition for an Organ Work (Szczecin 1973); honorable mention in the Young Composers’ Competition of the Polish Composers’ Union for Night , a cantata for soprano and chamber orchestra (1975); 3rd prize in the Polish Composers’ Union’s Warsaw Branch Competition in 1984 for String Quartet No. 1 (1984); an honorable mention in the same competition in 1986 for String Quartet No. 3 (1986); 1st prize in the same competition in 1990 for Antitheton I for violin, cello and piano (1989); 2nd prize for Concerto for Orchestra (1982-83) and an honorable mention for String Quartet No. 2 (1985) in the 25th Anniversary Competition of the Poznań Music Spring in 1985; an honorable mention for Concerto armonico for string orchestra (1987) in the Karol Szymanowski Competition for Composers in 1988. In 1986, Wrocław State Opera presented his music drama New Liberation after a drama by Stanisław Ignacy Witkiewicz (1974). His works have frequently been commissioned by the Polish Radio Programme Two, the “Alkagran” Festival, the International Nicolaus de Radom Festival of Old Music, the “Warsaw Autumn” Festival, by eminent musicians: Anna Szostak, Agata Sapiecha, Piotr Kusiewicz, Jadwiga Rappé and ensembles: Ars Nova and Camerata Silesia. He has written two books on Polish contemporary music: Polish Composers’ Art 1945-1984 (PWM, Cracow 1987) and The Contemporary Period, Part 1: 1939-1974 in the series History of Polish Music (Sutkowski Edition, Warsaw 1996), as well as numerous academic, critical and journalistic publications. In 1991-97 and 1999-2003, he was a member of the Polish Composers’ Union Managing Board.",
+  "birth": {
+    "place": "Warsaw",
+    "date": "26th December 1950",
+    "raw": "b. 26th December 1950 in Warsaw"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Winnie the Pooh , a children’s suite for a high-pitched voice, narrator, percussive instruments, violin, cello and piano (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "La terra incompareggiabile for organ (1970-73)",
+      "year": "1970-73"
+    },
+    {
+      "title": "Waltz for sextet with an accompanying conductor (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "A Greek Triptych for mixed choir (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Sonata for solo percussion for one performer (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Sonata pian’ e forte for brass quartet and percussion (1971-72)",
+      "year": "1971-72"
+    },
+    {
+      "title": "Epitaph for orchestra (1971-72)",
+      "year": "1971-72"
+    },
+    {
+      "title": "Recitative, Aria and Chorale for 2 harps (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Meander for solo flute (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Songs to words by Salvatore Quasimodo for baritone and chamber orchestra (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Introduction and Double Chorale for clarinet, trombone, piano and cello (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "New Liberation a musical drama after a play by Stanisław Ignacy Witkiewicz (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Vivace e Cantilena for flute, piano and string quintet (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Night , chamber cantata after Michelangelo for soprano and chamber orchestra (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Trois Grâces for organ (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Is-Slottet na 12 instrumentów (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Alabaster Music for flute and harp (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "À la recherche des harmonies perdues for orchestra (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Concertino [1st version] for piano and string orchestra (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Concertino [2nd version] for harpsichord and string quintet (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Passacaglia. Quartetto per batteria (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Partita I for alto saxophone and harpsichord (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Ground for orchestra (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Berceuse for string quartet (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Quartier Latin a piece in old style for tape (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Spring Sonata for solo flute (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "A Carp’s Dance with a Bear for tuba and double-bass (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Concerto for orchestra (1982-83)",
+      "year": "1982-83"
+    },
+    {
+      "title": "Suite de cheminée for two accordions (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "String Quartet No. 1 (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "String Quartet No. 2 (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "August Relief for soprano and chamber ensemble (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "A Rainy View from the Verandah One Warm Evening [1st version] for solo violin (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "A Rainy View from the Verandah One Warm Evening [2nd version] for solo cello (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Whole & Broken Consort for an early music instrumental ensemble (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "String Quartet No. 3 (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Quartetto per 12 strumenti (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Concerto armonico for string orchestra (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Partita II for violin and piano (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Thirty-Three Carols for mixed a cappella choir, soloists, choir and instrumental ensemble (1988-94)",
+      "year": "1988-94"
+    },
+    {
+      "title": "Antitheton I for violin, cello and piano (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "A Walking Shadow (in memory of Andrzej Krzanowski) for small symphony orchestra (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Voyage à travers le paysage métaphysique for tape (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Capriccio piccolo in cinque movimenti per flauto solo (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "The Profane Anthem to Anne for solo voices, mixed choir, early music instrumental ensemble and continuo (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Christmas Motet for soloists, choir, Baroque string ensemble and basso continuo (1993-94)",
+      "year": "1993-94"
+    },
+    {
+      "title": "Rilke-Lieder for solo soprano and bass and 2 mixed a cappella choirs (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Nox Ultima, Nox Beata , a motet for a 6-part mixed choir (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Elegiae Latinae. Tu Ne Quaesieris for 6 male voices (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Antitheton II for ensemble of Baroque instruments (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Gloria for alto and mixed choir (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Chansons romanesques et frivoles I for voice and instrumental ensemble (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Sonata canonica for two violins (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Chansons romanesques et frivoles II for soprano, tenor, 2 violins, flute and continuo (1998-2000)",
+      "year": "1998-2000"
+    },
+    {
+      "title": "Miserere for mixed a cappella choir (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Ozwodne and krzesane for mixed a cappella choir (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Carmina rei ultimae antiquitatis , a cantata for soprano, baritone, choir and instrumental ensemble (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Les Adieux a cantata na solo alto and string orchestra with harp (2001, 2008)",
+      "year": null
+    },
+    {
+      "title": "12 Piano Etudes (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Preludium, Psalm and Meditation (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Organ Concerto (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Antitheton III for violin, cello and harpsichord (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "String Quartet No. 4 (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Piano Quintet (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Refrain for choir and instrumental ensemble (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Volte-Face for symphony orchestra (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Frisium for 2 flutes and harpsichord (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Glosa for choir a cappella (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Concerto for two flutes and chamber orchestra (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "L'Ordre règne à Varsovie for quartet of soloists (SATB), 8-voice mixed choir, string quintet, text: excerpt from Julian Tuwim's Polish Flowers (2021)",
+      "year": "2021"
+    }
+  ],
+  "publications": "books Polska twórczość kompozytorska 1945-1984 [Polish Composers’ Art 1945-1984], PWM, Kraków 1987 Współczesność, cz. 1: 1939-1974 [The Contemporary Period, Part 1: 1939-1974], in the series: Historia muzyki polskiej [ History of Polish Music ], vol. VII, Sutkowski Edition, Warszawa 1996",
+  "bibliography": "Lindstedt Iwona, Baculewski Krzysztof, In: Encyklopedia Muzyczna PWM (część biograficzna pod red. Elżbiety Dziębowskiej) [PWM Music Encyclopaedia, Biographical Section ed. by Elżbieta Dziębowska], vol. “ab – Supplement”, PWM, Kraków 1998 Szczecińska Ewa, Od sonoryzmu do... muzyki dawnej (O muzyce Krzysztofa Baculewskiego), „Polish Culture” 1999 nr 1, s. 49 Strzelecki Paweł, Baculewski Krzysztof Jan, Akademia Muzyczna w Warszawie, Warszawa 2004",
+  "slug": "baculewski-krzysztof-en"
+}

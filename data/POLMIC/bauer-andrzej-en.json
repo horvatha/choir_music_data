@@ -1,0 +1,47 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/b/bauer-andrzej-en",
+  "title": "Bauer Andrzej",
+  "name": "Bauer Andrzej",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": "cellist, conductor, composer; b. 25th October 1962 in Łódź. He completed his studies under Kazimierz Michalik at the Academy of Music in Łódź (diploma with distinction, 1984). He continued his musical education, working with e.g. André Navarra at Hochschule für Musik und Darstellende Kunst in Vienna (1986-87), as well as with Miloš Sadlo and Daniel Szafran during numerous masterclasses. He also completed a 2-year course in London under William Pleeth, thanks to a scholarship funded by Witold Lutosławski. Winner of the 1st prize at the Dezyderiusz Danczowski Competition in Poznań (1983) and ARD International Competition in Munich (1992), prizewinner at the Prague Spring International Competition (3rd prize, 1989) and recipient of the prize awarded under the auspices of the European Parliament and the Council of Europe (1989). The artist’s extensive repertoire features many works of contemporary and new music, including works composed especially for him. He has given recitals in the Netherlands, Austria, France, Japan and the USA, and performed with symphony orchestras, including the Munich Philharmonic Orchestra, RAI Naples Orchestra, Orchestre Philharmonique de Strasbourg, Stuttgart Radio Symphony Orchestra and Berlin Radio Symphony Orchestra. He has appeared in concert as a soloist with most Polish symphony and chamber orchestras, with ensembles like the National Philharmonic Orchestra and Sinfonia Varsovia inviting him to join them as a soloist on their European concert tours. At the 2002 \"Warsaw Autumn\" Festival Andrzej Bauer gave a recital of premieres of pieces for cello solo and electronic media which he had inspired. The Cellotronicum project launched at this point has been continued by the artist ever since, resulting in new recordings and more premieres presented at major contemporary music venues in Europe. The second edition of the Cellotronicum project at the \"Warsaw Autumn\" won the 2006 Orpheus prize. He has taken part in international festivals, performing in most European countries as well as the United States and Japan. The artist has recorded music for a number radio and television stations in Poland and other countries (BBC, ORTF, Norddeutscher Rundfunk, Südwestfunk, Bayerischer Rundfunk). His recording with works by Schubert, Brahms and Schumann (Koch/Schwann) won the quarterly German Record Critics’ Award. His subsequent CDs featured works by Shostakovich, Prokofiev, Stravinsky, Messiaen, Regamey, Panufnik, as well as Witold Lutosławski's Cello Concerto . 2000 saw the release of the first ever Polish recording (on two CDs) of all of Bach’s cello suites, recorded by Bauer for the CD Accord label, for which the artist won the \"Fryderyk\" Award of the Polish Academy of Phonography. Album El Derwid – Blots on the Sun , recorded with Agata Zubel and Cezary Duchnowski, was nominated to the \"Fryderyk 2014\" Award. Andrzej Bauer is a lecturer at the Fryderyk Chopin University of Music in Warsaw and the Feliks Nowowiejski Academy of Music in Bydgoszcz. He is the founder and artistic director of the Warsaw Cellonet Group. He plays instruments made by Jean Baptist Vuillaume (1826) and Wojciech Topa (2001). updated: January 2016 (wa) Artist’s website: www.andrzejbauer.com",
+  "birth": {
+    "place": "Łódź",
+    "date": "25th October 1962",
+    "raw": "b. 25th October 1962 in Łódź"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Variations on a Flageolet Theme for cello and piano",
+      "year": null
+    },
+    {
+      "title": "Songs to the words by Witkacy for soprano and piano",
+      "year": null
+    },
+    {
+      "title": "Duotone for cello solo (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Cello Rulez for cello and chamber orchestra (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Plexus for 9 cellos (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Fattoriale for cello solo and electronics (2014)",
+      "year": "2014"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Kowalska-Zając Ewa, Bauer Andrzej, t. „ab - suplement”, PWM, Kraków 1998 Szukam sposobu na przetrwanie w zdrowiu psychicznym, \"Ruch Muzyczny\" 2004 nr 22, s. 18-20",
+  "slug": "bauer-andrzej-en"
+}

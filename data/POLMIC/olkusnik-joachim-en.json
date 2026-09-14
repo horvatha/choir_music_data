@@ -1,0 +1,219 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/o/olkusnik-joachim-en",
+  "title": "Olkuśnik Joachim",
+  "name": "Olkuśnik Joachim",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "composer and music journalist; b. 27th March 1927 in Kostrzyna; d. 18th December 2008 in Warsaw. He studied composition with Tadeusz Szeligowski at the State Higher School of Music in Warsaw (degree in 1960). In 1964, Olkuśnik received an honourable mention in the Grzegorz Fitelberg Competition for Composers for Spectrophonographies for women’s choir, 52 string instruments, 2 harps, 2 pianos and percussion (1964), and in 1980 – an honourable mention in the Competition for Composers in Łańcut for Music for flute, clarinet, celo and piano (1980). His compositions have been performed at numerous concerts and festivals in Poland and abroad, including in Austria, Czechoslovakia, Hungary, Yugoslavia, USSR, the United States. In 1960-64 he wrote for musical and literary periodicals. In this period, together with other young composers (Benedykt Konowalski, Jan Fotek, Zbigniew Penherski, Romuald Twardowski) and poets (Andrzej Brycht, Stanisław Grochowiak, Ireneusz Iredyński, Roman Śliwonik), he founded the “Camerata” artistic group, which, in co-operation with the literary fortnightly “Współczesność” [“The Contemporary Times”] organised musical-literary evenings and attempted a synthesis of arts in the form of a rhapsodic theatre. In 1964-70, Olkuśnik was an editor in the Central Music Editor’s Office of the Polish Radio in Warsaw (working, among others, on the series of broadcasts entitled “From old and recent times of Polish music”). He was a co-founder and (in 1974-86) editor-in-chief of the Authors’ Agency Music Publishers, which played a very important role in publishing and promoting contemporary compositions, particularly – of solo and chamber music. In 1967-69 and 1975-77, Joachim Olkuśnik was a member of the Managing Board of the Polish Composers’ Union.",
+  "birth": {
+    "place": "Kostrzyna",
+    "date": "27th March 1927",
+    "raw": "b. 27th March 1927 in Kostrzyna"
+  },
+  "death": {
+    "place": "Warsaw",
+    "date": "18th December 2008",
+    "raw": "d. 18th December 2008 in Warsaw"
+  },
+  "works": [
+    {
+      "title": "Sinfonietta for string orchestra (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "Preludes for piano (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "Bagatelle, Intermezzo and Scherzino for piano (1956)",
+      "year": "1956"
+    },
+    {
+      "title": "Two Pieces for flute and piano (1957)",
+      "year": "1957"
+    },
+    {
+      "title": "Sonata for piano (1957)",
+      "year": "1957"
+    },
+    {
+      "title": "Trio for flute, clarinet and bassoon (1958)",
+      "year": "1958"
+    },
+    {
+      "title": "Concertino for piano and orchestra (1959)",
+      "year": "1959"
+    },
+    {
+      "title": "Songs for soprano and piano to words by Konstanty Ildefons Gałczyński (1959)",
+      "year": "1959"
+    },
+    {
+      "title": "Music for soprano, cello, vibraphone and piano (1959)",
+      "year": "1959"
+    },
+    {
+      "title": "Retrospections for two string orchestras, woodwind and brass instruments, and percussion (1961)",
+      "year": "1961"
+    },
+    {
+      "title": "String Quartet No. 1 (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Chamber Music for soprano and 5 instruments (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Spectrophonographies for women’s choir, 52 string instruments, 2 harps, 2 pianos and percussion (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Lyrics for baritone and orchestra (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "String Quartet No. 2 (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Sequences for flute and harpsichord or piano (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Reconstructions for reciting voice, choir, piano, organ and percussion (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Music Concertante for oboe and string ensemble (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Quartet for 4 trombones (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Sequences for violin and piano (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Getting Undressed To Bed for baritone and piano to words by Stanisław Grochowiak (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Music for flute, clarinet, cello and piano (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "String Quartet No. 3 (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Tre impressioni per pianoforte (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Miniatures for piano for 4 hands (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Images from the Past for soprano and piano to words by Leopold Staff, Julian Tuwim and Maria Pawlikowska-Jasnorzewska (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Introduction, Arioso and Presto for violin, cello and piano (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Concerto for piano and orchestra (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Apocalipse and Apotheosis for percussion and organ (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Concerto breve for harpsichord and string orchestra (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Segments for viola, cello and double-bass (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Arabesque for solo harp (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Three Bagatelles for flute and harp (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Toccata and Arioso for solo guitar (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "The Wind Entwines... , 10 songs for children for voice and piano (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Elegy – to the memory of those who passed and are passing away in solitude for clarinet and 2 cellos (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Cantata breve for children’s choir and organ (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Lost Landscape for DVD recording (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Prelude and Passacaglia for organ (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Episodes for 2 cellos (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Klavierstück for piano and electronic record (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Mitologicos for flute and electronic record (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Introduction and Capriccio for 2 guitars (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Epigrams – Stefan Kisielewski in memoriam for piano (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Musica per quatro na flet, klarnet, wiolonczelę i fortepian (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Reperkusje na puzon i dwie sekcje perkusji (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Memory Reflections na trąbkę solo i muzyczną warstwę zapisu komputerowego (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Zwierciadło nocy , 3 pieśni na chór żeński z oprawą muzyki elektronicznej do tekstu Kazimiery Iłłakowiczówny (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Sonografie na klawesyn i flety proste (2007)",
+      "year": "2007"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Lindstedt Iwona, Olkuśnik Joachim, In: Encyklopedia Muzyczna PWM (część biograficzna pod red. Elżbiety Dziębowskiej), t. „n-pa” [PWM Music Encyclopaedia, biographical part ed. by Elżbieta Dziębowska], vol. “N-Pa”, PWM, Kraków 2002",
+  "slug": "olkusnik-joachim-en"
+}

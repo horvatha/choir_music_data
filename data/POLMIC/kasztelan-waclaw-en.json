@@ -1,0 +1,27 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/k/kasztelan-waclaw-en",
+  "title": "Kasztelan Wacław",
+  "name": "Kasztelan Wacław",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Barkarola na skrzypce i fortepian Belweder marsz na orkiestrę dętą Frascati marsz na orkiestrę dętą Idylla na orkiestrę Marymont marsz na orkiestrę dętą Meditation na skrzypce i fortepian Nowa muzyka wojskowa 12 utworów na fortepian Preludium h-moll na fortepian Raszyn marsz na orkiestrę dętą Trzy miniatury na fortepian Elegia marsz na wiolonczelę i orkiestrę smyczkową lub na orkiestrę dętą (przed 1933) Preludium E-dur na fortepian (1945) Hej! Hej! Orle mój! na tenor solo i orkiestrę symfoniczną (1946) Cztery marsze na orkiestrę dętą (1947) Romans D-dur na skrzypce i orkiestrę symfoniczną (1948) Hymn Słowian na tenor solo, chór i orkiestrę symfoniczną, dętą lub smyczkową (1949) Ballada na orkiestrę (1950)",
+      "year": "1950"
+    }
+  ],
+  "publications": null,
+  "bibliography": "[materiały Archiwum Związku Kompozytorów Polskich], Iwanicka-Nijakowska Anna, Kasztelan Wacław, Akademia Muzyczna im. Fryderyka Chopina w Warszawie / Akademia Muzyczna im. Stanisława Moniuszki w Gdańsku, Warszawa / Gdańsk 2005",
+  "slug": "kasztelan-waclaw-en"
+}

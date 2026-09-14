@@ -1,0 +1,235 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/h/hendrich-pawel-en",
+  "title": "Hendrich Paweł",
+  "name": "Hendrich Paweł",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "composer; b. 21st April 1979 in Wrocław. In 1998 he started studying composition with Jerzy Filc. He graduated from the Engineering and Economics Department of the University of Economics in Wrocław. He also graduated with honours from the composition class of Grażyna Pstrokońska-Nawratil at the Academy of Music in Wrocław. In 2005/2006 he studied at the Hochschule für Musik in Cologne in the class of York Höller. He participated in composition courses and workshops with composers such as Peter Eötvös, Luca Francesconi, Anders Hillborg, Marco Stroppa, Horatiu Radulescu, and Ivan Fedele. Since 2008 he has worked at the Karol Lipiński Academy of Music in Wrocław as an adjunct, obtaining a PhD in composition in 2012. He has won several awards and scholarships. In 2004-2008 he held a scholarship of the Polish Ministry of Culture and National Heritage, in 2006-2008 from the City of Wrocław, and in 2009 from the Lower Silesia Voivodeship. In 2007 the Krzysztof Penderecki European Centre for Music included him in its four-year promotion programme. In 2010 he was granted membership in the Academy of Young Scholars and Artists. His numerous accolades include the 3rd Prize at the Franz Josef Reinl Foundation competition in Vienna (2005, for Anepigraph ). In 2009 his Metasolidus I (2005-2007) was among the seven works nominated for the Opus Public Media Award. Paweł Hendrich’s works have been performed at international festivals, including the \"Warsaw Autumn\" Festival, Musica Polonica Nova and Musica Electronica Nova in Wrocław, Festival of World Premieres in Katowice, Audio Art Festival in Warsaw and Kraków, Musica Viva in Munich, Rudens Kamermūzikas Festivāls in Riga, Suså Festival in Næstved (Denmark), Rudersdal Sommerkoncerter in Hørsholm (Denmark), World Music Days in Wrocław, University of Louisville New Music Festival, Composers Portraits in Warsaw, Poznań Music Spring, Słuchalnia in Toruń, New Waves in Gdańsk, Katowice JazzArt Festival, and during concerts in Poland, Germany, Austria, Sweden, Spain, Portugal, Czech Republic, Turkey, Hungary, Malta, Slovakia, Lithuania, Latvia, Estonia, Russia, Japan, China and the United States. His works have been performed by such orchestras and ensembles as: Wrocław Philharmonic Orchestra, New Music Orchestra (OMN), Polish National Radio Symphony Orchestra, Ensemble Modern (directed by Peter Eötvös, Anu Tali, and Clemens Heil), Musikfabrik (directed by Diego Masson), PluralEnsemble (directed by Fabián Panisello), KammarensembleN (directed by Staffan Larson), Illinois Modern Ensemble (directed by Stephen A. Taylor), Leopoldinum Wrocław Chamber Orchestra (directed by Ernst Kovacic), Tech-no Orchestra, Sound Factory Orchestra (directed by Robert Kurdybacha), Polish Orchestra Jeunesses Musicales (directed by Miłosz Bembinow), Warsaw Cellonet Group (directed by Andrzej Bauer), Kwartludium, an_ARCHE New Music Ensemble, Melos Ethos Ensemble (directed by Zsolt Nagy), Kwadrofonik, as well as soloists including Elżbieta Woleńska, Mikołaj Pałosz, Rafał Łuc, Adam Bałdych, Agnieszka Gajgier-Otręba, and Stanisław Lasoń. He has received commissions from institutions such as “Warsaw Autumn” Festival, Deutschlandfunk, Ensemble Modern, the City of Wrocław, Polish Institute in Madrid, Institute of Music and Dance, New Music Orchestra (OMN), National Music Forum, ZAiKS Authors’ Association, and the Polish Composers’ Union. In 2016/2017 he was a composer-in-residence with the New Music Orchestra in NOSPR, Katowice. For several years, Paweł Hendrich has been programming in the Max/MSP environment, and performing electroacoustic music. With Cezary Duchnowski and Sławomir Kupczak, he has founded the electroacoustic group Phonos ek Mechanes, which participates in festivals of improvised, contemporary and electroacoustic music, as well as concerts in Poland and abroad. With leading jazz violinist, Adam Bałdych, he has created the Avatar project. In 2010, DUX Records released Paweł Hendrich's monographic CD Chamber Works , followed by Metaforma in 2017. In 2012, Bôłt Records released Phonos ek Mechanes' first CD called C+­ . Paweł Hendrich is the artistic director of the Musica Polonica Nova – Polish Contemporary Music Festival in Wrocław and a member of the \"Warsaw Autumn\" Festival repertoire committee. He is also a member of the Polish Society for Contemporary Music (since 2002), Polish Composers’ Union (since 2007) and Polish Society for Electroacoustic Music (since 2008). In 2017 he received the the Decoration of Honour \"Meritorious for Polish Culture\" awarded by the Ministry of Culture and National Heritage of the Republic of Poland to persons and organizations for distinguished contributions to the Polish culture and heritage. updated: 2016 (Aleksandra Braumańska), 2020 (Agnieszka Cieślak) Composer's website: www.hendrich.pl",
+  "birth": {
+    "place": "Wrocław",
+    "date": "21st April 1979",
+    "raw": "b. 21st April 1979 in Wrocław"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Angels – Musical Poems for reciter and chamber orchestra (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Immagini Sonore for string ensemble (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Phantasmagoria for piano (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Gnothi seauton for chamber orchestra (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Let your Spirit descend! for reciting voice, tenor, baritone, bass and 2 female choirs (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Heterochronia for large symphony orchestra (2002-2004)",
+      "year": "2002-2004"
+    },
+    {
+      "title": "Anepigraph for small orchestra (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Diversicorium for chamber ensemble (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Phonarium I , sound installation (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Metasolidus for symphony orchestra (2005-2007)",
+      "year": "2005-2007"
+    },
+    {
+      "title": "Phonarium II , sound installation (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Multivalentis for clarinet, trombone, cello and piano (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Hyloflex αβ for string orchestra and computer (2007-2009)",
+      "year": "2007-2009"
+    },
+    {
+      "title": "Cyclostratusfor violin, bass clarinet, percussion, piano and beatbox (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Liolit for chamber orchestra (2009-2010)",
+      "year": "2009-2010"
+    },
+    {
+      "title": "Diaphanoid for chamber ensemble (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Emergon αß for chamber ensemble and computer (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Metasolidus II / Cryptoscript for large symphony orchestra and computer (2011-2012)",
+      "year": "2011-2012"
+    },
+    {
+      "title": "Sedimetron for chamber ensemble (Andrzej Chłopecki in memoriam) (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Kioloik for 1 or 2 flutes (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Drovorb for clarinet, horn, piano, violin, viola and cello (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Ertytre for 1 or 8 cellos (2013-2014)",
+      "year": "2013-2014"
+    },
+    {
+      "title": "Accant for accordion and computer (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Alopopulo for chamber orchestra, violin and computers (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Exophor for Chinese instrumental ensemble (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Xenobrach for 2 percussions and 2 pianos (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Pteropetros for accordion, string quartet and wind quintet (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Fables of Robots , co-opera for typewriter, percussion instruments, unconventional instruments, 2 accordions, electric guitar, MIDI keyboard, cello/electric cello, electronics, visualizations and dubstep dance (with Cezary Duchnowski) (2015-2016)",
+      "year": "2015-2016"
+    },
+    {
+      "title": "Mutuusmutus for chamber orchestra and air percussion (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Holoedr for saxophone, trombone, accordion, piano and cello (2016-2017)",
+      "year": "2016-2017"
+    },
+    {
+      "title": "Hordiaver for chamber orchestra (2016-2017)",
+      "year": "2016-2017"
+    },
+    {
+      "title": "Gliptopalinomia for piano (2017-)",
+      "year": null
+    },
+    {
+      "title": "Prismiris for string trio (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Elsewhere, install-action for chamber ensemble, live electronics and visualisations (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Absusurrus for orchestra, flute and computer (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Dualabilis I for two accordions and computer (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Isolation(no)... for ensemble and computer (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Dualabilis II for harpsichord and computer (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "Transforma 1 for violin and cello (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "Transforma 2 for solo accordion (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "Transforma 3 for percussion and computer (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "Phantomaticon for chamber orchestra, piano and computer (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "Kolorytm for video (2022)",
+      "year": "2022"
+    },
+    {
+      "title": "Thall'Em All for electric/acoustic string quartet and computer (2022)",
+      "year": "2022"
+    },
+    {
+      "title": "Just a Little Beat for chamber ensemble and computer (2022-2023)",
+      "year": "2022-2023"
+    },
+    {
+      "title": "Dualabilis III for trombone and computer (2023)",
+      "year": "2023"
+    },
+    {
+      "title": "Sfumato for large symphony orchestra (2023-2024)",
+      "year": "2023-2024"
+    },
+    {
+      "title": "Beatles(s) for large symphony orchestra (2024)",
+      "year": "2024"
+    },
+    {
+      "title": "Color // Shape // Magnitude for two pianos (2024)",
+      "year": "2024"
+    },
+    {
+      "title": "Tenebrilis , video installation (2025)",
+      "year": "2025"
+    },
+    {
+      "title": "Wzgórza i doliny niesamowitości for cello, trumpet, accordion and computer (2025)",
+      "year": "2025"
+    },
+    {
+      "title": "Djentle // Bruthall for ensemble, trombone, electric guitar and computer (2025)",
+      "year": "2025"
+    },
+    {
+      "title": "Solitone for 12 Disklaviers and unconventional instrument layers (2025-2026)",
+      "year": "2025-2026"
+    }
+  ],
+  "publications": "articles & papers O organizacji dźwięków, czasu i formy, „Glissando” nr 12, maj 2007, s. 26-32",
+  "bibliography": "Paweł Hendrich [wywiad], „Glissando” nr 12, maj 2007, s. 20-25",
+  "slug": "hendrich-pawel-en"
+}

@@ -1,0 +1,119 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/m/michno-wojciech-en",
+  "title": "Michno Wojciech",
+  "name": "Michno Wojciech",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Preludia na fortepian solo (2007-2011)",
+      "year": "2007-2011"
+    },
+    {
+      "title": "Modlitwa o wysłuchanie na chór żeński i orkiestrę (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Kontrasty na skrzypce solo (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Suita (dawniej Sonata) bajkowa na klarnet i fortepian (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Metamorfozy na kontrabas solo (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Romans na flet i fortepian (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Dla Zagubionego Człowieka na zespół instrumentalny (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "W Zamku Króla Thingola na fortepian solo (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Lulajże Jezuniu na chór mieszany a capella (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "O Magnum misterium na kontratenor i organy (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Psalm nr 2 na mezzosopran, skrzypce, wiolonczelę i harfę (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "In memoriam na orkiestrę smyczkową (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Tryptyk do słów Tomasza Mandy na głos żeński i fortepian (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Credo na chór mieszany i orkiestrę kameralną (2013-2015)",
+      "year": "2013-2015"
+    },
+    {
+      "title": "Hommage Concerto na orkiestrę (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Von Judas Ende na organy solo (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "W stronę ciszy na zespół instrumentalny (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Apokatastasis na orkiestrę smyczkową (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Cztery utwory o jaśnieniu na fortepian (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Kwitnienie serca na orkiestrę symfoniczną (2016-2018)",
+      "year": "2016-2018"
+    },
+    {
+      "title": "Et lux in tenebris lucet na orkiestrę symfoniczną (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "I Symfonia „Anabasis” na wielką orkiestrę symfoniczną (2017-2020)",
+      "year": "2017-2020"
+    },
+    {
+      "title": "Desensorium na zespół instrumentalny (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "I Sonata „Kyklosis” na skrzypce i fortepian (2021)",
+      "year": "2021"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "michno-wojciech-en"
+}

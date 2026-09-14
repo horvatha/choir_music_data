@@ -1,0 +1,251 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/r/rozycki-ludomir-en",
+  "title": "Różycki Ludomir",
+  "name": "Różycki Ludomir",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Stańczyk op. 1, scherzo symfoniczne na orkiestrę (1903-04)",
+      "year": "1903-04"
+    },
+    {
+      "title": "Preludia op. 2 na fortepian (1904)",
+      "year": "1904"
+    },
+    {
+      "title": "Dwa preludia i dwa nokturny op. 3 na fortepian (1904)",
+      "year": "1904"
+    },
+    {
+      "title": "Gra fal op. 4 na fortepian (1904)",
+      "year": "1904"
+    },
+    {
+      "title": "4 Impromptus op. 6 na fortepian (1904)",
+      "year": "1904"
+    },
+    {
+      "title": "Osiem pieśni do słów Tadeusza Micińskiego op. 9 na głos i fortepian (1904)",
+      "year": "1904"
+    },
+    {
+      "title": "Ballada op. 18 na fortepian i orkiestrę (1904)",
+      "year": "1904"
+    },
+    {
+      "title": "Dwie melodie op. 5 na skrzypce lub wiolonczelę i fortepian (1904-09)",
+      "year": "1904-09"
+    },
+    {
+      "title": "Fantazja op. 11 na fortepian (1905)",
+      "year": "1905"
+    },
+    {
+      "title": "3 Morceaux op. 15 na fortepian (1905)",
+      "year": "1905"
+    },
+    {
+      "title": "Contes d’une horloge op. 26 na fortepian (1905)",
+      "year": "1905"
+    },
+    {
+      "title": "Air, Mirage, Un Rève op. 28 na fortepian (1905)",
+      "year": "1905"
+    },
+    {
+      "title": "Bolesław Śmiały op. 8, poemat symfoniczny na orkiestrę (1906)",
+      "year": "1906"
+    },
+    {
+      "title": "Sonata na wiolonczelę i fortepian op. 10 (1906)",
+      "year": "1906"
+    },
+    {
+      "title": "Cztery pieśni z cyklu Orfan op. 12 na głos i fortepian (1906)",
+      "year": "1906"
+    },
+    {
+      "title": "Sześć pieśni op. 14 na głos i fortepian (1906)",
+      "year": "1906"
+    },
+    {
+      "title": "Sześć pieśni do słów Tadeusza Micińskiego op. 16 na głos i fortepian (1906)",
+      "year": "1906"
+    },
+    {
+      "title": "Bolesław Śmiały op. 20, opera (1906-08)",
+      "year": "1906-08"
+    },
+    {
+      "title": "Trzy pieśni op. 19 na głos i fortepian (1908)",
+      "year": "1908"
+    },
+    {
+      "title": "Meduza op. 27, opera fantastyczna (1908-11)",
+      "year": "1908-11"
+    },
+    {
+      "title": "Anhelli op. 22, poemat symfoniczny na orkiestrę (1909)",
+      "year": "1909"
+    },
+    {
+      "title": "Trzy pieśni do słów Cypriana Kamila Norwida op. 23 na głos i fortepian (1909)",
+      "year": "1909"
+    },
+    {
+      "title": "Balladyna op. 25, poemat na fortepian (1909)",
+      "year": "1909"
+    },
+    {
+      "title": "Dwa nokturny op. 30 na skrzypce i fortepian (1909)",
+      "year": "1909"
+    },
+    {
+      "title": "Rapsodia op. 33 na fortepian, skrzypce i wiolonczelę (1909-13)",
+      "year": "1909-13"
+    },
+    {
+      "title": "Król Kofetua op. 24, poemat symfoniczny na orkiestrę (1910)",
+      "year": "1910"
+    },
+    {
+      "title": "Mona Lisa Gioconda op. 29 [lub 31], preludium symfoniczne na orkiestrę (1911)",
+      "year": "1911"
+    },
+    {
+      "title": "Kwintet fortepianowy c-moll op. 35 (1913-16)",
+      "year": "1913-16"
+    },
+    {
+      "title": "Eros i Psyche op. 40, opera fantastyczna (1914-16)",
+      "year": "1914-16"
+    },
+    {
+      "title": "Laguna op. 36 na fortepian (1915)",
+      "year": "1915"
+    },
+    {
+      "title": "Tańce polskie op. 37 na fortepian (1915)",
+      "year": "1915"
+    },
+    {
+      "title": "9 Esquisses op. 39 na fortepian (1915)",
+      "year": "1915"
+    },
+    {
+      "title": "Kwartet smyczkowy d-moll op. 49 (1915)",
+      "year": "1915"
+    },
+    {
+      "title": "4 Intermezzi op. 42 na fortepian (1915-18)",
+      "year": "1915-18"
+    },
+    {
+      "title": "Koncert fortepianowy nr 1 g-moll op. 43 (1917-18)",
+      "year": "1917-18"
+    },
+    {
+      "title": "Fantasiestücke op. 46 na fortepian (1919)",
+      "year": "1919"
+    },
+    {
+      "title": "Pan Twardowski op. 45, balet (1919-20)",
+      "year": "1919-20"
+    },
+    {
+      "title": "Casanova op. 47, opera (1921-22)",
+      "year": "1921-22"
+    },
+    {
+      "title": "Italia op. 50 na fortepian (1923)",
+      "year": "1923"
+    },
+    {
+      "title": "Trzy erotyki op. 51 na głos i fortepian (1923)",
+      "year": "1923"
+    },
+    {
+      "title": "Trzy pieśni op. 48 na chór mieszany a cappella (1924)",
+      "year": "1924"
+    },
+    {
+      "title": "Cztery utwory op. 52 na fortepian (1924)",
+      "year": "1924"
+    },
+    {
+      "title": "Sześć utworów charakterystycznych op. 58 na fortepian (1924)",
+      "year": "1924"
+    },
+    {
+      "title": "Beatrix Cenci op. 53, opera tragiczna (1925-26)",
+      "year": "1925-26"
+    },
+    {
+      "title": "Diabelski młyn , opera satyryczna (1928-30)",
+      "year": "1928-30"
+    },
+    {
+      "title": "Suita taneczna w 4 częściach na orkiestrę (1931-32)",
+      "year": "1931-32"
+    },
+    {
+      "title": "Lili chce śpiewać , operetka (1932)",
+      "year": "1932"
+    },
+    {
+      "title": "Pani Walewska , opera historyczna (1933-40)",
+      "year": "1933-40"
+    },
+    {
+      "title": "Apollo i dziewczyna , balet (1937)",
+      "year": "1937"
+    },
+    {
+      "title": "Pietà (Na zgliszczach Warszawy) , fragment dramatyczny na orkiestrę (1940-43)",
+      "year": "1940-43"
+    },
+    {
+      "title": "Koncert fortepianowy nr 2 (1941-42)",
+      "year": "1941-42"
+    },
+    {
+      "title": "Ballada op. 60 na głos i fortepian (1942)",
+      "year": "1942"
+    },
+    {
+      "title": "Dzwony , poemat na głos i orkiestrę (1942-48)",
+      "year": "1942-48"
+    },
+    {
+      "title": "Koncert skrzypcowy op. 70 [niedokończony] (1944)",
+      "year": "1944"
+    },
+    {
+      "title": "Polonez uroczysty na orkiestrę (1945-46)",
+      "year": "1945-46"
+    },
+    {
+      "title": "Warszawa wyzwolona , poemat symfoniczny na orkiestrę (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "Słowik op. 55 na fortepian (ok. 1933)",
+      "year": null
+    }
+  ],
+  "publications": null,
+  "bibliography": "Kański Józef, Ludomir Różycki, PWM, Kraków 1955 Turska Irena, „Pan Twardowki” Ludomira Różyckiego, PWM, Kraków 1959 Kamiński Marcin, Ludomir Różycki. Opowieść o życiu i twórczości, Pomorze, Bydgoszcz 1987 Hadyna Stanisław, O Ludomirze Różyckim, Wojewódzka Biblioteka Publiczna w Katowicach, Katowice 1990 Baranowski Tomasz, Różycki Ludomir, PWM, Kraków 2004",
+  "slug": "rozycki-ludomir-en"
+}

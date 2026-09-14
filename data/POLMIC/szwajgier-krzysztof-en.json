@@ -1,0 +1,459 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/s/szwajgier-krzysztof-en",
+  "title": "Szwajgier Krzysztof",
+  "name": "Szwajgier Krzysztof",
+  "occupation": "composer, musicologist",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Microdissonanze na klarnet i taśmę (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Artyści na taśmę (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Polonaise na skrzypce elektryczne, gitarę 12-strunową i gitarę basową (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Psalmy na chór żeński do słów Jana Kochanowskiego (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Mapa pogody na recytatora i wielką orkiestrę do słów Jarosława Iwaszkiewicza (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Święta Rzeko na baryton i wielką orkiestrę do słów Stanisława Wyspiańskiego (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Kiedy ziemia i niebo przeminą na 16-głosowy chór do słów Jarosława Iwaszkiewicza (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Aria na głos solo (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Canti na chór a cappella (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Na bosaka , opera kameralna wg Ferdydurke Witolda Gombrowicza (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Et l'unique cordeau des trompettes marines na głos i instrumenty wg Guillaume Apollinaire'a (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Tańce i figury dworskie na trio smyczkowe (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Sytuacja akusmatyczna dla referenta, z użyciem pewnej ilości dźwięków (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Simulacrum na mały skład instrumentalny (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "A Flower à propos Cage'a na perkusję (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "La sorpresa na skrzypce i instrument towarzyszący (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Tao na 4 instrumenty dęte drewniane i taśmę (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Muzyka dla teatru dramatycznego:",
+      "year": null
+    },
+    {
+      "title": "Bamba w oazie Tongo w reż. Stanisława Ochmańskiego (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Chcę być duży w reż. Stanisława Ochmańskiego (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Spadanie w reż. Krzysztofa Jasińskiego (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Misie Ptysie w reż. Stanisława Ochmańskiego (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Osiołek Plusz w reż. Stanisława Ochmańskiego (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Sennik polski w reż. Krzysztofa Jasińskiego (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Liczę do trzech w reż. Zygmunta Smandzika (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Exodus w reż. Krzysztofa Jasińskiego (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Ptaki w reż. Ryszarda Majora (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Beatrix Cenci w reż. Mai Wachowiak (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Sklepy cynamonowe w reż. Ryszarda Majora (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Dekameron w reż. Jerzego Michalaka (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Operetka w reż. Krzysztofa Jasińskiego (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Kieszonkowe przygody w reż. Wojciecha Kobrzyńskiego (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Tajna misja w reż. Krzysztofa Jasińskiego (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Donkichoteria w reż. Krzysztofa Jasińskiego (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Przed sklepem jubilera (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Hiob w reż. Tadeusza Malaka (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Na bosaka w reż. Krzysztofa Jasińskiego (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Pozowanie do portretu w reż. Bogdana Rudnickiego (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Adrianne Lecouvreur w reż. Bogdana Hussakowskiego (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Alicja w Krainie Czarów w reż. Wojciecha Kobrzyńskiego (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Proces w reż. Jerzego Hutka (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Dom, który zbudował Jonathan Swift w reż. Adolfa Weltschka (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Hanusia i mysz Pompeusz w reż. Leszka Czarnoty (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Wesele w reż. Bogdana Hussakowskiego (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Poszukiwania w reż. Konstantego Rożka (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Niebezpieczne związki w reż. Bogdana Hussakowskiego (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Dzień gniewu w reż. Romany Bobrowskiej, Henryka Giżyckiego (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Sen srebrny Salomei w reż. Bogdana Hussakowskiego (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Doktor Żywago w reż. Zbigniewa Wilkońskiego (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Policja w reż. Rafała Maciąga (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Ślub w reż. Bogdana Hussakowskiego (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Amadeusz w reż. Waldemara Zawodzińskiego (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Wielki człowiek do małych interesów w reż. Rafała Maciąga (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Markietanki, czyli kobiety na tyłach w walce o pokój w reż. Krzysztofa Jasińskiego (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Iwona, księżniczka Burgunda w reż. Bogdana Hussakowskiego (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Przerżnąć sprawę w reż. Roberta Scaniana (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Szkoła mężów w reż. Rafała Maciąga (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Celestyna w reż. Waldemara Zawodzińskiego (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Baśń o zaklętym jaworze w reż. Krzysztofa Orzechowskiego (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Iluzja komiczna w reż. Bogdana Hussakowskiego (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Czerwone nosy w reż. Włodzimierza Nurkowskiego (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Tańce w Ballybeg w reż. Bogdana Hussakowskiego (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Notatki z podziemia w reż. Krzysztofa Rogoża (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Oleanna w reż. Paula Lamperta (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Dziady (część II i IV) w reż. Adama Sroki (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Trzy wieki miłości do zwierząt w reż. Rafała Maciąga (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Mąż i żona w reż. Włodzimierza Nurkowskiego (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Koniec i początek w reż. Andrzeja Kierca (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Powrót smoka wawelskiego w reż. Jerzego Zonia (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Cud w Alabamie w reż. Elżbiety Karkoszki (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Niebo-piekło w reż. Agnieszki Glińskiej (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Lekarz mimo woli w reż. Tomasza Obary (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Romolo il Grande w reż. Giovanniego Pampiglione (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Trzy wysokie kobiety w reż. Bogdana Hussakowskiego (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Maska w reż. Ziuty Zającówny (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Zimowa opowieść w reż. Bogdana Hussakowskiego (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Wieczór Trzech Króli w reż. Macieja Prusa (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "A właśnie tak! Ballady Roberta Burnsa w reż. Tadeusza Zięby (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Toksyczni rodzice w reż. Inki Dowlasz (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Dożywocie w reż. Tomasza Obary (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Tak jest, jak się Państwu zdaje w reż. Bogdana Hussakowskiego (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Wielka magia w reż. Bogdana Hussakowskiego (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Pan Jowialski w reż. Krzysztofa Orzechowskiego (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Dziady albo młodzi czarodzieje w reż. Adama Sroki (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Koniec wieku w reż. Włodzimierza Nurkowskiego (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Kwiaty zła w reż. Adama Sroki (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Wieczór kawalerski w reż. Janusza Szydłowskiego (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Spętani w reż. Bogdana Hussakowskiego (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Alicja po drugiej stronie lustra w reż. Iwony Kempy (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Bici biją w reż. Inki Dowlasz (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Pterodactyle w reż. Piotra Chołodzińskiego (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Godzina, w której nie wiedzieliśmy nic o sobie nawzajem w reż. Piotra Cieślaka (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Balladyna w reż. Adama Sroki (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Odlot w reż. Inki Dowlasz (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Romeo i Julia w reż. Adama Sroki (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Prywatna klinika w reż. Jerzego Fedorowicza (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Księżniczka Turandot w reż. Katarzyny Deszcz (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Przygody Pędrka Wyrzutka w reż. Małgorzaty Bogajewskiej (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Życie: trzy wersje w reż. Włodzimierza Nurkowskiego (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Sytuacja bez wyjścia w reż. Inki Dowlasz (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Betlejem – misterium na Boże Narodzenie w reż. Włodzimierza Nurkowskiego (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Biznes w reż. Jerzego Fedorowicza (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Stara kobieta wysiaduje w reż. Henryka Baranowskiego (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Niezwykły dom pana A., czyli skradzione dźwięki w reż. Włodzimierza Nurkowskiego (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Pół żartem, pół sercem w reż. Włodzimierza Nurkowskiego (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Niezwykły dom pana A. w reż. Włodzimierza Nurkowskiego (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Muzyka dla teatru telewizji:",
+      "year": null
+    },
+    {
+      "title": "Sprawa kobiet w reż. Bogdana Hussakowskiego (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Ewa w reż. Bogdana Hussakowskiego (1998)",
+      "year": "1998"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "szwajgier-krzysztof-en"
+}

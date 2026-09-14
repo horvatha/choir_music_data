@@ -1,0 +1,299 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/m/moszumanska-nazar-krystyna-en",
+  "title": "Moszumańska-Nazar Krystyna",
+  "name": "Moszumańska-Nazar Krystyna",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "composer and music teacher, b. 5th September 1924 in Lwów (Lvov); d. 27th September 2008 in Kraków (Cracow). In 1950-55 she studied composition with Stanisław Wiechowicz and piano with Jan Hoffman at the State Higher School of Music in Cracow. She is a professor of composition at Cracow’s Music Academy, where in 1987-93 she also held the post of rector. She has won numerous competitions for composers. In 1954, she received an honorable mention in the Young Composers' Competition of the Polish Composers' Union for her Oberek from the Suite of Polish Dances for piano (1954). She was twice awarded honorable mentions in the International Competition for Women Composers in Mannheim - in 1961 for Hexaèdre for orchestra (1960) and again in 1966 for Exodus for symphony orchestra and tape (1964). In 1962 she won 1st prize and the Gold Medal in the International Competition for Women Composers in Buenos Aires for Muzyka na smyczki [ Music for strings ] (1962). In 1966 she received the 3rd prize in the A. Malawski Competition for Variazioni concertanti for flute and chamber orchestra (1966). In 1974 she was awarded 2nd prize in the Karol Szymanowski Competition for her musical poem Madonny polskie [ Polish Madonnas ] for mixed choir and symphony orchestra (1974). For her entire oeuvre and for her extensive cultural activity, Krystyna Moszumańska-Nazar has been honored: five times with the Minister of Culture and Arts Awards; the City of Cracow Award (1970), Gold Cross of Merit (1975), the Prime Minister's Award for works for children and young people (1977), the Award of the Polish Composers' Union (1988), The Distinction for Contributions to National Culture (1989), and, for her 75th birthday and the 45th anniversary of artistic work, the Cavalier’s (1983), Officer’s (1993) and Commander's (1999) Crosses of the Polonia Restituta Order (this last order was granted for her 75th birthday and 45th anniversary of artistic work), and the Honorary Award of the Polish Culture Foundation (2003).",
+  "birth": {
+    "place": "Lwów (Lvov)",
+    "date": "5th September 1924",
+    "raw": "b. 5th September 1924 in Lwów (Lvov)"
+  },
+  "death": {
+    "place": "Kraków (Cracow)",
+    "date": "27th September 2008",
+    "raw": "d. 27th September 2008 in Kraków (Cracow)"
+  },
+  "works": [
+    {
+      "title": "Variations for piano (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "Suite of Polish Dances for piano (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "Concertino for piano and symphony orchestra (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "Overture No. 1 for symphony orchestra (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "Overture No. 2 for symphony orchestra (1956)",
+      "year": "1956"
+    },
+    {
+      "title": "Symphonic Allegro (1957)",
+      "year": "1957"
+    },
+    {
+      "title": "Sonatina for piano (1957)",
+      "year": "1957"
+    },
+    {
+      "title": "Three Miniatures for clarinet and piano (1957)",
+      "year": "1957"
+    },
+    {
+      "title": "Four Essays for orchestra (1958)",
+      "year": "1958"
+    },
+    {
+      "title": "Five Duos for flute and clarinet (1959)",
+      "year": "1959"
+    },
+    {
+      "title": "Hexaèdre for symphony orchestra (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "String Trio (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Music for strings (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Exodus for symphony orchestra and tape (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Variazioni concertanti per flauto e orchestra da camera (1965-66)",
+      "year": "1965-66"
+    },
+    {
+      "title": "Interpretations for flute, tape and percussion (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Three Concert Studies for solo percussion (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Pour orchestre (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Intonations for two mixed choirs and symphony orchestra (1970-71)",
+      "year": "1970-71"
+    },
+    {
+      "title": "Bagatelles for piano (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Constellations for piano (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Bel canto [1st version] for soprano, celesta and percussion (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Bel canto [2nd version] for soprano, celesta, cello and percussion (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Quartetto per archi (1973-74)",
+      "year": "1973-74"
+    },
+    {
+      "title": "Polish Madonnas , poem for mixed choir and orchestra (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Rhapsody I for orchestra (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "From End to End Percussion (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "A Challenge for baritone and chamber ensemble (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Variants for piano and percussion (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "String Quartet No. 2 (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Rhapsody II for great symphony orchestra (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Sinfonietta for chamber string orchestra (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Song of Songs for soprano, reciting voice, small men’s choir and instrumental chamber ensemble (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Canzona for solo violin (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Concerto for symphony orchestra (1985-86)",
+      "year": "1985-86"
+    },
+    {
+      "title": "Fantasy for solo marimbaphone (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Fresco No. 1 for orchestra (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Music for Five for percussion (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Trois moments musicaux for solo double-bass (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Quatre moments musicaux for solo cello (1990-94)",
+      "year": "1990-94"
+    },
+    {
+      "title": "Recitativo for solo cello (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Fresco No. 2 for orchestra (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Un petit cadeau , trio for flute, cello and percussion (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Fresco No. 3 for orchestra (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Two Dialogues [1st version] for instrumental ensemble (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Two Dialogues [2nd version] for orchestra (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Oratio brevis for solo organ (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "String Quartet No. 3 (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Leggiero e mobile for wind ensemble (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Flowers for flute, piccolo flute, oboe, clarinet and piano (1996-97)",
+      "year": "1996-97"
+    },
+    {
+      "title": "Serpentine for solo oboe (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Pater noster for men’s choir and organ (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Impression for string quartet (1997-98)",
+      "year": "1997-98"
+    },
+    {
+      "title": "Concerto for percussion and symphony orchestra (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "String Quartet No. 4 (1998-2003)",
+      "year": "1998-2003"
+    },
+    {
+      "title": "Concerto for violin and orchestra (1999-2000)",
+      "year": "1999-2000"
+    },
+    {
+      "title": "Grande Valse d’anniversaire for piano (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Waltz for piano (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Music in Autumn for clarinet, bells and two small percussions (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Birthday, birthday... for cello solo (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Moment musical V for cello solo (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Musiquette for 2 trumpets and small percussion (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Sonata per due violini (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "La Valse à la main gauche for piano (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "La Valse musette for piano (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "APigram for piano (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Orpheus and Eurydice for soprano, baritone, narrator and chamber orchestra (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Konfiguracje for cello and piano (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Novelette for flute and piano (2006)",
+      "year": "2006"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Mizerska-Golonek Ewa, „Pieśń nad pieśniami” Krystyny Moszumańskiej-Nazar Krystyna Moszumańska-Nazar’s “Song of Songs”], In: Krakowska Szkoła Kompozytorska 1888-1988 [Cracow School of Composers 1888-1988] (ed. by Teresa Malecka), Akademia Muzyczna w Krakowie, Kraków 1992 Helman Zofia, Krystyna Moszumańska-Nazar, In: Komponisten der Gegenwart (eds. Hanns-Werner Heister, Walter-Wolfgang Sparren), edition text + kritik, Munich 1992- Mizerska-Golonek Ewa, Krystyna Moszumańska-Nazar i jej muzyka na perkusję solo [Krystyna Moszumańska-Nazar and her music for solo percussion], in: Muzyka polska 1945-1995 [Polish Music 1945-1995] (eds. Krzysztof Droba, Teresa Malecka, Krzysztof Szwajgier), Akademia Muzyczna w Krakowie, Kraków 1996 Miklaszewska Joanna, Moszumańska-Nazar Krystyna, In: Encyklopedia Muzyczna PWM (część biograficzna pod red. Elżbiety Dziębowskiej), t. „m” [PWM Music Encyclopaedia, biographical part ed. by Elżbieta Dziębowska], vol. “M”, PWM, Kraków 2000 With Waltz in the Background, An Interview with Krystyna Moszumańska-Nazar, \"Ruch Muzyczny\" 2004 nr 18, s. 8-9 Kasperek Katarzyna, Krystyna Moszumańska-Nazar. Katalog tematyczny utworów, Akademia Muzyczna w Krakowie, Kraków 2004",
+  "slug": "moszumanska-nazar-krystyna-en"
+}

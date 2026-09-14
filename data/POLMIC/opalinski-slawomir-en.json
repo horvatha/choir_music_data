@@ -1,0 +1,111 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/o/opalinski-slawomir-en",
+  "title": "Opaliński Sławomir",
+  "name": "Opaliński Sławomir",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "composer and music theorist; b. 4th May 1977 in Zduńska Wola. He graduated from the Primary and Secondary State Music School in Zduńska Wola in the accordion class of Henryk Arendt. In the years 1998-2003 he studied composition and music theory at the Feliks Nowowiejski Academy of Music in Bydgoszcz in the class of Franciszek Woźniak. He has participated in national and international composition competitions. He won the 2nd prize in the Intercollegiate Fugue Competition (2001) and the 3rd prize in the International Musica Sacra Competition for Young Composers in Częstochowa (2002). In 2005 he received an honorable mention at the 15th Biennale of Children's Art \"Cultural contexts of fairy tales\" in Poznań. He principally writes instrumental works scored for chamber ensembles and orchestras, in which he draws on classical forms, however with novel solutions and frequent combinations of acoustic and electronic sound layers. He has also written works for children. His work Time (2016) for percusssion trio was commissioned by the Polish Composers' Union in the \"Composing Commissions\" programme operated by the Institute of Music and Dance. He actively coollaborates with the Kuyavian-Pomeranian Branch of the Polish Composers' Union. He is a cocreator of the New Music International Festival of Contemporary Music in Bydgoszcz, which has been taking place since 2013. updated: 2020 (ac)",
+  "birth": {
+    "place": "Zduńska Wola",
+    "date": "4th May 1977",
+    "raw": "b. 4th May 1977 in Zduńska Wola"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "For Piano and Violin (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Suita for flute, clarinet, piano and two violins (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Chamber Scenes (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Performance for marimba,cello and piano (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Symphonic parts for symphony orchestra (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Passacaglia for flute, French horn, piano, violin, viola and cello (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Three Winter Songs for mezzosoprano and piano, to own texts (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Brightenings for baritone, reciter, mixed choir and symphony orchestra, to texts by Jacek Napiórkowski (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Psalm 144 for mixed choir (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Wandering about dreams electronic composition (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Symphonic Sketches for large symphony orchestra (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Sinfonietta for string orchestra (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Symfonia na wielką orkiestrę symfoniczną (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "The Little Match Girl music to the staging – electronic composition (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Cunterpoints for flute, bassoon, violin, viola, cello and piano (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Four Aleatoric Preludes for piano and electronics (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Pictures of the Moon for saxophone and electronics (2008/09)",
+      "year": null
+    },
+    {
+      "title": "Inside for piano and electronics (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "A Meeting for cello and accordion (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Contrasts for accordion quintet, percussion and electronics (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Time for percussion trio (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Lead for synthesizer, saxophone and electronics (2018)",
+      "year": "2018"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "opalinski-slawomir-en"
+}

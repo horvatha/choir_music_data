@@ -1,0 +1,87 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/s/swoszowski-dariusz-en",
+  "title": "Swoszowski Dariusz",
+  "name": "Swoszowski Dariusz",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "composer and teacher; b. 11th May 1986 in Tarnów. He studied composition with Janusz Stalmierski at the Ignacy Jan Paderewski Academy of Music in Poznań (Bachelors’s degree) and then composition with Andrzej Dziadek, as well as film and theater composition with Krzysztof Olczak at the Feliks Nowowiejski Academy of Music in Gdańsk (Master’s degree). He has collaborated with many artistic groups, including the Strażnicy Idei theatre group, Tarnów Culture Centre, Pueri Cantores Tarnovienses Choir, and Gos.pl Choir in Tarnów. He is the founder of the Film Music Ensemble in Tarnów, which he led in the years 2003-2006. Since 2011, he collaborates with the Polish Film Music Orchestra. In 2007-2012 he co-organized many contemporary and film music concerts, including in Poznań, Gdańsk and Tarnów. In the years 2013-2017 he was teaching theoretical subjects and conducting orchestra at the Primary Music School in Porąbka Uszewska. In 2015, he founded the Crushed Sounds Big Band youth orchestra, which he runs as part of the Muzykalni Association in Porąbka Uszewska. He is an author of educational publications for children and youth in the field of music education. He writes solo, chamber, choral and symphonic works. He introduced a technique that he calls structural aleatorism, which combines elements of aleatorism, sonorism and structuralism, subordinated to the work's expressive structure. His compositions have been performed at concerts and festivals of classical music, including the Talent Week in Tarnów, \"New Sounds of Gdańsk\" Gdańsk Music Festival at the Baltic Philharmonic, and Domosławice Week in Lusławice. updated: 2020 (Agnieszka Cieślak)",
+  "birth": {
+    "place": "Tarnów",
+    "date": "11th May 1986",
+    "raw": "b. 11th May 1986 in Tarnów"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Four miniatures for piano (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Darkness for flute, bass clarinet, viola and cello (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Sakura for violin, cello and piano (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "M-I for symphony orchestra (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "2 Caprices for cello (2009, 2011)",
+      "year": null
+    },
+    {
+      "title": "Potentia Dei for mixed choir a cappella (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Miłość Twa for two soloists, choir and symphony orchestra (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Music for Orchestra (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Multipercussion for two percussionists (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Concerto for cello and orchestra (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Praise The Lord for choir and band (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Ubi Caritas for female choir a cappella (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Oratorium Peregrinus for 3 solo voices, narrator, organ, choir and symphony orchestra (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Misericordias Domini for choir and symphony orchestra (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Independence Cantata \"...only truth and memory\" for vocal ensemble, narrator and orchestra [arrangement of Polish patriotic songs] (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Patriotic Suite \" There was a September \" for 4 solo voices, narrator and orchestra [arrangement of Poish military and partisan songs] (2019)",
+      "year": "2019"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "swoszowski-dariusz-en"
+}

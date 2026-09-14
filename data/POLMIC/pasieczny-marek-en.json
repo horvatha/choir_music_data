@@ -1,0 +1,615 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/p/pasieczny-marek-en",
+  "title": "Pasieczny Marek",
+  "name": "Pasieczny Marek",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Water Colors for 2 guitars (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Two Stories About One Patrick for solo guitar (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Crayons for 2 guitars (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "My Favourite for 2 guitars (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Aquarius for solo guitar (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "The Song for 2 guitars (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Usual Differents for solo guitar (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Journey Variations [1st version] for solo guitar (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Journey Variations [2nd version] for guitar and oboe (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Sonate in Jazz for solo guitar (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "The Fields in Polanówka for solo guitar (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Canticum Zachariae for mixed choir a cappella (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Concertino for guitar and string orchestra (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "La Casa Donde Vive Miedo – Hommage à Joaquin Rodrigo [1st version] for guitar and violin (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Six Hours for solo guitar (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Wrocław Suite for solo guitar (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Ten Sketches for solo guitar (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Harry Potter’s Fantasie for solo guitar (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Toys for 2 guitars (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Youthful Fantasie for guitar and orchestra (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Cichy Zapada Zmrok , the folk song for guitar, tape and voice (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Winter’s Tale [1st version] for guitar and clarinet (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Homenaje a Manuel de Falla for solo guitar (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "„Motion Picture Score”. Concerto for guitar and orchestra [1st version] (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Par Reflechissement de La Musique de Leternite – Louange a l’harmonie for guitar and flute (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "The Rejoicing Quartet for guitar quartet (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Wish for solo guitar (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "American Suite in Four Chapters tribute to harmony for solo guitar (2003, 2006)",
+      "year": null
+    },
+    {
+      "title": "Cool Night Lights for solo guitar (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Grand Harry Potter’s Suite in Twelve Parts for 2 guitars (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "The Tango Impressions Tribute to the art of Astor Piazzolla for solo guitar (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "„Motion Picture Score”. Concerto for guitar and string orchestra [2nd version] (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "The Scotch Triptych for solo guitar (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "The London’s Impression for solo guitar (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Grand Double Concerto for guitar, clarinet and chamber orchestra (2005, 2007)",
+      "year": null
+    },
+    {
+      "title": "Tribute to John T. Williams for solo clarinet (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Hommage à Aleksander Tansman for solo guitar (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Sonata for solo cello (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Sonata „Eastern” for viola and piano (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Winter’s Tale [2nd version] for guitar and soprano saxophone (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Partite in A for solo guitar (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Six Folk Melodies [1st version] for guitar, violin and cello (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "String Quartet No. 1 (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Sketches on Philip Glass [1st version] for clarinet and piano (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Improvisation for guitar and trumpet (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Sketches on Philip Glass [2nd version] for violin and piano (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Sketches on Philip Glass [3rd version] for viola and piano (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Bangerang! for harpsichord and giitar (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Pirates! for 3 guitars (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Sketches on Philip Glass [4th version] for alto saxophone and piano (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Tuba Concerto for tuba and symphony orchestra (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Six Folk Melodies [2nd version] for violin and guitar (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Six Folk Melodies [3rd version] for clarinet and guitar (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "A vida e destino, uma necessidade irrevogavel de Coincidencias (in memory of Stan Getz) for solo guitar (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Awake for electric guitar and computer (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Three Poems for mezzo-soprano, alto and guitar (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Festival Concerto for Two , concerto for 2 guitars and symphony orchestra (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Six Songs based on Wisława Szymborska’s poetry for mezzo-soprano and piano (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Threnody for the Victims of Bełżec 1941-42 for solo guitar solo (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Five Miniatures based on Polish Folk Music for solo guitar (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Concerto for Orchestra for symphony orchestra (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Sonatina for Joseph H. for solo guitar (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Entree at Gavotta for solo guitar (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Surprise for solo guitar (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Essay for Sixteen Players for chamber orchestra, guitar, percussion and harp (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Sequenza for Guitar Solo (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Mays...(maze) for piano and tape (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Polish Dances , suite in 7 movements for brass quintet, inspired by and based on Polish folk music (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Concerto Polacco [1st version] for guitar and orchestra (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Concerto Polacco [2nd version] for 2 guitars and orchestra (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Fantaisie-Impromptu en hommage à Chopin for solo guitar (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Le Parnasse Silesienne for 13-course baroque lute (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Suite Polonaise – celebration du 200e anniversaire de la naissance de Frederic Chopin [1st version] for two pianos eight hands (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Nine Miniatures for solo guitar (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Fantaisie: Celebrating the 200th Anniversary of Fryderyk Chopin’s Birth for piano (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "La Casa Donde Vive Miedo – Hommage à Joaquin Rodrigo [2nd version] for harpsichord and violin (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Six Folk Melodies [4th version] for harpsichord and guitar (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Suite Polonaise – celebration du 200e anniversaire de la naissance de Frederic Chopin [2nd version] for two pianos four hands (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Fantaisie en hommage à Frédéric Chopin for guitar and orchestra (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Songs for piano and cello (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Polish Suite for 2 guitars (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Six Poems for violin and piano (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Little Sonata for solo guitar (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "The Flight of Kikuidataki for solo guitar (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Chaconne for 13-course baroque lute and string quartet (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Travels , miniatures for solo guitar for beginners based or inspired by world traditional/folk music, art and dance (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Sato No Aki , variations for solo gitar based on Japanese folk melody (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Scintilla [1st version] for solo piano (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Scintilla [2nd version] for solo guitar (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Desejo for solo guitar (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Sonata „The Jewish” for solo viola (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "The 五大Go-Dai Concerto (Toru Takemitsu: in memoriam) [1st version] for guitar and orchestra (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "„Sakura No Hana” Variations for 2 guitars (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Lutosławski: in memoriam [1st version] for solo guitar (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Concerto Chaconne for guitar and string quartet (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Hollywood Concerto for guitar and orchestra (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Anamnesis [1st version] for solo guitar (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Anamnesis [2nd version] for solo piano (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "After Brad’s Variations , theme and 10 variations for solo guitar (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Scintilla [3rd version] for 2 guitars (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Spiffy [1st version] for solo guitar (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Spiffy [2nd version] for 2 guitars (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "The 五大Go-Dai Concerto (Toru Takemitsu: in memoriam) [2nd version] for guitar and piano (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Lutosławski: in memoriam [2nd version] for 2 guitars (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Six Folk Melodies [5th version] for guitar and oboe (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Eight Polish Landscapes , suite for 2 guitars (2013/2020)",
+      "year": null
+    },
+    {
+      "title": "Lutosławski: in memoriam [3rd version] for solo piano (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Anamnesis [3rd version] for cello and guitar (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Polish Impressions , 12 easy miniatures for 2 guitars (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Concerto: The Double Portrait , concerto for 2 guitars and symphony orchestra (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "The End Is The Beginning (epitaph on Sir John Tavener) for solo guitar (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Polish Sketches [1st version] for cello and guitar (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Neo Variations (Tribute to John Towner Williams) for solo guitar (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Polish Impressions , suite for pipa and guitar (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "„Sakura No Hana” Variations [extended version] for pipa and guitar (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Sequenza (Alberto Ginastera: in memoriam) for solo guitar (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Phosphenes (after Sylvius Leopold Weiss) for solo guitar (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Polish Impressions , suite for guitar quartet (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Scintilla [4th version] for guitar quartet (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Sonata „Tate” for solo guitar (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Perpetuus (Jack Body: in memoriam) for guitar quartet (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "For Pat (to Pat Metheny) , fantasy for solo guitar (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Vox Sonitus for flute traverso, violin, romantic guitar and viola da gamba (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Sonata „Volante” for marimba and alto saxophone (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Concerto for guitar and string orchestra (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Concerto I, version for guitar and organ (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Four Miniatures for organ and 2 guitars (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Eight Miniatures for piano and guitar (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Winter's Tale [3rd version] for clarinet/soprano saxophone and guitar (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Pokarekare Ana for 2 guitars (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Długoraj and Polak in Seven Fragments, suite for 2 guitars (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Polish Sketches [2nd version] for viola and guitar (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Anamnesis [4th version] for 2 guitars (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Book of Variations for solo guitar (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Ex Nihilo (Nihil Fit) for 2 guitars (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Le-Go! for microtonal guitar (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Dodecaphonic Prelude and Fugue [1st version] for solo guitar (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Dodecaphonic Prelude and Fugue [2nd version] for solo piano (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Ex Nihilo (Nihil Fit) [extended version] for 2 guitars and large guitar ensemble (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Kyoto Sonata for solo guitar (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Seven Jazz Pieces for solo guitar (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "Seven Jazz Pieces [extended version] for 2 guitars (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "Susurrus for 2 guitars (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "Susurrus I for 13-course baroque lute and guitar (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "Susurrus II for 4 violas (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "Susurrus III for solo organ (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "Susurrus IV for guitar trio (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "Untitled (Black and Blood Orange) for solo guitar (2021)",
+      "year": "2021"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Michal Ciesielski, 'Concerto Polacco' na gitarę solo i orkiestrę Marka Pasiecznego , 2013 Marek Nosal, Twórczość kompozytorów polskich na gitarę solo po 1945 roku. Zagadnienia artystyczno-wykonawcze na wybranych przykładach , Wydawnictwo Akademii Muzycznej im. Karola Szymanowskiego, Katowice 2013 Awelina Szumnarska, Marek Pasieczny: porównanie dwóch wieloczęściowych utworów: 'Two Stories' oraz 'Little Sonata' , 2014 Justyna Wisniewska, Literatura dziecięca w twórczości Marka Pasiecznego na wybranych przykładach ,, 2015 Maciej Zieliński, Wpływ twórczości Toru Takemitsu na wybrane utwory Marka Pasiecznego ,, 2019",
+  "slug": "pasieczny-marek-en"
+}

@@ -5,12 +5,12 @@
   "years": "1814−1880",
   "description": "Jacob Edvard Gille was born 10 August 1814, in Stockholm and died there 8 November 1880. He had multiple careers: as a clerk at an auction house for books in Stockholm as well as a musician with ensembles such as the Royal Court Orchestra, at Mindre teatern and with the Catholic Church. Presumably self-taught, Gille composed music of many genres − from songs to musical dramas and symphonies.",
   "birth": {
-    "place": null,
+    "place": "Stockholm",
     "date": "10 August 1814",
-    "raw": "born 10 August 1814"
+    "raw": "born 10 August 1814, in Stockholm and died"
   },
   "death": {
-    "place": null,
+    "place": "Stockholm",
     "date": "8 November 1880",
     "raw": "died there 8 November 1880"
   },

@@ -1,0 +1,215 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/k/krajewski-sebastian-en",
+  "title": "Krajewski Sebastian",
+  "name": "Krajewski Sebastian",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Rondo na dwa fortepiany (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Trzy obrazy na fortepian (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Suita tańców baśniowych na fortepian (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Dwie pieśni do słów Haliny Poświatowskiej na sopran i zespół kameralny (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Z życia wędrownego czarodzieja na głos solowy i zespół kameralny (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Les nuits d’amour na flet, skrzypce i fortepian lub klawesyn (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Preludium w skali Śri na akordeon, wiolonczelę i instrumenty indyjskie (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Sonata na fortepian (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "O świcie, w Twoich oczach na flet, saksofon altowy i fortepian (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Terra Magica I: Lasy pod Zimnym Słońcem na orkiestrę (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Suita morska na dwa głosy solowe i zespół kameralny (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Missa pro frater meus na cztery głosy solowe, chór i orkiestrę (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Tryptyk na fortepian (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Cztery mazurki na fortepian (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Sonata na flet prosty i klawesyn (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Kwartet smyczkowy (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Four Poems of Rabindranath Tagore na sopran lub tenor i fortepian (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Concerto grosso nr 1 na orkiestrę smyczkową i basso continuo (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Trzy pieśni do słów Bolesława Leśmiana na mezzosopran lub baryton i fortepian (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Siedem fragmentów z Michaela Endego na orkiestrę (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Pamięć na skrzypce i fortepian (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "two poems of e.e. cummings na chór a capella (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Concerto grosso nr 2 na orkiestrę smyczkową i basso continuo (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Koncert na obój i orkiestrę smyczkową (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Dwie pieśni do słów Jacka Dehnela na sopran i zespół instrumentów dawnych (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Dyptyk Polski do słów Adama Zagajewskiego na sopran i zespół instrumentów dawnych (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Łąki Burgundii do słów Adama Zagajewskiego na sopran i zespół instrumentów dawnych (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Missa Minima na głos i organy (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Souvenirs d’Ariège na fortepian i orkiestrę (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Cztery scenki z dawnych Chin na orkiestrę smyczkową (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Fin'amor , śpiewogra na głosy solowe, aktorów, chór i zespół instrumentów dawnych (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Stabat mater na głos i orkiestrę smyczkową (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Muzyka dla teatru dramatycznego:",
+      "year": null
+    },
+    {
+      "title": "Wszystko dobre, co się dobrze kończy w reż. Piotra Cieślaka (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Muzyka do filmów fabularnych:",
+      "year": null
+    },
+    {
+      "title": "Na dobre i na złe w reż. Grzegorza Lewandowskiego, Kordiana Piwowarskiego, Adama Guzińskiego, Jose Iglesiasa Vigila, Jarosława Marszewskiego, Katarzyny Łęckiej, Sary Bustamante-Drozdek (1999-2022)",
+      "year": "1999-2022"
+    },
+    {
+      "title": "M jak miłość w reż. Krzysztofa Łukaszewicza, Kingi Lewińskiej, Marcina Krzyształowicza, Michała Wnuka, Sylwestra Jakimowa (2000-2022)",
+      "year": "2000-2022"
+    },
+    {
+      "title": "Zróbmy sobie wnuka w reż. Piotra Wereśniaka (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Rezerwat w reż. Łukasza Palkowskiego (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Małgosia contra Małgosia w reż. Patrycji Hurlak (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Amanecer de un sueno w reż. Freddy’ego Mas Franquezy (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Miszmasz, czyli kogel-mogel 3 w reż. Kordiana Piwowarskiego (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Muzyka do filmów dokumentalnych:",
+      "year": null
+    },
+    {
+      "title": "Księżniczka na ziarnku grochu w reż. Lucyny Michałowskiej (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "W. jak Witold Pyrkosz w reż. Waldemara Szarka (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Bitwa o Warszawę ’44 w reż. Wandy Kościa (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Tajemnica M jak miłość w reż. Łukasza Kołodzieja (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Śladami Graala w reż. Ireneusza Dobrowolskiego (2013)",
+      "year": "2013"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "krajewski-sebastian-en"
+}

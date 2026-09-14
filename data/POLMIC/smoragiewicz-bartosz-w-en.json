@@ -1,0 +1,107 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/s/smoragiewicz-bartosz-w-en",
+  "title": "Smorągiewicz Bartosz W.",
+  "name": "Smorągiewicz Bartosz W.",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": "saxophonist and composer; b. 22nd January 1978 in Żagań. He studied clarinet with Zdzisław Nowak at the Academy of Music in Poznań as well as saxophone with Leszek Żądło and composition with Chris Beier (diploma in 2005 and postgraduate studies with the same composer in 2006) at the Hochschule für Musik Würzburg. During his studies in Germany he won a scholarship from the Leni Geisler Stiftung (2004). He developed his abilities at the legendary BMI Jazz Composers’ Workshop initiated by Bob Brookmayer and currently continued by Jim McNeely. As one of about a dozen musicians from all over the world invited by the organisers to participate in the workshops, he spent one-and-a-half years studying in New York. Bartosz Smorągiewicz has won awards in several competitions for composers. Having won the competition held by the American organisation Meet The Composer, he obtained a grant for the project Diaspora Crossings (a concert cycle in New York) created with the Japanese musicians Nobuko Miyazaki, Emi Inaba, Yoko \"Layio\" Nakahashi, as well as the Polish cellist Izabela Buchowska (2009). In 2003 he won the 1st prize (for jazz themes) in the 4th International Krzysztof Komeda Composers’ Competition in Słupsk and in 2011 – 3rd prize (in the category: open) in the same competition. His compositions have been performed by such orchestras as: the Warmia-Mazury Philharmonic Orchestra, the Würzburger Jazz Orchestra, the Big Band of the Hochschule für Musik Würzburg, Big Band Akwarium, Big Band Konglomerat, 3275kg Orchestra, the Big Band of the Academy of Music in Poznań and the Big Band of the Fryderyk Chopin University of Music in Warsaw. Bartosz Smorągiewicz’s versatile musical activity ranges from jazz to classical music to pop to various instrumental line-ups. In 2008 he was commissioned to write music for the 10th anniversary of the International Chopin and Friends Festival. The composition was premiered by the composer (on saxophone) and a string quartet during the Festival in New York. During the 2012 Festival of Scandinavian Films \"Through a Glass Darkly\" in Warsaw’s Luna Cinema the artist performed his own music illustration for Theodor Dreyer’s silent movie Michael live with his ensemble. In 2014 the composer was granted a ZAiKS Fund for the Support of Artistic Creation grant to compose a concerto for saxophone and string orchestra. In 2015 his cycle Entertaining Mazurkas for violin and cello was commissioned by the \"Harmonies and Noises\" Music Foundation as part of the \"Collections – Composing Commissions\" programme implemented by the Institute of Music and Dance. The composition was premiered on 19th July 2015 in Dębno Castle during the Emanacje Festival and repeated at the Sphere of Silence - Royal Łazienki Music Festival in Warsaw and the Janowiec Music Interpretations. Bartosz Smorągiewicz has performed in Europe and America as a saxophonist, clarinettist and flutist. He has given concerts at such jazz music festivals as the Tokyo Jazz Festival, the International Chopin and Friends Festival in New York, the Bayerisches Jazzweekend in Regensburg, the Heilbronner Jazztage, the Würzburger Gitarrentage, the Django Festival in Burgthann, Jazztage Gaggenau, Dreszer Jazz in Warszaw, the Old Town Jazz Concerts and Chamber Music Concerts in Poznań, the Manu Summer Jazz Sundays in Łódź, the Telemann Festival in Żary, the Tauron New Music Festival in Katowice, Two Riversides Art and Film Festival in Kazimierz Dolny, the Katowice Art Naif Festival, the Goodfest Polish New Music Festival in Dębica, and the European Stadium of Culture in Rzeszów. He has shared the stage with such outstanding musicians as Jim McNeely, Christian Fabian, Steve Hunt, Lewis Robinson, Hans Peter Salentin, Krzysztof Szmańda, Piotr and Zbyszek Wrombel, Jacek Pelc, Bartosz Hadała, Andrzej Święs, and Paweł Pańta. Smorągiewicz founded the Bartosz Smorągiewicz Quartet, and later – the Bartosz Smorągiewicz Gypsy Jazz Ensemble, with which he frequently appeared at festivals. As a member of the Propabanda Smorągiewicz band he reached the semi-finals of the 5th Must Be the Music . Currently residing in Warsaw, Smorągiewicz divides his time between composition and teaching. He is the composer-in-residence for Big Band \"Konglomerat\" and 3275kg Orchestra, which perform both his arrangements of well-known pieces and works specially composed for them by Smorągiewicz. The artist dedicates much time to the education of young talented musicians. He is a saxophone, clarinet and flute teacher at the \"Music Academy\" Private Primary Music School. updated: October 2015 (wa)",
+  "birth": {
+    "place": "Żagań",
+    "date": "22nd January 1978",
+    "raw": "b. 22nd January 1978 in Żagań"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Rehański for jazz quintet (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "For Izabela for jazz quintet (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Blues for jazz quintet (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Bartosz Tune for jazz quintet (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Blue Circle for Big Band (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "And If You Knew, You'd Never Do It for Big Band (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Dreams of Tomorrow for jazz septet (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Dreams of Tomorrow for Big Band (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Eldorado for Big Band (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Two Smile for Big Band (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Reflexions: Suite of Light for clarinet or flute or saxophones and string quartet (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Bagatelles for solo cello (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Variations on the Theme of the Christmas Carol \"Przybieżeli do Betlejem\" for solo cello (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Two Minutes to Midnight for Big-Band (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Deep Endeavour for symphony orchestra (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Entertaining Mazurkas for violin and cello (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Dance Symphony for jazz orchestra (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Music for the film Wszystko przed nami [ All Is Still Ahead ], dir. Piotr Wereśniak ( September in Lublin , Mazel Tov , A French Impression , A Busy Street ) (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Muzyka do filmu niemego Mistrz w reż. Theodora Dreyera (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Music for the spectacle Eighth Wonder of the World , dir. Maciej Wilewski (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Music for the spectacle Beauty and the Beast , dir. Ewa Sokół-Malesza (2014)",
+      "year": "2014"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "smoragiewicz-bartosz-w-en"
+}

@@ -1,0 +1,119 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/r/rau-krzysztof-en",
+  "title": "Rau Krzysztof",
+  "name": "Rau Krzysztof",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "composer; b. 21st November 1995 in Białystok. A graduate and PhD student at the Karol Lipiński Academy of Music in Wrocław in the composition class of Agata Zubel-Moc and Marcin Rupociński. He participated in workshops and master classes with, among others, Ondreż Adamek, Marta Ptaszyńska, Mauricio Sotelo, Johannes Kreidler, Marcin Stańczyk and Conrado Xalabarder. He is a scholarship holder of the Minister of Culture and National Heritage. His works were performed in Poland and abroad, among others in Sweden, Belgium and the Netherlands, at various international festivals such as Saxå Kammarmusikfestival, Klarafestival, Wonderfell, and Musica Electronica Nova. He took part in the international Music Master of Air project, organized by the European Festivals Association and co-organized by the National Forum of Music, and in many theater and audiovisual projects of the Academy of Theatre Arts in Wrocław as well as the Academy of Fine Arts in Wrocław. updated: 2020 (ac)",
+  "birth": {
+    "place": "Białystok",
+    "date": "21st November 1995",
+    "raw": "b. 21st November 1995 in Białystok"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Three Variations for 2 prepared pianos, violin and cello (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Tale for accordion, 2 cellos and 2 double basses (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "The Brushwood for woodwind octet (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "There came one hear to say… for female octet (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Pantoptikum for symphony orchestra (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Lullaby for electronics (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Rowr for bicycle, video, electronics and cello (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Three Cooperative Etudes for female voice, clarinet, trombone, tuba, piano and cello (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Foam for vocal quartet and narrator (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Nice Notes for disclavier, electronics and video (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Amblike for electronics (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Three blind sisters for accordion solo (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Anchor for electronics (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Adeth for chamber orchestra (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Ten Scenes from Tobaro for wind orchestra and electronics (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Isintu for electric violin, djembe, recorder, synthesizers and video (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Nic_nie_zrobimy_wideo.avi for electronics, video and home instruments (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Caupona for 2 cellos (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Music for film Syzyfy dir. by Jan Gruszka",
+      "year": null
+    },
+    {
+      "title": "Music for film Kapuś dir. by Yulia Pomorova",
+      "year": null
+    },
+    {
+      "title": "Music for the spectacle Miłość dir. by Cezary Iber",
+      "year": null
+    },
+    {
+      "title": "Music for the spectacle Siksy dir. by Cezary Iber",
+      "year": null
+    },
+    {
+      "title": "Music for the spectacle Homeland dir. by Dorota Bator",
+      "year": null
+    },
+    {
+      "title": "Music for the spectacle Smacznego proszę Wilka! dir. by Katarzyna Hora",
+      "year": null
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "rau-krzysztof-en"
+}

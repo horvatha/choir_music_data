@@ -1,0 +1,195 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/s/skrzypczak-bettina-en",
+  "title": "Skrzypczak Bettina",
+  "name": "Skrzypczak Bettina",
+  "occupation": "composer, musicologist",
+  "is_composer": true,
+  "description": "composer and musicologist. Born on 25 January 1963 in Poznań, she studied composition (with Andrzej Koszewski) and theory of music at the Academy of Music in Poznań. In 1988 she left for Switzerland to study electronic music with Thomas Kessler and composition with Rudolf Kelterborn at the Music Academy in Basel and musicology at the University of Fribourg. She took part in a few editions of the International Summer Courses for Young Composers in Kazimierz Dolny, held by the Polish Society for Contemporary Music, studying with composers: Henri Pousseur, Luigi Nono, Witold Lutosławski, Iannis Xenakis, and Hans-Peter Haller. Currently, she is a member of the board of the Boswil Foundation, while her journalistic work facilitates Polish-Swiss cultural exchange. Since 1995 she has been teaching at the conservatoire in Lucerne. She received her doctoral degree in composition from Academy of Music in Kraków in 1999. In 2002 she was appointed professor of the Academy of Music in Lucerne. She run workshops and delivered lectures in Boswil (1999), Warsaw (2003), and Darmstadt (2004). Bettina Skrzypczak has received commissions form Venice Biennale of Art, Warsaw Autumn, Radio DRS, Pro Helvetia Foundation, Gesellschaft für Kammermusik in Basel, Basler Sinfonietta, Basler Madrigalisten, Tage für neue Musik, French Ministry of Culture, Bavarian Opera, and Migros-Genossenschaftsbund in Zurich. She is an award-winning composer. In 1988 she received a prize at a competition in Zagreb for Verba for orchestra (1987), in 1990 – a prize at the Tadeusz Baird Competition for Young Composers for Trio <-em>for percussion (1990), in 1992 – honourable mention at the International Rostrum of Composers in Paris for String Quartet No. 2 (1991), and in 1994 – honourable mention at a competition in Mannheim for <-em> Variabile for orchestra (1991). In 1996 she was presented with the cultural award of the City of Basel, in 2001 – an award of the Canton and City of Lucerne, and in 2004 – an award of the culture section of the city of Riehen for her cultural and artistic achievements. Bettina Skrzypczak lives in Riehen, near Basel, Switzerland. The composer's website: www.bettina-skrzypczak.com",
+  "birth": {
+    "place": "Poznań",
+    "date": "25 January 1963",
+    "raw": "Born on 25 January 1963 in Poznań,"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "String Quartet No. 1 (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "What Is Black, What Is White? for percussion duo (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Verba for orchestra (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "ABC for tape (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Trio for percussion (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "String Quartet No. 2 (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Variabile for orchestra (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Landschaft des Augenblicks , five songs for mezzo-soprano, viola and piano (1991-92)",
+      "year": "1991-92"
+    },
+    {
+      "title": "Notturno for flute (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Caleidoscopio for string orchestra (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "String Quartet No. 3 (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Nonet for brass instruments (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Acaso for choir, clarinet, cello and percussion (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Decision for wind octet dęty and double bass (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "SN 1993 J for orchestra (1994-95)",
+      "year": "1994-95"
+    },
+    {
+      "title": "Concerto for oboe and orchestra (1995-96)",
+      "year": "1995-96"
+    },
+    {
+      "title": "Fantasie for oboe solo (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Concerto for piano and orchestra (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Toccatta sospesa for flute and two percussions (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Miroirs for mezzo-soprano and chamber ensemble (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Arcato for viola solo (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Mouvement for flute solo * (2000) (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Mazurka for accordion solo (2000) (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Scène for violin and cello (2001) (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Cercar for prepared guitar solo (2001) (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Vier Figuren for ensemble (18 musicians) in three groups (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Daphne's Song for piano (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Amoureske for viola d’amore (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Phototaxis for string orchestra (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Weissagung – eine komponierte Improvisation für das \"quartet noir\" for piano, double bass, saxophone and percussion (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "In un soffio for wind quintet (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "String Quartet No. 4 (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Lettres for soprano, clarinet and cello (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Aria for 2 bass saxophones (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Initial for small orchestra (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Flash for percussion solo (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "anomalia Lunae media for soprano, baritone and 15 instruments (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Illuminations for clarinet, cello and piano (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Aus der Ferne for cello and piano (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "…e subito parlando for piano and wind quintet (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "As to Feeling for string ensemble (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Oracula Sibyllina for mezzo-soprano and chamber orchestra (in 3 groups) (2014-15)",
+      "year": "2014-15"
+    },
+    {
+      "title": "Szene 2 for violin and cello (2015)",
+      "year": "2015"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "skrzypczak-bettina-en"
+}

@@ -1,0 +1,227 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/d/domagala-jacek-en",
+  "title": "Domagała Jacek",
+  "name": "Domagała Jacek",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": "composer, pianist and organist; b. 19th August 1947 in Szczecinek. He studied composition with Witold Szalonek, piano under the supervision of Olga Dąbrowska and organ with Heinz Wunderlich. Having received the Oscar and Vera Ritter-Stiftung scholarship in Hamburg, he participated in master classes conducted by György Ligeti. He is the winner of the Boris Blacher prize in Berlin, the George Mufat prize in Salzburg and the Beethoven Prize of the city of Bonn. His works include choral, vocal- instrumental, orchestral, solo and chamber music. He also performed as a pianist, specializing in chamber and vocal music, and as an organist, playing concerts of J.S. Bach music in Germany, Switzerland, Poland and Denmark. Currently Jacek Domagała lives and works in Berlin. updated: 2020 (ac)",
+  "birth": {
+    "place": "Szczecinek",
+    "date": "19th August 1947",
+    "raw": "b. 19th August 1947 in Szczecinek"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Three Polish Melodies for piano (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Cantique for organs (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Priere for organs (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Continuum for string orchestra (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Ave Maria Stella for organs (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Three Preludes for piano (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Chorale for symphonic orchestra (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "For Five for string orchestra (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "String Quartet No. 1 (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Chamber Music for solo instruments and percussion (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Pater Noster for mixed choir a cappella (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Triptych for symphonic orchestra (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Magnificat for mezzo-soprano and large orchestra (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Et Vidi Angelum Descedentem de Caelo for 8 male voices a cappella (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Four Short Pieces for symphonic orchestra (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Sonata No. 1 for piano (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Two Pieces for symphonic orchestra (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Psalm 25 for mixed choir a cappella (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Three Miniatures for piano (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Splinters for flute, cello and piano (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Five Little Pieces for piano (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Segments for symphonic orchestra (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "String Quartet No. 2 (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Three Inventions for piano (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Sonata No. 2 for piano (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Colors for string orchestra (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Two Pieces for string orchestra (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Mourning for cello and organs (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Crystals for flute, clarinet, violin, viola, cello and piano (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Concertino for piano and 8 wind instruments (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Elegy for voice, clarinet, trumpet, trombone, violin, viola, cello and bells to words by Krzysztof Kamil Baczyński (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Flashback for solo cello (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "String Quartet No. 3 (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Laudate Dominum for mixed choir a cappella (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Three Songs for voice and piano (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Structures for symphony orchestra (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Vitrail for piano (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Nocturne for mixed choir and piano (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Vier Dialoge for flute and string orchestra (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Normandie for symphonic orchestra (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Psalm for voice and string quartet (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Changements for cello solo (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Outrenoir for flute and piano (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Melting of Ice for symphonic orchestra (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Prism for piano and symphonic orchestra (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Traces for string quartet (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Current for cello and clarinet (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Variations for string orchestra and piano on Adagio from Ludwig van Beethoven’s Op. 131 String Quartet (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Ave Maria for mixed choir a cappella (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Cassiopee II for flute and piano (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "C-19 for chamber orchestra (2020)",
+      "year": "2020"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "domagala-jacek-en"
+}

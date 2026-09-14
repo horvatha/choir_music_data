@@ -1,0 +1,555 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/b/bauer-jerzy-en",
+  "title": "Bauer Jerzy",
+  "name": "Bauer Jerzy",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "composer; b. 12th May 1936 in Łódź; d. 11 January 2025. He studied music theory (graduated in 1959), conducting (graduated in 1961) and composition with Thomas Kiesewetter (graduated in 1966) at the State Higher School of Music in Łódź. In 1969-70 he studied with Nadia Boulanger in Paris. In the years 1959-60 he worked at the State School of Music in Łódź, whereas in 1960 he began teaching at the State Higher School of Music in Łódź. In 1979 he was appointed an assistant professor, in 1987 – an associate professor, and in 1992 – a full professor. Between 1980-98 he served as a head of the Faculty of Composition, Music Theory and Eurhythmics, and since 2000 he had led the Department of Music Theory. At the same time - between 1990 and 1996 – he held the post of dean of the Faculty of Composition, Theory, Music Education and Eurhythmics. In 1989-91 he served as Vice-President of the Board of the Polish Composers' Union. Jerzy Bauer’s works have been performed at numerous concerts and festivals, including International Festival of Contemporary Music \"Warsaw Autumn\" and Festival of Polish Contemporary Music \"Musica Polonica Nova\" in Wrocław. He was awarded many prizes and distinctions in competitions for composers: in 1970 he received the 3rd prize at the Composition Competition in Gdańsk for Wind Trio No. 1 for oboe, clarinet and bassoon (1964), in 1971 – an honourable mention at the Grzegorz Fitelberg Composition Competition in Katowice for Aetatis Mediaa Sculpturae for mixed choir, boys 'choir and symphony orchestra (1970-71), in 1973 – an honourable mention at the Karol Szymanowski Composition Competition in Katowice for Symphonic Pulsations for large symphony orchestra, 2 electric guitars and organ, in 1984 - 2nd prize at the National Competition for Composers in Białystok for Jubilate e la danza polacca for symphony orchestra (1984) and 3rd prize at the National Composition Competition in Łódź for Three Ballads for guitar (1983), in 1985 – 1st prize at the National Competition for Composers in Kamień Pomorski for Accende lumen sensibus for organ (1985), in 1988 - Bronze Medal at the 31st Concours International de Guitare organized by Radio France in Paris for Colors and Rhythms of Movement for guitar (1989), and in 1991 – 1st prize at the Wawrzyniec Żuławski National Competition in Warsaw for Countryside Painting for soprano (mezzosoprano) and piano (1991). In 1980 Jerzy Bauer was awarded the Knight's Cross of the Order of Polonia Restituta, in 2005 – Officer's Cross of the Order of Polonia Restituta, and in 2006 - Silver Medal of \"Merit to Culture – Gloria Artis\".",
+  "birth": {
+    "place": "Łódź",
+    "date": "12th May 1936",
+    "raw": "b. 12th May 1936 in Łódź"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Dithyramb in Honour of Peace for children’s or female choir and piano (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "3 Songs for soprano and piano (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Humoresque for 4 trombones (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Woodwind Trio No. 1 for oboe, clarinet and bassoon (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Quarta Rondo for clarinet and piano (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Suite for string orchestra (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Divertimento [version I] for percussion and 2 pianos (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Divertimento [version II] for 4 hands (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Suite-grotesque for small symphony orchestra (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Ouverture in Hungarian Style for large symphony orchestra (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "West, South, North for children's choir and percussion (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Woodwind Trio \"Metamorphoses\" for oboe, clarinet and bassoon (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Red and Black for piano and orchestra (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Toccatina for clarinet and piano (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "3 Conceptions for large symphony orchestra (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Marine Expressions for piano (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Song of the Soldiers of Westerplatte for mixed choir (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Suite for piano (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Mixtures for chamber ensemble (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Children’s Suite for 2 flutes (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Introduction and 3 Prayers for Peace for string orchestra (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Aetatis Mediae Sculpturae for mixed choir, boys’ choir and large symphony orchestra (1970-71)",
+      "year": "1970-71"
+    },
+    {
+      "title": "Creating the World for percussion instruments (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Song on a June Night for baritone and piano (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "3 Laments for baritone and piano (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "3 Essays for violin and piano (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Da suonare for clarinet and piano (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "3 Re-constructions for piano (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Crying Monument , cantata for mixed choir and large symphony orchestra (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Polish Toccatina for piano (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Reminiscenze for organ (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Symphonic Pulsations for large symphony orchestra, 2 electric guitars and organ (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Invocazioni for violin and piano (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Contemplazione in do for piano (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Warsaw Nike for large symphony orchestra (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Musica in do for chamber string ensemble (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "3 Kurpie Songs for cello and piano (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Ballad on a Miracle [version I] for voice and piano (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Ballad on a Miracle [version II] for voice and guitar (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Preludes and a Polish Dance for violin and piano (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Eleusinian Mysteries for flute and piano (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Sonospheres for piano and orchestra (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "2 Religious Folk Art Sculptures for oboe and guitar (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Diatonic Mosaic for trumpet and piano (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Pentatonium for organ (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Racconto di una chitarra for guitar (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "3 Songs for mezzosoprano and piano (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Pensiero per la chiusura for guitar (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Preludio, e Passacaglia ballante for 2 guitars (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Oberka Variations for cello and orchestra (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "7 Notes In Honour of Wanda Landowska for harpsichord (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Choral Fantasy on a Theme of Lutheran Chorale \"Ein feste Burg ist unser Gott\" for organ (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Concertino for violin and orchestra (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "3 Little Passacaglias for oboe and piano (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "3 Songs for baritone and piano (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "3 Winter Fragments for violin and piano (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Polish Dance 80 for large symphony orchestra (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "4 Improvisations for guitar (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "3 Old Polish Passion Songs for organ (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Birth of Little Passacaglia for chamber orchestra (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Sonata in One Movement for cello and piano (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Music in Two Movements for oboe, clarinet and bassoon (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Poems on Karol Szymanowski for children’s choir and string ensemble (chamber orchestra) (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Proverbs from Fenis for mixed choir (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "For Death of a Familiar Pine for 3-voice children’s choir (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Passacaglia for piano (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "3 Ballads for guitar (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Forest Concerto , performance for large symphony orchestra, 2 violins, children’s choir, ballet and narrator (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Dialoguing Monologues for guitar and flute (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Highland Paper-cut for 2 cellos (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Jubilate e la danza polacca for symphony orchestra (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Colours of Space trio for flute, cello and piano (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Tarantella for horn and piano (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Concerto per violoncello e orchestra (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Accende lumen sensibus for organ (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Lullaby for piano (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "An Event for percussion (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Musica per quattro flauti (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Les images du mouvement for harpsichord and guitar (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Un désire for choir a cappella (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "3 Primitivi for cello and piano (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Bright Twittering for flute and orchestra (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "A Postcard from the Mountains for 2 pianos (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Play for moods for string quartet (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Missa pagana for baritone solo, mixed choir, 3 flutes, guitar and piano (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Libera me Domine for string sextet and organ (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Ritornello e choro for violin and orchestra (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Colours and Rhythms in Movement for guitar (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "And yet Habanera ... (Maurice Ravel’s 115th birth anniversary) for harpsichord and guitar (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Play serious to make fun for flute, guitar and accordion (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Rustic Colouring Books for soprano (mezzosoprano) and piano (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Trio No. 1 for piano, violin and cello (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Variations in Search of a Theme for cello (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Arethusa’s Jubilee Improvisation for guitar (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Epitaph for Witold Lutosławski for violin, cello and piano (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Golden Ouverture for horn septet (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Trio No. 2 \"La serieta e leggerezza\" for violin, cello and piano (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Concertino for guitar and chamber orchestra (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Trio \"Musikalische Stimmung und Scherz\" for alto flute and guitar (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Variations by means of BACHCABACHAB for guitar seul (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Duo concertante for guitar duo and symphony orchestra (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Chant from the Mountains for cello and piano (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Eschatological Contemplation (Bernard Pietrzak in memoriam) for organ (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "A Cycle of Miniatures for children and the Young with Elements of Improvisation for piano (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "BACHCAB for organ (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "4 Moments musicaux for guitar (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Resonances and Rhythms for oboe and piano (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Oh, Native Tongue for 4-voice children’s choir (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Fanfares, Bells and Glockenspiel for piano and symphony orchestra (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Moment musicaux for violin and piano (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Why Does the Cucumber Never Sing? for mezzosoprano and piano (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Song Cycle to the words by Wisława Szymborska for mezzosoprano and piano (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Stylizations for 2 accordions (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Dualistyl [version I] for oboe and piano (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "This for cello and piano (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Wigry Caprice for bassoon and piano(2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Libera me Domine de morte for brass quintet and organ (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Two Stylizations for mixed choir a cappella (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Daemones for baritone and piano (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Divertimento w 3 kawałkach for 2 pianos (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Memento for trumpet and piano (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Zderzenia z balladą for trumpet and organ (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Trzy mini passacaglie for trumpet and piano (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Dualistyl [version II] for trumpet and piano (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Dualistyl [version III] for trumpet and organ (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Oscillations for cello and piano (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Cello Concerto No. 2 for cello and orchestra (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Wenus for mezzo-soprano and piano (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Koniugacja for mezzo-soprano and piano (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "A Postcard from the Mountains for guitar octet (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "BisGit for guitar octet (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Musica in do for 8 or 9 cellos (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Akwarela dla dwóch for flute and cello (2017)",
+      "year": "2017"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Kowalska-Zając Ewa, Bauer Jerzy, PWM, Kraków 1998 Kowalska-Zając Ewa, Bauer Jerzy, Akademia Muzyczna w Łodzi, Łódź 2001",
+  "slug": "bauer-jerzy-en"
+}

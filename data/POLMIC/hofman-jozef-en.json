@@ -1,0 +1,107 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/h/hofman-jozef-en",
+  "title": "Hofmann Józef",
+  "name": "Hofmann Józef",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Wariacje i fuga op. 14 na fortepian (1892)",
+      "year": "1892"
+    },
+    {
+      "title": "2 morceaux op. 15 na fortepian (1892)",
+      "year": "1892"
+    },
+    {
+      "title": "Mazurki op. 16 na fortepian (1892)",
+      "year": "1892"
+    },
+    {
+      "title": "Andante i Presto op. 17 na fortepian (1892)",
+      "year": "1892"
+    },
+    {
+      "title": "Durch die Wolken op. 18 na fortepian (1893)",
+      "year": "1893"
+    },
+    {
+      "title": "5 morceaux op. 20 na fortepian (1893)",
+      "year": "1893"
+    },
+    {
+      "title": "Sonata fortepianowa F-dur op. 21 (1893)",
+      "year": "1893"
+    },
+    {
+      "title": "3 morceaux op. 22 na fortepian (1894)",
+      "year": "1894"
+    },
+    {
+      "title": "2 compositions op. 23 na fortepian (1896)",
+      "year": "1896"
+    },
+    {
+      "title": "Sonata fortepianowa op. 24 (1897)",
+      "year": "1897"
+    },
+    {
+      "title": "Novelette Fis-dur op. 27 na fortepian (1897)",
+      "year": "1897"
+    },
+    {
+      "title": "Novelette A-dur op. 28 na fortepian (1897)",
+      "year": "1897"
+    },
+    {
+      "title": "Valse caprice op. 53 na fortepian (1902)",
+      "year": "1902"
+    },
+    {
+      "title": "8 préludes op. 30 na fortepian (1903)",
+      "year": "1903"
+    },
+    {
+      "title": "Scènes de ballet op. 33 na fortepian (1903)",
+      "year": "1903"
+    },
+    {
+      "title": "Charakterskizzen op. 40 na fortepian (1908)",
+      "year": "1908"
+    },
+    {
+      "title": "3 impressions na fortepian (1915)",
+      "year": "1915"
+    },
+    {
+      "title": "Symfonia E-dur (1916)",
+      "year": "1916"
+    },
+    {
+      "title": "Chromaticon na fortepian i orkiestrę (1916)",
+      "year": "1916"
+    },
+    {
+      "title": "The Haunted Castle , poemat symfoniczny na orkiestrę (1918)",
+      "year": "1918"
+    },
+    {
+      "title": "Polonaise na fortepian (ok. 1888)",
+      "year": null
+    }
+  ],
+  "publications": null,
+  "bibliography": "Popis Jan, Hofman Józef , w: Encyklopedia Muzyczna PWM (część biograficzna pod red. Elżbiety Dziębowskiej), t. „hij”, PWM, Kraków 1993 Konarkowska-Juszyńska Krystyna, Działalność pedagogiczna Józefa Hofmana , w: Muzyka fortepianowa X (pod red. Janusza Krassowskiego), Akademia Muzyczna w Gdańsku, Gdańsk 1995 Dybowski Stanisław, Hofman Józef , w: Słownik pianistów polskich , Selene, Warszawa 2003 Jan Żdżarski, Józef Hofmann - geniusz zapomniany: dzieciństwo i młodość , Bielsko-Biała, \"Sto\", 2003 Krystyna Juszyńska, Józef Hofmann - Pianista - Kompozytor - Wynalazca , Warszawa, Chopin University Press, 2023",
+  "slug": "hofman-jozef-en"
+}

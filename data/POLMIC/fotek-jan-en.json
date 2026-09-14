@@ -1,0 +1,267 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/f/fotek-jan-en",
+  "title": "Fotek Jan",
+  "name": "Fotek Jan",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "composer; b. 28th November 1928 in Czerwińsk on the Vistula. He studied composition - first with Stanisław Wiechowicz at the State Higher School of Music in Cracow (1952-53), and later with Tadeusz Szeligowski at the State Higher School of Music in Warsaw (1953-58). Jan Fotek's works have won numerous prizes, including: in 1959 - an honourable mention in the Young Composers' Competition of the Polish Composers' Union for Symphony No. 2 (1959); in 1969 - a prize in the Grzegorz Fitelberg Competition for Composers in Katowice for Epitasis for orchestra (1967); and in 1971 - a prize in the Feliks Nowowiejski Competition in Gniezno for Variations on a Given Theme for children's choir (1971). He was also granted the Prime Minister's Award for works for children and young people (1973). In 1977, he received Friar Albert's Award for his sacred music.",
+  "birth": {
+    "place": "Czerwińsk on the Vistula",
+    "date": "28th November 1928",
+    "raw": "b. 28th November 1928 in Czerwińsk on the Vistula"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Trio for clarinet, violin and piano (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "Symphony No. 1 (1958)",
+      "year": "1958"
+    },
+    {
+      "title": "Opus concertante I for organ, piano and percussion (1959)",
+      "year": "1959"
+    },
+    {
+      "title": "Symphony No. 2 (1959)",
+      "year": "1959"
+    },
+    {
+      "title": "Poesia con musica - Niobe for reciting voices, choir and orchestra (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "String Trio for violin, viola and cello (1961)",
+      "year": "1961"
+    },
+    {
+      "title": "Categories for strings, harp, celesta and percussion (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Three Laudi for mixed choir (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Gregorian Hymn for mixed choir and orchestra (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "A Poem Cycle for children’s choir and orchestra (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Partita concertante for organ (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Painted Figures for vocal-instrumental ensemble (1964-65)",
+      "year": "1964-65"
+    },
+    {
+      "title": "Ode for mixed choir, solo voices and orchestra (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Children's Miniatures for 2 pianos and percussion (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Apostrophes for baritone and two pianos (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Trimorphie for 3 flutes, harpsichord and prepared piano (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "String Quartet No. 1 (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Verbum for mixed choir, organ, 2 pianos and percussion (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "A Sea of Rediscovered Unity , a radio opera (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Epitasis for orchestra (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Three Songs for Male Choir (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Partita for 12 bassoons and 3 double-bassoons (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Opus concertante II for orchestra (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Nocturnes for soprano and chamber orchestra to words by Sappho (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Galileo , a musical drama (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Hymne de Sainte Brigitte pour mezzo-soprano et 7 instruments (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "The Last War - a rhapsody for reciting voice, mixed choir and orchestra (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Dance Songs [1st version] for female voice and piano (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Variations on a Given Theme for children’s choir (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Cantatina copernicana in the old style for a popular vocal-instrumental ensemble (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Vir sapiens dominabitur astris , a radio opera (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Seven Preludes for piano (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Children’s Dreams for children’s choir, 2 pianos and percussion (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Fantasy on the Theme of “The Spinner” (“Prząśniczka”) by Stanisław Moniuszko for orchestra (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Heroikon (Nike) , a triptych about Warsaw for mezzo-soprano, baritone, reciting voice, mixed choir and orchestra (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Spoons and the Moon , an opera in 3 a (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "A Mass in Honour of The Holy Virgin Mary, Mother of the Church for mezzo-soprano, mixed choir and orchestra (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Songs above the Waters , 3 songs for mixed or male-voice choir Songs above the Waters - 3 songs for mixed or male-voice choir (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Forest Queen , an opera-ballet (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "String Quartet No. 2 (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Chorale \"Boże, pełen w niebie chwały\" for baritone, mixed choir and orchestra to words by Bolesław Leśmian (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Dance Songs [2nd version] for female voice and orchestra (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Epigrams ( Fraszki ) for mixed choir to poems by Jan Kochanowski (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Three Scherzos for bassoon and piano (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Sonata for harpsichord (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Musica cromatica for chamber string orchestra (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Musiquette for 3 saxophones (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Everyman , a mystery-opera (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "A Melody from Lubuskie Region for instrumental ensemble (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Quattri impressioni per organo solo (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Variations for saxophone and piano (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Sonata romantica per tuba e pianoforte (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Passacaglia for orchestra (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Sketches for violin and piano (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Czarnolas Suite for flute, harpsichord and chamber string orchestra (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Eclogue for counter-tenor and period instruments ensemble (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Canzona from Jasna Góra for orchestra (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Mass for men’s choir (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Divertimento na kwartet smyczkowy (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Słowo na chór mieszany (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Kwartet smyczkowy „Impresje majowe” (2009)",
+      "year": "2009"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Hanuszewska Mieczysława, Schaeffer Bogusław, A Directory of Polish Contemporary Composers [Almanach polskich kompozytorów współczesnych], PWM, Kraków 1982 Hanuszewska Mieczysława, Fotek Jan, In: PWM Music Encyclopaedia (biographical section ed. by Elżbieta Dziębowska), PWM, Kraków 1987",
+  "slug": "fotek-jan-en"
+}

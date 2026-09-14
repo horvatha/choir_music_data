@@ -1,0 +1,171 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/c/czyzewski-henryk-stefan-en",
+  "title": "Czyżewski Henryk Stefan",
+  "name": "Czyżewski Henryk Stefan",
+  "occupation": "composer, musicologist, performer",
+  "is_composer": true,
+  "description": "composer, music theorist, conductor; b. 15th July 1937 in Włodzimierz Wołyński; d. 21 September 2023 in Lublin. He graduated in music theory (1964) and composition (1970) from the State Higher School of Music in Gdańsk and Sopot, where he studied with Konrad Pałubicki. He completed doctoral studies in music theory at the State Higher School of Music in Warsaw (1971). He also studied conducting under Ireneusz Łukaszewski. As a conductor, he led choirs of music institutions and universities in the Tri-City, including the State Higher School of Music, Medical University, Gdańsk University, Baltic State Opera and Philharmonic, Music Theatre in Gdynia. With the choir of the University of Gdańsk, of which he was the founder, he toured for 13 years, winning a number of awards (Arezzo, Italy 1970; Legnica 1976, 1977 and 1978; Barcelona, ​​Spain 1977; Neerpelt, Belgium 1978 – 1st prize; Gorizia, Italy 1980; Tolosa, Spain 1981 and 1984; Cantonigros, Spain 1983). He took part in 33 international and national music festivals and competitions, performed about 600 concerts in over 20 countries around the world. As a teacher, he worked, among others, at the State Higher School of Music in Gdańsk (1964-1976) and the Maria Curie-Skłodowska University in Lublin (1987-99). He was a speaker at school broadcasts at the philharmonics in Bydgoszcz (1963-64) and Lublin (1986-87). He led the Youth Symphony Orchestra of the Municipal Culture Centre in Gdańsk (1971-72). He made his debut as a composer in 1967. He was awarded the 2nd prize (1st was not awarded) for his Wind Quintet at the Youth Competition of Polish Composers' Union (Warsaw 1971). His compositional output is dominated by choral compositions with sonoristic and illustrative features (e.g. Musica Nordica ). The influence of dodecaphony can be observed in his symphonic (e.g. Musica concertante ) and chamber works (e.g. Azione ) of the late 1960s and early 1970s. The elements of grotesque, understood as a reaction to the unpredictability of nature, are visible in his choral (e.g. Zyg, zyg ) and piano works (e.g. 3 miniatures ). He was awarded, among others, the honorary badge of \"Merit to the city of Gdańsk\" (1971), the honorary badge \"Meritorious Culture Activist\" (1976) and the Silver Cross of Merit (1981). Czyżewski was a co-founder of the Youth Circle (1967) and an ordinary member of the Polish Composers' Union. He is also was a member of the Polish Society for Contemporary Music. udated: 2020, 2023 (Agnieszka Cieślak)",
+  "birth": {
+    "place": "Włodzimierz Wołyński",
+    "date": "15th July 1937",
+    "raw": "b. 15th July 1937 in Włodzimierz Wołyński"
+  },
+  "death": {
+    "place": "Lublin",
+    "date": "21 September 2023",
+    "raw": "d. 21 September 2023 in Lublin"
+  },
+  "works": [
+    {
+      "title": "Concerto for three instruments and string quartet (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Musica per piano solo (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Chorale I for mixed choir (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Trio for flute, clarinet and piano (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "3 miniatures for piano (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Musica per flauto solo (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "3 Songs to words by Małgorzata Hillar for mezzo-soprano and piano (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Gorący oddech lata , cantata to words by Rabindranath Tagore for bass solo, choir and orchestra (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Chorale II for mixed choir (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Musica concertante per violoncello ed orchestra (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Musica sinfonica I for orchestra (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Piano Music (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Tre proposizioni per flauto solo (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Compressioni per coro misto (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Azione per cinque strumenti (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Quintet for wind instruments (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Canti colori per la voce ed gruppo strumenti (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Meditations for solo voices and vocal ensembles (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Chorale III for mixed choir (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Musica sinfonica II for orchestra (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Musica Nordica per coro misto (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Sonchus to words by S.S. Czachorowski for baritone and piano (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Niemowa to words by E. Stachura for mezzo-soprano, flute and cello (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Musica sinfonica III for orchestra (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Zyg, zyg for choir (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Coś więcej niż… for choir (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Trudna droga for choir (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Musica per saxofono alto ed percussione batteria (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Wesołe zabawy for children's orchestra and choir (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "W lesie for choir (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Na drodze for three-parts children's choir (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "3 miniatures for piano (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Miniature for piano (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Variations for piano (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "De natura sonoris for choir (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Lamentations for choir (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Jesienne gry for choir (1999)",
+      "year": "1999"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Zarzycka Ewa, Czyżewski Henryk",
+  "slug": "czyzewski-henryk-stefan-en"
+}

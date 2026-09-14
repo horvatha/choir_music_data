@@ -1,0 +1,203 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/m/magin-milosz-en",
+  "title": "Magin Miłosz",
+  "name": "Magin Miłosz",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": "pianist and composer, b. 6th July 1929 in Łódź, d. 4th March 1999 in Bora Bora (French Polynesia). After a brief period of study in Łódź, he continued his education in the State Higher School of Music in Warsaw, studying piano with Margerita Trombini-Kazuro (degree in 1953) and composition with Jan Adam Maklakiewicz and Kazimierz Sikorski (degree in 1957). In 1955 he received an honorable mention in the 5th International Frederic Chopin Piano Competition. In 1957 he was awarded in two competitions: the Marguerite Long and Jacques Thibaud Competition in Paris (6th prize) and the José Vianna da Motta Competition in Lisbon (3rd prize). In 1957-59 he lived in London, and in 1960 he became resident in Paris, where in 1963-73 he taught a piano class in the Sergey Rakhmaninov Conservatory, and in 1975-80 – at the International Musical University. He gave concerts in many countries of the world, also repeatedly – in Poland. He recorded Chopin’s complete works on the Decca label, and in 1992 – a CD featuring his own Concerto No. 3 for piano, string orchestra and percussion, with Łódź Phiharmonic Orchestra conducted by Wojciech Czepiel (Polskie Nagrania). He taught piano master classes in Łódź Music Academy, and in 1992 and 1997 he sat on the jury of the International Karol Szymanowski Competition in Łódź. In 1985, Miłosz Magin established in Paris the International Miłosz Magin Piano Competition, organised every second year, whose obligatory programme includes compositions by French and Polish composers, incl. Frederic Chopin, Karol Szymanowski, Ignacy Jan Paderewski, Juliusz Zarębski, and by Magin himself. An internet site about the composer: www.membres.lycos.fr/miloszmagin",
+  "birth": {
+    "place": "Łódź",
+    "date": "6th July 1929",
+    "raw": "b. 6th July 1929 in Łódź"
+  },
+  "death": {
+    "place": "Bora Bora (French Polynesia)",
+    "date": "4th March 1999",
+    "raw": "d. 4th March 1999 in Bora Bora (French Polynesia)"
+  },
+  "works": [
+    {
+      "title": "Scherzo for piano (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "Polka for piano (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "Danse de la sorcière for piano (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "Basilisk ballet (1948-90)",
+      "year": "1948-90"
+    },
+    {
+      "title": "Cracovienne for piano and orchestra (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "Images d’enfantes for piano (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Piano Concerto No. 1 (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "Toccata, Chorale and Fugue for piano (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "Polish Rhapsody for orchestra (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Andante for violin and piano (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Five Preludes for piano (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Concerto No. 2 for piano, string orchestra and kettledrums (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Musique des morts for string orchestra and percussion (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Polish Suite for orchestra (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Triptyque polonais for piano (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Sonata No. 1 for piano (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Symphony No. 1 for string orchestra (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Concerto No. 3 for piano, string orchestra and percussion (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Stabat Mater for string orchestra and kettledrums (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Petite suite polonaise for piano (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Concerto rustico pour violon (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Concerto pour violoncelle (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Concerto no. 2 pour violon (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Adagio for string orchestra (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Sonata No. 2 for piano * (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Sonatine pour piano (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Images de Pologne for piano (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Miniatures polonaises for piano (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Divertimento for two pianos (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Four Vocalises for soprano and piano ( (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Four Vocalises transcription for clarinet and piano (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Petites danses polonaises for piano (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Rondes enfantines for piano (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Symphony No. 2 for string orchestra and kettledrums (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Concerto pour clarinette (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Carnaval des poupées for piano (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Sonata No. 3 for piano (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Danses polonaises [1st version] for violin and piano (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Danses polonaises [2nd version] for clarinet and piano (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Soirée dansante for piano (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Les jouets enchantés for piano (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Sonata No. 4 for piano (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Tango for piano (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Polish Caprice for clarinet (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Concerto No. 4 for piano, string orchestra and kettledrums (1998)",
+      "year": "1998"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Polony Leszek, Magin Miłosz, In: Encyklopedia Muzyczna PWM (część biograficzna pod red. Elżbiety Dziębowskiej), t. „m” [PWM Music Encyclopaedia, biographical part ed. by Elżbieta Dziębowska], vol. “M”, PWM, Kraków 2000 Bęben Aleksandra, Magin Miłosz, In: Łódzkie środowisko kompozytorskie 1945-2000 [The Milieu of Music Composers in Łódź 1945-2000], Akademia Muzyczna w Łodzi, Łódź 2001 Dybowski Stanisław, Magin Miłosz, In: Słownik pianistów polskich [Dictionary of Polish Musicians], Selene, Warszawa 2003",
+  "slug": "magin-milosz-en"
+}

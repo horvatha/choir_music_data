@@ -1,0 +1,267 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/r/rathaus-karol-en",
+  "title": "Rathaus Karol",
+  "name": "Rathaus Karol",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": "composer, pianist and teacher; b. 16th September 1895 in Tarnopol; d. 21st November 1954 in New York. He studied composition with Franz Schreker at the Academy of Performing Arts and Music in Vienna and later at the Academy of Music in Berlin. At the same time, he studied history at the University of Vienna, obtaining his doctorate in 1922. In 1919 he made his debut in Vienna as a pianist, playing his own Variations on a Theme of Reger , Op. 1 (1919). In 1921-32 he taught composition and music theory at the Berlin University of the Arts. In 1932-34 he taught composition in Paris, and in 1934-38 in London. In 1938 he moved to the United States, where he stayed till the end of his life. From 1940 to 1954 he was a lecturer at Queens College in New York. He was an active member of American music organisations (including International Society for Contemporary Music, American League of Composers from Austria, American Society of Composers, Authors and Publishers) and Polish community organizations (including the Music Committee of the Institute of Culture). He was an honorary vice-president of the Jewish Music World Center. Karol Rathaus’ music for the 1930 film The Murderer Dimitri Karamazov (dir. Erich Engels, Fedor Ozep) brought him popularity and recognition and started his career as a composer of this genre of music. While still a student, he signed a ten-year contract with Universal Edition for the continuous publication of all his 1920 songs, which certainly contributed to his great success in Europe in the 1920s. updated: 2020 (ac)",
+  "birth": {
+    "place": "Tarnopol",
+    "date": "16th September 1895",
+    "raw": "b. 16th September 1895 in Tarnopol"
+  },
+  "death": {
+    "place": "New York",
+    "date": "21st November 1954",
+    "raw": "d. 21st November 1954 in New York"
+  },
+  "works": [
+    {
+      "title": "Variations on a theme of Reger op. 1 for piano (1919)",
+      "year": "1919"
+    },
+    {
+      "title": "Sonata for piano No. 1 op. 2 (1920)",
+      "year": "1920"
+    },
+    {
+      "title": "Five Pieces for piano (1920)",
+      "year": "1920"
+    },
+    {
+      "title": "Symphony No. 1 op. 5 (1922)",
+      "year": "1922"
+    },
+    {
+      "title": "Symphony No. 2 op. 7 (1923)",
+      "year": "1923"
+    },
+    {
+      "title": "String Quartet No. 1 op. 10 (1924)",
+      "year": "1924"
+    },
+    {
+      "title": "Sonata for violin and piano No. 1 op. 14 (1925)",
+      "year": "1925"
+    },
+    {
+      "title": "Tanzstücke op. 15 for orchestra (1925)",
+      "year": "1925"
+    },
+    {
+      "title": "Concertino op. 16 for piano and orchestra (1925)",
+      "year": "1925"
+    },
+    {
+      "title": "Der letzte Pierrot op. 19, ballet in 1 act (1926)",
+      "year": "1926"
+    },
+    {
+      "title": "Six Little Pieces for piano (1926)",
+      "year": "1926"
+    },
+    {
+      "title": "Sonata for piano No. 3 op. 20 (1927)",
+      "year": "1927"
+    },
+    {
+      "title": "Four Dances for orchestra (1927)",
+      "year": "1927"
+    },
+    {
+      "title": "Overture op. 22 for orchestra (1927)",
+      "year": "1927"
+    },
+    {
+      "title": "Serenade for clarinet, string trio and piano (1927)",
+      "year": "1927"
+    },
+    {
+      "title": "Eine kleine Serenade op. 23 for English horn, clarinet, bassoon and piano (1927)",
+      "year": "1927"
+    },
+    {
+      "title": "Sonata for piano No. 2 op. 8 (1928)",
+      "year": "1928"
+    },
+    {
+      "title": "Three Mazurkas for piano (1928)",
+      "year": "1928"
+    },
+    {
+      "title": "Fremde Erde op. 25, opera in 5 acts (1929)",
+      "year": "1929"
+    },
+    {
+      "title": "Suite op. 27 for violin and piano (1929)",
+      "year": "1929"
+    },
+    {
+      "title": "Suite op. 29 for orchestra (1930)",
+      "year": "1930"
+    },
+    {
+      "title": "Allegro concertante for orchestra (1930)",
+      "year": "1930"
+    },
+    {
+      "title": "Kleines Vorspiel für Streicher und Trompete op. 30 (1932)",
+      "year": "1932"
+    },
+    {
+      "title": "Serenade op. 35 for orchestra (1932)",
+      "year": "1932"
+    },
+    {
+      "title": "Prelude and Toccata for organ (1933)",
+      "year": "1933"
+    },
+    {
+      "title": "Symphony No. 3 op. 50 (1934)",
+      "year": "1934"
+    },
+    {
+      "title": "Polonaise symphonique op. 52 for orchestra (1934)",
+      "year": "1934"
+    },
+    {
+      "title": "String Quartet No. 3 op. 41 (1936)",
+      "year": "1936"
+    },
+    {
+      "title": "Ballad – Variations on a hurdy-gurdy melody for piano (1936)",
+      "year": "1936"
+    },
+    {
+      "title": "Pastorale i Dance op. 39 for violin and piano (1937)",
+      "year": "1937"
+    },
+    {
+      "title": "Le lion amoureux op. 41, ballet (1937)",
+      "year": "1937"
+    },
+    {
+      "title": "Sonata for violin and piano No. 2 op. 43 (1937)",
+      "year": "1937"
+    },
+    {
+      "title": "Jacobs Traum – Notturno op. 44 for orchestra (1938)",
+      "year": "1938"
+    },
+    {
+      "title": "Concerto for Piano and Orchestra op. 45 (1938)",
+      "year": "1938"
+    },
+    {
+      "title": "Prelude and gigue for orchestra (1939)",
+      "year": "1939"
+    },
+    {
+      "title": "Music for strings (1942)",
+      "year": "1942"
+    },
+    {
+      "title": "Three Polish Dances for piano (1942)",
+      "year": "1942"
+    },
+    {
+      "title": "Landscape in Six Colours for piano (1942)",
+      "year": "1942"
+    },
+    {
+      "title": "Three English Songs op. 48 for voice and piano (1942)",
+      "year": "1942"
+    },
+    {
+      "title": "Psalm XXIII for choir (1943)",
+      "year": "1943"
+    },
+    {
+      "title": "Trio for violin, clarinet and piano (1944)",
+      "year": "1944"
+    },
+    {
+      "title": "Vision dramatique op. 55 for orchestra (1945)",
+      "year": "1945"
+    },
+    {
+      "title": "Four Studies by Domenico Scarlatti op. 56 for piano (1945-46)",
+      "year": "1945-46"
+    },
+    {
+      "title": "Five Moods after American Poets op. 57 for voice and piano (1946)",
+      "year": "1946"
+    },
+    {
+      "title": "Sonata for piano No. 4 op. 58 (1946)",
+      "year": "1946"
+    },
+    {
+      "title": "String Quartet No. 4 op. 59 (1946)",
+      "year": "1946"
+    },
+    {
+      "title": "Uriel Acosta Suite for orchestra (1947)",
+      "year": "1947"
+    },
+    {
+      "title": "O inventes , academic cantata for tenor, mixed choir and orchestra (1947)",
+      "year": "1947"
+    },
+    {
+      "title": "Lamentation op. 61 for choir and French horn (1947)",
+      "year": "1947"
+    },
+    {
+      "title": "Salisbury Cove op. 65, overture for orchestra (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "Variations on a theme of G. Böhm for piano (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "Dedication und Allegro op. 64 for violin and piano (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "Piano Quintet (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "Rapsodia notturna op. 66 for cello and piano (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "Diapason op. 67, oratorio for baritone, mixed choir and orchestra (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "Sinfonia concertante op. 68 for orchestra (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "Trio Serenade op. 69 for violin, cello and piano (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Prelude op. 71 for orchestra (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "String Quartet No. 5 op. 72 (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "Requiem for choir and piano (ca 1941)",
+      "year": null
+    },
+    {
+      "title": "Rondo for choir and piano (ca 1941)",
+      "year": null
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "rathaus-karol-en"
+}

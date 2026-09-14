@@ -1,0 +1,607 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/k/klisowski-ryszard-mieczyslaw-en",
+  "title": "Klisowski Ryszard Mieczysław",
+  "name": "Klisowski Ryszard Mieczysław",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": "composer, poet, violinist, music theoretician; b. 29th October 1937 in Łuck. He studied violin in the class of Edward Statkiewicz, theory of music and composition under the direction of Tadeusz Natanson, and vocal and instrumental ensembles conducting in the class of Radomir Reszke at the State Higher School of Music in Wrocław. From 1973, he studied experimental composition with Dieter Kaufmann, synthetic composition under the direction of Georg Pirckmayer, special composition with Erich Urbanner and Roman Haubenstock-Ramati and audiovisual composition in the class of Paul Konta at the Hochschule für Musik und darstellende Kunst in Vienna. He graduated with honours in 1977. He was associated with the Academy of Music in Wrocław since 1978. He has also lectured at the Fryderyk Chopin Academy of Music in Warsaw, the University of Music in Vienna, and the Hogeschool Enschede in the Netherlands. Richard Klisowski has won several prizes for his compositions, including 3rd prize for the Song about Soldiers from Westerplatte for mixed choir a cappella (Poznań 1970, Competition celebrating the 50th anniversary of the Academy of Music in Poznań), 2nd prize for Quartetto per archi (Warsaw 1975, Young Composers Competition of the Polish Composers' Union), 2nd prize for Lineamenti per chitarra solo (Łódź 1975, National Classical Guitar Composing Competition), 3rd prize for Polichronia per percussione (Hamm 1976, „Neue Musik für die Musikschule” competition on the 750th anniversary of Stadt Hamm), 3rd, 4th and 5th prizes for electroacoustic music: Cadenza per violino, pianoforte e synthesizer ; Memento ; La nature morte (Vienna 1976, SIMC Competition), award for Anantas- Emanation for mezzosoprano and orchestra (Vienna 1977, Österreichischer Rundfunk). In the 1980s he won the 1st prize for the electroacoustic music to the performance of Tests (Sofia 1986, Festival International de Sofia), Grand Prix for Luck-Holocaust for organ and percussion (Legnica 1989, 12th Legnica Days of Chamber and Organ Music). In the 1990s he received the 2nd prize for Sonate-Fantaisie for violin solo (Warsaw 1992, Szymanowski Competition), 1st prize for Baceviciana. Druid story for violin and piano (Warsaw 1999, Bacewicz Competition). He also won an award for Mantra-tantra for voice, Yamaha SPX 1000, tape, violin and piano (Seul 2000, Seul International Computer Music Festival), Triptyque for 3 jazzmans and tape (Stuttgart 2006, ISCM World New Music Festival), and In Memory of John Cage for tape (Crete 2008, Electroacoustic Music Days in Rethymno). Klisowski's compositions were performed at many festivals, including contemporary music festivals in Bourges, Graz, Stockholm, Warsaw, Wroclaw, Gaudeamus Konzerten (the Netherlands), \"Musik und Technik\", \"Acustica\" and \"Elektronischer Frühling\" (Austria), \"Composers' Profiles\" in Polish and Austrian Radio (ORF) and other festivals of new music. In 1978 Richard Klisowski opened his own studio of experimental music and founded GEMEL – the Electronic Music Experimental Group, Authors Studio and Edition (1979). With GEMEL Group he gave concerts and promoted electronic and experimental music. He worked in Wrocław with \"Centre of Light\", Mime Theatre \"Gest\", and \"Wratislavia Cantans\" festival. He organized the fourth edition of the International New Music Days called \"The Days of 20th Century Music\". The composer received a \"Silver Cross of Merit\" granted by the Minister of Culture and Art (1988), a Golden Badge \"Well-deserved for the Wrocław’s Province and the City of Wrocław\" granted by the Provincial National Council in Wrocław (1988), and a Medal of the Festival \"Wratislavia Cantans\" in Wrocław (1993). Richard Klisowski's compositional output includes various formes and genres: solo and choral pieces, cantatas, opera, numerous chamber pieces for various instruments, orchestral and solo orchestral works. All Klisowski's works are reserved by Autoren, Komponisten, Musikverleger (AKM) and AustroMechana in Vienna. He is a member of SIMC (IGNM) and ÖKB in Austria, Association of Polish Artists Musicians (SPAM), Polish Composers' Union (ZKP) and Society for Electroacoustic Music in Austria and Poland (PSEME). updated: 2019 (ac) Contact information: e-mail: This email address is being protected from spambots. You need JavaScript enabled to view it. or This email address is being protected from spambots. You need JavaScript enabled to view it. tel./fax: (+48 71) 351 98 38 address: 71/16 Bystrzycka St., 54-215 Wrocław",
+  "birth": {
+    "place": "Łuck",
+    "date": "29th October 1937",
+    "raw": "b. 29th October 1937 in Łuck"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Nocturne for violin and piano (1967-68)",
+      "year": "1967-68"
+    },
+    {
+      "title": "Circle of Live , 3 songs for voice and piano (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Musica da camera. Omaggio a J.S. Bach for clarinet, bassoon, violin, viola, cello and 3 sets of percussions (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Allegro concertante for bassoon and orchestra (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Song about soldiers from Westerplatte for mixed choir (1969,1993)",
+      "year": null
+    },
+    {
+      "title": "Allegro concertante for bassoon and piano (1969,1997)",
+      "year": null
+    },
+    {
+      "title": "Three Grotesques for trombone and piano (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Evoluzioni for orchestra (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Three Hindu-Cantatas for mezzo-soprano, bass, mixed choir and orchestra (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Polish Trees , 3 songs for mixed choir (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "The Rose [1st version], song for mixed choir (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Zwyrtala-Musician , opera in 3 acts, not only for children (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Monologo for guitar solo (1973-74)",
+      "year": "1973-74"
+    },
+    {
+      "title": "Alkor for tape (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Polichronia for percussion (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Sonant for tape (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Lineamenti for guitar solo (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Cadenza for violin, piano and synthesizer (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Quartetto per archi. La Primavera (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "La nature morte [1st version] for tape (1975-76)",
+      "year": "1975-76"
+    },
+    {
+      "title": "La nature morte [2nd version] for tuba and tape (1975-76)",
+      "year": "1975-76"
+    },
+    {
+      "title": "Memento for tape (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Anantas-Emanation , mystery for mezzo-soprano and chamber orchestra (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "La nature morte [3rd version] for tape and visual media (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "La nature morte [4th version] for tape, visual media and mimes or other actors (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Musica da camera II for clarinet, bassoon, 6 violins, 4 violas. 3 cellos, double-bas and 3 sets of percussion (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Versetti. Omaggio a Henryk Szeryng for violin solo (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Conversazione [1st version] for orchestra (1977-79)",
+      "year": "1977-79"
+    },
+    {
+      "title": "Clash-Play for instrumental theatre (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Les Sons de couleurs for piano solo (1980-81)",
+      "year": "1980-81"
+    },
+    {
+      "title": "Energy`s Play for oboe, clarinet and bassoon (1981-82)",
+      "year": "1981-82"
+    },
+    {
+      "title": "Sculpture Dance for tape (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Audiovisuelles Tryptychon for mimes, objects, light and electronic media (1982-83)",
+      "year": "1982-83"
+    },
+    {
+      "title": "String Quartet No. 1 \"The Mountains Landscape\" (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Tryptyk Pantomimiczny for mimes, light and tape (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Multi Dimensional Sounds for 6 for percussion and electronic media (1983-85)",
+      "year": "1983-85"
+    },
+    {
+      "title": "Couleurs de l`amour for actor, electronic media, light and tape (1983-85)",
+      "year": "1983-85"
+    },
+    {
+      "title": "String Quartet No. 2 \"Christmas-Quartet\" (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "String Quartet No. 3 \"The Spring-Games\" (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Impression Solaire I for tape (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Musica Mundana I for tape, objects and light (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Symphonia Humana (Alkor II, Impression solaire II, Lamentoso, Vision, Jazz-Sonate mit Epilog) for tape (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Symphonia Humana for tape for ballet or pantomimic theatre (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Movement probability for trumpet, trombone, tuba, 2 synthesizers, electronic media, objects and light (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "The Rays of Light , 3 wind quintets for flute, oboe, clarinet, French horn and bassoon (1985-86)",
+      "year": "1985-86"
+    },
+    {
+      "title": "Impression solaire III for tape (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Sounds Meadows from Child`s Memory [1st version] for saxophone and tape (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Sounds Meadows from Child`s Memory [2nd version] for tape (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Sounds Meadows from Child`s Memory [3rd version], short version for tape (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "René Sonosphären [1st version] for quartet of recorders and tape (1987-88)",
+      "year": "1987-88"
+    },
+    {
+      "title": "René Sonosphären [2nd version] for 1 player, 4-5 recorders and tape (1987-88)",
+      "year": "1987-88"
+    },
+    {
+      "title": "Anantas-Emanation II for mezzo-soprano, mixed choir and chamber orchestra (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Versetti II for violin and tape (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Les sons de couleurs synthétiques [1st version] for piano solo without improvisation (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Les sons de couleurs synthétiques [2nd version] for piano solo with improvisation (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Les sons de couleurs synthétiques [3rd version] for piano and synthesizer (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Les sons de couleurs synthétiques [4th version] for keys instrument and synthesizer (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Les sons de couleurs synthétiques [5th version] for voice, recitation, electronic media, computer, light and instrumental theater (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Luck Holocaust [1st version] for organ and 1 percussion performer (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Luck Holocaust [2nd version] for organ, 1 percussion performer, electronic space effects, light and ad lib. actors actions or film (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Dyptychon for multi media (1989-90)",
+      "year": "1989-90"
+    },
+    {
+      "title": "Double Concerto for 2 violins and orchestra (1990-93)",
+      "year": "1990-93"
+    },
+    {
+      "title": "Piano-Ray for piano solo (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Ray II, sound transformation for oboe solo (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Ray IIA , sound transformation for oboe and synthesizer (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Ray III , sound transformation for clarinet and synthesizer or clarinet solo (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Spherical Reflection for 1 performer and 3 flutes (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Spherical Reflection for 1 performer (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Druid Story [1st version] for violin and piano or synthesizer (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Sonate-Fantaisie. Hommage à Karol Szymanowski for violin solo (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Three Songs for piano solo (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Augustins-Variationen for piano solo (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Baceviciana. Druid Story for violin and piano (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Gloria for mixed choir (1992-93)",
+      "year": "1992-93"
+    },
+    {
+      "title": "Rosalia-Magical Quadrat for organ solo (1992-94)",
+      "year": "1992-94"
+    },
+    {
+      "title": "Rose [2nd version], song for mixed choir (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Augustins-Spiel for flute and piano (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Oriental Dance for flute and piano (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "La valse romantiques for flute solo (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Multi-Rays for piano and orchestra (1993-94)",
+      "year": "1993-94"
+    },
+    {
+      "title": "Sonata Illiriaca for violin solo (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Conversazione [2nd version] for orchestra (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Evoluzioni II for orchestra (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Three Grotesques for tuba and piano (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Concerto for Violin and Orchestra (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Spherical Ramification and Infiltration – Sinfonia del Mondo [1st version] for tape (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Spherical Ramification and Infiltration – Sinfonia del Mondo [2nd version] for tape and light (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Spherical Ramification and Infiltration – Sinfonia del Mondo [3rd version] for tape, objects, light, installations and other visual media (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Oriental Dance IA for violin and piano (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Oriental Dance IB for oboe and piano (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Oriental Dance IC for clarinet and piano (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Oriental Dance ID for soprano saxophone and piano (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Augustins-Spiel IA for violin and piano (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Augustins-Spiel IB for oboe and piano (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Augustins-Spiel IC for clarinet and piano (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Augustins-Spiel ID for soprano saxophone and piano (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "In Memory of John Cage /John Cage in Memoriam. Project I for tape and light (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "In Memory of John Cage /John Cage in Memoriam. Project II for tape, 1-2 pianos or 1-2 synthesizer and 3 spaces (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "In Memory of John Cage /John Cage in Memoriam. Project III for tape, free sounds sources in multi spaces, objects and light (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "In Memory of John Cage /John Cage in Memoriam. Project IV - Synthesis for tape, 2 pianos, 2 synthesizer, objects, 5-6 spaces and light (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Canzonetta e Appassionata for violin solo (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Le calice Sacré pour orchestra (1994,2009)",
+      "year": null
+    },
+    {
+      "title": "Druid Story [2nd version] for violin and orchestra (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Vau-Cluse de Mont Ventoux , mystery for oboe and English horn or oboe d`amore (1996-97)",
+      "year": "1996-97"
+    },
+    {
+      "title": "Landscapes Colours for tape (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Y`AR`L for wind quintet (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Vau Cluse de Mount Ventoux II, version for flute solo (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Tantra-Mantra for voices and instruments (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Sound Poetry for 1 or more voices (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Ray-Rad for French horn solo (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Mantra-Tantra for voice, Yamaha SPX 1000, tape, violin and piano (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Ray-Rad II for trumpet (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Bach-Allya for piano solo (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Earthly-Holocaust for orchestra (2001-2004)",
+      "year": "2001-2004"
+    },
+    {
+      "title": "Stabat Mater for soprano, cello and organ (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Paesaggio for tape (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Quadrature for tape (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Vers-Alya for double bass solo (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Vers-Alya for double bass and tape: Paesaggio (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Vers-Alya for voice, percussion, double bass and tape: Paesaggio (2002-2005)",
+      "year": "2002-2005"
+    },
+    {
+      "title": "Vers-Alya for voice, percussion and double bass (2002-2005)",
+      "year": "2002-2005"
+    },
+    {
+      "title": "Pentapétale , 5 pieces for flute solo (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Bach-Allya for piano and tape: Musica Mundana III (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Echoes from Musica Mundana III for tape (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Musica Mundana III na taśmę (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Bach-Allya for harpsichord and tape (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Tre Ironiae for cello and piano or harpsichord (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "The Rainbow for double bass solo (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Oriental Dance for cello and piano or harpsichord (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Triptyque for 3 jazzmans and tape (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "On the Wind Strings, II. Sound Poetry for 1 or more voices (2005-2006)",
+      "year": "2005-2006"
+    },
+    {
+      "title": "The Rays of K2 for tape (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Tat-Ra Play for string orchestra (2006-2007)",
+      "year": "2006-2007"
+    },
+    {
+      "title": "Regenbogenfarben für Cello Solo (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Happy – Happening. Homage to Karlheinz Stockhausen for voices, violin, double bass and electronic media (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Parables of Prophet for voices, mixed choir and orchestra (2008-2009)",
+      "year": "2008-2009"
+    },
+    {
+      "title": "Wybrane Wiersze Wołyńskie for melorecitation of one or more voices (2009-2012)",
+      "year": "2009-2012"
+    },
+    {
+      "title": "The Lights of the Night for harp (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Landscape of Mountains for 2 flutes and piano (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Daydreams of Wolyn for melorecitation of one or more voices (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Film music",
+      "year": null
+    },
+    {
+      "title": "Music to film KUB (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Music to film Outside (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Music to film KUB ist KUB ist KUB (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Stage music",
+      "year": null
+    },
+    {
+      "title": "BezDramatu, performance (1983)",
+      "year": "1983"
+    }
+  ],
+  "publications": "books Wybrane wiersze wołyńskie, Wołanie z Wołynia, Wrocław 2013 articles & papers Pojęcie i problem formy otwartej w muzyce współczesnej,, \"Zeszyty Naukowe AM we Wrocławiu\" nr 25, AM we Wrocławiu, Wrocław 1981 Mikrotonowość,, \"Zeszyty Naukowe AM we Wrocławiu\" nr 33: Muzyka XX wieku , red. Ryszard Mieczysław Klisowski, AM we Wrocławiu, Wrocław 1983 Estetyka wyrazu w utworze Łuck-Holocaust w świetle kryteriów wartości, AM we Wrocławiu, Wrocław 1991 Kolorystyka fortepianowa w moich utworach,, w: Muzyka fortepianowa X , Prace Specjalne nr 53, red. Janusz Krasowski, PWSM w Gdańsku, Gdańsk 1995 Sposoby wykorzystania głosu ludzkiego w muzyce współczesnej,, \"Zeszyty Naukowe AM we Wrocławiu\" nr 68, red. Eugeniusz Sąsiadek, Barbara Werner , AM we Wrocławiu, Wrocław 1996 Rola głosu ludzkiego w eksperymentalnej muzyce elektronicznej,, \"Zeszyty Naukowe AM we Wrocławiu\" nr 70, red. Eugeniusz Sąsiadek, Barbara Werner, AM we Wrocławiu, Wrocław 1997 Rola improwizacji wokalnej w utworze „Stimmung” Karlheinza Stochhausena,, \"Zeszyty Naukowe AM we Wrocławiu\" nr 74, red. Eugeniusz Sąsiadek, Barbara Werner, AM we Wrocławiu, Wrocław 1999 Rola ezoterycznej symboliki w konstrukcji i realizacji utworu na solowy głos żeński „Sequenza III” Luciano Berio,, \"Zeszyty Naukowe AM we Wrocławiu\" nr 77, red. Eugeniusz Sąsiadek, Barbara Werner , AM we Wrocławiu, Wrocław 2000 Wokalne i instrumentalne akcje wyrazowe w utworze „Circles” Luciano Berio, w: Wokalistyka w Polsce i na świecie, t. 2, red. Eugeniusz Sąsiadek, Polskie Stowarzyszenie Pedagogów Śpiewu / AM we Wrocławiu, Wrocław 2003 „Łuck-Holocaust” – od przeżyć wojennych do kształtu brzmieniowego, w: Ekspresja formy - ekspresja treści. Marianowi Borkowskiemu w siedemdziesięciolecie urodzin , red. Alicja Gronau-Osińska, AMFC, Warszawa 2004 Rola nowej gestyki muzycznej w tworzeniu metaznaczeń (I), w: Liturgia w świecie widowisk , Opolska Biblioteka Teologiczna (82), red. ks. Helmut Jan Sobeczko, Zbigniew Solski , Uniwersytet Opolski. Wydział Teologiczny, Opole 2005 Rola nowej gestyki muzycznej w tworzeniu metaznaczeń (II), w: Wokalistyka i pedagogika wokalna , t. 5, red. Eugeniusz Sąsiadek, AM we Wrocławiu / Polskie Stowarzyszenie Pedagogów Śpiewu, Wrocław 2007 Franciszek Liszt na Śląsku, [wspólnie z Walentyną Węgrzyn-Klisowską] w: Zeszyty Lisztowskie , vol. III, Towarzystwo im. Ferenca Liszta, Wrocław 2011 critical & collective editions Zeszyt Naukowy AM we Wrocławiu nr 33: Muzyka XX wieku, AM we Wrocławiu, Wrocław 1983",
+  "bibliography": null,
+  "slug": "klisowski-ryszard-mieczyslaw-en"
+}

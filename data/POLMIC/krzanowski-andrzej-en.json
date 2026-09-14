@@ -1,0 +1,395 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/k/krzanowski-andrzej-en",
+  "title": "Krzanowski Andrzej",
+  "name": "Krzanowski Andrzej",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": "composer and accordion player, born on 9th April 1951 in Bielsko-Biała; died on 1st October 1990 in Czechowice-Dziedzice. He studied composition with Henryk Mikołaj Górecki (1971-75) and accordion with Joachim Pichura at the State Higher School of Music in Katowice. From 1967, he played contemporary accordion music in concert. He performed at numerous festivals, including the 1st International Accordion Festival in Digne-les-Bains, Dresdner Musikfestspiele, Musikprotokoll in Graz, 15th International Festival in Pontino, Gaudeamus Music Week, Gulbenkian Contemporary Music Festival in Lisbon, “Musica 83” in Strasbourg, and many others. As a composer, he made his debut at the “Young Composers to The Young City” festivals in Stalowa Wola (1975, 1976) and the Music Encounters in Baranów (1976), where he presented the vocal-instrumental stage cycle Broadcasts I – IV . In 1975 he started teaching at the the State Higher School of Music in Wrocław, later – in 1976 – at the State Higher School of Music in Katowice (as assistant lecturer). In 1984 and 1986, he gave master classes at the Summer Courses in Darmstadt, and in 1987 – at the International Courses of the “Time od Music” Summer Academy in Viitasaari in Finland. In 1984, he was commissioned by Krzysztof Penderecki to write Symphony No. 2 . In 1986, he won the Witold Lutosławski scholarship, and in 1988 – the Scottish Arts Council scholarship. Andrzej Krzanowski was also the winner of the Prime Minister’s Award for works for children and young audiences (1985) as well as numerous awards at competitions for composers, including: in 1976 – 2nd prize in the 19th Young Composers’ Competition of the Polish Composers’ Union for Canti di Wratislavia for orchestra (1976); in the same year – 1st prize in the Artur Malawski Competition for Composers in Cracow for String Quartet No. 2 [2nd version] (1976); twice – 3rd prize in the International Carl Maria von Weber Composers’ Competition in Dresden (in 1978 - for String Quartet No. 1 and in 1979 – for String Quartet No. 2 ); in 1978 - an honorable mention of the Competition for Composers in Stalowa Wola for Concerto for Eight Performers “Con Vigore” (1978); in 1979 – 1st prize in the Competition for Composers organised by the Music Editorial Board of the Polish Radio and Television in Warsaw for Fugue for Accordion Quintet (1975); in 1980 – 3rd prize in the Artur Malawski Competition for Composers for Alkagran or One Place on the Vistula’s Right-Hand Bank for accordion quintet (1980); in 1981 – 1st prize of the 1st International Competition for Compositions for Accordion in Digne-les-Bains for The Wind Carries the Echo across the Glade [2nd version] for accordion and amplified harpsichord (1981); in the same year – an honorable mention in the International Competition of the Gaudeamus Foundation for Three Meditations for accordion (1979); in 1985 – 1st prize in the Competition for a Work for Solo Organ for Relief III for organ (1985); in the same year, in the National Competition for Accordion Works in Rzeszów – 2nd prize for Three Studies for accordion (1985) and 3rd prize for Capriccio for accordion (1983); in 1986 – an honorable mention in the Competition for Composers for the 25th Anniversary of the “Poznań Music Spring” Festival for Where the Rainbow Ends for percussion and bass clarinet (1985); in 1986 – 2nd prize in the International Competition for Composers of Accordion Works in Ancona for Three Studies for accordion; in 1987 – 2nd prize in the International Competition for Composers in Digne-les-Bains for Over the Rainbow for viola, percussion and accordion (1985-87).",
+  "birth": {
+    "place": "Bielsko-Biała",
+    "date": "9th April 1951",
+    "raw": "born on 9th April 1951 in Bielsko-Biała;"
+  },
+  "death": {
+    "place": "Czechowice-Dziedzice",
+    "date": "1st October 1990",
+    "raw": "died on 1st October 1990 in Czechowice-Dziedzice."
+  },
+  "works": [
+    {
+      "title": "Prelude for accordion (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Dance for accordion (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Nocturne, Prelude and Fugue for accordion quintet (1971-75)",
+      "year": "1971-75"
+    },
+    {
+      "title": "Sonata for accordion (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Sketches for solo clarinet (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Three Pieces for oboe and trumpet (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Study I for accordion and orchestra (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Broadcast I to poems by Jacek Bieriezin for reciting voice, flute, tam-tam, siren, whistle and 2 tapes (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Broadcast II to poems by Jacek Bieriezin for reciting voice, flute, tam-tam, siren, whistle and 2 tapes (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Northern Songs for mixed choir (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Canon for accordion (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Fugue-Fantasy no. 2 for accordion (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Broadcast III to poems by Jacek Bieriezin for an actor, soprano, 2 accordions, baritone saxophone, trumpet, electric guitar, percussion and tape (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Study II for accordion (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "De profundis , cantata for baritone and orchestra (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Partita for oboe, clarinet and bassoon (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Canon for accordion (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Three Studies for soprano, flute and tape (1974-76)",
+      "year": "1974-76"
+    },
+    {
+      "title": "Toccata for accordion trio (1974-80)",
+      "year": "1974-80"
+    },
+    {
+      "title": "Broadcast IV to poems by Zbigniew Dolecki for reciting voice, siren, cymbals, accordion and tapes (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Study III for accordion (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Symphony No. 1 (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Canti di Vratislavia for orchestra (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "String Quartet No. 1 [1st version] (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "String Quartet No. 1 [2nd version] (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Study V for accordion quintet (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Broadcast V , an opera in 20 scenes (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Transpainting , an audio-visual spectacle (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Con vigore , concerto for eight performers (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Concerto for orchestra [1st version] (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "String Quartet No. 2 (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Sonata for tuba (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Study IV for accordion duet (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Chorale for accordion (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Three Meditations for accordion (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Four Bagatelles for accordion (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Nocturne and Scherzo for accordion (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Ode for accordion (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Sonatina for accordion (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Cathedral for accordion (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Triptych for accordion (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Alkagran or One Place on the Vistula’s Right-Hand Bank for accordion quintet (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Chorale for accordion quintet (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Sonata di concerto for accordion (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Highlander Dance for accordion duet (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Three Pieces for accordion quintet (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Echo for accordion (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "The Wind Carries the Echo across the Glade [1st version] for two accordions (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "The Wind Carries the Echo across the Glade [2nd version] for accordion and amplified harpsichord (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Eleven Pieces for children’s orchestra (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Kalangra , 20 pieces for children for accordion (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Salve Regina [1st version] for boys’choir and organ (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Salve Regina [2nd version] for boys’choir or women’s choir a cappella (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Little Partita for solo violin (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Concerto for orchestra [2nd version] (1981-82)",
+      "year": "1981-82"
+    },
+    {
+      "title": "Wintry Impressions for accordion (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Miniatures for piano (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Children’s Suite for piano (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Broadcast VI for soprano and string quartet (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Trifle for accordion and bass clarinet (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Capriccio for accordion (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Impresje wiosenne for accordion (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Adagio for accordion (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Reminiscenza [1st version] for accordion, clarinet, violin and cello (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Rhapsody for accordion (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Sonata breve for concert accordion (with melodic bass keyboard) of a 120-bass accordion (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Symphony No. 2 for 13 string instruments (1983-84)",
+      "year": "1983-84"
+    },
+    {
+      "title": "Reminiscenza [2nd version] for string quartet (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Summer Impressions for flute, clarinet and accordion (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Bass-Relief I for accordion (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "May It Live and Grow ( Prelude ) for accordion (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Larghetto for accordion (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Bass-Relief II for accordion (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Three Studies for accordion (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Bass-Relief III for organ (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Where the Rainbow Ends for percussion and bass clarinet (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Bass-Relief IV for soprano and tubular bells (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Over the Rainbow for viola, percussion and accordion (1985-87)",
+      "year": "1985-87"
+    },
+    {
+      "title": "Bass-Relief V for cello (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Autumn Impressions for amplified bass accordion (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Bass-Relief VI for amplified bass accordion (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Divertimento for accordion (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Sonata No. 2 for accordion (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Sonatina No. 2 for accordion (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Four Novelettes for accordion (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Nocturne for two accordions (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Bass-Relief VII for accordion and percussion (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Three Little Preludes for accordion (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Sentimental Landscape for two accordions (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Gakkaj , 5 pieces for accordion for children (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "String Quartet No. 3 (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Bass-Relief IX ( „Scottish” ) for string quartet and tape (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Sonata for guitar (1990)",
+      "year": "1990"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Polony Leszek, Krzanowski Andrzej, In: Encyklopedia Muzyczna PWM [PWM Music Encyclopaedia] (biographical part ed. by Elżbieta Dziębowska), vol. “klł”, PWM, Kraków 1997 Andrzej Krzanowski’s Musical World [ Muzyczny świat Andrzeja Krzanowskiego ], Proceedings of a Research Conference – Cracow, 27th October 1998 (ed. by Janusz Pater), Akademia Muzyczna w Krakowie, Kraków 2000 Wachowska Sonia, Andrzej Krzanowski. Thematic Catalogue of Works. Calendar of Life and Work 1951-1990, Akademia Muzyczna w Katowicach, Katowice 2000",
+  "slug": "krzanowski-andrzej-en"
+}

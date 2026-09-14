@@ -1,0 +1,227 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/m/mozgala-andrzej-en",
+  "title": "Mozgała Andrzej",
+  "name": "Mozgała Andrzej",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": "composer, conductor, and teacher. He was born on 16 April 1975 in Bielsko-Biała. He attended the Stanisław Moniuszko School of Music in Bielsko-Biała studying the saxophone. In 1995 he started studying music education at the Cieszyn-based campus of Silesian University in Katowice and in 2000 went on to study composition with Józef Świder and theory of music at the Academy of Music in Katowice. After graduation, he began composing music for children and taught theoretical subjects at schools of music. He conducts choirs: Harp from Bielsko-Biała, Gorol from Jabłonków and Fontes from Rzeszów. Andrzej Mozgała won the first prize of the Muzyka Ogrodowa (Garden Music) International Composition Competition in Kraków (2006) for Babie lato ( Indian Summer ) and the third prize of the Polish National Passion Song Competition in Bydgoszcz (2008) for Psalm 22 . He received honourable mention at the 50th Tadeusz Baird Competition for Young Composers (2009) for Tryptyk ( Triptych ) for wind quintet; Fides at Ratio Composing Competition in Toruń (2009) for Tryptyk ( Triptych ) for mixed choir (audience award); and the Srebrna Szybka (Silver Pane) Composition Competition of Contemporary Music for Children and Young People (2011) for Impresje chopinowskie ( Chopin Impressions ) for violin, cello and piano. He was a finalist of the composition competition as part of the Kwidzyn International Music Festival (2020). In May 2013 his children's opera Alicja w Krainie Czarów ( Alice in Wonderland ) was put on by the Pro Musica School of Music in Krosno. The project was supported by the Ministry of Culture and National Heritage of Poland as part of the projects Collections - Composing Commissions run by the Institute of Music and Dance in Warsaw. His next operas, Calineczka , Opowieść Wigilijna and Cztery pory roku - Rok obrzędowy według Pieśni Stanisława Moniuszko were also staged by the Music School Pro Musica and the Music School Complex in Krosno and co-financed by the Ministry of Culture and National Heritage. He is the author of the anthem of the 20th International Festival of Religious Song \"Cantate Deo\" in Rzeszów (2016). Andrzej Mozgała performs as a cymbalist. He won the first place at the XXXVI National Cymbalists' Meetings in Rzeszów (2017) in the adult soloist category. In 2019 he recorded the main jingle (Fryderyk Chopin's Polonaise in A major op. 40 No. 1) on cymbals for the broadcasting needs of Polish Radio. He has transcribed and recorded Fryderyk Chopin's mazurkas on cymbals. He is vocalist and cymbalist of the Buen Camino band from Boguchwała. The group performs songs inspired by folk music. He took part in recording the following albums: Folcamino with Kapela z Futoma, Dokąd się śpiewa, jeszcze się żyje i trwa with songs by Jaromir Nohavica, Niepewność… do czego służy niebo for the poems of Janusz Koryl, Święta na BOGUchwałę and Kierunek Wisła. Adam Kowalski realized on the occasion of the 100th anniversary of Poland regaining independence. Updated: 2014 (ai), 2021 (Paulina Szurgacz)",
+  "birth": {
+    "place": "Bielsko-Biała",
+    "date": "16 April 1975",
+    "raw": "born on 16 April 1975 in Bielsko-Biała."
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Prządka for choir (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Sequentia for choir (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Do M for choir (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Transcendental Etiudes for alto saxophone (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Three Preludes for piano (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Sonata for harp (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Cantata about Love (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Totus Tuus for choir (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Don Quixote , symphonic poem for orchestra (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Indian Summer for saxophone and string orchestra (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Cycle of piano etudes (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Dziady for symphony orchestra (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Psalm XXII for choir (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Happy Islands for choir (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Little Cantata About Lord's Way (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "True story , children's opera (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Triptych for wind quintet (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Fairy's Dance for clarinet and piano (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Triptych for mixed choir (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Fata Morgana and Sentimental Journey for violin and piano (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Uprising 1919 for symphony orchestra (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "So Little for baritone and piano (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Phoenix for symphony orchestra (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Chopin Impressions for violin, cello and piano (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Dendrologic Symphony for symphony orchestra (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Sankada for string orchestra (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Alice in Wonderland , children's opera (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Kites for saxophone and harp (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Bird Radio for choir (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Fable Sonata (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Suita sentymentalna for alto saxophone and string orchestra (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Gorzkie żale for mixed choir (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Psalm 1 for mixed choir (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Cantate Deo for choir and string orchestra (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Szturm for mixed choir (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Calineczka , children's opera (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Niezłomni , oratorio for sopran, baritone, choir and orchestra (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Lokomotywa for children's choir (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Tryptyk zimowo-świąteczny (Świąteczne igraszki, Pasterka, Kulig) for mixed choir (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Polonez for orchestra (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Ecclesiastes for mixed choir (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Missa – Orbis Factor for mixed choir and string orchestra (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Opowieść wigilijna , children's opera (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Cztery pory roku – Rok obrzędowy wg Pieśni S. Moniuszki , children's opera (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Wiosenne igraszki for flute and piano (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Cyrenejczyk for mixed choir (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Kwartet saksofonowy (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Kantata dla wyklętych „Łączka Ł” (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Symfonia pandemiczna (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Oratorium o Czcigodnym Sł. B. O. Wenantym Katarzyńcu (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "Bema pamięci żałobny rapsod for mixed choir (2021)",
+      "year": "2021"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "mozgala-andrzej-en"
+}

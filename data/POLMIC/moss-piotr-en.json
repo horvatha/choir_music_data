@@ -1,0 +1,763 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/m/moss-piotr-en",
+  "title": "Moss Piotr",
+  "name": "Moss Piotr",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "composer; b. 13th May 1949 in Bydgoszcz. He studied composition with Piotr Perkowski at the State Higher School of Music in Warsaw, graduating with honours in 1972. In 1976-77 he continued his studies with Nadia Boulanger in Paris, where he received the Friends of Lili Boulanger Society Award for his entire oeuvre. He has also been awarded in national and international competitions for composers: in 1972 - 1st prize in the Competition for Composers in Cracow for Tre istanti per arpa sola (1972); in 1973 - 2nd prize in the Young Composers' Competition of the Polish Composers' Union for his Symphony \"Charon\" (1973); in 1978 - 1st prize in the International K. M. Weber Competition for Composers in Dresden for Quartetto per quattro violoncelli (1978) and the main award in the competition of the Associazione Musicale Valentino Bucchi in Rome for Trois pensées... for clarinet and chamber ensemble (1978); in 1979 - 1st prize in the Artur Malawski Competition for Garść liści wierzbowych [ A Handful of Willow Leaves ] for baritone, 3 cellos and 3 double-basses to poems by Jarosław Iwaszkiewicz (1978); in 1982 - 3rd prize in the International Competition for Composers in Stroud for Chants d’antan for flute and piano (1982) and 1st prize in the International Competition for Composers in Barcelona for Salve Regina for boys' choir and organ (1981); in 1983 - 2nd prize in the International \"Berliner Liedertofel\" Competition in West Berlin for Gloria for men's choir, 3 trumpets and 3 trombones (1982); in 1984 - 1st prize in the Competition for Composers in Fresnes for Musique concertante for piano and four instruments (1983), 2nd prize in the Composers' Competition in Bernach for Der du bist drei in Einigkeit for mixed choir and string quintet (1984) and 3rd prize in the Competition for Composers in Brazil for the trio Stances for clarinet, cello and piano (1984-85); in 1988 – 2nd prize in the Karol Szymanowski Competition in Warsaw for Veillée for oboe and string orchestra (1988). Moss's works have been performed in many countries in Europe, as well as the United States, Singapore, Columbia and South Africa. Since 1993, he has collaborated with the writer Jean-Luis Bauer, with whom he has jointly produced the following works: the melodrama Ugui for reciting voice and orchestra (1993), the oratorio Gédéon (1996), two chamber operas: Karla (1996) and Les Ailes de Jean-Pierre (1997) and a song cycle for tenor and orchestra De l’amour... (1994). Piotr Moss has lived in Paris since 1981.",
+  "birth": {
+    "place": "Bydgoszcz",
+    "date": "13th May 1949",
+    "raw": "b. 13th May 1949 in Bydgoszcz"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Tre istanti per arpa sola (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "“Charon” Symphony (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Szkice o miłości na sopran i orkiestrę (1972-73)",
+      "year": "1972-73"
+    },
+    {
+      "title": "Trio for violin, cello and piano (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Concerto for cello and orchestra (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Music in Three Parts for harpsichord and 3 groups of instruments (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Dialogues for violin and piano (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Piece for four trombones (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Quartetto per quattro violoncelli (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Trois pensées... for clarinet and chamber ensemble (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Sinfonia in dieci parti (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "A Handful of Willow Leaves for baritone, 3 cellos and 3 double-basses (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Concerto for harpsichord and two string orchestras (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Salve Regina for children’s choir and organ (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Sonata for solo cello (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Incontri per orchestra (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Chants d’antan for flute and piano (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Petites histoires for solo bassoon (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Silence for orchestra (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Gloria for men’s choir, 3 trumpets and 3 trombones (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Musique en trois mouvements for cello and chamber ensemble (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Cinq impromptus for solo guitar (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Sonata for string quartet (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Nostalgies I for clarinet (bass clarinet) and two string quartets (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Magnificat I for children’s choir and organ (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Cinque intermezzi for two violins (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Musique concertante for piano and four instruments (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Little Stories for 3 bassoons (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Concertino for two violins, two string quartets and double-bass (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Nuits... String Quartet No. 3 (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Der Du bist drei in Einigkeit for mixed choir and string quintet (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Stances , trio for clarinet, cello and piano (1984-85)",
+      "year": "1984-85"
+    },
+    {
+      "title": "Suite na flet i fortepian (1984-87)",
+      "year": "1984-87"
+    },
+    {
+      "title": "Symphonie concertante for flute, piano and orchestra (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Hymne for orchestra (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Magnificat III per soli e coro (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Solo II for cello (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Thèmes variés na róg i fortepian (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Musique élégiaque for bassoon and string quintet or string orchestra (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Form III for two bass clarinets (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Elegia – Alexandre Tansman in memoriam for 2 cellos (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Aus der Tiefe , kantata na bas, chór mieszany i zespół instrumentalny (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Form V for flute, cello and piano (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Elegy No. 2 for cello and string orchestra (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Stylisations II for horn and string orchestra (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Défets , oratorio (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Maillons for harpsichord and string quartet (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Expériences na orkiestrę (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Suite na harfę celtycką i mandolinę (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Maximen und Reflexionen for piano and string quintet (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Angst und Form. Concerto pour saxophone alto et orchestre avec soprano obligé (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Scènes pour ensemble instrumental (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Veillée for oboe and string orchestra (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Métaphores for alto saxophone and piano (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "D’un silence... Concerto pour clarinette (prenant clarinette basse) et orchestre (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Form VI pour baryton, kontrabas i chór mieszany (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Sonate pour saxophone alto et piano (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Espressioni varianti. Concerto for harp, 2 flutes, 2 percussions and strings (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Sueños , oratorio for soloists, choir and orchestra (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Quartettsatz for piano and string trio (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Scherzo na zespół instrumentalny (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Quartettino na trio instrumentów dętych drewnianych i akordeon (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Récit pour violoncelle seul (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Mélancolies d’automne pour saxophone alto et orchestre ŕ cordes (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Novella for orchestra (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Pantum for mezzo-soprano, cello and piano (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Solo IV for alto saxophone (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Ragtime II for 8 cellos (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Form IX for piano (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Tissages na orkiestrę (1992-93)",
+      "year": "1992-93"
+    },
+    {
+      "title": "Intrada for orchestra (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Ugui for reciting voice and orchestra (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Capriccio for piano and strings (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Duos pour 2 violons (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "De l’amour , five songs for tenor and orchestra (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Form XI for two alto saxophones (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Adagio II for organ and strings (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Fantaisie for cello and strings (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Concerto-Rhapsodie for trombone and orchestra (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Karla , opera in two acts (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Gédéon , oratorio (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Les Ailes de Jean-Pierre , opera in one act (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Le cirque de Giuseppe na recytatora i orkiestrę (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Fresque pour orchestre (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Dzień-Noc , kantata na kontralt i orkiestrę (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Visages. Concerto pour hautbois et orchestre (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Episodes na orkiestrę (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Concerto “Voyage” for two harps and orchestra (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Misterioso for 2 cellos (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Tempo di tango for flute, guitar and viola (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Tango for choir and orchestra (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Le petit singe bleu for reciting voice and orchestra (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Weihnachtskantate for soprano, women’s choir, organ and strings (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Form XIII for 4 horns (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Suite LA for orchestra and choir (ad libitum) (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Cinq pièces for flute, harp and strings (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Quatre improvisations for solo harp (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Meditation und Psalm for choir and orchestra (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Stabat Mater for mezzo-soprano, choir and 8 cellos (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Ombres for 10 violins and piano (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Sternlicht-Sonate for piano (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Piano Concerto “Portraits” (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Concerto “Prièeres” No. 2 for cello and orchestra (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Rhapsody for orchestra (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Etude de concert for piano (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Intermède for two wind orchestras (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Passage for choir, wind orchestra and symphony orchestra (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Et Dieu couvrit son visage for mezzo-soprano and chamber ensemble (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Cinq airs d’opéra for mezzo-soprano and orchestra (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Solo V for clarinet (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Récit II for violin and orchestra (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Récit III for violin and instrumental ensemble (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "La malédiction de Noémia , music play for reciter, soprano, mezzo-soprano, children's choir, chamber ensemble, electronic sounds and orchestra (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Drei elegische Gesänge für Frauenchor und Streicher (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Elegy No. 3 for viola and piano (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Partita for orchestra (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Elegy No. 4 for strings (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Méditation et danse pour petite clarinette en mib (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Cinq tableaux de Caspar David Friedrich for orchestra (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Form XIV for voice and cello (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Breviary for baritone and strings (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Entre les jours for mezzo-soprano and string quartet (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Niké hésitante for tenor and strings (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Septembre for mezzo-soprano, cello and piano (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Chagall. String Quartet No. 4 (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Masques , concerto for flute and orchestra (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Introduction et Rondino for flute and piano (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Passions – Concerto for 2 Cellos and Orchestra (2009-2010)",
+      "year": "2009-2010"
+    },
+    {
+      "title": "Hymne III for wind quartet and organ (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Hymnes et invocations for flute and string trio or string quartet (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Prélude for piano (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Alleluja for children's choir, mixed choir and orchestra (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Concerto-Sérénade for 2 flutes and small orchestra (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "...et seul le silence après eux... for soprano and orchestra (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Poèmes de Kawafis for baritone and orchestra (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Za chwilę… for baritone and piano trio (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Sonata for Cello and Piano (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Form XV for flute and organ (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Berceuses pour Hugo for 2 flutes (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Duettino IV for clarinet and cello (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Récit IV for viola and strings (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Moment musical III for oboe, violin and harp (2012/2013)",
+      "year": null
+    },
+    {
+      "title": "Valse sentimentale for harp (2012/2013)",
+      "year": null
+    },
+    {
+      "title": "Dédicace V for instrumental ensemble (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Les Adieux, trio for 2 violins and viola (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Dédicace VI for violin and viola (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Angst und Vertrauen - flute quartet (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Ophélie, trio for flute, viola and harp (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Pezzo elegiaco for violin and harp (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Moments musicaux IV for 2 flutes (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Drôle de valse for piano (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Hommage à Toruń for orchestra (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Tenebroso - concerto for 2 flutes and orchestra (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Przemijanie for alto and 4 cellos to the words by Maciej Wojtyszko (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Trio for violin, viola and cello (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Suite française for guitar and accordion (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Musique pour cordes (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Bromba i muzyka for actors and orchestra to the words by Maciej Wojtyszko (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Nature morte for flute/piccolo flute, clarinet/bass clarinet and cello (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Concerto élégiaque for viola and orchestra (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Dédicace VII for 4 guitars (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Opole Concerto for violin and orchestra (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Dédicace VIII for orchestra (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Kołysanka dla Mruczka for flute and harp (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Offenbachiana II for 4 cellos (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Variations sur un thème de Mozart for strings (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Asnyk's Sonnets for soprano (mezzo-soprano) and orchestra (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Laurka for orchestra (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Symphonie nr 5 \"La Bizarre\" (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Ein Lied an Gott for mezzo-soprano and 2 cellos to the words by Else Lasker-Schueler (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Polonaise 1989 for orchestra (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Valse pour quatre for piano quartet (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Te Deum for soprano, baritone, choir and orchestra (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Elegy Suite for cello ensemble (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Improvvisazione for harp solo (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "According to Memling , concerto for flute, organ and orchestra (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Changes in the Weather , a cycle of songs for baritone and strings to the words by Janusz Szuber (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Sombres lumières , concerto for cello, piano and orchestra (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Seule , a cycle of songs for soprano and orchestra to the words by Christine de Pisan (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Form XVI for 3 accordions and organ (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "Tren pamięci zabitych górników z kopalni Wujek for 9 cellos, wind orchestra and symphony orchestra (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "Souvenir for cello and accordion (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "Concerto malinconico for tenor saxophone and orchestra (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "Suite concertante for guitar and strings (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "Tango variabile for viola and piano (2021)",
+      "year": "2021"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Lindstedt Iwona, Moss Piotr, In: Encyklopedia Muzyczna PWM (część biograficzna pod red. Elżbiety Dziębowskiej), t. „m” [PWM Music Encyclopaedia, biographical part ed. by Elżbieta Dziębowska], vol. “M”, t. „m”, PWM, Kraków 2000 Lisiecka Anna, Laureat światowych nagród [Winner of International Awards], \"Twoja Muza\" 2003 nr 1, s.25-26. Piotr Moss: pociąga mnie artystyczna wszechstronność opery, \"Muzyka21\" 2008 nr 2, s. 8-9",
+  "slug": "moss-piotr-en"
+}

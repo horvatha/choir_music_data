@@ -1,0 +1,247 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/g/gniot-walerian-en",
+  "title": "Gniot Walerian",
+  "name": "Gniot Walerian",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Kwintet fortepianowy (1935)",
+      "year": "1935"
+    },
+    {
+      "title": "Uwertura B-dur na orkiestrę (1935-36)",
+      "year": "1935-36"
+    },
+    {
+      "title": "Uwertura D-dur na orkiestrę (1936)",
+      "year": "1936"
+    },
+    {
+      "title": "Trio na flet, altówkę i kontrabas (1936)",
+      "year": "1936"
+    },
+    {
+      "title": "Cztery pieśni na chór męski a cappella (1937)",
+      "year": "1937"
+    },
+    {
+      "title": "Taniec zbójnicki na chór męski, 2 skrzypiec i wiolonczelę (1937)",
+      "year": "1937"
+    },
+    {
+      "title": "Sinfonietta (1937)",
+      "year": "1937"
+    },
+    {
+      "title": "Sonata na kontrabas i fortepian (1938)",
+      "year": "1938"
+    },
+    {
+      "title": "Dwie pieśni na głos solowy z towarzyszeniem fortepianu do słów Kazimierza Przerwy-Tetmajera i Leopolda Staffa (1939)",
+      "year": "1939"
+    },
+    {
+      "title": "Trzy pieśni na głos solowy z towarzyszeniem fortepianu do słów Tadeusza Micińskiego i Marii Konopnickiej (1939)",
+      "year": "1939"
+    },
+    {
+      "title": "Trio nr 3 na skrzypce, altówkę i wiolonczelę (1943)",
+      "year": "1943"
+    },
+    {
+      "title": "Sonata-Concerto na klarnet i fortepian (1945)",
+      "year": "1945"
+    },
+    {
+      "title": "Missa Exsurgat Deus na chór i organy (1946)",
+      "year": "1946"
+    },
+    {
+      "title": "Symfonia (1947)",
+      "year": "1947"
+    },
+    {
+      "title": "Kwartet smyczkowy (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "Pamięci Chopina , kantata na chór mieszany i orkiestrę symfoniczną (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "Pięć pieśni ludowych wielkopolskich na chór mieszany a cappella (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "Pierwiosnek , kantata na tenor, chór mieszany i orkiestrę (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "Pieśń Chopina na chór mieszany i małą orkiestrę symfoniczną (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "Patrzała oknem , wariacje na temat ludowy wielkopolski na fortepian (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "Dwanaście melodii ludowych wielkopolskich na fortepian (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "Uwertura kujawska na orkiestrę (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "Sześć pieśni ludowych wielkopolskich na chór mieszany a cappella (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "Tryptyk wielkopolski na chór mieszany i orkiestrę symfoniczną (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "Allegro koncertowe na saksofon i fortepian (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "Impresje olimpijskie , 10 utworów na fortepian (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Ballada na róg i fortepian (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "W imionniku , pieśń na głos z fortepianem do słów Adama Mickiewicza (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "Marsz fantastyczny na skrzypce i fortepian (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "Wariacje na temat ludowy na fortepian i orkiestrę symfoniczną (1957)",
+      "year": "1957"
+    },
+    {
+      "title": "Kwintet dęty nr 1 na flet, obój, klarnet, róg i fagot (1958)",
+      "year": "1958"
+    },
+    {
+      "title": "Kwintet dęty nr 2 na flet, obój, klarnet, róg i fagot (1959)",
+      "year": "1959"
+    },
+    {
+      "title": "Lokomotywa na mezzosopran i chór mieszany (1961)",
+      "year": "1961"
+    },
+    {
+      "title": "Wielka symetria na orkiestrę (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Sei movimenti na flet, obój, klarnet, trąbkę, róg i fagot (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Kwintet na flet, 2 klarnety i fagot (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Kwintet dęty nr 3 na flet, klarnet, trąbkę, róg i fagot (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Musica seria na organy (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Śląsk śpiewa na chór mieszany a cappella (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Dachy na chór mieszany a cappella (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "R-FL-X-67 per orchestra da camera (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Impresje olsztyńskie na flet i fortepian (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "In memoriam na organy (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Quincunx , cykl utworów na 2 trąbki, róg i puzon (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Satyr w parku na chór męski a cappella (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Riflessi na 2 fortepiany (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Migawki na 2 trąbki, róg i puzon (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Sekstet na 2 trąbki, 3 rogi i puzon (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Variazioni per violino solo (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Anka , cykl pieśni na baryton i fortepian do słów Władysława Broniewskiego (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "M-M I na orkiestrę symfoniczną (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Dytyramb na organy (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Meandry dla 12 wykonawców (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Musica per violino e orchestra (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Ben ritmico na zespół perkusyjny (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Sekstet dęty nr 2 na 2 trąbki, 2 rogi i 2 puzony (1977)",
+      "year": "1977"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "gniot-walerian-en"
+}

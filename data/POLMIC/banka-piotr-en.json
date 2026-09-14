@@ -1,0 +1,55 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/b/banka-piotr-en",
+  "title": "Bańka Piotr",
+  "name": "Bańka Piotr",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Ecstasy to a Saint on a Procession Float for orchestra, choir, soloist, electronic instruments and sounds generated in computer memory (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Union of Nations, multimedia spectacle (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Music for spectacles: St. Joseph , dir. Jacek Dudzic (1995) Show Us the Father , dir. Jacek Dudzic (1995) Executor , dir. Marek Rębacz (1999) Living Forever , dir. Jacek Dudzic (2000) Words of Hope , dir. Grzegorz Misiewicz (2002) Alice in Wonderland , dir. Jacek Dudzic (2005) Verushka , dir. Marek Rębacz (2006) How Kudłatek Changed Christmas , dir. Marek Rębacz (2012) Music for radio dramas: Dispersing the Dark , dir. Danuta Bieniaszkiewicz (1994) Mechanism , dir. Sylwester Woroniecki (1998) The Ugly Duckling (2003) The Emperor and the Nightingale (2003) The Princess and the Pea (2003) A Christmas Carol (2003) The Emperor's New Clothes (2003) The Snow Queen (2004) The Flying Trunk (2004) The Steadfast Tin Soldier (2004) The Swineherd (2004) Thumbelina (2005) Puss in Boots (2005) The Little Mermaid (2005) Right Under My Nose (2012) Music for films: Zakopane , prod. DDS Goethe Institute (1994) Burg 1993 , prod. DDS Goethe Institute (1994) Jesus , prod. Millennium Films International (2006) Open wide the doors... , prod. Millennium Films International (2006) Today & Tomorrow , dir. Marcin Stawarz (2008) My Poland - Ryszard Kaczorowski’s Last Story , dir. Grzegorz Gajewski (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Chłopcy z lasu , dir. Wiesław Paluch (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Wena , dir. Bartłomiej Nowakowski (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Basia sama w domu , dir. Marek Rębacz",
+      "year": null
+    },
+    {
+      "title": "(2021)",
+      "year": "2021"
+    },
+    {
+      "title": "Symphony of Science, multimedia spectacle (2021)",
+      "year": "2021"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "banka-piotr-en"
+}

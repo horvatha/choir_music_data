@@ -1,0 +1,431 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/p/porebski-adam-en",
+  "title": "Porębski Adam",
+  "name": "Porębski Adam",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": "composer; b. 31st March 1990 in Wrocław. In 2014 he graduated from the Karol Lipiński Academy of Music in Wrocław, where he studied composition with Krystian Kiełb (Honorary Diploma Primus Inter Pares) and violin with Jarosław Pietrzak and Małgorzata Kogut-Ślanda. He hoaned his skills at the \"Synthesis\" International Course for Composers in Radziejowice (2014, 2015), the 22nd Young Composers Meeting in Apeldoorn (2016) and the Latvian National Symphony Orchestra International Workshop for Young Composers in Rēzekne (2019). In 2016 he received a Doctor of Msical Arts Degree. Since 2020 he has been a Deputy Dean of the Faculty of Composition, Conducting, Music Theory and Music Therapy at the Academy of Music in Wrocław. He has been granted scholarships by the Ministry of Culture and National Heritage (2010-2012), the Ministry of Science and Higher Education (2012-2014), the Mayor of City Wrocław (2010-2014), the ZAiKS Authors' Association (2014, 2017). Additionally, he was honoured for his outstanding achievements with the Ministry of Culture and National Heritage Award for students of artistic educational institutions (2012), he was a laureate of the Student's Nobel Prize Competition (2014) and the Young Poland Scholarship (2015). He has received numerous awards in Polish and international composition competitions, including the 1st prize in the 4th Witold Szalonek Composition Competition of the Silesian Rostrum of Composers in Katowice for Archaikum for chamber string orchestra (2009), the 3rd prize in the Grzegorz Fitelberg Polish National Competition for Composers in Katowice for Unireum for large symphony orchestra (2011), the 2nd prize in the Krzysztof Penderecki International Composers' Competition ARBORETUM in Radom for ...Stretched for strings (2012), an honourable mention in the International Competition GENERACE in Ostrava for String quartet (2013) and twice an honourable mention in the Tadeusz Ochlewski Composers' Competition in Krakow – in the 10th edition for Semi-overture for string orchestra (2012), and in the 12th edition for Kolby for small symphony orchestra (2014). His compositions have been performed by such orchestras and ensembles as the Polish National Radio Symphony Orchestra, Beethoven Academy Orchestra, NFM Wrocław Philharmonic, Polish Radio Chamber Orchestra Amadeus, Tallinn Chamber Orchestra, Orkest de Ereprijs, Sound Factory Orchestra, Hashtag Ensemble, Nordlys Ensemble, Kwadrofonik, Fama Q, Duo van Vliet and others in many European countries, among others in Poland (the Witold Lutosławski Concert Studio in Warsaw, Concert Hall NOSPR in Katowice, National Forum of Music in Wrocław, Centennial Hall in Wrocław, Adam Mickiewicz University Hall in Poznań, The Arthur Rubinstein Philharmonic in Łódź, The Oscar Kolberg Philharmonic in Kielce), Austria, the Czech Republic, Denmark, Estonia, Germany, Great Britain, Lithuania, Latvia, the Netherlands, Serbia, Australia (Sydney Opera House) and USA (Boston, New York). His music have been performed at such festivals as ISCM World Music Days 2019 in Tallin, Warsaw Autumn, Musica Polonica Nova and Musica Electronica Nova in Wrocław, Warsaw Music Encounters, AudioStage in Warsaw, Poznań Music Spring, Silesian Rostrum of Composers in Katowice, Janacek May in Ostrava, Świętokrzyskie Music Days in Kielce, Musica Moderna in Łódź, New Waves in Gdańsk, Christopher’s Summer Festival in Vilnius. Many of his compositions have been incorporated as obligatory pieces into the programmes of Polish and international performance competitions. His works have been recorded by Orchid Classics, DUX, Requiem Records, published by PWM Edition, Publishing House of the Academy of Music in Wrocław, Publishing House of the Academy of Music in Poznań, as well as broadcast by Polish and foreign radio stations. Adam Porębski's output contains over 70 compositions representing various genres and forms of instrumental, vocal, vocal-instrumental, electroacoustic music and music for theater plays. Even before starting his studies, in March 2009 he made his debut as a composer on the Wrocław Philharmonic stage with the piece Contrafluctum for symphony orchestra. Two months later he received the 1st Prize at the National Composers' Competition Opole'2009 for the piece Varianti for violin and piano. In 2013 during the Great Anniversary Concert on the occasion of the official opening of the new concert hall in Karol Lipiński Academy of Music in Wrocław his piece Hierophonos F-E-C-H was performed by the Symphony Orchestra under the baton of Marek Pijarowski. As part of the European Capital of Culture 2016 in Wrocław, Adam Porębski composed music for one of the four parts of the Wrocław Cantata for choir and symphony orchestra – an outdoor multimedia show that was watched live by about 50,000 viewers. In 2019 his piece Semi-overture for string orchestra was qualified by the international jury of the International Society of Contemporary Music (ISCM) to perform in the same year during festival World Music Days in Estonia. Adam Porębski was also a laureate of the 3rd Edition of the Music of Our Times Program, organised by the Krzysztof Penderecki European Centre for Music. Adam Porębski is a member of the Polish Society for Contemporary Music and the Polish Composers’ Union, where he holds the position of treasurer of the Wrocław Branch. updated: 2019, 2021 (Agnieszka Cieślak) Composer's website: www.adamporebski.com",
+  "birth": {
+    "place": "Wrocław",
+    "date": "31st March 1990",
+    "raw": "b. 31st March 1990 in Wrocław"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Impression for piano (2005-2007)",
+      "year": "2005-2007"
+    },
+    {
+      "title": "Polyphonic Games for string orchestra (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Quadrum for violin and cello (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Miniature for violin and piano (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Joke for violin and piano (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Varianti for violin and piano (2008-2009)",
+      "year": "2008-2009"
+    },
+    {
+      "title": "Contrafluctum for symphony orchestra (2008-2009)",
+      "year": "2008-2009"
+    },
+    {
+      "title": "Orient for flute solo (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Archaikum for chamber string orchestra (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "The bird’s-eye view for flute solo (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Barocco for harpsichord solo (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "String Quartet (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Three Songs for female voice and piano to words by Kazimierz Przerwa-Tetmajer (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Pinchoria for piano (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Phant for violin solo (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Ondes for marimba trio (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Denosora for 3 percussion groups and wind instruments (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "…Stretched for strings (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Co było wielkie , three songs for baritone and piano to the poems by Czesław Miłosz (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Children’s Epigrams for piano (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Unireum for large symphony orchestra (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Project X , instrumental theater in collaboration with Monika Gałła and Dominik Lewicki (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Cut stor y for accordion solo (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Semi-overture for string orchestra (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Angular Clouds for viola solo (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Puzzle for viola solo (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Duello for violin and flute (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "When I think… three pictures for piano (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Hierophonos F-E-C-H for orchestra (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Ge(i)ms for qwerty and computer (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "ReVerse for marimba solo (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "ReVerse 2 for viola and accordion (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Three Songs for soprano and organ to the poems by Emily Dickinson (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Orient bis for flute solo (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Music for the monodrama Akwarium , dir. Aneta Ćwieluch based on the oratorio of Bożena Keff A piece about the Mother and the Fatherland (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "ReVerse 4 for violin, clarinet, cello and piano (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Flow 3 for electric guitar, bass clarinet and electronics (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Quadro a due +1 for 4 violins, computer and marimba (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Sinfonia moderna for accordion, marimba, choir and orchestra (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "TRANCEition for 4-6 performers (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "A-live for two random instruments and computer (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Kolby for small orchestra (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "ReVerse 3 for clarinet, double bass and piano (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "JaMboree for flute, double bassoon and piano (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Goliady for harp, cello and piano (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "VertiHora for violin, bass/alto flute, synthesizers and electronics (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "NoOnC r for tape (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "X for (not necessarily professional) ensemble (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Music School (collective composition in cooperation with Galeria Entropia) for digital piano, percussion, double bass, electronics and video (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Primes for violin solo (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Acoustic Dialogues for two pianos (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Re-imAGiny for ensemble and electronics (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Cho for 2 pianos and 2 percussions (one of the parts of the collective work Ogniwa ) (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Wroclaw Cantata - project FLOW (part 4: Rebuilding, Flood, Rebuilding) for choir and orchestra (2015-2016)",
+      "year": "2015-2016"
+    },
+    {
+      "title": "Panta for ensemble (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Eo for harp solo (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "n-Cyclus for symphony orchestra (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Duello a 3 for flute, violin and viola (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Flash 70 for symphony orchestra (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "InterGerencje for flute, double bass, chamber ensemble and electronics (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Gregor Samsa, audiostage piece (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Mobile for piano for 4 hands (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "AntiBuzz for viola and electronics (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "DisCulations for 5 instruments (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Gregoriads for flute and chamber ensemble (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Misty Melodies for cello and piano (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Semi-keys for symphony orchestra and electronics (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "KropkoLinie for violin and harp (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "@piacere , interactive installation (in cooperation with Dariusz Jackowski) (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "First Command, electroacoustic suite for chamber ensemble based on The Shadow-line by Joseph Conrad (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "GRAzioso for 5 instruments (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Linea for multipercussion and computer (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "SubMelodie for alto saxophone and piano (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Verses for saxophone orchestra, tuba and percussion set (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Nonbagatelle for accordion and bass accordion (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Impra for an improvising violinist, electronics and video (in cooperation with Alicja and Mariusz Jodko and Anna Zielińska) (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "foLksong for ensemble (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Illusions for symphony orchestra (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Post-suite for wind quintet and piano (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Phantom Trio for violin, cello and piano (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "FluteDiving for flute solo (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Stabat Mater for soprano, cello, mixed choir and string orchestra (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "Shire Bet Haknesset [1st version], 5 synagogue songs based on the melodies of Abraham Lichtenstein for organ, cantor and children’s choir (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "inVisible for soprano, cello and electronics (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "Una voce for alto saxophone and organ (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "Half-piece for alto saxophone (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "GUESSture for piano solo (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "The Thing for cello solo (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "MUTAcje for solo trombone (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "Shire Bet Haknesset [2nd version], 5 synagogue songs based on the melodies of Abraham Lichtenstein for solo organ (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "Mini-Cycles for alto saxophone (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "Music of Illusions for chamber orchestra and electronics (2022)",
+      "year": "2022"
+    },
+    {
+      "title": "Bujdy i Bujanki for piano trio, chamber ensemble and electronics (2022)",
+      "year": "2022"
+    },
+    {
+      "title": "Xchange for 2 flutes and harpsichord or piano (2022)",
+      "year": "2022"
+    },
+    {
+      "title": "reLudia for flute, clarinet and piano (2022)",
+      "year": "2022"
+    },
+    {
+      "title": "Sol Invictus β , interactive installation in collaboration with Angelika Iżykowska (2022)",
+      "year": "2022"
+    },
+    {
+      "title": "Sol Invictus α , an audiovisual piece for electronics and video with a stage layer in collaboration with Angelika Iżykowska and Agnieszka Smętek (2022)",
+      "year": "2022"
+    },
+    {
+      "title": "ReTurns for alto saxophone and piano (2023)",
+      "year": "2023"
+    },
+    {
+      "title": "Music for the theater play Love to Three Oranges , dir. Katarzyna Donner (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Music for the theater play The Daily Situation O. , dir. Krzysztof Boczkowski (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Music for the theater play I will put fire with my friends’ hands , dir. Grzegorz Grecas (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Music for the theater play Peace on Earth , dir. Mariusz Sibila (2019)",
+      "year": "2019"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "porebski-adam-en"
+}

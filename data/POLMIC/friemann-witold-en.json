@@ -1,0 +1,559 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/f/friemann-witold-en",
+  "title": "Friemann Witold",
+  "name": "Friemann Witold",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": "composer, pianist and teacher; b. 20th August 1889 in Konin; d. 22nd March 1977 in Laski near Warsaw. He began his piano lessons with Paweł Romaszka, and he learned music theory with Marek Zawirski. In 1909, he graduated from the Institute of Music in Warsaw, where he studied piano with Aleksander Michałowski, and composition and instrumentation with Zygmunt Noskowski and Roman Statkowski. From 1912 he stayed in Leipzig and Meiningen, where he continued his piano lessons with Joseph Pembaur Junior and composition classes with Max Reger. He made his debut as a pianist in 1914 in Leipzig, but his concert activity was interrupted by the outbreak of World War I. He returned to performance in 1921, where he came to Lviv after the end of hostilities thanks to Adolf Chybiński. Until 1929, he also taught piano at the Conservatory of the Polish Music Society in Lviv and wrote articles for the \"Słowacki\" magazine. At that time, he also became known as a composer, mainly thanks to vocal lyric (he wrote about 400 songs, performed, among others, by Ada Sari) and piano pieces (he composed about 320 preludes, over 240 mazurkas, many miniatures, etudes, nocturnes and dances), which he often performed himself during composers' concerts. In 1929 he moved to Katowice, where he organized the State Music Conservatory and became its director. On his initiative, the only Military Music School in Poland was established at the University of Katowice. In 1933 he moved to Warsaw, where he worked at the Polish Radio, initially as a \"music controller\" and then as a \"classical music clerk\". During World War II, the artist performed underground concerts and taught piano lessons. From 1946, for 17 years he was a choir conductor and a piano teacher at the Institute for the Blind in Laski near Warsaw. He also stayed here after his retirement. Witold Friemann has been honored with many awards and decorations, including the Golden Cross of Merit (1938, 1958), the Officer's Cross of the Order of Polonia Restituta (1960), the 2nd degree award of the Minister of Culture and Art for piano and vocal works (1963). updated: 2020 (Agnieszka Cieślak)",
+  "birth": {
+    "place": "Konin",
+    "date": "20th August 1889",
+    "raw": "b. 20th August 1889 in Konin"
+  },
+  "death": {
+    "place": "Laski near Warsaw",
+    "date": "22nd March 1977",
+    "raw": "d. 22nd March 1977 in Laski near Warsaw"
+  },
+  "works": [
+    {
+      "title": "Konrad Wallenrod , symphonic poem (1908)",
+      "year": "1908"
+    },
+    {
+      "title": "Angel , song for voice and piano to the words by Michaił Lermontow (1909)",
+      "year": "1909"
+    },
+    {
+      "title": "Sad Tale for piano (1910)",
+      "year": "1910"
+    },
+    {
+      "title": "Psalm VIII for solo voices, choir and orchestra to the words by Jan Kochanowski (1910)",
+      "year": "1910"
+    },
+    {
+      "title": "Polish Sonata for violin and piano (1912)",
+      "year": "1912"
+    },
+    {
+      "title": "Concerto-Fantasia for piano and orchestra No. 1 (1913)",
+      "year": "1913"
+    },
+    {
+      "title": "Prayer , song for voice and piano to the words by Leopold Staff (1913)",
+      "year": "1913"
+    },
+    {
+      "title": "Elegy for cello and piano (1913)",
+      "year": "1913"
+    },
+    {
+      "title": "Psalm XXX for solo voices, choir and orchestra to the words by Jan Kochanowski (1921)",
+      "year": "1921"
+    },
+    {
+      "title": "Nocturne for violin and piano (1921)",
+      "year": "1921"
+    },
+    {
+      "title": "Circassian Song for voice and piano to the words by Michaił Lermontow (1922)",
+      "year": "1922"
+    },
+    {
+      "title": "Psalm XC for choir to the words by Jan Kochanowski (1922)",
+      "year": "1922"
+    },
+    {
+      "title": "Romances for violin and piano (1922)",
+      "year": "1922"
+    },
+    {
+      "title": "Victory , song for voice and piano to the words by Rabindranath Tagore (1925)",
+      "year": "1925"
+    },
+    {
+      "title": "Invocation for 12 wind instruments and timpani (1926)",
+      "year": "1926"
+    },
+    {
+      "title": "Old Time Suite for piano (1927)",
+      "year": "1927"
+    },
+    {
+      "title": "Funeral March for orchestra (1928)",
+      "year": "1928"
+    },
+    {
+      "title": "Lovely Eyes , song for voice and piano to words by Kazimierz Przerwa-Tetmajer (1928)",
+      "year": "1928"
+    },
+    {
+      "title": "I Remember Quiet, Bright , Golden Days , song for voice and piano to the words by Kazimierz Przerwa-Tetmajer (1928)",
+      "year": "1928"
+    },
+    {
+      "title": "May Night , song for voice and piano to the words by Kazimierz Przerw-Tetmajer (1928)",
+      "year": "1928"
+    },
+    {
+      "title": "Etude in Seconds for piano (1928)",
+      "year": "1928"
+    },
+    {
+      "title": "Eastern Tale for oboe, violin, cello and piano (1931)",
+      "year": "1931"
+    },
+    {
+      "title": "String Quartet No. 1 \"Silesian Rhapsody\" (1932)",
+      "year": "1932"
+    },
+    {
+      "title": "Prelude for cello and piano (1933)",
+      "year": "1933"
+    },
+    {
+      "title": "Chanson d’automne for voice and piano to the words by Paul Marie Verlaine (1933)",
+      "year": "1933"
+    },
+    {
+      "title": "Giewont , opera (1934)",
+      "year": "1934"
+    },
+    {
+      "title": "Four Knight Songs , suite for viola and harp (or piano) (1935)",
+      "year": "1935"
+    },
+    {
+      "title": "Suita antica for violin and piano (1935)",
+      "year": "1935"
+    },
+    {
+      "title": "Sonata for viola and piano (1935)",
+      "year": "1935"
+    },
+    {
+      "title": "Chopin's Shadow , fantasy for piano and orchestra (1937)",
+      "year": "1937"
+    },
+    {
+      "title": "Mazurka for violin and piano (1939)",
+      "year": "1939"
+    },
+    {
+      "title": "Oberek for violin and piano (1939)",
+      "year": "1939"
+    },
+    {
+      "title": "Three pieces for viola and piano (1940-47)",
+      "year": "1940-47"
+    },
+    {
+      "title": "String Quartet No. 2 (1942)",
+      "year": "1942"
+    },
+    {
+      "title": "Piano Quintet with Clarinet (1943)",
+      "year": "1943"
+    },
+    {
+      "title": "Marine Tale for piano (1943)",
+      "year": "1943"
+    },
+    {
+      "title": "Music during the Holy Mass for organ (1944)",
+      "year": "1944"
+    },
+    {
+      "title": "Podhale Suite for baritone and string orchestra (1946)",
+      "year": "1946"
+    },
+    {
+      "title": "Polish Traditional Mistery Play for solo voices, mixed choir and piano to the words by Maria Konopnicka (1946)",
+      "year": "1946"
+    },
+    {
+      "title": "Sonata for violin and pino No. 2 (1947)",
+      "year": "1947"
+    },
+    {
+      "title": "Two Romances for violin and piano (1947)",
+      "year": "1947"
+    },
+    {
+      "title": "Symphony No. 1 \"Slavic\" (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "Introduction and Ballad for piano (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "Four Mazovian Suites for solo voices, mixed choir and orchestra (1948-51)",
+      "year": "1948-51"
+    },
+    {
+      "title": "Sonata for clarinet and piano No. 1 \"Quasi una sonata\" (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "From Warsaw for solo voice, mixed choir and orchestra (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "Chopin's Shadow for baritone, piano and orchestra to the words by Kazimierza Przerwy-Tetmajera (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "Symphony No. 2 \"Mazovian Sinfonietta\" (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "Concerto for cello and orchestra (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "Polish Suite in A major for violin and piano (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "Mazovian Rhapsody for solo voice, mixed choir and orchestra (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "Podhale Suite for baritone solo and string orchestra (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "Two-voice miniatures for piano (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "Concerto for piano and orchestra No. 2 (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "Two Rustic Suites for orchestra (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Concerto for piano and orchestra No. 3 (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Concerto for viola and orchestra No. 1 (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Kain , opera (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "String Quartet No. 3 (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Symphony No. 3 (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Trio for wind instruments (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Suite for clarinet and piano (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Concerto for violina and orchestra (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "Piano Quintet No. 2 (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "Piano Quartet (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "Prelude in G minor for violin and piano (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "Kasia , fairy tale opera (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "Mazovian Suite for orchestra (1956)",
+      "year": "1956"
+    },
+    {
+      "title": "Concerto for piano and orchestra No. 4 (1956)",
+      "year": "1956"
+    },
+    {
+      "title": "Basilisk , Warsaw legend, vaudeville (1958)",
+      "year": "1958"
+    },
+    {
+      "title": "Sonata for clarinet and piano No. 2 (1959)",
+      "year": "1959"
+    },
+    {
+      "title": "Sonata for clarinet and piano No. 3 \"Romantica\" (1959)",
+      "year": "1959"
+    },
+    {
+      "title": "Concerto for clarinet and orchestra No. 1 (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Concerto lirico for oboe and orchestra (1961)",
+      "year": "1961"
+    },
+    {
+      "title": "Concerto for clarinet and orchestra No. 2 (1961)",
+      "year": "1961"
+    },
+    {
+      "title": "Concerto for soprano and orchestra (1961)",
+      "year": "1961"
+    },
+    {
+      "title": "Concerto for two solo pianos (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Concerto impetuoso for piano and orchestra (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Concerto for flute and orchestra (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Concerto for bassoon and orchestra (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Concertino for two solo pianos (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Pacem in terris for mixed choir and orchestra (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Polish Suite for flute and piano (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Three Mazurkas for violin and piano (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Concerto eroico for tenor trombone and orchestra (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Improvisation for tenor trombone (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Concerto for F horn solo with symphony orchestra in three parts (1966-68)",
+      "year": "1966-68"
+    },
+    {
+      "title": "Concerto for trumpet and orchestra (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Lovely Eyes [version I] for soprano (or tenor) and piano (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "L ovely Eyes [version II] for soprano (or tenor) and orchestra (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Silesian Dance for violin and piano (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Concerto No. 2 in three parts for viola solo, string orchestra, timpani and cymbals (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Concerto for two bassoons and orchestra (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Concerto No. 2 in three parts for tenor trombone and symphony orchestra (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Majestic Polonaise for tuba and piano (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Litany for the unity of Christians for mixed choir and orchestra (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Litany for the unity of humanity for soprano, tenor, baritone, bass, female, male and mixed choir and symphony orchestra (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Stars in yout hair for tenor (or soprano) and piano (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Through jungles and forests for tenor (or mezzo-soprano) and piano (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Quasi Notturno for piano (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Mazurka in D minor for piano (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Mazurka in G minor for piano (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Mazurka in C minor for piano (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Mazurka in F sharp minor for piano (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Quasi Mazurka in B flat minor for piano (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Prelude Quasi Romanza G flat major for piano (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Iwa for tenor (or mezzo-soprano) and piano (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Prelude in F minor for piano (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Prelude in D minor for piano (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Prelude in A minor for piano (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Tragic Prelude for piano (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Concerto for bass trombone and symphony orchestra (1969-70)",
+      "year": "1969-70"
+    },
+    {
+      "title": "Concerto for double bass and orchestra (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Four Knight Sons , concertino for viola, harp, flute, oboe, clarinet, 2 bassoons, contrabassoon and percussion (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Danse à l’antique for flute and piano (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "L ovely Eyes [version III] for soprano (or tenor) and symphony orchestra (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Even Steps for mixed choir and orchestra (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Thoughts for viola and piano (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Song about Konin for mixed choir a cappella (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Chorale for 4 trombones (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Suite for 4 trombones and bass drum (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Improvisation and Polonaise for clarinet and piano (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Nocturne in G major for cello and piano (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Didache for choir and piano (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Andante molto in F major for clarinet and piano (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Polish Dances for clarinet and orchestra (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Mazurka in G minor for clarinet and piano (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Romanza and Vita dolorosa for piano (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Suite for 4 trombones (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Two pieces for 3 trombones (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "When Morning Dawn is Breaking for 2 clarinets, 2 bassoons, contrabssoon, timpani and cymbals (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Pensées très tristet for piano (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Hymn for Poland for choir and piano (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Duet-romanza for 2 trombones (1976)",
+      "year": "1976"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "friemann-witold-en"
+}

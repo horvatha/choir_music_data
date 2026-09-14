@@ -1,0 +1,223 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/b/bortnowski-marcin-en",
+  "title": "Bortnowski Marcin",
+  "name": "Bortnowski Marcin",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "composer; b. 1st March 1972 in Żary, Poland. He studied composition with Grażyna Pstrokońska-Nawratil at the Music Academy in Wrocław, graduating with honours in 1997. He took part in the 2nd International Meetings of Young Composers in Apeldoorn, organised by the Gaudeamus Foundation (1996) and in the experimental and computer music workshops at the University of Ghent (1997). He received scholarships from the Ministry of Culture and Art, ZAiKS Polish Society of Authors and Composers, the Friends of the Warsaw Autumn Foundation, Ernst von Siemens Music Foundation and Deutschlandfunk. In 2003 he obtained a doctoral degree in composition, and in 2012 a habilitation in the same discipline. His accolades include awards at the Tadeusz Baird Competition for Young Composers (2nd Prize for String Quartet No. 2 and Special Prize for String Quartet No. 1 in 1995, 2nd Prize for Music for... in 1997), the National Composition Competition in Gdańsk, 1997 (3rd Prize for Symphony No. 1 ) and at the Pan Accordion Competition 2000 (1st Prize for Music in Lent for accordion and string quartet). His works Into the Sound of Night (2014-15) and Expectancy (2016) were commissioned by the National Radio Symphony Orchestra and the New Music Orchestra as part of the programme of the Minister of Culture and National Heritage \"Collections\" – priority \"Composing Commissions\" operated by the Institute of Music and Dance. Marcin Bortnowski is a member of the Polish Composers’ Union and the Polish Society for Electroacoustic Music (PSeME). In 2020 he received the title of Professor from the President of the Republic of Poland. Apart from writing music, he is also active as a lecturer in composition, contemporary composition techniques and computer music on the faculty of the Academy of Music in Wrocław. updated: 2021 (Agnieszka Cieślak) Composer's official website: https://bortnowski.pl/",
+  "birth": {
+    "place": "Żary",
+    "date": "1st March 1972",
+    "raw": "b. 1st March 1972 in Żary"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Epitaph Andrzej Krzanowski in memoriam for accordion (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Fintasia for two accordions and two percussions (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Music for Spring for string orchestra (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Litany [version A] for mezzosoprano, cello and piano (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Acco II for accordion (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "String Quartet No. 1 (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Ex Animo for orchestra (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Music for Summer for percussion and accordion (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Nameless Music for symphony orchestra (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Agnus Dei for mezzosoprano, choir and orchestra (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Litany [version B] for mezzosoprano, harpsichord and accordion (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "String Quartet No. 2 (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Songs on poems by Guillaume Apolinaire for alto, harpsichord and accordion (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Clair de Lune for chamber ensemble (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Concerto for accordion and chamber orchestra (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Music in Autumn for chamber orchestra (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Music for... na dwie perkusje i dwa akordeony (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Music in Winter na orkiestrę kameralną (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Symphony No. 1 for large symphony orchestra (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Suite of dreams for accordion (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Music in S pring for piano quintet (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Symphony No. 2 for large symphony orchestra (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Music in Lent for accordion and string quartet (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "White Angels for 13 string instruments (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Between dreams for violin and tape (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Pieces of Light for accordion, harpsichord and computer (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "It's time for chamber orchestra (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Sounds of Time for clarinet, trombone, cello and piano (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Under the brown fog of a winter dawn for harpsichord and computer (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Easter Music for chamber ensemble (2005-2006)",
+      "year": "2005-2006"
+    },
+    {
+      "title": "… looking into the heart of light, the silence for orchestra (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "fiftyfifty for harpsichord (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Interrogavi terram for voices and cello (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Four quartets for four computers (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "And night will be no more for accordion and chamber orchestra (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Studys for disklavier and computer (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "And there was no more sea for harpsichord and chamber orchestra (2011-2012)",
+      "year": "2011-2012"
+    },
+    {
+      "title": "Miserere [version I] for chamber choir and percussion ensemble (2012-2013)",
+      "year": "2012-2013"
+    },
+    {
+      "title": "Miserere [version II] for voices and instruments (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "into the sound of night for string quartet and accordion (2014-2015)",
+      "year": "2014-2015"
+    },
+    {
+      "title": "Expectancy for cello and chamber orchestra (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "String Quartet No. 3 (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Sounding solitude for chamber ensemble (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Psalms for accordion and three computers (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "In Paradisum for choir (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "In Ictu Oculi for chamber orchestra (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Sero Te Amavi for accordion, harpsichord, boys choir and electronics (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "Before the morning comes for accordion (2022)",
+      "year": "2022"
+    },
+    {
+      "title": "Trinity for accordion, violin and cello (2023)",
+      "year": "2023"
+    },
+    {
+      "title": "Let your tears flow like a torrent for accordion and eight violoncelli (2023-2024)",
+      "year": "2023-2024"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "bortnowski-marcin-en"
+}

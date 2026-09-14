@@ -1,0 +1,319 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/k/kordaczuk-jaroslaw-en",
+  "title": "Kordaczuk Jarosław",
+  "name": "Kordaczuk Jarosław",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "composer; b. 18th August 1967 in Biskupiec. In 1993 he obtained his master's degree in art from the Ignacy Jan Paderewski Academy of Music in Poznań, where he studied composition with Andrzej Koszewski. In addition, from 1986 to 1995 he attended various lectures as an auditing student (including theology at the Pontifical Academy of Theology in Olsztyn and linguistics and mathematics at the Adam Mickiewicz University) and participated in music workshops (including composition workshops in Kazimierz Dolny, organized in cooperation with IRCAM, and electronic music workshops in Kraków). He taught periodically at the Faculty of Art of the University of Warmia and Mazury in Olsztyn. From 1993 he was a co-author and editor of the \"Monochord\" quarterly publishing scientific articles written by Polish and foreign composers and musicologists. He also published in the Italian equivalent of the magazine – \"Il Monocordo\". His creative interests range from poetry and music for children to experimental pieces. Since the commission of the piece The Locomotive to the poem by Julian Tuwim in 2003, he began his regular cooperation with the Children's Art Centre in Poznań. It resulted in a considerable number of compositions introducing children to the world of contemporary music. In 2005 he won the first prize at the R. Murray Schafer International Composers' Competition for the work Titelituras to the Grimms’ fairy tale. In 2009, his oratorio Children of Angels , commissioned by the Feliks Nowowiejski Society in Poznań, inaugurated the 8th Passion and Paschal Music Festival in Poznań. The first part of his unique Piano Concerto for Children was premiered in 2009 at the National Philharmonic in Warsaw. As a composer of song poems, he collaborated with Basia Raduszkiewicz. In 2003 they released the album Moved Moments , which was awarded in the field of culture by the Mayor of Olsztyn. In this project, the composer for the first time shifted the aesthetics known as \"sung poetry\" to the areas of experimental music. This idea was continued and expanded in subsequent projects – Sappho (2005) and Children of Angels (2008), to find their climax in the Talismans (2012) and Waiting for the End of the World (2012). The composer himself is also often the author of the lyrics for his works. Kordaczuk willingly combines a wide range of acoustic and electroacoustic instruments. Creating live sound seems to remain closest to the center of his compositional preferences. He often conducts or performs his own works, for example, playing a monoctone – the original electroacoustic instrument which he designed. A very important piece in this domain is Strumenti della Passione for a baroque consort, soloists, percussion and electronics (2014) – a kind of contemporary passion, commissioned by the Arte dei Suonatori Baroque Orchestra as part of the \"Composing Commissions\" programme operated by the Institute of Music and Dance. A certain part of Kordaczuk's work is also occupied by music for film, theater and musical performances. There is also a group of works related to concrete music, which the composer himself calls onomatopoeic pieces or sound theater. He is a co-founder of the Wytwórnia Zdarzeń Sonokinetycznych Foundation, established in 2017. The Foundation aims at promoting new music and movement (choreographic) forms by initiating, supporting and implementing programmes as well as research, publishing, artistic and educational projects. Kordaczuk is a member of the PSeME Polish Association of Electroacoustic Music. updated: 2020 (ac) Composer’s website: www.jarekkordaczuk.pl",
+  "birth": {
+    "place": "Biskupiec",
+    "date": "18th August 1967",
+    "raw": "b. 18th August 1967 in Biskupiec"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Motet for mixed choir (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Sonata da camera for flute, violin and harp (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Due parti for cello and piano (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Missa Sancti Rochi for mixed choir and chamber ensemble (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Syntaktrie for violin solo (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Shkh for mixed choir (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Parts for chamber ensemble (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Imnos for orchestra (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Onomatopoeic harpsichord lesson for tape (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Industrial Threads , 11 pieces for prepared sounds and computer (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "x-Loops , 7 synthetic variations for computer (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Allegro in Old Style for string quartet (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Suggestive Etudes for electronically processed solo violin (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "The Stork , pantomime for violin and electronics (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Idzie Grześ przez wieś for mixed choir (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Moved Moments for voice and electronically and acoustically prepared instruments (2002/2003)",
+      "year": null
+    },
+    {
+      "title": "The Locomotive for voice and electronics to words by Julian Tuwim (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "digressi00ns for violin, voice and computer transformations (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Sappho , songs to words by Sappho for voice and instrumental ensemble (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Night in the Middle of a Day , musical (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "A Book of Insects , electroacoustic music (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Theatralia for orchestra (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Children of Angels , apocryphal oratorio for soloists and chamber ensemble (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Cats music for mini-performance prepared by intelectually disabled children (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "And it was Allowed music for the performance, dir. Jose E. Iglesias Vigil (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Cats, Dogs and Troubles for saxophone quartet and spontaneous children's choir (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Jadą goście po moście and Urodziny u rodziny, 2 pieces for woodwind quartet and spontaneous children's rhythm section (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Migrating Birds , a cycle of 17 arrangements for solo voice, choir and instrumental ensemble to the words by Krzysztof Kamil Baczyński (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Happy New Day music to a monodrama by Agnieszka Kołodyńska (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Piano Concerto for Children for piano and symphony orchestra (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Sostenuto. Hommage a Chopin for violin and piano (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "A Paper of Chaos , 12 spatial pieces to the words by Anna Dramowicz (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Canzone for 4 pipes for vocal quartet and sampled hydraulics (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Chromofonobus animated cut-out with synthetic music (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Almost Everything About Love music for the drama (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "The Accursed Castle music for animation (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Cold Sea Tales musical illustrations (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Talismans electroacoustic music for 14 performers (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Fakund Patio Project audiovisual installation (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Waiting for the End of the World , songs to poemas by Czesław Miłosz (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Miedzianka electromagnetic musical moments (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Symptoms for multiplicated double bass, monoctone and actor (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Flick!ABC , songs to poems by Julian Tuwim (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Wordworlds , 7 polystylistic pieces for small orchestra, 5 soloists and beatboxer (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Mr Maluśkiewicz music to the theatre play (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Strumenti della Passione for baroque consort, soloists, percussion and electronics (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Hour of Happiness music for comedy dell'arte based on the legend by Maria Zientara-Malewska (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Multitouch Piano sound sculpture (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Plastuś Diary music to the theatre play by Maria Kownacka (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "hoUSes sensor-based music to the theatre play (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Monoctone Vol. 1 improvisation for monoctone (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "multiroom~ music for 5 movable soloists and 4 immovable rooms (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Overdrive for orchestra (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "3-5-7 Suite for string quartet and children's audience (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Canzone exalted generators and motors for monoctone and kazoo choir (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Antiphona Pneumatica for monoctone nd organ (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Concerto for Quintet and 16 Manipulators (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Monoctone Vol. 2 improvisation for monoctone (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Fantasia for alto flute and strings (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Aequinoctium for sampler, monoctone and organ (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Autumn Gardens for voice and chamber ensemble (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Which way to the sound music in the sensor field (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "A Book of Mess rondo with chaotic couplets - a choreographic performance with children (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Lesza audiostage performance (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Ceramic Sound Structures performative installation (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Sources for voice and chamber ensemble (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Harmidorium concrete sonokinetic form (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Zonia sonokinetic performance (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Starbook opera for children (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Blown - Blown Up - Blown Out - Blown Over! interactive concert (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Ekphrasis phonemokinetic performance (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Telemann Recycled live score performance (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Vila sonokinetic performance (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Book of Emotions v ocal and choreographic spectacle (2020)",
+      "year": "2020"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "kordaczuk-jaroslaw-en"
+}

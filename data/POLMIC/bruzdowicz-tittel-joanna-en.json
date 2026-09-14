@@ -1,0 +1,567 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/b/bruzdowicz-tittel-joanna-en",
+  "title": "Bruzdowicz-Tittel Joanna",
+  "name": "Bruzdowicz-Tittel Joanna",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "composer, music critic and journalist; b.17th May 1943 in Warsaw; d. 2021 in Taillet (France). She studied composition with Kazimierz Sikorski and piano with Irena Protasewicz and Wanda Łosakiewicz at the State Higher School of Music in Warsaw. She began her career as a pianist; during her studies she travelled to many places in Poland, Belgium, Austria and former Czechoslovakia to give concerts. She was a co-founder and General Secretary (between 1964-68) of the Polish section of “Jeunesses Musicales”. She received a scholarship from the French government, which enabled her to study composition with Nadia Boulanger, Olivier Messiaen and Pierre Schaeffer and musicology under the supervision of Jacques Chailley at the Sorbonne University in Paris (1968-70), where she obtained her PhD with a thesis on Mathematics and logic in contemporary music . She co-founded Groupe International de Musique Electroacoustique de Paris (GIMEP). In 1975 she settled in Tervuren in Belgium with her husband Horst-Jürgen Tittel, a High Representative of the European Union. Since 2000 they lived in Taillet near Perpignan in Northern Catalonia (the department of Pyrénées-Orientales). Apart from being a composer, she was also active as a music critic and journalist. She promoted new music in radio broadcasts in France, Belgium, Germany and the United States. She was a frequent guest lecturer at the Massachusetts Institute of Technology in Boston, Yale University in New Haven, the University of Southern California and University of California in Los Angeles, Sorbonne University in Paris, Université de Montrea, and others. Promoting Polish music is her passion. In 1983 she established the Fryderyk Chopin Society and the Karol Szymanowski Society. In 1996 she organized the first edition of the International Music Festival in Cerét, a summer festival dedicated to composers and performers of the first constitutional democratic countries: the United States, Poland and France, as well as to composers of the French and Spanish Catalonia. In 2006 she initiated the opening of the Perpignan CAT.Studios – a centre for film production and distribution and a film music studio. She was one of the Studio’s four directors. She composed film music and wrote film scripts together with her husband (e.g. for 36 films produced for the German TV station WDR “Stahlkammer Zurich”). She was a member of the Polish Composers' Union since 1968. In 2001 Joanna Bruzdowicz received the Order of Polonia Restituta, and in December 2013 – the Medal for Merit to Culture – Gloria Artis. In 2019 she received the Honorary Award of the Polish Composers' Union for many years of promoting Polish music and Polish musicians at the Festival International de Musique en Catalogne. updated: 2021 (ac)",
+  "birth": {
+    "place": "Warsaw",
+    "date": "17th May 1943",
+    "raw": "b.17th May 1943 in Warsaw"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Concertino for 2 pianos (1957-59)",
+      "year": "1957-59"
+    },
+    {
+      "title": "Little Apollo - song for soprano and piano (1961)",
+      "year": "1961"
+    },
+    {
+      "title": "Variations for piano (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Letters - piano miniatures (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Variations for string quartet (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Miniatures for clarinet and piano (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Concerto for vibraphone and piano (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Epigrams for violin (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Niobe for soprano, speaker and instrumental ensemble; text by Konstanty Ildefons Gałczyński (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Sept miniatures for flute (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "A Visit - song for baritone and piano; text by Konstanty Ildefons Gałczyński (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Little Poem About Crows - song for baritone and piano; text by Konstanty Ildefons Gałczyński (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Yesterday - song for soprano and piano to a text by Konstanty Ildefons Gałczyński (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Sleep in Peace - song for soprano and piano; text by Konstanty Ildefons Gałczyński (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Here Comes Autumn Again - song for soprano and piano; text by Konstanty Ildefons Gałczyński (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Litany for the Isles of Delight - song for baritone and piano; text by Konstanty Ildefons Gałczyński (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Years I Have Loved You - song for bass and piano; text by Konstanty Ildefons Gałczyński (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Spacious Etudes - 3 songs for mixed choir a cappella (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Purity - song for soprano and piano (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Erotics for piano (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Per Due for violin and piano (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Brass Quintet (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Sketches from the Harbour - 7 miniatures for mezzo-soprano, flute, piano and percussion (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Suite in memoriam Sergei Prokofiev for orchestra (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "The Penal Colony [version I] - musical drama in 1 act to a short story by Franz Kafka (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Songs to the Poems of Konstanty Ildefons Gałczyński for vocal and instrumental ensemble (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Impressions for 2 pianos and symphony orchestra (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Ec-Stasis , electroacoustic music (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Éclairs for orchestra (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Phobos for tape (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Esquisses for flute, viola, cello and piano (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Salto for percussion and tape (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Fas et nefas for tape and prepared guitar (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Stigma for cello solo (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Pehnidi for harpsichord (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Jour d’ici et d’ailleurs for mixed choir, vocal quartet, narrator and chamber ensemble to a text by Pauline Miguel (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Homo Faber - trilogy for tape (1971-75)",
+      "year": "1971-75"
+    },
+    {
+      "title": "Les Troyennes - musical tragedy after Euripides (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Épitaphe (en mémoire de mon Père) for harpsichord and tape (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "A claire voix for mixed choir, 3 various brass instruments, piano and tape (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Episode for piano and 13 string instruments (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Esitanza for 2 pianos or 4 hands (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Mater Polonica - fantasia for organ on the theme of Bogurodzica (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Le beau Danube bleu for 2 pianos and tape (1973-74)",
+      "year": "1973-74"
+    },
+    {
+      "title": "Piano Concerto No. 1 (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Etté for clarinet (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Trio [version I] for mezzo-soprano or baritone, cello and piano (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Trio [version II] for 6 various performers (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Trio [version III] for 9 various performers (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Einklang for harpsichord and organ (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Symphony (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Violin Concerto No. 1 (1975-76)",
+      "year": "1975-76"
+    },
+    {
+      "title": "Die Geschichte eines neugierigen Vogels - music theatre for children with improvisation on electronic music (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Le Petit Prince - ballet after the book by Antoine de Saint-Exupéry in 28 scenes (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Inner Space - Outer Space for tape (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Equivocita for clavichord (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Von Liebe und Tod for female or male low voice and tape to poems by Lou Bruder (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Aquae Sextiae, suite for brass quintet and brass orchestra (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "October Sonata for piano, in memoriam October 16th, 1978, Election of Pope John-Paul II (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Bartokalia for Béla Bartók for tape (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Fantasia Hermantica on S’A’B’B’E theme for viola and piano (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Tre contra tre for flute, oboe, viola and 3 percussions (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Neue Kinderszenen - electronic suite for children (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Marlos Grosso Brasileiras “Chant d’amitié” for flute, violin, harpsichord and tape (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Trio dei Due Mondi for violin, cello and piano (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Prelude and Fugue na klawesyn (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "The Gates of Paradise, musical drama after Jerzy Andrzejewski (1980-81)",
+      "year": "1980-81"
+    },
+    {
+      "title": "Trio per Trio , dance suite for flute, violin and harpsichord (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Dum spiro spero, musical scenario for flute and tape (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Concerto for Double-Bass and Orchestra (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Para y contra for double bass and tape (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Oracle [version I] for bassoon (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Oracle [version II]for bassoon and tape (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Dreams and Drums for percussion (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "String Quartet No. 1 \"La Vita\" (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Urbi et Orbi, cantata for tenor, children’s choir, 2 trumpets, 2 trombones and organ (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Music for the 36-episode television series Stahlkammer Zurich by Celino Bleiweiss, Peter Fratcher and Kai von Kotze (1985-89)",
+      "year": "1985-89"
+    },
+    {
+      "title": "The Penal Colony [version II] - musical drama in 1 act to a short story by Franz Kafka (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "En attendant Anaïs, music for children (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Aurora Borealis for harp and organ (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "String Quartet No. 2 \"Cantus Aeternus\" with speaker (1988) (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Four Seasons Greetings for string chamber orchestra and soloists (1988-89)",
+      "year": "1988-89"
+    },
+    {
+      "title": "La Espero , cantata for soprano, baritone, harpsichord and strings (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Je me souviens for marimba (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Violin Sonata No. 1 \"Il Ritorno\" (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "On Prayer , song for soprano and piano (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Tides and Waves, opera-musical in 2 acts; libretto by Jurgen Tillel and Joanna Bruzdowicz (1991-92)",
+      "year": "1991-92"
+    },
+    {
+      "title": "Stabat Mater for choir a cappella (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Spring in America, sonata for violin and piano (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "The Cry of the Phoenix, concerto for cello and symphony orchestra (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "World, 5 songs for soprano and piano to poetry by Czesław Miłosz (1995-96)",
+      "year": "1995-96"
+    },
+    {
+      "title": "Song of Hope and Love for cello and piano (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Symphony for 2 guitars, percussion and string quintet or chamber orchestra (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Salvador Dali, poem for baritone and piano to a text by Paul Eluard (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "16 pictures from Salvador Dali’s Exhibition for piano (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Fanfare for Celebration of Women in Music for brass ensemble (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "”Tramuntana” Quintet for saxophone and string quartet (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Symphony No. 2 \"Concertino for Orchestra\" (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Ave Maria for contralto and organ (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Toccata for organ solo (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Concertino for piano and orchestra (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Music for the 6-film TV series De ci de la Agnes (6 TV films for Canal Plus), dir. Agnes Varda (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Lella - Oratorio Profane for mezzo-soprano, soprano, oboe, string quartet, percussion, female choir and speaker; story by Christiane Schapira (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "From the Fever World for mezzo-soprano, string quartet and piano to poems by Jehanne Dubrow (2012-2013)",
+      "year": "2012-2013"
+    },
+    {
+      "title": "Music for Berndt Nuberg’s film Objets à réflexion (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Music for Gilles Katz’s film La mort de Lord Chatterley (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Music for Gilles Katz’s film Chita je t’aime (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Music for Gilles Katz’s film La foret d’Orleans (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Music for George Moors’s film Aussagen nach einer Verhaftung (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Music for Gilles Katz’s film A propos de la neige fondue (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Muzyka do filmu Bobo la tête w reż. Gillesa Katza (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Music for Guy Jorré’s film Tante Blandine (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Music for Philippe Morse’s film Islande (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Music for Gilles Katz’s film Un échec de Maigret (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Music for Agnès Varda’s film Sans toit ni loi (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Music for Genevieve Lefevbre’s film Le Jupon rouge (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Music for Gilles Katz’s film Le dernier prix ( 5 dernières minutes series) (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Music for Agnès Varda’s film Kung Fu Master (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Music for Agnès Varda’s film Jane B. par Agnès V. (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Music for Gilles Katz’s film Jeumont, 51 minutes d’arrêt (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Music for Agnès Varda’s film Jacquot de Nantes (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Music for Giorgio Ferrary’s film L’homme que j’ai tué (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Music for Françoise Levie’s film Les grandes dames du strip-tease (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Muzyka do filmu L'uomo che ho ucciso w reż. Giorgia Ferrary (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Music for Yves Angelo’s film Un air si pur (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Music for Agnès Varda’s film Glaneurs et la glaneuse (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Music for Agnès Varda’s film Deux ans plus tard (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Muzyka do filmu Le lion volatil w reż. Agnès Vardy (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Music for Yves Angelo’s film Les Âmes grises (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Music for the documentary film Entrepreneur , dir. Jonathan Bricklin (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Music for the film Testudo , dir. Jörg Tittel (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Music for the film Les plages d'Agnes [ The Beaches of Agnes ], dir. Agnes Varda (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Music for the film J'ai oublié de te dire [ I Forgot to Tell You ], dir. Laurent Vinas-Raymond (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Music for the film Battle for Britain , dir. Alex Helfrecht, written by Jörg Tittel (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Music for the documentary film Gilbert Planche , dir. Giorgio Treves (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Music for the film The White King , dir. Alex Helfrecht and Jörg Tittel (2016)",
+      "year": "2016"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Wilczek-Krupa Maria, Bruzdowicz Joanna [in Polish], in: Encyklopedia Muzyczna PWM (biographical part, ed. by Elżbieta Dziębowska), vol. ab – supplement, PWM, Kraków 1998 U Joanny Bruzdowicz w Katalonii. Z kompozytorką rozmawia Ludwik Erhardt [ In Catalonia at Joanna Bruzdowicz’s. Ludwik Erhards’s conversations with a composer , in Polish], \"Ruch Muzyczny\" 2005 nr 25, s.10-14 Kański Józef, Nikt prorokiem we własnym kraju [No one is a prophet in his country , in Polish], \"Twoja Muza\" 2008 nr 4, s. 14 Jestem zakochana w muzyce",
+  "slug": "bruzdowicz-tittel-joanna-en"
+}

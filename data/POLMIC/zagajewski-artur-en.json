@@ -1,0 +1,279 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/z/zagajewski-artur-en",
+  "title": "Zagajewski Artur",
+  "name": "Zagajewski Artur",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "composer; b. 10th April 1978 in Tomaszów Mazowiecki. He graduated with honours from the music theory class of Ryszard Daniel Golianek (2005) and the composition class of Bronisław Kazimierz Przybylski (2008) at the Academy of Music in Łódź. In 2004-2006 he attended the classes at the Computer Music Studio run by Krzysztof Knittel at the Academy of Music in Łódź. In 2012, he defended his doctoral dissertation in composition, written under the supervision of Zygmunt Krauze. He has participated in courses led by Marek Choloniewski (Academy of Music in Kraków) and Grażyna Pstrokonska-Nawratil (Academy of Music in Wrocław). He is an award winner in competitions such as \"850 Jahre Cottbus – Musikalische Bilder einer Stadt\" for Lichtspiele in der Oberkirche for accordion and string orchestra (honourable mention, 2006), BMW Crash! of the Zachęta Contemporary Art Association in Szczecin (honourable mention in 2006 and main prize in 2007), Tadeusz Baird Competition for Young Composers (2nd Prize in 2007 for Glassmusic-motet for female voice, cello, accordion, piano and tape and in 2009), Krzysztof Komeda Composers’ Competition in Słupsk (honourable mention in 2007 za Secession Club for alto saxophone and tape), Silver Glass Children’s and Youth Contemporary Music Festival in Cracow (honourable mention, 2009), Grażyna Bacewicz International Composer Competition in Łódź (1st Prize, 2009) and the in-OUT-side competition of the Sound Screen Festival in Bydgoszcz (main prize, 2009). In 2010 he was awarded the Eureka Łódź Prize. In 2014 his Stabat Mater was nominated for the Polonica Nova Award in Wrocław. In May 2017 his piece brut represented Poland (Polish Radio) and received the highest place at the International Rostrum of Composers in Palermo. Also in 2017, Artur Zagajewski's successes were summarized with a prestigious nomination for the Corypheus of Polish Music Award in the Personality of the Year category. In 2018 his was nominated for the Polityka's Passport award. His works have been performed at festivals such as \"Warsaw Autumn\", \"Musica Polonica Nova\" (NFM, Wrocław), the Festival of Premieres (NOSPR, Katowice), the 7th KODY Festival of Musical Tradition and Avant-Garde (Lublin), Loop Festival (Brussels), Internationaal Kamermuziekfestival (Schiermonnikoog, Netherlands), the 33rd International Ankara Music Festival (Turkey), Lodz Nacht in Stuttgart (Germany), Sound perspectives of the screen. Musical laboratory of arts: film – electro- acoustics – intermedia (Bydgoszcz), Fokus Lodz Biennale, The Colours of Poland and the contem.ucha cycle (Łódź Philharmonic), Music at the Old Monastery (Łódź), the International Festival of Acoustic, Electronic Music and Multimedia Projection in Brno (Czechia), Łóź Musical Easter, the Sound Screen Festival (Bydgoszcz), the Łódź„Ballet Meetings” International Ballet Festival, \"Musica Moderna\" (Academy of Music in Łódź), as well as at the CRICOTEKA Centre for Documentation of the Art of Tadeusz Kantor (Kraków). Between 2005 and 2008 he cooperated with the video artist Michał Brzeziński, and their works were shown in galleries in Poznań, Warsaw, Szczecin, Katowice, Gdańsk and Wrocław. In 2016 he was invited to participate in the MusMa European Broadcasting Project. He collaborated with actor Arkadiusz Jakubik, cellist Dominek Połoński, singer Agata Zubel, flautist Ewa Liebchen, harpsichordist Gośka Isphording, choreographer Paulina Wycichowska, performer Zora Wollny, director Piotr Stasik (their Opera about Poland received a nomination to the \"Eagles\" Polish Film Awards in 2019 in the Documentary category), as well as with the ensembles: Bang on a Can All-Stars, New Music Orchestra, Silesian Quartet, Kwartludium, Contemporary Ensemble Music Cooperative, Hashtag Ensemble, Arte dei Suonatori, Polish Cello Quartet, Small Instruments, Hańba! Zagajewski conducts research on rock music, presenting it's results in lectures (Popular Music Workshops at the Academy of Music in Łódź, Polish National Conference for Art School Teachers organised by the CENSA Centre for the Education of Art School Teachers and the Ministry of Culture and National Heritage) as well as articles (\"Glissando\", \"Operomania\"). As part of his popularising work, he conducts lectures and workshops for youth on music of the 20th and 21st century. He was a member of the jury at different festivals, including the mYear Festival of Musical Imagination (Academy of Music in Wrocław). He is also a member of the Polish Composers’ Union and the Programme Committee of the \"Warsaw Autumn\" International Festival of Contemporary Music. He is an assistant professor at the Academy of Music in Łódź and music theory teacher at the Stanisław Moniuszko State Secondary Music School in Łódź. updated: 2020 (Agnieszka Cieślak) Composer's website: http://arturzagajewski.com/",
+  "birth": {
+    "place": "Tomaszów Mazowiecki",
+    "date": "10th April 1978",
+    "raw": "b. 10th April 1978 in Tomaszów Mazowiecki"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Music for violin, cello and piano (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Fade In, Fade Out for 4 electric guitars (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Sonata for 2 harpsichords (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Secession Club for alto saxophone and tape (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "TR13 for tape (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Krach 44 for tape (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Resonce for piano (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Nos qui vivimus I for flute, school choir, piano and school string ensemble (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Nos qui vivimus II for mixed choir (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Lichtspiele in der Oberkirche for accordion and string orchestra (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Three Songs to words by Tadeusz Różewicz for soprano and viola (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Chambermusic for 11 Instruments (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Glassmusic-Motet for female voice, cello, accordion, piano and tape (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Re-cycle I-IV for tape (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "15-40. Light for recorders and tape (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Rotom for symphony orchestra (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Re-cycle (...and her damaged soul...) for alto and tape (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "See me for 1 performer and tape (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Fuzz G.B. for tape (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Birds for chamber ensemble (various versions) and tape (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Leaves for chamber ensemble (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "unhum for symphony orchestra (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "mixes for tape and radio receiver (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Orgadronum for chamber choir (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Song of Nature for female voice, PVC tube, prepared piano, drum and computer (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Flakes of a Yellow Rose for cello and tape (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Chronophotographic Scenes , ballet (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Oratorio for Orchestra and Warsaw Citizens’ Choir , concerto/performance in cooperation with Anna Szwajgier and Zorka Wollny (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Stabat Mater for 4 mixed choirs and orchestra (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "canto for 16 musicians (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "EC 14 for 4 PVC tubes (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Nature Morte for 24 PVC tubes (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Traktion Eins for cello (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "brut for cello and ensemble (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Audio–Tree–Drama , music performance for flute, clarinet, oboe, trumpet and 2 trombones (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Solid for violin (or cello) and marimba (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Canzona for 5 cellos (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Mechanofaktura for violin, bass clarinet, percussion, piano/synthesizer (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Woodcuts for bass clarinet, percussion, electric guitar, piano, cello, double bass and tape (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "La città futurista for 16 amateurs and orchestra (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "circulatio for accordion, quarter-tone accordion and orchestra (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "blokhaus C for sound objects (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "mixes 2 for organ and electronics (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "sculpture (from the way of the cross) for 4 cellos (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Steel-Eyed for 2 punk rock voices, quarter-tone accordion, percussion, electric guitar, piano/synthesizer and computer (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Chanson for female voice (or melodic instrument) and cello (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Opera about Poland for clarinets, percussion, electric guitars, synthesizer, quarter-tone accordion, violin, cello (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Composition arithmétique for piccolo flute and tape (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "March for choir of amateurs and orchestra (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Modulor for quarter-tone accordion and 4 double basses (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Holy God, Holy and Mighty for male voice and chamber orchestra (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Concerto for 2 flutes and orchestra (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Constructivist Songs for female voice with percussion and string quartet (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "triplum for violin, bass flute, cello and tape (from Suite of Love Songs) (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "chanson - solide for 2 marimbas (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "LA MER/watch?v=y1RpVZNSw6k for chamber ensemble (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "ricercar for 8 cellos (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "POWERBIT! for voices, toy pianos and synthesizer to excerpts from Dorota Masłowska's Other People (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Madrigal Music for 6-part choir and 6 instruments (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "EUR (post cold wave new synth romantic punk) for piccolo flute, bass clarinet, viola, electric guitar, synthesizer and percussion (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Danses polonaises for 2 pianos, 2 synthesizers and tape (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "und nur dieser Wind for orchestra (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "krach for 2 oboes and soundtrack (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "7 for piano, trumpet, clarinet, bass clarinet, viola and computer (2021)",
+      "year": "2021"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "zagajewski-artur-en"
+}

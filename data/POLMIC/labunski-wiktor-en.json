@@ -1,0 +1,95 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/l-1/labunski-wiktor-en",
+  "title": "Łabuński Wiktor",
+  "name": "Łabuński Wiktor",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": "pianist, composer, conductor and pedagogue. Born on April 14th 1895 in St. Petersburg (Russia), died on January 26th 1974 in Kansas City (Missouri). Brother of Feliks Roderyk Łabuński. Wiktor Łabuński began regular piano studies at the age of six with Adolf Jaroszewski in Moscow. At the age of ten he became a student at St. Petersburg Conservatory, where he studied piano with Leonid Nikolayev and Felix Blumenfeld, chamber music with Vasily Safonov, and theory / composition with Vasily Kalafaty and Jāzeps Vītols. Łabuński studied also mathematics at St. Petersburg University. In 1918 he relocated to Warsaw, where he studied conducting with his future father-in-law, Emil Młynarski. In 1919 in Łabuński moved to Cracow, where he became a member of the piano faculty at the Conservatory. At the same time, he taught at the Sabina Kasparkowa Music Conservatory in Lviv. He was very active as a virtuoso pianist, frequently appearing in solo recitals and with orchestras under the baton of such luminaries as Emil Młynarski, Grzegrz Fitelberg and Hermann Abendroth. In addition to concerts in major cities of Poland (Warsaw, Cracow, Lviv, Vilnius and Katowice), Łabuński performed abroad, in the United Kingdom, Romania, and France. His first piano compositions appeared in print in Poland at that time, frequently winning compositional contests organized by the journal “Muzyka”. In 1928 Łabuński relocated to the United States. He performed his Carnegie Hall debut during the same year. In 1929 he appeared with solo concerts in Minneapolis, Nashville, Chicago, New York and Toronto, and also in concerts together with the operatic soprano Ada Sari. Initially he taught piano at Nashville Conservatory (1929-1931), and later (1931-1937), at Bohlmann School of Music (later renamed as Memphis College of Music). In 1937, Łabuński moved permanently to Kansas City (Missouri) where he taught piano at Kansas City Conservatory and served as the Conservatory’s artistic director (1941-1958). When the Conservatory was incorporated into the University of Missouri system Łabuński continued his work there as artist-in-residence and professor emeritus. Throughout his time in Kansas City he continued his activities as a virtuoso pianist. He released commercial recordings of music by Fryderyk Chopin. He was an Honorary Member of the Kansas City Musical Club. He received Honorary Doctorate from Curtis Institute of Music in 1935. Łabuński was active as a composer throughout his entire life, although composition was never his primary focus. The majority of his mature works remain in manuscript. They were deposited after his death at the UMKC Library in Kansas City. During his lifetime, Łabuński’s pedagogical works and transcriptions for two pianos were very popular in the United States. His musical style is rooted in French and Russian Neoclassicism. Sławomir Dobrzański",
+  "birth": {
+    "place": "St",
+    "date": "April 14th 1895",
+    "raw": "Born on April 14th 1895 in St."
+  },
+  "death": {
+    "place": "Kansas City (Missouri)",
+    "date": "January 26th 1974",
+    "raw": "died on January 26th 1974 in Kansas City (Missouri)."
+  },
+  "works": [
+    {
+      "title": "Toccata to Josef Hofmann for piano (1923)",
+      "year": "1923"
+    },
+    {
+      "title": "Variations on an Original Theme [1st version] for piano (1923)",
+      "year": "1923"
+    },
+    {
+      "title": "Minuet for piano (1926)",
+      "year": "1926"
+    },
+    {
+      "title": "Impromptu for piano (1926)",
+      "year": "1926"
+    },
+    {
+      "title": "Rigaudon for piano (1927)",
+      "year": "1927"
+    },
+    {
+      "title": "Etude in A Minor for piano (1932)",
+      "year": "1932"
+    },
+    {
+      "title": "Concertino in C Minor for piano and orchestra (1932)",
+      "year": "1932"
+    },
+    {
+      "title": "Easy Pieces for piano (1934)",
+      "year": "1934"
+    },
+    {
+      "title": "Symphony in G Minor for orchestra (1936)",
+      "year": "1936"
+    },
+    {
+      "title": "Piano Concerto in C Major [1st version] for piano and orchestra (1937)",
+      "year": "1937"
+    },
+    {
+      "title": "Reminiscence for piano (1943)",
+      "year": "1943"
+    },
+    {
+      "title": "Impromptu for piano (1947)",
+      "year": "1947"
+    },
+    {
+      "title": "Variations on an Original Theme [2nd version] for piano and orchestra (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "Piano Concerto in C Major [2nd version] for 2 pianos and orchestra (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "Poem for 2 pianos (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Frivolous Passacaglia for piano (1956)",
+      "year": "1956"
+    },
+    {
+      "title": "Patterns for piano (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Six Piano Pieces for piano (1962)",
+      "year": "1962"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Richard Belanger, Wiktor Labunski: Polish-American Musician in Kansas City 1937-1974 , Ed.D. Dissertation, Columbia University Teachers College, New York 1982 Stanisław Dybowski, Słownik pianistów polskich , Selena, Warszawa 2003",
+  "slug": "labunski-wiktor-en"
+}

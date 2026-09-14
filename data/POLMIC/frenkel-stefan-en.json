@@ -1,0 +1,27 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/f/frenkel-stefan-en",
+  "title": "Frenkel Stefan",
+  "name": "Frenkel Stefan",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Sonata na skrzypce solo op. 1 Suita na dwoje skrzypiec op. 3 Koncert na skrzypce i orkiestrę smyczkową op. 9 (1929) Mała suita na skrzypce i orkiestrę smyczkową op. 12 Kwartet smyczkowy nr 1 Kwartet smyczkowy nr 2 Kwartet na czworo skrzypiec Trio smyczkowe (1960)",
+      "year": "1960"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Schindler Agata , Frenkel Stefan Frenkel Stefan, PWM, Kraków 1964 Frenkel Stefan, B Schott’s Söhne , Mainz 1972 Erhardt Ludwik, Frenkel Stefan, PWM , Kraków 1987 Iwanicka-Nijakowska Anna , Frenkel Stefan, Akademia Muzyczna im. Fryderyka Chopina w Warszawie / Akademia Muzyczna im. Stanisława Moniuszki w Gdańsku, Warszawa / Gdańsk 2005",
+  "slug": "frenkel-stefan-en"
+}

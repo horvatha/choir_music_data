@@ -1,0 +1,175 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/s/stulginska-agnieszka-en",
+  "title": "Stulgińska Agnieszka",
+  "name": "Stulgińska Agnieszka",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Studium dźwięku na fortepian (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Strach przed snem na fortepian (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Tworzywo na skrzypce i flet (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Ras na perkusję (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Dwoje na fortepian (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "KZS na skrzypce, klarnet i fortepian (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Bajka o chrabąszczu na klarnet, wiolonczelę i fortepian (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Piene na klarnet i live electronic (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Spojrzenie światła na skrzypce, klarnet, wibrafon i fortepian (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Legenda ze starej baśni na trąbkę, puzon, tubę, marimbę, perkusję, fortepian i taśmę (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Zaczarowane Pudełeczko na skrzypce, klarnet, wibrafon, fortepian i taśmę (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Impresje na kwartet smyczkowy (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Let’s meet na dwa fortepiany (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Tryptyk na amplifikowany zespół wokalny i orkiestrę symfoniczną (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Verdict , utwór multimedialny na trąbkę i taśmę (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Piene , projekt multimedialny (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "In Credo na perkusję i orkiestrę smyczkową (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "XR Kod na 2 klarnety, 2 trąbki, róg, fortepian i gitarę elektryczną (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Cykl utworów do bajek kaszubskich (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Ori na klarnet, wiolonczelę, fortepian i gitarę elektryczną (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Stara Rzeka na orkiestrę symfoniczną (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Pulsar BO329+54 na carillon i taśmę (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Flying Garbage Truck na skrzypce, saksofon, wiolonczelę, akordeon, fortepian i taśmę (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Faza N.Rem , utwór multimedialny na 2 fortepiany, 2 perkusje, elektronikę i wizualizację (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Conversionis na głos, perkusję i fortepian (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Dance with my Breath na flet, klarnet, skrzypce, wiolonczelę i fortepian (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Prześwity na 8 instrumentów historycznych oraz przestrzeń Bazyliki Mariackiej (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "4 o'clock na carillon i elektronikę (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "NOZ na klarnet kontrabasowy i wiolonczelę (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Trzy kobiety na 3 kobiety i 10 instrumentów (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Wesele-inicjacja na 4 śpiewaczki i 6 muzyków ludowych (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Utwór na kamienice, 4 gramofony i zespół kameralny (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "FMYF i OMYM na 4 wykonawców, elektronikę i wideo (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Muzyka do filmu Ave decydujący moment w reż. Waldemara Żuchowskiego (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Muzyka do filmu Z miłości w reż. Anny Jadowskiej (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Muzyka do filmu Jaśniejsze barwy w reż. Grzegorza Młynarskiego (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Muzyka do filmu Memory Project w reż. Piotra Szczepańskiego (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Muzyka do sztuki Fedra w reż. Grzegorza Wiśniewskiego (2019)",
+      "year": "2019"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Jak chora miłość, \"Twoja Muza\" 2009 nr 4, s. 25-27",
+  "slug": "stulginska-agnieszka-en"
+}

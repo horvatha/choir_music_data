@@ -1,0 +1,587 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/k/kulenty-hanna-en",
+  "title": "Kulenty Hanna",
+  "name": "Kulenty Hanna",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "composer, born on 18th March 1961 in Białystok. In 1980-86 she studied composition with Włodzimierz Kotoński at the Music Academy in Warsaw, then in 1986-88 – composition with Louis Andriessen at the Royal Conservatoire of Music and Dance in the Hague. She participated in the International Courses for Young Composers organised by the International Society for Contemporary Music (ISCM/SIMC), Polish Section, as well as the Summer Courses of New Music in Darmstadt, where she studied with such composers as lannis Xenakis, Witold Lutosławski, Thomas Kessler and François Bernard Mâche. In 2012 she obtained a PhD in composition at the Academy of Music Wrocław. In 2016 she received the degree of habilitated doctor. She has received numerous prizes for her compositions. In 1985 she was awarded the 2nd prize of the European Young Composers’ Competition organized in Amsterdam for Ad Unum for orchestra (1985). In 1987 she was awarded the Stanislaw Wyspianski Award (2nd class). In the same year she was awarded the 2nd prize in the Young Composers’ Competition of the Polish Composers’ Union for Ride for 6 percussionists (1987). She has also won four prizes in the Competition for Composers organised by the Warsaw Branch of the Polish Composers' Union: in 1986 she received 1st prize for Quinto for two pianos (1986), in 1987 – 1st prize for Breathe for string orchestra (1987), in 1988 – 3rd prize for Cannon for violin and piano (1988), and in 1989 – 2nd prize for aaa TRE for viola, cello and double bass (1988). In 1999, she was elected Composer of the Year in Gelderland. In November 2000, the Deutschlandfunk Radio in Cologne organised a composer concert dedicated exclusively to Kulenty’s works, and recorded on CD. In 2003 her Trumpet Concerto (2002) won the first prize at UNESCO’s 50th International Rostrum of Composers, for which she received the UNESCO Mozart Medal from the International Music Council. Her compositions Preludium, Postludium and Psalm for cello and accordion (2007) and String Quartet No. 3 – Tel me about it (2008), were respectively chosen among the ten best Dutch compositions of 2007 and 2008 during the ‘Toonzetters’ contest in Amsterdam. In 2015 she received the Annual Award of the Polish Composers’ Union for her outstanding body of compositions, strong individuality and combination of musical vigor with interesting structural solutions. From 1989 she works as a free lance composer, recipient of numerous commissions and scholarships, including the Deutscher Akademischer Austauschdienst (Germany, 1990), Grants from Fonds voor de Scheppende Toonkunst (Holland, 1993-2009), Grants from The Performing Arts Fund (The Netherlands, 2010-2015). In 1999/2000 she was composer-in-residence with Het Gelders Orkest in The Netherlands. She participated in the \"Composing Commissions\" programme implemented by the Institute of Music and Dance in Poland, which resulted in commissions for five works. She has also recived commissions from the Dutch ensemble De Ereprijs, Kronos Quartet and many others. Hanna Kulenty writes for solo instruments, chamber groups and large orchestras. She has written two operas, music for television plays and films. Her compositions have been premiered during festivals throughout the world, like Huddersfield Festival, Schleswig-Holstein Musik Festival, Münchener Biennale, Warsaw Autumn, Musica Polonica Nova and the Netherlands Music Days. Her numerous orchestral pieces have been performed by symphony orchestra’s in Holland, Denmark, Poland and Germany, with conducters like David Porcelijn, Antoni Wit, Peter Hirsch, Peter Eötvös, Ingo Metzmacher, Renato Rivolta and Ronald Zollman. Soloists like Isabelle van Keulen, Elżbieta Chojnacka, Marco Blaauw, Frank Peters, Lucas & Arthur Jussen and Geneviève Strosser have performed her work, as did ensembles like Arditti Quartet, Leipzig String Quartet, ensemble De Ereprijs and Alexander von Schlippenbach Trio. She has taught at numerous courses of composition, e.g. in Apeldoorn (1995), Radziejowice and Munich (1996), Amsterdam (1997) and California (1998). In 2005 she lectured at the Other Minds 10 festival in San Francisco and at the Soundstreams Canada in Toronto. In that same year she was guest professor at the Conservatory of Zwolle. In 2007 she was guest professor at the ESMuC, Music Academy in Barcelona. In 2013 she was a visiting professor at Missouri State University, Springfield. Since 2015 she has lectured at the Faculty of Composition, Theory of Music and Sound Engineering at the Feliks Nowowiejski Academy of Music in Bydgoszcz, currently as a professor. Since 1992 Hanna Kulenty has divided her time between Warsaw and Arnhem, Holland. She has been a jury member of numerous music competitions, including the Munich Biennale (1995), the International Gaudeamus Music Week (2002), the International New Chamber Opera Competition “Orpheus-Luciano Berio 2003-2004”, and the International Competition of Contemporary Chamber Music in Kraków (2005, 2007). Her compositions are published by the dutch publishing house Donemus and the Polish Music Publishing House (PWM). update: 2020 (Agnieszka Cieślak) Composer's website: https://www.hannakulenty.com/",
+  "birth": {
+    "place": "Białystok",
+    "date": "18th March 1961",
+    "raw": "born on 18th March 1961 in Białystok."
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Three Minutes for double bass (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "String Quartet No. 1 (1983-84)",
+      "year": "1983-84"
+    },
+    {
+      "title": "Underwater Music for orchestra (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Supplication for Sunlight for tape (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Parable of the Grain , a monodrama for alto, flute, violin, double-bass, percussion and tape (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Still Life with the Violin for violin (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Ad Unum for orchestra (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Sesto for solo piano (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Quatro for chamber orchestra (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Symphony No. 1 (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Quinto for two pianos (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Arci for percussion (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Ride for 6 percussionists (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Breathe for string orchestra (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Symphony No. 2 for mixed choir and orchestra (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "One by One for solo marimba (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Arcus for 3 percussionists (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Cannon for violin and piano (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "aaa Tre for viola, cello and double bass (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Perpetuus for chamber orchestra (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Trigon for chamber orchestra (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "String Quartet No. 2 (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Piano Concerto No. 1 for piano and chamber orchestra (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Piano Concerto No. 2 for 2 pianos and orchestra (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Air for chamber orchestra (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "E for E for harpsichord (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Violin Concerto No. 1 [version I] for violin and chamber orchestra (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Passacaglia for chamber orchestra (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Cadenza for violin and delay (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Still Life with a Cello for cello (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Violin Concerto No. 1 [version II] for violin with delay and orchestra (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Sinequan for cello (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "A Cradle Song for violin, cello and piano (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "A Fifth Circle for alto flute and delay (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "A Fourth Circle for violin (or viola, or cello) and piano (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Sinequan forte B for cello (amplified + delay) and chamber orchestra (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Sinequan forte A for cello (amplified + delay) and symphony orchestra (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Lysanxia for gamelan ensemble and tape (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "The Mother of Black-Winged Dreams , opera (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Going Up 2 for chamber orchestra (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Going Up 1 for violin and double bass (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "A Sixth Circle for trumpet and piano (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Violin Concerto No. 2 for violin and symphony orchestra (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Sierra for violin and cello (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "A Third Circle for piano solo (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Blattinus for saxophone quartet (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Certus for orchestra (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Waiting for... for piano solo and human voice (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Elfen , ballet music for chamber orchestra (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Stretto for flute, clarinet, cello and guitar (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Rapidus for saxophone quartet (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Symphony No. 3 (1998-2000)",
+      "year": "1998-2000"
+    },
+    {
+      "title": "Harmonium for harmonium solo (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "MM-blues for two pianos and two percussions (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Drive Blues for piano (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Decimo na chór mieszany a cappella (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Concerto for flute and chamber orchestra (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Asjaawaa for mezzo-soprano, flute, harp, piano and electronics (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Crossing lines for violin, clarinet and piano (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Concerto for Trumpet and Symphony Orchestra (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Music for the film Faithful , dir. Marzena Grzegorczyk (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Rainbow 3 na 2 instrumenty dęte i fortepian (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Hoffmanniana , opera (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Koncert fortepianowy nr 3 (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Postcard from Europe na zespół (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Mezzo Tango na zespół instrumentów dętych blaszanych (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Run na flet i fortepian (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Brass No. 1 for trumpet solo (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Mezzo Tango 2 na zespół „De Ereprijs” (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Brass No. 2 for horn and trumpet (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Brass No. 3 for horn solo or trumpet solo (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Island na trębacza-recytatora, zespół i taśmę (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Tell me about it 1 for clarinet, cello, trombone and piano (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Tell me about it 2 for bass clarinet, cello, trombone and contra bas (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Preludium, Postludium i Psalm na wiolonczelę i akordeon (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "String Quartet No. 3 – Tell me about it (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Preludium and Psalm for harmonium or another keyboard instrument solo (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Kisses & Crosses for piano and percussion (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Brass No. 4 for tuba solo or other brass instrument (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "String Quartet No. 4 (A Cradle Song) (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Lost & Found – twenty five , ballet music for ensemble and tape (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Walc z Lost & Found – twenty five na fortepian i trąbka (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Music for the film Unmoved Mover , dir. Łukasz Barczyk (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Walc in A for piano (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Sugar-Fela Tango for piano and four instruments (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "G for G for harpsichord solo (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "GG Concerto for harpsichord and string orchestra (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Decimo Forte for choir and ensemble (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Music for Roy for mixed choir and chamber orchestra (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Twenty-five for symphony orchestra (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "String Quartet No. 5 (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "E-motions for accordion, string orchestra and percussion (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Cembalo Uno for harpsichord solo (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Five for five na kwintet smyczkowy (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Emotionsolo for accordion solo (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Viola-Viva for viola and chamber orchestra (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Smokey Eyes for double trio (two pianos, saxophone, flute, and two drumkits) (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "String Quartet No. 6 (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Trumpet Concerto No. 3 for trumpet solo and symphony orchestra (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "VAN... for piano quatre mains or two pianos (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Music for the film Influence , dir. Łukasz Barczyk (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Viola Concerto No. 1 for viola and symphony orchestra (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Saxophone Concerto No. 1 for saxophone and symphony orchestra (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Smokey White for piano quintet (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Smokey One for piano solo (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Siesta for violin, cello and trumpet (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "When the morning light starts glowing for string orchestra (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Concerto Rosso for string quartet and string orchestra (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "DoubleCelloConcerto for 2 cellos and symphony orchestra (2017-2018)",
+      "year": "2017-2018"
+    },
+    {
+      "title": "Flute Concerto No. 3 for flute and symphony orchestra (2017-2018)",
+      "year": "2017-2018"
+    },
+    {
+      "title": "Fado for piano trio (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Musique Surrealistique for soprano, clarinet and piano (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Aisthetikos for soprano saxophone, piano and orchestra (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "EldoradoEldorado for voice and piano (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Alias-Demo for piano trio (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "AisthetikosDuo for soprano saxophone and piano (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Ad-Umbro for Pan flute and symphony orchestra (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "There is nothing that can happen for 3 female voices (female choir) (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "La Scala Solo for trumpet solo (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Tap-Blow-Dance for trumpet solo (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Tap-Blow-Dance4 for 2 bass clarinets, vibraphone and cello (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Alinea for clarinet, piano and orchestra (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "Alias ​​for wind quintet (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "Cristal en Cristal for carillon (2022)",
+      "year": "2022"
+    },
+    {
+      "title": "La Scala Tutti for trumpet, trombone and string orchestra (2022)",
+      "year": "2022"
+    },
+    {
+      "title": "Étoile for voice and piano (2022)",
+      "year": "2022"
+    },
+    {
+      "title": "Étoile Infini for string quartet (2022)",
+      "year": "2022"
+    },
+    {
+      "title": "Étoile pour David for piano solo (2022)",
+      "year": "2022"
+    },
+    {
+      "title": "AtlantissSolo for piano solo (2022)",
+      "year": "2022"
+    },
+    {
+      "title": "AtlantissDuo for flute (clarinet, saxophone) and piano (2022)",
+      "year": "2022"
+    },
+    {
+      "title": "Mémoire de Mémoire for trumpet, bass trombone and string orchestra (2023)",
+      "year": "2023"
+    },
+    {
+      "title": "Carrés Noirs for piano quatre mains, 2 string orchestras and 2 percussions (2023)",
+      "year": "2023"
+    },
+    {
+      "title": "AlineaDuo for clarinet (saxophone) and piano (2023)",
+      "year": "2023"
+    },
+    {
+      "title": "AtlantissForte for soprano saxophone, piano and orchestra (2023)",
+      "year": "2023"
+    },
+    {
+      "title": "Infini Infini for symphony orchestra (2024)",
+      "year": "2024"
+    },
+    {
+      "title": "SurVanTutti for piano quatre mains or 2 pianos and orchestra (2025)",
+      "year": "2025"
+    },
+    {
+      "title": "My Themes for trumpet and piano (2025)",
+      "year": "2025"
+    },
+    {
+      "title": "Violin Concerto No. 3 for violin and orchestra (2025)",
+      "year": "2025"
+    },
+    {
+      "title": "9A – Negende verdieping for string quartet (2025)",
+      "year": "2025"
+    },
+    {
+      "title": "Trance Dance for string orchestra (2025)",
+      "year": "2025"
+    },
+    {
+      "title": "Five Run Five for string orchestra (2026)",
+      "year": "2026"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Chłopecki Andrzej, Kulenty Hanna, In: Encyklopedia Muzyczna PWM [PWM Music Encyclopaedia] (biographical part, ed. by Elżbieta Dziębowska), PWM, Kraków 1997 Life inspires me. An Interview with Hanna Kulenty [ Inspiruje mnie życie. Wywiad z Hanną Kulenty ], „Kwarta” 2000 nr 6, s. 7-8 Polska premiera II Koncertu skrzypcowego, \"Muzyka21\" 2009 nr 9, s. 24-25",
+  "slug": "kulenty-hanna-en"
+}

@@ -1,0 +1,295 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/k/koprowski-piotr-pawel-en",
+  "title": "Koprowski Piotr Paweł",
+  "name": "Koprowski Piotr Paweł",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "composer and theorist; b. 24th August 1947 in Łódź. In the years 1966-69 he studied composition with Bolesław Woytowicz at the State Higher School of Music in Kraków, where he obtained a master's degree. In 1969-1971 he continued his studies in Paris with Nadia Boulanger. In 1971 he emigrated to Canada. Between 1971 and 1977 he studied at the University of Toronto, obtaining a doctorate in music theory and composition. In Toronto, his tutor was the legendary composer and teacher, the first Canadian dodecaphonist, John Weinzweig. In 1971-73 Koprowski taught music theory and composition at the Toronto University, and in 1973-74 at the McGill University in Montreal. Between 1974 and 2017 he lectured as a professor at the Department of Music (Department of Music Research and Composition) of the University of Western Ontario. In 1988-89 he was a composer-in-residence with the Canadian Opera Company, which resulted in the one-act opera Dulcitius , staged in May 1989. Koprowski has won a number of prestigious awards, including the Interdiscyplinary Victor M. Lynch-Stanton Award (1989), the Jean A. Chalmers National Music Award for four nominated orchestral works – Viola Concerto , Symphony of Nordic Tales , Saga , and Ancestral Voices (1997), the Jules Léger Prize for Sonnet for Laura (1989) and for Woodwind Quintet (1994). His works are included in the repertoire of almost all Canadian orchestras, including the Montreal Symphony Orchestra and the Toronto Symphony Orchestra, as well as prominent ensembles and soloists such as the Oslo Philharmonic Orchestra, the Berlin Philharmonic Wind Quintet and the flutist Peter Oien. In 2002 the recording of his Viola Concerto (CMCD 5206) received \"Juno\" nomination. In 2004 he wrote Behind the Iron Curtain on commission from the Winnipeg International New Music and conductor Andrzej Borejko. His Elegia for a Polish Youth received its US premiere in 2006 in New York (Carnegie Hall). In 2005 the President of the Republic of Poland awarded the composer with the order of Polonia Restituta. In 2009 he received the National Arts Centre Award for Canadian composers. updated: 2020 (ac) Composer's official website: http://ppkoprowski.com/",
+  "birth": {
+    "place": "Łódź",
+    "date": "24th August 1947",
+    "raw": "b. 24th August 1947 in Łódź"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Scherzando for piano (1958)",
+      "year": "1958"
+    },
+    {
+      "title": "Three Preludes for piano (1959)",
+      "year": "1959"
+    },
+    {
+      "title": "Two Mazurkas for piano (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Two Etudes for piano (1961)",
+      "year": "1961"
+    },
+    {
+      "title": "In Memoriam Karol Szymanowski for orchestra (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Piano Sketches (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Five Preludes for clarinet and piano (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "String Quartet No. 1 (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "\"Five Miniatures\" String Trio (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Symphony Cold War (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Vigoresque for alto saxophone and cello (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Triscenza – Propositions for Organ (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Time, Space and Silence for tape, 7 performers (including a dancer) and sculptures (1968-1975)",
+      "year": "1968-1975"
+    },
+    {
+      "title": "Two Bagatelles for alto, flute, alto saxophone, percussion instruments and low-voiced male choir (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Apetyt na czereśnie , musical to poetry by Agnieszka Osiecka (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Canzona for 13 soloists (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Sonata na wiolonczelę solo (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Nocturne for mezzo-soprano and instrumental ensemble (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Youth Concerto for woodwinds, brass, piano and percussion (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Elegy for horn and piano (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Lullabies for an Angel for soprano, alto flute and piano (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Sweet Baroque for orchestra (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Epitaph for string orchestra (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Saga for orchestra (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Piano Quartet (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Concerto for flute and orchestra (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Moment Musical for orchestra (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Souvenirs de Pologne, piano concerto (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Rossiniana for string quintet and string orchestra (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Vignettes (Rachel’s Journey Through the Forest) for piano quintet (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Bamsens Vals (Waltz of a Teddy Bear) for flute solo (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Sonnet for Laura for flute and piano (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Three Poems on a Winter Day for mezzo-soprano, flute and piano (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Sinfonia da Camera (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Winterlude for orchestra (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Songs of Forever , concerto for mezzo-soprano and orchestra (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Sinfonia Concertante (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Woodwind Quintet (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Benedictus (Hommage a Monteverdi) for organ (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Rhapsody on a theme of Brahms for piano (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Accordion Concerto (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Sinfonia Mistica (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Dream People for narrator, flute, clarinet, violin, cello, piano and percussion (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Concertino for Bassoon and String Orchestra (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Intermezzo for string orchestra (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Letters for mezzo-soprano, clarinet, violin and piano (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Viola Concerto (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Symphony of Nordic Tales (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Trumpet Concerto (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Saga for orchestra (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Ancestral Voices for string orchestra (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Adagietto for string orchestra (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Cello Concerto (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Millennium Cantata \"Restitution\" for mixed choir and orchestra (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Fable Mystique de Rachel for string orchestra (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Legende d’un petit elephant d’ambre for trumpet and orchestra (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Fun Fair for orchestra (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Fantasy for violin and piano (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Elegia for a Polish Youth for soprano and chamber orchestra (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Elegy for soprano and chamber orchestra (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Behind the Iron Curtain for orchestra (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Tapestries of Love for soprano and orchestra (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Roxana's Aria from opera King Roger by Karol Szymanowski for soprano, chamber ensemble and choir (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Podhale for orchestra (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Double Bass Concerto (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Little Prayer for soprano and piano (orchestra) (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Violin Concerto (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Mahler – Song of the Night, music to a play by Maurice Rowden (1971)",
+      "year": "1971"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "koprowski-piotr-pawel-en"
+}

@@ -1,0 +1,22 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/m/minkowski-marc-en",
+  "title": "Minkowski Marc",
+  "name": "Minkowski Marc",
+  "occupation": "performer",
+  "is_composer": false,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [],
+  "publications": null,
+  "bibliography": "Nadszedł czas na Bacha: na początek Msza h-moll - mówi Marc Minkowski, \"Muzyka21\" 2009 nr 9, s. 30-31",
+  "slug": "minkowski-marc-en"
+}

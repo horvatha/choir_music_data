@@ -1,0 +1,87 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/r/ryterski-rafal-en",
+  "title": "Ryterski Rafał",
+  "name": "Ryterski Rafał",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Rytuały na obój, tubę i perkusję (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Tożsamość nieustalona na 6 wykonawców (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "P.E.R.C.S. na perkusję, ruch i elektronikę (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Saudade. Muzyka przesterowań, muzyka elektroniczna (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Atlas na chór, 11 instrumentów, elektronikę oraz wizualizacje (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Silence Inside , instalacja multimedialna (we współpracy z AnnąKaletą-Kunert) (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Względności Chronosa na akordeon i sampler (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Powrót Apolla na harfę, fortepian i elektronikę (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "[one page]MORE na 4 gitary elektryczne i elektornikę (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Nici Mojr na 3 altówki, elektronikę oraz wizualizacje (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Muzyka do filmu Strzyga w reż. Kamila Krukowskiego (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Muzyka do filmu interaktywnego First we feel. Then we fall. w reż.Jakuba Wróblewskiego (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Meme War na akordeon, altówkę i elektronikę (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Anonymous, opera na 4 solistów, 14 instrumentów, elektronikę, wizualizacje oraz media internetowe (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Słońca, instalacja multimedialna (we współpracy z Łukaszem Radziszewskim) (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "di/am/sy/od na klarnet basowy oraz kontrafagot (2017)",
+      "year": "2017"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "ryterski-rafal-en"
+}

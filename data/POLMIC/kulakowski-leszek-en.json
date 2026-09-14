@@ -1,0 +1,207 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/k/kulakowski-leszek-en",
+  "title": "Kułakowski Leszek",
+  "name": "Kułakowski Leszek",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Reinkarnacja na flet, fortepian, kontrabas i perkusję (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Kamel i Leon na flet, trąbkę, fortepian, kontrabas i perkusję (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Misio-Rysio na flet, trąbkę, fortepian, kontrabas i perkusję (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Piosenka dla Lady Reginy na flet, trąbkę, fortepian, kontrabas i perkusję (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Stasinek, Schematy mojego taty na flet, trąbkę, fortepian, kontrabas i perkusję (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Pan Boguś na flet, trąbkę, fortepian, kontrabas i perkusję (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Spacer w dół ulicy na flet, trąbkę, fortepian, kontrabas i perkusję (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Zaduma dziadka na flet, trąbkę, fortepian, kontrabas i perkusję (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Muzyka do przedstawienia Lokator (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Muzyka do przedstawienia Wejście Gladiatorów (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Ptaszka na skrzypce i fortepian (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Muzyka dla Reginy na skrzypce i fortepian (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Music for R na kwartet smyczkowy, flet, fotrepian i kontrabas (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Erotyczny sen o Klotyldzie na fortepian, syntezator i kontrabas (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "G, Cis, A, H na saksofon tenorowy, trąbkę , fortepian, kontrabas i perkusję (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Labirynt ze stali na trąbkę, fortepian, kontrabas i perkusję (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Imaginacja zmysłowa na kwartet smyczkowy (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Alamumba na kwartet smyczkowy, flet, fortepian i kontrabas (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Transkrypcje utworów Fryderyka Chopina na trio jazzowe i orkiestrę symfoniczną (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Walczyk dekadencki na fortepian, kontrabas, perkusję i orkiestrę symfoniczną (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Free Steps na fortepian, kontrabas, perkusję i orkiestrę symfoniczną (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Ewencja na fortepian, kontrabas, perkusję i orkiestrę symfoniczną (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Interwały , cykl utworów na kwintet jazzowy: saksofon tenorowy lub sopranowy, trąbkę lub flugelhorn, fortepian, kontrabas i perkusję (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Eurofonia na głos solowy, kwintet jazzowy i orkiestrę symfoniczną (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Impresje Kaszubskie , cykl utworów na ludowy zespół kaszubski, kwartet jazzowy i chór mieszany (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Katharsis , cykl utworów na trio fortepianowe i kwartet smyczkowy (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "List do zielonej ścieżki na sopran i fortepian do tekstu Adama Ziemianina (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Puchacz i Kicia na sopran i fortepian do tekstu Edwarda Leara (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Baltic Wind , cykl utworów na trąbkę, klarnet basowy, kontrabas, perkusję i fortepian (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Muzyka do przedstawienia Pulpwitkac (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Muzyka do przedstawienia Ukąszenie (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Miłosne piosneczki codzienne , cykl 10 piosenek na głos żeński i fortepian do tekstu Zbigniewa Książka (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Aranżacja muzyki filmowej Krzysztofa Komedy na chór, fortepian, trąbkę i wielką orkiestrę symfoniczną (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Zefirek Bałtycki na kwartet smyczkowy (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Taniec Arquina na kwartet smyczkowy (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Dyskretny urok konsonansów na orkiestrę smyczkową (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Aleatomodlablues na 3 klarnety, 5 saksofonów, 4 trąbki, 4 puzony, 2 gitary, fortepian, kontrabas i perkusję (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "CAP CA RAP na 3 klarnety, 5 saksofonów, 4 trąbki, 4 puzony, 2 gitary, fortepian, kontrabas i perkusję (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Muzyka do przedstawienia Cyrk Oklahoma (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Slap & Caress na wibrafon, fortepian, kontrabas i perkusję (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Kyrie z Missa Miseri Cordis na sopran, alt, tenor, bas, chór mieszany i orkiestrę symfoniczną (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Cantabile in G-minor , cykl utworów na wibrafon, fortepian, kontrabas i perkusję (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Transkrypcje miniatur Fryderyka Chopina na trio jazzowe: fortepian, kontrabas i perkusję (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Koncert na fortepian i orkiestrę symfoniczną (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Missa Miseri Cordis na sopran, alt, tenor, bas, chór mieszany i orkiestrę symfoniczną (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Code numbers , cykl utworów na fortepian, kontrabas i instrumenty perkusyjne (2008)",
+      "year": "2008"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "kulakowski-leszek-en"
+}

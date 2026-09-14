@@ -1,0 +1,463 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/s/szeligowski-tadeusz-en",
+  "title": "Szeligowski Tadeusz",
+  "name": "Szeligowski Tadeusz",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "composer and teacher; b. 13 September 1896, Lviv; died 10 January 1963, Poznań. At the age of 18, he graduated with distinction from classical secondary school and Galicia Music Conservatory in Lviv, where he studied piano under Vilem Kurz and music theory under Stanisław Niewiadomski. In 1918-1922 he srudied law at the Jagiellonian University in Kraków. In 1921-1928 he studied musicology at the Jagiellonian University in Kraków (on extramural basis). In 1923 he moved to Vilnius. In 1925-1927 he taught history of music at the Vilnius Conservatory. In 1929 he got a scholarship from the Ministry for Religion and Public Education to travel to Paris for further studies. He was a pupil of Nadia Boulanger and Paul Dukas (instrumentation). After return, in 1931 he taught composition and music theory in Music Conservatory in Poznań. During the World War II he lived in Vilnius and worked as organist at the St. Casimir church. In 1945 he became director of the Secondary Music School in Lublin. In 1947 he organised the State Academy of Opera in Poznań and became its director. At the same time he was a director and artistic director of the Poznań Philharmonic. In 1948-1963 he taught composition at the Academy of Music in Poznań (from 1950 as a professor); between 1951 and 1963 he was professor of composition at the Academy of Music in Warsaw (from 1957 as Head of the Department). In 1951-1954, Tadeusz Szeligowski was a president of the Polish Composers’ Union. He was an initiator the Poznań Spring Music festival (organised by PC'U, for the fist time in 1961). Tadeusz Szeligowski was awarded in many composers’ competitions, including: honorable mention in 1930, in Henryk Melcer Composers’ Competition in Warsaw, for Archaic Suite for orchestra (1930); honorable mention in 1932, in Wielkopolska Association of Song Clubs in Poznań for Psalm XVI (1931); 1st prize in the Małopolska Association of Song and Music Societies in Lviv, in 1934, for Regina coeli laetare for choir (1934); two 1st awards for Joyful Psalm in memoriam Guillaume Dufay for mixed choir (1938) and Sailors' Song for mixed choir (1938) in a competition of the „Śpiewak” [„Singer”] monthly; 2nd prize for „100 m” Cantata about Sport for solo voice, choir and orchestra (1948), in 1948, in the Olympic Competition of the Polish Composers’ Union; in 1949: 2nd prize (the 1st has been not awarded) for The Young Squire and Country Girl, musical dialogue for soprano, baritone, mixed choir and orchestra or piano (1948-49) in the Polish Radio and the Ministry of Culture and Arts competition (to compose a song to Adam Mickiewicz’s words); 3rd prize for Sonata in d-minor for piano (1949) in the Fryderyk Chopin Composers’ Competition; honorable mention for Arion , song for tenor and piano (1949) in the competition to cpompose a song to Aleksander Puszkin ’s words. He was also awarded: in 1950 the State Prize - 2nd degree for Lublin Wedding for soprano, mixed choir and small string orchestra (1948), The Peacock and the Maiden , suite from the ballet (1948) and the song Arion ; in 1951 the State Prize - 1st degree for the opera The Scholars' Revolt ; in 1952 the Officer's Cross of the Order of Polonia Restitutain; in 1957 the Prime Minister's Award for the opera Krakatuk (1954), in 1963 (posthumous) Award of the Polish Composers' Union for his output and the Polish Radio award for his radio opera-oratorio Odysseus Weeping for reciting voices, choir and symphony orchestra (1962). updated: April 2004",
+  "birth": {
+    "place": "Lviv",
+    "date": "13 September 1896",
+    "raw": "b. 13 September 1896, Lviv"
+  },
+  "death": {
+    "place": null,
+    "date": "10 January 1963",
+    "raw": "died 10 January 1963"
+  },
+  "works": [
+    {
+      "title": "The Peasant King, ouverture to a comedy by Piotr Baryka for orchestra (1926)",
+      "year": "1926"
+    },
+    {
+      "title": "Variations for a Folk Song Theme for piano (1927)",
+      "year": "1927"
+    },
+    {
+      "title": "Wanda , song for voice and piano (1927)",
+      "year": "1927"
+    },
+    {
+      "title": "Folk Songs from Lithuania for voice and piano (1927)",
+      "year": "1927"
+    },
+    {
+      "title": "Lithuanian Song for violin and piano (1928)",
+      "year": "1928"
+    },
+    {
+      "title": "String Quartet No. 1 (1928-29)",
+      "year": "1928-29"
+    },
+    {
+      "title": "Kaziuki , suite for orchestra (1928-29)",
+      "year": "1928-29"
+    },
+    {
+      "title": "Green Songs for voice and piano (1929)",
+      "year": "1929"
+    },
+    {
+      "title": "Lilies , ballad for voice and piano (1929)",
+      "year": "1929"
+    },
+    {
+      "title": "Oaks , elegy for voice and piano (1929)",
+      "year": "1929"
+    },
+    {
+      "title": "In Alder Grove , idylla for voice and piano (1929)",
+      "year": "1929"
+    },
+    {
+      "title": "Chmiel , wedding song for voice and piano (1929)",
+      "year": "1929"
+    },
+    {
+      "title": "Nos qui sumus , motet for 2 male voices (1929)",
+      "year": "1929"
+    },
+    {
+      "title": "O vos omnes , motet for 3 female voices (1929)",
+      "year": "1929"
+    },
+    {
+      "title": "Timor et tremor , motet for contralto and tenor (1929)",
+      "year": "1929"
+    },
+    {
+      "title": "Concerto for Orchestra (1930)",
+      "year": "1930"
+    },
+    {
+      "title": "Archaic Suite for orchestra (1930)",
+      "year": "1930"
+    },
+    {
+      "title": "Two Belarusian Songs for mixed choir (1930)",
+      "year": "1930"
+    },
+    {
+      "title": "Little Suite for orchestra (1931)",
+      "year": "1931"
+    },
+    {
+      "title": "Psalm XVI , oratorio (1931)",
+      "year": "1931"
+    },
+    {
+      "title": "Ricercar for 4 instrumental or vocal voices (1931)",
+      "year": "1931"
+    },
+    {
+      "title": "Latin Mass for mixed choir and organ (1932)",
+      "year": "1932"
+    },
+    {
+      "title": "Clarinet Concerto (1933)",
+      "year": "1933"
+    },
+    {
+      "title": "Andante for clarinet and orchestra (1933)",
+      "year": "1933"
+    },
+    {
+      "title": "Under Eave of Snow , Christmas carol for mixed choir (1933-34)",
+      "year": "1933-34"
+    },
+    {
+      "title": "Wiśnia blues for voice, cello and piano (1934)",
+      "year": "1934"
+    },
+    {
+      "title": "Flower Allegories for voice and piano (1934)",
+      "year": "1934"
+    },
+    {
+      "title": "Angels were singing mellifluently , motet for mixed choir (1934)",
+      "year": "1934"
+    },
+    {
+      "title": "Little Quail , Belarusian folk song for male choir (1934)",
+      "year": "1934"
+    },
+    {
+      "title": "Regina coeli laetare , song for choir (1934)",
+      "year": "1934"
+    },
+    {
+      "title": "String Quartet No. 2 (1934-35)",
+      "year": "1934-35"
+    },
+    {
+      "title": "Trio for Oboe, Viola and Cello (1935)",
+      "year": "1935"
+    },
+    {
+      "title": "I have got time now , song for male choir (1935)",
+      "year": "1935"
+    },
+    {
+      "title": "A Blue Bird , suite for orchestra (1936)",
+      "year": "1936"
+    },
+    {
+      "title": "Epitaph for the Death of Karol Szymanowski for string orchestra (1937)",
+      "year": "1937"
+    },
+    {
+      "title": "Fish Party , song for children choir (1937)",
+      "year": "1937"
+    },
+    {
+      "title": "Sailors' Song for mixed choir (1938)",
+      "year": "1938"
+    },
+    {
+      "title": "Joyful Psalm in memoriam Guillaume Dufay for mixed choir (1938)",
+      "year": "1938"
+    },
+    {
+      "title": "Guitars of Zalamea for piano (1938-39)",
+      "year": "1938-39"
+    },
+    {
+      "title": "Christmas Carols Suite for string orchestra (1939)",
+      "year": "1939"
+    },
+    {
+      "title": "Air grave et air gai for English horn and piano (1940)",
+      "year": "1940"
+    },
+    {
+      "title": "Sonatina for piano (1940-41)",
+      "year": "1940-41"
+    },
+    {
+      "title": "Piano Concerto (1941)",
+      "year": "1941"
+    },
+    {
+      "title": "Russian Dance for piano (1942)",
+      "year": "1942"
+    },
+    {
+      "title": "Missa de Angelis for 3 female voices (1942)",
+      "year": "1942"
+    },
+    {
+      "title": "Mass for female choir (1942)",
+      "year": "1942"
+    },
+    {
+      "title": "Ave Maria for soprano, female choir and organ (1943)",
+      "year": "1943"
+    },
+    {
+      "title": "Aria for soprano and organ (1943)",
+      "year": "1943"
+    },
+    {
+      "title": "Ave Maria for 3 female voices (1943)",
+      "year": "1943"
+    },
+    {
+      "title": "Stabat Mater for mixed choir (1943)",
+      "year": "1943"
+    },
+    {
+      "title": "Pange lingua for mixed choir (1943)",
+      "year": "1943"
+    },
+    {
+      "title": "Regina coeli laetare for 3 female voices (1943)",
+      "year": "1943"
+    },
+    {
+      "title": "Popule meus for 3 female voices (1943)",
+      "year": "1943"
+    },
+    {
+      "title": "Veni Creator for 3 female voices (1943)",
+      "year": "1943"
+    },
+    {
+      "title": "Nocturn for cello and piano (1943)",
+      "year": "1943"
+    },
+    {
+      "title": "Dance for cello and piano (1943-45)",
+      "year": "1943-45"
+    },
+    {
+      "title": "Poem for cello and piano (1943-45)",
+      "year": "1943-45"
+    },
+    {
+      "title": "Pastorale , miniature for cello and organ (1943-45)",
+      "year": "1943-45"
+    },
+    {
+      "title": "Sarabanda , miniature for cello and organ (1943-45)",
+      "year": "1943-45"
+    },
+    {
+      "title": "Lublin Suite for small orchestra (1945)",
+      "year": "1945"
+    },
+    {
+      "title": "Kupala Night , suite for orchestra (1945)",
+      "year": "1945"
+    },
+    {
+      "title": "Orientale , miniature for cello and piano (1945)",
+      "year": "1945"
+    },
+    {
+      "title": "Songs to Words by Jarosław Iwaszkiewicz for voice and piano (1945)",
+      "year": "1945"
+    },
+    {
+      "title": "Five Folk Song from the Lublin Region for female or children choir (1945)",
+      "year": "1945"
+    },
+    {
+      "title": "Five Folk Song from the Lublin Region for 3-voice mixed choir (1945)",
+      "year": "1945"
+    },
+    {
+      "title": "Four Folk Song from the Lublin Region for mixed choir (1945)",
+      "year": "1945"
+    },
+    {
+      "title": "Sit Down All around with Us, suite of 12 popular songs 1810-1875 for mixed choir (or soprano and alto) and piano (1945)",
+      "year": "1945"
+    },
+    {
+      "title": "Triptych for soprano and orchestra (1946)",
+      "year": "1946"
+    },
+    {
+      "title": "Koszałki-opałki , scherzo for male choir (1946)",
+      "year": "1946"
+    },
+    {
+      "title": "Nocturn for orchestra (1947)",
+      "year": "1947"
+    },
+    {
+      "title": "O, Little Green Birch , song for voice and piano (1947)",
+      "year": "1947"
+    },
+    {
+      "title": "O, My Girl , song for voice and piano (1947)",
+      "year": "1947"
+    },
+    {
+      "title": "A Road from Różan , song for voice and piano (1947)",
+      "year": "1947"
+    },
+    {
+      "title": "The Peacock and the Maiden , ballet (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "„100 m” C antata about Sport for solo voice, choir and orchestra (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "Wedding Suite for soprano, tenor, female choir, mixed choir and piano (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "Lublin Wedding for soprano, mixed choir and small symphony orchestra (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "Poke Up, Lads, song for mixed choir (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "The Young Squire and Country Girl, musical dialogue for soprano, baritone, mixed choir and orchestra or piano (1948-49)",
+      "year": "1948-49"
+    },
+    {
+      "title": "Rhapsod for soprano and orchestra (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "Sonata in d-minor for piano (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "Arion , song for tenor and piano (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "Demon , song for tenor and piano (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "Pigeons , song for soprano and piano (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "The Scholar's Revolt, opera in 4 acts (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "Ballada o Kostce Napierskim na głos z fortepianem (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "Comedy Ouverture for small symphony orchestra (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Two Studies - Double Sounds for piano (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Little Pieces for piano (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Little Pieces for piano 4 hands (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "The Card of Hearts , cantata for soprano, mixed choir and orchestra (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Little Sophie , suite for choir and orchestra (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "The Peacock and the Maiden , ballet suite for orchestra (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Renegade , ballad for bass and orchestra or piano (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Wind Quintet (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Sonata for Flute and Piano (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Song about Three Mauritanian Women for voice and piano (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Four Polish Dances for symphony orchestra (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "Krakatuk , opera in 3 acts with prologue (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "On a Grassland , suite for 2 pianos (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "Song of the Decade [1st version] for mixed choir and piano (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "Song of the Decade [1st versionI] for mixed a cappella choir (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "Trio for violin, cello and piano (1955-56)",
+      "year": "1955-56"
+    },
+    {
+      "title": "Mazepa , ballet in 3 acts (1957)",
+      "year": "1957"
+    },
+    {
+      "title": "Polish Love Songs for recorders (1959)",
+      "year": "1959"
+    },
+    {
+      "title": "Teodor Gentleman , opera in 2 acts (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Soledad , song for voice and piano (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Psalm CXVI \"Laudate Dominum” for mixed and boys choir (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Odysseus Weeping and Friendless , radio opera-oratorio for reciting voices, choir and symphony orchestra (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Rex inclitus (Rex gloriosus) [unfinished], cantata for solo voices, choir and symphony orchestra (1962)",
+      "year": "1962"
+    }
+  ],
+  "publications": "articles & papers Szeligowski Stanisław, Szeligowski Tadeusz, Lekcje słuchania muzyki. Zarys metodyki dla szkół umuzykalniających, PWM, Kraków 1947 Tadeusz Szeligowski. Studia i wspomnienia, (pod red. Franciszka Woźniaka), Pomorze, Bydgoszcz 1987 Szantruczek Tadeusz, Tadeusz Szeligowski, Ars Nova, Poznań 1995 Szantruczek Tadeusz, Komponować... i umrzeć. Rzecz o Tadeuszu Szeligowskim, Ars Nova, Poznań 1997 Tadeusz Szeligowski. Wokół twórcy i jego dzieła, (pod red. Teresy Brodniewicz, Janusza Kempińskiego, Janiny Tatarskiej), Ars Nova, Poznań 1998",
+  "bibliography": null,
+  "slug": "szeligowski-tadeusz-en"
+}

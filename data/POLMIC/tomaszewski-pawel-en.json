@@ -1,0 +1,31 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/t/tomaszewski-pawel-en",
+  "title": "Tomaszewski Paweł",
+  "name": "Tomaszewski Paweł",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": "pianist, composer, and arranger. Born on 10 June 1983 in Gostynin, he graduated with honours from Academy of Music in Katowice with a diploma in the piano (2002-2006) and composition and arrangement (2002-2007). While still at university, he set up the Tomaszewski Trio with Andrzej Święs (double bass) and Paweł Dobrowolski (percussion). Currently, he is working on another album of his works, which will also be part of his PhD research. Since 2007 Tomaszewski is a lecturer at the Jazz Institute of Karol Szymanowski Academy of Music in Katowice, teaching the piano, compositions, arrangement, big-band, jazz harmonics, analysis of improvisation and styles, and instrumental ensembles. He is a member of the Jarosław Śmietana Quartet. With the band he has toured Germany, Belgium, France, England, Scotland, Romania, Russia, Belarus, Lithuania, Georgia, and Vietnam. In 2011 he took part in the Chopin For 5 Grand Pianos project of Sławomir Jaskułke, which took him to Singapore and China. He won the individual prize at the Jazz On The Odra River Festival in Wrocław (2003 and 2004). He has also won many awards fronting his band the Tomaszewski Trio: the first prize at the International Jazz Standards Festival in Siedlce (2005), grand prix and the special Radio Kraków Award at the Jazz Juniors Festival in Kraków (2006), grand prix of the Lotos Jazz Festival – Bielska Zadymka Jazzowa in Bielsko-Biala (2006). Tomaszewski has also been successfully performing with other bands, winning: the first prize of the Jazz Band Review in Radom with The Quartet (2003) and grand prix of the Krokus Jazz Festival in Jelenia Góra with the Patrycjusz Gruszecki Quintet (2006). In 2009 he played the piano on Grzegorz Nagórski Quartet album, which won the Fryderyk Award for the Jazz Phonographic Debut of the Year. Another two albums on which he played were nominated for the Fryderyk Awards in 2012: Grzegorz Nagorski Quartet Over and Over (Jazz Album of the Year) and Marta Król . The First Look (Jazz Phonographic Debut of the Year). He writes music mainly to his own projects. As arranger he has collaborated with Jarosław Śmietana and the Kraków Philharmonic Orchestra, Ewa Uryga on the album Jedno Spojrzenie with the Orchestra of the Zabrze Philharmonic, Krzysztof Popek and string quintet, and Teatr Rozrywki in Chorzów. He worked as producer, arranger, and pianist on the album Kaczmarski & Jazz featuring Anna Serafińska, Maria Sadowska, and Janusz Szrom. He has collaborated with: Maria Schneider, Nigel Kennedy, Rick Margitza, Eric Marienthal, Dean Brown, Larry Coryell, Mack Goldsbury, Z-Star, Xantone Blacq, Otto Williams, Troy Miller, Judy Bady, Ed Neumeister, Steve Logan, Yaron Stavi, Frank Parker, Josh Lawrence, Jacques Seguin, Brian Fentress, Michał Urbaniak, Urszula Dudziak, Krzesimir Dębski, Sławomir Jaskułke, Karen Edwards, Jose Torres, Mieczysław Szcześniak, Mika Urbaniak, Bill Neal, Wojciech Karolak, Hanna Banaszak, Zbigniew Wodecki, Monika Brodka, Ryszard Rynkowski, Dorota Miśkiewicz, Jorgos Skolias, Eryk Kulm, Marita Albán Juárez, Anna Gadt, Stanisław Fijałkowski. Updated: January 2013 (ajs)",
+  "birth": {
+    "place": "Gostynin",
+    "date": "10 June 1983",
+    "raw": "Born on 10 June 1983 in Gostynin,"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Symphony of the Galaxies na kwintet jazzowy oraz orkiestrę smyczkową (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Polish jazz symphony na orkiestrę symfoniczną i big-band (2015)",
+      "year": "2015"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "tomaszewski-pawel-en"
+}

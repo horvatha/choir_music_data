@@ -1,0 +1,31 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/k/kozlowski-krzysztof-en",
+  "title": "Kozłowski Krzysztof",
+  "name": "Kozłowski Krzysztof",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Dendrofonia, audiowizualna instalacja (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Psalm , opera (2017)",
+      "year": "2017"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "kozlowski-krzysztof-en"
+}

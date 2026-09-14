@@ -1,0 +1,303 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/s/sokorski-jerzy-en",
+  "title": "Sokorski Jerzy",
+  "name": "Sokorski Jerzy",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Fantazja na obój i fortepian (1936)",
+      "year": "1936"
+    },
+    {
+      "title": "Inwencja na trio smyczkowe (1936)",
+      "year": "1936"
+    },
+    {
+      "title": "Sonatina na flet i altówkę (1936)",
+      "year": "1936"
+    },
+    {
+      "title": "Gawot na fortepian (1936)",
+      "year": "1936"
+    },
+    {
+      "title": "Akacje , pieśń na głos i fortepian do słów Juliana Tuwima (1936)",
+      "year": "1936"
+    },
+    {
+      "title": "Nie mów dziecinie [wersja I], pieśń na głos i fortepian do słów Stanisława Młodożeńca (1936)",
+      "year": "1936"
+    },
+    {
+      "title": "Nie mów dziecinie [wersja II], pieśń na głos i orkiestrę smyczkową do słów Stanisława Młodożeńca (1936)",
+      "year": "1936"
+    },
+    {
+      "title": "Fuga na kwartet smyczkowy i kwartet instrumentów dętych drewnianych (1937)",
+      "year": "1937"
+    },
+    {
+      "title": "Przyjście , pieśń na głos i fortepian do słów Leopolda Staffa (1937)",
+      "year": "1937"
+    },
+    {
+      "title": "A jeżeli , pieśń na głos i fortepian do słów Juliana Tuwima (1937)",
+      "year": "1937"
+    },
+    {
+      "title": "Ananke , pieśń na głos i fortepian do słów Tadeusza Micińskiego (1937)",
+      "year": "1937"
+    },
+    {
+      "title": "Dialog [wersja I], pieśń na głos i fortepian do słów Juliana Tuwima (1938)",
+      "year": "1938"
+    },
+    {
+      "title": "Dialog [wersja II], pieśń na głos i orkiestrę smyczkową do słów Juliana Tuwima (1938)",
+      "year": "1938"
+    },
+    {
+      "title": "Fortepian Chopina , kantata na 4 głosy żeńskie, kwartet smyczkowy i harfę do słów Cypriana Kamila Norwida (1938)",
+      "year": "1938"
+    },
+    {
+      "title": "Na cmentarzu Père Lachaise , pieśń na głos i fortepian do słów Władysława Broniewskiego (1938)",
+      "year": "1938"
+    },
+    {
+      "title": "Wiązanka kwiatów , pieśń na głos i fortepian do słów Rabindranatha Tagore’a (1938)",
+      "year": "1938"
+    },
+    {
+      "title": "Do przyjaciela , pieśń na głos i fortepian do słów Władysława Broniewskiego (1938)",
+      "year": "1938"
+    },
+    {
+      "title": "Pionierom , pieśń na głos i fortepian do słów Władysława Broniewskiego (1938)",
+      "year": "1938"
+    },
+    {
+      "title": "Dwa wiatry [wersja I], pieśń na głos i orkiestrę smyczkową do słów Juliana Tuwima (1938)",
+      "year": "1938"
+    },
+    {
+      "title": "Dwa wiatry [wersja II], pieśń na głos i fortepian do słów Juliana Tuwima (1939)",
+      "year": "1939"
+    },
+    {
+      "title": "Zimny wiatr , pieśń na głos i fortepian do słów Jarosława Iwaszkiewicza (1939)",
+      "year": "1939"
+    },
+    {
+      "title": "To tylko liście , pieśń na głos i fortepian do słów Rabindranatha Tagore’a (1939)",
+      "year": "1939"
+    },
+    {
+      "title": "Zachód , pieśń na głos i fortepian do słów Władysława Broniewskiego (1939)",
+      "year": "1939"
+    },
+    {
+      "title": "W pociągu , pieśń na głos i fortepian do słów Władysława Broniewskiego (1939)",
+      "year": "1939"
+    },
+    {
+      "title": "Maj 1939 , pieśń na głos i fortepian do słów Antoniego Słonimskiego (1940)",
+      "year": "1940"
+    },
+    {
+      "title": "Koncert na fortepian i orkiestrę (1941)",
+      "year": "1941"
+    },
+    {
+      "title": "Łąka , kantata na chór męski do słów Bolesława Leśmiana (1941)",
+      "year": "1941"
+    },
+    {
+      "title": "Hymn o zachodzie słońca , pieśń na głos i fortepian do słów Juliusza Słowackiego (1942)",
+      "year": "1942"
+    },
+    {
+      "title": "Tęsknota , pieśń na głos i fortepian do słów Leopolda Staffa (1942)",
+      "year": "1942"
+    },
+    {
+      "title": "Wśród georginii , pieśń na głos i fortepian do słów Bolesława Leśmiana (1942)",
+      "year": "1942"
+    },
+    {
+      "title": "Na wyciągniętych deszczu strunach , pieśń na głos i fortepian do słów Stanisława Brzozowskiego-Koraba (1942)",
+      "year": "1942"
+    },
+    {
+      "title": "Elegia o śmierci Ludwika Waryńskiego, pieśń na głos i fortepian do słów Władysława Broniewskiego (1943)",
+      "year": "1943"
+    },
+    {
+      "title": "Do przyjaciół poetów , pieśń na głos i fortepian do słów Władysława Broniewskiego (1943)",
+      "year": "1943"
+    },
+    {
+      "title": "Biała panienka , pieśń na głos i fortepian do słów Konstantina Balmonta (1943)",
+      "year": "1943"
+    },
+    {
+      "title": "Trio fortepianowe (1944)",
+      "year": "1944"
+    },
+    {
+      "title": "Trzy pieśni na głos i fortepian do słów Paula Verlaine’a (1944)",
+      "year": "1944"
+    },
+    {
+      "title": "Żaglowiec , pieśń na głos i fortepian do słów Michaiła Lermontowa (1944)",
+      "year": "1944"
+    },
+    {
+      "title": "Kołysanka , pieśń na głos i fortepian do słów Anatola Sterna (1945)",
+      "year": "1945"
+    },
+    {
+      "title": "Łódź , pieśń na głos i fortepian do słów Władysława Broniewskiego (1945)",
+      "year": "1945"
+    },
+    {
+      "title": "Do syna , pieśń na głos i fortepian do słów Zbigniewa Bieńkowskiego (1945)",
+      "year": "1945"
+    },
+    {
+      "title": "O moja mamusiu , pieśń na głos i fortepian do słów ludowych (1945)",
+      "year": "1945"
+    },
+    {
+      "title": "Czarcia huśtawka , pieśń na głos i fortepian do słów Juliana Tuwima (1945)",
+      "year": "1945"
+    },
+    {
+      "title": "Poezja , pieśń na głos i fortepian do słów Władysława Broniewskiego (1945)",
+      "year": "1945"
+    },
+    {
+      "title": "Żołnierz polski , pieśń na głos i fortepian do słów Władysława Broniewskiego (1945)",
+      "year": "1945"
+    },
+    {
+      "title": "Kolęda warszawska , pieśń na głos i fortepian do słów Stanisława Balińskiego (1945)",
+      "year": "1945"
+    },
+    {
+      "title": "Co mi tam troski , pieśń na głos i fortepian do słów Władysława Broniewskiego (1946)",
+      "year": "1946"
+    },
+    {
+      "title": "Grenada , pieśń na głos i fortepian do słów Michaiła Swietłowa (1946)",
+      "year": "1946"
+    },
+    {
+      "title": "Oczy , pieśń na głos i fortepian do słów Władysława Broniewskiego (1946)",
+      "year": "1946"
+    },
+    {
+      "title": "Wyżej niż dębu liść na chór męski do słów Tadeusza Kubiaka (1947)",
+      "year": "1947"
+    },
+    {
+      "title": "Piosenka o Zagłębiu Węglowym na głos i fortepian do słów Stanisława Wygodzkiego (1947)",
+      "year": "1947"
+    },
+    {
+      "title": "Gdybym ci ja miała , pieśń na głos i fortepian do słów Tadeusza Kubiaka (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "Bzy i róże , kantata na sopran, chór męski i orkiestrę do słów Louisa Aragona (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "W Hiszpanii , pieśń na głos i fortepian do słów Paula Eluarda (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "Solitaire , pieśń na głos i fortepian do słów Paula Eluarda (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "Pieśń o Stalinie na tenor recytujący i chór męski do słów Władysława Broniewskiego (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "Piosnka Zosi na głos i fortepian do słów Juliusza Słowackiego (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "Marynka , opera (1956)",
+      "year": "1956"
+    },
+    {
+      "title": "Opowieść niemalże o końcu świata , opera radiowa (1959)",
+      "year": "1959"
+    },
+    {
+      "title": "Mały kwintet na klarnet, dwoje skrzypiec, altówkę i wiolonczelę (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Noce królewskie , opera (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Kantoj , pieśni na głos i fortepian do słów Julii Pióro (1970-83)",
+      "year": "1970-83"
+    },
+    {
+      "title": "Koncert na głos i orkiestrę (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Pieśń nad pieśniami , oratorium (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Kwartet smyczkowy (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Pieśni do słów Haliny Poświatowskiej na głos i fortepian (1989-91)",
+      "year": "1989-91"
+    },
+    {
+      "title": "Kwintet koncertujący na dwoje skrzypiec, altówkę, wiolonczelę i kontrabas (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Wieczorny wiersz , pieśń na głos i fortepian do słów Juliana Tuwima (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Źródło , pieśń na głos i fortepian do słów Juliana Tuwima (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Tryptyk pionowy na głos i fortepian do słów Mirona Białoszewskiego (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Deutscher Lieder na głos i fortepian do słów poetów niemieckich (2001)",
+      "year": "2001"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "sokorski-jerzy-en"
+}

@@ -1,0 +1,103 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/d/debski-radzimir-en",
+  "title": "Dębski Radzimir",
+  "name": "Dębski Radzimir",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": "composer, conductor, music producer (working under the pseudonym JIMEK); b. 30 April 1987 in Szczecin. He started his musical education at the age of 6. He studied violin, percussion, trumpet, and piano. Having graduated from the St. Paul’s British International School in Warsaw and European International School, he went on to study at the University of California Los Angeles (Film Scoring, Orchestration) and the Fryderyk Chopin Academy of Music in Warsaw (MA in composition). He has been writing music for feature films for many years (e.g. 1920 Battle of Warsaw , Szatan z siódmej klasy ( Satan from the Seventh Grade ), Polisz Kicz Projekt , Station ), TV series (e.g. Tancerze ( Dancers ) - seasons 2-3, TVP; Ranczo - seasons 1-4, TVP; Kosmici ( Aliens ) - Polsat), theatre productions (e.g. for Dramatyczny Theatre in Warsaw), music festivals and TV advertisements. He composed 30 symphonic and chamber works, and conducted concerts at the Silesian Philharmonic, Łódź Philharmonic, Lower Silesia Philharmonic and the Fryderyk Chopin Academy of Music. In April 2012 won a competition for the best remix of Beyoncè's End of Time , beating off 3000 rivals. His remix is featured in the singer's album 4:The Remix . In 2014 he was commissioned to write two symphonic pieces which were premiered during the opening of the new building of the Mieczysław Karłowicz Philharmonic in Szczecin. In November 2014 he released a single titled Prologue that precedes his debut album The Best Of . updated: December 2014 (mkk, ab)",
+  "birth": {
+    "place": "Szczecin",
+    "date": "30 April 1987",
+    "raw": "b. 30 April 1987 in Szczecin"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "The piece Discostacyja to the film Stacja directed by Piotr Wereśniak (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Score to the TV series As directed by Grzegorz Okrasa and Janusz Dymek (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "The song Pojadę do Cannes to the film Polisz Kicz Projekt directed by Mariusz Pujszo (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Score to the TV series Kosmici directed by Olaf Lubaszenko (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Score to TVP's current events programme Forum (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "The songs Świat jest piękny o poranku , Raz mądry sędzie w Bagdadzie and Czy z gwiazd to the film and TV series Szatan z siódmej klasy directed by Kazimierz Tarnas (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "The song I tylko sny to the TV series Ranczo directed by Wojciech Adamczyk (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Music and song to the film Ranczo Wilkowyje directed by Wojciech Adamczyk (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Musica per tredici archi for string orchestra (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Score to the title sequence of the TV series The Big Time (2008-2010)",
+      "year": "2008-2010"
+    },
+    {
+      "title": "Los Angeles Suite for big band (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Chopinada for symphony orchestra (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Score to the TV series Tancerze (season 2) directed by Wojciech Adamczyk (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Score to the TVP programme Od stóp do głów (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Score to the TV series Tancerze (season 3) directed by Xawery Żuławski (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Crux for symphony orchestra (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Hypnotixx - music to a scene in the film Miasto 44 directed by Jan Komasa (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Score to the short film Brat czeka na końcu drogi directed by Waldemar Grzesik (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Score to the short film Po kryjomu directed by Marta Maruszak (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Music to the play Śmierć i dziewczyna (Dramatyczny Theatre, Warsaw) (2009)",
+      "year": "2009"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "debski-radzimir-en"
+}

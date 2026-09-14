@@ -1,0 +1,187 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/s/stojowski-zygmunt-denis-antoni-jordan-de-en",
+  "title": "Stojowski Zygmunt Denis Antoni Jordan",
+  "name": "Stojowski Zygmunt Denis Antoni Jordan",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": "(aka Sigismond Stojowski), composer, pianist and pedagogue; born born most probably on 27 March 1870 (OS) [8 April 1870 (NS) – some sources quote also 2 and 14 May, and the following years: 1863, 1869, 1871 and 1876] in Strzelce near Kielce; died on 5 November 1946 in New York.. Stojowski's mother, Maria née Bogdeńska, was his first piano teacher. Later he attended Kraków's St Anne's Gymnasium and studied piano and composition as a private student under Władyslaw Żeleński. In 1886, aged sixteen, he took part in the concerts of the Kraków Music Society, and in 1887 he gave his first own concert in the double role of the pianist and the composer. Having completed his gymnasium education in 1887, he went to France and enrolled in the Paris Conservatoire to study piano in the class of Louis Diémer, harmony under Theodore Dubois and composition under Léo Delibes (after Delibes' death in 1891, Stojowski received consultation from Jules Massenet and Camille Saint-Saëns). He was a student of Ignacy Jan Paderewski in 1891 – an acquaintance which turned into an almost half-a-century-long friendship; both of them will work for the Polish cause, and Paderewski will invite Stojowski to join the first Polish government, an offer which Stojowski will refuse, choosing to serve the Polish cause from overseas. While a student in Paris, Stojowski listened to lectures in history, philosophy, languages and literature at the Sorbonne, and befriended Peter Tchaikovsky and Johannes Brahms. Having graduated with honours from the Conservatoire, he stayed on in France for a while and gave concerts in Paris, London, Brussels, Berlin and in Poland (in Kraków, Wrocław, Warsaw and Lublin). In 1898 his Symphony in D minor Op. 21 (1898) won him the 1st prize for an orchestral work at the Ignacy Jan Paderewski Composition Competition in Leipzig. He left for the United States in October 1905 and lived their until his death. He became an American citizen in 1938. Until 1911 he was professor at the Institute of Musical Art in New York (the predecessor of the famous Juilliard School of Music), heading the piano chair. There he earned a reputation as an excellent teacher. Afterwards, until 1918, he taught at the Von Ende School of Music (nowadays the University of the State of New York) as well as gave private lessons. Around 1918 he established a school of his own, his students including Aleksander Brachocki, Antonia Brico, Phyllida Ashley, Oscar Levant, Mischa Levitzki, Arthur Loesser, Alfred Newman, Guiomar Novaes, and Harriet Ware. He also organized festivals and master courses, and concertized with various orchestras in a number of cities in the United States, Canada and South America. In addition to his owns works, he played concertos by Ludwig van Beethoven, Frederic Chopin, Franz Liszt and Camille Saint-Saëns. His compositions were in turn performed by Ignacy Jan Paderewski, Aleksander Michałowski, Józef Hofman, Mieczysław Horszowski, Antonina Adamska, Rudolf Ganz, Carl Friedberg, Aleksander Brachocki, Artur Loesser, Percy Grainger, Olga Samaroff, Mischa Levitzki, Michael von Zadora, Władysław Górski, Paweł Kochański, Henryk Opieński, August Wilhemj, Jacques Thibaud, Jascha Heifetz, George Enescu, Pablo Casals, Grzegorz Piatigorski, Jozef Adamski, Marcelina Sembrich-Kochańska and Karol Fürstenberg. Stojowski's scores were published by C.F. Peters in Leipzig, J.H. Heugel in Paris, G. Augener in London and G. Schirmer in New York. Stojowski was the founder of the Polish Institute of Arts and Letters, the predecessor of the present-day Polish Institute of Arts & Sciences, he has also been involved in the work of Kosciuszko Foundation for twenty years. He wrote essays and articles on piano teaching, contributing to the music magazine \"The Etude\" for thirty-five years. The Polish government awarded Stojowski the order Polonia Restituta. He also received several decorations (including the Distinguished Service Medal) from the United States. updated: 2020 (Agnieszka Cieślak)",
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": "New York",
+    "date": "5 November 1946",
+    "raw": "died on 5 November 1946 in New York."
+  },
+  "works": [
+    {
+      "title": "Deux pensées musicales , Op. 1 for piano (1889)",
+      "year": "1889"
+    },
+    {
+      "title": "Deux caprices-études , Op. 2 for piano (1889)",
+      "year": "1889"
+    },
+    {
+      "title": "Piano Concerto in F-sharp Minor , Op. 3 (1890)",
+      "year": "1890"
+    },
+    {
+      "title": "Trois intermèdes , Op. 4 for piano (1891)",
+      "year": "1891"
+    },
+    {
+      "title": "Variations et Fugue , Op. 6 for string quartet (1891)",
+      "year": "1891"
+    },
+    {
+      "title": "Trois morceaux , Op. 8 for piano (1891)",
+      "year": "1891"
+    },
+    {
+      "title": "Suite in E-flat Major , Op. 9 for orchestra (1891)",
+      "year": "1891"
+    },
+    {
+      "title": "Danses humoresques , Op. 12 for piano (1893)",
+      "year": "1893"
+    },
+    {
+      "title": "Sonata in G Major for piano and violin , Op. 13 (1893)",
+      "year": "1893"
+    },
+    {
+      "title": "Quatre morceaux , Op. 5 for piano (1894)",
+      "year": "1894"
+    },
+    {
+      "title": "Deux orientales , Op. 10 for piano (1894)",
+      "year": "1894"
+    },
+    {
+      "title": "Le Printemps , Op. 7, Cantata for mixed chorus and orchestra, text from Fourth Ode of Horace (1895)",
+      "year": "1895"
+    },
+    {
+      "title": "Five Songs , Op. 11 for voice and piano to poems by Adam Asnyk (1895)",
+      "year": "1895"
+    },
+    {
+      "title": "Sonata in A Major for piano and cello , Op. (17)18 (1895)",
+      "year": "1895"
+    },
+    {
+      "title": "Trois morceaux , Op. 15 for piano (1896)",
+      "year": "1896"
+    },
+    {
+      "title": "Deux caprices , Op. 16 for piano (1898)",
+      "year": "1898"
+    },
+    {
+      "title": "Symphony in D-Minor , Op. 21 (1898)",
+      "year": "1898"
+    },
+    {
+      "title": "Concerto in G Minor for violin and orchestra , Op. 22 (1899?)",
+      "year": null
+    },
+    {
+      "title": "Auf Sturm und Stille, Op. 29, 6 pieces for piano (190-?)",
+      "year": null
+    },
+    {
+      "title": "Cinq miniatures , Op. 19 for piano (1900)",
+      "year": "1900"
+    },
+    {
+      "title": "Rapsodie symphonique , Op. 23 for piano and orchestra (1900)",
+      "year": "1900"
+    },
+    {
+      "title": "Romance , Op. 20 for violin and orchestra (1901)",
+      "year": "1901"
+    },
+    {
+      "title": "Polish Idylls , Op. 24 for piano (1901)",
+      "year": "1901"
+    },
+    {
+      "title": "Romantic Pieces , Op. 25 for piano (1902)",
+      "year": "1902"
+    },
+    {
+      "title": "Quatre morceaux , Op. 26 for piano (1903)",
+      "year": "1903"
+    },
+    {
+      "title": "Fantaisie , Op. 27 for trombone and piano (1905)",
+      "year": "1905"
+    },
+    {
+      "title": "Two mazurkas , Op. 28 for piano (1908)",
+      "year": "1908"
+    },
+    {
+      "title": "Trois esquisses , Op. 30 for piano (1908)",
+      "year": "1908"
+    },
+    {
+      "title": "Concerto No. 2 in A-flat Major for piano and orchestra , Op. 32 (1909-1910)",
+      "year": "1909-1910"
+    },
+    {
+      "title": "Dumka , Op. 14 (1910?)",
+      "year": null
+    },
+    {
+      "title": "Poèmes d’été , Op. 36 for piano (1910?)",
+      "year": null
+    },
+    {
+      "title": "Six Songs, Op. 33 for voice and piano to words by Kazimierz Przerwa-Tetmajer (1911)",
+      "year": "1911"
+    },
+    {
+      "title": "Sonata No. 2 in E Major for piano and violin , Op. 37 (1911)",
+      "year": "1911"
+    },
+    {
+      "title": "Fantaisie , Op. 38 for piano (1911)",
+      "year": "1911"
+    },
+    {
+      "title": "Trois etudes de concert , Op. 35 for piano (1912)",
+      "year": "1912"
+    },
+    {
+      "title": "Aspirations , Op. 39 for piano (1914)",
+      "year": "1914"
+    },
+    {
+      "title": "Concertstück , Op. 31 for cello and orchestra (1915)",
+      "year": "1915"
+    },
+    {
+      "title": "A Prayer for Poland , Op. 40, Cantata for soprano and bass, mixed chorus, orchestra and organ, text by Zygmunt Krasiński (1915)",
+      "year": "1915"
+    },
+    {
+      "title": "Intermède lyrique and Scherzo-Caprice , Op. 41 for piano (1922 i 192)",
+      "year": null
+    },
+    {
+      "title": "Variations et fugue sur un thème , Op. 42 for piano (1923)",
+      "year": "1923"
+    },
+    {
+      "title": "Romance , Op. 43 for piano (1941?)",
+      "year": null
+    }
+  ],
+  "publications": null,
+  "bibliography": "Herter Joseph A., Stojowski Zygmunt Denis Antoni Jordan de, in: Encyclopedia of Music PWM (Biographical Part, ed. Elżbieta Dziębowska), vol. „sm-ś”, PWM, Kraków 2007",
+  "slug": "stojowski-zygmunt-denis-antoni-jordan-de-en"
+}

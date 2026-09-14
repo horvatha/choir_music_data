@@ -1,0 +1,59 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/k/krawczyk-agata-en",
+  "title": "Krawczyk Agata",
+  "name": "Krawczyk Agata",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Złoty kubek na głos żeński i fortepian (1996/2006)",
+      "year": null
+    },
+    {
+      "title": "Kolory , suita na fortepian (2003-2004)",
+      "year": "2003-2004"
+    },
+    {
+      "title": "Nie być , sonata na flet i fortepian (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Ukołyszę na głos żeński, klarnet, wiolonczelę i fortepian (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Still & Fluent na dwa fortepiany (2004-2005)",
+      "year": "2004-2005"
+    },
+    {
+      "title": "Zadanie numer zero-zero-jeden na skrzypce solo (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Płonące czarownice na orkiestrę smyczkową (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Parce mihi na chór mieszany (2005-2006)",
+      "year": "2005-2006"
+    },
+    {
+      "title": "Images sans images na orkiestrę smyczkową (2006)",
+      "year": "2006"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "krawczyk-agata-en"
+}

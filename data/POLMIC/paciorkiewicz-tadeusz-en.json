@@ -1,0 +1,379 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/p/paciorkiewicz-tadeusz-en",
+  "title": "Paciorkiewicz Tadeusz",
+  "name": "Paciorkiewicz Tadeusz",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": "composer, music teacher and organist, b. 17th October 1916 in Sierpc; d. 21st November 1998 in Warsaw. He studied organ with Bronisław Rutkowski at the Warsaw Conservatoire (1936-39), and, after the war, composition with Kazimierz Sikorski at the State Higher School of Music in Łódź (degree in 1951). In the years directly following the war, he gave performances as a virtuoso organ-player and choirmaster, but later he dedicated himself primarily to composition and teaching. In 1945 he founded a primary and secondary music school in Płock, in which he held the posts of headmaster and teacher till 1949. He was engaged in the organisation of music life in the Mazowsze region (he founded choirs, taught conductors, etc.). In 1949-59 he taught at the State Higher School of Music in Łódź. In 1954 he took up a teaching post at the State Higher School of Music in Warsaw – in which he held a professorial post from 1968. In 1963-69 he also acted as dean of the Faculty of Composition, Theory and Conducting, and in 1969-71 – as rector of the Academy of Music in Warsaw. Tadeusz Paciorkiewicz was granted many awards and distinctions, incl. the Minister of National Defence Award (1968 and 1974), the Minister of Culture and Arts Award (1969 and 1978), the State Award, 3rd Class (1969), the Order of Merit to Cultural Life (1972), the Prime Minister's Award for works for children and young people (1979), and the Award of the Polish Composers’ Union (1985). He was also decorated with the Cavalier's and Officer's Crosses of the Polonia Restituta Order, the Medal of the National Education Committee, the Medal of the Warsaw Music Society for his contribution to the society's work, the Gold Medal of Honor for his work for the City of Warsaw.",
+  "birth": {
+    "place": "Sierpc",
+    "date": "17th October 1916",
+    "raw": "b. 17th October 1916 in Sierpc"
+  },
+  "death": {
+    "place": "Warsaw",
+    "date": "21st November 1998",
+    "raw": "d. 21st November 1998 in Warsaw"
+  },
+  "works": [
+    {
+      "title": "Variations for string quartet (1946)",
+      "year": "1946"
+    },
+    {
+      "title": "Sonata for organ (1946-47)",
+      "year": "1946-47"
+    },
+    {
+      "title": "Ten Kurpie Songs for mixed choir (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "Kurpie Suite for small symphony orchestra (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "Overture for great symphony orchestra (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "From Chopin’s Songs for mixed choir (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "Ode to Youth [1st version], cantata for 4 solo voices, mixed choir and great symphony orchestra (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "Sonatina for piano (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "Quintet for wind instruments (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "Improvisation for solo harp (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "Piano Concerto No. 1 (1951-52)",
+      "year": "1951-52"
+    },
+    {
+      "title": "Symphony No. 1 (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Ten Silesian Songs for mixed choir (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "Piano Concerto No. 2 (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "Sonata for violin and piano (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "Violin Concerto (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "Sonatina for two violins (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "Cutouts from Sea Foam , small cantata for children’s choir and wind quintet (1956)",
+      "year": "1956"
+    },
+    {
+      "title": "Symphony No. 2 (1957)",
+      "year": "1957"
+    },
+    {
+      "title": "Fantasy for violin and piano (1957)",
+      "year": "1957"
+    },
+    {
+      "title": "The Legend of Warsaw , ballet (1959)",
+      "year": "1959"
+    },
+    {
+      "title": "Four Caprices ( quasi una sonata ) for clarinet and piano (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "String Quartet No. 1 (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "The Earth’s Burden [1st version] for voice and piano (1960-61)",
+      "year": "1960-61"
+    },
+    {
+      "title": "Fatherland for mixed choir and symphony orchestra (1961)",
+      "year": "1961"
+    },
+    {
+      "title": "Ushiko , radio opera (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Melodies and rhythms for piano (1962-70)",
+      "year": "1962-70"
+    },
+    {
+      "title": "Music for harp and 5 wind instruments (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Reed Trio (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Popular Overture for small symphony orchestra (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Maiden from the Window , opera (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Trio for flute, viola and harp (1965-66)",
+      "year": "1965-66"
+    },
+    {
+      "title": "Music for mezzo-soprano and string orchestra (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Adagio and Allegro for string orchestra (1966-67)",
+      "year": "1966-67"
+    },
+    {
+      "title": "The Earth’s Burden [2nd version] for soprano and orchestra (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Ligea , radio opera (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Organ Concerto No. 1 (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Divertimento for clarinet and piano * or string orchestra (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Soldier’s Fantasy for great wind orchestra (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Gothic Fantasy for organ (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Improvvisazione for organ (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Postlude for organ (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Concerto for trombone and symphony orchestra (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Little Suite for 4 horns (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Toccata No. 1 for organ (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Six Miniatures for 4 trombones (1971-72)",
+      "year": "1971-72"
+    },
+    {
+      "title": "Piano Quintet (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "De revolutionibus , oratorio for 4 solo voices, reciting voice, mixed choir, boys’ choir, organ concertante and great symphony orchestra (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Missa brevis for mixed choir and organ (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Duo Concertante [1st version] for clarinet and piano (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Duo Concertante [2nd version] for viola and piano (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Sonata for cello and piano (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Toccata No. 2 for organ (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Triptych for solo harp (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Concerto for viola and orchestra (1975-76)",
+      "year": "1975-76"
+    },
+    {
+      "title": "Triptychon per organo (1976-77)",
+      "year": "1976-77"
+    },
+    {
+      "title": "Orpheus in the Woods , cantata for mixed choir (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Chamber Music for two brass quartets (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Ave Regina caelorum for mixed choir (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Concerto alla barocco for harpsichord and small symphony orchestra (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Diptychos for organ (1978-80)",
+      "year": "1978-80"
+    },
+    {
+      "title": "Concerto for harp, flute, and string orchestra (1979-80)",
+      "year": "1979-80"
+    },
+    {
+      "title": "Preludes for wind quintet (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Ode to Youth [2nd version], cantata for 4 solo voices, mixed choir and great symphony orchestra (1980-81)",
+      "year": "1980-81"
+    },
+    {
+      "title": "String Quartet No. 2 (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Concerto for oboe and symphony orchestra (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Andante for violin and organ (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Concerto for two violins and orchestra (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Polish Litany for mixed choir (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Three Little Preludes and Fugues for organ (1984-85)",
+      "year": "1984-85"
+    },
+    {
+      "title": "Warsaw Triptych , 3 songs for mixed choir (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Two Chorales for organ (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Reflexions for trumpet and organ (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Decet for wind quintet and string quintet (1987-88)",
+      "year": "1987-88"
+    },
+    {
+      "title": "Concerto No. 2 for organ and string orchestra (1987-88)",
+      "year": "1987-88"
+    },
+    {
+      "title": "Sonata for viola and piano (1987-88)",
+      "year": "1987-88"
+    },
+    {
+      "title": "Aria for viola and piano (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Flute Quintet (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Symphony No. 3 (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Concerto for viola, organ and orchestra (1989-90)",
+      "year": "1989-90"
+    },
+    {
+      "title": "Sequence for organ (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Lauda Sion , dialogues for organ and harp (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Ave Maria for mixed choir and organ (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Concerto for cello and chamber ensemble (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Andante calmato for cello and organ (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Symphony No. 4 (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Psalm 150 – Laudate Dominum for 5 solo voices or a 5-part mixed choir and organ (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Caprice for solo clarinet (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Andante for violin and viola (1996)",
+      "year": "1996"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Jaraczewska-Mockałło Krystyna, Tadeusz Paciorkiewicz. Katalog twórczości i bibliografia [Tadeusz Paciorkiewicz. A Catalogue of Works and a Bibliography], Akademia Muzyczna w Warszawie, Warszawa 1998 Peret-Ziemlańska Zofia, Tadeusz Paciorkiewicz – pożegnanie [Tadeusz Paciorkiewicz – A Farewell], In: W hołdzie zmarłym absolwentom i pedagogom Akademii Muzycznej im. Fryderyka Chopina w Warszawie [Homage to the Late Graduates and Teachers from the Frederic Chopin Academy of Music in Warsaw], Akademia Muzyczna w Warszawie, Warszawa 1999 Hanuszewska Mieczysława, Paciorkiewicz Tadeusz , In: The New Grove Dictionary of Music and Musicians. Second Edition (ed. Stanley Sadie), vol. 18, Macmillan Publishers Limited, London 2001 Mrygoń Adam, Paciorkiewicz Tadeusz , In: Encyklopedia Muzyczna PWM , ed. Elżbieta Dziębowska, [PWM Music Encyclopaedia, biographical part ed. by Elżbieta Dziębowska], vol. “N-Pa”, PWM, Kraków 2002",
+  "slug": "paciorkiewicz-tadeusz-en"
+}

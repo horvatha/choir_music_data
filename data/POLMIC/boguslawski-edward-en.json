@@ -1,0 +1,483 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/b/boguslawski-edward-en",
+  "title": "Bogusławski Edward",
+  "name": "Bogusławski Edward",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Wariacje na flet i fortepian (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Miniatury na fortepian (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Intonazioni I na 9 instrumentów (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Trzy pieśni na głos i zespół instrumentalny (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Quartetto per archi (1964-75)",
+      "year": "1964-75"
+    },
+    {
+      "title": "Szkice na obój i fortepian (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Apokalypsis na głos recytujący, chór mieszany i zespół instrumentalny (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Sygnały na zespół symfoniczny (1965-66)",
+      "year": "1965-66"
+    },
+    {
+      "title": "Intonazioni II na orkiestrę symfoniczną (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Canti per soprano e orchestra (1966-67)",
+      "year": "1966-67"
+    },
+    {
+      "title": "Metamorfozy na obój, klarnet, skrzypce, altówkę i wiolonczelę (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Concerto per oboe, oboe d’amore, corno inglese, musette e orchestra (1967-68)",
+      "year": "1967-68"
+    },
+    {
+      "title": "Wersje na 6 instrumentów (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Per pianoforte (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Wierzba , pieśń na chór mieszany a cappella (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Pieśń staropolska na chór mieszany a cappella (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Ziemia nad Przemszą , pieśń na chór mieszany a cappella (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Trzy pieśni na sopran i fortepian (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Kontemplacje na sopran i fortepian (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Sinfonia per coro e orchestra (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Musica per Ensemble MW-2 na flet, wiolonczelę i dwa fortepiany (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Five pictures (a Angelica-Regina Sweekhorst) for flute solo (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Trio per flauto, oboe e chitarra (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Capriccioso notturno per orchestra (1971-72)",
+      "year": "1971-72"
+    },
+    {
+      "title": "Impromptu pour flûte, alto et harpe (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "4 + 1 per clavicordo (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "L’Être na sopran, flet, wiolonczelę i 2 fortepiany (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Pro Varsovia per orchestra (1973-74)",
+      "year": "1973-74"
+    },
+    {
+      "title": "Ewokacja na bas, głos recytujący i orkiestrę (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Musica notturna per oboe e pianoforte (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Nasza ziemia , pieśń na chór męski a cappella (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Divertimento per 9 strumenti (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Concerto per oboe anche musette, soprano e orchestra (1975-76)",
+      "year": "1975-76"
+    },
+    {
+      "title": "Sonata Belzebuba , opera kameralna (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Preludio e cadenza per arpa solo (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Aria per flauto, violoncello e 2 pianoforti (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Preludi e cadenza per violino solo (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Kwartet dziecięcy na czworo skrzypiec (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Musica concertante per saxofono alto e orchestra (1979-80)",
+      "year": "1979-80"
+    },
+    {
+      "title": "Sonet na sopran, flet, wiolonczelę i 2 fortepiany (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Trzy postludia na akordeon solo (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Concerto per pianoforte e orchestra (1980-81)",
+      "year": "1980-81"
+    },
+    {
+      "title": "Divertimento II na kwintet akordeonowy (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Symfonia koncertująca na skrzypce i orkiestrę kameralną (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Pieśń o ziemi naszej , oratorium na głosy solowe, recytatora, chór i orkiestrę (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Preludi e cadenza per violino e pianoforte (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Polonia , poemat symfoniczny na skrzypce i orkiestrę (1983-84)",
+      "year": "1983-84"
+    },
+    {
+      "title": "Gra snów , dramat muzyczny (1983-85)",
+      "year": "1983-85"
+    },
+    {
+      "title": "Preludium pamięci Dawida Ojstracha na skrzypce solo (1984-87)",
+      "year": "1984-87"
+    },
+    {
+      "title": "Capriccioso per accordeono solo (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Concerto per accordeono, batteria e archi (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Les Extrêmes se touchent na orkiestrę (1985-86)",
+      "year": "1985-86"
+    },
+    {
+      "title": "Divertimento III per violino, violoncello e accordeono (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Nokturny na harfę solo (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Dialogues for saxophone and vibraphone (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Continuo na kwintet akordeonowy (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Continuo II per accordeono solo (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Play for flute and chamber orchestra (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Polskie melodie ludowe na chór mieszany, zespół akordeonowy i perkusję (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Musica per Ensemble d’Accord na 10 akordeonów (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Gaude Mater Polonia na sopran, chór mieszany i orkiestrę (1989-90)",
+      "year": "1989-90"
+    },
+    {
+      "title": "Musica per 2 accordeoni (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Lacrimosa per soprano e pianoforte (1990-91)",
+      "year": "1990-91"
+    },
+    {
+      "title": "Miniatury na akordeon (I) (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Concerto per chitarra e orchestra (1991-92)",
+      "year": "1991-92"
+    },
+    {
+      "title": "Dies irae na chór mieszany, perkusję i fortepian (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Viborg , opera kameralna (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Musica per chitarra solo (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Trio fortepianowe (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Miniatury na akordeon (II) (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Miniatury na akordeon (III) (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Kompozycja na zespół instrumentów perkusyjnych (1993-94)",
+      "year": "1993-94"
+    },
+    {
+      "title": "Elegia [wersja I] na wiolonczelę i fortepian (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Oda na głos recytujący, chór mieszany, fortepian i orkiestrę (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Preludium na organy (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Solo per pianoforte (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Elegia [wersja II] na wiolonczelę i orkiestrę (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Agnus Dei na sopran i fortepian (1994-95)",
+      "year": "1994-95"
+    },
+    {
+      "title": "Et in terra pax na chór mieszany (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Concerto classico per archi (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Kwartet smyczkowy nr 2 (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Studi per fisharmonica (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Requiem na sopran, chór mieszany, perkusję i organy (1995-96)",
+      "year": "1995-96"
+    },
+    {
+      "title": "Inwokacja na organy (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Pater noster na chór mieszany (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Concerto per organo e orchestra (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Miniatury dziecięce na akordeon (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Musica per archi (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Psalmy Dawida na chór mieszany a cappella (1997-98)",
+      "year": "1997-98"
+    },
+    {
+      "title": "Pieśni Safony na żeński głos recytujący, flet, perkusję i 2 akordeony (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Et in terra pax , motet na chór mieszany (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Adagio e vivo per accordeono (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Fantasia per viola da gamba (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Impromptu II na obój, klarnet, fagot i fortepian (1998-99)",
+      "year": "1998-99"
+    },
+    {
+      "title": "Strofy na 2 chóry mieszane i organy (1998-99)",
+      "year": "1998-99"
+    },
+    {
+      "title": "Concerto-Fantasia na kontrabas i smyczki (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Do*** na chór żeński (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Impromptu II A na kwartet smyczkowy i akordeon (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Canti na chór mieszany (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Pieśni pielgrzymów , kantata na sopran, baryton, głos recytujący, chór mieszany i orkiestrę (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Inwokacja na sopran i chór mieszany (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Preludium, Interludium i Kadencja na organy solo (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Concerto piccolo per clarinetto e batteria (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Medytacje na baryton i fortepian (2000-2002)",
+      "year": "2000-2002"
+    },
+    {
+      "title": "Preludia dziecięce na 2 fortepiany (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Elegia na wiolonczelę solo (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Lamento per soprano, oboe e organo (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Inwokacja na chór mieszany (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Supplement for accordion (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Dialogi II na saksofon i fortepian (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Kwartet smyczkowy nr 3 (2002-2003)",
+      "year": "2002-2003"
+    },
+    {
+      "title": "Canzoni d’amore per voce recitazione, soprano, batteria e archi (2002-2003)",
+      "year": "2002-2003"
+    },
+    {
+      "title": "Sekwencje na sopran i zespół kameralny (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Laudacja na chór mieszany i organy (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Inwokacja II na chór mieszany (2003)",
+      "year": "2003"
+    }
+  ],
+  "publications": "Symfonie Jana Wincentego Hawela, Akademia Muzyczna w Katowicach, Katowice 1998",
+  "bibliography": "Perkowska Małgorzata, Bogusławski Edward, t. „ab”, PWM, Kraków 1986 Bias Iwona, Bieda Monika, Stachura Anna, Emocja utkana z dźwięku. Edward Bogusławski. Życie – dzieło., Akademia im. Jana Długosza w Częstochowie, Częstochowa 2005",
+  "slug": "boguslawski-edward-en"
+}

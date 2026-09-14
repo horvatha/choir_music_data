@@ -1,0 +1,231 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/c/ciuciura-leoncjusz-en",
+  "title": "Ciuciura Leoncjusz",
+  "name": "Ciuciura Leoncjusz",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "composer, b. 22nd June 1930 in Grodzisk Mazowiecki; d. 28 February 2017 in Grodzisk Mazowiecki. In 1954-60 he studied composition with Tadeusz Szeligowski in the State Higher School of Music in Warsaw (currently Fryderyk Chopin University of Music) in Warsaw. He was one of the initiators and organizers of the Polish Jeunesses Musicales movement, in which he was actively involved in 1958-62. He founded the Carmina Academica music publishers and worked there as an editor. For his work in the field of composition, he has received numerous awards, incl. in 1960 – the Ministry of Culture and Art Award “for perseverance and excellent results in the popularization of culture”; in the same year – an award in the Grunwald 1960 competition for Warmien and Masuren Suite for solo voices and mixed unaccompanied choir (1960); in 1961 – an award in the Young Composers’ Competition of the Polish Composers’ Union for Canti al fresco for 9 female voices and instrumental ensemble (1961); in 1962 – 1st prize in the International Competition for Composers in Prague for Concertino da camera for chamber orchestra (1961); in 1963 – 3rd prize (1st and 2nd were not granted) in the Grzegorz Fitelberg Competition in Katowice for Ornamenti for flute, clarinet, bassoon and strings (1963). In 1992, Leoncjusz Ciuciura was named Man of the Year by the International Biographical Centre, Cambridge and granted the 20th Century Award for Achievement in the field of contemporary music. In 2004, American Biographical Institute bestowed on him the Honorary title of 'Great Mind of the 21st Century’.",
+  "birth": {
+    "place": "Grodzisk Mazowiecki",
+    "date": "22nd June 1930",
+    "raw": "b. 22nd June 1930 in Grodzisk Mazowiecki"
+  },
+  "death": {
+    "place": "Grodzisk Mazowiecki",
+    "date": "28 February 2017",
+    "raw": "d. 28 February 2017 in Grodzisk Mazowiecki"
+  },
+  "works": [
+    {
+      "title": "Quartetto per fiati (→)",
+      "year": null
+    },
+    {
+      "title": "Fonodiagra for flute, oboe, clarinet, violin, trombone, percussion and harp (→)",
+      "year": null
+    },
+    {
+      "title": "Hommage à Wanda Landowska for harpsichord (or piano) and string quintet (→)",
+      "year": null
+    },
+    {
+      "title": "Rencontre , Versione per flauto, oboe e tromba (→)",
+      "year": null
+    },
+    {
+      "title": "Rencontre I , Versione per clarinetto, trombone, violoncello, pianoforte (→)",
+      "year": null
+    },
+    {
+      "title": "Rencontre I , Versione per flauto, violoncello e pianoforte (→)",
+      "year": null
+    },
+    {
+      "title": "Rencontre I , Versione per 30 esecutori – 46 strumenti (→)",
+      "year": null
+    },
+    {
+      "title": "Rencontre II , Versione per solo violoncello, trombone, clarinetto, pianoforte e 24 esecutori – 38 strumenti (→)",
+      "year": null
+    },
+    {
+      "title": "Rencontre per MW2 , Versione per 3 esecutori – 5 strumenti (→)",
+      "year": null
+    },
+    {
+      "title": "Intarsio , Versione per 5 esecutori-10 strumenti (→)",
+      "year": null
+    },
+    {
+      "title": "Intarsio I , Versione per flauto, oboe, tromba, celesta, marimba, xilofono, campanelli solo e 30 esecutori-44 strumenti (→)",
+      "year": null
+    },
+    {
+      "title": "Intarsio I , Versione per pianoforte-cembalo solo e 4 esecutori (→)",
+      "year": null
+    },
+    {
+      "title": "Intarsio I , Versione per alto solo e 2 esecutori – 3 strumenti (→)",
+      "year": null
+    },
+    {
+      "title": "Intarsio I , Versione per soprano (mezzosoprano) solo e 2 esecutori – 3 strumenti (→)",
+      "year": null
+    },
+    {
+      "title": "Intarsio I , Versione per baritono (basso) solo e 2 esecutori – 5 strumenti (→)",
+      "year": null
+    },
+    {
+      "title": "Intarsio I , Versione per tenoro solo e 2 esecutori – 4 strumenti (→)",
+      "year": null
+    },
+    {
+      "title": "Intarsio I , Versione per 3 voci – soprano, tenoro e basso (→)",
+      "year": null
+    },
+    {
+      "title": "Intarsio I , Versione per oboe solo e strumenti (→)",
+      "year": null
+    },
+    {
+      "title": "Intarsio I , Versione per flauto solo e strumenti (→)",
+      "year": null
+    },
+    {
+      "title": "Intarsio II , Versione per clarinetto-saxofono-clarinetto basso solo e 9 esecutori – 12 strumenti (→)",
+      "year": null
+    },
+    {
+      "title": "Intarsio II , Versione per clarinetto solo e strumenti (→)",
+      "year": null
+    },
+    {
+      "title": "Intarsio II , Versione per flauto solo e strumenti (→)",
+      "year": null
+    },
+    {
+      "title": "Intarsio II , Versione per oboe solo e 10 esecutori – 12 strumenti (→)",
+      "year": null
+    },
+    {
+      "title": "Intarsio II , Versione per flauto solo e 8 esecutori (→)",
+      "year": null
+    },
+    {
+      "title": "Intarsio II , Versione per tromba solo e 7 esecutori – 13 strumenti (→)",
+      "year": null
+    },
+    {
+      "title": "Intarsio II , Versione per trombone solo e 5 esecutori – 8 strumenti (→)",
+      "year": null
+    },
+    {
+      "title": "Intarsio II , Versione per violoncello solo e 5 esecutori – 13 strumenti (→)",
+      "year": null
+    },
+    {
+      "title": "Intarsio II , Versione per celesta-xilofono-vibrafono-marimba solo e 5 esecutori – 11 strumenti (→)",
+      "year": null
+    },
+    {
+      "title": "Intarsio II , Versione per clarinetto, violoncello, trombone, pianoforte-cembalo solo e 24 esecutori – 38 strumenti (→)",
+      "year": null
+    },
+    {
+      "title": "Creatoria I per uno e piú for any solo instrument or any set of instruments (→)",
+      "year": null
+    },
+    {
+      "title": "Creatoria II per uno e piú for any solo instrument or any set of instruments (→)",
+      "year": null
+    },
+    {
+      "title": "In infinitum I per uno e piú for any set of instruments (→)",
+      "year": null
+    },
+    {
+      "title": "In infinitum II , Versione per solo, duo..... e tutti (→)",
+      "year": null
+    },
+    {
+      "title": "In infinitum II , Versione per solo, duo..... e tutti – 8 esecutori – 13 strumenti (→)",
+      "year": null
+    },
+    {
+      "title": "In infinitum II per uno e piú for any set of instruments (→)",
+      "year": null
+    },
+    {
+      "title": "Incidenti I , Versione per 5 voci e 5 strumenti (→)",
+      "year": null
+    },
+    {
+      "title": "Incidenti I , Versione per tenoro solo e strumenti (→)",
+      "year": null
+    },
+    {
+      "title": "Incidenti I , Versione per alto solo e strumenti (→)",
+      "year": null
+    },
+    {
+      "title": "Incidenti I , Versione per baritono solo e strumenti (→)",
+      "year": null
+    },
+    {
+      "title": "Incidenti I , Versione per soprano solo e strumenti (→)",
+      "year": null
+    },
+    {
+      "title": "Incidenti II , Versione per 4 voci e strumenti (→)",
+      "year": null
+    },
+    {
+      "title": "Two Songs for voice and piano (1957)",
+      "year": "1957"
+    },
+    {
+      "title": "Recitativo e arioso for violin and piano (1958)",
+      "year": "1958"
+    },
+    {
+      "title": "Varianti concertanti for clarinet and piano (1959)",
+      "year": "1959"
+    },
+    {
+      "title": "Invocations for mixed unaccompanied choir (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Canti al fresco for 9 female voices, vocal and instrumental ensemble to words by K. I. Gałczyński (1961)",
+      "year": "1961"
+    },
+    {
+      "title": "Ornamenti for flute, clarinet, bassoon and 42-69 string instruments (1963→)",
+      "year": null
+    },
+    {
+      "title": "Penetrations for 4 orchestral groups, 4 conductors and composer (1963→)",
+      "year": null
+    },
+    {
+      "title": "Emergenza for 2 choirs, orchestra, 3 conductors and composer (1963→)",
+      "year": null
+    },
+    {
+      "title": "Spirale I per uno for any voice and percussion instruments (1964→)",
+      "year": null
+    },
+    {
+      "title": "Spirale II per uno e piú [1st version] for any instrumental ensemble (1964→)",
+      "year": null
+    },
+    {
+      "title": "Spirale II per uno e piú [2nd version] for any instrumental ensemble (1964→)",
+      "year": null
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "ciuciura-leoncjusz-en"
+}

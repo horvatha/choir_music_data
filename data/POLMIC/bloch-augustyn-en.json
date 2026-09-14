@@ -1,0 +1,275 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/b/bloch-augustyn-en",
+  "title": "Bloch Augustyn",
+  "name": "Bloch Augustyn",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": "composer and organist; born 13th August 1929 in Grudziądz; d. 6th April 2006 in Warsaw. He studied with Feliks Rączkowski (organ: 1950-55) and Tadeusz Szeligowski (composition: 1952-59) at the State Higher School of Music in Warsaw. While still a student, in 1947-57, he gave organ concerts in Wrocław, Gdańsk Oliwa and Warsaw. In 1954-77, he regularly collaborated with the Theatre of the Polish Radio in Warsaw as a composer of music for plays and radio dramas. In 1977-79 and again in 1983-87, he held the function of vice-president of the Polish Composers' Union, and in 1979-87 he was chairman of the Repertoire Committee for the \"Warsaw Autumn\" International Festival of Contemporary Music. He has received prizes at international competitions for composers: in Vercelli in 1961 for Piano variations \"Karol Szymanowski in memoriam\" (1953), in Monaco in 1962 for Meditations for soprano, organ and percussion, and in 1963 for his ballet Awaiting . In 1969 he won the 3rd prize at the International Rostrum of Composers in Paris for Dialoghi per violino ed orchestra (1964). In 1989 he was granted the Brighton Festival Award for his Oratorio for organ, strings and percussion (1982). He was also granted the Minister of Culture and Arts Award (in 1971 for Enfiando per orchestra, 1970; and again in 1985 for the ballet Gilgamesh , 1968). His music for children's radio broadcasts won for him the Radio and Television Committee Award in 1960. In 1975, he received the Prime Minister's Award (for his musical works for children and young people with special appreciation of his opera-ballet Bardzo śpiąca królewna - A Soundly Sleeping Beauty , 1973), and in 1981 - the annual award of the Polish Composers' Union. He was decorated with the Cavalier's (1969) and Officer's (1979) Cross of the Polonia Restituta Order.",
+  "birth": {
+    "place": "Grudziądz",
+    "date": "13th August 1929",
+    "raw": "born 13th August 1929 in Grudziądz;"
+  },
+  "death": {
+    "place": "Warsaw",
+    "date": "6th April 2006",
+    "raw": "d. 6th April 2006 in Warsaw"
+  },
+  "works": [
+    {
+      "title": "Fantasia per organo (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Piano Variations “Karol Szymanowski in memoriam” (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Elegy for violin and piano (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "Sonata per organo (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "Children’s Songs for voices and instrumental ensemble (1956-79)",
+      "year": "1956-79"
+    },
+    {
+      "title": "Concertino for solo violin, string orchestra, piano and percussion (1958)",
+      "year": "1958"
+    },
+    {
+      "title": "Espressioni per soprano ed orchestra (1959)",
+      "year": "1959"
+    },
+    {
+      "title": "Impressioni poetiche for men’s choir and orchestra to poems by Jan Kasprowicz (1959)",
+      "year": "1959"
+    },
+    {
+      "title": "Meditations for soprano, organ and percussion (1961)",
+      "year": "1961"
+    },
+    {
+      "title": "Voci a ballet in one act for soprano, baritone and chamber orchestra (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "A Telegram for children’s choir, two pianos and percussion (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Awaiting a ballet in one act (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Dialoghi per violino ed orchestra (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "A Bull a ballet in one act (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Ayelet, Jephte’s Daughter opera-mystery in one act (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Gilgamesh ballet-pantomime in one act (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Gilgamesh ballet music, concert version (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Enfiando per orchestra (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Salmo gioioso per soprano e cinque fiati (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Mr Zagłoba a musical (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "A Soundly Sleeping Beauty opera-ballet-pantomime in one act (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Jubilate per organo (1973-74)",
+      "year": "1973-74"
+    },
+    {
+      "title": "Poem about Warsaw for reciting voice, mixed choir and orchestra (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "With a Star in Cudobuda a Mazovian Christmas play for 18 soloists-singers and instrumental ensemble (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "A Mirror ballet-pantomime for tape (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Wordsworth Songs for baritone and chamber orchestra (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Clarinetto divertente miniature per clarinetto solo (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Just A Kind of Music song cycle for soprano and orchestra (1976-77)",
+      "year": "1976-77"
+    },
+    {
+      "title": "Sound of Silence ballet-pantomime for tape (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Songs for Children for voice and piano (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Filigrees for piano (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Strata of Time for 15 string instruments (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Fable of the Violin Soul a musical for children (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Anenaiki for a 16-person mixed a cappella choir (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Carmen biblicum for soprano and nine instruments (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Walking Along theKeys for four little hands and equally small percussion for piano and percussion (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Notes for alto saxophone (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "A Free Ride Across Europe for four little hands and equally small percussion for piano and percussion (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Oratorio for organ, strings and percussion (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Supplicazioni per violoncello e pianoforte (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Canti per coro ed organo (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "A Due per saxofono, clarinetto basso, vibrafono e marimbafono (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Musica per clarinetto e quattro archi (1984-85)",
+      "year": "1984-85"
+    },
+    {
+      "title": "Forte, piano e forte per organo solo (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Stay Lord With Us music at dusk for orchestra (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Duetto per violino e violoncello (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "For Thy Light Shall Come psalmody for reciting voice, organ, choir and orchestra (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Violin and Organ (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Exaltabo Te, Domino per coro misto (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Lauda per soprano, alto, percussione e quattro archi (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Musica per tredici ottoni (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "The Ostra Brama Litany for mixed choir and orchestra (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Thou Shalt Not Kill! meditations for baritone, cello, choir and orchestra (1989-90)",
+      "year": "1989-90"
+    },
+    {
+      "title": "Fanfare Hochzeitsgeschenk für Blechbläser (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Trio per violino, violoncello e pianoforte (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Upwards for orchestra (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Scared Away a song for baritone, viola, cello and piano to words by Else Lasker-Schüler (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Infiltrazioni per due violini Béla Bartók in memoriam (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Hac festa die per organo, coro ed orchestra (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Oratorium Gedanense 1997 per organo, coro misto ed orchestra (1996-97)",
+      "year": "1996-97"
+    },
+    {
+      "title": "Drei Stücke fűr Saxophon-Kammer-Orchester (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Pieśń przed zaśnięciem na sopran, chór 4 sopranów i zespół instrumentalny (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "W Górze nad nami , medytacje na 4 soprany, 4 alty, 4 tenory, 4 basy i organy (2003)",
+      "year": "2003"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Rozmawiała Izabela Grzenkowicz, „Ruch Muzyczny” 1971 nr 11, s. 5-8 Perkowska Małgorzata, Bloch Augustyn, In: PWM Music Encyclopaedia (biographical section ed. by Elżbieta Dziębowska), vol. “ab”, PWM, Kraków 1979 Niebyt określa moją świadomość, „Ruch Muzyczny” 1989 nr 15, s. 3-5, 26-27 Homma Martina, Augustyn Bloch, in: Komponisten der Gegenwart (eds. Hanns-Werner Heister, Walter-Wolfgang Sparren), edition text + kritik, München 1992– Widłak Elżbieta, Bloch Augustyn, PWM, Kraków 1998 Gojowy Detlef, Augustyn Bloch. Ein Komponistenleben in Polen, Bela Verlag, Köln 1999 Homma Martina, Bloch Augustyn (Hipolit), In: The New Grove Dictionary of Music and Musicians. Second Edition (ed. Stanley Sadie), vol. 3, Macmillan Publishers Limited, London 2001 Łukaszewski Marcin T., Augustyn Bloch nie żyje, \"Muzyka21\" 2006 nr 5, s. 11",
+  "slug": "bloch-augustyn-en"
+}

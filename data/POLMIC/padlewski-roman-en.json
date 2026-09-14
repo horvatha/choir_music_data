@@ -1,0 +1,79 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/p/padlewski-roman-en",
+  "title": "Padlewski Roman",
+  "name": "Padlewski Roman",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Trzy pieśni na głos i fortepian do słów Artura Maryi Swinarskiego (1933)",
+      "year": "1933"
+    },
+    {
+      "title": "Kwartet smyczkowy nr 1 (1933)",
+      "year": "1933"
+    },
+    {
+      "title": "Dwa preludia na fortepian (1933)",
+      "year": "1933"
+    },
+    {
+      "title": "Trzy mazurki na fortepian (1934)",
+      "year": "1934"
+    },
+    {
+      "title": "Pytasz co w moim życiu , pieśń na głos i fortepian do słów Jana Lechonia (1938)",
+      "year": "1938"
+    },
+    {
+      "title": "Etiudy na orkiestrę (1938)",
+      "year": "1938"
+    },
+    {
+      "title": "Stabat Mater na chór mieszany a cappella (1939)",
+      "year": "1939"
+    },
+    {
+      "title": "Kwartet smyczkowy nr 2 (1940-42)",
+      "year": "1940-42"
+    },
+    {
+      "title": "Suita na skrzypce i fortepian (1941)",
+      "year": "1941"
+    },
+    {
+      "title": "Pieśni do słów Jerzego Lieberta na sopran i orkiestrę (1942)",
+      "year": "1942"
+    },
+    {
+      "title": "Koncert skrzypcowy (1944)",
+      "year": "1944"
+    },
+    {
+      "title": "Kwartet smyczkowy nr 3 (1944)",
+      "year": "1944"
+    },
+    {
+      "title": "Orawskie i spiskie nuty na chór mieszany a cappella (ok. 1937)",
+      "year": null
+    },
+    {
+      "title": "Trio smyczkowe (ok. 1937)",
+      "year": null
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "padlewski-roman-en"
+}

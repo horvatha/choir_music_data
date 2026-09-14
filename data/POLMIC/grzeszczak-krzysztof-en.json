@@ -1,0 +1,455 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/g/grzeszczak-krzysztof-en",
+  "title": "Grzeszczak Krzysztof",
+  "name": "Grzeszczak Krzysztof",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "115 preludiów chorałowych na organy (1993-2013)",
+      "year": "1993-2013"
+    },
+    {
+      "title": "Benedicam Dominum chór mieszany i organy (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Cztery spojrzenia na witraż na organy solo (1995-98)",
+      "year": "1995-98"
+    },
+    {
+      "title": "Ptasie pogwarki na trzy flety, obój, klarnet i fagot (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Tre pezzi per strumenti a percussione (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Fantazja bożonarodzeniowa na organy na cztery ręce (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Fuga in Des na organy solo (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Fuga in C na organy solo (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Lamento na róg solo (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Muzyka jesienna na obój solo (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Trzy psalmy: CXXX, CXVI, CL na alt i perkusję (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Kolęda [wersja I] na chór mieszany a cappella (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Kolęda [wersja II] na chór żeński a cappella (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Kolęda [wersja III] na chór męski a cappella (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "1 for 7 na klarnet, puzon, tam-tam, kotły, wibrafon, marimbę i fortepian (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Variazioni e corale per fiati (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Pezzo quasi una fantasia na cztery trąbki i cztery puzony (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Offertorium I na chór mieszany i organy (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Offertorium II na chór mieszany i organy (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Moment musical for string orchestra (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Petit pièce symphonique pour orchestre (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Eulogia na chór mieszany a cappella (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Hymn Maryjny I: Według Efrema Syryjczyka na chór mieszany a cappella (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Hymn Maryjny II: Według hymnu z V – VI w. na chór mieszany a cappella (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Hymn Maryjny III: Według Germana z Konstantynopola na chór mieszany a cappella (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Partita eucharystyczna na organy solo (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Vexilla Regis na chór mieszany i organy (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Surrexit Christus hodie na chór mieszany i organy (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Trzy preludia kolędowe [wersja I] na organy solo (1998-2002)",
+      "year": "1998-2002"
+    },
+    {
+      "title": "Trzy preludia kolędowe [wersja II] na orkiestrę kameralną (1998-2002)",
+      "year": "1998-2002"
+    },
+    {
+      "title": "Hommage à J. S. B-A-C-H na organy solo (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Via crucis na głos solo, recytatora, chór mieszany, wielką orkiestrę symfoniczną i organy (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Toccata concertante na fortepian solo (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Regina caeli na chór mieszany a cappella (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Pastorale na chór mieszany a cappella (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Piece joyeux sur le nom d’Grajter na organy solo (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Fantaisie sur le Salve Regina na organy solo (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Exspectatio na obój i fortepian (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Antyfona na chór mieszany a cappella (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Space 1: death – Lidia Skowron in memoriam na skrzypce i fortepian (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Sekwens na zespół wokalny (lub chór mieszany), kwartet smyczkowy (lub orkiestrę smyczkową) i organy (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Reminiscencje [wersja I] na kwartet smyczkowy (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Reminiscencje [wersja II] na orkiestrę smyczkową (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Commemoratio na sekstet smyczkowy i organy (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Space 2: The Persons na skrzypce, wiolonczelę i orkiestrę symfoniczną (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Quasi una danza [wersja I] na organy solo (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Quasi una danza [wersja II] na orkiestrę smyczkową (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Glossarium – Bernard Pietrzak in memoriam: glossa prima – Continuum, glossa secunda – Chorale na organy solo (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Pezzo anniversario na organy solo (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Ex Libro Psalmorum na chór mieszany a cappella (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Elegia – pamięci Bernarda Pietrzaka na chór mieszany a cappella (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Partita bożonarodzeniowa na organy solo (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Viva la musica na chór mieszany a cappella (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Pieśń o wdzięczności na sopran i fortepian (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Cantus silesiensis na organy (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Praedictio doloris I na chór mieszany a cappella (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Praedictio doloris II na chór mieszany a cappella (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Sub tuum praesidium na chór mieszany a cappella (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Entrée pour orchestre (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Gloria na mezzosopran, chór dziecięcy, chór mieszany i orkiestrę symfoniczną (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Wariacje kolędowe – Pójdźmy wszyscy do stajenki [wersja I] na organy (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Quasi una danza [wersja III] na orkiestrę kameralną (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Baueriada na kwartet smyczkowy (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Cantus regratiatoriu s na chór mieszany, 3 trąbki i organy (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Dies solemnis na chór żeński (dziecięcy), jednogłosowy zespół chorałowy i flet (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Maybe waltz na harfę i akordeon (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Wariacje kolędowe – Pójdźmy wszyscy do stajenki [wersja II] na kwartet smyczkowy (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "O święta Uczto na chór żeński (lub dziecięcy) a cappella (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Ex Libro Psalmorum II na chór żeński (lub dziecięcy), amplifikowany obój, perkusję i fortepian (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Decem versus ex Stabat Mater na organy (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Mała stylizacja na skrzypce (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Impresja gregoriańska I: Evocatio na chór mieszany a cappella (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Impresja gregoriańska II: Medulla orationis na chór mieszany a cappella (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Dwie pastorałki: Kolęda góralsko i Pastorałka na chór żeński (lub mieszany) a cappella (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Ut quid…? Clamitatio in tribulatione na chór mieszany, 4 trąbki, 3 puzony, tubę i perkusję (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "50. na sopran, baryton i wiolonczelę (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Funny piece na organy (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Melorhytmos na fagot (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Wariacje chorałowe na temat pieśni: „Bądź pochwalon na wieki” na organy (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Ex Libro Psalmorum III na chór żeński (lub mieszany) a cappella (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Na weselum była na chór żeński a cappella (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Salve sancta Parens na chór mieszany a cappella (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Pastorałka na chór żeński a cappella (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Pieśń o … na sopran i fortepian (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Suita mazurska na chór żeński i orkiestrę kameralną (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Dichotomema na wiolonczelę i harfę (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Pocztówka z Łodzi na flet (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Suita mazurska na chór żeński a cappella (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Locus inaestimabilis na 2 chóry mieszane, orkiestrę symfoniczną i organy (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Gēqǔ na erchu i fortepian (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Dwa momenty muzyczne na fortepian (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Trois fugues caractéristiques pour orgue (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "2 Improvisations for organ (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "O vos omnes na chór mieszany (lub chór żeński) a cappella (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "The European Mass - Gloria na chór mieszany, 2 trąbki, 2 puzony, tubę, perkusję i organy (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Cantus gloriosus na chór mieszany, 2 trąbki, 2 puzony, tubę, perkusję i organy (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Toccata na oktet gitarowy (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "2 musical moments na oktet gitarowy (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Cantus populi na organy (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Concentus sonorum na organy (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Toccata profana con motivo sacrale na klawesyn (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Trumpet Tune na trąbkę (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Ex Libro Psalmorum IV na chór mieszany a cappella (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Fantazja z Bachem w tle na organy (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Z 516 na trąbkę (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Reverie na trąbkę (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Ostinateco na chór żeński (lub dziecięcy) a cappella (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Trzy pieśni do wierszy Haliny Poświatowskiej na głos i fortepian (2015)",
+      "year": "2015"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Bęben Aleksandra, Grzeszczak Krzysztof , Akademia Muzyczna w Łodzi, Łódź 2001",
+  "slug": "grzeszczak-krzysztof-en"
+}

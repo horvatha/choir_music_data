@@ -1,0 +1,167 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/a/anbild-strzempa-karol-en",
+  "title": "Anbild (Strzempa) Karol",
+  "name": "Anbild (Strzempa) Karol",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": "conductor, composer, double bassist and teacher; b. 16 th February 1925 in Katowice; d. 1 st March 2008 in Kielce. He graduated from the State Higher School of Music in Katowice, where he studied double bass with Tadeusz Ziemski, composition with Bolesław Woytowicz and conducting with Artur Malawski (degree in 1953). From 1949 he was a double bassist in the Silesian Philharmonic Orchestra in Katowice; in 1953 he became the orchestra’s conductor. In 1954 he began conducting the Regional Symphony Orchestra in Kielce. A year later he was offered a job of a conductor and artistic director in the State Philharmonic in Lublin. In 1957 he returned to Kielce in order to take over the Regional Symphony Orchestra. He continued conducting and directing the orchestra until 1990. Due to his efforts, the orchestra was officially transformed into a state philharmonic and named The Oskar Kolberg State Philharmonic in 1968 (changed into the Świętokrzyska Philharmonic in 1998). He initiated the organization of the “Świętokrzyskie Music Days” festival in 1964 and founded the Philharmonic Choir in 1984. Karol Anbild played many concerts abroad – in France, East Germany, Denmark, Romania, etc. In the mid-1950s, as a composer, he starting collaborating with the Animated Films Studio in Bielsko-Biała and Polish Radio in Katowice, as well as with the theatre in Kielce and amateur art movement in the following years. He was also active as a teacher, giving lectures in Kielce at the State Music School and Higher School of Education. Karol Anbild received various awards, such as the Knight’s Cross of the Polonia Restituta Order, Gold Cross of Merit and the Award of the Polish Composers’ Union. In 2005 he was given the title of honorary director by the Świętokrzyska Philharmonic. updated: 2008",
+  "birth": {
+    "place": "Katowice",
+    "date": "16th February 1925",
+    "raw": "b. 16 th February 1925 in Katowice"
+  },
+  "death": {
+    "place": "Kielce",
+    "date": "1st March 2008",
+    "raw": "d. 1 st March 2008 in Kielce"
+  },
+  "works": [
+    {
+      "title": "Four Silesian Dances for symphony orchestra (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Istebna Impressions for small symphony orchestra (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Small Overture for symphony orchestra (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Four Songs for mixed choir a cappella (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "Mazur for symphony orchestra (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "Oberek for symphony orchestra (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "Soundtrack to Wacław Wajser’s film Żółtodziób (1957)",
+      "year": "1957"
+    },
+    {
+      "title": "Świętokrzyskie Impressions for tenor, mixed choir and orchestra (1957)",
+      "year": "1957"
+    },
+    {
+      "title": "Kielce Triptych for tenor, mixed choir and orchestra (1958)",
+      "year": "1958"
+    },
+    {
+      "title": "Soundtrack to Wacław Wajser’s film Zoo (1958)",
+      "year": "1958"
+    },
+    {
+      "title": "Soundtrack to Wacław Wajser’s film Taaaka ryba (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Kielce Cantata (1961)",
+      "year": "1961"
+    },
+    {
+      "title": "Soundtrack to Wacław Wajser's film Gapa (1961)",
+      "year": "1961"
+    },
+    {
+      "title": "Soundtrack to Wacław Wajser’s film Trajluś na wagarach (1961)",
+      "year": "1961"
+    },
+    {
+      "title": "Soundtrack to Wacław Wajser’s film Drogowskaz (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Soundtrack to Eugeniusz Kotowski’s film Intruzi (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Fir Tree Forest for mixed choir and orchestra (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Dance Suite for mixed choir and orchestra (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Soundtrack to Wacław Wajser’s film Dzielny ptaszek (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Dance Sketches for orchestra (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Trio for oboe, clarinet and basson (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Soundtrack to Wacław Wajser’s film Chmurka (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Microcosm 67 for orchestra (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Soundtrack to Wacław Wajser’s film Czarne czy białe (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Symphonic Sketches for orchestra (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Forest Ballad for reciter and orchestra (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Civitas Kielcensis for soprano, reciter and orchestra (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Wide Water , paraphrase based on a song from Kielce region for 4 trumpets and orchestra (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Earth and Wood for orchestra (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Military Rhapsody for orchestra (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Symphony no 1 \"Świętokrzyska” (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Symphony no 2 (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Piano concerto (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Mountain Lyrics , 4 songs for voice and symphony orchestra (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Symphony no 3 \"Pax Mundi” (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Bugle-Call of the City of Kielce for 2 trumpets and 2 trombones (1996)",
+      "year": "1996"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "anbild-strzempa-karol-en"
+}

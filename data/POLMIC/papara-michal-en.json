@@ -1,0 +1,139 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/p/papara-michal-en",
+  "title": "Papara Michał",
+  "name": "Papara Michał",
+  "occupation": "composer, musicologist",
+  "is_composer": true,
+  "description": "composer and music theoretician; b. 7th April 1984 in Kraków. He studied violin in the Stanisław Wichowicz Primary Music School and the Władysław Żeleński Secondary Music School in Kraków. In 2006 he graduated from Jagiellonian University with a Bachelor of Arts degree in musicology, in 2010 he completed his master studies in music theory. In 2012 he graduated with honours from Józef Rychlik composition class at Academy of Music in Kraków. Since 2015 he has been working at Kraków's 1st and 2nd degree music schools, and also lecturing at the Department of Graphic Arts at the Jan Matejko Academy of Fine Arts in Krakow and the Institute of Musicology at the Jagiellonian University. In 2018 he received the degree of Doctor of Philosophy in Composition. He was a laureate of many national composition competitions. He received 1st prize at the 7thTadeusz Ochlewski Composition Competition for his work Odyssey – String quartet No. 1 (2009), which was performed by Silesian Quartet and published by the PWM Edition; 1st honorable mention (1st prize was not granted) at the 2nd Marek Stachowski Composition Competition for the piece The curse of old clocks for piano trio (2009); 2nd prize (ex aequo) at the 51st Tadeusz Baird Competition for Young Composers for the piece My fears for 2 pianos and 2 percussions (2010). He also received three prizes at the Adam Didur Composiion Competition: 2nd prize (ex aequo) for the work Maybe the world is on fire? for female voice and piano to the texts of Agnieszka Herman (2010) and two honorable mentions for the piece Winter vessels (2010) and Insomnia (2013) for female voice and string quartet to the poems of K. K. Baczyński. Michał Papara compose mainly chamber and vocal-instrumental works as well as electronic and animation music. He collaborates with the Photography, Digital Media and Animated Film Studio Department at the Academy of Fine Arts in Krakow. He is also an arranger. In 2012 the PWM Edition published his piano transcriptions of Wojciech Kilar’s most famous pieces and film music themes. His works have been performed, among others, at the International Days of Music by Krakow Composers, Polish Music Festival in Krakow, the International Festival of Contemporary Music “Warsaw Autumn”, “Chopin – Transgressions” Festival of Young Composers in Warsaw, Axes-Triduum of New Music in Krakow, and at the composition competitions (Tadeusz Ochlewski, Marek Stachowski and Tadeusz Barid competitions). His music has been played by many artists, including Silesian Quartet, “Kwadrofonik” ensemble, the London Sinfonietta, Ensemble Nostri Temporis, Symphony Orchestra of Academy of Music in Krakow, Leszek Lorent, Marek Szlezer, Piotr Sałajczyk, Olga Rusin, and Magdalena Spytek. He is a member of Polish Society for Contemporary Music and Association for Polish Music Artists. updated: 2019 (Agnieszka Cieślak) Websites with Michał Papara's music: www.youtube.com/user/MichalJakubPapara/videos www.soundcloud.com/michal-jakub-papara",
+  "birth": {
+    "place": "Kraków",
+    "date": "7th April 1984",
+    "raw": "b. 7th April 1984 in Kraków"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "...It is impossible for 2 violins (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "In the Autumn Gardens song cycle for female voice and piano to the poems of Polish poets (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Dziwadła i straszydlaki I for soprano, alto, actor and chamber ensemble (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Dziwadła i straszydlaki II for soprano, alto, actor and chamber ensemble (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Sorrowful Cities electronic poem (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Stones for accordion (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Odyssey – 1st String Quartet (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "The Curse of Old Clocks for piano trio (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "My Frights and Fears for 2 pianos and 2 percussions (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "The Poem From the Book of Dreams and Images for chamber ensemble (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Little Songbook song cycle for female voice and piano to the poems of A. Zagajewski (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Insomnia for female voice and string quartet to the poems of K. K. Baczyński (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Arabesque of the Silver Stars for chamber ensemble (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Dialogi (Dialogues) for 2 clarinets (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Winter Vessels for female voice and string quartet to the poems of K. K. Baczyński (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Łapanowskie Piosnki na chór (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Lumen-Tenebrae… for large symphony orchestra (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Tranquillo…!? for percussion (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Hic et Nunc, Cracovia 5.13 for clarinet and piano (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Non Piano For Piano (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "…It Is Impossible version for violin and cello (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "…It Is Impossible version for violin and viola (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Intui for clarinet, piano, percussion and string orchestra (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Nicht Fragen for two accordions (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Perfect Blue for a group of brass instruments (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Alter ego for two accordions and percussion instruments (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Strange Flowers… or Maybe Bizarre Thoughts for piano (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Idée fixe for chamber ensemble (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Moment of Music for flute, clarinet, trumpet, violin, cello and piano (2022)",
+      "year": "2022"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "papara-michal-en"
+}

@@ -1,0 +1,107 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/t/trebacz-ewa-en",
+  "title": "Trębacz Ewa",
+  "name": "Trębacz Ewa",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": "composer and media artist, b. November 11, 1973, Kraków. Currently lives in Seattle, USA (since 2001). She comes from Kraków, Poland, where she earned her Master's degrees from the Academy of Music (Composition with Bogusław Schaeffer, 1999), and the Academy of Economics (Computer Science and Econometrics, 2000). In 2004 she joined the first program of doctoral studies in new media in the USA at the University of Washington Center for Digital Arts and Experimental Media (DXARTS). In 2010 she graduated with her Ph.D. and currently works at DXARTS as Research Scientist. Her works have been presented, performed or broadcast in over 30 countries on four continents. She has been a recipient of stipends and grants from the Mid Atlantic Arts Foundation / USArtists International, the City of Kraków, and the Polish Ministry of Culture and Art, as well as commissions from music festivals such as Klangspuren in Austria and Warsaw Autumn in Poland. Since 1998 she has been collaborating with artist from the Studio of Animated Films at the Academy of Fine Arts in Kraków (among others, with Robert Sowa). She is also a recipient of the Stipend of the City of Kraków (1999). In 2009, her work things lost things invisible for ambisonic space and orchestra, was recognized by the 56th UNESCO International Rostrum of Composers in Paris. August 2013 Website : www.ewatrebacz.com Contact: This email address is being protected from spambots. You need JavaScript enabled to view it.",
+  "birth": {
+    "place": "Kraków",
+    "date": "November 11, 1973",
+    "raw": "b. November 11, 1973, Kraków"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Konki Peric for oboe and 19 string instruments (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Larghetto for string trio and live-electronics (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Il Fonte Adamantino for string quartet and vocal ensemble (1996-2002)",
+      "year": "1996-2002"
+    },
+    {
+      "title": "Wind Septet for flute, oboe, clarinet, bassoon, French horn, trumpet and trombone (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Hortus Conclusus (soundtrack for Interior Portrait , dir. Robert Sowa) for two sopranos, string quartet and electronic media (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Aletheia for string orchestra (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Augenblick for symphonic wind ensemble and two amplified pianos (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Spinning Zone for percussion trio and computer-realized sound (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Chordochromies , 3 miniatures for harpsichord and computer-realized sound (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Limbo , digital video (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Still Life , digital video (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Curriculum Vitae , digital video (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Ephemerae for symphonic wind ensemble (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Minotaur for horn and surround sound (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "things lost things invisible for ambisonic space and orchestra (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Errai , immersive audiovisual space, light animation, soprano and horn (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "ANC'L'SUNR , spatial soundscape with orchestra in the foreground (2012-13)",
+      "year": "2012-13"
+    },
+    {
+      "title": "Iriviskia na skrzypce, róg z dźwiękiem surround realizowanym przez komputer (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "„The Hostage”: Postlude (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Ligeia na sopran, zespół i dźwięk surround (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Muzyka do filmu animowanego Meine Heimat w reż. Roberta Sowy (2012)",
+      "year": "2012"
+    }
+  ],
+  "publications": "articles & papers Pełna imersja: rzeczywistość czy utopia? Technologie przestrzenne z punktu widzenia artysty [Full immersion: reality or utopia? Artist's perspective on spatial technologies], „Glissando” 16 (2010) Modulation des Raumes: auf der Suche nach der Sprache eines immersiven Mediums, \"Glissando\" 19 (2011) Depth Modulation: Composing Motion in Immersive Audiovisual Spaces, \"Organised Sound\" 17.2 (2012)",
+  "bibliography": "Tondera Bogusław, Muzyka miała swoją szanse. Rozmowa z Ewą Trębacz [Music Had Its Chance. Conversation with Ewa Trębacz], „Fragile” 2 (2008) Nyffeler Max, Im Bewusstsein der Freiheit. Die nächste Generation von Komponisten aus Polen [In The Consciousness Of Freedom. Next Generation Of Composers From Poland], „Neue Zeitschrift für Musik” 6 (2009) Nyffeler Max, Klettern in imaginären und realen Räumen. Die Multimedia-Künstlerin Ewa Trębacz [Climbing in Imaginary and Real Spaces. Multimedia Artist Ewa Trębacz], „Neue Zeitschrift für Musik” 6 (2009) Kwiatkowski Krzysztof, Musica Electronica Nova. Elektronische Musik in Polen [Musica Electronica Nova. Electronic Music in Poland], „Neue Zeitschrift für Musik” 6 (2009) Chłopecki Andrzej, Raport z Paryża. Międzynarodowa Trybuna Kompozytorów 2009 [Report from Paris. International Rostrum of Composers 2009], „Ruch Muzyczny” 16/17 (2009)",
+  "slug": "trebacz-ewa-en"
+}

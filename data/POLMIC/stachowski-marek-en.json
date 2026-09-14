@@ -1,0 +1,259 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/s/stachowski-marek-en",
+  "title": "Stachowski Marek",
+  "name": "Stachowski Marek",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "composer and teacher; b. 21 March 1936, Piekary Śląskie; died 3 December 2004, Kraków. In1963-1968, he studied composition under Krzysztof Penderecki and music theory in the State Higher School of Music in Kraków (now Music Academy; graduated with distinction). He was awarded in numerous composition competitions in Poland and abroad: International Competition of the „Gaudeamus” Foundation (1968), Artur Malawski Competition (1968, 1st award), International Competition of the „Solidarność Committee” in Skopje (1969), Karol Szymanowski Competition (1974, 1st award). He was three times honoured at the UNESCO International Composers' Rostrum in Paris: in 1974 – for Neusis II for two vocal ensembles, percussion, cellos and double basses (1968), in 1979 – for Divertimento for chamber string orchestra (1978) and in 1990 – for String Quartet No. 3 (1988). In 1976 he was granted with City of Mönchengladbach Music Award, in 1979 – City of Kraków Award, in 1981 – a second class Award of the Minister of Culture and Arts, in 1984 – Award of the Polish Composers' Union, in 1989 – Award of the Minister of Culture and Arts for music for children, in 1990 – Award of the Alfred Jurzykowski Foundation in New York, in 1996 – Award of the Kraków Province Governor, in 1997 – \"Excellence in Teaching” Award of the Ruth and Ray Robinson Foundation, in 1999 – Order of Polonia Restituta the Officer's Cross, in 2000 – Award of the Minister of Culture and Arts, w 2001 – Gold Medal of Merit for National Defence of the Minister of National Defence. He was also an active teacher. Since 1967, he taught composition at the Music Akademy in Kraków (in 1993-99 and since 2002 as a chancellor). In 1981, the academic title of Professor of Musical Arts was conferred upon him. In 1975 he taught at the Yale University, in 1978 – at Summer Courses in Durham, and since 1979 in Institute of Musicology of the Jagiellonian Uniwersity in Kraków. He also run seminars at the Gaudeamus Music Week (1979 and 1984) and master courses in Rubin Academy of Music and Dance in Jerusalem (1987). In 1994 he had a series of lectures at universities in South Corea. He sat on jury of many international competitions for composers and performers. A website devoted to Marek Stachowski (Polish/French): www.marekstachowski.pl",
+  "birth": {
+    "place": "Piekary Śląskie",
+    "date": "21 March 1936",
+    "raw": "b. 21 March 1936, Piekary Śląskie"
+  },
+  "death": {
+    "place": null,
+    "date": "3 December 2004",
+    "raw": "died 3 December 2004"
+  },
+  "works": [
+    {
+      "title": "String Quartet No. 1 (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Five Senses and the Rose to words by T. Kubiak for voice and 4 instruments (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Musica da camera for flute, cello, harp and percussion (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Musica per quartetto d’archi (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "The Bravest Knight , opera for children in 3 acts for soprano, tenor, 2 baritones, bass, mixed and orchestra (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Musica con una battuta del tam-tam for orchestra (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Ricercar 66 for concerto organ and chamber orchestra (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Sequenze concertanti for large symphony orchestra (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Neusis II for 2 vocal ensembles, percussion, cellos and and double basses (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Chant de l’espoir for reciting voice, soprano, baritone, boys choir, mixed choir and large symphony orchestra (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Irisation for large symphony orchestra (1969-70)",
+      "year": "1969-70"
+    },
+    {
+      "title": "Audition for flute, cello and piano (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Extensions for piano (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Words... for solo voice, mixed choir and large symphony orchestra (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "String Quartet No. 2 (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Musique solennelle for symphony orchestra (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Thakurian Chants for mixed choir and orchestra (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Poème sonore for symphony orchestra (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Ptaki for soprano and instruments (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Divertimento for chamber string orchestra (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Odysseus amidst the White Keys for children for piano (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Quartetto da ingresso (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Choreia for symphony orchestra (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Symphony of Nostalgia-Sanctified Songs for soprano, mixed choir and orchestra (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Amoretti for voice, lute and viola da gamba (1981-82)",
+      "year": "1981-82"
+    },
+    {
+      "title": "Pezzo grazioso for wind quintet (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Madrigali dell’estate for voice and string trio (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Capriccio per orchestra (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Sapphic Odes for mezzosoprano and orchestra (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Musique en quatre scènes for clarinet and string quartet (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Concerto per violoncello ed orchestra d’archi (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Jubilate Deo for mixed choir and organ (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "String Quartet No. 3 (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Chamber Concerto for flute, clarinet, violin, cello, percussion and piano (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Magic Chimes, music fairy tale for children (ballet) (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "From the Book of Night I, II, III for symphony orchestra (1990-2000)",
+      "year": "1990-2000"
+    },
+    {
+      "title": "Sonata per archi (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Tre intermezzi per trio d’archi (1993-94)",
+      "year": "1993-94"
+    },
+    {
+      "title": "Musica festeggiante per quartetto d’archi (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Quodlibet per trio a fiato (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Tastar e canzona per violoncello e pianoforte (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Cinq petites valses for piano (1997-98)",
+      "year": "1997-98"
+    },
+    {
+      "title": "Jeu parti for violin and piano (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Sinfonietta per archi (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Concerto per viola ed orchestra d’archi (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Recitativo e la preghiera [1st version] for cello and string orchestra (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Adagio ricordamente [1st version] for cello and piano (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Cheer May! The 3rd May! ! for a cappella mixed choir (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "March of Freedom for a cappella mixed choir (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Trio for Clarinet, Cello and Piano (1999-2000)",
+      "year": "1999-2000"
+    },
+    {
+      "title": "Recitativo e la preghiera [2nd version] for cello and piano (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Campanae Cracovienses for 25 bells of Kraków churches (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "„Quando resta l’estate” - String Quartet No. 4 (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Three Interludes for clarinet and piano (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Felicitamento for string quartet (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Concertino claricellato for clarinet, cello and string orchestra (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Adagio ricordamente [2nd version] for cello and string orchestra (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Concerto per percussioni ed orchestra (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Miroir du Temps (Hommage à Olivier Messiaen) for violin, clarinet, cello and piano (2002-2003)",
+      "year": "2002-2003"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Polony Leszek, Twórczość Marka Stachowskiego. Przyczynek do syntezy, in: Muzyka polska 1945-1995 (red. Krzysztof Droba, Teresa Malecka, Krzysztof Szwajgier), Akademia Muzyczna w Krakowie, Kraków 1996 Słuchacz nie jest mi obojętny, - Marek Stachowski odpowiada na pytania Ewy Gajkowskiej, Ruch Muzyczny 1996 nr 12, s. 10-13 Thomas Adrian, Stachowski Marek, in: The New Grove Dictionary of Music and Musicians. Second Edition (ed. Stanley Sadie), vol. 24, Macmillan Publishers Limited, London 2001 Płoskoń Kazimierz, Marek Stachowski. Katalog tematyczny utworów, Akademia Muzyczna w Krakowie, Kraków 2004 Polony Leszek, Wspomnienie o Marku Stachowskim, \"Ruch Muzyczny\" 2005 nr 1, s. 6-7 Bilica Krzysztof, Wspominając Marka Stachowskiego , \"Ruch Muzyczny\" 2009 nr 26, s. 30-31",
+  "slug": "stachowski-marek-en"
+}

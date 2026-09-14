@@ -1,0 +1,99 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/z-1/zolnowski-maciej-en",
+  "title": "Żołnowski Maciej",
+  "name": "Żołnowski Maciej",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Eco-musica na orkiestrę (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Kwartety japońskie (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "In Paris 333 na wielką orkiestrę symfoniczną (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Kolęda kwartowa na kwartet smyczkowy (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Horror I-III na wielką orkiestrę symfoniczną (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Ocean na chór mieszany (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "DJ & Ars Antiqua na chór mieszany (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Sanctus na chór mieszany (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Kolęda góralska na chór mieszany (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Prelude II na chór mieszany (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Trzy sonaty ( partity ) na skrzypce solo (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Leopoldinum I-VII na orkiestrę smyczkową (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Anthem I-XII na trzy trąbki (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Kolęda góralska na skrzypce i fortepian (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Ambient na skrzypce solo (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Orient na skrzypce i fortepian (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Hej góry, piękne góry na skrzypce i fortepian (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Muzyka do filmu Hypnos (reż. Paweł Chyrowski) (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Muzyka do sztuki Kariera Nikodema Dyzmy dla Teatru im. Żeromskiego w Kielcach (2010)",
+      "year": "2010"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "zolnowski-maciej-en"
+}

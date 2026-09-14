@@ -1,0 +1,143 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/j/janiak-rafal-en",
+  "title": "Janiak Rafał",
+  "name": "Janiak Rafał",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": "conductor and composer; b. 2nd June 1986 in Olsztyn. He completed composition studies with Stanisław Moryto (2010) and conducting studies with Antoni Wit (2011) at the Fryderyk Chopin University of Music in Warsaw (both honours degrees). In 2015, he obtained his PhD at the same university under the supervision of Antoni Wit. Currently, he is an assistant at the Department of Choir Conducting, Music Education, Church Music, Rhythmics and Dance at the FCUM. The artist was awarded the “Student Nobel Prize” (2009, 2010), scholarships of the Minister of Culture and National Heritage (2007, 2012), the Keimyung University Foundation in South Korea (2009) and the President of the City of Gdańsk (2005, 2009). He received numerous awards in Polish national and international composition competitions, including the 1st prize in the 1st John Paul II Competition for Composers in Warsaw (2007, for Cantata about Sacred Places ), the 3rd prize in the 4th International Composers' Competition “Musica Sacra” in Częstochowa (2008, for Et in templo omnis lognetur gloriam ), and an honourable mention in the 51st Tadeusz Baird Competition for Young Composers in Warsaw (2010, for Da Salt per tutti for two percussions and two pianos). He also won the Grand Prix and the audience award in the composition competition for an opera organized by the Grand Theatre in Łódź (2019) with a jury chaired by prof. Krzysztof Penderecki. The premiere of the winning work The Man from Manufaktura took place in February 2019, and its outdoor version in May 2019 at the Manufaktura square in Łódź was an unprecedented event. Rafał Janiak is a composer of solo, chamber, symphonic, vocal-instrumental and electronic music. His works have been presented in Poland abroad, including at the Warsaw Philharmonic and the Witold Lutosławski Polish Radio Concert Studio in Warsaw, the Rimsky-Korsakov St. Petersburg State Conservatory, and during prestigious music festivals: \"Musica Polonica Nova\" (Wrocław), Organ Conversatorium (Legnica), \"Stars Promote\" Festiva (Jelenia Góra), \"Gaude Mater\" (Częstochowa), Laboratory of Contemporary Music (Białystok), WDR – Musikfest (Münster, Germany). His compositions have been performed by such ensembles as the National Philharmonic Symphony Orchestra, Polish Radio Orchestra, FCUM Symphony Orchestra, Lower Silesian Philharmonic, Sudeten Philharmonic, Polish Chamber Choir and Podlasie Opera Philharmonic Choir. The artist's repertoire includes symphonic, concert and oratorio works. In 2011 he was appointed principal conductor of “Camerata Viva” Symphony Orchestra of Bemowo, with which he performs repertoire from the 17th to the 21st centuries. In the 2012/13 season he was an assistant conductor of Antoni Wit, and in 2013/14 – of Jacek Kaspszyk at the Warsaw Philharmonic. He regularly collaborates with several Polish orchestras, including the Warsaw Philharmonic Symphony Orchestra, the Polish National Radio Symphony Orchestra in Katowice, the Polish Sinfonia Iuventus Orchestra and the orchestras of the Kraków, Lublin, Gorzów, Zielona Góra, Gdańsk, Opole, Rzeszów, and Silesian Philharmonic. In 2011 he made his debut as an opera conductor leading the premiere performance of W.A. Mozart's Cosi fan tutte . In 2014 he was the artistic director of the new staging of W.A. Mozart’s Don Giovanni at the Warsaw Chamber Opera, organised in cooperation with the FCUM, and in 2017 the artistic director of Pyotr Tchaikovsky’s Oniegin performance at the same institution. Since 2016 the artist has been collaborating with the Grand Theatre in Łódź, conducting Johannes Stauss’s The Gypsy Baron , Giacomo Puccini’s Turandot and his own opera The Man from Manufaktura . He has performed many Polish and world premieres of contemporary works. In September 2012 he made his debut at the \"Warsaw Autumn\" festival, leading a concert with the participation of the Warsaw Philharmonic Orchestra. During the next edition of the festival (2013), the artist conducted the final concert, where, among others, he performed the Polish premiere of Thomas Ades' Totentanz . Currently he is the artistic director of the Chopin University Chamber Orchestra. The ensemble was formed in 2017 and has already recorded several albums and has taken part in many important cultural and national events, e.g. awarding the honorary doctorate of the FCUM to Arvo Pärt (2018). Recently the orchestra toured China with over 20 concerts (2019). updated: 2020 (Agnieszka Cieślak) Artist’s webstie: www.rafaljaniak.com",
+  "birth": {
+    "place": "Olsztyn",
+    "date": "2nd June 1986",
+    "raw": "b. 2nd June 1986 in Olsztyn"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Parody Suite for small symphony orchestra (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Dance Miniature for grand symphony orchestra (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Etude in Czerny's Style for piano (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "4 Sonnets to the poems of Jan Kasprowicz (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Evolutions for clarinets (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Introduzione e cantilena for violin (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "3 Songs to the poems of Zuzanna Tobis for mezzo-soprano and cello (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Sanctus for 3 mixed choirs (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Con passione for saxophone and piano (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "5 Aphorisms for reed trio (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "A Girl Hurt in Her Feelings mystery play scene for choir, orchestra and soloists (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Con vigore for piano (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Das letzte Lied aus Salome for viola (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Symphony No. 1 (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Cantata about Sacred Places for soloists and orchestra (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Sourrounded Music for accordion, cello and live electronics (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Da soli per tutti for 2 percussions and 2 pianos (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Nocturne for violin and piano (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Violin Concerto No. 1 (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "After hours of muteness (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Trio for clarinet, violin and piano (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Ap 4,1 (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Awekening – Movement –Cogitation sonata for accordion (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Sinfonietta per archi for string orchestra (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Reminiscences of past , concerto for bandoneon and chamber orchestra (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "5 Songs of the Betrayed to the poems by Mariusz Jagiełło for soprano, violin, cello, harp and percussion (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Five shades in quartet colours (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "After hours of deepest darkness for alto saxophone and accordion (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "The Man from Manufactura , opera (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Sonata for violin and piano (2019)",
+      "year": "2019"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "janiak-rafal-en"
+}

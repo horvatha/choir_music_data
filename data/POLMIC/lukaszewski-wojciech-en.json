@@ -1,0 +1,243 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/l-1/lukaszewski-wojciech-en",
+  "title": "Łukaszewski Wojciech",
+  "name": "Łukaszewski Wojciech",
+  "occupation": "promoter, composer",
+  "is_composer": true,
+  "description": "composer, music teacher and critic, music life organiser; b. 10th March 1936, Częstochowa; d. 13th April 1978, Częstochowa. He studied composition with Tadeusz Szeligowski and, after the latter’s death, with Tadeusz Paciorkiewicz, in the State Higher School of Music (now – the Music Academy) in Warsaw (1960-65). A year after graduation, he obtained a French Government scholarship and in 1966-67 he developed his knowledge of composition with Nadia Boulanger in Paris. After his return to Poland, he worked as assistant lecturer at the Music Education Dept. of Warsaw’s State Higher School of Music (1967-68), but then settled in his hometown and already in 1967 started teaching music theory in the State Primary and Secondary Music School in Częstochowa. He also took up the post of director of the Music Education Dept., and in 1971 – director of the school, a post he held till the end of his life. He also taught facutative music classes at Częstochowa Polytechnic (1976-77). Wojciech Łukaszewski made a tremendous contribution to the music life of Częstochowa. He worked as concert presenter for Częstochowa Philharmonic (1968-71), wrote commentaries to concert programmes (1968-78). He was co-founder and vice-president of Częstochowa Music Society (1976-78). He sat on the Programme Board of the National Grażyna Bacewicz Violin Festival. He also collaborated with the Adam Mickiewicz Drama Theatre in Częstochowa (1971-77). He combined all these posts with composing, and his works brought him many successes, awards and distinctions, incl. in 1965 – 1st prize in the International Student Competition for a Composition about the Koszalin Region for I Name You, Sea for mixed unaccompanied choir (1965), in 1968 – a honorable mention in the Young Composers’ Competition of the Polish Composers’ Union for Musica per archi (1968), in 1969 – 2nd prize (first not granted) in the competition for composers organised by the Wielkopolska Cultural Association in Poznań for Mazowsze for men’s choir (1969), in 1970 – a honorable mention in a National Competition for Composers for a music work on a Gdańsk-related subject for Song about the Soldiers of Westerplatte for mixed choir (1969) and a honorable mention in a Competition for Composers organised by the State Higher School of Music in Wrocław for Wrocław Frescos for solo baritone, reciting voice, solo clarinet, mixed choir and orchestra (1969), in 1973 – 1st prize in a National Competition for Composers for a piano school piece with orchestra for Concertino No. 2 (1973). Wojciech Łukaszewski was also granted a City Council diploma in recognition of his dedicated work and achievements in the State Primary and Secondary Music School in Częstochowa (1974), Award of the School Superintendent for the Katowice Province for outstanding achievements in teaching and educating (1974), Silver Medal for his contribution to the development of Community Arts Clubs in the Częstochowa and Katowice Provinces (1975), the Medal of Merit to Polish Culture and Silver Cross of Merit (1977). For his compositions, he was awarded the Minister of Culture and Art Award, 2nd Class (1977).",
+  "birth": {
+    "place": "Częstochowa",
+    "date": "10th March 1936",
+    "raw": "b. 10th March 1936, Częstochowa"
+  },
+  "death": {
+    "place": "Częstochowa",
+    "date": "13th April 1978",
+    "raw": "d. 13th April 1978, Częstochowa"
+  },
+  "works": [
+    {
+      "title": "Autumn Weaves Memories of Youth for voice and piano (1957)",
+      "year": "1957"
+    },
+    {
+      "title": "How Can I Calm Down for voice and piano (1957)",
+      "year": "1957"
+    },
+    {
+      "title": "The Fields of Żywiec for voice and piano (1957-60)",
+      "year": "1957-60"
+    },
+    {
+      "title": "Fugue in A minor for piano (1957-60)",
+      "year": "1957-60"
+    },
+    {
+      "title": "Variations in C minor cycle I for piano (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Variations in C minor cycle II for piano (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Prelude for piano (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "My soul is sorrowful for voice and piano (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Hey I’m all alone for voice and piano (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "It’s Snowing in the Woods and Mountains for voice and piano (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Kranke Rose for voice and piano (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Toccata for piano (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Three Songs for soprano and piano to words by Julian Przyboś (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Sonatina No. 1 for piano (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Sonatina No. 2 for piano (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Four Miniatures for clarinet and piano (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Capriccio for violin and piano (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Concertino No. 1 for piano and orchestra (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "De morte Boleslaui Carmina , a little historical cantata for solo baritone, reciting voice, mixed choir and orchestra (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Night at Sea for mezzo-soprano and piano (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "I name you, sea , a little poem for mixed choir (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Songs of the Moon for mezzo-soprano, reciting voice and 9 instruments (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Trois fragments poetiques d’apres Pontus de Tyard for mezzo-soprano and flute (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Millennium for mixed choir (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "A Piece for string quartet (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Catulli Carmina for mixed choir (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Musica per archi (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Mazowsze , little poem for men’s choir (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Ode on Gdańsk for solo baritone, reciting voice, solo clarinet, mixed choir and orchestra (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Trois épisodes funèbres for soprano and orchestra (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Folk Triptych for mixed choir (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Two Songs for boys’ choir (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Wrocław Frescos , little cantata for solo baritone, reciting voice, mixed choir and orchestra (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Song about the Soldiers of Westerplatte for mixed choir (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Confessioni per orchestra (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Musica da camera (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Nike for mixed choir (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Novembers for voice and piano (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Concertino No. 2 for piano and orchestra (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Four Miniatures for 2 flutes and clarinet (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Soldiers March Across the World for voice and piano (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "A Platoon Marching for voice and piano (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Helmet for voice and piano (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Three Songs for voice and piano to words by Elżbieta Cichla-Czarniawska (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "There’s Never Been Such a Taciturn Autumn for voice and piano (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Episodes for orchestra (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Quartetto per tromboni (1975-76)",
+      "year": "1975-76"
+    },
+    {
+      "title": "Suite in Old Style for flute, oboe, clarinet, bassoon and horn (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Seven Children’s Songs for voice and piano (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Variations on a Folk Theme “Now Go to Sleep” for piano (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Ballad about a Polish Child for voice and piano (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Glorkanto (Praise of Creation) for solo voice (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Like Trees for solo voice (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Prelude for accordion (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Litany to the Madonna of Treblinka for solo mezzo-soprano, mixed choir, 2 trumpets, bells and organ (1978)",
+      "year": "1978"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Gago Piotr, Łukaszewski Wojciech , in: Encyklopedia Muzyczna PWM (część biograficzna pod red. Elżbiety Dziębowskiej), t. „klł” [PWM Music Encyclopaedia, biographical part, ed. by Elżbieta Dziębowska], PWM, Kraków 1997 Łukaszewski Marcin, Wojciech Łukaszewski. Życie i twórczość [Wojciech Łukaszewski. Life and Work], Wydawnictwo Wyższej Szkoły Pedagogicznej w Częstochowie, Częstochowa 1997 Łukaszewski Wojciech, Muzyczne interludia: recenzje, sprawozdania, refleksje, wywiady , pod red. Marcina Tadeusza Łukaszewskiego, Warszawa, Musica Sacra Edition, 2009",
+  "slug": "lukaszewski-wojciech-en"
+}

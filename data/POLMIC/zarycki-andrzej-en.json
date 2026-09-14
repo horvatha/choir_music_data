@@ -1,0 +1,27 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/z/zarycki-andrzej-en",
+  "title": "Zarycki Andrzej",
+  "name": "Zarycki Andrzej",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "The Polish Golgotha for choir and orchestra (2010) Exiles, oratorio for soprano, tenor, mixed choir, symphony orchestra and speaker (2010) c. 300 songsMusic for the films:Jealousy and Medicine, dir. Janusz Majewski (1973)Provincial Actors, dir. Agnieszka Holland (1978)The Boor [The Scoundrel], dir. Laco Adamik (1979)Battlefield, dir. Jan Budkiewicz (1984)In the Shadow of Hate, dir. Wojciech Żółtowski (1985)Escape from Beloved Places, dir. Tomasz Wert, Maciej Kijowski (1987)Mistletoe, dir. Wanda Różycka-Zborowska (1988)Nobody’s Land, dir. Mirosław Poznański (1988)Girl from Mazury, dir. Julian Dziedzina (1990)Music for the spectacles:Thumbelina, dir. Anna Dymna (2006)The Lying She-Goat, dir. Anna Dymna (2007)The Turnip, dir. Anna Dymna (2008)The Mosquito and the Orchestra, dir. Anna Dymna (2009)St. Francis, dir. Anna Dymna (2010)Music and Magic, dir. Wojciech Graniczewski (2015)",
+      "year": "2015"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "zarycki-andrzej-en"
+}

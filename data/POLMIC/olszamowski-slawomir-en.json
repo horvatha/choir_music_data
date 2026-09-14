@@ -1,0 +1,79 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/o/olszamowski-slawomir-en",
+  "title": "Olszamowski Sławomir",
+  "name": "Olszamowski Sławomir",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Preludia i utwór na klarnet solo (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Muzyka koncertująca „Oczekiwanie” na trio stroikowe i kwartet smyczkowy (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Rapsodia chorałowa na wielką orkiestrę (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Cantabile quasi parlando na skrzypce i fortepian (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Tren VIII Jana Kochanowskiego na chór mieszany (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Medytacje instrumentalne z cyklu Łańcuch Przeciwieństw na orkiestrę kameralną (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Homo-homini... z cyklu Łańcuch Przeciwieństw na orkiestrę kameralną (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Quintet 144 MM. na akordeon koncertowy i kwartet smyczkowy (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "DARANO na chór mieszany a capella (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Osiem miniatur fortepianowych (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Four Parts for Strings na orkiestrę smyczkową (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Bułgarska Fantazja na perkusję solo i orkiestrę (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Kwartet smyczkowy w uznaniu dla J. S. Bacha (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Veronica dla orkiestry „de erepijs” (bigband) (2009)",
+      "year": "2009"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "olszamowski-slawomir-en"
+}

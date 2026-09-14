@@ -1,0 +1,47 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/p/paczkowski-marcin-en",
+  "title": "Pączkowski Marcin",
+  "name": "Pączkowski Marcin",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": "composer, conductor and performer of acoustic and electroacoustic music. Born in 1983 in Kraków, he graduated from the Academy of Music in Kraków, having studied composition with Wojciech Widłak and conducting with Rafał Delekta. He then continued his composition studies at the University of Washington in Seattle under Juan Pampin and Richard Karpen. He is currently doing a PhD at the Center for Digital Arts and Experimental Media (DXARTS). His research is focused on exploring ways of engaging computer media in improvisation, as well as machine learning and motion tracking used for creating and controlling musical structures. As a conductor and performer he is involved in performances of new music. His compositions were performed at many composers workshops and concerts in Poland and in the United States. In 2010 he was awarded the second prize at the 18th edition of Adam Didur Composition Competition for Boję się ciebie, ślepy wierszu… ( I Am Afraid of You, Blind Poem… ) for baritone and piano. He received a scholarship for artistic achievements from the Sapere Auso Lesser Poland Scholarship Foundation (2006-07). Updated: January 2014 (mkk, ai) The artist's website: www.paczkowski.art.pl",
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "String Quartet No. 0.8 (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Space for chamber choir a capella (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Back to life for alto saxophone and live electronics (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Still, early for four horns and live electronics (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "March Phase for instruments and electronics (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Restrained meters for dancer and electronic media (2013)",
+      "year": "2013"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "paczkowski-marcin-en"
+}

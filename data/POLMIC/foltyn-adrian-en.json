@@ -1,0 +1,151 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/f/foltyn-adrian-en",
+  "title": "Foltyn Adrian",
+  "name": "Foltyn Adrian",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "composer; b. 22nd April 1978 in Wrocław. In 2004, he graduated from the Karol Lipiński Academy of Music in Wrocław, where he studied with Stanisław Krupowicz. He has participated in masterclasses with such composers as Louis Andriessen, Luca Francesconi, Marco Stropp and Ivan Fedele (1999, 2003). His awards include the 1st prize at the Dutch 'Yo' Foundation Composers' Competition (2004) for Euphonicum for mixed choir and orchestra, the 1st prize at the Tadeusz Baird Competition for Young Composers (2005) for Son’tasy 2.1 for 2 pianos and electronics and the 3rd prize at the ZAIKS Composers' Competition (2008) for Piano Concerto . His works have been performed at European festivals of new music, such as Musica Polonica Nova, Musica Electronica Nova and the Dutch Music Days as well as presented over Radio Netherlands, Deutschlandradio Kultur and Polish Radio 2. He has composed music for several theatre productions of the State Higher School of Theater in Wrocław (including The Trap based on Tadeusz Różewicz) and the Laboratory of Drama at the National Theatre in Warsaw ( Tiramisu by Joanna Owsianko, 2005). Adrian Foltyn is also a data scientist working on understanding connections between mathematics and music through neurocognitive modelling of perception of harmonic tension in a musical piece. Derived from this work is his interest in the use of deep artificial neural networks and their application in integrating music with verbal and visual layers of art. His works ReDim Q-Int for piano quintet and live electronics (2014) and Overfitting I for electronic viola, live electronics, Emotiv device controlling visualisation and 8-channel sound projection (2017) were composed as part of the \"Composing Commissions\" programme operated by the Institute of Music and Dance. He also takes part in multimedia projects that combine visual arts, music and new media. In 2013, together with Paweł Lisek, he prepared an installation entitled Artificial Intelligence in Intelligent Art , and in his next work he used a device that reads brain waves, facial muscles and eyeball movements to control the electronics. In 2014, he collaborated with Jan Smaga on the project entitled The Second and he orchestrated the computer-processed sound of a single metronome beat, extended in time to approx. 30 minutes. He is also an active pianist. In 2016, he premiered with Maria Erdman his own piece From ClaPy import ... for clavichord, piano and electronics. Since 2007, he is a member of the Polish Composers’ Union. He is the vice-president of the Wrocław Society for Classical Music. In 2011-2015, he was also a member of the Academy of Young Scholars and Artists in Wrocław. updated: 2021 (ac)",
+  "birth": {
+    "place": "Wrocław",
+    "date": "22nd April 1978",
+    "raw": "b. 22nd April 1978 in Wrocław"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Fairy-tale Ballad for piano (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "La valse en variantes for piano (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Romance for violin and piano (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Allegro for wind quintet (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Sonnet LV after William Shakespeare for mixed choir (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Exam for 4 cellos (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Sonathing for cello and piano (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Synthorus for brass quintet (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Agnus Dei for mixed choir (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Stairway 2.7 for 3 percussionists (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Cosa di nastra for tape and string orchestra (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Continuendo for tape (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Unknown destination for tape (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Piano Concerto (2003-2008)",
+      "year": "2003-2008"
+    },
+    {
+      "title": "Próba.B.L.Y. for live electronics (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "L’eau des jardins de la nuit for string orchestra (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Euphonicum for mixed choir and symphony orchestra (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Extra-cellestrial for cello and computer (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Son’tasy 2.1 for 2 pianos and live electronic media (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Flectrochordium for recorders, harpsichord and live electronics (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "El Mareco for marimba, recorders and tape (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Triple Double Concerto for piano, live electronics and string orchestra (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Strintensity for string quartet (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Coincidensity for 17 strings and bass clarinet (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "?@? for cello and live electronics controlled by brain waves (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Re-Dim Q-Int for piano quintet and live electronic media (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Sekunda for ensemble (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Cochlear superstrings for harp and ensemble (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "from claPy import ... for clavichord, piano and computer (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Overfitting I for electronic viola, live electronics, Emotiv device controlling visualisation and 8-channel sound projection (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "!@! for 2 fluters and computer (2018-2019)",
+      "year": "2018-2019"
+    },
+    {
+      "title": "What do you read, ML? for violin, electronic sounds and deep generative neural nets [project with Anna Zielinska] (2019)",
+      "year": "2019"
+    }
+  ],
+  "publications": "articles & papers Modyfikacja koncepcji klas wysokości zawartych w teoriach Macieja Zalewskiego i Allena Forte'a , w: Teraz musicie całkiem przestawić myślenie : 35 spojrzeń na muzykę i muzyków , red. Magdalena Dziadek, s. 471-487, Uniwersytet Muzyczny Fryderyka Chopina, Warszawa 2016 critical & collective editions Neuroestetyka muzyki , pod red. Marcina Boguckiego, Adriana Foltyna, Piotra Podlipniaka, Piotra Przybysza, Hanny Winiszewskiej, Wydawnictwo Poznańskiego Towarzystwa Przyjaciół Nauk, Poznań 2013",
+  "bibliography": null,
+  "slug": "foltyn-adrian-en"
+}

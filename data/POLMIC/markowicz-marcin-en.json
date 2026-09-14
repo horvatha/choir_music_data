@@ -1,0 +1,135 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/m/markowicz-marcin-en",
+  "title": "Markowicz Marcin",
+  "name": "Markowicz Marcin",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": "violinist and composer; b. 19th March 1979 in Wrocław. He completed his violin studies with Roman Lasocki and Krzysztof Jakowicz at the Fryderyk Chopin University of Music in Warsaw (diploma with distinction). In 1998-2000 he studied at the Musikhochschule Lübeck with Christiane Edinger, and in 2005 he obtained a scholarship to study with the legendary Prof. Roman Totenberg in Boston. He has participated in master classes in Poland, the Netherlands, Germany and the United States, working under such masters as Ida Haendel, Sherban Lupu, Robert Szreder, Grigori Zhislin, members of Juilliard Quartet, Cleveland Quartet, The Fine Arts Quartet, the Silesian Quartet and Szymanowski Quartet. Recipient of scholarships from: the Foundation of Polish Culture (1994), Foundation for Culture (1998), the Dutch Iris Foundation (1999) the Roman Totenberg Foundation (2001, 2002, 2005) and Saul Cohen Foundation (both in America) as well as the Ministry of Culture (2002). Marcin Markowicz has won awards in competitions for music performers and composers: prizes in the Competition for Young Instrumentalists in Kraków (twice: 1996, 1997), the \"Composer Debut Award\" from the Contemporary Music Club in Kraków (1997) and an honourable mention in the National Andrzej Panufnik Competition for Composers (1999). As a soloist and chamber musician he has performed at festivals in Bayreuth, Ratzeburg, La Ville d’Eu, the Warsaw Autumn, Turning Sounds in Warsaw, Kneisel Hall Chamber Music Festival in the USA and the Contemporary Music Festival in Greece. As a soloist he has performed with the Wrocław Philharmonic Orchestra, the Polish National Radio Symphony Orchestra in Katowice (dir. Jacek Kaspszyk and Michał Klauza), the Sudety Philharmonic, as well as ensembles from Kraków and Solingen. Marcin Markowicz’s compositions have been presented at festivals in Belgium, Germany, Norway, the Netherlands, the United States, Bulgaria, China, Turkey, Japan, South Korea, Hong Kong, Singapore, as well as in Poland during the 26th Musica Polonica Nova Polish Contemporary Music Festival in Wrocław (2008), the 3rd Festival of World Premieres. Polish Contemporary Music in Katowice (2009), and the Witold Lutosławski Festival Chain VI (2009). His Sonata for violin and piano was commissioned by the Ludwig van Beethoven Association as part of the \"Collections - Composing Commissions\" programme implemented by the Institute of Music and Dance. The composition was premiered by Agata Szymczewska and Grzegorz Skrobiński at the Festival of Polish Music and the EMANACJE International Music Festival in 2015. In 1996-98 Markowicz was a soloist and concertmaster of the Ostinato Chamber Orchestra in Kraków. He was also a co-founder and leader of the Transemble chamber ensemble in Warsaw (2004-05). In 2003-05 he collaborated with Warsaw’s Dramatyczny Theatre. In 2004 he was the concertmaster of the Symphony Orchestra of the Fryderyk Chopin Academy of Music in Warsaw. In 2005-06 he played in the Amadé Kammerphilharmonie in Aachen. Since 2005 he has held the post of artistic director of the Princess Daisy Ensemble International Chamber Arts Festival in Wałbrzych. Since 2006 he has been the concertmaster of the Witold Lutosławski Philharmonic in Wrocław. He plays the 2nd violin in the Lutosławski Quartet, which he founded and which has performed since 2007 as a Wrocław Philharmonic ensemble. As a guest concertmaster he has appeared since 2009 with the Beethoven Academy Orchestra in Kraków. In 2009-10 and 2013-14 he lectured at the Academy of Music in Katowice. He regularly teaches master classes of violin and chamber music in Zakopane, Wałbrzych and Matera (Italy). He also serves on the jury of the Grażyna Bacewicz National Violin Competition. He is the initiator and artistic director of the National Forum of Music Orchestral Academy in Wrocław. updated: October 2015 (wa)",
+  "birth": {
+    "place": "Wrocław",
+    "date": "19th March 1979",
+    "raw": "b. 19th March 1979 in Wrocław"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "4 Contrasts for solo violin (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Homerics or Ambiguities from the cycle \"Miromania\" for soprano and violin (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "The Awkwardness of Wound-Up Time from the cycle \"Miromania\" for soprano and violin (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "String Quartet No. 1 (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Epigrams for solo violin (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "String Quartet No. 2 (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Lichtzwang , version for mezzo-soprano and piano trio (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Triptych for solo violin (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Psalm , version for mezzo-soprano and piano trio (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Shostako-witz for string quartet (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Psalm , version for mezzo-soprano and chamber orchestra (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "String Quartet No. 3 (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Krakowiak for violin and piano (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Divertimento for string quintet (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "5 Miniatures for oboe and string quartet (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "\"July\" Trio for harp, flute and viola (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Jako-witz for 2 violins (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "3 Miniatures , version for trombone and string quartet (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "3 Miniatures , version for string quintet (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "3 Miniatures , version for bass clarinet and string quartet (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Truly I Say Unto You... for voice, narrator and string quartet (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Piano Trio (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Quartet for 4 Cellos (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Ciaccona for violin (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Sonata for violin and piano (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Kwartet smyczkowy nr 4 (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Music for the film 13th August ’44 , dir. Małgorzata Brama (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Music for the spectacle Scenes from Różewicz , dir. Wiesław Komasa (2009)",
+      "year": "2009"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "markowicz-marcin-en"
+}

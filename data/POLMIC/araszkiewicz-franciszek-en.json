@@ -1,0 +1,103 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/a/araszkiewicz-franciszek-en",
+  "title": "Araszkiewicz Franciszek",
+  "name": "Araszkiewicz Franciszek",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Deconstruction of Fractals na elektronikę i wideo (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Sketches on the apartament’s roof na saksofon altowy i wiolonczelę (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Golden Apartment na saksofon altowy i fortepian (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Fulfilling the circle na organy (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Variantes de Voyages na flet, gitarę i perkusję (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Hypercube na harfę InfraRed i wideo (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Versteckt na kontrabas i elektronikę (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Superposition na elektronikę (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Monster Group Number na sopran i elektronikę (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Indeterminacy rule na dwa fortepiany i orkiestrę (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Lunatic Fringe na saksofon altowy, skrzypce, altówkę, wiolonczelę i fortepian (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Study of Chaos na fortepian (cztery ręce) (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Barracks/void na orkiestrę kameralną (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Palindromic Fractal na harfę InfraRed, orkiestrę i video (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Palidnromic Brainwaves na głos i elektronikę sterowną falami mózgowymi (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Ménilmontant Fluctuations na gitarę, wiolonczelę i fortepian (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Minutki I na cztery wiolonczele, elektronikę i video (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Monoliths 2:3:5 koncert na fortepian i orkiestrę (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Paradoxes 2 na fortepian i elektronikę sterowną falami mózgowymi (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "The Overlook na organy i elektronikę sterowną falami mózgowymi (2016)",
+      "year": "2016"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "araszkiewicz-franciszek-en"
+}

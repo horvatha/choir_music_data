@@ -1,0 +1,775 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/p/pallasz-edward-en",
+  "title": "Pałłasz Edward",
+  "name": "Pałłasz Edward",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "composer, b. 30th August 1936 in Starogard Gdański; died 22nd December 2019. After studies at the Mechanical-Technological Departments of Gdańsk and Warsaw Polytechnics (1953-58), he studied musicology at Warsaw University (graduated in 1964). He is a self-taught composer. Edward Pałłasz has won numerous awards, including: Prix de musique folklorique of Radio Bratislava (1973) for Łado, Łado for lute or guitar and 24 voices (1973), 1st prize in the Polish Radio Competition in 1974 for A Black Cloud by the Edge of the Wood for mezzo-soprano and chamber orchestra (1974); 1st prize in the Grzegorz Fitelberg Competition for Composers in Katowice, 1976, for Symphony “1976” ; 1st prize in the Guido d’Arezzo Competition for Composers in Arezzo in 1984 for De Beata Virgine Maria Claromontana per coro misto (1984); 1st prize in the Karol Szymanowski Competition for Composers in 1988 for Three Cassubian Songs for mixed choir (1988); 1st prize in a competition in Trident in 1990 for Brandelli di cielo for women’s choir (1988); 1st prize in the Jan Maklakiewicz Competition for Composers in 1991 for An Auburn-Haired Girl for orchestra (1986). In 1954-62 he worked in student theatres in Gdańsk (Bim-Bom) and Warsaw (STS), and in this period he began to compose for the theatre. In 1964-66 he was music director of the Komedia Theatre in Warsaw. In 1969-75 he lectured in the State Higher School of Theatre Studies in Warsaw, Dept. of Drama Directing. In 1984-88 and 1997-2003 he was vice-president, and in 1988-93 and again since 2003 – president of ZAiKS Authors’ Association, the copyright management company. In 1981-96 he served on the Repertoire Committee of the “Warsaw Autumn” Festival. In 1979-97 he was a member of the Management Board of the Polish Composers’ Union (treasurer in 1979-81, vice-president in 1981-83). At the onset of the Solidarity movement in Poland, he was co-founder of the Committee of the Alliance of Artistic Associations and Scientific Societies (1980), then – member of the Council of Culture which advised Lech Wałęsa, President of Poland. In 1995-98, he was director of Polish Radio Programme Two. Since 1999, he has held the function of deputy managing and artistic director of Warsaw Chamber Opera. His other distinctions include: the Commander’s and Cavalier’s Crosses of the Polonia Restituta Order, Gold Cross of Merit, Medal of the Committee of National Education, Medal of Merit to Polish Culture, Badge of Honour of the Capital City of Warsaw, Silver Medal and Badge of Honour of the ZAiKS Authors Association. In 1979, he was granted the Prime Minister’s Award for works for children, in 1986 – the President of Polish Radio and Television Award for radio compositions, in 1989 – Minister of Culture and Art Award. 1st Class. Updated: 2019 (iz)",
+  "birth": {
+    "place": "Starogard Gdański",
+    "date": "30th August 1936",
+    "raw": "b. 30th August 1936 in Starogard Gdański"
+  },
+  "death": {
+    "place": null,
+    "date": "22nd December 2019",
+    "raw": "died 22nd December 2019"
+  },
+  "works": [
+    {
+      "title": "Ten, który mówi tak, i ten który mówi nie w reż. Konrada Swinarskiego [muzyka we współautorstwie z Markiem Lusztigiem] (1957)",
+      "year": "1957"
+    },
+    {
+      "title": "Goodbye, Earth , songs and ballads for voice and piano (1957-65)",
+      "year": "1957-65"
+    },
+    {
+      "title": "Three Miniatures for orchestra (1958)",
+      "year": "1958"
+    },
+    {
+      "title": "Muzyka do etiudy filmowej Czarne i białe w reż. Agnieszki Osieckiej (1958)",
+      "year": "1958"
+    },
+    {
+      "title": "Painted Tower , suite for flute, clarinet and bassoon (1959)",
+      "year": "1959"
+    },
+    {
+      "title": "Muzyka do etiudy filmowej Konflikty w reż. Daniela Szczechury (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Muzyka do etiudy filmowej Bar listopad w reż. Agnieszki Osieckiej (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Thirty Songs for children for voice and piano (1960-72)",
+      "year": "1960-72"
+    },
+    {
+      "title": "Muzyka [wspólnie z Juliuszem Borzymem] do spektaklu telewizyjnego Przesada w reż. Konrada Swinarskiego (1961)",
+      "year": "1961"
+    },
+    {
+      "title": "Muzyka do cyklicznego programu telewizyjnego Młodzieżowe Studio Poetyckie w reż. Andrzeja Konica (1961-1963)",
+      "year": "1961-1963"
+    },
+    {
+      "title": "Muzyka do etiudy filmowej Opowiadanie niemoralne w reż. Jana Budkiewicza (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Ballads by Francois Villon [1st version] for voice and piano (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Star in the Sky , 11 Christmas Songs for voice and piano (1965-67)",
+      "year": "1965-67"
+    },
+    {
+      "title": "Muzyka do cyklicznego programu telewizyjnego Dzięcielinek w reż. Jana Wilkowskiego (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Pięć ballad do słów Franciszka Villona (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Fragments to Texts by Sappho for soprano, flute, harp, viola and percussion (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Muzyka do widowiska telewizyjnego Guillaume Apollinaire w reż. Henryka Boukołowskiego (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Epigrams for instrumental ensemble (1968-69)",
+      "year": "1968-69"
+    },
+    {
+      "title": "Painted Kite and Other Songs for Children for voice and piano (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Muzyka do widowiska telewizyjnego Pieśń świętojańska o Sobótce w reż. Ewy Bonackiej (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Ostatni romans księcia Valentino , operetka do libretta Tadeusza Chrzanowskiego (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Miniatures for piano (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Muzyka do telewizyjnego spektaklu baletowego Epigramaty antyczne w reż. Aleksandra Bardiniego (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Śliwki, gruszki, jabłka... i inne piosenki dla dzieci na głos z fortepianem (1970-1975)",
+      "year": "1970-1975"
+    },
+    {
+      "title": "Homo Viator and Other Sacred Songs for voice and piano (1970-81)",
+      "year": "1970-81"
+    },
+    {
+      "title": "Cassubian Fables for piano (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Andzia in the Woods for chamber orchestra (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Fables for wind quintet (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Father and Three Daughters for chamber orchestra (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Muzyka do spektakla telewizyjnego O księciu Gotfrydzie, rycerzu Gwiazdy Betlejemskiej w reż. Bohdana Radkowskiego (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Where the Devil Won’t Cope, or the Little Red Shoes , television opera (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Hops for alto and chamber ensemble (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Four Polish Dances in the Old Style for orchestra (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Łado, Łado , wedding melody from the Lublin region for lute or guitar and 24 voices (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Nove eventi per orchestra (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "A Puppet’s Dance for piano (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Music for the Royal Castle Courtyard for brass and kettledrums (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "A Black Cloud by the Edge of the Wood , a folk melody from Mazowsze for mezzo-soprano and chamber orchestra (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Three Cassubian Fables for orchestra (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Melancholy Waltz for orchestra (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Symphony “1976” (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Folksongs for alto and piano (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Violin Concerto (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Pastor et Magister for mixed choir (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Musical Journeys for piano (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Three Folksongs from Mazowsze for children’s choir (or women’s choir) (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Four Folksongs ( from the Radom region ) for mixed choir (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Blue Carol for mixed choir (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Christmas Tree Decorations for piano (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "A Melody from Kociewie for three violins (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Melodies from Kociewie , 12 easy pieces for piano (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "On a Journey and Other Songs for children’s choir (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Eight Christmas Songs to words by Ernest Bryll for mixed choir (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Winter without A Friend for violin, cello and piano (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Consolare munde tristis na głosy solowe, chór i orkiestrę (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Sonatina for piano (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Suite from Kociewie for 4 violins (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Three Mourning Songs for mixed choir (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Trzy pieśni żartobliwe od Warszawy na chór mieszany (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Suite from Kociewie for orchestra (1982-83)",
+      "year": "1982-83"
+    },
+    {
+      "title": "Teach Me, O Lord for mixed choir (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Supplicatio for soprano, bass, girls’ choir, mixed choir and orchestra (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Two Recollections of Childhood for bass clarinet and marimba (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "De Beata Virgine Maria Claromontana per coro misto (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Variations on the Theme of Psalm LVI by Mikołaj Gomółka for wind quintet (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Three Songs by Troubadours and Trouveres for 3-part mixed choir (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Twenty-Six Carols and Christmas Songs from Father Mioduszewski’s Songbook for voice and piano (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Apostrophe for piano quartet (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "An Auburn-Haired Girl for orchestra (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Troubadour’s Song for 2 cellos (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Two Dreams of Life and Death for 17 strings (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Children’s Songs for voice and piano (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Three Cassubian Songs for mixed choir (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Brandelli di cielo for women’s choir (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Ballads by Francois Villon [2nd version] for bass-baritone and string orchestra (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Dwie pieśni do słów Osipa Mandelsztama na chór mieszany (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Familiarum columen na chór męski (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Rains to the Sides [2nd version] for voice and piano (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Cassubian Carols for mixed choir (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Quodlibet na dwa fortepiany (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Przy Twym ołtarzu , pieśń na komunię z akompaniamentem organów do słów Jana Węcowskiego (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Piosenki dla Agatki na głos z fortepianem [z Andrzejem Hundziakiem i Romualdem Twardowskim] (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "The Messiah Has Come for alto and mixed choir (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Three Romantic Songs to Words by C.K. Norwid for voice and piano (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Jewish Lullabies for voice and piano (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "„Brewiarz miłości” na sopran i fortepian (2005-2006)",
+      "year": "2005-2006"
+    },
+    {
+      "title": "Ja, Kain , opera w 2 aktach (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Et... na 24 głosy (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Dwie refleksje do słów Karola Wojtyły na głos z fortepianem (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Film music",
+      "year": null
+    },
+    {
+      "title": "Muzyka do filmu dokumentalnego Warszawianki w reż. Kazimierza Karabasza (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Muzyka do filmu Kapelusz w reż. Janusza Majewskiego (1961)",
+      "year": "1961"
+    },
+    {
+      "title": "Muzyka do filmu Troje i las w reż. Stanisława Wohla (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Muzyka do filmu Przygoda noworoczna w reż. Stanisława Wohla (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Muzyka do filmu Zakochani są między nami w reż. Jana Rutkiewicza (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Muzyka do filmu Profesor Zazul w reż. Marka Nowickiego i Jerzego Stawickiego (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Muzyka do filmu Przygoda Stasia w reż. Andrzeja Konica (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Muzyka do filmu Zmyślone... w reż. Daniela Bargiełowskiego (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Muzyka do filmu Szkic do portretu dowódcy w reż. Andrzeja Żmijewskiego (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Muzyka do filmu O wolną i ludową w reż. Mariana Duszyńskiego (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Muzyka do filmu dokumentalnego Kopernik w reż. Mariana Kubery (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Muzyka do filmu dokumentalnego Sąsiedzi w reż. Mariana Kubery (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Stage music",
+      "year": null
+    },
+    {
+      "title": "Muzyka do spektaklu Szopa betlejemska w reż. Jerzego Markuszewskiego (1958)",
+      "year": "1958"
+    },
+    {
+      "title": "Muzyka do spektaklu Księżniczka Turandot w reż. Konrada Swinarskiego (1959)",
+      "year": "1959"
+    },
+    {
+      "title": "Muzyka do spektaklu telewizyjnego Poezja Safony w reż. Wandy Laskowskiej (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Muzyka do spektaklu telewizyjnego Poezja Apollinaire'a w reż. Olgi Lipińskiej (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Muzyka do spektaklu telewizyjnego Godzina dwunasta w reż. Adama Hanuszkiewicza (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Muzyka do spektaklu telewizyjnego Joanna d`Arc w reż. Konrada Swinarskiego (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Muzyka do spektaklu Ballady i fraszki w reż. Wojciecha Siemiona (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Muzyka do spektaklu Historia o Miłosiernej, czyli Testament psa w reż. Konrada Swinarskiego (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Muzyka do spektaklu telewizyjnego Dobre uczynki Wojciecha Ozdoby w reż. Konrada Swinarskiego (sześć odcinków) (1961)",
+      "year": "1961"
+    },
+    {
+      "title": "Muzyka do spektaklu Małżeństwo z przymiarką w reż. Jana Bratkowskiego (1961)",
+      "year": "1961"
+    },
+    {
+      "title": "Muzyka do spektaklu Czas młodości w reż. Wandy Laskowskiej (1961)",
+      "year": "1961"
+    },
+    {
+      "title": "Muzyka do spektaklu Ludobójca w reż. Jowity Pieńkiewicz (1961)",
+      "year": "1961"
+    },
+    {
+      "title": "Muzyka do spektaklu Serce Bałtyku w reż. Ewy Kołogórskiej (1961)",
+      "year": "1961"
+    },
+    {
+      "title": "Muzyka do spektaklu Leonce i Lena w reż. Teresy Żukowskiej (1961)",
+      "year": "1961"
+    },
+    {
+      "title": "Muzyka do spektaklu telewizyjnego Stranitzky i bohater narodowy w reż. Zygmunta Hübnera (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Muzyka do spektaklu telewizyjnego Pies ogrodnika w reż. Konrada Swinarskiego (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Muzyka do spektaklu telewizyjnego Pierwsze kroki w reż. Jana Bratkowskiego (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Muzyka do spektaklu telewizyjnego Diabeł domowego ogniska w reż. Maryny Broniewskiej (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Muzyka do spektaklu telewizyjnego Młoda poezja polska w reż. Olgi Lipińskiej (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Muzyka do spektaklu Herakles w reż. Teresy Żukowskiej (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Muzyka do spektaklu Księżniczka Turandot w reż. Ireneusza Erwana (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Muzyka do spektaklu Garść piasku w reż. Augusta Kowalczyka (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Muzyka do spektaklu Dalekie w reż. Lucyny Tychowej (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Muzyka do spektaklu Nagi król w reż. Jowity Pieńkiewicz (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Muzyka do spektaklu Wojna i pokój w reż. Tadeusza Aleksandrowicza (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Muzyka do spektaklu Kruk w reż. Teresy Żukowskiej (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Muzyka do spektaklu Nagi król w reż. Janusza Kłosińskiego (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Muzyka do spektaklu Czarowna noc. Zabawa w reż. Konrada Swinarskiego (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Muzyka do spektaklu Król Henryk VI w reż. Tadeusza Aleksandrowicza (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Muzyka do spektaklu Najzwyklejszy cud w reż. Olgi Koszutskiej (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Muzyka do spektaklu Na dnie w reż. Teresy Żukowskiej (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Muzyka do spektaklu Nagi król w reż. Zbigniewa Bogdańskiego (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Muzyka do spektaklu telewizyjnego Żołnierze w reż. Kazimierza Kutza (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Muzyka do spektaklu telewizyjnego Kocham, lubię, żartuję w reż. Czesława Szpakowicza (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Muzyka do spektaklu Ptak w reż. Jana Biczyckiego (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Muzyka do spektaklu telewizyjnego Od Ostrówi świeci gwiazda w reż. Wojciecha Siemiona (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Muzyka do spektaklu telewizyjnego Mazur kajdaniarski w reż. Wojciecha Siemiona (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Muzyka do spektaklu Ballada o człowieku śmiechu w reż. Izabelli Cywińskiej-Adamskiej (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Muzyka do spektaklu Gwałtu, co się dzieje w reż. Teresy Żukowskiej (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Muzyka do spektaklu telewizyjnego Tylko dla was bitwy przeżyliśmy</em > w reż. Ludwika Renego (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Muzyka do spektaklu telewizyjnego Czterech przyjaciół z ulicy Cichej w reż. Henryka Boukołowskiego (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Muzyka do spektaklu telewizyjnego Cabaret Warietano czyli XI Muza Juliana Tuwima w reż. Jerzego Dobrowolskiego (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Muzyka do spektaklu telewizyjnego Śmierć na gruszy w reż. Józefa Grudy (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Muzyka do spektaklu telewizyjnego Świeca zgasła w reż. Czesława Szpakowicza (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Muzyka do spektaklu telewizyjnego Sygnet. Pieśń o wierności w reż. Ludwika Renego (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Muzyka do spektaklu telewizyjnego Elektra w reż. Adama Hanuszkiewicza (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Muzyka do spektaklu Strażak Tot w reż. Józefa Grudy (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Muzyka do spektaklu Historia Manon Lescaut i kawalera des Grieux w reż. Macieja Z. Bordowicza (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Muzyka do spektaklu Kobieta bez skazy w reż. Józefa Grudy (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Muzyka do spektaklu telewizyjnego Rybka we czworo w reż. Ludwika Renego (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Muzyka do spektaklu telewizyjnego Oddaj buty w reż. Wojciecha Solarza (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Muzyka do spektaklu telewizyjnego Obrona Ksantypy w reż. Jerzego Gruzy (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Muzyka do spektaklu telewizyjnego Burza w reż. Jana Kulczyńskiego (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Muzyka do spektaklu Pod drzwiami w reż. Zdzisława Dąbrowskiego (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Muzyka do spektaklu Wartogłów, czyli zawsze nie w porę w reż. Krystyny Sznerr (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Muzyka do spektaklu Grube ryby w reż. Stefana Burczyka (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Muzyka do spektaklu telewizyjnego Harfy przez Wisłę w reż. Andrzeja Konica (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Muzyka do spektaklu telewizyjnego Frytki do wszystkich dań w reż. Ireneusza Kanickiego (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Muzyka do spektaklu telewizyjnego Czarująca Szewcowa w reż. Maryny Broniewskiej (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Muzyka do spektaklu telewizyjnego Balladyna w reż. Ewy Petelskiej i Czesława Petelskiego (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Muzyka do spektaklu telewizyjnego Cnota uciśniona czyli przygody Józefa Andrewsa w reż. Kazimierza Brauna (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Muzyka do spektaklu Zawsze we troje w reż. Irmy Czaykowskiej (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Muzyka do spektaklu Rogi porucznika Astete w reż. Piotra Piaskowskiego (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Muzyka do spektaklu telewizyjnego Gospoda pod Królową Gęsia Nóżką w reż. Stanisława Wohla (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Muzyka do spektaklu Ptak w reż. Teresy Żukowskiej (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Muzyka do spektaklu Akt przerywany w reż. Piotra Piaskowskiego (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Muzyka do spektaklu Dundo Maroje w reż. Very Crvencanin (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Muzyka do spektaklu Kondukt w reż. Piotra Piaskowskiego (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Muzyka do spektaklu Na zielonej łące w reż. Wojciecha Siemiona (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Muzyka do spektaklu Czerwona magia w reż. Piotra Piaskowskiego (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Muzyka do spektaklu Nos w reż. Bohdana Korzeniewskiego (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Muzyka do spektaklu Most w reż. Piotra Piaskowskiego (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Muzyka do spektaklu Żaby w reż. Giovanniego Pampiglionego (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Muzyka do spektaklu Książę i żebrak w reż. Zbigniewa Koczanowicza (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Muzyka do spektaklu Przedstawienie „Hamleta” we wsi Głucha Dolna w reż. Kazimierza Kutza (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Muzyka do spektaklu Zapomnieć o Herostratesie w reż. Andrzeja Kopera (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Muzyka do spektaklu Bałałajkin i spółka w reż. Kazimierza Kutza (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Muzyka do spektaklu Przedstawienie „Hamleta” we wsi Głucha Dolna w reż. Krzysztofa Rościszewskiego (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Muzyka do spektaklu Kopciuch w reż. Kazimierza Kutza (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Muzyka do spektaklu Śmierć Dantona w reż. Kazimierza Kutza (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Muzyka do spektaklu Hamlet w reż. Janusza Warmińskiego (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Muzyka do spektaklu Róża jest różą, jest różą w reż. Wojciecha Siemiona (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Muzyka do spektaklu Matka w reż. Janusza Warmińskiego (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Muzyka do spektaklu Kordian w reż. Bohdana Cybulskiego (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Muzyka do spektaklu Szopa betlejemska w reż. Wojciecha Siemiona (1997)",
+      "year": "1997"
+    }
+  ],
+  "publications": "books On my own note , Wydawnictwo Iskry, Warszawa 2018",
+  "bibliography": "Gąsiorowska Małgorzata, Pałłasz Edward, In: Encyklopedia Muzyczna PWM [PWM Music Encyclopaedia] (biographical part ed. by Elżbieta Dziębowska], vol. “N-Pa”, PWM, Kraków 2002",
+  "slug": "pallasz-edward-en"
+}

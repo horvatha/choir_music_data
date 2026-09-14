@@ -1,0 +1,175 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/k/kedziora-monika-en",
+  "title": "Kędziora Monika",
+  "name": "Kędziora Monika",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "composer; b. 25th June 1971 in Ostrów Wielkopolski. In 1996 she graduated with honours from the Faculty of Composition, Conducting and Theory of Music at the Academy of Music in Poznań, where she studied with Jan Astriab. In the 1995-96 academic year she received a scholarship from the Minister of Culture and Arts. She participated in the International Summer Courses for Young Composers organized by the Polish Society of Contemporary Music (Kazimierz Dolny, Białystok, Radziejowice). In 2000-2001, thanks to the scholarship of the Culture Foundation, she studied composition with Robert HP Platz at the Hogeschool Conservatorium Maastricht in the Netherlands. In 2013 she received a habilitation degree in composition and theory of music at the Academy of Music in Łódź. Currently, she works at the Academy of Music in Poznań as an adjunct. She composes mostly chamber music, both vocal and instrumental. She draws inspiration from literary texts, particularly in her works for solo voice, and natural phenomena and processes, including the elements. The artist frequently employs extended performance techniques, with a strong emphasis put on the colour of the sound, which becomes the key component of her compositions. Her work Ex imo Mari for chamber orchestra was commissioned by the Polish Composers' Union as part of the \"Composer's Commissions\" programme run by the Institute of Music and Dance. Monika Kędziora received a number of awards for her artistic and organizational activities. Board of the Hipolit Cegielski Society awarded her with the Young Positivist Medal \"in recognition of her passion in organic work\" (2004). The President of the Republic of Poland awarded her with the Bronze Medal for long service (2010). She also received the Honorary Badge \"Distinguished for Polish Culture\". updated: 2020 (Agnieszka Cieślak) Contact: e-mail: This email address is being protected from spambots. You need JavaScript enabled to view it. mobile: (+48) 601 147 429",
+  "birth": {
+    "place": "Ostrów Wielkopolski",
+    "date": "25th June 1971",
+    "raw": "b. 25th June 1971 in Ostrów Wielkopolski"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Four Etudes for piano left hand (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Shadow , ballet in 6 scenes (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Impressions pour la fin du siècle for piano (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "The Blind Sleepwalker's Prayer for soprano solo to words by K. I. Gałczyński (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "ALAAV for piano four hands (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "KHADN for strings and percussion (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "BA CLAR TRE for clarinet solo (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "SZKLISTYCH for piano and instrumental ensemble (2005/2006)",
+      "year": null
+    },
+    {
+      "title": "Lamento for violin solo (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Melody for two flutes (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "***Jak dziwnie z damy romantycznej wyrastać tak wysoko jak drzewo, jak Polska for orchestra (2008/2009)",
+      "year": null
+    },
+    {
+      "title": "AEQUINOCTIUM for orchestra (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Exvenire , diptych for two pianos (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "PLAUDENS per flauto solo (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "in speculo for flute solo, oboe solo, clarinet solo, saxophone solo and bassoon solo (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "E. D. , monodrama for mezzo-soprano and piano to texts by E. Dickinson (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Geodes for two pianos and ensemble (2012,2016)",
+      "year": null
+    },
+    {
+      "title": "Elementa for three percussionists (2013-2014)",
+      "year": "2013-2014"
+    },
+    {
+      "title": "inter-in-supra , fanfare for wind orchestra (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "micro-nano-mos , seven miniatures for piano solo (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Mulceo for flute, clarinet, viola, cello and piano (2016-2017)",
+      "year": "2016-2017"
+    },
+    {
+      "title": "Ex imo mari for chamber orchestra (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "cres-cere for clarinet, cello and piano (2017-2018)",
+      "year": "2017-2018"
+    },
+    {
+      "title": "Sub glaciae, sub summa aqua for string orchestra (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Liber arborum for piano four hands (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Caligo , three miniatures for piano solo (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Expergefactio for cello solo (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "September, October for viola solo (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "Flumine adverso for clarinet and instrumental ensemble (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "May 1939 for soprano and piano, set to a text by Zuzanna Ginczanka (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "Constellationes 1 for orchestra (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "Constellationes 2 for orchestra (2022)",
+      "year": "2022"
+    },
+    {
+      "title": "Anemone nemorosa for alto saxophone and piano (2023)",
+      "year": "2023"
+    },
+    {
+      "title": "[co? Jej powiedzieć] for baritone and piano to words by Cyprian Kamil Norwid (2023)",
+      "year": "2023"
+    },
+    {
+      "title": "Diluculum for string trio (2024)",
+      "year": "2024"
+    },
+    {
+      "title": "Mare petrosa for string orchestra (2024)",
+      "year": "2024"
+    },
+    {
+      "title": "Four Views of the Lake for two flutes and string orchestra (2024)",
+      "year": "2024"
+    },
+    {
+      "title": "Works for Piano (2020–2025)",
+      "year": null
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "kedziora-monika-en"
+}

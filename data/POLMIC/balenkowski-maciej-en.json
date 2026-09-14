@@ -1,0 +1,87 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/b/balenkowski-maciej-en",
+  "title": "Bałenkowski Maciej",
+  "name": "Bałenkowski Maciej",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "composer; b. 18th October 1993 in Radom. He graduated from the Oskar Kolberg Music School Complex in Radom, where he learned playing piano, trumpet and organ. His interests, however, focused mainly on composition and theory of music. He is a graduate of the composition class of dr. hab. Robert Kurdybacha at the Karol Lipiński Academy of Music in Wrocław (diploma with distinction and honorary diploma \"Primus inter pares\" in 2017). From 2015, he consults his works with Prof. Dr. h. c. mult. Krzysztof Penderecki, and from the academic year 2017/2018 he is a PhD student in his class at the Academy of Music in Krakow. He received scholarships at the Hochschule der Künste Bern (Bern, Switzerland) as part of the \"Swiss mobility\" programme and at the Conservatorio Superior de Música Valencia \"Joaquín Rodrigo\" (Valencia, Spain) as part of the \"Erasmus +\" programme, where he improved his skills in composition classes of Prof. Xavier Dayer, Prof. Daniel Glaus and Prof. César Cano. Maciej Bałenkowski is a winner and finalist of over 20 international and national composers' competitions. His most significant successes include: First Prize in the International Concerto Competition \"Debut Berlin 2017\" in Berlin, First Prize in the 12th Young Composers' Competition in Vancouver (2015), First Prize in the 1st Call for Scores Competition in Yuba City (California, USA), First Prize in the Nationwide Composers' Competition \"Sinfonietta per Sinfonietta\" in Krakow (2015), Second Award in the 2nd International Composition Competition \"Generace\" in Ostrava (2013), Second Award in the \"Scary 2014\" Composition Competition in Chapel Hill in North Carolina (USA), Finalist in the 3rd Annual Young Composers Competition organized by Chorus Austin (Texas, USA), Finalist in the Metropolitan Youth Symphony Orchestra Student Composition Competition in Chicago (2017), laureate of the Respighi Prize, awarded by the Chamber Orchestra of New York and the Ottorino Respighi family (2018). He is a scholarship holder of the Minister of Culture and National Heritage of the Republic of Poland \"Young Poland\" 2017, the Minister of Culture and National Heritage for outstanding achievements (2016), Minister of Science and Higher Education for outstanding achievements (2014), winner of the Wrocław Art Scholarship (2014, 2015, 2016), Maria Anna Siemieńska Scholarship \"Grazella\" (2015), Scholarship as part of the \"Student Scholarship Program\" of the City Council of Wrocław (2015), Scholarship of the Rector of the Academy of Music in Wrocław (2014, 2015, 2016), Jacek Malczewski Scholarship in Radom (2012) and Artistic Scholarship of the Mayor of Radom (2011).In 2017, he was the winner of the Lower Silesian Capital Club Award in the category of artistic success and the Creative Award of the Marshal of the Masovian Voivodeship (2017). Maciej Bałenkowski's works were presented, among others, in the United States, Canada, Russia, the Netherlands, Belgium, Switzerland, Germany, the Czech Republic, and Poland. His compositions were performed by orchestras, ensembles and choirs such as: National Orchestra of the Federal Republic of Germany (Berlin, Germany), Vancouver Chamber Choir (Vancouver, Canada), Sinfonietta Cracovia (Krakow), Polish Radio Orchestra \"Amadeus\" (Poznań), Veridian Symphony Orchestra (Yuba City, California, USA), Urban Playground Chamber Orchestra (New York, USA), Sound Factory Orchestra (Wroclaw), Polish-Norwegian Youth Symphony Orchestra, UFM Festival Orchestra (Warsaw), Cracow Female Choir and many more. In the artistic season of 2017/2018 he was the Composer-in-Residence of the Royal Orchestra of the City of Krakow \"Sinfonietta Cracovia\". updated: 2018 (ac)",
+  "birth": {
+    "place": "Radom",
+    "date": "18th October 1993",
+    "raw": "b. 18th October 1993 in Radom"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Evening impressions na trąbkę, fortepian i smyczki (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Ghosts‘ Hour na orkiestrę kameralną (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Comets na orkiestrę kameralną (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Polonez na orkiestrę symfoniczną (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Melodies and rhytms coming from the depths of the forest na 2 fortepiany (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "3 Pieśni bożonarodzeniowe (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Epizod na orkiestrę smyczkową (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Koniunkcja na orkiestrę symfoniczną (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Quaeram te, Domine na 8-głosowy chór mieszany (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Sinfonietta - Time is ticking na orkiestrę smyczkową (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Omnia tempus habent na 8-głosowy chór mieszany (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "In space na orkiestrę symfoniczną (2014-2015)",
+      "year": "2014-2015"
+    },
+    {
+      "title": "Farewell na orkiestrę smyczkową (2015-2016)",
+      "year": "2015-2016"
+    },
+    {
+      "title": "Obrazy na orkiestrę symfoniczną (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Polonez nr 2 na orkiestrę symfoniczną (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Sinfonietta nr 2 „Polonia“ – hommage á Wojciech Kilar (2017)",
+      "year": "2017"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "balenkowski-maciej-en"
+}

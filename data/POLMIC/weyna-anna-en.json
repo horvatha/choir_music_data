@@ -1,0 +1,59 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/w/weyna-anna-en",
+  "title": "Weyna Anna",
+  "name": "Weyna Anna",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Pięć miniatur na fortepian solo (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Sonatina na skrzypce i fortepian (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Impresje , pięć miniatur na cztery flety (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Fantazja na kwartet smyczkowy (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Trzy pieśni na alt i fortepian (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Kto Boga posiada… na chór mieszany a cappella (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Błękity Hiszpanii na zespół instrumentalny (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Uwertura koncertowa na małą orkiestrę symfoniczną (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Koncert fortepianowy (2002-2003)",
+      "year": "2002-2003"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "weyna-anna-en"
+}

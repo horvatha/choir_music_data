@@ -1,0 +1,395 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/s/stepalska-spix-joanna-en",
+  "title": "Stępalska-Spix Joanna",
+  "name": "Stępalska-Spix Joanna",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Griffe na flet solo (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Ghephis [wersja I] na flet i wibrafon (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Fantazja na skrzypce solo (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Dialog na obój i saksofon sopranowy (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Fälle des Oboisten na obój solo (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Three Phases na harfę i klawesyn (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Four for Four na 4 saksofony (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Spiel na flet solo (lub obój, lub klarnet) (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Ghephis [wersja II] na flet i wibrafon (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "The play with e flat na zespół instrumentalny (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Two Looks na obój, wiolonczelę i smyczki (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Kirameki na dwie harfy (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Samadhi na flet i taśmę (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Fields na orkiestrę smyczkową (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Sonata jednoczęściowa na fortepian (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Spielerei na wiolonczelę (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Gewirr und Ordnung na wielką orkiestrę symfoniczną (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Pranayama na sopran, obój, rożek angielski i komputer (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Pranayama II na obój, rożek angielski i komputer (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Scherz! na flet, obój, skrzypce i fortepian (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Duet na dwa flety (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Trio na flet, obój i skrzypce (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Evoluzione na skrzypce, fortepian i komputer (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Proof soprax na saksofon sopranowy (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "We two na taśmę (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Beregesave na flet piccolo i saksofon altowy (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "...Mes Amis...My Friends...Meine Freude... na 2 soprany i 2 harfy (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Concerto per sassofono soprano e orchestra (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Look. Why? Later na aktorkę-śpiewaczkę i kontrabas (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Stukje na fortepian (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Valse Macabre na kontrabas i taśmę (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Horr(or)oboe na obój, komputer Macintosh i sampler Akai 1000 (lub 1100) (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Drzewo. Miłość. Wspomnienie , trzy pieśni na sopran, obój, flet, skrzypce, wiolonczelę i fortepian (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Virgins na 3 flety i 2 taśmy (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Look. Why? Later II na aktorkę-śpiewaczkę i fortepian (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Like a „Ragtime” na dwa fortepiany (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Klänge na mezzosopran/alt i fortepian (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Trio – D na skrzypce, wiolonczelę i fortepian (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Stückchen für Ara na flet piccolo, klarnet, wiolonczelę, fortepian i marimbę (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Gerade-Ungerade na flet, obój, kontrabas, fortepian i taśmę (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Ein Stück für Java-Gamelan (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Fraktaletüde na 2 flety (lub 2 oboje) i komputer (lub taśmę) (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Dialog II na flet i obój (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Montagne na flet, wiolonczelę i fortepian (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Walzer in F na harfę (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Formule per cinque celli (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Kaskady na dwie harfy (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Duet II – quasi Heterophonie na dwa flety (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Little Concert for Viola and String Orchestra (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Ein Stück für Gamelan (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Moon Palace Nr 954 na shakuhachi, flet piccolo, obój, klarnet, wiolonczelę, marimbę i 2 trójkąty (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Ein’ feste Burg ist unser Gott! na flet, obój i organy (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Gold and Ruby na flet i fortepian (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Studium na 6 bongosów (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Klex! na 3 głosy (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Lux Vox na 4 głosy (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Säbel na 2 wiolonczele (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Amsel-Blues na fortepian (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Die Baeche na flet i orkiestrę smyczkową (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Miniatury wiosenne na flet i gitarę (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Proof Saltax na saksofon altowy (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Interfer(r)(a)nce na flet i saksofon (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Konzert-Etüde na flet piccolo (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Canto di Strega na flet (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Non Perpetuum Mobile na fortepian (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "...immer wieder in allen Jahreszeiten... na obój i smyczki (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Wir na flet piccolo, flet i flet altowy (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "8 Miniaturen für Klavier für Kinder (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Valzer con spirito per Isolde na fortepian (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "A short story about fury na flet, obój, klarnet, fagot i trąbkę (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Who’s Blues? na 3 flety (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Zur Erinnerung – Barbara Heller gewidmet na flet altowy i fortepian (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Proof Sentax na saksofon tenorowy (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Proof Sentax II na saksofon tenorowy (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Valzer triste e Hüppe-Polka na flet prosty, flet i fortepian (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Ice-Landscape (for JJ) na flet, flet piccolo (1 wykonawca), obój, rożek angielski (1 wykonawca) i fagot (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Proof Sarbax na saksofon barytonowy (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Mały walczyk na gitarę (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Pająk i Mucha na altówkę i fortepian (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Interfe(r)rence na saksofony sopranowy, altowy i tenorowy oraz flet i piccolo (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Kleine und große Stücke für kleine und große Flötisten (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Chromatichaos na flet i flet piccolo (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Drei Träume na flet, klarnet i gitarę (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Vier Elemente na fortepian (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Quartett na flet, gitarę, wiolonczelę i fortepian (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Amsel-Blues na fortepian (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Giuoco na cztery flety (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Ein gülden Kränzlein na orkiestre (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Hymne na chór i wielką orkiestrę symfoniczną (odtworzenie pełnego utworu z nieukończonego rękopisu kompozytora Maxa Brucha z roku 1913) (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Kleine und große Kanons für kleine und große Flötisten (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Idris(s) na klawesyn (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Resperarte na dwa flety i dwa flety altowe (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Dandai (River of the Youth) na flet basowy, klarnet basowy, harfę, skrzypce, altówkę i wiolonczelę (2020)",
+      "year": "2020"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "stepalska-spix-joanna-en"
+}

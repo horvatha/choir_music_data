@@ -1,0 +1,323 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/l/lutoslawski-witold-en",
+  "title": "Lutosławski Witold",
+  "name": "Lutosławski Witold",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": "composer and conductor, b. Jan. 25, 1913 in Warsaw, d. Feb. 7, 1994 in Warsaw. He started learning to play the piano at the age of six. His tutors were Helena Hoffman, then, after 1924, Józef Śmidowicz, and later - A. Taube. In 1926-32 he also took violin lessons with Lidia Kmitowa. For four years from 1928 he took private lessons in theory and composition with Witold Maliszewski. It was under the latter's supervision that in 1930 he composed his first work - Taniec Chimery (Chimera's Dance) for piano. In 1932 he entered the Warsaw Conservatoire, where he continued his composition studies with Maliszewski, as well as studying piano with Jerzy Lefeld. He graduated as a pianist in 1936; in 1937 he took a degree in composition for his Requiem for soprano, mixed choir and orchestra. In 1931-33 he also studied at the Faculty of Mathematics, Warsaw University. The composer himself chose the first performance of his Symphonic Variations (1936-38) in 1938 as his composing debut. His promising artistic career was interrupted by World War II. He spent the years of Nazi occupation in Warsaw, where he earned a living by, among others, playing in a piano duo with Andrzej Panufnik in the city's cafés: \"SiM\" (Art and Fashion) and \"U Aktorek\" (The Actresses'). His only surviving work from this period are the Variations on a Theme of Paganini for two pianos (1941). After the war, Lutosławski took up permanent residence in Warsaw. In 1946 he married Maria Danuta Bogusławska (née Dygat). At that time he became involved in the organization of the Polish Composers' Union, an organization in which he was active until his death as a member of the authorities and co-organizer of the \"Warsaw Autumn\" International Festival of Contemporary Music. He never got affiliated with any music academy, but he taught numerous master classes: in 1962 - in Berkshire Music Center w Tanglewood (Massachusetts), where he met, among others, Edgar Varèse and Milton Babbitt; in 1963 and 1964 - in the Summer School of Music in Darlington (England); in 1966 - in Kungliga Svenska Musikaliska Akademien in Stockholm; in 1966 - at the University of Austin, Texas, in 1968 - in Århus (Denmark). In the 1970s and 80s he only sporadically accepted invitations to lectures, which were devoted to his own works. Since 1963, when he made his conducting debut with the first performance of Three Poems of Henri Michaux for choir and orchestra (1961-63), he remained an active conductor until the end of his life. As a conductor he toured, among others, France (1964), Czechoslovakia (1965), the Netherlands (1969), Norway and Austria (1969). He led the Los Angeles Philharmonic Orchestra, San Francisco Symphony Orchestra, BBC Symphony Orchestra, London Sinfonietta, Orchestre de Paris and WOSPRiT - the Polish Radio and Television Grand Symphony Orchestra (now: NOSPR). In recognition of his achievements, Lutosławski received numerous prizes and distinctions, including the award of the Polish Composers' Union for 1959 and 1973, the Minister of Culture and Arts Award, First Class (1962), the State Award, First Class (1955, 1964, 1978), 1st prize at the International Rostrum of Composers in Paris (1959, 1962, 1964, 1968), the Sergey Koussevitzky Award (1964, 1976, 1986), the Gottfried von Herder Award (1967), the L. Sonning Award (1967), the Maurice Ravel Prize of Paris (1971), the Jean Sibelius Prize (1973), the Ernst von Siemens Award (1983), the Grawemeyer Award (1985), the Prize of Queen Sophie of Spain (1985). In 1983 he was honoured with the Artistic Award of the \"Solidarity\" Committee for Independent Culture. In 1985 he was awarded the Gold Medal of the Royal Philharmonic Society in London, and in 1992 - the gold medal and the title of \"Musician of the Year 1991\" granted by the British Incorporated Society of Musicians as well as the medal of the Stockholm Concert Hall Foundation, in 1993 - the \"Polar Music Prize\" and the \"Kyoto Prize\" in the field of arts. In 1994 Lutosławski was accorded the highest Polish state distinction: the Order of the White Eagle. He was also granted honorary membership of numerous music societies, artistic and scientific academies, including: The International Society for Contemporary Music, Kungliga Svenska Musikaliska Akademien, Freie Akademie der Künste in Hamburg, Deutsche Akademie der Künste in Berlin, Akademie der Schönen Künste in Munich, American Academy of Arts and Letters in New York, Royal Academy of Music in London, the Polish Composers' Union. He held honorary doctorates from, among others, Warsaw University, the universities in Toruń, Chicago, Lancaster, Glasgow, Cambridge, Durham, the Jagiellonian University in Cracow and McGill University in Montreal. Since 1990 the International Witold Lutosławski Competition for Composers has been organized in Warsaw by the National Philharmonic.",
+  "birth": {
+    "place": "Warsaw",
+    "date": "Jan. 25, 1913",
+    "raw": "b. Jan. 25, 1913 in Warsaw"
+  },
+  "death": {
+    "place": "Warsaw",
+    "date": "Feb. 7, 1994",
+    "raw": "d. Feb. 7, 1994 in Warsaw"
+  },
+  "works": [
+    {
+      "title": "Sonata for piano (1934)",
+      "year": "1934"
+    },
+    {
+      "title": "Symphonic variations (1936-38)",
+      "year": "1936-38"
+    },
+    {
+      "title": "Lacrimosa for soprano and orchestra (with the possibility of using a four-part mixed choir) (1937)",
+      "year": "1937"
+    },
+    {
+      "title": "Two studies for piano (1940-41)",
+      "year": "1940-41"
+    },
+    {
+      "title": "Variations on a theme from Paganini for two pianos (1941)",
+      "year": "1941"
+    },
+    {
+      "title": "Symphony No. 1 (1941-47)",
+      "year": "1941-47"
+    },
+    {
+      "title": "Songs of underground struggle for voice and piano (1942-44)",
+      "year": "1942-44"
+    },
+    {
+      "title": "Trio for oboe, clarinet and bassoon (1944-45)",
+      "year": "1944-45"
+    },
+    {
+      "title": "Folk melodies for piano (1945)",
+      "year": "1945"
+    },
+    {
+      "title": "Twenty carols for voice and piano (1946)",
+      "year": "1946"
+    },
+    {
+      "title": "Two nightingales for choir and piano (1947)",
+      "year": "1947"
+    },
+    {
+      "title": "Six children’s songs for voice and piano (1947)",
+      "year": "1947"
+    },
+    {
+      "title": "Mr Tralaliński a children’s song for voice and piano (1947-48)",
+      "year": "1947-48"
+    },
+    {
+      "title": "The late nightingale a children’s song for voice and piano (1947-48)",
+      "year": "1947-48"
+    },
+    {
+      "title": "String overture (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "Little suite for chamber orchestra (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "Straw chain and other pieces a cycle of children’s songs for soprano and mezzo-soprano, flute, oboe, 2 clarinets and bassoon (1950-51)",
+      "year": "1950-51"
+    },
+    {
+      "title": "Concerto for orchestra (1950-54)",
+      "year": "1950-54"
+    },
+    {
+      "title": "Spring a cycle of children’s songs for mezzo-soprano and chamber orchestra (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "Recitativo e arioso for violin and piano (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "Silesian triptych for soprano and symphony orchestra (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "Little suite [version II] for symphony orchestra (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "Bucolic pieces for piano (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "The late nightingale [version II] for voice and chamber orchestra (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Five folk melodies for string orchestra (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Six children’s songs [version II] for three-part children’s choir and orchestra (1952-53)",
+      "year": "1952-53"
+    },
+    {
+      "title": "Six children’s songs [version III] for mezzo-soprano and chamber orchestra (1952-53)",
+      "year": "1952-53"
+    },
+    {
+      "title": "Dance preludes for clarinet and piano (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "Funeral music for string orchestra (1954-58)",
+      "year": "1954-58"
+    },
+    {
+      "title": "Dance preludes [version II] for clarinet and chamber orchestra (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "Five songs to words by Kazimiera Iłłakowiczówna for female voice and piano (1956-57)",
+      "year": "1956-57"
+    },
+    {
+      "title": "Five songs to words by Kazimiera Iłłakowiczówna [version II] for mezzo-soprano and chamber orchestra (1958)",
+      "year": "1958"
+    },
+    {
+      "title": "Little spark’s fable and other songs for children for voice and piano (1958)",
+      "year": "1958"
+    },
+    {
+      "title": "Three postludes for orchestra (1958-60)",
+      "year": "1958-60"
+    },
+    {
+      "title": "Dance preludes [version III] for nine instruments (1959)",
+      "year": "1959"
+    },
+    {
+      "title": "Jeux vénitiens for chamber orchestra (1961)",
+      "year": "1961"
+    },
+    {
+      "title": "Trois poèmes d’Henri Michaux for choir and orchestra (1961-63)",
+      "year": "1961-63"
+    },
+    {
+      "title": "Bucolic pieces [version II] for viola and cello (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "String quartet (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Paroles tissées for tenor and chamber orchestra (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Symphony No. 2 (1965-67)",
+      "year": "1965-67"
+    },
+    {
+      "title": "Invention for piano (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Livre pour orchestre (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Concerto for cello and orchestra (1969-70)",
+      "year": "1969-70"
+    },
+    {
+      "title": "Prelude and fugue for 13 string instruments (1970-72)",
+      "year": "1970-72"
+    },
+    {
+      "title": "Sacher Variation for cello (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Les espaces du sommeil for baritone and orchestra (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Mi-parti for symphony orchestra (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Variations on a theme from Paganini [version II] for piano and orchestra (1977-78)",
+      "year": "1977-78"
+    },
+    {
+      "title": "Novelette for orchestra (1978-79)",
+      "year": "1978-79"
+    },
+    {
+      "title": "Epitaphium for oboe and piano (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Double concerto for oboe, harp and chamber orchestra (1979-80)",
+      "year": "1979-80"
+    },
+    {
+      "title": "Grave Metamorphoses for cello and piano (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Grave [version II] Metamorphoses for cello and string orchestra (1981-82)",
+      "year": "1981-82"
+    },
+    {
+      "title": "Symphony No. 3 (1981-83)",
+      "year": "1981-83"
+    },
+    {
+      "title": "Mini-overture for wind quintet (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Chain 1 for 14 performers (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Chain 2 Dialogue for violin and orchestra (1983-85)",
+      "year": "1983-85"
+    },
+    {
+      "title": "Partita for violin and piano (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Twenty carols [version II] for soprano, women’s choir and chamber orchestra (1984-89)",
+      "year": "1984-89"
+    },
+    {
+      "title": "Chain 3 for orchestra (1985-86)",
+      "year": "1985-86"
+    },
+    {
+      "title": "Fanfare for Louisville for wind instruments and percussion (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Fanfare for CUBE for wind quintet (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Concerto for piano and orchestra (1987-88)",
+      "year": "1987-88"
+    },
+    {
+      "title": "Slides for 11 soloists (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Partita [version II] for violin and orchestra (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Symphony No. 4 (1988-92)",
+      "year": "1988-92"
+    },
+    {
+      "title": "Fanfare for Lancaster for brass ensemble and snare drum (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Prelude for G.S.M.D for orchestra (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Lullaby for Anne-Sophie for violin and piano (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Chantefleurs et Chantefables a song cycle for soprano and orchestra (1989-90)",
+      "year": "1989-90"
+    },
+    {
+      "title": "Interlude for orchestra (1989-90)",
+      "year": "1989-90"
+    },
+    {
+      "title": "Tarantella for baritone and piano (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Subito for violin and piano (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Fanfare for Los Angeles Philharmonic for brass ensemble and percussion (1993)",
+      "year": "1993"
+    }
+  ],
+  "publications": "books Postscriptum, (opr. i wybór tekstów Danuta Gwizdalanka i Krzysztof Meyer), Fundacja Zeszytów Literackich, Warszawa 1999 Zapiski, (opr. Zbigniew Skowron), Towarzystwo im. W. Lutosławskiego, Warszawa 2008 O muzyce. Pisma i wypowiedzi, (opr. Zbigniew Skowron), słowo/obraz, terytoria, Gdańsk 2011",
+  "bibliography": "Kaczyński Tadeusz, Lutosławski nieznany \"Muzyka\" 1995, nr 1-2, [Numer monograficzny Kwartalnika Instytutu Sztuki PAN poświęcony twórczości Witolda Lutosławskiego] Nordwall Ove (ed.), Lutosławski, Hansen, Stockholm 1968 (c.) Maciejewski Bogusław M., Twelve Polish Composers, Allegro Press, London 1976 Pociej Bohdan, Lutosławski a wartość muzyki [Lutosławski and the value of music], PWM, Kraków 1976 Kaczyński Tadeusz, Varga Bálint András, Gespräche mit Witold Lutosławski, Verlag Philipp Reclam jun, Leipzig 1976 Rappoport Lidia, Витольд Лютославский, Muzika, Moskwa 1976 Stucky Steven , Lutosławski and his Music, Cambridge 1981 Couchoud Jean Paul, La musique polonaise et Witold Lutosławski, Stock, Paris 1981 Tarnawska-Kaczorowska Krystyna (red.), Witold Lutosławski - prezentacje, interpretacje, konfrontacje. Materiały sesji muzykologów ZKP [Witold Lutosławski - presentations, interpretations, confrontations, Proceedings of a conference session of the Polish Composers’ Union, musicologists’ section], ZKP, Warszawa 1984 Kaczyński Tadeusz, Conversations with Witold Lutosławski, Chester, London 1984 Polony Leszek (red.), Witold Lutosławski. Sesja naukowa poświęcona twórczości Kompozytora, Akademia Muzyczna w Krakowie, Kraków 1985 \"Musik-Konzepte\" 71/72/73 , (Hg. Heinz-Klaus Metzger, Reiner Riehn), edition text + kritik, München 1991 Petersen Peter, Lutosławski Witold, in: Komponisten der Gegenwart (Hg. Hanns-Werner Heister, Walter-Wolfgang Sparrer), edition text + kritik, München 1992- Kaczyński Tadeusz, Rozmowy z Witoldem Lutosławskim [Conversations with Witold Lutosławski], TAU, Wrocław 1993 Kaczyński Tadeusz, Lutosławski. Życie i muzyka [Lutosławski. Life and music], Sutkowski Edition, Warszawa 1994 Meyer Krzysztof, Witold Lutosławski, Ars Nova, Poznań 1994 Nikolska Irina, Conversations with Witold Lutosławski (1987-92), melos: En Musiktidskrift, Stockholm 1994 Rae Charles Bodman, The Music of Lutosławski, Faber and Faber, London 1994 Nikolska Irina, Статьи, беседы, воспоминания, Tantra, Moskwa 1995 Rust Douglas, Conversation with Witold Lutosławski, \"Musical Quarterly\" 1995 nr 1, s. 207-223 Homma Martina, Zwölfton-Harmonik - Formbildung „aleatorischer Kontrapunkt”, Bela Verlag, Köln 1996 Lutosławski. Homagium, Wydawnictwo Galerii Zachęta, Warszawa 1996 Paja-Stach Jadwiga, Witold Lutosławski, Musica Iagellonica, Kraków 1996 Rae Charles Bodman, Muzyka Lutosławskiego [Lutosławski’s music], PWN, Warszawa 1996 Paja-Stach Jadwiga, Lutosławski i jego styl muzyczny [Lutosławski and his musical style], Musica Iagellonica, Kraków 1997 Paja-Stach Jadwiga, Lutosławski Witold, in: PWM Encyclopaedia of Music (biographical part, ed. by Elżbieta Dziębowska), vol. „klł”, PWM, Kraków 1997 \"Res Facta Nova\" nr 2 /11, (red. Bristiger Michał), Poznańskie Towarzystwo Przyjaciół Nauk, Poznań 1997 Astriab Jan, Jabłoński Maciej, Jan Stęszewski (red.), Witold Lutosławski. Człowiek i dzieło w perspektywie kultury muzycznej XX wieku [Witold Lutosławski. The man and the work in the context of 20th-century musical culture], Wydawnictwo Poznańskiego Towarzystwa Przyjaciół Nauk, Poznań 1999 Skowron Zbigniew (red.), Estetyka i styl w twórczości Witolda Lutosławskiego, Musica Iagellonica, Kraków 2000 Będkowski Stanisław, Hrabia Stanisław, Witold Lutosławski. A Bio-Bibliography, Greenwood Press, Westport - London 2001 (c.) www.lutoslawski.org.pl, Strona Towarzystwa im. Witolda Lutosławskiego zawiera informacje o działalności Towarzystwa oraz materiały poświęcone Witoldowi Lutosławskiemu - życiorys, dokładne kalendarium, zdjęcia, opisy utworów, mp3, katalog dzieł, dyskografię, eseje o kompozytorze., 2003 Nikolska Irina, Muzyka to nie tylko dźwięki. Rozmowy z Witoldem Lutosławskim, PWM, Kraków 2003 Gwizdalanka Danuta, Meyer Krzysztof, Lutosławski. Droga do dojrzałości (tom I), PWM, Kraków 2003 Cyz Tomasz (red.), Witold Lutosławski. Portret w 10-lecie śmierci, w: Kontrapunkt , dodatek specjalny do „Tygodnika Powszechnego” 2004 nr 7 z dn. 15 lutego 2004 Gwizdalanka Danuta, Meyer Krzysztof, Lutosławski. Droga do mistrzostwa (tom II), PWM, Kraków 2004 Paja-Stach Jadwiga (red.), Witold Lutosławski i jego wkład do kultury muzycznej XX wieku, Musica Iagellonica, Kraków 2005 Skowron Zbigniew, Zeszyt myśli Witolda Lutosławskiego jako dokument jego drogi twórczej, \"Ruch Muzyczny\" 2007 nr 25, s. 11-13 Michalski Grzegorz, Lutosławski w pamięci. 20 rozmów o kompozytorze, słowo/obraz, terytoria, Gdańsk 2007 Owińska Zofia, Lutosławski o sobie, słowo/obraz, terytoria, Gdańsk 2010 Smoleńska-Zielińska Barbara, Zieliński Tadeusz A., Witold Lutosławski. Przewodnik po arcydziełach, Wydawnictwo Uniwersytetu Warszawskiego , Warszawa 2011 Markowska Elżbieta (red.), Lutosławski 1913-2013, Towarzystwo im. Witolda Lutosławskiego, Warszawa 2012 Chłopecki Andrzej, Postsłowie. Przewodnik po muzyce Witolda Lutosławskiego, Towarzystwo im. Witolda Lutosławskiego, Warszawa 2012",
+  "slug": "lutoslawski-witold-en"
+}

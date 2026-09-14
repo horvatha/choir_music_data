@@ -1,0 +1,551 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/h/haubenstock-ramati-roman-en",
+  "title": "Haubenstock-Ramati Roman",
+  "name": "Haubenstock-Ramati Roman",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "composer and educator, b. 27 th February 1919 in Kraków, d. 3 rd March 1994 in Vienna. In 1934-1937 he received music education in violin, theory of music, and the basics of composition from Artur Malawski. In 1937 Haubenstock-Ramati took up studies with Józef Koffler, Tadeusz Zygfryd Kassern, Seweryn Eugeniusz Barbag and Adam Sołtys (conducting) at the Jagiellonian University. In September 1939 he fled with his family to Lviv, where he continued his studies under Józef Koffler. Arrested and imprisoned in 1941 by the Soviet authorities, after the announcement of amnesty for Polish citizens he joined General Władysław Anders’s Polish Army, with which he travelled to Palestine through Iran as an army musician. In 1947 he returned to his home city of Kraków, where he lived till 1950, working in 1947-49 as an editor for “Ruch Muzyczny” music fortnightly, in 1948-50 – as head of the music section of Polish Radio Kraków. He left Poland in 1950 and settled in Tel-Aviv, where he founded the State Music Library on behalf of the Israeli government. In 1954-56 he lectured in composition at the city’s Academy of Music. His first major success as a composer came in 1955, with the premiere of his Recitativo ed aria (Konzert für Cembalo und Orchester) (1954) at the Donaueschinger Musiktage. Having left Israel in 1957, he studied musique concrete and electronic music for several months in the Paris studio of Pierre Schaeffer, and in the autumn of the same year he settled permanently in Vienna. He held his first exhibition of Musikalische Grafik in Donaueschingen in 1959. In 1960 he was granted Austrian citizenship. Till 1971 he worked as an editor and consultant for Universal Edition, and in 1973-89 he was a professor at the Hochschule für Musik und Darstellende Kunst, where he also headed the Institut für Elektroakustik. He served on the juries of many competitions for composers, and was a guest lecturer at universities and master classes worldwide, e.g. in Darmstadt (1964, 1965), Bilthoven (1967), Buenos Aires (1968), Tel-Aviv (1967-72), Stockholm (1969), and San Francisco (1972). Updated in May 2007",
+  "birth": {
+    "place": "Kraków",
+    "date": "27th February 1919",
+    "raw": "b. 27 th February 1919 in Kraków"
+  },
+  "death": {
+    "place": "Vienna",
+    "date": "3rd March 1994",
+    "raw": "d. 3 rd March 1994 in Vienna"
+  },
+  "works": [
+    {
+      "title": "String Trio No. 1 “Ricercari” (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "Bénédictions (Blessings) for soprano (vocalise) and 9 instruments (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "Recitativo ed aria (Konzert für Cembalo und Orchester) (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "Studie in Form , graphic score (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "Papageno’s Pocket-Size , concerto for bells and orchestra (1956)",
+      "year": "1956"
+    },
+    {
+      "title": "Les Symphonies de timbres for orchestra (1957)",
+      "year": "1957"
+    },
+    {
+      "title": "Chants et prismes for orchestra (1957)",
+      "year": "1957"
+    },
+    {
+      "title": "Exerque pour une symphonie for tape (1957)",
+      "year": "1957"
+    },
+    {
+      "title": "Passacaille for tape (1957)",
+      "year": "1957"
+    },
+    {
+      "title": "Chanson populaire for tape (1957)",
+      "year": "1957"
+    },
+    {
+      "title": "L’amen de verre for tape (1957)",
+      "year": "1957"
+    },
+    {
+      "title": "Ständchen sur le nom de Heinrich Strobel for orchestra (1958)",
+      "year": "1958"
+    },
+    {
+      "title": "Petite musique de nuit , mobile for orchestra (1958)",
+      "year": "1958"
+    },
+    {
+      "title": "Séquences [1st version] for violin and orchestra divided into 4 groups (1958)",
+      "year": "1958"
+    },
+    {
+      "title": "Interpolation , mobile for flute (1, 2 or 3 flutes or tape recordings) (1958)",
+      "year": "1958"
+    },
+    {
+      "title": "Liaisons , mobile for vibraphone and marimbaphone for 1 performer and tape or for 2 performers (1958)",
+      "year": "1958"
+    },
+    {
+      "title": "Séquences [2nd version] for violin and chamber orchestra (1958-88)",
+      "year": "1958-88"
+    },
+    {
+      "title": "Décisions , 10 graphic scores for unspecified sound sources (1959-71)",
+      "year": "1959-71"
+    },
+    {
+      "title": "Jeux 6 , mobile for 6 percussionists (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Credentials or “Think, Think Lucky” for voice (speaker) and 8 instrumentalists (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Mobile for Shakespeare for voice and 6 instrumentalists (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Twice for Cathy for voice and tape (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Prosa-Texte [1st version] for 4 reciting choirs (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Prosa-Texte [2nd version] for 2 reciting choirs and 2 layers on tape (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Prosa-Texte [3rd version] for reciting choir and 3 layers on tape (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Vermutungen über ein dunkles Haus for 3 orchestras, including two on pre-recorded tape (1962-63)",
+      "year": "1962-63"
+    },
+    {
+      "title": "Amerika , opera in 2 parts after Franz Kafka (1962-64)",
+      "year": "1962-64"
+    },
+    {
+      "title": "Jeux 2 , mobile for 2 percussionists (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Rounds for 6 performers (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Multiple 1 for 2 string instruments ad libitum (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Multiple 2 for 3 string instruments, 2 woodwinds and 2 brass instruments ad libitum (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Multiple 3 for 2 string instruments, 2 woodwinds and 2 brass instruments ad libitum (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Multiple 4 for 1 woodwind and 1 brass instrument ad libitum (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Multiple 5 for 1 string instrument and 1 brass instrument ad libitum (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Multiple 6 for 1 string instrument and 1 brass instrument ad libitum (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Klavierstücke I for piano (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Alone 1 , graphic score for unspecified low instrument and percussion ad libitum (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Jeux 4 , mobile for 4 percussionists (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Tableau I for orchestra (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Psalm for orchestra (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Symphonie “K” for orchestra (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Comédie , anti-opera in one act after Samuel Beckett (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Catch 1 for 1 or 2 harpsichords (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Catch 2 for 1 or 2 pianos (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Divertimento , text collage by the composer after Plato and others, for actors, dancers and (or) mimes, 2 percussionists, tape or live electronics ad libitum (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Alone 2 , graphic score for ensemble (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Batterie , graphic score for percussion (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Describe for voice and piano (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Tableau II for orchestra (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Ludus musicalis , 12 models for groups of young musicians and for school orchestras (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Madrigal for 4-part mixed unaccompanied choir (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Tableau III for orchestra (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Multiple 7 for trumpet and cello (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Konstellationen – mixed media , 25 sheets of graphic score (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "In memoriam Igor Strawinsky , graphic score for unspecified instrument (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Chorographie I for 3 unaccompanied choirs (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Act-if , graphic score for ensemble (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Discours , graphic score for guitar and speaker (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Duo , graphic score for guitar and percussion (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Kreise , graphic score for speaker and percussion (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "La sonnambula , graphic score for Sprachgesang and guitar ad libitum (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Frame , graphic score for solo guitar (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Kammermusik for orchestra (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Poetics I für James Joyce. The Moon Is Still Blue , graphic score for ensemble (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Poetics II für James Joyce. Speload Mc , graphic score for ensemble (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Solo , graphic score for any string instrument (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Concerto a tre for piano, trombone and percussion (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "String Quartet No. 1 (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Hexachord 1 and 2 for 1 or 2 guitars (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Shapes 1 for organ (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Shapes 2 for organ, piano, harpsichord and celesta for 1, 2 or 4 performers (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Pour piano , graphic score (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Sonans , graphic score for vocal ensemble and tape or live electronics ad libitum (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Musik für 12 Instrumente (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Concerto per archi (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Cello Sonata (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Endless for 7 performers (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Chordophonie 1 , mobile for harpsichord (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Chordophonie 2 , mobile for clavichord (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Symphonien for orchestra (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "String Quartet No. 2 (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Song for percussion (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Self I for bass clarinet (or clarinet) and live electronics (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Self II for alto saxophone and live electronics (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Polyphonien for 1-4 orchestras or orchestra with tape (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Ulysses. Scenen einer Wanderung – ballet – 12 scenes for tape (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Nocturnes I for orchestra (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Nocturnes II for orchestra (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Ohne Titel , graphic score for organ (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Sonate für Klavier (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Musik für zwei Klaviere (1983-84)",
+      "year": "1983-84"
+    },
+    {
+      "title": "Cantando for 6 performers (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Mirrors/Miroirs I , mobile for 16 pianos (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Mirrors/Miroirs II , mobile for 8 pianos (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Mirrors/Miroirs III , mobile for 6 pianos (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Schlossbergmusik , sound installation (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Nocturnes III for orchestra (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "String Trio No. 2 (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Enchaîné for saxophone quartet (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Für Kandinsky , trio for flute, oboe and clarinet (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Sottovoce for chamber orchestra (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Trio (Enchaîné II) for flute, oboe and piano (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Imaginaire for orchestra (1986-87)",
+      "year": "1986-87"
+    },
+    {
+      "title": "Zeichen für S.B. – graphic score for soloists and orchestra of plucked string instruments (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Beaubourg musique for chamber orchestra (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Cathédrale I for solo harp (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Cathédrale II , mobile for 2-16 harps (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Extensions for 1 or 2 marimbas (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "For Boguslaw Schaeffer for flutes, accordion, percussion, keyboard instrument and computer (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Deux préludes for guitar (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Invocations for chamber orchestra (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Pluriel [1st version], mobile for 2 violins, viola and cello (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Pluriel [2nd version], mobile for violin, viola and cello (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Pluriel [3rd version], mobile for violin and viola (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Pluriel [4th version], mobile for violin and cello (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Pluriel [5th version], mobile for viola and cello (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Tenebrae for tape (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Tenebrae II for tape and piano (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Adagio I for tape (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Adagio I for tape (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Morendo for tape (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Morendo II for flute and tape (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Unruhiges Wohnen – ballet (1991-92)",
+      "year": "1991-92"
+    },
+    {
+      "title": "Nouvoletta I , mobile for flute, piano, percussion and cello (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Nouvoletta II , mobile for flute, piano, percussion and cello (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Nouvoletta II , mobile for flute, piano, percussion and cello (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Nouvoletta III , mobile for flute, harp, percussion and celesta (or harpsichord) (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Nouvoletta IV , mobile for flute, percussion, cello and celesta (or harpsichord) (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Nouvoletta V , mobile for flute, cello and percussion (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Nouvoletta VI , mobile for flute, percussion and celesta (or harpsichord) (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Nouvoletta VII , mobile for cello, percussion and celesta (or harpsichord) (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Equilibre for chamber ensemble (1993)",
+      "year": "1993"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Krawczyk Dorota, Roman Haubenstock-Ramati – kompozytor nieznany, in: Muzyka źle obecna (ed. by Krystyna Tarnawska-Kaczorowska), Sekcja Muzykologów Związku Kompozytorów Polskich, Warszawa 1989 Roman Haubenstock-Ramati. Informacje, artykuły, wycinki prasowe [ Information, Articles, Press Cuttings ], Universal Edition, Wiedeń 1994 Roman Haubenstock-Ramati (1919-1994), ISCM Austria, Wiedeń 1994 Kowalska-Zając Ewa, Oblicza awangardy. Roman Haubenstock-Ramati [ Faces of the Avant-Garde. Roman Haubenstock-Ramati ], Akademia Muzyczna w Łodzi, Łódź 2000 Kowalska-Zając Ewa, Na styku kultur – serializm w twórczości Romana Haubenstocka-Ramatiego [At the Meeting Point of Cultures – Serialism in the Works of Roman Haubenstock-Ramati], in: Polska muzyka współczesna. Kierunki - idee – postawy (ed. by Magdaleny Dziadek and Daniela Kadłubca), Związek Kompozytorów Polskich \u0013 Oddział w Katowicach, Uniwersytet Śląski \u0013 Filia w Cieszynie, Katowice 2001",
+  "slug": "haubenstock-ramati-roman-en"
+}

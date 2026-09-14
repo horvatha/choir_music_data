@@ -1,0 +1,63 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/j/jarzynski-dawid-en",
+  "title": "Jarzyński Dawid",
+  "name": "Jarzyński Dawid",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Symfonia koncertująca PATRI PATRIAE op. 1 na klarnet i orkiestrę (2001-2010)",
+      "year": "2001-2010"
+    },
+    {
+      "title": "Ostinato op. 2 na 11 instrumentów (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Quartet op. 3 na 14 instrumentów (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Constructions op. 4 na 5 instrumentów (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Partita op. 6 na klarnet solo (2004-2007)",
+      "year": "2004-2007"
+    },
+    {
+      "title": "Oboe Sonata op. 5 (2004-2010)",
+      "year": "2004-2010"
+    },
+    {
+      "title": "Oko za oko op. 7 na wiolonczelę i fortepian (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Unilaterality op. 8 dla jednego wykonawcy na klarnet, fortepian i perkusję (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Märchenfiguren op. 9 na klarnet, altówkę, fortepian i instrumenty zabawki (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Manuscripts of the future. Sounding views op. 10 dla dwóch wykonawców (2010)",
+      "year": "2010"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "jarzynski-dawid-en"
+}

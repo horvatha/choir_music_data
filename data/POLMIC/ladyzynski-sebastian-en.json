@@ -1,0 +1,215 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/l-1/ladyzynski-sebastian-en",
+  "title": "Ładyżyński Sebastian",
+  "name": "Ładyżyński Sebastian",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "composer, b. 28th August 1985 in Wrocław. In 2009 he graduated with an MA in composition and in 2014 he obtained a PhD at the Academy of Music in Wrocław. In 2009 – 2011 he studied at Postgraduate Studies in Film and Computer Music and Audiovisual Art at the Academy of Music in Łódź and at the National Łódź Film School. In 2012 – 2013 he studied composition at the King’s College in London. Since 2015 he has been leading the Theatre and Film Music Studio at the Academy of Music in Wrocław. He is the laureate of many composition competitions and his music was presented in several countries, including Australia, Austria, Belarus, Bosnia and Herzegovina, Brazil, Croatia, France, Georgia, Germany, Great Britain, Greece, Japan, Poland, Romania, Russia, Serbia, and Ukraine. Sebastian Ładyżyński composes music for theatre plays, short films and music performances. He also works as an arranger, sound recordist and music producer. He is Sound Factory Orchestra's sound engineer and producer. He has been a member of the Youth Circle of the Polish Composers’ Union since 2008. updated: December 2015 (ac) Composer's website: www.ladyzynski.com",
+  "birth": {
+    "place": "Wrocław",
+    "date": "28th August 1985",
+    "raw": "b. 28th August 1985 in Wrocław"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "7o7 for flute, cello and piano (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Marchewkowe pole na 15 intrumentów smyczkowych (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Plasmodium vivax part I & II (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Speely Suite for percussion instruments (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Kamea for symphony orchestra (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "just breathe! for flute solo (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "La Luna for voice and piano (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Nastri for 6 instruments (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Introit, Kyrie, Gloria , triptych for large symphony orchestra and choir (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Vento for violin and electronics (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Las 0.1a for electronics and a group of children (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Missa Spei for large symphony orchestra and choir (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Spells and hexes for fltue and harp (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "On the Revolutions of the Heavenly Spheres for chamber orchestra (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Konghou for harp and electronics (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Freedom for tape (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Inny Chopin na taśmę (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Vinyl and Vi for viola solo (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Music to the animated film A Dynamic Rectangle , dir. Józef Robakowski, Leon Schiller National Film, Television and Theatre School, Łódź (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Music to the animated film The Awakening , dir. Izumi Yoshima, Leon Schiller National Film, Television and Theatre School, Łódź (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Music to the animated film Protozoa , dir. Anita Kwiatkowska-Naqvi, Leon Schiller National Film, Television and Theatre School, Łódź (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "SU536 for bassoon and electronics (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Music to the animated film Mirage , dir. Izumi Yoshima, Leon Schiller National Film, Television and Theatre School, Łódź (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Boroughs for string orchestra, drum set, bass guitar and tape (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Lost in translation for 6 instruments (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Music to the animated film Point Zero , dir. Anna Niesler, Eugeniusz Geppert Acaemy of Art and Design in Wrocław (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Music to the animated film Kigo , dir. Izumi Yoshima, Leon Schiller National Film, Television and Theatre School, Łódź (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Kaleidoscope for orchestra (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Live in the Universe for orchestra (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Inspirations for orchestra and electronics (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Helix for viola da gamba, hara and electronics (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Dark Matter for flute, orchestra and electronics (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Music to the film Aorta , dir. Daniel Wawrzyniak, Leon Schiller National Film, Television and Theatre School, Łódź (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Music to the film Red Lili , dir. Leyla Comert, Leon Schiller National Film, Television and Theatre School, Łódź (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Music to the film Caucasus , dir. Bolek Kielak, Clemence Thurninger, Daniel Wawrzyniak, Leon Schiller National Film, Television and Theatre School, DVD, Łódź (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Music to the film Easter , dir. Monika Jordan Młodzianowska, Banana Split, DVD - Studio Munka (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Music to the film Kinki-Tabu , dir. Izumi Yoshida, film 10', Film School in Łódź, Fumi Studio (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Muzyka do filmu Zdarzenie plastyczne , reż. Tymon Albrzykowski, Szkoła Filmowa w Łodzi, Fumi Studio (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Music to the theatre play The Trial by Franz Kafka, dir. Aleksander Maksymiak, Ludwik Solski Academy for the Dramatic Arts in Wrocław (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Music to the theatre play Balladyna by Juliusz Słowacki, dir. Beata Pejcz, Ludwik Solski Academy for the Dramatic Arts in Wrocław (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Music to the theatre play Signed With Three Crosses by Helmut Kajzar, dir. Teresa Sawicka, Ludwik Solski Academy for the Dramatic Arts in Wrocław (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Music to the theatre play Ubu the King by Alfred Jarry, dir. Michał Derlatka, Ludwik Solski Academy for the Dramatic Arts in Wrocław (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Music to the theatre play The Strange Rider by Michel de Ghelderode, dir. Anna Proszkowska, Ludwik Solski Academy for the Dramatic Arts in Wrocław (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Music to the theatre play Witches in the Library by Pierre Gripari, dir. Michał Derlatka, Zdrojowy Teatr Animacji, Jelenia Góra - Cieplice (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Music to the theatre play Like Clockwork , dir. Joanna Gerigk, Wrocław Puppet Theater (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Music to the theatre play Jak se dělá divadlo , dir. Joanna Gerigk, Theatre No Kabakus, Prague, Czech Republic (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Music to the theatre play Zen Cat , dir. Joanna Gerigk, Zdrojowy Teatr Animacji, Jelenia Góra-Cieplice (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Music to the theatre play Solartaxi , dir. Joanna Gerigk, Theatre \"Mask\", Rzeszów (2015)",
+      "year": "2015"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "ladyzynski-sebastian-en"
+}

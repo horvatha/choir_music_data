@@ -1,0 +1,103 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/p/podobinski-jozef-en",
+  "title": "Podobiński Józef",
+  "name": "Podobiński Józef",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "composer, teacher; b. 17th March 1925 in Polna near Gorlice, d. 16 May 1993 in Siemianowice. In 1955, he graduated from the Department of Theory Composition and Conducting at the State University of Music in Katowice in the class of Jan Gawlas. In 1961, he began teaching, which he continued for 20 years, among others at the State University of Music in Katowice. For his educational work, he was awarded the 1982 Karol Szymanowski Prize in Katowice. In the years 1965-1968 he worked as a music consultant at the television station in Katowice. He composed music for various television programmes, among them, U Bregułów na Zawodziu and Przy sobocie po robocie (entertainment programs provided for the occasion of Miner's Day with the participation of great artists such as: Alina Janowska, Halina Kunicka, Krystyna Sienkiewicz) and also programmes for the occasion of the Silesian Uprisings and others. He received many awards, including Award of the Minister of Culture and Art – individual 3rd grade award for special achievements in the field of teaching and education (1972), Silver Cross of Merit (1975), Golden Cross of Merit (1977), Golden Badge of Merit in the development of the Katowice Province (1979), Knight's Cross of the Order of Rebirth of Poland (1987). Joseph Podobiński belonged to the Polish Union of Authors and Composers since 1948 and to the Polish Composers' Union since 1962. updated: 2019 (ac) Composer's website : http://www.jozefpodobinski.com",
+  "birth": {
+    "place": "Polna near Gorlice",
+    "date": "17th March 1925",
+    "raw": "b. 17th March 1925 in Polna near Gorlice"
+  },
+  "death": {
+    "place": "Siemianowice",
+    "date": "16 May 1993",
+    "raw": "d. 16 May 1993 in Siemianowice"
+  },
+  "works": [
+    {
+      "title": "Variations for violin and piano (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "Concerto for trombone and orchestra (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Overture for symphony orchestra (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Quintet I for wind instruments (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "Jazz Symphony (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Rhapsody I for symphony orchestra (1961)",
+      "year": "1961"
+    },
+    {
+      "title": "Suita dziecięca na skrzypce i fortepian (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Rapsodia II na orkiestrę symfoniczną (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Symphony II for large symphony orchestra (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Jazz Rhapsody (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Brilliant Butler operetta in three acts (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Sold Talent musical in two acts (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Jazz Impressions for trombone solo and symphony orchestra or piano (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Symphony III for string orchestra (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Quartetto in Blue for string quartet (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Quintet II for wind instruments (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Quintet III for wind instruments (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Star Trail for solo trombone and symphony orchestra (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Music, tempo, rhythm for large wind orchestra (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Transformations for large wind orchestra (1985)",
+      "year": "1985"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "podobinski-jozef-en"
+}

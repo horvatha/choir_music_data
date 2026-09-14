@@ -1,0 +1,75 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/d/dominiczak-robert-en",
+  "title": "Dominiczak Robert",
+  "name": "Dominiczak Robert",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Koncert na orkiestrę smyczkową nr 1 (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Koncert na orkiestrę smyczkową nr 3 (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Duet dziecięcy na skrzypce i fortepian (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Cztery Jasio konie miał , temat ludowy na flet i orkiestrę smyczkową (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Kwintet dęty nr 1 (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Kwartet fortepianowy nr 1 (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Scherzo na orkiestrę smyczkową (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Suita góralska na orkiestrę symfoniczną (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Concertino dziecięce na dwoje skrzypiec i fortepian (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Finale na organy (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Muzyka do utworu poetyckiego Baśń o woju Radomirze (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Muzyka do filmu Bug – przyrodnicza perła Polski w reż. Sławomira Wąsika (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Muzyka do filmu Powrót bobra w reż. Sławomira Wąsika (2006)",
+      "year": "2006"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "dominiczak-robert-en"
+}

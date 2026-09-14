@@ -1,0 +1,175 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/k/knapik-eugeniusz-en",
+  "title": "Knapik Eugeniusz",
+  "name": "Knapik Eugeniusz",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": "Polish composer and pianist, b. 9th July 1951 in Ruda Śląska. In 1970-76, he studied composition with Henryk Mikołaj Górecki and piano with Czesław Stańczyk at the State Higher School of Music in Katowice (now the Music Academy). In 1976, he received a French government scholarship to study composition with Olivier Messiaen in Paris. At present he holds the post of professor at the Department of Composition, Conducting and Music Theory at the Music Academy in Katowice. He is the founder and director (since 1992) of the Computer and Electroacoustic Music Studio at that academy. As a pianist, he gives performances in Poland and abroad, playing mostly 20th century piano works. He has widely recorded for the radio and television as well as record companies. Eugeniusz Knapik has won numerous prizes as a composer and pianist, including, in 1976 - a prize of the Festival of Polish Piano Interpretation in Słupsk, as well as 2nd prize in the Young Composer's Competition of the Polish Composers' Union for Le Chant for soprano and orchestra (1976); in 1977 - 3rd prize in the International Chamber Music Competition in Vienna for Concerto grosso for chamber orchestra (1972-77); in 1979 - 1st prize at the \"Young Musicians for the Young City\" Festival in Stalowa Wola for Corale, interludio e aria for flute, harpsichord and strings (1978); in 1985 - the Stanisław Wyspiański Award for Wyspy [ Islands ] for chamber string orchestra (1983-84). His compositions twice represented the Polish Radio at the International Unesco Rostrum of Composers in Paris: in 1978 his La Flute de jade for soprano and orchestra (1973) was recommended, and in 1984 his String Quartet (1980) was selected. In the same year, the composer was granted the annual Prize of the Polish Composers' Union as well as the Minister of Culture and Arts Award. In 1985, he received the Polyhymnia Award for chamber music. In 1988, Eugeniusz Knapik started his work on an opera trilogy entitled The Minds of Helena Troubleyn to a libretto by Jan Fabre, which had been commissioned by the director of Opera la Monnaie in Brussels. In 1990, the first part of this cycle - Das Glas im Kopf wird vom Glas (1988-90) - was premiered in De Vlaamse Opera in Antwerp. In 1992, the 2nd part - Silent Screams, Difficult Dreams (1990-92) - had its first performance during the Documenta IX in Kassel. During the 1996 \"Warsaw Autumn\" International Festival of Contemporary Music, the first stage performance of part 3 - La liberta chiama la liberta (1993-95) - took place. In collaboration with Jan Fabre, Knapik has also staged ballet spectacles: The Sound of One Hand Clapping (1991), Da un'altra faccia del tempo (1993) and Quando la terra si rimette in movimento (1995), and Three Solos (1995).",
+  "birth": {
+    "place": "Ruda Śląska",
+    "date": "9th July 1951",
+    "raw": "b. 9th July 1951 in Ruda Śląska"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Three Miniatures for Piano (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Sonata for Violin and Piano (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Sonata for solo flute (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Concerto grosso no. 1 for chamber orchestra (1972-77)",
+      "year": "1972-77"
+    },
+    {
+      "title": "La Flute de jade for soprano and orchestra to words by Chinese poets (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Psalms for solo voices, mixed choir and great symphony orchestra (1973-75)",
+      "year": "1973-75"
+    },
+    {
+      "title": "Le Chant for soprano and orchestra to texts by Paul Valéry (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Tak jak na brzegu morza... for instrumental ensemble and tape to a text by Paul Valéry (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Corale, interludio e aria for flute, harpsichord and string ensemble (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "String Quartet (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Partita for violin and piano (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Hymn for clarinet, trombone, cello and piano (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Versus I for organ (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Islands for chamber string orchestra (1983-84)",
+      "year": "1983-84"
+    },
+    {
+      "title": "Strophes for baritone, horn and organ (1984-85)",
+      "year": "1984-85"
+    },
+    {
+      "title": "Das Glas im Kopf wird vom Glas , opera in 8 scenes to a libretto by Jan Fabre - Part 1 of an opera trilogy The Minds of Helena Troubleyn (1987-89)",
+      "year": "1987-89"
+    },
+    {
+      "title": "Silent Screams, Difficult Dreams , opera in 4 scenes - Part 2 of an opera trilogy The Minds of Helena Troubleyn (1990-92)",
+      "year": "1990-92"
+    },
+    {
+      "title": "The Sound of One Hand Clapping , ballet to a libretto by Jan Fabre (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Da un'altra faccia del tempo , ballet to a libretto by Jan Fabre (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "La liberta chiama la liberta , opera in 5 scenes - Part 3 of an opera trilogy The Minds of Helena Troubleyn (1993-95)",
+      "year": "1993-95"
+    },
+    {
+      "title": "Quando la terra si rimette in movimento , ballet to a libretto by Jan Fabre (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Three Solos , ballet to a libretto by Jan Fabre (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Up Into the Silence , songs for soprano, baritone, string ensemble and orchestra to words by Edward E. Cummings and Jan Fabre (1996-2000)",
+      "year": "1996-2000"
+    },
+    {
+      "title": "Tha' Munnot Waste No Time for three (or two) pianos and clarinet (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "I'm Coming Near You for soprano and chamber orchestra to words by Edward Stachura (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Trio for violin, clarinet and piano (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Introduction to Mystery for tenor, choir and orchestra (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Filo d’Arianna for cello solo (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Moby Dick , opera (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Tha'munnot waste no time for three pianos and clarinet (ad libitum) (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Beauty Radiated in Eternity for choir and orchestra (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Concerto of Song Offerings for piano, mixed choir and orchestra (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Canticum puerorum for soprano, baritone, choir and orchestra (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Blessing Gentle Breeze for mixed choir and orchestra (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "String Quartet No. 2 (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "A Long Journey for mezzo-soprano, baritone and string orchestra (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Gdy... for soprano and string orchestra (2020–2021)",
+      "year": null
+    },
+    {
+      "title": "Blue Sea and Sails for 8-part mixed choir a cappella (2021)",
+      "year": "2021"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Kosz Stanisław, Eugeniusz Knapik - \"Wyspy\" [Eugeniusz Knapik - \"Islands\"], In: Muzyka polska 1945-1995 [Polish Music 1945-1995] (ed. by Krzysztof Droba, Teresa Malecka, Krzysztof Szwajgier), Akademia Muzyczna w Krakowie, Kraków 1996 Baculewski Krzysztof, Knapik Eugeniusz, In: Encyklopedia Muzyczna PWM (część biograficzna pod red. Elżbiety Dziębowskiej) [The PWM Encyclopaedia of Music - biographical part, ed. by Elżbieta Dziębowska], vol. \"klł\", PWM, Kraków 1997 Bias Iwona, Eugeniusz Knapik. Kompozytor i pianista [Eugeniusz Knapik. The Composer and the Pianist.], Akademia Muzyczna w Katowicach, Katowice 2001 Thomas Adrian, Knapik Eugeniusz, In: The New Grove Dictionary of Music and Musicians. Second Edition (ed. Stanley Sadie), vol. 13, Macmillan Publishers Limited, London 2001",
+  "slug": "knapik-eugeniusz-en"
+}

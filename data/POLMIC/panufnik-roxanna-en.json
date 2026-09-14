@@ -1,0 +1,507 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/p/panufnik-roxanna-en",
+  "title": "Panufnik Roxanna",
+  "name": "Panufnik Roxanna",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "British composer of Polish heritage, daughter of Andrzej Panufnik; b. 24th April 1968 in London, United Kingdom. She graduated from composition studies at the Royal Academy of Music under Paul Petersson, Melanie Daiken and Hanz Werner Hanze. She also studied harp at the same academy. After studies, she started working as a journalist for the BBC 3 radio, for which in 1993 she prepared a series of programmes about Andrzej Panufnik’s works. She also worked as a music consultant for BBC television. In the 1995/96 season, she was a resident composer in the Berkshire County, teaching composition to about 300 children, and then, in the 1996/97 school year, she implemented the composition programme at schools in Barbados and participated in educational programmes in London. She has written a wide range of pieces – opera, ballet, music theatre, choral works, orchestral and chamber compositions, and music for film and television – which are performed all over the world. From 1997 comes one of the Panufnik's most-performed pieces – Westminster Mass , commissioned by Westminster Cathedral on the occasion of the 75th anniversary of the birth of Cardinal Basil Hume. Her other important works include: The Music Programme (1999)– an opera commissioned by the Grand Theatre – National Opera in Warsaw, Powers & Dominios (2001) for harp and orchestra, Beastly Tales (2001-02) for solo voices and orchestra, to texts by Vikram Setha, The Crocodile and the Monkey (2001-02) commissioned by the BBC for Patricia Rozario and the City of London Sinfonia, The Frog and the Nathingale (2003) for the City of London Sinfonia, Leda (2003), ballet written for the English National Ballet and the \"Wratislavia Cantans\" festival, and Letters from Burma (2004) for oboist Douglas Boyd and the Vellinger Strings Quartet. Roxanna has a great love of world music. Her Dance of Life: Tallinn Mass (in Latin and Estonian) for Tallinn Philharmonic was commissioned to celebrate Tallinn’s reign as European Capital of Culture 2011. The world premiere of her Four World Seasons was picked by BBC Radio 3 to launch their Music Nations weekend, celebrating the London 2012 Summer Olympics. The four-part work was dedicated to the violinist Tasmin Little with the exception of the first part, which the composer dedicated to the memory of her father, Andrzej Panufnik. Her album Love Abide (2019, Signum Classics) includes choral works on the theme of spiritual love – celebrating music, texts and chants of a diversity of faiths. She is especially interested in building musical bridges between faiths and her first project in this field was the violin concerto Abraham , commissioned for Daniel Hope, incorporating Christian, Islamic and Jewish chant to create a musical analogy for the fact that these three faiths believe in the same one God. This work was subsequently converted into an overture for the World Orchestra for Peace and premiered in Jerusalem and London under the baton of Valery Gergiev, in 2008 and at the 2014 BBC Proms. 2018, Roxanna’s 50th Birthday year, saw some exciting commissions and premieres for the BBC Last Night of the Proms and a co-commissioned oratorio Faithful Journey – a Mass for Poland for City of Birmingham Symphony Orchestra and National Radio Symphony Orchestra of Poland, marking Poland’s centenary as an independent state. In 2019 Roxanna finished an epic work Ever Us… , celebrating Beethoven’s 250th birthday, for the Rundfunkchor Berlin, Rundfunk Symphony Orchestra and 9 other choirs from all over the world, to be premiered at the Berlin Philharmonie in 2020. Roxanna’s compositions are published by Peter’s Edition Ltd and recorded on many labels including Warner Classics, Signum, Chandos, and EMI Classics. updated: 2020 (ac)",
+  "birth": {
+    "place": "London",
+    "date": "24th April 1968",
+    "raw": "b. 24th April 1968 in London"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Prayer na głos i keyboard (1990-99)",
+      "year": "1990-99"
+    },
+    {
+      "title": "Virtue [wersja I] na mezzosopran i orkiestrę smyczkową (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Virtue [wersja II] na mezzosopran i fortepian (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Piano Tuner, Untune Me That Tune na narratora i fortepian (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Time Piece na 3 głosy żeńskie, 2 głosy męskie, gitarę i wiolonczelę (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Colombine Too [wersja I] na mezzosopran, flet, klarnet, skrzypce, wiolonczelę i fortepian (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Colombine Too [wersja II] na klarnet, kwartet smyczkowy i fortepian (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Around Three Corners na skrzypce, wiolonczelę i fortepian (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Inkle and Yarico opera (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Olivia [wersja I] na kwartet smyczkowy (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Olivia [wersja II] na chór głosów wysokich (lub chór dziecięcy) i kwartet smyczkowy (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "A Wind at Rooks Haven [wersja I] na mezzosopran i flet (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "A Wind at Rooks Haven [wersja II] na flet i klarnet (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Westminster Mass [wersja I] na dyszkant lub sopran solo, chór mieszany, 2 harfy, dzwony rurowe i smyczki (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Westminster Mass [wersja II] na dyszkant lub sopran solo, chór mieszany i organy (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Westminster Mass [wersja III] na dyszkant lub sopran solo, chór mieszany, harfę, dzwony rurowe i organy (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Spring na chór mieszany i organy (lub fortepian) (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "A Wind at Rooks Haven na flet solo (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Angels Sing! [wersja I] na chór mieszany lub chór głosów wysokich i orkiestrę (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Angels Sing! [wersja II] na chór mieszany lub chór głosów wysokich i fortepian (lub keyboard) (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "The Upside Down Sailor na narratora, flet (lub flet piccolo), 2 oboje, 2 klarnety, 2 fagoty i 2 rogi (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "The Music Programme opera kameralna (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Mine Eye na mezzosopran i fortepian (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "The Sweet Spring na chór żeński i fortepian (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Private Joe [wersja I] na baryton i kwartet smyczkowy (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Private Joe [wersja II] na baryton i orkiestrę smyczkową (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Laughing Song na chór mieszany a cappella (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Sleep, Little Jesus, Sleep [wersja I] na sopran solo, chór mieszany i organy (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Prayer na sopran solo i podwójny chór (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Undiscover'd Country na skrzypce i chór mieszany (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Suite Memories na dęty zespół symfoniczny (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Prayer na zespół instrumentów dętych blaszanych (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Douai Missa Brevis na sopran solo, baryton solo i chór mieszany (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Remember na tenorowy flet prosty i klawesyn (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Spirit Moves na kwintet instrumentów dętych blaszanych (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Powers & Dominions concertino na harfę i orkiestrę (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Beastly Tales na sopran i orkiestrę (2001-2002)",
+      "year": "2001-2002"
+    },
+    {
+      "title": "The Crocodile & the Monkey na sopran, mezzosopran, baryton i orkiestrę (2001-2002)",
+      "year": "2001-2002"
+    },
+    {
+      "title": "The Christmas Life na sopran solo, baryton solo i chór mieszany (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "fff ( Fulham Festival Fanfare ) na organy solo (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "The Frog & the Nightingale na sopran, mezzosopran, baryton i orkiestrę (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "The Unexpected Heart na baryton i fortepian (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "If I Don't Know cykl pieśni na sopran i fortepian (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Second Home [wersja I] na fortepian solo (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Leda balet (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Leda [wersja koncertowa] na orkiestrę kameralną (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Abraham. Concerto for Hope na skrzypce i orkiestrę (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Ave Maria na chór żeński i organy (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Letters from Burma for oboe and string quartet (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Letters from Burma for oboe and string orchestra (2004/2015)",
+      "year": null
+    },
+    {
+      "title": "All in Tune [1st version] for high voices and organ (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "All in Tune [2nd version] for high voices, organ, flute, tambourine and drum (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Sweet Love Remember'd for alto and piano (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "A Kind of Otherness for 12 voices solo (or choir) a cappella (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "The Hare & the Tortoise for soprano, mezzo-soprano, baritone and orchestra (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Flight of the Bumblebee for cello solo and chamber orchestra (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Love Abide for alto solo, baritone solo, mixed choir, organ, harp and strings (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Sleep, Little Jesus, Sleep [2nd version] for soprano solo (or small group), mixed choir and piano (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Second Home [2nd version] for string quartet (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Homage to Haendel for cello solo (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Declare the Wonders for mixed choir and organ (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Rose for solo violin and chamber ensemble (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Four World Seasons for solo violin and string orchestra (2007-2011)",
+      "year": "2007-2011"
+    },
+    {
+      "title": "Winter’s Near for tenor, English horn and piano (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "The Mighty Heart for mezzo-soprano and piano (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "A Summer Wish for choir and orchestra (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Matenik for orchestra (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Three Paths to Peace for orchestra (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "The Generation of Love for tenor, English horn and piano (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "All Shall Be Well for choir and cello solo (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Schola Missa de Angelis [1st version] for solo voices, mixed choir and wind octet (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Schola Missa de Angelis [2nd version] for solo voices, mixed choir and organ (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Schola Missa de Angelis [3rd version] for solo voices, mixed choir and orchestra (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "The Audience for narrator and string quartet (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "The Generation of Love for tenor, French horn and piano or strings (2009-2014)",
+      "year": "2009-2014"
+    },
+    {
+      "title": "The Call for mixed choir (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Let me in for 12 solo voices (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Magnificat & Nunc Dimittis for mixed choir and organ (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Cantator & Amanda for bassoon solo and string quartet (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Tallinn Mass for female choir, mixed choir and chamber orchestra (or bells, kannell/harp and organ) (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Dance of Life (inc. Tallinn Mass) for soprano solo, narrator, female choir, mixed choir and chamber orchestra (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Love Endureth for mixed choir (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Felicem Natalem for mixed choir (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Fairfield Fanfare for large chamber orchestra (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Great Dickens! for large chamber orchestra (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "The Song of Names for baritone solo, female choir, mixed choir and chamber orchestra (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Alma Redemptoris Mater for mixed choir (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Hymn to St Alfege for double mixed choir and organ (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Orchestrapædia for large chamber orchestra (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Two Composers, Four Hands for double string orchestra (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Celestial Bird for mixed choir (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Memories of my Father for string quartet (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Music to Hear for baritone and piano (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "St Pancras Magnificat & Nunc Dimittis for mixed choir (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Since we Parted for mixed choir, 2 trumpets, harp, piano and cello (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Down the Rabbit Hole for violin and piano (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "COMAchord for flexible wind/brass ensemble (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Kyrie after Byrd for mixed choir (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Was Gott Tut for organ (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Dances with Derwid for piano quintet (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Shosholoza for double bass and piano (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "The Tablet of your Heart for mixed choir and organ (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Heav'nly Harmony for mixed choir and organ (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Hora Bessarabia for violin solo or duet with double bass (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "O Hearken for mixed choir (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "LOLlaby for clarinet and piano (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Silver Birch, opera (2015-2016)",
+      "year": "2015-2016"
+    },
+    {
+      "title": "Summer to Winter for soprano, cello and piano (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "St Aidan's Prayer for mixed choir and organ (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "99 Words To my Darling Children for narrator, mixed choir and cello (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Unending Love for mixed choir, optional Carnatic singer, Indian violin, sitar, veena and Indian percussion (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Deus est Caritas for mixed choir and organ (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Child of Heaven for mixed choir (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Faithful Journey - a Mass for Poland for soprano solo, symphony chorus and symphony orchestra (2017-2018)",
+      "year": "2017-2018"
+    },
+    {
+      "title": "Ubi Caritas for upper voices and piano (or organ) (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "The Gift of Music for mixed choir, baritone solo and organ (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Canto for viola solo (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Songs of Darkness, Dreams of Light for chamber choir, symphony chorus and symphony orchestra (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Hal'lu Alleluia for mixed choir and organ (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Four Choral Seasons for double mixed choir and chamber orchestra (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Ever us for 10 choirs and symphony orchestra (2020)",
+      "year": "2020"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "panufnik-roxanna-en"
+}

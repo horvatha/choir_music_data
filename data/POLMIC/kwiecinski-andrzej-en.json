@@ -1,0 +1,147 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/k/kwiecinski-andrzej-en",
+  "title": "Kwieciński Andrzej",
+  "name": "Kwieciński Andrzej",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "composer, b. 11th June 1984 in Warsaw. He graduated from the J. Elsner State Secondary Music School in Warsaw, where he studied composition with Sławomir Czarnecki (1999-2005), electroacoustic music with Jan Oleszkowicz (2001-2003) and baroque vocal technique. He studied musicology at the History Department of the University of Warsaw (2003-2004) and composition in the Royal Conservatory of The Hague with Richard Ayers, Diderik Hakmy-Wagenaar, Martijn Padding, Yannis Kyriakides and Louis Andriessen (2005-2011). He participated in master classes taught by Rozalie Hirs (2005-2006), Tristan Murail (2006), Luca Francesconi (2012-2013), Willem Bruls (libretto writing, 2012), as well as Manfred Trojahn and Esa-Pekka Salonen (opera creation, 2013). Andrzej Kwieciński is a finalist and winner of many prestigious competitions, e.g. the 9th Tokyo International Competition for Chamber Music Composition (2004), the “Creative Valley” competition of the Polish state broadcaster TVP (2009, 1st prize), “Young Masters XXI” Competition for Composers (2010, 1st prize), Henriëtte Bosmans Prize (2011) and Gaudeamus Prize (2012). In 2005 he received the Polish Minister of Culture Award in 2006 – the “Young Poland” scholarship of the Ministry of Culture, in 2008-2009 – the Huygens Scholarship, in 2007 and 2009 – the Schuurman Schimmel-van Outeren Stichting, and in 2010 – the Witold Lutosławski scholarship. Andrzej Kwieciński has been commissioned to write music for such prestigious institutions and ensembles as: Nonstrom Ensemble (2004), Friends of the “Warsaw Autumn” Foundation, works financed by the Ernst von Siemens Stiftung (2005), Deutschlandfunk, Cologne (2008), NSKA (2011). His composition 14'48(3), commissioned by Deutschlandfunk in Cologne, was presented at the “Warsaw Autumn” International Festival of Contemporary Music in 2008 and released by POLMIC in the promotional Sound Chronicle of the “Warsaw Autumn” CD series. His music has also been presented at other festivals at home and abroad, e.g. “Turning Sounds” (2004, a performance of Umbrae), Albert Roussel Festival (2005, premiere of un soir), “Generations VI” concert in Warsaw (2005, premiere of ice, dust), the FIRM Festival in Adelaide (2005, at grey moonrise), as part of “The Soundbytes of Sejong at the Samsung Experience“ project at the Warner Center in New York (2006, American premiere of Umbrae), the Spring Festival in The Hague (2007, premiere of no. 32, 1950), the Festival of First Performances in Katowice (2007, no. 27, 1950), “Musica Polonica Nova“ in Wrocław (2008, no. 27, 1950), as part of the Lakmus project in Warsaw (2008, premiere of Umbrae – version for string orchestra), as part of the \"contemucha\" cycle in Łódź (2009, a performance of 14‘48(3)), the International Chamber Music Festival in The Hague (2010, premiere of mural), Young Composers’ Meeting in Apeldoorn (2010, premiere of Think II) as well as concerts in Hamburg (2011, a performance of mural) and Lisbon (2012, premiere of Canzon de‘baci). In 2012 Andrzej Kwieciński was a composer-in-residence at Łódź Philharmonic (for a project of the Institute of Music and Dance). His residence programme included the premiere (on 13th April 2012) of Sinfonia: Luci nella notte IV, composed as part of this project. In May 2014 Andrzej Kwieciński’s Canzon de’ baci won 1st prize in the 61st International Rostrum of Composers in Helsinki in the category of composers under 30, and was recommended as one of ten compositions in the main category. Updated: 2014 (Anna Iwanicka, Izabela Zymer)",
+  "birth": {
+    "place": "Warsaw",
+    "date": "11th June 1984",
+    "raw": "b. 11th June 1984 in Warsaw"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Umbrae for string quintet (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "ial.tes.ef 2:29 for clarinet, trombone, piano and cello (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "un soir for violin, cello and piano (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "ice, dust for ensemble (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "no. 27, 1950 for ensemble (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "no. 32, 1950 for violin and chamber orchestra (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Umbrae – version for string orchestra (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "mural for string quintet (2008-2010)",
+      "year": "2008-2010"
+    },
+    {
+      "title": "Luci nella notte II for piano quartet (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Luci nella notte III for four string quartets (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "no. 27, 1950 – version for chamber orchestra (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Sinfonia: Luci nella notte for symphony orchestra (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Umbrae B for string orchestra (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Canzon de‘ baci for baritone and orchestra (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Concerto. Re maggiore for harpsichord and symphony orchestra (2013,rev.2)",
+      "year": null
+    },
+    {
+      "title": "non si può fuggire. Ciaccona for voice, piano and vibraphone (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Pièces d’un violoncelle for cello and string orchestra (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Luci nella notte V for 4 spatially placed string quartets (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Contregambilles for string quartet (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "erschallen for double bass and large symphony orchestra (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "a 6 [+1] for chamber ensemble (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "per non pensare for voice and piano four hands (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Pièces de violoncelles for solo cello and cello quartet (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "un momento indugiò for large symphony orchestra (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Personaggi: Euridice for choir of 24 soloists and chamber orchestra (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "[P|PE(s)] for string quartet (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "super [P|PE(s)] DEMO for violin and ensemble (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "super [P|PE(s)] for violin and chamber orchestra (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "no.27[A] for chamber ensemble (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Luci nella notte VI for piano quintet (for six performers) (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Autre que...chanson d'une ombre qui s'éteint - in memory of Kalina for violin, cello and piano (2023)",
+      "year": "2023"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "kwiecinski-andrzej-en"
+}

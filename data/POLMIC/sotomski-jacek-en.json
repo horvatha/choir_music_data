@@ -1,0 +1,127 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/s/sotomski-jacek-en",
+  "title": "Sotomski Jacek",
+  "name": "Sotomski Jacek",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "composer. Born on 2 June 1987 in Olsztyn, he attended the Karol Szymanowski School of Music in Toruń where he studied piano and percussion instruments. He then graduated from Academy of Music in Wrocław with a degree in composition (under Agata Zubel-Moc). In 2006 he received a scholarship from the Mayor of Toruń and the Voivode of the Kujawsko-Pomorskie Province. He has participated in competitions for young composers with considerable successes: he received a honourable mention at the 6th Polish National Composing Competition of the 9th Students’ Music Forum in Warsaw (2005), second prize at the 7th edition of the same competition in 2006, he was also a laureate of the 4th Carl Maria von Weber Polish National Bassoon Competition in Wrocław (2010). His works have been performed at numerous contemporary music festivals, such as Warsaw Autumn (fringe events – 2008, 2009), Hallo Wrocław 2016! in Görlitz (2010), Musica Polonica Nova in Wrocław (2012, 2014), Musica Electronica Nova in Wrocław (2013, as part of the group sultan hagavik), and 2014 World Music Days in Wrocław. He was a participant of Composer Collider / Klopsztanga 2012 workshop, held by ensemble musikFabrik and the Adam Mickiewicz Institute. In November 2014 he qualified to the final of the Young Composers Meeting 2015 in Apeldoorn. He composes music for the theatre ( Del Amor and Papa pa ,directed by Martyna Majewska, Wesele directed by Katarzyna Raduszyńska, O lepszy świat directed by Dorota Bielska). He is a member of sultan hagavik, a band performing live music for cassette recorders. Sultan hagavik & Friends won the first prize of the OFF competition, held as a part of the 34th Stage Songs Review (2013). Updated: November 2014 The composer's website: www.sotomski.eu",
+  "birth": {
+    "place": "Olsztyn",
+    "date": "2 June 1987",
+    "raw": "Born on 2 June 1987 in Olsztyn,"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Rhapsody for 15 orchestral instruments (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "NOISE for 3 players (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Odkształcenia for organs (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "enneaszyna for chamber ensemble (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Der Abschied für 2 Pianisten (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Nothing or Nothing for piano and audio track (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Glue for clarinet solo (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Paw Królowej for soprano and accordion (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Kilgore Trout's Stories for reciter and electronics (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Void audio track for computer (2011, 2014)",
+      "year": null
+    },
+    {
+      "title": "Gutta cavat lapidem non vi sed saepe cadendo for ensemble (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Zalgo for large orchestra (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "beautiful to me. ah for accordion, computer and string orchestra (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Swansesque for harp (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "It is highly anticipated (Overwritten) for 2 flutes, bass clarinet, soprano saxophone, baritone saxophone, french horn, trumpet, 2 trombones, tuba, electric organ, grand piano, drum set, electric guitar, electric bass guitar, 2 sopranos, mezzosoprano (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Supermarket of New Music for orchestra (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "I'm so Noided, California for accordion and string quartet (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Accordion GO for accordion, live electronics, video and audio track (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "We Are Number One but see the description for sampler (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Love Songs for any voice (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Healing Nature & Joy of Music for viola, accordion, video and electronics (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Thanks, Leszek for ensemble and prerecorded video (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Alternative Music electric viola, video and audio track (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Pepe is Pepe is Pepe for ensemble, electronics and video (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "CREDOPOL for six performers and video (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Life 2 , YouTube videos or concert version for alto saxophone, electronics and video (2019)",
+      "year": "2019"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "sotomski-jacek-en"
+}

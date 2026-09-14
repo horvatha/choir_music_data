@@ -1,0 +1,71 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/m/mierzejewski-mieczyslaw-en",
+  "title": "Mierzejewski Mieczysław",
+  "name": "Mierzejewski Mieczysław",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Symphonic Prelude for orchestra (1927)",
+      "year": "1927"
+    },
+    {
+      "title": "Piano Variations (1927)",
+      "year": "1927"
+    },
+    {
+      "title": "Harvest Festival, folk show for voices solo, choirs and wind orchestra (1928)",
+      "year": "1928"
+    },
+    {
+      "title": "Dwie dole for mixed choir a cappella (1928)",
+      "year": "1928"
+    },
+    {
+      "title": "Music for the film Łopuszna. Unknown Land , dir. Tadeusz Makarczyński (1945)",
+      "year": "1945"
+    },
+    {
+      "title": "Music for the play Szelmostwa Skapena , dir. by Józef Wyszomirski (1946)",
+      "year": "1946"
+    },
+    {
+      "title": "Music for the play The Cricket Behind the Chimney , dir. by Artur Kwiatkowski (1946)",
+      "year": "1946"
+    },
+    {
+      "title": "Music for the film Paweł i Gaweł , dir. by Ryszard Potocki (1946)",
+      "year": "1946"
+    },
+    {
+      "title": "Music for the film Ziemia Lubuska , dir. by Natalia Brzozowska (1947)",
+      "year": "1947"
+    },
+    {
+      "title": "Music for the film Nawrócony , dir. by Jerzy Zarzycki (1947)",
+      "year": "1947"
+    },
+    {
+      "title": "Music for the film Steel Hearts , dir. by Stanisław Januszewski (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "Music for the film Apple Trees are Blossoming... dir. by Jarosław Brzozowski (1948)",
+      "year": "1948"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "mierzejewski-mieczyslaw-en"
+}

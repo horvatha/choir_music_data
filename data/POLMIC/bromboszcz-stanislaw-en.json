@@ -1,0 +1,147 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/b/bromboszcz-stanislaw-en",
+  "title": "Bromboszcz Stanisław",
+  "name": "Bromboszcz Stanisław",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": "composer and pianist; b. 24th March 1980 in Krakow. He studied piano with Józef Stompel (1999-2004) and composition with Eugeniusz Knapik (2000-2005) at the Karol Szymanowski Academy of Music in Katowice. He continued his studies at the Hochschule für Musik und darstellende Kunst in Stuttgart (2006-2008) in the composition class of Caspar Johannes Walter and the piano class of Nicolas Hodges. He has held scholarships from the Fryderyk Chopin Society (2001), Polish Ministry of Culture (2003-2005), and \"Sapere Auso\" Foundation (2005). In 2005 he received a Socrates-Erasmus scholarship to the Hochschule für Musik und Darstellende Kunst in Stuttgart, where he studied with Marco Stroppa. In the years 2007-2010 he participated in the \"Young Composers in Homage to Fryderyk Chopin\" programme, organised by the Krzysztof Penderecki European Centre for Music. He has received awards at several composition and piano competitions, including 2nd prize at the Fryderyk Chopin National Piano Competition (2000), distinction at the 8th Tokyo International Competition for Chamber Music Composition (2003), special and 2nd prize at the 10th and 11th International Contemporary Chamber Music Competition in Cracow (2006, 2007). In 2009 he was admitted to the final round of the 36th Bourges International Competition. As a pianist he has performed e.g. at the \"Warsaw Autumn\" Festival, AUKSO Summer Philharmonic in Wigry, Witold Lutosławski Festival in Warsaw, and Henryk Mikołaj Górecki Marathon in Katowice, \"Alkagran\" Festival in Czechowice-Dziedzice, Carl Orff – Festspiele in Andechs in Germany, and Rottenburg Neue Musik Tage, with such orchestras as Silesian Philharmonic and Lower Silesia Symphony Orchestra and AUKSO Chamber Orchestra. He was a member of Stirling Ensemble Stuttgart and Junge Münchner Philharmonie. His works have been presented at the New Music Days in Ostrava, New Music Festival in Louisville, \"Warsaw Autumn\" Festival, Festival of World Premieres in Katowice, Giornate della Percussione in Fermo (Italy) and Sound New Contemporary Festival in Canterbury Kent (Great Britain) by Silesian Chamber Orchestra, New Music Orchestra, Ensemble Intercontemporain and many other ensembles. His multimedia installation Air (created together with Ewa Satalecka) was presented at the Moving Types – Lettern in Bewegung (Mainz, Dortmund, Warsaw). In 2011 he participated in the project Where from? Where to? Myths - Nation - Identities , organized by Ensemble Modern and Goethe-Institut. He currently works at the Karol Szymanowski Academy of Music in Katowice as a junior lecturer at the Faculty of Composition, Conducting and Music Theory and at the Ludwik Solski Academy for the Dramatic Arts in Krakow (Dance Theatre Department in Bytom). updated: 2011 (Anna Iwanicka), 2014 (Beata Dźwigaj)",
+  "birth": {
+    "place": "Krakow",
+    "date": "24th March 1980",
+    "raw": "b. 24th March 1980 in Krakow"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Haiku for soprano, violin, glockenspiel and piano (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Five Pieces for viola and piano (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Sonata for piano (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Scenes for violin and chamber orchestra (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Metamorphoses for cello and chamber ensemble (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Aleatoric Etudes for 2 pianos (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Recitativo, corale e arioso for chamber ensemble (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Continuum for marimba solo (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Semi-sonore for 3 string ensembles (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Mirror Music for piano and electronics (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Piú niente for marimba (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Images for cello and electronics (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Solo for amplified cello (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Air , installation [with Ewa Satalecka] (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Con tensione for chamber ensemble (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Air for instrumental ensemble and electronic media (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Musicians for instrumental ensemble and electronics (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Intensamente. Music for 2 flutes and piano (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Piano Quintet (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "agitation/deciso. Music for 2 flutes and organ (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Solaris / pejzaże, parafrazy , composition for electronic sounds, video projection and stage movement (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Piu niente for guitar (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Monodrama for baritone saxophone and electronics (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Music for the spectacle Pieśni - odzyskiwanie utraconego czasu choreographed by Anna Kosiorowska (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "Symmetriads for electronic media (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "Recitative in three Versions for accordion and electronics (2022)",
+      "year": "2022"
+    },
+    {
+      "title": "Four Episodes for viola and electronics (2023)",
+      "year": "2023"
+    },
+    {
+      "title": "Chord: A1, E2, B♭2, D♭3, F3, E♭4, C5 for octophonic sound projection (2023)",
+      "year": "2023"
+    },
+    {
+      "title": "Music for piano and string quartet (2023)",
+      "year": "2023"
+    },
+    {
+      "title": "Paraphrases 1. Prelude in E Minor, Mazurka in A Minor for piano (2024)",
+      "year": "2024"
+    },
+    {
+      "title": "Rashomon. Scene 1 for flute and electronics (2024)",
+      "year": "2024"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "bromboszcz-stanislaw-en"
+}

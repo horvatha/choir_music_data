@@ -1,0 +1,123 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/m/minkus-czeslaw-teofil-en",
+  "title": "Minkus Czesław Teofil",
+  "name": "Minkus Czesław Teofil",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": "trumpeter and composer; b. 27th April 1957 in Leszno. He specialises in contemporary electroacoustic, electronic, experimental, and improvised music, as well as audiovisual art. He creates music-media, film, theatre projects and focuses on searching for mutual relations between image and sound, as well as other forms of expression. His compositions include music-media concerts, sound theatre, sound performances, audiovisual installations, art film, and net-art projects. He also performs solo concerts, playing trumpet and electronic instruments with the use of MIDI drivers, sound processors, computers, light sensors, integrated video projections, and biophysical objects. He has developed special types of scores, including graphic, spacial, photographic, or video scores. Since 1975 he has been participating in concerts, exhibitions, and interdisciplinary shows at festivals, showcases and symposiums of new art in Poland and abroad. He collaborated with trumpeter and composer Tomasz Stańko, setting up the Special Multimedia Quintet in 1984 (Stu Theatre, Kraków). Occasionally, he also collaborates with other musicians (incl. Michał Urbaniak) of the electroacoustic and electronic scene, sound theatre, new jazz, improvised music and other new media arts. In 1983 he formed the Space Light Orchestra, in 2000 - Music Media Art Ensemble, and in 2009 - MINKUS-TMAexplorers. In 2006 he established the foundation Trans Media Art Centrum. He is a member of the Polish Society for Contemporary Music, Association of Polish Artists and Designers, Polish Society for Electroacoustic Music. In 2009 he received the scholarship granted by the Minister of Culture and National Heritage. updated: January 2014 (mkk, ai)",
+  "birth": {
+    "place": "Leszno",
+    "date": "27th April 1957",
+    "raw": "b. 27th April 1957 in Leszno"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Transmutations I a spacial-musical piece for trumpet solo, tapes and installations of acoustically active metal plates with microphone/sound emission system (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Transmutations II a spacial-musical piece for trumpet solo, tapes and installations of acoustically active metal pipe-like objects and microphone/sound emission system (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Kolumnada – X an audio-visual installation consisting of column-like objects arranges within the space and covered with scores, special lighting and a system of speakers (microphones), other sound modules and tapes (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Figures of Light , an integrated audio-visual concert for electronically processed trumpet, acoustic and wired instruments, and interactive installation of three diminutional laser beams and a group of female gymnasts (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "T - Multiple , an audio-visual installation using 6-9 TV monitors fixed on a certain height within the space, video tapes with homogenous audio-video material projected simultaneously, with planned delay (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "SPH.Punctatus , a music/media performance of the \"Modern Duets\" series, designed for an electronically processed trumpet and tapes, and a female dancer using a live video projection (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Music for Dalmatians , a special music/visual concert for electric trumpet and a string quartet, for which the score is a living graphics effect created by 7 dalmatians moving within an enclosed space - board, together with coinciding video projections (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Time Symphony , a spacial sound/vision installation for audio tapes, active speakers/monitors (8-24) particularly placed within the space, and for digital LED projectors (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "PLAY PLAY PLAY , a chamber concerto for one performer (electronic/acoustic instruments), an interactive light-sensitive music emission system, strong light source, glass board-score, black and white mobile figures, and integrated video projections (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "To Walk , an audio-visual piece of the \"Video Scores\" series, designed for 2 to 5 instrumentalists and multi-scree projections of video-scores realised in actual time-span (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Athletics , a music/media performance for electronic trumpet, percussion, group of electronic instruments, voices, team of bodybuilders and integrated system of cameras and video projectors (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Flashbacks , a music/media concerto for electronically processed trumpet, vocalises, group of electronic/acoustic instruments and multi-screen panoramic video projections - samples (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "FLS-BX wers. for electronically processed solo trumpet, EWI, Morpheus-synthesiser, live mix sound tracks and panoramic, multichannel video samples projections (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "FLASH BX5 for multichannel spatial film broadcasts (video-scores) and MMAE Electroacoustic Quintet (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "NH'49-'09 / miasto idealne, epicentrum urban song , a music.media performance for projections of digitally remastered archival film footage showcasing the history and unique urban spaces of Nowa Huta (video-scores) and MINKUS-TMAexplorers (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "ChopiNEW IMPRESSIONS , project involving music and transmedia storytelling (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Music for Dogs'5 for trumpet solo and video-scores (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "DREAMS MUSIC'13 , a piece involving music and transmedia storytelling of the \"Other Scores\" series for electroacoustic orchestra MINKUS-TMAexplorers, actors-performers, other media performers and spatial, multi-channel film and audio projections (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "EUROPA TRAIN SCORE for electroacoustic orchestra, ballet and performance groups, objects - stage installations and film projections (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "CzeT MINKUS & PUSSY MANTRA music-transmedia composition (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "The Quarantine Concerts - CzeT MINKUS - CoV Solo I, II, III 3 compositions for trumpet solo, sampler, sound processors, computer and audiovisual electronic media (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "RELACJE - CoV20 - For T.S. for electronically processed trumpets, electronic instruments, voice, samples and graphic score projections (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "LEM_KONSTELACJE’21 , performance (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "Cz.T.MINKUS_Etiuda na jedno uderzenie w DZWON Z.’21 video-electroacoustic composition (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "PUNCTATUS-798 for trumpet & electronics (2021)",
+      "year": "2021"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "minkus-czeslaw-teofil-en"
+}

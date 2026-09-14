@@ -1,0 +1,67 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/a/aniolkiewicz-czeslaw-en",
+  "title": "Aniołkiewicz Czesław",
+  "name": "Aniołkiewicz Czesław",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": "teacher, pianist and composer; b. 22nd January 1905, Wierzchy; d. 7th April 1973, Łódź. He studied at the Mathematical and Science Department of the University of Warsaw, simultaneously learning the piano under Prof. Neutzke – lecturer in the Music Conservatory in Leipzig. From 1929 he attended a course for teachers, and later taught mathematics in various schools in Łódź. In 1934-39 he studied piano at Warsaw Conservatory with Margerita Trombini-Kazuro. During World War II he was mostly preoccupied with teaching: he taught mathematics at Warsaw’s schools and underground courses. After the war from 1945 he worked in the Polish Radio in Warsaw and the Radio and Television Committee (Dept. of Programmes for Children and Youth and Dept. of Music Programmes). He collaborated with, among others, Władysław Szpilman and Stefan Rachoń. In 1960-67 he was a music director in Zjednoczone Przedsiębiorstwa Rozrywkowe (state artistic management company). In 1956 he received the Prime Minister’s Award for his works for children. He was also decorated with the Gold Cross of Merit. As a composer, Aniołkiewicz was an auto-didact. He wrote his first brief pieces as a child. At the age of 23 he composed his first symphonic work – the Folk Suite (1928), performed at the Polish Radio in Łódź. After the war, he wrote mainly choral and popular songs and music for radio dramas. He is also the author of several operettas, folk ballets and film music, including Adventure in Marienstadt . Member of the Polish Composers’ Union from 1953. (Anna Iwanicka-Nijakowska)",
+  "birth": {
+    "place": "Wierzchy",
+    "date": "22nd January 1905",
+    "raw": "b. 22nd January 1905, Wierzchy"
+  },
+  "death": {
+    "place": "Łódź",
+    "date": "7th April 1973",
+    "raw": "d. 7th April 1973, Łódź"
+  },
+  "works": [
+    {
+      "title": "Folk Suite for symphony orchestra (1928)",
+      "year": "1928"
+    },
+    {
+      "title": "Fantasy for symphony orchestra (1942)",
+      "year": "1942"
+    },
+    {
+      "title": "Piano Preludes (1943)",
+      "year": "1943"
+    },
+    {
+      "title": "Gaicek - folk suite for mixed choir and folk ensemble (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "There’s Be Enough Bread - folk suite for mixed choir and folk ensemble (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "The Barber of Seville - music comedy for small music ensemble (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "The Fable of a Musician and Frog Princess (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "A Spirit in Love (Charlatan) - operetta in 3 acts (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Daedalus’ Secret - operetta in 3 acts (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "Three Georgian Songs (1957)",
+      "year": "1957"
+    },
+    {
+      "title": "Concertino for violin and orchestra Fantasy-Suite for violin Five Polish Dances Prelude for orchestra Souvenir for violin Polish Dances for the ballet “Hollyhocks” Choral songs, children’s songs, dance music Music for radio dramas: Tartarin de Tarascon Tsar Saltan Fable of the Noble Gotfried Fable of the Fisherman and the Goldfish Liczyrzepa (Rübezahl) The Magic Garden Film music: Adventure in Marienstadt (1952) Three Feathers (1958) Ballad of the Pretty Tartar Girl (1966) Ballad of Kathy and Johnnie (1966)",
+      "year": "1966"
+    }
+  ],
+  "publications": null,
+  "bibliography": "[materiały Archiwum Związku Kompozytorów Polskich], Aniołkiewicz Czesław, PWM, Kraków 1964 Iwanicka-Nijakowska Anna , Aniołkiewicz Czesław, Akademia Muzyczna im. Fryderyka Chopina w Warszawie / Akademia Muzyczna im. Stanisława Moniuszki w Gdańsku, Warszawa / Gdańsk 2005",
+  "slug": "aniolkiewicz-czeslaw-en"
+}

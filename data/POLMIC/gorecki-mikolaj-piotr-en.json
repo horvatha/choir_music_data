@@ -1,0 +1,283 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/g/gorecki-mikolaj-piotr-en",
+  "title": "Górecki Mikołaj Piotr",
+  "name": "Górecki Mikołaj Piotr",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Concertino for piano and orchestra (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Four Pieces for orchestra (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Adagio for orchestra (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Appassionato for soprano, choir and orchestra (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Three Pieces for clarinet and piano (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Sonata for clarinet and piano (1993-94)",
+      "year": "1993-94"
+    },
+    {
+      "title": "Piano Quintet (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Toccata for two pianos (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Six Bagatelles for violin, cello and piano (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Capriccio for piano and orchestra (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Three Fragments for string orchestra (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Sinfonietta na 12 instruments and percussion (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Three Episodes for symphony orchestra (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Three Intermezzos [1st version] for clarinet and string sextet (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Three Intermezzos [2nd version] for two clarinets and string orchestra (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "In memoriam (A. Sch., A. B., A. W.) for six instruments (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Cantata for large string orchestra (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Sonata for violin and piano No. 1 (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Via Crucis , cantata for large string orchestra, harp, celesta and tam-tam (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Concerto-Notturno for violin and string orchestra (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Arioso for orchestra (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "My Guest, Sit under My Leaf for unaccompanied mixed choir to words by Jan Kochanowski (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Overture for string quartet (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Gloria na chór mieszany i orkiestrę smyczkową (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Constellations for fifteen performers (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Three Short Recitatives for soprano, violin, viola and cello to words by Jarosław Iwaszkiewicz (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Symphony No. 1 for orchestra (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Variations for flute and piano (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Orpheus and Eurydice for orchestra (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Concerto for flute and orchestra (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Sonata for violin and piano No. 2 (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Transfigurations for solo clarinet (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Beata es, Virgo Maria , motet for female choir (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Sonata for two pianos (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Anamorfozy for orchestra (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Zan tontemiquico for orchestra (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Dispersions for string quartet (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Quartet for clarinet, trombone, cello and piano (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Sinfonica for orchestra (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Concerto grosso for quarter-tone piano, three instrumental ensembles and orchestra (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Farewell for violin and piano (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Divertimento for string orchestra (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "A Different Space for baritone solo, mixed choir and orchestra (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Farewell for string orchestra (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Sonata for piano (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Nocturne for orchestra (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Symphony No. 2 for orchestra (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Radiating Brightness. Little Mystery for soprano and string orchestra (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Trio Titanic for clarinet, horn and piano (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Arioso e furioso , concerto for guitar, string orchestra and percussion (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Elegy for cello solo and string orchestra (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Elegy for cello, string quartet and double bass ad libitum (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Trio for alto flute, violin and viola (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Fanfare for orchestra (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Trio concerto for clarinet, horn, piano and string orchestra (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Missa for baritone solo, mixed choir and orchestra (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Concerto lirico for 2 string orchestras (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Sonata lamentosa for soprano, cello and piano (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Concerto No. 2 for flute and string orchestra (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Concerto for clarinet and orchestra (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Burlesca for flute, oboe, clarinet, horn, bassoon and piano (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Eclipse of Time for cello and orchestra (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Mesto I for guitar (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Mesto II for guitar (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Sinfonia concertante for five cellos and orchestra (2019)",
+      "year": "2019"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "gorecki-mikolaj-piotr-en"
+}

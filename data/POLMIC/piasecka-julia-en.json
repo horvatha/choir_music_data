@@ -1,0 +1,95 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/p/piasecka-julia-en",
+  "title": "Piasecka Julia",
+  "name": "Piasecka Julia",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "composer; b. January 6, 2001, Kraków. She graduated from the Stanisław Wiechowicz Music School and the Władysław Żeleński Music School in Kraków. In 2022, she began her studies at the Krzysztof Penderecki Academy of Music in Kraków, entering the composition class of Prof. Wojciech Widłak and the eurhythmics class. Her works have been recognized at various composition competitions: she won 1st prize at the 32nd Adam Didur National Open Composition Competition in Sanok, 2nd prize at the 3rd Interuniversity Composition Competition \"The Dark Side of Art\" in Bydgoszcz, and received an honorable mention at the 67th Tadeusz Baird Competition for Young Composers. Julia Piasecka’s music is included in the programs of national and international festivals, including the Ostrava Days Festival, within the framework of which the composer also participated in the Ostrava Days Institute 2025 artist residency. A significant place in the catalog of her achievements is occupied by Impresja for symphony orchestra – this piece received its premiere in 2024 at the Tadeusz Baird Zielona Góra Philharmonic as part of the \"Women's Month\" festival. She is actively engaged in creating student composition forums: the annual \"Elementi\" conference and concerts, which simultaneously serve as a space for the premiere presentations of her own works. Piasecka’s Nocturne was premiered by soprano Anna Koehler and pianist Grzegorz Biegas during the 33rd Adam Didur Festival in Sanok (2024). Meanwhile, the piece W Pejzażu [ In the Landscape ] was first performed by soprano Ewa Leszczyńska and accordionist Iwo Jedynecki at the Władysław Szpilman Polish Radio Concert Studio in Warsaw (2026). The structural axis of Julia Piasecka’s works is defined by the category of musical narrativity, understood as processual shaping and contrasting juxtaposition of amorphous structures – fluid, heterogeneous, and often devoid of strict rhythmic order – with regular and repetitive structures characterized by a clearly defined rhythmic organization. Equal importance is gained by the sonoristic-coloristic paradigm, in which sonorous properties are strictly determined by the harmonic-intervallic structure and textural interweavings – complex structures resulting from the overlapping lines of individual instrumental parts. She also explores intra-structural transformations of multi-layered textural planes through the gradation of the density of sonic matter. update: Aleksandra Braumańska (2026)",
+  "birth": {
+    "place": "Kraków",
+    "date": "January 6, 2001",
+    "raw": "b. January 6, 2001, Kraków"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Little Variations for piano solo (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Waltz in 5 for piano solo (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "Etude for piano solo (2022)",
+      "year": "2022"
+    },
+    {
+      "title": "Canto for string trio (2022)",
+      "year": "2022"
+    },
+    {
+      "title": "Reflections for marimba and harp (2023)",
+      "year": "2023"
+    },
+    {
+      "title": "Distant memories for flute, clarinet, bassoon, trumpet, horn, and percussion (2023)",
+      "year": "2023"
+    },
+    {
+      "title": "Impressions for symphony orchestra (2024)",
+      "year": "2024"
+    },
+    {
+      "title": "Due movimenti for trumpet and cello (2024)",
+      "year": "2024"
+    },
+    {
+      "title": "Nocturne for piano solo (2024)",
+      "year": "2024"
+    },
+    {
+      "title": "Nocturne for soprano and piano to words by Tadeusz Miciński (2024)",
+      "year": "2024"
+    },
+    {
+      "title": "Notte insonne for harp solo (2024)",
+      "year": "2024"
+    },
+    {
+      "title": "Soundscape of indecisiveness for chamber ensemble and sample playback (2025)",
+      "year": "2025"
+    },
+    {
+      "title": "Suspended Structures for flute, clarinet, trumpet, trombone, euphonium, percussion, accordion, and double bass (2025)",
+      "year": "2025"
+    },
+    {
+      "title": "Moto Fuggente for flute, clarinet, and piano (2025)",
+      "year": "2025"
+    },
+    {
+      "title": "In the Landscape for soprano and accordion to words by Józef Czechowicz (2025)",
+      "year": "2025"
+    },
+    {
+      "title": "Intertwinings for saxophone quartet and organ (2026)",
+      "year": "2026"
+    },
+    {
+      "title": "Continuo fragile for percussion and accordion (2026)",
+      "year": "2026"
+    },
+    {
+      "title": "Meanders for chamber orchestra (2026)",
+      "year": "2026"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "piasecka-julia-en"
+}

@@ -1,0 +1,163 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/m/maciejewski-roman-en",
+  "title": "Maciejewski Roman",
+  "name": "Maciejewski Roman",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": "composer, pianist and conductor, b. 28 February 1910 in Berlin, d. 30 April 1998 in Göteborg. He initially received tuition in piano and violin from his mother, a talented violinist and pianist. In 1916-19 he continued to study piano with B. Goldenwieser at the Julius Stern Conservatory in Berlin. In 1919 he returned with his parents to Poland and settled in Leszno. In 1920-27 he studied piano with Bohdan Zalewski, theory with Władysław Raczkowski, harmony and counterpoint with Kazimierz Sikorski and solfège with Stanisław Wiechowicz at the Poznań Conservatory. From 1928 he was artistic director of the Stanisław Moniuszko Choir in Poznań. Simultaneously in 1928-1930 he studied philosophy and musicology at the Poznań University. From 1930 he continued his composition study with Kazimierz Sikorski at Warsaw Conservatory. However, two years later he was relegated from the Conservatory as a co-organizer of a students' strike staged as a protest against the dismissal of Karol Szymanowski from the post of rector. In this period, Maciejewski started giving concerts as a pianist. In 1932 he gave a recital, among others, in the Institute for the Promotion of Art, which was a great success. This particular performance allowed Maciejewski to make the acquaintance of numerous personages, including the Foreign Affairs Minister Józef Beck, to whose support he owed the offer of a concert tour of the Balkans as well as a scholarship for music studies in Paris. In 1933 he gave performances in Sofia, Bucharest, Budapest and Belgrade. A year later he studied with Nadia Boulanger at Ecole Normale de Music in Paris. It was then that he met Igor Stravinsky, Alfredo Casella, Darius Milhaud, Artur Honegger, Francis Poulenc, and struck up a friendship with Arthur Rubinstein. From 1935 he was a member of the Association of Young Polish Musicians in Paris, of which he was secretary of the board (1935) and vice-president (1936). In 1938 he went on a concert tour to England, where he met the German choreographer Kurt Joos, who commissioned him to write ballet music for his ensemble. While visiting the dance ensemble in Darlington Hall, he met his future wife, the Swedish dancer - Elvi Gallen. They married in 1939 and left for Sweden, where the composer spent the war. He was engaged in the activities of Polish emigration, gave concerts. He made the acquaintance of Thomas Mann, as well as Ingmar Bergman, to whose theatrical productions (including Shakespeare’s Macbeth i Camus's Caligula ) he composed music. It was also in Sweden that he started working on his monumental Missa pro defunctis ( Requiem ) for soloists, mixed choir and symphony orchestra (1944-60), which in 1959 won the Award of the I. J. Paderewski Foundation. He accepted Arthur Rubinstein's invitation to the United States, where he lived in 1951-77. He worked as an organist in a Catholic church in Los Angeles and conducted the parish choir. From 1977 until his death he again took up residence in Göteborg in Sweden. In 1997, the Roman Maciejewski Music Society in Leszno was established, whose aim is to propagate and promote the composer’s music.",
+  "birth": {
+    "place": "Berlin",
+    "date": "28 February 1910",
+    "raw": "b. 28 February 1910 in Berlin"
+  },
+  "death": {
+    "place": "Göteborg",
+    "date": "30 April 1998",
+    "raw": "d. 30 April 1998 in Göteborg"
+  },
+  "works": [
+    {
+      "title": "Sonata for piano No. 1 (1926)",
+      "year": "1926"
+    },
+    {
+      "title": "Lullaby for piano (1928)",
+      "year": "1928"
+    },
+    {
+      "title": "Kurpie Songs for mixed choir (1928)",
+      "year": "1928"
+    },
+    {
+      "title": "Variations for piano (1928)",
+      "year": "1928"
+    },
+    {
+      "title": "Mazurkas for piano (1928-90)",
+      "year": "1928-90"
+    },
+    {
+      "title": "Preludes for piano (1930-33)",
+      "year": "1930-33"
+    },
+    {
+      "title": "Highlander Dances for piano (1931)",
+      "year": "1931"
+    },
+    {
+      "title": "Fable ballet for children for piano (1932)",
+      "year": "1932"
+    },
+    {
+      "title": "Three Songs of Bilitis [1st version] for soprano and piano (1932)",
+      "year": "1932"
+    },
+    {
+      "title": "Sonata for piano No. 2 (1932)",
+      "year": "1932"
+    },
+    {
+      "title": "Studies for piano (1932)",
+      "year": "1932"
+    },
+    {
+      "title": "Triptych for piano (1933)",
+      "year": "1933"
+    },
+    {
+      "title": "Three Songs of Bilitis [2nd version] for soprano and orchestra (1935)",
+      "year": "1935"
+    },
+    {
+      "title": "Concerto for two pianos without orchestra (1936)",
+      "year": "1936"
+    },
+    {
+      "title": "Tarantella and Lullaby for two pianos (1938)",
+      "year": "1938"
+    },
+    {
+      "title": "Sonata for violin and piano (1938)",
+      "year": "1938"
+    },
+    {
+      "title": "Oberek ballet scene for two pianos (1943)",
+      "year": "1943"
+    },
+    {
+      "title": "Allegro concertante for piano and symphony orchestra (1944)",
+      "year": "1944"
+    },
+    {
+      "title": "Missa pro defunctis ( Requiem ) for soloists, mixed choir and symphony orchestra (1944-59)",
+      "year": "1944-59"
+    },
+    {
+      "title": "Negro spirituals for two pianos (1946)",
+      "year": "1946"
+    },
+    {
+      "title": "Matinata for violin, viola and cello (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "Spanish Suite for two guitars (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "Mazurka for two pianos (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "Nocturne for flute, guitar and celesta (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "Lullaby for string trio, flute, two guitars and celesta (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Fandango for piano (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Shepherds’ Mass Polish Christmas carols for four-part women’s and boys’with organ (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "Carrols na chór mieszany i organy (1956)",
+      "year": "1956"
+    },
+    {
+      "title": "Missa Brevis for mixed choir (or baritone) and organ (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Resurrection Mass for mixed choir and organ (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "St Cecilia Mass for mixed choir and organ (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Quintet for wind instruments (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "View from the Seaside suite for small orchestra (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Lullaby for piano and symphony orchestra (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Hosanna for two-part choir, organ and wind quintet (1976)",
+      "year": "1976"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Maciejewski Bogusław, Twelve Polish Composers, Allegro Press, London 1976 Cegiełła Janusz, Rozmowa z Romanem Maciejewskim [A Conversation with Roman Maciejewski], In: Szkice do autoportretu polskiej muzyki współczesnej [Sketches for a Self-portrait of Polish Contemporary Music], PWM, Kraków 1976 Lisecki Wiesław, ‘Requiem’ (1946-1959) Romana Maciejewskiego [Roman Maciejewski's Requiem (1946-1959)], In: Muzyka źle obecna [Misrepresented Music] (ed. Krystyna Tarnawska-Kaczorowska), Sekcja Muzykologów Związku Kompozytorów Polskich, Warszawa 1989 Lilpop-Krance Filicja, Powroty, Białystok 1991 Bilica Krzysztof, Roman Maciejewski twórca wyzwolony i zniewalający [Roman Maciejewski - An Unbound and Captivating Artist], „Ruch Muzyczny” 1995 nr 5, s.8-11 Kaczyński Tadeusz, W zgodzie z naturą, „Tygodnik Powszechny” 1995 nr 12 Bilica Krzysztof, Sylwetka Romana Maciejewskiego [Roman Maciejewski's Profile], In: Muzyka polska 1945-1995 [Polish Music 1945-1995] (eds. Krzysztof Droba, Teresa Malecka, Krzysztof Szwajgier), Akademia Muzyczna w Krakowie, Kraków 1996 Bilica Krzysztof, Roman Maciejewski i jego Missa pro defunctis [Roman Maciejewski and His Missa pro defunctis], \"Dysonanse\" 1998 nr 1 Kłaput-Wiśniewska Aleksandra, Widłak Elżbieta, Maciejewski Roman, In: Encyklopedia Muzyczna PWM (część biograficzna pod red. Elżbiety Dziębowskiej) [PWM Music Encyclopaedia, biographical part ed. by Elżbieta Dziębowska], t. “m”, PWM, Kraków 2000 Adamska-Osada Aleksandra, Muzyka jako modlitwa. \"Requiem\" Romana Maciejewskiego, \"Ruch Muzyczny\" 2006 nr 16, s.18-21 Zieliński Tadeusz A., Mazurki Romana Maciejewskiego, \"Ruch Muzyczny\" 2007 nr 25, s. 37-40",
+  "slug": "maciejewski-roman-en"
+}

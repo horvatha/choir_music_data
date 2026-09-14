@@ -1,0 +1,551 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/m/mykietyn-pawel-en",
+  "title": "Mykietyn Paweł",
+  "name": "Mykietyn Paweł",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": "composer and clarinettist, born 20th May 1971 in Oława. He graduated in 1997 from the Music Academy in Warsaw (now the Fryderyk Chopin Music University), where he had studied composition under Włodzimierz Kotoński. He participated in the ISCM Polish Section’s International Summer Courses for composers (1991, 1992, 1993) and the Gaudeamus Music Week in Amsterdam (1992), and attended lectures and workshops with composers such as Witold Lutosławski, Krzysztof Penderecki, Henryk Mikołaj Górecki, Magnus Lindberg, Louis Andriessen, François-Bernard Mâche, and Michael Nyman. In 1990, he won the 2nd prize in the Andrzej Krzanowski Competition for Composers. His 3 for 13 for 13 performers (1994), commissioned by the Polish Radio, received the 1st prize in the category of young composers' works in the International Rostrum of Composers in Paris in 1995. In 1996, his Epifora [ Epiphora ] for piano and tape (1996), another Polish Radio commission, was granted 1st prize in the category of works by young composers, as well as a recommendation in the general category, in the 4th International Rostrum of Electroacoustic Music in Amsterdam. Paweł Mykietyn founded Nonstrom, an ensemble in which he plays the clarinet and which has specialised in performances of contemporary music. The ensemble has a complement of four: a clarinet, a piano, a cello and a trombone. As a clarinettist, Mykietyn won the 1st prize in the Competition for Young Performers of 20th-Century Music organised by the International Society of Contemporary Music, the Polish Section, in 1995. He has composed for soloists such as Elżbieta Chojnacka, Ewa Pobłocka, and Andrzej Bauer. He has cooperated with leading conductors including Jean-Paul Dessy, Jacek Kaspszyk, Jerzy Maksymiuk, Diego Masson, Wojciech Michniewski, and Reinbert de Leeuw. His has received commissions from Warsaw Autumn, Grand Theatre – National Opera in Warsaw as well as ensembles including Belcea Quartet, de Ereprijs, Icebreaker, and Kronos Quartet. Between 1997 and 2001 he was music director of the StudioTheatre. Since 2008 he has been music director of the Nowy Theatre in Warsaw. He has composed music for all the of Krzysztof Warlikowski’s theatrical productions since 1996. His own selection of this output was released in 2011 on a CD entitled \"Mykietyn. Teatr\". In 2015 he was awarded the Teatr monthly’s Special Prize for his opera The Magic Mountain and his theatre music. He has authored music for many feature films, a.o.: Ojciec (part of the \"Solidarność, Solidarność...\" production), Ono , 33 sceny z życia and W imię... by Małgorzata Szumowska, Tatarak ind Wałęsa. Człowiek z nadziei by Andrzej Wajda, Essential Killing and 11 minut by Jerzy Skolimowski. In 2012, for his music for Essential Killing, he was awarded the prestigious SACEM Prix France Musique. For his music for films he was many times awarded at the Gdynia Film Festival. In 2000 Paweł Mykietyn received the Passport Award of the Polityka weekly. His 3 for 13 was presented at the MIDEM Classique in Cannes. In 2008 he was the first recipient of the OPUS Public Media Award. In 2011 he was decorated with the Cavalier’s Cross of the Order of Polonia Restituta, in 2016 - the Polish Composers' Union Award (for \"remarkable, individual footstep in the panorama of Polish contemporary music, with emphasis on the opera The Magic Mountain \") and the \"Neptun 2016\" award of the President of Gdańsk, in 2017 - Cyprian Kamil Norwid award (cathegory: music). updated: 2017 (Wiktoria Antonczyk), 2018 (Iza Zymer)",
+  "birth": {
+    "place": "Oława",
+    "date": "20th May 1971",
+    "raw": "born 20th May 1971 in Oława."
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "...though Daedalus flew safe... , trio for piano, clarinet and cello (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "La Strada for three instruments (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Four Preludes for piano (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "“ At Radek’s ” for clarinet, trombone, cello and piano (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "3 for 13 for 13 performers (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Sonatina für Alina for alto saxophone and tape (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Eine kleine Herbstmusik for 11 instruments (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Epiphora for piano and tape (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Concerto for piano and orchestra (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "...on my own theme for chamber ensemble (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Four for four for clarinet, trombone, cello and piano (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Concerto for cello and orchestra (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "String Quartet (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Commencement de siècle for chamber ensemble and live electronics (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Before “Four for four” for clarinet, trombone, cello and piano (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Concerto for violin and orchestra (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Shakespeare’s Sonnets for male soprano and piano (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "The Ignoramus and the Madman , chamber opera (2000-2001)",
+      "year": "2000-2001"
+    },
+    {
+      "title": "Concerto for harpsichord and orchestra (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Calls for string orchestra (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "An Album Leaf for cello and computer (2002, 2009)",
+      "year": null
+    },
+    {
+      "title": "Blood , symphonic poem for large orchestra (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Gently for 6 male voices (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Becoming Fine for baritone, microtonally tempered harpsichord and string ensemble to words by Marcin Świetlicki (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Klave for microtonally tempered harpsichord and chamber orchestra (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Nude , for clarinet, trombone, cello and piano (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "String Quartet No. 2 (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Sonata for Cello solo or with live electronics (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Prologue for strings (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Symphony No. 2 (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "St Mark Passion for voices and instruments (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Vivo for choir, orchestra and electronics (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Berceuse for ten singers (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Symphony no. 3 for alto and orchestra (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Two Verses by Miłosz for actor, actress, 10 musicians, electronics and video (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Klavierstücke for Casio CTK-731 synthesiser (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "King Lear , musical in two acts (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Wax Music for wax cylinders and piano (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Concerto for Flute and Orchestra (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Hommage à Oskar Dawicki for symphony orchestra (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "The Magic Mountain , opera to a libretto by Małgorzata Sikorska-Miszczuk after Thomas Mann (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Fanfare for symphony orchestra (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Double Concerto for two flutes and symphony orchestra (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Fangor for piano four hands (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Two Rags for tabla (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Counting out for 3 voices and 9 instruments (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Herr Thadaeus for electronics, bass solo and orchestra (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Two Arabesques for piano solo (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Concerto for Violin and Orchestra (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "II Concerto for cello and orchestra (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Perpetuum Stabile for piano quartet (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "STOP for carillon (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Voyelles for voice, lights and chamber ensemble (2022)",
+      "year": "2022"
+    },
+    {
+      "title": "Ash for orchestra (2023)",
+      "year": "2023"
+    },
+    {
+      "title": "Music for film Maria Konopnicka , dir. by Elżbieta Rottermund (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Music for film Egoiści , dir. by Mariusz Treliński (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Muzyka do filmu Przerwy w dostawie prądu w reż. Wiesława Palucha (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Music for film Wernisaż , dir. by Wiesław Paluch (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Music for film Ono , dir. by Małgorzata Szumowska (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Music for film Mój tata Maciek , dir. by Małgorzata Szumowska (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Music for film Solidarność, Solidarność... , dir. by Krzysztof Zanussii, Małgorzata Szumowska and others (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Music for film Motor , dir. by Wiesław Paluch (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Music for film 33 sceny z życia , dir. by Małgorzata Szumowska (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Music for film Tatarak , dir. by Andrzej Wajda (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Music for film Essential Killing , dir. by Jerzy Skolimowski (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Music for film Trick , dir. by Jan Hryniak (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Music for film Popatrz na mnie , dir. by Katarzyna Jungowska (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Music for film Sponsoring , dir. by Małgorzata Szumowska (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Music for film Bez wstydu , dir. by Filip Marczewski (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Music for film Wałęsa. Człowiek z nadziei , dir. by Andrzej Wajda (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Music for film Czerwony papierowy stateczek , dir. by Aleksandra Zaręba (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Music for film W imię... , dir. by Małgorzata Szumowska (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Music for film Nowy sen - Krzysztof Warlikowski , dir. by Marcin Latałło (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Music for film Piąte: nie odchodź , dir. by Katarzyna Jungowska (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Music for film 11 minut, dir. by Jerzy Skolimowski (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Music for film Frost dir. by Sharunas Barthas (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Music for film Córka boga, dir. by Małgorzata Szumowska (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Music for film II Concerto for cello and orchestra , dir. by Maciej Stuhr (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Music for film A Walk with Angels , dir. by Tomasz Wysokiński (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "Music for theatre play Szkarłatna wyspa , dir. by Piotr Cieślak (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Music for theatre play Księżniczka Turandot , dir. by Rudolf Zioło (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Music for theatre play Fenicjanki , dir. by Krzysztof Warlikowski (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Music for theatre play Jak wam się podoba , dir. by Piotr Cieślak (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Music for theatre play Nareszcie koniec , dir. by Zbigniew Brzoza (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Music for theatre play Elektra, dir. by Krzysztof Warlikowski (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Music for theatre play Dopełnienie miłości , dir. by Zbigniew Maciak (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Music for theatre play Zimowa opowieść , dir. by Krzysztof Warlikowski (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Music for theatre play Joko świętuje rocznicę , dir. by Piotr Cieślak (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Music for theatre play Ostatnie dni ludzkości , dir. by Piotr Cieślak (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Music for theatre play Tancerz mecenasa Kraykowskii , dir. by Krzysztof Warlikowski (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Music for theatre play Bilard petersburski , dir. by Agnieszka Lipiec-Wróblewska (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Music for theatre play Poskromienie złośnicy , dir. by Krzysztof Warlikowski (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Music for theatre play Perykles , dir. by Krzysztof Warlikowski (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Muzyka do spektaklu Nareszcie koniec w reż. Zbigniewa Brzozy (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Music for theatre play Zachodnie wybrzeże , dir. by Krzysztof Warlikowski (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Music for theatre play Wieczór Trzech Króli , dir. by Krzysztof Warlikowski (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Music for theatre play Hamlet , dir. by Krzysztof Warlikowski (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Music for theatre play Makbet , dir. by Andrzej Woron (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Music for theatre play Burza , dir. by Krzysztof Warlikowski (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Music for theatre play Książę Myszkin , dir. by Mikołaj Warianow (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Music for theatre play Bachantki , dir. by Krzysztof Warlikowski (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Music for theatre play Leonce i Lena , dir. by Barbara Sierosławska (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Music for theatre play Ignorant i szaleniec , dir. by Krzysztof Warlikowski (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Music for theatre play Oczyszczeni , dir. by Krzysztof Warlikowski (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Music for theatre play 4.48 Psychosis , dir. by Grzegorz Jarzyna (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Music for theatre play Helmucik , dir. by Paweł Łysak (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Music for theatre play Sen nocy letniej , dir. by Krzysztof Warlikowski (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Music for theatre play Antygona , dir. by Marek Kalita (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Music for theatre play W gęstwinie miast , dir. by GrzegorzJarzyna (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Music for theatre play Dybuk. Między dwoma światami , dir. by Krzysztof Warlikowski (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Music for film Mój tata Maciek , dir. by Małgorzata Szumowska (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Music for theatre play Sonety Szekspira , dir. by Łukasz Kos (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Music for theatre play Madame de Sade , dir. by Krzysztof Warlikowski (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Music for television theatre play Piaskownica , dir. by Dariusz Gajewski (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Music for theatre play Anioły w Ameryce , dir. by Krzysztof Warlikowski (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Music for theatre play Zapis , dir. by Radosław Dobrowolski (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Music for television theatre play Kobieta sprzed dwudziestu czterech lat , dir. by Dariusz Gajewski (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Muzyka do spektaklu Sprawa Dantona w reż. Pawła Łysaka (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Music for theatre play Przebudzenie wiosny , dir. by Helena Kaut-Nowson (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Music for theatre play Bóg , dir. by Krystyna Janda (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Music for theatre play (A)pollonia , dir. by Krzysztof Warlikowski (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Music for theatre play Ofelie, Sonety, Alpha , dir. by Jon Tombre (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Music for theatre play Tramwaj , dir. by Krzysztof Warlikowski (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Music for theatre play Koniec , dir. by Krzysztof Warlikowski (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Music for theatre play Opowieści afrykańskie według Szekspira , dir. by Krzysztof Warlikowski (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Music for theatre play Kabaret warszawski , dir. by Krzysztof Warlikowski (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Music for theatre play Francuzi, dir. by Krzysztof Warlikowski (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Music for theatre play Wyjeżdżamy, dir. by Krzysztof Warlikowski (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Music for theatre play Fauves , dir. by Wajdi Mouawad (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Music for theatre play Odyseja. Historia dla Hollywoodu , dir. by Krzysztof Warlikowski (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "Music for theatre play Elizabeth Costello. Siedem wykładów i pięć bajek z morałem , dir. by Krzysztof Warlikowski (2024)",
+      "year": "2024"
+    },
+    {
+      "title": "Music for theatre play Europe , dir. by Krzysztof Warlikowski (2026)",
+      "year": "2026"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Chłopecki Andrzej, Paweł Mykietyn - nowa gwiazda muzyki polskiej [Paweł Mykietyn – A New Star of Polish Music], \"Polish Culture\" 1999 nr 1, s. 48-49 Thomas Adrian, Mykietyn Paweł, In: The New Grove Dictionary of Music and Musicians (ed. Stanley Sadie), vol. 17, Macmillan Publishers Limited, London 2001 Kwiecińska Agata, W co gra Paweł Mykietyn?, \"Ruch Muzyczny\" 2007 nr 10, s. 6-8 Chłopecki Andrzej, Pawła Mykietyna Opus, czyli II Symfonia. Próba przybliżenia, \"Ruch Muzyczny\" 2008 nr 17/18, s. 8-10. Dutkiewicz Barbara, Polistylistyka, czyli Dyskurs z przeszłością: interpretacja ruchowa muzyki w obliczu dzieł epoki postmodernizmu na przykładzie wybranych utworów, Akademia Muzyczna im. Karola Szymanowskiego, Katowice 2012 Fiugajska Beata,, Technika dekonstrukcji w twórczości Pawła Mykietyna, Akademia Muzyczna, Kraków 2012",
+  "slug": "mykietyn-pawel-en"
+}

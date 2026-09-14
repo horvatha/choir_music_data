@@ -1,0 +1,151 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/f/fitelberg-grzegorz-en",
+  "title": "Fitelberg Grzegorz",
+  "name": "Fitelberg Grzegorz",
+  "occupation": "promoter, composer, performer",
+  "is_composer": true,
+  "description": "Conductor, composer, and violinist; born October 18, 1879, in Daugavpils (Latvia); died June 10, 1953, in Katowice. From 1891 to 1896, he studied at the Institute of Music in Warsaw: composition under Zygmunt Noskowski and violin under Stanisław Barcewicz. He began his career as a violinist immediately after completing his studies. In 1896, he was engaged by the Grand Theatre Orchestra in Warsaw, where he worked until 1904; from 1901, he also served as the concertmaster of the Warsaw Philharmonic Orchestra. In 1898, his Sonata in A minor, Op. 2 for violin and piano (1894) was awarded 1st prize at the Ignacy Jan Paderewski Composition Competition in Leipzig. In 1901, he won first prize at the Count Zamoyski Competition in Warsaw for his Trio in F minor, Op. 10 for violin, cello, and piano (1901). During the 1904–05 season, he made his debut as a conductor at the Warsaw Philharmonic. In 1905, together with Karol Szymanowski, Ludomir Różycki, and Apolinary Szeluto, he founded the \"Young Poland\" (Młoda Polska) composers' group and the Publishing Society of Young Polish Composers, which was sponsored by Władysław Lubomirski, and aimed to promote contemporary Polish music. Fitelberg conducted the society's first concerts. Between 1908 and 1911, he served as a conductor of the Warsaw Philharmonic Orchestra, followed by a post at the Hofoper in Vienna during the 1912-13 season. He spent the years 1914–21 in Russia—initially in Petrograd (1914–19) and later in Moscow. He conducted the orchestras of the Musical Drama Theatre, the Mariinsky Theatre, and the Mikhailovsky Theatre in Petrograd, as well as the State Orchestra (from 1917) and the Bolshoi Theatre Orchestra in Moscow (during the 1920-21 season). From 1921 to 1924, he served as the conductor for Sergei Diaghilev’s Ballets Russes, performing in cities such as Paris, London, Brussels, and Monte Carlo. In the years 1923-34, he returned as the principal conductor of the Warsaw Philharmonic Orchestra. He was also active in education, teaching conducting at the Warsaw Conservatory from 1927 to 1930. In 1934, he founded the Polish Radio Symphony Orchestra in Warsaw, which he led until 1939. He performed with the orchestra at events such as the 1937 World Exposition in Paris, where the ensemble was awarded a gold medal. Following the outbreak of World War II in November 1939, Grzegorz Fitelberg left Warsaw and moved to Paris. A year later, he departed for Buenos Aires, where he served as a conductor at the Teatro Colón during the 1940-41 season. He spent the remaining war years (from 1942 to 1945) in the United States. During this period, he focused primarily on orchestration and conducting, performing concerts in cities such as New York, as well as Montreal and Toronto. He returned to Europe in 1946, and the following year, he took leadership of the Polish Radio Grand Symphony Orchestra (WOSPR) in Katowice. Additionally, from 1950 to 1951, he served as a professor at the State Higher School of Music in Katowice. For his artistic achievements, Grzegorz Fitelberg was honored with the Officer's Cross of the Order of Polonia Restituta (1928), the Golden Cross of Merit (1932), the Commander's Cross with Star of the Order of Polonia Restituta (1947), and the Order of Labour, 1st Class (1950). In 1951, he received the State Prize. Since 1980, the National Composition Competition and the International Competition for Conductors named after him have been held in Katowice. update: 2002 (iz)",
+  "birth": {
+    "place": "Daugavpils (Latvia)",
+    "date": "October 18, 1879",
+    "raw": "born October 18, 1879, in Daugavpils (Latvia);"
+  },
+  "death": {
+    "place": "Katowice",
+    "date": "June 10, 1953",
+    "raw": "died June 10, 1953, in Katowice."
+  },
+  "works": [
+    {
+      "title": "Romance Without Words in D Major op. 11 for violin and piano (1892)",
+      "year": "1892"
+    },
+    {
+      "title": "Sonata No. 1 in A Minor for violin and piano op. 2 (1894)",
+      "year": "1894"
+    },
+    {
+      "title": "Berceuse for violin and piano (1897)",
+      "year": "1897"
+    },
+    {
+      "title": "Mazurka for violin and piano (1900)",
+      "year": "1900"
+    },
+    {
+      "title": "Romance Without Words in A Major op. 11 for violin and piano (1900)",
+      "year": "1900"
+    },
+    {
+      "title": "Chanson Triste for piano (1900?)",
+      "year": null
+    },
+    {
+      "title": "Trio in F Minor for violin, cello and piano op. 10 (1901)",
+      "year": "1901"
+    },
+    {
+      "title": "Sonata No. 2 in F Major for violin and piano op. 12 (1901)",
+      "year": "1901"
+    },
+    {
+      "title": "Violin Concerto in D Minor op. 13 (1903)",
+      "year": "1903"
+    },
+    {
+      "title": "Canzoneta for symphony orchestra (1903)",
+      "year": "1903"
+    },
+    {
+      "title": "Symphony No. 1 in E Minor op. 16 for symphony orchestra (1904)",
+      "year": "1904"
+    },
+    {
+      "title": "Pieśń o Sokole op. 18, symphonic poem for large orchestra (1905)",
+      "year": "1905"
+    },
+    {
+      "title": "Four Songs for Voice and Piano op. 23 (1905-07)",
+      "year": "1905-07"
+    },
+    {
+      "title": "Prelude and Song „Swan” op. 19 for voice and piano (1906)",
+      "year": "1906"
+    },
+    {
+      "title": "Kennst du das Land song for voice and piano (1906)",
+      "year": "1906"
+    },
+    {
+      "title": "At Spring op. 17, overture for orchestra (1906)",
+      "year": "1906"
+    },
+    {
+      "title": "Vor meinem Fenster... for voice and piano (1907)",
+      "year": "1907"
+    },
+    {
+      "title": "Abend for voice and piano (1907)",
+      "year": "1907"
+    },
+    {
+      "title": "Schlafend trägt man mich... for voice and piano (1907)",
+      "year": "1907"
+    },
+    {
+      "title": "Six Songs for voice and piano op. 22 (1907)",
+      "year": "1907"
+    },
+    {
+      "title": "Five Songs for voice and piano op. 21 (1907)",
+      "year": "1907"
+    },
+    {
+      "title": "Symphony No. 2 in A Major op. 20 for symphony orchestra (1907)",
+      "year": "1907"
+    },
+    {
+      "title": "Meine Lippen... for voice and piano (1907)",
+      "year": "1907"
+    },
+    {
+      "title": "Über die Welt hin... for voice and piano (1907)",
+      "year": "1907"
+    },
+    {
+      "title": "Melancholy for voice and piano (1907)",
+      "year": "1907"
+    },
+    {
+      "title": "Protesilas and Laodamia op. 24 for voice and orchestra (1908)",
+      "year": "1908"
+    },
+    {
+      "title": "Polish Rhapsody op. 25 for large orchestra (1913)",
+      "year": "1913"
+    },
+    {
+      "title": "Songs op. 27-28 (1914)",
+      "year": "1914"
+    },
+    {
+      "title": "Rhapsody No. 2 for orchestra (1914)",
+      "year": "1914"
+    },
+    {
+      "title": "In the deep sea op. 26 music image for large symphony orchestra (1914)",
+      "year": "1914"
+    },
+    {
+      "title": "Recitative for clarinet and piano (1918)",
+      "year": "1918"
+    },
+    {
+      "title": "Joyful March for symphony orchestra (1953)",
+      "year": "1953"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Bias Iwona, Katalog tematyczny dzieł Grzegorza Fitelberga, PWSM w Katowicach, Katowice 1979 Neuer Adam, Fitelberg Grzegorz, t. „efg”, PWM, Kraków 1987 Markiewicz Leon, Grzegorz Fitelberg 1879-1953: Życie i dzieło, Katowice 1995 Markiewicz Leon, Grzegorz Fitelberg 1879-1953. A Great Polish Conductor, Międzynarodowy Konkurs Dyrygentów im. Grzegorza Fitelberga, Katowice 1999 Chylińska Teresa, Fitelberg Grzegorz, vol. 8, Macmillan Publishers Limited, London 2001 Korespondencja Grzegorza Fitelberga z lat 1941-1953, Fundacja Muzyczna Międzynarodowego Konkursu Dyrygentów im. Grzegorza Fitelberga, Katowice 2003 Rocznica Fitelberga w Rydze, \"Ruch Muzyczny\" 2004 nr 23, s.3 Marczyński Jacek, Mistrz batuty, \"Polish Culture\" 2004 nr 4, s.56",
+  "slug": "fitelberg-grzegorz-en"
+}

@@ -1,0 +1,195 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/w/woytowicz-boleslaw-en",
+  "title": "Woytowicz Bolesław",
+  "name": "Woytowicz Bolesław",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Dwa mazurki na fortepian (1928)",
+      "year": "1928"
+    },
+    {
+      "title": "Wariacje na fortepian (1928)",
+      "year": "1928"
+    },
+    {
+      "title": "Dwanaście pieśni na głos z fortepianem (1928-30)",
+      "year": "1928-30"
+    },
+    {
+      "title": "Fantazja na skrzypce i fortepian (1929)",
+      "year": "1929"
+    },
+    {
+      "title": "Sonata na fortepian (1929)",
+      "year": "1929"
+    },
+    {
+      "title": "Trzy tańce na fortepian (1930)",
+      "year": "1930"
+    },
+    {
+      "title": "Trio na flet, klarnet i fagot (1930)",
+      "year": "1930"
+    },
+    {
+      "title": "L’enfant va dormir , kołysanka na sopran, flet, fagot i harfę (1930)",
+      "year": "1930"
+    },
+    {
+      "title": "Oberek na fortepian (1930)",
+      "year": "1930"
+    },
+    {
+      "title": "Mała kantata dziecięca na pochwałę Bozi i słońca na 3-głosowy chór dziecięcy a cappella (1931)",
+      "year": "1931"
+    },
+    {
+      "title": "Kwartet smyczkowy nr 1 (1932)",
+      "year": "1932"
+    },
+    {
+      "title": "Koncert fortepianowy (1932)",
+      "year": "1932"
+    },
+    {
+      "title": "Suita koncertowa na orkiestrę (1933)",
+      "year": "1933"
+    },
+    {
+      "title": "Dwa tańce polskie na głos, skrzypce, wiolonczelę i fortepian (1933)",
+      "year": "1933"
+    },
+    {
+      "title": "Żałobny poemat „Pamięci marszałka Piłsudskiego” na wielką orkiestrę symfoniczną (1935)",
+      "year": "1935"
+    },
+    {
+      "title": "Concertino na małą orkiestrę symfoniczną (1936)",
+      "year": "1936"
+    },
+    {
+      "title": "Powrót , balet (1937)",
+      "year": "1937"
+    },
+    {
+      "title": "Symfonia nr 1 , 20 wariacji w formie symfonii (1938)",
+      "year": "1938"
+    },
+    {
+      "title": "Symfonia nr 2 „Warszawska” (1945)",
+      "year": "1945"
+    },
+    {
+      "title": "Recitativo na skrzypce lub wiolonczelę i organy (1946)",
+      "year": "1946"
+    },
+    {
+      "title": "Recitativo e arietta na fortepian (1947)",
+      "year": "1947"
+    },
+    {
+      "title": "Dwanaście etiud na fortepian (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "Kantata na pochwałę pracy na głosy solowe, chór mieszany i orkiestrę (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "Sześć szkiców symfonicznych na wielką orkiestrę symfoniczną (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "Nasza pieśń [wersja I] na chór mieszany i małą orkiestrę symfoniczną (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "Nasza pieśń [wersja II] na chór mieszany (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "Nasza pieśń [wersja III] na głos i fortepian (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "Prorok , kantata na bas, chór żeński, chór męski i orkiestrę symfoniczną (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "Pokój [wersja I], pieśń na głos i fortepian (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "Pokój [wersja II], pieśń na chór mieszany a cappella (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "Pokój [wersja III], pieśń na chór mieszany i fortepian (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "Sonata na flet i fortepian (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Kwartet smyczkowy nr 2 (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Trzy ludowe pieśni śląskie na chór mieszany (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "Lamento [wersja I], wokaliza na sopran, klarnet i fortepian (1957)",
+      "year": "1957"
+    },
+    {
+      "title": "The Great Fugue na kwartet smyczkowy i dwa zespoły smyczkowe (1958)",
+      "year": "1958"
+    },
+    {
+      "title": "Lamento [wersja II], wokaliza na sopran i orkiestrę symfoniczną (1959)",
+      "year": "1959"
+    },
+    {
+      "title": "Dziesięć etiud na fortepian (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Symfonia nr 3 „Piano concertante” na fortepian i orkiestrę (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Miniatura [wersja I] na skrzypce i fortepian (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Miniatura [wersja II] na skrzypce, altówkę i wiolonczelę (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Mała sonata na fortepian (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "De profundis na głos i organy (1977)",
+      "year": "1977"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Dybowski Stanisław, Woytowicz Bolesław, Selene, Warszawa 2003",
+  "slug": "woytowicz-boleslaw-en"
+}

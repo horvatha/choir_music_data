@@ -1,0 +1,119 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/s/swolkien-henryk-en",
+  "title": "Swolkień Henryk",
+  "name": "Swolkień Henryk",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "composer and music journalist; b. 20th October 1910 in St. Petersburg; d. 13th May 1990 in Poznań. In 1934 he graduated from the University of Poznań with master’s degree in economics and politics. Until 1938 he studied composition and music theory with Kazimierz Sikorski at the Warsaw Conservatory. Then he continued to study composition under Goffredo Petrassi at the Conservatorio Santa Cecilia in Rome (diploma in 1947). In the years 1948-76 he worked at the Polish Radio, where he ran editorial boards of folk music, verbal music, and classical music. He initiated and ran a series of radio programmes such as Masterpieces of Music are for Everyone ( Arcydzieła muzyki są dla wszystkich ), Literary and Opera Confrontations ( Konfrontacje literacko-operowe ), Composer's Silhouettes ( Sylwetki kompozytora ) and many television programmes. He wrote articles for “Ruch Muzyczny”, the daily press, and from 1963 until the end of his life, reviews for “Kurier Polski”. He was the author of biography books on Giuseppe Verdi (PWM, Kraków 1963), Modest Musorgski (PWM, Kraków 1970), Robert Schumann (PIW, Warsaw 1973), Pyotr Tchaikovsky (PIW, Warsaw 1976), Aleksander Borodin (PIW, Warsaw 1979), Mikhail Glinka (PIW, Warsaw 1984), Arrigo Boito: poet and musician (PIW, Warsaw 1988), as well as such books as Meeting with the Opera ( Spotkanie z operą , PZWS, Warsaw 1971), Buildings of sounds ( Budowle z dźwięków , WSiP, Warsaw 1975) and positions from the series Little Opera Library ( Mała biblioteka operowa) – Verdi's Traviata (PWM, Kraków 1957), Verdi's Rigoletto (PWM, Kraków 1958), Verdi's Otello (PWM, Kraków 1960). He was also involved in teaching. In 1969-80 he lectured at the State Theater School in Warsaw. Henryk Swolkień was honoured with many awards and decorations, including awards of the Polish Radio, the honorary badge “Meritorious Activist of Culture\", and the Knight's Cross of the Order of Polonia Restituta. updated: 2020 (ac)",
+  "birth": {
+    "place": "St",
+    "date": "20th October 1910",
+    "raw": "b. 20th October 1910 in St"
+  },
+  "death": {
+    "place": "Poznań",
+    "date": "13th May 1990",
+    "raw": "d. 13th May 1990 in Poznań"
+  },
+  "works": [
+    {
+      "title": "Sonatina for cello and piano (1941)",
+      "year": "1941"
+    },
+    {
+      "title": "Missa Mater Dolorosa for men choir and orchestra (1942)",
+      "year": "1942"
+    },
+    {
+      "title": "String Quartet No. 1 (1943)",
+      "year": "1943"
+    },
+    {
+      "title": "Two Italian songs for baritone and piano (1946)",
+      "year": "1946"
+    },
+    {
+      "title": "Trio for flute, French horn and viola (1947)",
+      "year": "1947"
+    },
+    {
+      "title": "General's Heart , song for choir and small orchestra (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "My Song! , song for voice and piano (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "We shall build a new Poland , song for choir (or voice) and piano (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "Divertimento in Old Style for string orchestra (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "Rustic Lullaby for soprano, mixed choir and orchestra (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "I'm going to the Army , ballet (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Peace will Win the War , ballet (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Trio for clarinet, violin and piano (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Eight songs to words by Juliusz Słowacki for mixed choir (1959)",
+      "year": "1959"
+    },
+    {
+      "title": "Sonata [version I] for French horn and piano (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Sonata [version II] for French horn and symphony orchestra (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Four Polish dances for orchestra (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Mazurka for cello and symphony orchestra (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Partita for small orchestra (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Suite of Mniatures for orchestra (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Piano Quintet No. 1 (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Piano Quintet No. 2 (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "String Quartet No. 2 (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Przemysław II , opera (1981)",
+      "year": "1981"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "swolkien-henryk-en"
+}

@@ -5,9 +5,9 @@
   "years": "1882-1919",
   "description": "Born in Uppsala 14 September 1882, died in Stockholm 11 March 1918. After qualifying as an organist at the Royal Conservatory of Music in 1903, Fryklöf took private lessons from Johan Lindegren (counterpoint and composition), Richard Andersson (piano) and Philipp Scharwenka, Berlin (instrumentation). Assistant teacher of harmony at the Royal Conservatory of Music in 1908 (permanent 1914) and that same year deputy organist of Storkyrkan (permanent 1918). Member of the Royal Swedish Academy of Music in 1915. His output as a composer is relatively sparse but includes works of high quality and in a distinctively personal idiom, such as the much-performed Sonata à la legenda for violin and piano and Symfoniskt stycke for organ.",
   "birth": {
-    "place": null,
-    "date": null,
-    "raw": null
+    "place": "Uppsala",
+    "date": "14 September 1882",
+    "raw": "Born in Uppsala 14 September 1882"
   },
   "death": {
     "place": "Stockholm",

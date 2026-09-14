@@ -1,0 +1,171 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/m/moc-michal-en",
+  "title": "Moc Michał",
+  "name": "Moc Michał",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": "composer, accordionist, teacher; b. 9th March 1977 in Wrocław. He studied composition with Grażyna Pstrokońska-Nawratil and accordion with Zbigniew Łuc, graduating with distinction from the Karol Lipiński Music Academy in Wrocław, where he also received his PhD in 2008 and his habilitation in 2019. He has also studied with David Rowland on a \"Socrates-Erasmus\" scholarship at the Conservatorium Hogeschool Enschede in the Netherlands (2000). In 2007 he was included in the 4-year programme of promoting young composers organized by the Krzysztof Penderecki European Centre for Music. He has held scholarships from the Ministry of Culture and National Heritage, Association of Authors and Composers ZAiKS, Wrocław City Council, Kiwanis Club Wratislavia (on behalf of Mercedes Benz Poland – Mirosław Wróbel), Leopold Kronenberg Foundation, and the scholarship from Maria Klementyna Tomaszewska. Michał Moc has won a number of awards in national composition competitions: Composition Competition organized on the occasion of the Eucharistic Congress (Opole 1997, two 2nd prizes for Mass of the Polish People and I Believe in You ), Adam Didur Composition Competition (1998, distinction), 1st Composition and Instrumentation Competition in Wrocław (1998, 1st prize), \"Musica Sacra\" Composition Competition in Częstochowa (1999, 2nd prize for Hallelujah ), Andrzej Panufnik Composition Competition in Cracow (2000, 1st prize for Betelgeuse ), competition for music of the Świdnica city anthem (2001, main prize), 3rd Raymond Murray Schaffer International Competition in Poznań (1999, distinction for Exchange ), and Franz Josef Reinl-Stiftung Competition in Vienna/Munich (2001, 3rd prize for Furietta ). His creative output, numbering over 40 works, includes chamber, vocal, vocal-instrumental and orchestral compositions, with particular preference given to the accordion as the solo instrument. A separate group of compositions – similar in number – constitute miniatures written for students of music schools, including the obligatory works required at instrumental and choral competitions, as well as pieces which introduce certain technical issues, often providing a methodical commentary. His works A-cordeON , Fjör-ður , K'akko-Fonia , MissA and SUL P'LUS were commissioned as part of the \"Composing Commissions\" programme, carried out by the Institute of Music and Dance. He is also a concert accordionist and winner of many competitions for performers, including the National Accordion Competition in Chełm (1994, 1996), Zgierz (1995) and Mława (1995), International Festival of Accordion Music in Przemyśl (1999) and Sanok (2000, 3rd prize), and 4th 20th- and 21st-Century Music Competition for Young Performers in Radziejowice (2001, main prize) organized by Polish Society for Contemporary Music. He gave concerts with philharmonic orchestras in Poland and abroad, including in Germany, Denmark, Japan, France, Spain, Slovakia and Greece. He plays a specially produced Borsini instrument purchased with a ‘Young Poland’ scholarship from the funds of the Ministry of Culture and the National Heritage. The artist has made recordings for Polish Radio and TV, and for record companies. In 2011 DUX record label released his monographic album Emotions . He teaches composition as an assistant professor at the Academy of Music in Wrocław, and conducts research and teaching in the area of musical ear training; he has authored computer programmes and educational games, and is the initiator of the Auditory Olympics National Competition for senior music schools students, as well as mYear, a festival of musical skills. During the years 1999-2010 he worked as a teacher at the Junior and Senior General Music School in Wrocław (heading its music theory section from 2004); since 2009 he has been co-ordinator for the macroregional Centre for Art School Teachers Education (CENSA). In 2006 he was awarded the Bronze Cross of Merit by the President of Poland. updated: 2014 (ai), 2021 (ac) Artist’s website: https://michalmoc.pl/",
+  "birth": {
+    "place": "Wrocław",
+    "date": "9th March 1977",
+    "raw": "b. 9th March 1977 in Wrocław"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Trio Sonata \"Jantar\" for flute, vibraphone and accordion (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "I Believe in You , triptych for mixed choir (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Fantasy for accordion (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Betelgeuse for accordion and tape (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "The Exchange for children and string quartet (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Sinfonietta for string orchestra (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Gloria in excelsis for mixed choir (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Sanctus Dominus for mixed choir (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Accordella for accordion and string quartet (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Furietta for chamber orchestra (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Hommage à Piazzolla for accordion and symphony orchestra (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Fear! [version I] for voice and recorder (for 1 performer) (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Fear! [version II] for voice and double bass (for 1 performer) (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Prague Fantasy for symphony orchestra (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Six Miniatures for accordion (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Chordalians & Chordaliens for accordion and chamber orchestra (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Quincunx for viola (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Quip for viola (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Chipset for symphony orchestra and accordion (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Agathos for voice and organ (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Music for orchestra (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "stuntmen’s relay for symphony orchestra (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "barbArioso for string orchestra (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "The switching faces for chamber orchestra (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Hipokamp for large orchestra and school children (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "e-Motion for string orchestra (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "S.A.N.D for chamber ensemble and children (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Call For Details... for accordion and organ (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Po-wer for orchestra (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "MissA for accordion and harpsichord (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "sulP’lus for string orchestra (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Kakko-Fonia for accordion and string orchestra (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Fjör-∂ur for symphony orchestra (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Last Minute! for choir and large string orchestra (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "A-cordeON for accordion and cello (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "mYEAR19 installation for 104 speakers and a group of instrumentalists (2018/19)",
+      "year": null
+    },
+    {
+      "title": "HARPiness for harp and instrumental ensemble (2019)",
+      "year": "2019"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "moc-michal-en"
+}

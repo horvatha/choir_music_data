@@ -1,0 +1,427 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/c/choloniewski-marek-en",
+  "title": "Chołoniewski Marek",
+  "name": "Chołoniewski Marek",
+  "occupation": "promoter, composer, performer",
+  "is_composer": true,
+  "description": "composer and performing musician, b. 23rd October 1953 in Cracow. He studied music theory and composition with Bogusław Schaeffer as well as organ with Leszek Werner in the State Higher School of Music in Cracow. At present, he is a reader at the Department of Composition at the Music Academy in Cracow. Since 1976, he has also worked in the Electroacoustic Music Studio in the same academy; he has held the function of director of this studio since 2000. In 1977, Chołoniewski established the “Music Centre” Artistic Association which organised about 400 concerts. Since 1979, he has been a member of the “Cracow Group”. He also founded the MCH Studio, co-founded the ”Freight Train” Music Group (with Krzysztof Knittel and Piotr Bikont in 1986) and the Ch&K Studio (also with Krzysztof Knittel). Since 1987, he has organised the “Audio Art” concert series. He was the initiator, and is now artistic director, of the international “Audio Art” festival and (with Matthias Hermann) - of the International Cracow/Stuttgart Contemporary Music Workshops. Since 1990 he has been giving concerts (mostly as a performer of live computer music), teaching courses and delivering lectures on computer music in many European countries, as well as the United States and Canada. In 1993-99 he was artistic director of the Internationale Akademie für Neue Komposition und Audio Art in Schwaz in Austria. He has also created and co-ordinated spatial-outdoor projects ( The Ship of Artists , 2000) and interactive on the web ( GlobalMix , 1998 and GPS-Art , 2000). Marek Chołoniewski writes instrumental and electroacoustic music, audiovisual computer compositions, music for the theatre, film, radio and television.",
+  "birth": {
+    "place": "Cracow",
+    "date": "23rd October 1953",
+    "raw": "b. 23rd October 1953 in Cracow"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Citroblage-assemblage from a prepared cither for solo headphones (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "...a due tempi... for two pianos (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Electronic Composition No. 1 , a graphic score (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Section of a Larger Whole for two flutes (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "String Quartet (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "The Last Dreams Come Through the Hair for string sextet (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Red a composition for tape (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Assemblages , graphic music for specific performers and stereo tape (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Concierto de Aranjuez – music for a non-existent cartoon for solo vibraphone (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "...blank... , a composition for tape (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Pizza for instrumental ensemble (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "A Slipper Between the Sheets for orchestra and 4-channel tape (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "ID open letter to Olga Szwajgier , music for reading aloud (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Soprano Quartet for soprano saxophone and 3 sopranos (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "a Beethoven-synthiblage for 4-channel tape (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "gmb 78 for viola da gamba (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Amput for baritone with an alto range, small flute, sopranino saxophone in E-flat, oboe in E-flat, cornet in E-flat, electronic transformations and multi-channel tape (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Collectiv 4 for organ, bassoon, bells, violin and piano (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Reflections for 4-channel tape (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Process (for K.) for tape (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "La Cumparsita I for 4 string instruments and oboe (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "La Cumparsita (hki 290880) for tape (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "La Cumparsita II for oboe, string quartet and tape (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Cadenza for viola da gamba and chamber orchestra (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Rag, Rag, Rag for tape (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Cadenza II for viola da gamba, synthetisers and tapes (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Swinging Parameters for oboe, violin, synthetiser and tape (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "The Same Fire for Everyone for tape (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Here and There for piano, synthetiser and computer (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Pilot automatyczny na taśmę [wspólnie z Krzysztofem Knittlem, Marcinem Krzyżanowskim i Markiem Nędzińskim] (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Follow Me II for synthetisers and computer (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Go-Go Beuys Band [wspólnie z Krzysztofem Knittlem, Marcinem Krzyżanowskim i Markiem Nędzińskim] (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Ears, Nose, Eyes , sound installation (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Follow Salzach for instruments, natural environment and computer (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Follow, Follow , koncert potrójny na kwartet obojowy, orkiestrę, transformacje i komputer (1988)",
+      "year": "1988"
+    },
+    {
+      "title": "Wysyg for light and computer (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Switched On... , theatre for objects and computer (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Switched Off... for instruments and computer (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Two Suns for instruments and computer (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Like Breathing [1st version] for computer (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Like Breathing [2nd version] for flute, oboe, soprano saxophone, bassoon, viola, double-bass and piano (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Like Breathing [3rd version] for flute, violin, viola, guitar and computer (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "The Beauty and the Beast for voice and computer (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Picture Reading , an interactive system (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Doubles for voice, light and computer (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Silber for wind orchestra, chamber ensemble, dancers, light and computer (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Sha’ba del’mana , a ballet (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Lighting , interactive installation (or performance) (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "River Dart for voice, light and computer (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Hypermeable Objects , sound installation (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Lighting II , audio-visual project (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Upside Down , performance (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "GlobalMix , collective internet composition (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Brightening , interactive project (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "One Piece of Table , performance (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Dark & Light Zone for string quartet (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "plus Brightening 2 [wspólnie z Mark Polishook] (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Face , interactive audio-visual project (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Garage , installation for chamber orchestra and cars (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Passage , interactive octet for instruments and computer (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Opera Installation für Tiere und Miniaturstadt [wspólnie z Markiem Chlandą] (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Art Boat , Open-Air Projekt am Vistula-Fluß, Bootsinstallation (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "GPS-Trans 1 , audio city map, interactive composition for 16 mobiles phones (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Aelita, music to the silent film (with the Freight Train group) (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "GPS-Trans 2 , Cracow audio city map, internet broadcast (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "etwas anderes for percussion and computer (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Stuttgart Tunnel for bass guitar and computer (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Passage , interactive score for ensemble (2001-2013)",
+      "year": "2001-2013"
+    },
+    {
+      "title": "GPS-Trans 3 , Cracow audiovisual city map, internet broadcast (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Last Minute Grooves for saxophone and computer (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "face 2 , performance (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "GPS-Trans 4 , Cracow audiovisual city map for composer, ensemble, dancer and audience (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "dizzy, dizzy for ensemble (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Physical Modelling for instrument and tape (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Assemblages 2 for ensemble (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "GPS-Trans 5 Net Brigde , web project (Luxembourg, Cracow) for nonet and interactive system (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Nostalgiya for Natural Plastic duo [with Stoyan Stoykov] (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Wieliczka Salt Mine , sound installation for Expo 2005 (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "GPS-Trans 6 , audiovisual project for ensemble and Warsaw city (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Dizzy Kinetics , interactive project (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Nortus Farae for cello, video score and soundtrack (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "GPS-Trans 7 for Chicago city and You Must and You Can ensemble (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "GPS-Trans 8 for 4 cities: Cracow, Warsaw, Luxembourg, Chicago and ensemble (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "iPhone Brass for iphone and wind orchestra (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "GPS-Trans 9 COOP project (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "IterEter , interactive installation [with Peter Sych, Marcin Pączkowski and Jan Chołoniewski] (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "GPS-Trans 10, Multiplace project (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "iPhonic na telefon komórkowy (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "QUB , audiovisual installation [with Krzysztof Knittel, Maciej Walczak and Peter Sych] (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Mimoid, music for the video installation of Miłosz Łuczyński (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Pecs Derive/GPS-Trans 11 [with European Bridges Ensemble] (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Miłosz's Places , immersive video installation [with Miłosz Łuczyński] (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Behind the Wall , installation (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Waves for computer, electronics and multimedia (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "blink for electronics (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Rhizomes , installation (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Fotrus Narrae for instrumental ensemble and electronics (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Interactive Work for school orchestra (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "La Cumparsita for oboe/English horn, saxophones, electronics and video (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Double Brain [with Franciszek Araszkiewicz] for networked brainwaves (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Windwaves, installation for chamber orchestra and audiovisual instruments (2016)",
+      "year": "2016"
+    }
+  ],
+  "publications": "articles & papers Cisza,, w: John Cage: człowiek, dzieło, paradoks , red. M. Chołoniewski, B. Bogunia, Akademia Muzyczna, Kraków 2014",
+  "bibliography": "Jabłoński Maciej, Chołoniewski Marek, In: PWM Music Encyclopaedia (biographical part ed. by Elżbieta Dziębowska), vol. “cd – Supplement”, PWM, Kraków 2001 Mówi Marek Chołoniewski: co słychać? O laptopach, \"ogrodach dźwiękowych\", teledyskach i \"orkiestrze wertykalnej\", Dźwięk, technologia, środowisko..., muzyka? Niektórzy mają warsztat,",
+  "slug": "choloniewski-marek-en"
+}

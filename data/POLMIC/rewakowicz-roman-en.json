@@ -1,0 +1,63 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/r/rewakowicz-roman-en",
+  "title": "Rewakowicz Roman",
+  "name": "Rewakowicz Roman",
+  "occupation": "promoter, composer, performer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Fis na obój solo (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Gdzie na chór mieszany do słów Juliana Przybosia (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Estinguendo na zespół kameralny (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Wariacje na 12 puzonów (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Chanson d’automne na mezzosopran i fortepian do słów Paula Verlaine’a (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Gdy tylko odnaleziony zostanie prześwit na klarnet, puzon i wiolonczelę (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Ma non troppo na zespół perkusyjny (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Spotkanie skończonego z nieskończonym na blachę, tam-tam i smyczki (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Inside na fortepian (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Pomiędzy na orkiestrę (1985)",
+      "year": "1985"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "rewakowicz-roman-en"
+}

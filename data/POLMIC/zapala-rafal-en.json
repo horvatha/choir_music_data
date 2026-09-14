@@ -1,0 +1,323 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/z/zapala-rafal-en",
+  "title": "Zapała Rafał",
+  "name": "Zapała Rafał",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "composer, sound artist, improviser (piano, drums, electronics); b. 1st November 1975 in Kielce; d. 18 July 2025 in Poznań. He studied the piano with Jolanta Płoska at the Secondary Music School in Kielce. Apart from playing the piano, he was associated with the contemporary jazz and rock scene. He graduated from the Academy of Music in Poznań in choral conducting under Janusz Dzięcioł (1999) and composition under Lidia Zielińska (2010). In 2012 he received the doctor of musical arts degree in composition from the Academy of Music in Kraków. In 2018 he received the habilitation degree. Currently, he is an associate professor at the Academy of Music in Poznań. He has participated in numerous master classes, including with Jan A.P. Kaczmarek at the Rozbitek Institute (2006), Karlheinz Stockhausen in Kurten (2008), Tristan Murail, Beat Furrer and IRCAM lecturers in the field of electronic music and Max / MSP programming as part of the Acanthes workshops at the Center Pompidou – Metz (2010), Pauline Oliveiros and Catherine C. Hannix at the STEIM in Amsterdam (2012) and Zbigniew Karkowski at the SME Academy of Music in Poznań (2012). After a summer visit in Chicago in 1997, he became interested in contemporary improvised music, both acoustic and electronic, free jazz, a multicultural mixture of various elements of urban music. These fascination led to the foundation of a group called L.E.M. (Live Electronic Music) together with trumpeter Tomek Ziętek and bassist Wojtek Mazolewski. The band has contributed to the creation of the Polish improvised electronics scene. As a drummer, Zapała is fascinated by the richness of African, Latin and Asian rhythms. In the years 1998-2000 he performed as a session drummer in many projects. At the same time, he became interested in electronic music: from club music (Viksa Kovač live act, Loco Star, remix of Dig and Din by Andrzej Smolik, Drum Machina) to experimental sound art projects related to the activities of the Electroacoustic Music Studio in Poznań. He is the founder of the an_ARCHE NewMusic Ensemble and Foundation and the Kołorking Muzyczny ensemble, performing contemporary composed, improvised, electronic and experimental music. His compositions have been presented at such international festivals of new music as the \"Warsaw Autumn\" – concerts of the Youth Circle, \"Sound screen\", \"Poznań Music Spring\", \"Contem.Ucha\", Susaa Festival in Denmark, Made in Chicago Festival, Ale Kino!, and EmuFest 2012 in Rome. Since 2004 he has been collaborating with the Animation Theatre in Poznań, \"Scena na Piętrze\" Theatre in Poznań as well as the Academy of Fine Arts in Poznań (a theater performance staged at the FAMA Academic Youth Arts Festival in 2004). He composed music for theater performances (with director Jan J. Moszkowicz), ballet performances, film music (including Testimony , directed by Paweł Pitera), soundtracks for documentary programmes and commercials. He also participated in Roger Waters and Ray Wilson projects ( Genesis ). In the first half of 2014, he conducted research at the CCRMA at Stanford University, concerning the use of biofeedback technology in music installations. He was an artist-in-residence at the \"Zamek\" Culture Centre in Poznań (2014), the Świętokrzyska Philharmonic in Kielce (2014/2015), ZK / U Berlin (2016) and Vertigo STARTS (2019). His original concept of Live Electronic Preparation (LEP Technique) was published in the Oxford Handbook of Interactive Audio (Oxford University Press 2014). A special place in his work is occupied by actions and sound installations embedded in the urban space, including Sensorium – huge, immersive sound installation based on biofeedback data sonification in the Clock Tower of the \"Zamek\" Culture Centre in Poznań (www.sensorium.poznan.pl) and Post- Apocalypsis – awarded the Gold Medal at the 13th Prague Quadrennial of Performance Design and Space in the Sound Design cathegory in 2015. Apart from his artistic activity, Zapała also creates the so-called applied arts. He collaborates with artists (project i s o | a t i o n with Kobas Laksa) and fashion designers. For three years he was the music director of the \"Art & Fashion\" festival in Stary Browar in Poznań. updated: 2020 (Agnieszka Cieślak) Composer's website: www.zapala.com.pl",
+  "birth": {
+    "place": "Kielce",
+    "date": "1st November 1975",
+    "raw": "b. 1st November 1975 in Kielce"
+  },
+  "death": {
+    "place": "Poznań",
+    "date": "18 July 2025",
+    "raw": "d. 18 July 2025 in Poznań"
+  },
+  "works": [
+    {
+      "title": "Music for the performance Serce boksera , dir. Jerzy Moszkowicz (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Music for the performance Twoje pieć minut , dir. Jerzy Moszkowicz (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Music for the open-air performance Antygona – przejście przez noc , dir. Jerzy Moszkowicz (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Drobne ostateczności dnia codziennego for piano (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Music for the performance Sceny z życia ciała pedagogicznego , dir. Jerzy Moszkowicz (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Ideograms: Mother for flute, cello and piano (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Relative for prepared piano and string quartet (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Susy’s mistic moment na fortepian i tampurę (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Gonsay acousmatic music (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Glitch Fabric three miniatures for two marimbas, vibraphone and live electronics (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "an_Arche no1 for string quartet, sampler and live electronics (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "an_Arche no2 for string quartet, xylophone and tape (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "GON for instrumental ensemble and tape (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Adoracja Ziemii Rmx for tape – acousmatic music (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Romeo and Juliet sound composition in the urban space for wind instruments, live electronics and prepared St, Marcin Street in Poznań – performance, street action (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "i s o | a t i o n for piano and live electronics (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Poster for string quartet and live electronics (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Nowe brzmienie Poznania electronic music (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Mazurka (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Zapała/An on Bast/ Rebeka electronic music (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Music for the film Istota (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Music for the performance W moim dom z papieru tworzę wiersze na płomieniu (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "zapala - cyklotronika electronic music (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "webcast installation (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Nicolette for flute and live electronics (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "SumoSexyMasta (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Midtro electronic music (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Mikroświat wewnątrz dźwieku. Techniki granularne installation (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Wera for saxophones and live electronics (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "The Splitter for guitar and building wall (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Why for soprano and live electronics (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Antibiotic ritual music for the ballet (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "SKANER for symphony orchestra, electronics and soundscape (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Turmmusik sound installation (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Nicolette for clarinet and live electronics (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Jedenastu diabłów (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "ga.so.li.qui.d (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Koszewski-plunderphonics part 4 acousmatic music (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "xyn thi electronic music (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "2streets sound installation (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Music for the film Wariacje Bernhardowskie (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Cleaner for double bass and live electronics (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Cztery spojrzenia na muzykę współczesną electronic music (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Ideogram1 for orchestra (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Lutoslow for tape (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Soundtrack for the performance Kłębuszek for prepared piano and live electronics (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "TonyTony: Love electronic music (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "TonyTony: Ribot electronic music (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "TonyTony: Kat electronic music (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Where is My Mind !?!! 1. Hens (count?) sound installation (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Where is My Mind !?!! 2. Plants (believe?) sound installation (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Where is My Mind !?!! 3. Fish (ask?) sound installation (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Mroźne soundtrack for the installation (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Performace w Głośnej music performance (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Wembley. TonyTony Guestes electronic music (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Ideogram2 for orchestra (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Scherzo for 6 instruments (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Sensorium sound installation (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Susie's mistic moments for orchestra (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Post-Apocalypsis, installation (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Abysses, installation (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Squares for triangles (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "No Meaning Detected for violin and live electronics (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Concentus Apparatus for clarinet, trombone, violin, piano and electronics (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Concentus Apparatus II: Irreversible for string quartet, electronics and interaction system (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Scrolling to zero for organ, electronics and video (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Feeder 02/SWE , installation (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Arthropocene , installation (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Scrolling to Zero , synthesizer version (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Futility / DRMNŚĆ for instrumental ensemble, electronics, interaction system and video (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Judge Me Again , version for flute and l.elx (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Introverts' collective for ensemble, electronics and interaction system (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "Solastalgia , opera in five parts (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "Opera / Misophonia , performance-installation (2023)",
+      "year": "2023"
+    },
+    {
+      "title": "black serial MIDI music for multiple MIDI keyboards (2023)",
+      "year": "2023"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "zapala-rafal-en"
+}

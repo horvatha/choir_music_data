@@ -1,0 +1,219 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/k/kaczorowski-slawomir-en",
+  "title": "Kaczorowski Sławomir",
+  "name": "Kaczorowski Sławomir",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "composer, b. 14th March 1956 in Łódź. He graduated in composition (1981) after studies with Bronisław Kazimierz Przybylski and in music theory (also 1981) from the State Higher School of Music in Łódź. After graduation, he was active both as an artist and an academic. In 1981, he became assistant lecturer in the Łódź Academy, simultaneously working for two years in a secondary music school. He became deeply involved in the organisation of the “Musica Moderna” sessions - a cycle of concerts and lectures dedicated to new music, held in the Łódź Academy since 1982 until the present day. In the same period, he developed his interests as a conductor of amateur choirs. For six years, he conducted the Academic Choir of the Łódź Polytechnic, then for 2 years - the Grammar School Mixed Choir in Łódź. With choral ensembles, he made archive recordings for the Polish Radio Broadcasting Station in Łódź, including works by such composers from Łódź as Andrzej Hundziak and Karol Mroszczyk. He also conducted many concerts, e.g. in Łódź, Glasgow and Edinburgh. His works have been performed both in Poland and abroad: at the Poznań Music Spring (1987, 1989), Gdańsk Encounters of Young Composers (1989), Legnica Cantat (1995), Festival Coral Internacional Costa Azul (1996), Do-Re-Mi (1997, 1999), Internationales Jugend-Festspieltreffen Bayreuth (1997), International Witold Lutosławski Festival of Contemporary Music in Szczecin (1999), Internationaler Akkordeonwettbewerb Klingenthal (1998, 2000, 2001), Polnische Musik des 20.Jahrhunderts Bremen (2001), International Accordion Competition Poprad (2001). He has received numerous prizes, among others, in the National Competition for Young Composers (1982), Competition for Piano Works in Słupsk (1984), Competition for Composers during the Talents Week in Tarnów (1985), Competition for Composers organised by the Polish Association of Choirs and Orchestras, Managing Board (1987), the Karol Szymanowski Competition for Composers held by ZAiKS (1988). Since 1997, Sławomir Kaczorowski has taught composition in Łódź Music Academy. In 1996-99 he was deputy dean of studies at the Composition, Theory, Music and Rhythmical Education Dept., and since 1999 - artistic-educational vice-rector in Łódź Music Academy. He is also programme co-author for the monthly radio broadcast The Music Academy and Its Guests in Radio Łódź S.A., which presents the current achievements of the academy.",
+  "birth": {
+    "place": "Łódź",
+    "date": "14th March 1956",
+    "raw": "b. 14th March 1956 in Łódź"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Concerto for piano and orchestra (1979)",
+      "year": "1979"
+    },
+    {
+      "title": "Unity-form for accordion trio (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Contrasts [1st version] for piano (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Triptych for harpsichord (1983)",
+      "year": "1983"
+    },
+    {
+      "title": "Impressio for solo soprano and three accordions (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Benedictus for a cappella mixed choir (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Direction for two pianos (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Contrasts [2nd version] for piano (1986)",
+      "year": "1986"
+    },
+    {
+      "title": "Concerto for accordion and chamber orchestra (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "Ave Maria per coro (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Dolente per violoncello solo (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Pezzo alla tango [1st version] for guitar and harpsichord (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Pezzo alla tango [2nd version] for guitar and accordion (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Con forza per pianoforte (1993)",
+      "year": "1993"
+    },
+    {
+      "title": "Impression for solo accordion (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Swing Music for mixed choir (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Pezzo alla tango [3rd version] for violin, guitar and accordion (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Pezzo alla tango [4th version] for flute, guitar and accordion (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Once more for violin and viola (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Noveletta for harp and string orchestra (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Pezzo alla tango [4th version] for two pianos (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Scherzino for clarinet and accordion (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Impromptu for accordion (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Con calore for viola and piano (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "The Manger of the Heart for mixed choir to words by J. Wątroba (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Ragtime [1st version] for piano (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Ragtime [2nd version] for piano for 4 hands (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Ragtime [3rd version] for violin, guitar and accordion (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Pezzo alla tango [6th version] for violin, cello and piano (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Coloured Dreams , 3 miniatures for accor (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Mozaika jubileuszowa na chór mieszany (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Toccata na fortepian (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Autumn Woods for mixed choir to words by T. Miciński (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Furioso na orkiestrę symfoniczną (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Surprise for marimba (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Agitato na dwa fortepiany (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Polish Landscapes for baritone and piano to words by Polish poets (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Chain for violin and accordion (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Otcze nasz na chór mieszany (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Capriccio na obój i fortepian (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Concerto giocoso for accordion, bassoon and chamber orchestra (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Laudate Dominum for mixed choir (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "ALEAccordions for two players (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Trio for flute, violin and viola (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Concerto for violin and string orchestra",
+      "year": null
+    },
+    {
+      "title": "Hesitation for violin solo (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Cantabile per viola solo (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Jazzy for soprano saxophone (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Concerto for saxophone and string orchestra (2015)",
+      "year": "2015"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Kowalska-Zając Ewa, Kaczorowski Sławomir, In: Łódzkie środowisko kompozytorskie 1945-2000 [Łódź Milieu of Composers 1945-2000], Akademia Muzyczna w Łodzi, Łódź 2001",
+  "slug": "kaczorowski-slawomir-en"
+}

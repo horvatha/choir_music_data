@@ -1,0 +1,327 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/r/rychlik-jozef-en",
+  "title": "Rychlik Józef",
+  "name": "Rychlik Józef",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "composer, music theorist and teacher; b. 12th May 1946 in Kraków. In 1965-70 he studied composition and theory of music with Bogusław Schaeffer at the State Higher School of Music in Kraków. In 1978 he received a 2-month scholarship from the French Government in Paris, where he attended courses in electroacoustic composition with Groupe de Recherche Musicales (GRM) at the Institut de Recherche et Coordination Acoustique / Musique at Radio France. He received a number of awards and honourable mentions at composition competitions, including the 2nd prize (1st was not awarded) at the Youth Competition of the Polish Composers' Union (1971) for Spatial Sequences for chamber orchestra (1971), the 3rd prize at the International Composition Competition for an Organ Work in Szczecin (1973) for Grave-ap for organ (1973), an honourable mention at the 7th Concours International de Musique Electroacoustique de Bourges, Frane (1979) for Subtitle-Euridice's Dream for tape (1978), and awards for his music for films: Automobil at the Festival of Films for Children in Poznań (1988) and Metamorfozy at the International Short Film Festival in Kraków (1989). He lectured at the Academy of Music in Kraków (1972-2019), from 2002 as professor of composition. He also teaches composition courses at the Summer Music Academy. He was a member of the Group for Music Analysis and Interpretation of the Kraków Academy of Music. From 1976 to 1979 he taught courses in electronic music at the Young Musicians for the Young City festival in Stalowa Wola. Among his students are composition graduates: Michał Jakub Papara, Çınar Timur (Turkey), Wassim Ibrahim (Syria), Dawid Kusz OP, as well as PhD holders: Mateusz Bień, Emil Bernard Wojtacki and Renata Stivrina (Latvia). For many years he collaborated with the Studio of Animated Films in Kraków. He co-founded the Słowacki Spatial Theatre Music Studio in Kraków, where in the years 1991 to 1998 he directed the Department of Music and Sound Implementation. He is the hero of a documentary film by Jerzy Ridan Józef Rychlik — composer (1993). He was a member of the jury of composition competitions, including the Tarnów Culture Center Composition Competition (1993, 1994) and the Film and Music Competition at the OFAFA Animated Film Festival in Kraków (1995). His works have been performed at many contemporary music festivals, including Warsaw Autumn, Poznań Music Spring, and the International Society of Contemporary Music Festival. In 2003 he rceived a creative scholarship of the Ministry of Culture and National Heritage to write an orchestral work and in 2018 his Oktet was commissioned by the Polish Composers' Union in the \"Composing Commissions\" programme run by the Institute of Music and Dance. He is an ordinary member of the Polish Composers' Union. In the eighties, for several terms, he was the Secretary of the Kraków Branch of the Polish Composers' Union. For his activities he was awarded the Medal of the National Education Commission‎, granted by the Minister of National Education (2005), the Gold Medal for Long Service, granted by the President of the Republic of Poland Lech Kaczyński (2008), and the Bronze Medal for Merit to Culture, granted by the Minister of Culture and National Heritage Piotr Gliński (2016). updated: 2020 (Agnieszka Cieślak)",
+  "birth": {
+    "place": "Kraków",
+    "date": "12th May 1946",
+    "raw": "b. 12th May 1946 in Kraków"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Nocturne for soprano, flute, piano and 3 cymbals (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "String Quartet (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "A piece for flute, clarinet, violin and cello (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Symphonic Music I for 2 pianos and 2 string quartets (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Symphonic Music II for orchestra (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "á 2 for percussion (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Musica per gliss for 2 sopranos, violin, vibraphone and piano (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "A piece for flute solo (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Ametrio for flute, violin and cello (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Le Miroir for soprano (or mezzosoprano) and piano (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Spatial Sequences for chamber orchestra (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Le cercle for percussion (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Ellipsis for piano, wind instrument, and any 4 instruments (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Sketches for organ and orchestra (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Grave-ap for organ (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "VO-TO for mixed choir a cappella (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Peut- ĕtre , graphic piece for any solo instrument or voice or chamber ensemble or ballet group with tape ad libitum (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Plenitudo temporis for large symphony orchestra (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Musinelle for tape (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Accialto for viola solo and chamber orchestra (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Wall Music , photography for tape (1975-77)",
+      "year": "1975-77"
+    },
+    {
+      "title": "La Comparsita for tape (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "It for tape (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Subtitle – Euridice’s Dream for tape (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "C’est-à-dire for chamber ensemble and tape (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Just Beyond the Horizon for tape (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "2M80 (Fugues around white) for tape (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Subtitle – Euridice’s Dream II for soprano and tape (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "2M91 for tape (1991)",
+      "year": "1991"
+    },
+    {
+      "title": "Aura I for tape (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Logo for tape (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Logo III , electroacoustic miniature for tape (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Between Night and Day , pantomime (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Invocazioni intorno , concerto for French horn and percussion (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "In principio erat Verbum for choir and tape (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "January Fantasy for piano (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Ave Crux for choir (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "The Gate of the Sun II for tape (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Fantasy for Baroque violin and electroacoustic layer (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Ich und Du for symphony orchestra, dedicated to Amalie Osmann and her Family (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Zirkus (coauthor), a cycle of 12 pieces for violin - Antoni Cofalik, and piano - Józef Rychlik (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "December Fantasy for saxophones (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Octet for flute, clarinet, French horn, trumpet, violin, viola, cello and piano (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "feature film:",
+      "year": null
+    },
+    {
+      "title": "Sonata marymoncka (based on the novel by M. Hłasko), dir. Jerzy Ridan, Wytwórnia Filmów Fabularnych w Łodzi, 1986.",
+      "year": null
+    },
+    {
+      "title": "documentary films (selection):",
+      "year": null
+    },
+    {
+      "title": "Józef Rychlik kompozytor , dir. Jerzy Ridan, 1993;",
+      "year": null
+    },
+    {
+      "title": "Na rogu Marksa i Majakowskiego ( W obronie krzyża ), dir. Jerzy Ridan, prod. Agencja CRACKFILM, 1995;",
+      "year": null
+    },
+    {
+      "title": "Słoneczna , dir. Bogusław Dąbrowa-Kostka, 1995;",
+      "year": null
+    },
+    {
+      "title": "Ze światłem , dir. Jadwiga Żukowska, Łódź 1996;",
+      "year": null
+    },
+    {
+      "title": "Władysław Bartoszewski , dir. Jerzy Ridan i Jerzy Kowynia, prod. „Kalejdoskop” for TV II P Warszawa, 1996/97;",
+      "year": null
+    },
+    {
+      "title": "Jestem polskim Żydem , dir. Jerzy Ridan, 1997;",
+      "year": null
+    },
+    {
+      "title": "Biologia przetrwania , dir. Andrzej Jeziorek, TV II P, Warszawa 1997;",
+      "year": null
+    },
+    {
+      "title": "Moje imię Kinga , dir. Jerzy Ridan, 1999;",
+      "year": null
+    },
+    {
+      "title": "Pielgrzym , dir. Jerzy Ridan, 2001.",
+      "year": null
+    },
+    {
+      "title": "Parada, dir. and graphic design Jerzy Kucia, Studio Filmów Animowanych, Kraków 1986;",
+      "year": null
+    },
+    {
+      "title": "Kresy , Sławomir Zalewski, 1986;",
+      "year": null
+    },
+    {
+      "title": "Metamorfozy , dir. and graphic design Łucja Mróz--Raynoch, Studio Filmów Animowanych, Kraków 1987;",
+      "year": null
+    },
+    {
+      "title": "Automobil , dir. Łucja Mróz-Raynoch, 1987;",
+      "year": null
+    },
+    {
+      "title": "Ciąg dalszy nastąpi , dir. Krzysztof Raynoch, 1988;",
+      "year": null
+    },
+    {
+      "title": "Norma , dir. Łucja Mróz-Raynoch, 1988;",
+      "year": null
+    },
+    {
+      "title": "Kule i Koła (dla dzieci), dir. and graphic design Łucja Mróz-Raynoch, Studio Filmów Animowanych, Kraków 1989;",
+      "year": null
+    },
+    {
+      "title": "Twierdza , dir. Krzysztof Raynoch, 1989;",
+      "year": null
+    },
+    {
+      "title": "Grunt to zdrowie , dir. Krzysztof Raynoch, 1989;",
+      "year": null
+    },
+    {
+      "title": "Trzeba robić , dir. Paweł Kamykowski, 2013.",
+      "year": null
+    },
+    {
+      "title": "Henryk Rzewuski Pamiątki Soplicy , adaptation and dir. Mikołaj Grabowski, Polish premiere, Teatr im. Stefana Jaracza w Łodzi, 1980;",
+      "year": null
+    },
+    {
+      "title": "Witold Gombrowicz Trans-Atlantyk , adaptation and dir. Mikołaj Grabowski, Polish premiere, Teatr im. Stefana Jaracza w Łodzi, 1981;",
+      "year": null
+    },
+    {
+      "title": "Henryk Rzewuski Listopad , adaptation and dir. Mikołaj Grabowski;",
+      "year": null
+    },
+    {
+      "title": "Stanisław Wyspiański Wesele , dir. Mikołaj Grabowski;",
+      "year": null
+    },
+    {
+      "title": "Antoine Saint-Exupery Mały Książę , dir. Wojciech Wieczorkiewicz, Teatr Lalki i Aktora \"Baj Pomorski\" w Toruniu, 1984;",
+      "year": null
+    },
+    {
+      "title": "Carlo Gozzi Miłość do trzech pomarańczy , dir. Andrzej Jamróz, Teatr im. C. K. Norwida w Jeleniej Górze, 1989;",
+      "year": null
+    },
+    {
+      "title": "Henryk Ibsen Dzika kaczka , dir. Julia Vernio, Teatr \"Miniatura\" w Krakowie, 1991;",
+      "year": null
+    },
+    {
+      "title": "Antoni Czechow Wiśniowy sad , dir. Mikołaj Grabowski’ Teatr im. J. Słowackiego w Krakowie, 1994;",
+      "year": null
+    },
+    {
+      "title": "Tadeusz Słobodzianek Prorok Ilja , dir. Mikołaj Grabowski Teatr Nowy w Łodzi, 1999;",
+      "year": null
+    },
+    {
+      "title": "William Shakespeare Król Lear , dir. Mikołaj Grabowski Teatr Nowy w Łodzi, 2000;",
+      "year": null
+    },
+    {
+      "title": "Esther Vilar Królowa i Szekspir , dir. Mikołaj Grabowski, Teatr Scena STU w Krakowie, 2001.",
+      "year": null
+    }
+  ],
+  "publications": "articles & papers Psalmus, Strofy, Psalmy Dawida, Fonogrammi, Kanon, Ekecheiria , in: Twórczość Krzysztofa Pendereckiego Od genezy do rezonansu , ed. Mieczysław Tomaszewski Punktualizm we wczesnej twórczości Krzysztofa Pendereckiego , in: Zeszyty Naukowe AM w Krakowie, 1975 Pierre Schaeffer - autorefleksja kompozytorska , in: Zeszyty Naukowe AM w Krakowie, 1977 Muzyka w muzyce u Bartoka , in: \"Zeszyty Baranowskich”, 1977 Eugeniusza Knapika poemat symfoniczny 'Tak jak na brzegu morza\" , in: Zeszyty Naukowe AM w Krakowie, 1978 Adam Walaciński. Wybrane zagadnienia z twórczości na przykładzie \"Liryki sprzed zaśnięcia” , in: Krakowska Szkoła Kompozytorska 1988-1988 , ed. Teresa Malecka, Kraków 1993, Krzysztof Penderecki’s \"Psalmus” , in: Studies in Penderecki, ed. Ray Robinson, 2003 Duchowość a technologia , in: Zeszyty Naukowe AM w Krakowie, 2004 lexicografic entries Pierre Henry, in: Encyklopedia Muzyczna PWM, ed. Elżbieta Dziębowska, Polskie Wydawnictwo Muzyczne, Kraków 1993.",
+  "bibliography": "Jabłoński Maciej, Józef Rychlik , in: Kompozytorzy Polscy 1918-2000 , v. II, ed. Marek Podhajski, Akademia Muzyczna w Gdańsku - Akademia Muzyczna w Warszawie 2005 Siemdaj Ewa, Józef Henryk Rychlik , in: Encyklopedia Muzyczna PWM (ed. Elżbieta Dziębowska), PWM, Kraków, 1993 Bakszi, L., Józef Rychlik , in: \"Muzykalnaja Akademjia\", nr 4, 1993 Piątek Katarzyna, Ingerencje sztuk wizualnych w świat kompozytorski Józefa Rychlika , in: Muzyka, słowo, sens w 70 rocznicę urodzin Mieczysława Tomaszewskiego (ed. Anna Oberc), Akademia Muzyczna w Krakowie, 1994",
+  "slug": "rychlik-jozef-en"
+}

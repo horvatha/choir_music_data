@@ -9,6 +9,7 @@ to that one site (each site's markup is different enough -- and each
 script's needs specific enough -- that a shared parser wouldn't buy
 much; only the network/text plumbing is actually common).
 """
+import html
 import re
 import time
 import urllib.error
@@ -47,6 +48,14 @@ def fetch(url: str, user_agent: str, retries: int = 5, timeout: int = 15) -> byt
             time.sleep(wait)
 
 
-def strip_tags(html: str) -> str:
-    """Collapse a chunk of HTML down to whitespace-normalized plain text."""
-    return re.sub(r"\s+", " ", _TAG_RE.sub(" ", html)).strip()
+def strip_tags(markup: str) -> str:
+    """Collapse a chunk of HTML down to whitespace-normalized plain text.
+
+    Decodes HTML entities (&nbsp; etc) after stripping tags -- found via
+    polmic.pl's Tomasz Stańko entry, "b.&nbsp;11th July 1942", where the
+    literal entity text (not inside a tag, so untouched by _TAG_RE) broke
+    the "b." abbreviated-date regex downstream. re's \\s matches the
+    decoded U+00A0 non-breaking space, so the whitespace-collapse below
+    normalizes it to a plain space same as any other whitespace."""
+    text = html.unescape(_TAG_RE.sub(" ", markup))
+    return re.sub(r"\s+", " ", text).strip()

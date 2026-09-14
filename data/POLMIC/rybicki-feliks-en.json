@@ -1,0 +1,22 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/r/rybicki-feliks-en",
+  "title": "Rybicki Feliks",
+  "name": "Rybicki Feliks",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": "pianist, conductor, music tutor and composer, b. 24th January 1899 in Warsaw; d. 24th August 1978, Warsaw. Graduated from the Górski Grammar School in 1916, then studied law at Warsaw University. Music studies with Konstanty Heinze and Wanda Zielińska-Kahl (piano) and Mieczysław Skolimowski (theory); later, in 1919-25, he studied composition with Roman Statkowski (until the latter’s death), then with Witold Maliszewski, and conducting with Emil Młynarski and Henryk Melcer in The State Music Conservatory in Warsaw. In 1926, he made his debut as a conductor in Warsaw Philharmonic. For many years, he was artistic director of the Academic Music Society in Warsaw. He conducted ensembles in the theatres of Warsaw (incl. collaboration with Leon Schiller in the Polski Theatre) and of Łódź; he taught music and choral singing in secondary comprehensive schools, as well as teaching in music schools, in which he directed chamber ensembles. In 1937-39, he was choirmaster in Warsaw Philharmonic. He was most active, however, as a conductor and composer for the Polish Radio. In 1951-53, he was professor of conducting in State Higher School of Music in Sopot (now Stanisław Moniuszko Music Academy in Gdańsk). Feliks Rybicki frequently received awards in music competitions in Poland for his choral and piano works. In 1952, he was granted the Prime Minister’s Award for works for children and youth.",
+  "birth": {
+    "place": "Warsaw",
+    "date": "24th January 1899",
+    "raw": "b. 24th January 1899 in Warsaw"
+  },
+  "death": {
+    "place": "Warsaw",
+    "date": "24th August 1978",
+    "raw": "d. 24th August 1978, Warsaw"
+  },
+  "works": [],
+  "publications": null,
+  "bibliography": "Wysocka Hanna, Człowiek który służył muzyce, \"Twoja Muza\" 2009 nr 4, s. 13-15",
+  "slug": "rybicki-feliks-en"
+}

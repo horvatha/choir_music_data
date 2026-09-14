@@ -1,0 +1,191 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/b/bury-edward-en",
+  "title": "Bury Edward",
+  "name": "Bury Edward",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Intermezzo na fortepian (1940)",
+      "year": "1940"
+    },
+    {
+      "title": "Nokturn na fortepian (1940)",
+      "year": "1940"
+    },
+    {
+      "title": "Polonez na fortepian (1940)",
+      "year": "1940"
+    },
+    {
+      "title": "Veni Creator na chór mieszany (1942)",
+      "year": "1942"
+    },
+    {
+      "title": "Stabat Mater na chór mieszany (1943)",
+      "year": "1943"
+    },
+    {
+      "title": "Wariacje i fuga na fortepian (1945)",
+      "year": "1945"
+    },
+    {
+      "title": "Mała suita na orkiestrę smyfoniczną (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "Tryptyk na orkiestrę symfoniczną (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Uwertura koncertowa na orkiestrę symfoniczną (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "Suita giocosa na orkiestrę symfoniczną (1956)",
+      "year": "1956"
+    },
+    {
+      "title": "Suita fantastyczna „Maski” na orkiestrę symfoniczną (1957)",
+      "year": "1957"
+    },
+    {
+      "title": "Suita symfoniczna na chór mieszany i orkiestrę (1959)",
+      "year": "1959"
+    },
+    {
+      "title": "Symfonia nr 1 „Wolności” (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Sancte Vincenti (Invocatio) na chór męski (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Evangelli factus sum minister (Responsorium) na chór męski (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Oculus Dei respexit (Responsorium) na chór męski (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Messis guidem multa na chór męski (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Sześć pieśni na chór mieszany (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Symfonia nr 2 „Koncertująca” na flet, obój, klarnet, fagot, trąbkę, marimbafon i orkiestrę symfoniczną (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Cztery pieśni na chór męski (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Obrazy Tysiąclecia na chór mieszany (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Symfonia nr 3 „Mówi prezydent John F. Kennedy” na głos recytujący, chór mieszany (ad libitum) i orkiestrę symfoniczną (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Hymn tysiąclecia na chór mieszany i orkiestrę (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Symfonia nr 4 „Da timpani a tutti” na bas solo, chór mieszany i orkiestrę symfoniczną (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Tryptyk żartobliwy na chór mieszany (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Introitus - Gaudeamus omnes in Domino na chór mieszany (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Modlitwa o pokój [wersja I] na chór mieszany i organy (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "Modlitwa o pokój [wersja II] na chór mieszany i orkiestrę (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Ofiara i chwała tryptyk o błogosławionym Maksymilianie Kolbe na baryton solo, chór mieszany i organy (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Symfonia nr 5 „Bohaterska” (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Msza ekumeniczna na chór mieszany, zespół kameralny i organy (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Symfonia nr 6 „Pacem in terris” na głos recytujący i orkiestrę (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Treny warszawskie na baryton solo, chór mieszany i orkiestrę symfoniczną (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Cztery preludia na chór mieszany (1974)",
+      "year": "1974"
+    },
+    {
+      "title": "Oratorium o św. Franciszku z Asyżu na tenor solo, głos recytujący, chór mieszany, chór męski, chór chłopięcy i organy (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Krakowskie wesele na chór mieszany (1976)",
+      "year": "1976"
+    },
+    {
+      "title": "Symfonia nr 7 (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Pieśń marynarzy op. 114 na chór męski a cappella (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Ta chwila całego życia [wersja I] na chór mieszany (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Ta chwila całego życia [wersja II] na sopran, tenor, kwartet żeński i orkiestrę (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Międzynarodowy hymn pokoju na chór mieszany i fortepian (bas-baryton i chór chłopięcy ad libitum) (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Symfonia nr 8 (1980)",
+      "year": "1980"
+    }
+  ],
+  "publications": "Podstawy techniki dyrygowania, PWM, Kraków 1961 Technika czytania partytur, PWM, Kraków 1971",
+  "bibliography": "Błaszczyk L. T., Dyrygenci polscy i obcy w Polsce działający w XIX i XX w., PWM, Kraków 1964 Habela Jerzy, Bury Edward, t. „ab”, PWM, Kraków 1979 Hanuszewska Mieczysława, Schaeffer Bogusław, Almanach polskich kompozytorów współczesnych, PWM, Kraków 1982 Bury Edward, t. „ab - suplement”, PWM, Kraków 1998",
+  "slug": "bury-edward-en"
+}

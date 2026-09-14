@@ -1,0 +1,71 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/i/izykowski-roman-en",
+  "title": "Iżykowski Roman",
+  "name": "Iżykowski Roman",
+  "occupation": "composer, musicologist",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Sonata na skrzypce i fortepian (1935)",
+      "year": "1935"
+    },
+    {
+      "title": "Mała suita na smyczki, harfę, czelestę i kotły (1936)",
+      "year": "1936"
+    },
+    {
+      "title": "Kwartet smyczkowy nr 1 (1942)",
+      "year": "1942"
+    },
+    {
+      "title": "Pod ziemią , szkice symfoniczne (1943)",
+      "year": "1943"
+    },
+    {
+      "title": "Trzy pieśni na chór męski do czeskich tekstów ludowych (1943)",
+      "year": "1943"
+    },
+    {
+      "title": "Koncert skrzypcowy (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "Polonez na orkiestrę (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Kwartet smyczkowy nr 2 (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Concertino na skrzypce i mały zespół instrumentalny (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Ballada o moim mieście , poemat symfoniczny na XX-lecie wyzwolenia Łodzi (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Mot 64 na orkiestrę symfoniczną (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Toccata na orkiestrę symfoniczną (1967)",
+      "year": "1967"
+    }
+  ],
+  "publications": "articles & papers Mikołaj Gomółka w Sandomierzu, „Poradnik Muzyczny” 1960 nr 1-4 Pojmowanie muzyki jako środka wychowawczego w różnych okresach rozwoju myśli pedagogicznej, „Poradnik Muzyczny” 1961 nr 7-8 Człowiek współczesny a muzyka, „Poradnik Muzyczny” 1963 nr 2 Muzyczne problemy XX-lecia, „Poradnik Muzyczny” 1964 nr 11 Kolorystyka instrumentalna na tle ewolucji faktury kameralnej oraz niektóre problemy wykonawcze w Kwartetach Beli Bartóka, w: Zeszyt Naukowy nr 1 , Państwowa Wyższa Szkoła Muzyczna w Łodzi, Łódź 1969 Nauka muzyki w łódzkich szkołach elementarnych, rządowych i prywatnych (1806-1918), w: Zeszyt Naukowy nr 3 , Państwowa Wyższa Szkoła Muzyczna w Łodzi, Łódź 1974 Prywatne (domowe) nauczanie muzyki (1838-1918), w: Zeszyt Naukowy nr 5 , Państwowa Wyższa Szkoła Muzyczna w Łodzi, Łódź 1977 Łódzkie szkoły muzyczne (1893-1918). Cz. I, w: Zeszyt Naukowy nr 6 , Państwowa Wyższa Szkoła Muzyczna w Łodzi, Łódź 1978 Łódzkie szkoły muzyczne (1893-1918). Cz. II, w: Zeszyt Naukowy nr 7 , Państwowa Wyższa Szkoła Muzyczna w Łodzi, Łódź 1979",
+  "bibliography": "Cieślak Lucjan, Iżykowski Roman, PWM, Kraków 1993 Szoka Marta, Iżykowski Roman, Akademia Muzyczna w Łodzi, Łódź 2001",
+  "slug": "izykowski-roman-en"
+}

@@ -1,0 +1,39 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/k/kuls-aleksandra-en",
+  "title": "Kuls Aleksandra",
+  "name": "Kuls Aleksandra",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Zaskoczenie duet skrzypcowy (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Zegar miniatura dla czterech pianistów (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Ballada o huśtawce miniatura na skrzypce (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "Preludium na skrzypce solo (2010)",
+      "year": "2010"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "kuls-aleksandra-en"
+}

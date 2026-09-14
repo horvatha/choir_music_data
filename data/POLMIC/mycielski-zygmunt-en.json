@@ -1,0 +1,195 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/m/mycielski-zygmunt-en",
+  "title": "Mycielski Zygmunt",
+  "name": "Mycielski Zygmunt",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "composer, writer, music life organiser, b. 17th August 1907 in Przeworsk; d. 5th August 1987 in Warsaw. He completed secondary school in Cracow, where he also took music lessons from Father Bernardino Rizzi, the Italian composer-organist and choirmaster. From 1928, following Karol Szymanowski’s advice, he continued music education in École Normale de Musique in Paris with Paul Dukas and Nadia Boulanger. He took part in the activity of the Association of Young Polish Musicians in Paris, whose president he was in 1934-36. In 1936 he returned to Poland, where he was active as a composer, music critic and journalist. He took part in World War II, first in the September 1939 campaign in Poland, then in 1940 – in France. As a soldier in the Polish army, he became prisoner-of-war in a camp, and then did compulsory work for a German farmer. After the war, he returned to Poland. In 1946-48 and 1957-59 he was co-editor of \"Ruch Muzyczny\", in 1960-68: editor-in-chief of that magazine. He was also co-editor of \"Res Facta\", \"Rocznik Chopinowski\" [\"Chopin Yearly\"] and \"Chopin Studies\". In 1955 in \"Przegląd Kulturalny\" he published an article in which he criticised the isolation of Polish culture from the work of composers worldwide. After the intervention of the Warsaw Pact armies in Czechoslovakia, in the Parisian “Kultura”, the publishing house of dissident émigrés, he published an open letter to Czech and Polish musicians. Because of this pubication, he was persecuted by the Polish communist authorities: he was dismissed from the post of editor-in-chief in \"Ruch Muzyczny\", submitted to strict individual censorship and forbidden to leave the country. In 1974, he signed the letter of 15 Polish intellectuals and artists to the communist authorities in Poland, demanding access to Polish culture and independent education for Poles resident in the Soviet Union (more than half of Poland’s pre-war territory now belonged to the USSR). In 1975, he signed a memorial letter of 59 intellectuals to the communist authorities concerning the plan for changes in the constitution. In 1978 he was a founder of the illegal student organisation - Academic Education Society. In 1947-48 and 1952-54, Zygmunt Mycielski was vice-president, and in 1948-49 - president of the Management Board of the Polish Composers’ Union; in 1985-87 – member of the board. In 1954-57 and 1960-83, he was also a member of PCU’s Member Qualification Committee, from 1983 – honorary member of the Polish Composers’ Union. Winner of numerous awards: in 1952, he received State Award, 3rd Class for Symphony No. 1 “Polish Symphony” (1951); twice (in 1954 and 1987) – the Award of the Polish Composers’ Union; in 1955 – Minister of Culture and Art Award for Silesian Overture for orchestra and two pianos (1948); in 1961 – special award in the Concours Musical Prince Rainier III de Monaco for Symphony No. 2 (1961); in 1981 - Minister of Culture and Art Award, 1st Class. He was also decorated with the Cavalier’s (1953) and Commander’s Crosses of the Polonia Restituta Order, The Order of the Banner of Labour (1955) and Ordre de mérite culturel in Monaco. Zygmunt Mycielski was buried in Wiśniowa on the Wisłok River, where in 1988 Andrzej Szypuła initiated the Zygmunt Mycielski Society. Since 1990, the Society has published the periodical \"Kamerton\" which documents and propagates the composer’s life and work. In 1990, the Polish Television produced a film entitled Zygmunt Mycielski. Szkic do portretu [ Zygmunt Mycielski. Sketches for a Portrait ]. Zygmunt Mycielski bequeathed his oeuvre to Barbara Zwolska-Stęszewska and Jan Stęszewski in Warsaw. Their archive contains, among others, drafts, manuscript autograph versions and published scores of compositions, Mycielski’s musical and literary writings, as well as his extensive correspondence and his unique diaries, published as Dziennik 1950-1959 [ Diary 1950-1959 ] (Iskry, Warsaw 1999) and Niby dziennik [ Mock Diary ] (Iskry, Warsaw 1998). Please visit our new website launched in 2022, dedicated to Zygmunt Mycielski: mycielski.polmic.pl.",
+  "birth": {
+    "place": "Przeworsk",
+    "date": "17th August 1907",
+    "raw": "b. 17th August 1907 in Przeworsk"
+  },
+  "death": {
+    "place": "Warsaw",
+    "date": "5th August 1987",
+    "raw": "d. 5th August 1987 in Warsaw"
+  },
+  "works": [
+    {
+      "title": "Three Songs for soprano and piano to words by Cyprian Kamil Norwid, Emil Zegadłowicz and the composer’s own words (1929-30)",
+      "year": "1929-30"
+    },
+    {
+      "title": "Two Songs for soprano and piano to words by Maria Pawlikowska-Jasnorzewska and the composer’s own words (1932)",
+      "year": "1932"
+    },
+    {
+      "title": "Four Preludes for piano and cello (1934)",
+      "year": "1934"
+    },
+    {
+      "title": "Five Wedding Songs to words by Bruno Jasieński (1934)",
+      "year": "1934"
+    },
+    {
+      "title": "Five (or Six) Miniatures for piano (1934)",
+      "year": "1934"
+    },
+    {
+      "title": "Trio for piano, violin and cello (1934)",
+      "year": "1934"
+    },
+    {
+      "title": "Trois chants de Pétrone for soprano and piano (1935)",
+      "year": "1935"
+    },
+    {
+      "title": "Narcissus ballet (1936)",
+      "year": "1936"
+    },
+    {
+      "title": "Lamento di Tristano for small symphony orchestra, to the memory of Karol Szymanowski (1937-1947)",
+      "year": "1937-1947"
+    },
+    {
+      "title": "Fiat voluntas Tua - offertory for two violins and piano or organ (1943)",
+      "year": "1943"
+    },
+    {
+      "title": "Five Symphonic Sketches (1945)",
+      "year": "1945"
+    },
+    {
+      "title": "Survival five songs for baritone or mezzo-soprano and piano to words by Czesław Miłosz (1946-48)",
+      "year": "1946-48"
+    },
+    {
+      "title": "Portrait of a Muse for reciting voice, mixed choir and 15 instruments to words by Konstanty Ildefons Gałczyński (1947)",
+      "year": "1947"
+    },
+    {
+      "title": "Silesian Overture for orchestra and two pianos (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "Prelude for violin and piano (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "Flowers on the Tracks for mixed unaccompanied choir to words by Konstanty Ildefons Gałczyński (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "Symphony No. 1 “Polish Symphony” (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "Elegy for violin and piano (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "Birchwood [1st version] for soprano and piano to words by Jarosław Iwaszkiewicz (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "Birchwood [2nd version] for soprano and string quintet to words by Jarosław Iwaszkiewicz (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Dance Party in Lipiny ballet in one act (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Four Mazovian Songs for choir and orchestra (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Six Preludes for piano (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "Piano Concerto (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "New Mazovian Wandering Singer 10 songs and finale for soprano, baritone, mixed choir and symphony orchestra (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "The Year Round 6 songs for baritone (tenore profondo) and piano to words by Jarosław Iwaszkiewicz (1956-67)",
+      "year": "1956-67"
+    },
+    {
+      "title": "Mathematical Variations for small orchestra (1957)",
+      "year": "1957"
+    },
+    {
+      "title": "Symphony No. 2 (1960-61)",
+      "year": "1960-61"
+    },
+    {
+      "title": "Piano Concerto No. 2 (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Symphony No. 3 “Sinfonia breve” (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Five Preludes for string quintet and piano (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Written Early in the Morning for tenore profondo and piano to words by Czesław Miłosz (1971)",
+      "year": "1971"
+    },
+    {
+      "title": "Symphony No. 4 (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Symphony No. 5 (1977)",
+      "year": "1977"
+    },
+    {
+      "title": "Six Songs for orchestra (1978)",
+      "year": "1978"
+    },
+    {
+      "title": "Variations for small string orchestra (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Fantasy for orchestra (1981)",
+      "year": "1981"
+    },
+    {
+      "title": "Three Psalms for solo baritone, choir and orchestra (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Eternal Peace for mixed choir or solo voice with positive organ (1983-84)",
+      "year": "1983-84"
+    },
+    {
+      "title": "Liturgia sacra for choir and orchestra (1983-84)",
+      "year": "1983-84"
+    },
+    {
+      "title": "Eight Songs to words by Zbigniew Herbert (1983-84)",
+      "year": "1983-84"
+    },
+    {
+      "title": "Symphony No. 6 (1985-86)",
+      "year": "1985-86"
+    },
+    {
+      "title": "Fragments for choir and small orchestra to words by Juliusz Słowacki (1987)",
+      "year": "1987"
+    }
+  ],
+  "publications": "books Ucieczki z pięciolinii [Escape from the Staves], PIW, Warszawa 1957 Notatki o muzyce i muzykach [Notes on Music and Musicians], PWM, Kraków 1961 Postludia , PWM, Kraków 1977 Niby-dziennik [Mock Diary], Iskry, Warszawa 1998 Dziennik 1950-1959 [Diary1950-1959], Iskry, Warszawa 1999 Szkice i wspomnienia [Sketches and Memories], Biblioteka \"WIĘZI\", Warszawa 1999 Dziennik 1960-1969 , Iskry, Warszawa 2001",
+  "bibliography": "Tarnawska-Kaczorowska Krystyna (red.), Melos, logos, etos. Materiały sympozjum poświęconego twórczości F. Dąbrowskiego, S. Kisielewskiego, Z. Mycielskiego [Melos, logos, etos. Materials of a Conference Dedicated to the Work of F. Dąbrowski, S. Kisielewski, Z. Mycielski], ZKP, Warszawa 1987 Najbardziej cenię sztukę płynącą w sposób naturalny [I Regard the Most Highly Art that Flows Naturally, Jan Stęszewski’s interview with Zygmunt Mycielski], \"Ruch Muzyczny\" 1987 nr 13 Markowska Elżbieta, Zygmunt Mycielski, \"Res Facta Nova\" 1992 nr 1 Szoka Marta, \"Liturgia sacra\" Zygmunta Mycielskiego - misterium tremendum et fascinosum [Zygmunt Mycielski’s \"Liturgia sacra\" - misterium tremendum et fascinosum], In: Muzyka polska 1945-1995 [Polish Music 1945-1995] (eds. Krzysztof Droba, Teresa Malecka, Krzysztof Szwajgier), Akademia Muzyczna w Krakowie, Kraków 1996 Erhardt Ludwik, O Zygmuncie Mycielskim - tym, którzy go nie znali [About Zygmunt Mycielski – for Those Who Did Not Know Him], \"Ruch Muzyczny\" 1998 nr 16 Stęszewski Jan, Mycielski Zygmunt, In: Encyklopedia Muzyczna PWM (część biograficzna pod red. Elżbiety Dziębowskiej), t. „m” [PWM Music Encyclopaedia, biographical part ed. by Elżbieta Dziębowska], vol. “M”, PWM, Kraków 2000 Zygmunt Mycielski [an issue dedicated to the composer], \"Kamerton\" 2002 nr 1-2 Zygmunt Mycielski [an issue dedicated to the composer], \"Kamerton\" 2004 nr 1-2 Dwa listy Zygmunta Mycielskiego z 1952 roku, \"Ruch Muzyczny\" 2008 nr 5, s.9-10",
+  "slug": "mycielski-zygmunt-en"
+}

@@ -1,0 +1,99 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/z/zych-przemyslaw-en",
+  "title": "Zych Przemysław",
+  "name": "Zych Przemysław",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": "composer, arranger, conductor, teacher, organizer of musical life; b. 5th May 1980 in Radom. In 2000-2010 he studied composition with Zbigniew Bagiński (diploma with honours) as well as symphony and opera conducting with Szymon Kawalla (diploma with honours) at the Fryderyk Chopin Academy of Music in Warsaw. He participated in master classes at the International Bartók Seminar in Szombathely in Hungary (2006), where he worked with Peter Eötvös and Johannes Schöllhorn (composition) as well as Zoltán Peskó and László Tihanyi (conducting). He is a laureate of the Karol Szymanowski Music Performance Competition in Zakopane (1998), the Adam Didur Composition Competition in Sanok (2002) and the Composition Competition for a piece inspired by the poetry of Tadeusz Różewicz (2006). In 2008 Przemysław Zych made his debut as a composer at the Warsaw Philharmonic, and two years later he debuted as a conductor. His works have been performed at many concerts and festivals in Poland, including Adam Didur Festival in Sanok, “Generations”, “Musical Seasons” and “Warsaw Music Encounters” organised by the Polish Composers' Union, Contemporary Music Laboratory, My Splendid Isolation – Karol Szymanowski Days, Nicholas of Radom Early Music Festival, as well as abroad, in England, Belgium, Germany, United States, Ukraine, and Italy. As a composer, he has collaborated with many excellent ensembles (Polish Radio Choir, Lublin Philharmonic Symphony Orchestra, Polish Radio Orchestra, Kammerchor CONSONO, National Polish Radio Symphony Orchestra, Schola Cantorum Gedanensis, Sinfonia Varsovia, Trombastic, The University of Louisville Cardinal Singers, Warsaw Stage Society Choir), conductors (Kent Hatteberg, Marta Jakubiec, Harald Jers, Jan Łukaszewski, Ewa Strusińska, Krzysztof Urbański , Monika Wolińska, Jerzy Wołosiuk, Szymon Wyrzykowski) and soloists (Magdalena Kordylasińska and Miłosz Pękala, Paw and Książkiewicz, Anna Mikolajczyk-Niewiedział, Robert Morawski, Anna Kutkowska-Kass, Anna Kwiatkowska, Małgorzata Pańko, Łucja Szablewska, Monica Świostek, Sławomir Tomasik). May 2013 saw the premiere of his chamber opera Poiesis , based on the drama The reconstruction of the poet by Zbigniew Herbert, at the Bydgoszcz Opera Festival. The premiere of ballet Alice in Wonderland , created in collaboration with dancer and choreographer Jacek Tyski, and Concerto for accordion and orchestra DANCE! Concerto, written for a young talented musician Bartosz Kołsut, took place in 2015. All these works were commissioned as part of the “Composing Commisssion” programme run by the Institute of Music and Dance. Przemyslaw Zych was one of co-founders of the Radom Chamber Orchestra and conductor of its first concerts. In the 2011/2012 season he was a composer-in-residence with this Orchestra as part of the first edition of the “Composer-in-residence” programme run by the Institute of Music and Dance. As a condutor, he has also collaborated with Kapela od Świętego Kazimierza, Szczecin Philharmonic, Opera at the Castle in Szczecin, Opera Nova in Bydgoszcz, Sinfonia Varsovia, Polish Theatre in Szczecin. In 2007, he was a founder and artistic director of “My splendid isolation – Karol Szymanowski Days” Festival in Radom. He is a co-organizer of the “Controlled Festival” in Radom, which since 2013 unites children from music schools and professional musicians in contemporary music concerts and workshops. In 2011, his psalm Miserere for mixed choir a cappella was included on the album New Polish Music for Choir released by the Musica Sacra Edition label. The alum performed by the Schola Cantorum Gedanensis choir under the direction of Jan Łukaszewski was awarded the Fryderyk 2012 award in the “Contemporary Music” category. In 2016, Dux Records released a double album with music from the ballet Alice in Wonderland , performed by the Opera Orchestra at the Castle in Szczecin under the direction of Jerzy Wołosiuk. Since 2013, Przemysław Zych teaches at the Department of Composition, Conducting and Theory of Music at the Fryderyk Chopin University of Music in Warsaw. In addition, since 2009 he teaches theoretical subjects and conducts an orchestra at the Oskar Kolberg Music Schools Complex in Radom. updated: 2020 (ac) Composer's website: https://przemyslawzych.wordpress.com/",
+  "birth": {
+    "place": "Radom",
+    "date": "5th May 1980",
+    "raw": "b. 5th May 1980 in Radom"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Miserere for mixed choir a cappella (2000-2001)",
+      "year": "2000-2001"
+    },
+    {
+      "title": "My Soul for mixed choir a cappella (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Rocky Acres , songs for baritone and piano to poems by Robert Graves (2001-2002)",
+      "year": "2001-2002"
+    },
+    {
+      "title": "Eight Microludes for two violas (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Prologue for large symphonic orchestra (2003, 2005)",
+      "year": null
+    },
+    {
+      "title": "Epiphany for 17 musicians (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Heirloom for baroque flute and computer (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Fünf Tagebuchblätter von W.H. for two percussionists (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Old Bear is Sleeping Deeply , little variations for string quartet (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "O ignis spiritus for two sopranos, alto, female choir and symphonic orchestra (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Agni Canticum for soloists, mixed choir and orchestra (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Foksal 13 for string orchestra (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Concerto for flute and chamber orchestra (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Irritum for orchestra and electronics (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Poiesis, chamber opera (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Alice in Wonderland , ballet (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "DANCE! Concerto for accordion and symphonic orchestra (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Sanctus na chór mieszany (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "En rondeau for instrumental ensemble, amateurs group, live electronics and multi-channel sound projection (2018)",
+      "year": "2018"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "zych-przemyslaw-en"
+}

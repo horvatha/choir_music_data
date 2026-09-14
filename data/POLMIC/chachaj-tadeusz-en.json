@@ -1,0 +1,31 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/c/chachaj-tadeusz-en",
+  "title": "Chachaj Tadeusz",
+  "name": "Chachaj Tadeusz",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Pieśni Rzeszowskie (1965)",
+      "year": "1965"
+    },
+    {
+      "title": "Czardasz (1967)",
+      "year": "1967"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "chachaj-tadeusz-en"
+}

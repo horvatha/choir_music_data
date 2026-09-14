@@ -1,0 +1,187 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/j/janocha-michal-en",
+  "title": "Janocha Michał",
+  "name": "Janocha Michał",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "Composer, conductor, and educator; born February 7, 1990, in Łowicz. He is a graduate of the I. J. Paderewski Academy of Music in Poznań, where he studied in the composition class of Lidia Zielińska and the symphonic conducting class of Marcin Sompoliński (graduating with honors in both). He trained in electroacoustic composition in Poznań and Budapest under Lidia Zielińska and Andrea Szigetvári. In 2019, after defending his dissertation titled Modern Multichannel Sound Projection Systems as a Means of Artistic Expression , he was awarded a doctoral degree in arts (Doctor of Arts) in the field of musical arts, specializing in composition and music theory. He has participated in several masterclasses for composers and conductors led by Marco Stroppa, Karlheinz Essl, Ramon Lazkano, Vykintas Baltakas, Agata Zubel, and Ondřej Adamek, as well as those organized by the Peter Eötvös Contemporary Music Foundation (Peter Eötvös, Georges Aperghis, Unsuk Chin, and Gregory Vajda). His output includes chamber, symphonic, and electroacoustic music, as well as sound installations, and music for theatre and opera. Works by Michał Janocha have been performed in Europe, the United States, and Asia during festivals such as the Yeongwol Contemporary Music Festival, Musica Electronica Nova, Autumn Waves, Earth Day Art Model, CAFe Budapest Contemporary Arts Festival, Audio Art Festival, MDF MUSIC.DESIGN.FORM Festival, Poznań Musical Spring, and Warsaw Music Encounters, among others. In 2023, he was the composer-in-residence at the Yeongwol Contemporary Music Festival in South Korea. He currently serves as the artistic director of the Trans-for-Matha Ensemble (since 2018), president of the Poznań Contemporary Music Foundation (since 2024), and artistic director of the \"Poznań Musical Spring\" International Festival of Contemporary Music (since 2024). He is the co-founder and conductor of the Lambda Ensemble (Poznań Laptop Orchestra). He is a lecturer at the I. J. Paderewski Academy of Music in Poznań (Institute of Composition and Music Theory) and a member of the Board of the Poznań branch of the Polish Composers' Union. The composer's catalog is available through the BabelScores publishing house: www.babelscores.com/MichalJanocha Wiktoria Antonczyk (2024)",
+  "birth": {
+    "place": "Łowicz",
+    "date": "February 7, 1990",
+    "raw": "born February 7, 1990, in Łowicz."
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Going plastic na wiolonczelę, lastry, didgeridoo polipropylenowe i pompki (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "De propos en propos na sopran, kontrabas, didgeridoo i preparowane didgeridoo polipropylenowe (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Four of me for off me na cztery wiolonczele i orkiestrę (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Pneuma na flet basowy, kontrabas i live electronics (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Chamber music 1 na zespół (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Chamber music 2 na zespół (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Should I touch you through the glass? na klarnetobój i ukrytą elektronikę (2017)",
+      "year": "2017"
+    },
+    {
+      "title": "Mikstury skontrastowane na skrzypce lub altówkę solo (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Uwertura na orkiestrę i elektronikę (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Minuta dwubarwna na taśmę (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Myśl zawieszona na orkiestrę (2016, rev. 2018)",
+      "year": null
+    },
+    {
+      "title": "Skry na tubę, dyrygenta i leap motion (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Hippocampbreak! na wiolonczelę i live electronics (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "La manera na obój, waltornię i orkiestrę kameralną (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "6w1 na puzon basowy, sekstet puzonowy i live electronics (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Blue Oranges na rozszerzony fortepian i orkiestrę (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Loosing na akordeon i taśmę (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Easy Baby I’m Fine , instalacja na fortepian i głośnik (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Short change in gravity na taśmę 8-kanałową (2018)",
+      "year": "2018"
+    },
+    {
+      "title": "Koncert na orkiestrę kameralną i live electronics (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Nu na saksofon altowy i live electronics (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Słyszę, że patrzysz , spektakl multimedialny dla dzieci na aktora, zespół, przestrzeń ambisoniczną i video (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Hùndùn na perkusję i surround live electronics (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Jest na to czas i miejsce , interaktywna video-opera (2020)",
+      "year": "2020"
+    },
+    {
+      "title": "Omaggio a Kotoński na taśmę 4-kanałową (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "Tactile Thresholds na orkiestrę laptopową (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "Tactile Thresholds 2 na live electronics solo (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "POLSKA 2020 , utwór audio-video (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "Chamber Music 3 na klarnet, puzon, fortepian i wiolonczelę (2021)",
+      "year": "2021"
+    },
+    {
+      "title": "Chamber Music 4 na obój, skrzypce, altówkę i live electronics (2022)",
+      "year": "2022"
+    },
+    {
+      "title": "After Timelessness na trzy akordeony i taśmę (2022)",
+      "year": "2022"
+    },
+    {
+      "title": "BICOLOUR CADENZA na fortepian solo (2022)",
+      "year": "2022"
+    },
+    {
+      "title": "Thought Circuit A na obój, sztuczną inteligencję i orkiestrę laptopową (2022)",
+      "year": "2022"
+    },
+    {
+      "title": "Fragile Thoughts (Kruche myśli) na kwartet smyczkowy i taśmę (2023)",
+      "year": "2023"
+    },
+    {
+      "title": "...and the space will have us all na flet, klarnet, fortepian, skrzypce, wiolonczelę i przestrzeń ambisoniczną (2023)",
+      "year": "2023"
+    },
+    {
+      "title": "Reconstructed Depth na dowolny zespół i elektronikę (2023)",
+      "year": "2023"
+    },
+    {
+      "title": "Breathtaking na dwa flety, sztuczną inteligencję i elektronikę (2023)",
+      "year": "2023"
+    },
+    {
+      "title": "Chamber Music 5 na trąbkę, puzon i taśmę (2023)",
+      "year": "2023"
+    },
+    {
+      "title": "Trzy tempa na obój i taśmę (2023)",
+      "year": "2023"
+    },
+    {
+      "title": "…myśli i pejzaży in memoriam Peter Eötvös na sopran i orkiestrę kameralną (2024)",
+      "year": "2024"
+    },
+    {
+      "title": "Alcheringa na klarnet kontrabasowy i taśmę (2024)",
+      "year": "2024"
+    }
+  ],
+  "publications": "Michał Janocha, Modelowane szeregi nieharmoniczne o naturalnych walorach brzmieniowych — własna metoda konstrukcji harmonii postspektralnej , w: De cultura commentarii , red. M. Pawłowska, Poznań, Wydawnictwo Akademii Muzycznej im. I. J. Paderewskiego, 2023 s. 211-222.",
+  "bibliography": null,
+  "slug": "janocha-michal-en"
+}

@@ -1,0 +1,67 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/f/falkiewicz-adam-en",
+  "title": "Falkiewicz Adam",
+  "name": "Falkiewicz Adam",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Hypnos utwór radiowy na taśmę (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Manitou na dwa flety traverso, dwa flety współczesne i dwa fortepiany (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Counterpoint Seven na orkiestrę i live electronics (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Schwarz Weiss Grau na video i taśmę kwadrofoniczną (ADAT) (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Spatial Counterpoint dla trzydziestu wykonawców (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Canto to Ezra Pound na orkiestrę kameralną i taśmę kwadrofoniczną (ADAT) (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Trois Chants d’une Anomalie – Chant I na tenor, obój, gitarę, harfę, skrzypce i wiolonczelę (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Altitude 4810 na taśmę kwadrofoniczną (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "ESH na klarnet, puzon i wiolonczelę (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Why am I talking to myself, is it the only alternative for being silent? na skrzypce, klarnet, perkusję i fortepian preparowany (2004-05)",
+      "year": "2004-05"
+    },
+    {
+      "title": "Pieśni Admeta na kontratenor, klarnet, puzon i wiolonczelę (2005)",
+      "year": "2005"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "falkiewicz-adam-en"
+}

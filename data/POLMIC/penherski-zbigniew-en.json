@@ -1,0 +1,271 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/p/penherski-zbigniew-en",
+  "title": "Penherski Zbigniew",
+  "name": "Penherski Zbigniew",
+  "occupation": "composer",
+  "is_composer": true,
+  "description": "composer; b. 26 January 1935 in Warsaw, d. 4 February 2019 in Warsaw. He studied composition with Stefan Bolesław Poradowski at the State Higher School of Music in Poznań (1955-56) and with Tadeusz Szeligowski at the State Higher School of Music in Warsaw (1956-59), where he later studied conducting with Bohdan Wodiczko (1960-63). As a scholarship holder of the Dutch Government, he also studied at the Institute of Sonology in Utrecht (1969). Penherski's music was performed in Poland and abroad, including Austria, Belgium, Denmark, France, the Netherlands, Korea, Mexico, Germany, Norway, the United States, Great Britain, Italy, and the former Soviet Union. He was a prize winner of composition competition such as: Youth Competition of the Polish Composers' Union (1960) for Ostinati , Grzegorz Fitelberg Competition (1964) for Musica humana ; Artur Malawski Competition (1976) for Masurian Chronicles II ; Composing Competition in Gdansk (1992) for Cantus ; Polish Radio Competition (1995) for Genesis . His Little Music for the End of century (1999) was recommended by the International Composers' Tribune in Paris (2001). In 2013, a CD of Penherski's music was released in the series \"Polish Music Today – Portraits of Contemporary Polish Composers\", published by the Polish Composers' Union / Polish Music Information Centre POLMIC in cooperation with the Polish Radio and with the support of the Ministry of Culture and National Heritage. He was a member of Polish Composers' Union (since 1959), Association of Authors ZAIKS (since 1961), Polish Contemporary Music Association, and Warsaw Music Society. He was also an honorary member of the Scottish Society of Composers (1987) and an honorary citizen of Kragujevac in Serbia, Russe in Bulgaria, and Ho-Chi-Minh in Vietnam. Zbigniew Penherski received the Silver Cross of Merit (1975) and the Award of the Prime Minister of Poland for works for children and youth (1982), as well as the Annual Award of the Polish Composers' Union for outstanding compositional creativity and artistic independence (2015). updated: 2019 (ac)",
+  "birth": {
+    "place": "Warsaw",
+    "date": "26 January 1935",
+    "raw": "b. 26 January 1935 in Warsaw"
+  },
+  "death": {
+    "place": "Warsaw",
+    "date": "4 February 2019",
+    "raw": "d. 4 February 2019 in Warsaw"
+  },
+  "works": [
+    {
+      "title": "Two Lullabies for mezzo-soprano and piano (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "Three Songs for soprano and piano (1955)",
+      "year": "1955"
+    },
+    {
+      "title": "Four Preludes for piano (1956)",
+      "year": "1956"
+    },
+    {
+      "title": "Ostinati for mixed choir and orchestra (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Choral Pictures for mixed choir (1960)",
+      "year": "1960"
+    },
+    {
+      "title": "Studies in Colour for piano (1961)",
+      "year": "1961"
+    },
+    {
+      "title": "Three Gipsy Songs for three-part women choir, to the texts by J. Ficowski (1961)",
+      "year": "1961"
+    },
+    {
+      "title": "Three Songs to Old Polish Texts for mixed choir (1961)",
+      "year": "1961"
+    },
+    {
+      "title": "Contrasts for string orchestra, selected instruments and vocal ensemble (1962)",
+      "year": "1962"
+    },
+    {
+      "title": "Musica humana for baritone solo, mixed choir and symphony orchestra, to the texts from the Bible [Latin] (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Three Recitatives for soprano, piano and percussion (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Suite for oboe and piano (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Chamber Alphabet Book, 6 cyclic pieces for various ensembles (1964)",
+      "year": "1964"
+    },
+    {
+      "title": "Missa Abstracta for tenor solo, reciting voice, mixed choir and symphony orchestra, to the texts from the Bible [Latin] and by T. Różewicz (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Street Music for chamber ensemble (1966)",
+      "year": "1966"
+    },
+    {
+      "title": "Samson Put on Trial , radio opera. Libretto by J. Prutkowski (1967)",
+      "year": "1967"
+    },
+    {
+      "title": "Three Recitatives for soprano, piano and percussion [new version] (1968)",
+      "year": "1968"
+    },
+    {
+      "title": "3M-HI for tape (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Children’s Improvisations for instrumental ensembles (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Hymnus laudans for choir and chamber orchestra, to the texts of medieval hymns (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Instrumental Quartet for piano (or other keyboard instrument) and 3 optional instruments (1970)",
+      "year": "1970"
+    },
+    {
+      "title": "Incantationi I for 6 percussionists (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "The Twilight of Peryn , opera (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Masurian Chronicles for symphony orchestra and tape (1973)",
+      "year": "1973"
+    },
+    {
+      "title": "Anamnesis for symphony orchestra (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "Radio Symphony for 2 performers, for tape (1975)",
+      "year": "1975"
+    },
+    {
+      "title": "String Play for string orchestra (1980)",
+      "year": "1980"
+    },
+    {
+      "title": "Edgar – the Son of Walpor , opera. Libretto by composer after the drama of S. I. Witkiewicz (1982)",
+      "year": "1982"
+    },
+    {
+      "title": "Jeux parties for saxophone and percussion (1984)",
+      "year": "1984"
+    },
+    {
+      "title": "Three Impressions for soprano, piano and 4 percussionists (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Scherzino for four violins (1985)",
+      "year": "1985"
+    },
+    {
+      "title": "Scottish Chronicles for symphony orchestra (1987)",
+      "year": "1987"
+    },
+    {
+      "title": "The Island of the Roses , chamber opera. Libretto by K. Meissner (1989)",
+      "year": "1989"
+    },
+    {
+      "title": "Three Songs for Children for two- or three-part choir (1990)",
+      "year": "1990"
+    },
+    {
+      "title": "Signals for symphony orchestra (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Cantus for mixed choir, to the texts from the Bible (1992)",
+      "year": "1992"
+    },
+    {
+      "title": "Introduction and Toccata for clarinet, trombone, cello and piano (1994)",
+      "year": "1994"
+    },
+    {
+      "title": "Genesis for bass solo, vocal ensembles, reciting voices, selected instruments, concrete and electronic sounds (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Signals II for symphony orchestra (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Intrada for symphony orchestra (1995)",
+      "year": "1995"
+    },
+    {
+      "title": "Four Easy Pieces for piano (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Lyric Waltz for street bells, flute, three trumpets and two percussionists (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Scherzino for street bells, flute, clarinet, three trumpets and two percussionists (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Toccata for clarinet, trombone, cello and piano (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Little Music for the End of Century for recorder, organ, two percussionists and tape (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "X-Play for orchestra of 30 flutes (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Let cellos play for 8 cellos (1999)",
+      "year": "1999"
+    },
+    {
+      "title": "Little Suite in Old-Fashioned Style for chamber string orchestra (1999, 2007)",
+      "year": null
+    },
+    {
+      "title": "Cantus II for mixed a cappella choir (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Little March for piano, for 4 hands (2000 )",
+      "year": null
+    },
+    {
+      "title": "Das Wohlpentatonierte Klavier - Scherzo for piano (2000 )",
+      "year": null
+    },
+    {
+      "title": "Impressions on a Theme of B-A-C-H for piano (2000 )",
+      "year": null
+    },
+    {
+      "title": "Dance for three recorders (2001 )",
+      "year": null
+    },
+    {
+      "title": "Little String Litany for chamber string orchestra",
+      "year": null
+    },
+    {
+      "title": "Lamentations for baritone or male soprano and string quaret to selected fragments from the Book of Jeremiah (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Four Psalms for mixed a cappella choir (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Little String Chronicles for string orchestra (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Little \"Autumn\" Symphony (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Lamentacje na baryton lub sopran męski i kwartet smyczkowy do wybranych fragmentów Księgi Jeremiasza (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Brewiarz na sopran męski i kwartet smyczkowy do słów Zbigniewa Herberta (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Cztery utwory bez słów na chór mieszany a cappella (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Mała litania 2 na orkiestrę kameralną (2016)",
+      "year": "2016"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Chomiński Józef, The Music of Polish People’s Republic [Muzyka Polski Ludowej], PWN, Warszawa 1968 Hanuszewska Mieczysława, Schaeffer Bogusław, Almanac of Present Polish Composers [Almanach polskich kompozytorów współczesnych], PWM, Kraków 1982 Polish Opera and Ballet of the Twentieth Century, PWM, Kraków 1986 Who is Who in Poland, Interpress, Warszawa 1989",
+  "slug": "penherski-zbigniew-en"
+}

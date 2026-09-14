@@ -1,0 +1,127 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/g/grubba-gedymin-en",
+  "title": "Grubba Gedymin",
+  "name": "Grubba Gedymin",
+  "occupation": "promoter, composer, performer",
+  "is_composer": true,
+  "description": "composer and organist; born 17th July 1981 in Gdansk. In 2006 he graduated the Stanislaw Moniuszko’s Academy of Music in Gdansk. He studied organ with Roman Perucki and composition with Eugeniusz Glowski. Gedymin Grubba has taken part in numerous master classes in Europe. Since 1996 he plays about sixty concerts in different cities all over the world every year. He is a laureate of various organ competitions and composition competitions. He has made several recordings for the Polish radio, Polish TV and he has also his own CD recordings. Since 2003 he has been the Chairman of the Promotion of Art Gabriel Fauré Foundation in Gdansk which organizes over fifty concerts a year, for instance: The International Festival of Organ Music in the Pelplin Cathedral, the Festival is one of the greatest events of that kind in Poland, moreover it organizes the chamber concert cycle in the St. Mary Church in Koronowo. He also gives demonstrations of the famous organ in the Cathedral in Oliwa. He was a member of the Polish Composers‘ Union Youth Circle. Organist's own internet site: www.gedymin.org",
+  "birth": {
+    "place": "Gdansk",
+    "date": "17th July 1981",
+    "raw": "born 17th July 1981 in Gdansk."
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Trzy fantazje for flute and organ (1996)",
+      "year": "1996"
+    },
+    {
+      "title": "Suita Gdańska for organ (1997)",
+      "year": "1997"
+    },
+    {
+      "title": "Puszkin for voice, piano and guitar (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "The Queen’s Dolour (2000)",
+      "year": "2000"
+    },
+    {
+      "title": "Miniatura for piano (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Dziesięć Ave Maria (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Dwie miniatury for organ (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Dies irae (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Wariacje na temat własny for organ (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "In memoriam for soprano and small symphony orchestra (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Introdukcja i Passacaglia a-moll for organ (2001)",
+      "year": "2001"
+    },
+    {
+      "title": "Symfonia dramma for organ (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "The Dream’s (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "The World (2002)",
+      "year": "2002"
+    },
+    {
+      "title": "Kyrie de Angelis for piano and organ (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "In Paradisum for soprano, piano and organ (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Missa spei (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Oratio pro Pacem (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Getsemani for baritone and female choir (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Gorzkie Żale (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Papa in Memoriam (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Droga Krzyżowa (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Do Sosny Polskiej (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Sinfonia Jubilate for soprano, baritone, reciter, piano, mixed choir and symphony orchestra (2008)",
+      "year": "2008"
+    },
+    {
+      "title": "Santo Subito! na sopran, recytatora, chór mieszany i małą orkiestrę symfoniczną (2011)",
+      "year": "2011"
+    },
+    {
+      "title": "Sanctus na sopran, recytatora, chór mieszany i małą orkiestrę symfoniczną (2014)",
+      "year": "2014"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "grubba-gedymin-en"
+}

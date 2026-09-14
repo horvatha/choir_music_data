@@ -1,0 +1,107 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/w/walicki-adam-en",
+  "title": "Walicki Adam",
+  "name": "Walicki Adam",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": "guitarist and composer; b. 2 May 1976 in Warsaw. He studied with Piotr Lemański at the jazz department of the Fryderyk Chopin State Secondary Music School in Warsaw (1998-2000) and the jazz faculty of the Koninklijk Conservatorium Den Haag (the Netherlands, 2000-02). In 2005 he obtained a master’s degree from the Philosophy and Sociology Faculty of the University of Warsaw. In 2006, 2007 and 2009 he participated in courses of composition and sound engineering at the Institut Recherche et Coordination Acoustique/Musique at Centre Pompidou in Paris. updated in November 2015 (by Adam Walicki)",
+  "birth": {
+    "place": "Warsaw",
+    "date": "2 May 1976",
+    "raw": "b. 2 May 1976 in Warsaw"
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Music for audiobook Game of Thrones dir. Krzysztof Czeczot (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Music for radio drama Andy dir. Krzysztof Czeczot (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Music for radio drama Light in the Night dir. Krzysztof Czeczot (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Music for audiobook Godfather dir. Krzysztof Czeczot (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Music for radio series The Sky Blue Desert dir. Krzysztof Czeczot (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Music for TV theatre Miss HIV dir. Krzysztof Czeczot (2014)",
+      "year": "2014"
+    },
+    {
+      "title": "Slavox 2016 , utwór na głos, klarnet, wiolonczelę, gitarę elektryczną, instrumenty perkusyjne, elektronikę z performansem i instalacją wideo (2016)",
+      "year": "2016"
+    },
+    {
+      "title": "Music for documentary What Is There to Be Afraid Of? dir. Małgorzata Szumowska (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Music for documentary 8 Stories that Did Not Change the World dir. Ivo Krankowski (2010)",
+      "year": "2010"
+    },
+    {
+      "title": "Music for documentary AmericaIs Not Ready For This dir. Karol Radziszewski (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Music for documentary Kisieland dir. Karol Radziszewski (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Music for feature film In the Name... dir. Małgorzata Szumowska (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "Music for documentary The Battle with Satan dir. Konrad Szołajski (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Music for feature film Test dir. Teresa Czepiec (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Music for feature film Creature dir. Irek Grzyb and Ola Gowin (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Music for theatre play Fieldwork on Ukrainian Sex dir. Małgorzata Szumowska, Teatr Polonia (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Music for theatre play Nancy. Interview dir. Claude Bardouil, Krzysztof Warlikowski’s New Theatre (2012)",
+      "year": "2012"
+    },
+    {
+      "title": "Music for theatre play Exhausted dir. Claude Bardouil, Krzysztof Warlikowski’s New Theatre (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Music for theatre play Kansas dir. Marcin Wierzchowski (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Music for theeatre play In the Evening. In Search of Jerzy Pilch dir. Krzysztof Czeczot (2015)",
+      "year": "2015"
+    },
+    {
+      "title": "Music for theatre play The Metamorphosis dir. Krzysztof Czeczot (2015)",
+      "year": "2015"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "walicki-adam-en"
+}

@@ -1,0 +1,55 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/r/rogiewicz-jerzy-en",
+  "title": "Rogiewicz Jerzy",
+  "name": "Rogiewicz Jerzy",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": "composer, percussionist, vibraphone player, and pianist. Born in 1983 in Bydgoszcz, he studied composition with Professor Zbigniew Bujarski at the Academy of Music in Kraków. He also studied with Krzysztof Penderecki (composition and instrumentation) and Magdalena Długosz (electronic music). Still as a student, he played as jazz percussionist with Janusz Muniak, Maciej Adamczak and Paweł Kaczmarczyk. In 2005, together with Piotr Domagalski and Jacek Kita, he set up the Levity band. They have released two albums: Levity (Lado ABC, 2009) and Chopin Shuffle (Universal, 2010). Rogiewicz is also a member of Pink Freud, Trifonidis Orchestra, JazzBand BigBand, and Marcin Masecki's Profesjonalizm. Since 2008 he has been active on Warsaw's independent music scene, writing music and playing with: Joanna Duda, Tomasz Duda, Toshinori Kondo, Gabriela Kulka, Mitch & Mitch, Pink Freud, Marek Pospieszalski, Maryla Rodowicz, Joanna Halszka Sokołowska, M.Bunio.S, Stwory, Paweł Szamburski, Candelaria Saenz Valiente, Maciej Trifonidis Bielawski, Piotr Zabrodzki, Patryk Zakrocki. Rogiewicz is a member of the Jerz Igor duo with Igor Nikiforow. They released together Mała Płyta [Little Album] (2014) featuring 12 songs for children. Updated: May 2014 (ai)",
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Aura for marimba solo (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "After You for tape (2006-2007)",
+      "year": "2006-2007"
+    },
+    {
+      "title": "Concerto da camera (2007)",
+      "year": "2007"
+    },
+    {
+      "title": "Serious Music for 11-person improvising orchestra (2013)",
+      "year": "2013"
+    },
+    {
+      "title": "King Matt I for orchestra, choir and solo voices to words by Grzegorz Uzdański (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Exotic Rhythms for percussion (2019)",
+      "year": "2019"
+    },
+    {
+      "title": "Music for film Zhalanash , dir. by Marcin Sauter",
+      "year": null
+    },
+    {
+      "title": "Music for film The Blood of God , dir. by Bartosz Konopka",
+      "year": null
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "rogiewicz-jerzy-en"
+}

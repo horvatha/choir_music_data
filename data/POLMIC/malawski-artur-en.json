@@ -1,0 +1,187 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/m/malawski-artur-en",
+  "title": "Malawski Artur",
+  "name": "Malawski Artur",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": "composer, music teacher and conductor, b. 4th July 1904 in Przemyśl, d. 26th December 1957 in Cracow. He learned the violin from the age of eight in his hometown, then in 1920-28 studied violin with Jan Chmielewski in the Music Society Conservatory in Cracow (a degree with a silver medal) as well as music theory with Father Bernardin Rizzi. In 1927-33 he gave concerts in Cracow and other cities as well as the Polish Radio, but due to an injury of the left hand he had to abandon a virtuoso’s career. In 1928-36 he was a professor of violin and music theory in the Music Society Conservatory in Cracow, simultaneously teaching violin in the Silesian Music School in Katowice (1929-30) and the Women’s Teacher College in Cracow (1930-32). In 1932 he was a co-founder of the Young Musicians’ Association in Cracow, in whose activity he was later actively involved. In 1936, he started composition studies with Kazimierz Sikorski and conducting studies with Walerian Bierdiajew in the State Music Conservatory in Warsaw (degrees in 1939 with honours in composition). After the outbreak of World War II he found himself in Włodzimierz (now in Ukraine) under the Soviet occupation, and for half a year he conducted the choir and orchestra of the local Ukrainian music theatre. In 1940 he moved to Tarnopol, where he taught the violin and chamber music in a music school; in 1941 he settled in Lwów (Lvov), then in Lublin, where from 1944 he taught the violin privately and organised for the Polish inhabitants concerts played mostly by musicians from Warsaw. From 1945, he taught theory, conducting and composition in the State Higher School of Music in Cracow, where in 1951-52 he was aso the head of the Opera Division at the Vocal Dept., and in 1957 he was appointed to the newly founded Chair of Conducting at Cracow’s State Higher School of Music. In 1950-54 he also taught conducting at the State Higher School of Music in Katowice. In 1955, he was granted the title of professor. Among Malawski’s students, there were numerous composers and conductors, including Janusz Ambros, Karol Anbild, Andrzej Cwojdziński, Andrzej Dobrowolski, Roman Haubenstock-Ramati, Jerzy Katlewicz, Tadeusz Machl, Stefan Marczyk, Krzysztof Missona, Krzysztof Penderecki, Witold Rowicki, Bogusław Schaeffer, Jerzy Semkow, Zdzisław Szostak. In 1945-57 he sporadically performed as a conductor, usually presenting Classical and Romantic works, but also frequently conducting his own compositions. In 1948, he won an artistic success with his Symphonic Studies for piano and orchestra (1948), which were presented during the festival of the International Society for Contemporary Music in Amsterdam. In 1945-48 he served on the Programme Board for Higher Education at the Ministry of Culture and Art. From 1946 he was a board member, and in 1948-51 and again in 1957 – president of the International Society for Contemporary Music, Polish Section. In 1951-54 he was a member of the board in the Polish Composers’ Union. Artur Malawski received numerous awards and distinctions, incl. in 1928 – 1st prize in the Competition of the Cracow Conservatory Society for Mutual Student Aid for his Fable for violin and piano; in 1949 – 2nd prize for Variations for orchestra (1938), 3rd prize for Toccata and Fugue in Variation Form for piano and symphony orchestra (1949) and a honorable mention for Highlander Triptych for piano (1949) in the Frédéric Chopin Competition for Composers; in 1952 – state award, 3rd class for the symphonic sketch Summits for orchestra (1934); in 1955 – state award, 2nd class for compositions and achievements in teaching and the Minister of Culture and Art Award for Piano Trio (1953) and Symphonic Studies ; in 1956 – the Order of the Banner of Labour, 2nd class and the Prize of the Polish Composers’ Union for his work as a composer and music teacher; in 1957 – the City of Cracow Music Award for his artistic achievements, particularly for Symphony No. 2 “Dramatic” (1956). The biennial Artur Malawski Competition for Composers was held in 1962-82 in Cracow.",
+  "birth": {
+    "place": "Przemyśl",
+    "date": "4th July 1904",
+    "raw": "b. 4th July 1904 in Przemyśl"
+  },
+  "death": {
+    "place": "Cracow",
+    "date": "26th December 1957",
+    "raw": "d. 26th December 1957 in Cracow"
+  },
+  "works": [
+    {
+      "title": "String Quartet No. 1 (1926)",
+      "year": "1926"
+    },
+    {
+      "title": "Fable [1st version] for violin and piano (1928)",
+      "year": "1928"
+    },
+    {
+      "title": "Andante, Recitativo misterioso for violin and piano (1928)",
+      "year": "1928"
+    },
+    {
+      "title": "Allegro capriccioso for small orchestra (1929)",
+      "year": "1929"
+    },
+    {
+      "title": "Fable [2nd version] for violin and orchestra (1932)",
+      "year": "1932"
+    },
+    {
+      "title": "String Sextet (1932)",
+      "year": "1932"
+    },
+    {
+      "title": "A Robot for piano (1933)",
+      "year": "1933"
+    },
+    {
+      "title": "Track for piano (1933)",
+      "year": "1933"
+    },
+    {
+      "title": "Eastern Dance for piano (1933)",
+      "year": "1933"
+    },
+    {
+      "title": "Syncopation for piano (1933)",
+      "year": "1933"
+    },
+    {
+      "title": "Summits symphonic sketch for orchestra (1934)",
+      "year": "1934"
+    },
+    {
+      "title": "The Elements in the Tatra ( Highlander Triptych ) for wind quintet (1934)",
+      "year": "1934"
+    },
+    {
+      "title": "Sinfonietta for small orchestra (1935)",
+      "year": "1935"
+    },
+    {
+      "title": "Fugue in an Old Style in A minor for small orchestra (1936)",
+      "year": "1936"
+    },
+    {
+      "title": "Fugue in D major for string trio (1936)",
+      "year": "1936"
+    },
+    {
+      "title": "Fugue in E minor for string quartet (1936)",
+      "year": "1936"
+    },
+    {
+      "title": "Double Fugue in G Minor for string quartet (1937)",
+      "year": "1937"
+    },
+    {
+      "title": "Variations for symphony orchestra (1938)",
+      "year": "1938"
+    },
+    {
+      "title": "Symphony No. 1 (1939-43)",
+      "year": "1939-43"
+    },
+    {
+      "title": "Burlesque for violin and piano (1940)",
+      "year": "1940"
+    },
+    {
+      "title": "Hutsul Piece for violin and piano (1941)",
+      "year": "1941"
+    },
+    {
+      "title": "Ukrainian Fantasy for orchestra (1941)",
+      "year": "1941"
+    },
+    {
+      "title": "String Quartet No. 2 (1943)",
+      "year": "1943"
+    },
+    {
+      "title": "Summits ballet-pantomime for soprano, tenor, baritone, choir and symphony orchestra (1944-50)",
+      "year": "1944-50"
+    },
+    {
+      "title": "Mazurka for piano (1946)",
+      "year": "1946"
+    },
+    {
+      "title": "Five Miniatures for piano (1947)",
+      "year": "1947"
+    },
+    {
+      "title": "Toccata for small orchestra (1947)",
+      "year": "1947"
+    },
+    {
+      "title": "Symphonic Studies for piano and orchestra (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "Overture for symphony orchestra (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "Toccata and Fugue in Variation Form for piano and orchestra (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "Highlander Triptych [1st version] for piano (1949)",
+      "year": "1949"
+    },
+    {
+      "title": "Highlander Triptych [2nd version] for small orchestra (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "Andante e Allegro for violin and piano (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "Mazurka for violin and piano (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "Sonata on Themes from Feliks Janiewicz for violin and piano (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "Siciliana and Rondo on Themes from Feliks Janiewicz for violin and piano (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "Little Choral Suite for mixed unaccompanied choir (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "Popular Suite for orchestra (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Piano Trio (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Symphony No. 2”Dramatic” (1956)",
+      "year": "1956"
+    },
+    {
+      "title": "Hungaria 1956 symphonic music for great orchestra (1957)",
+      "year": "1957"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Schaeffer Bogusław (red.), Artur Malawski. Życie i twórczość [Artur Malawski. Life and Work], PWM, Kraków 1969 Mrygoń Adam, Malawski Artur, In: Encyklopedia Muzyczna PWM (część biograficzna pod red. Elżbiety Dziębowskiej), t. „m” [PWM Music Encyclopaedia, biographical part ed. by Elżbieta Dziębowska], vol. “M”, PWM, Kraków 2000",
+  "slug": "malawski-artur-en"
+}

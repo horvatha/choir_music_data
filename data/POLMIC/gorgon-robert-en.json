@@ -1,0 +1,95 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/g/gorgon-robert-en",
+  "title": "Gorgoń Robert",
+  "name": "Gorgoń Robert",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Requiem na kwartet smyczkowy, chór mieszany, chór dziecięcy, organy i fortepian (1998)",
+      "year": "1998"
+    },
+    {
+      "title": "Gorzkie żale na chór mieszany (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Ziemią wzrok przysypałam , pieśń na głos i fortepian (2003)",
+      "year": "2003"
+    },
+    {
+      "title": "Ze snu , miniatura na fortepian (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Pięć małych etiud na fortepian solo (2004)",
+      "year": "2004"
+    },
+    {
+      "title": "Viaggiaro na fortepian i skrzypce (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Variazioni su un tema di Schoenberg na fortepian i flet (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Emocja na 2 fortepiany (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Sguardo na fortepian (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "PreFuLuGadium na 3 kwartety smyczkowe i wiolonczele (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "L’albero na taśmę (2005)",
+      "year": "2005"
+    },
+    {
+      "title": "Soylilo na 13 instrumentów (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Merore na 2 fortepiany (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Lekcja czytania na taśmę (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "IkseinbeinJar na 15 instrumentów smyczkowych (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Przenikanie na głos, altówkę i fortepian z partiami mówionymi do wiersza Tadeusza Różewicza (2006)",
+      "year": "2006"
+    },
+    {
+      "title": "Pyza Song na organy solo (2009)",
+      "year": "2009"
+    },
+    {
+      "title": "sToccatina na fortepian (2013)",
+      "year": "2013"
+    }
+  ],
+  "publications": null,
+  "bibliography": null,
+  "slug": "gorgon-robert-en"
+}

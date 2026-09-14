@@ -1,0 +1,71 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/k/krzemienski-witold-en",
+  "title": "Krzemieński Witold",
+  "name": "Krzemieński Witold",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": "conductor, composer and teacher; b. 20th April 1909 in Lviv; d. 27th August 2001 in Poznań. He studied violin with Józef Cetner and composition with Adam Sołtys at the Conservatory of the Polish Music Society in Lviv. In 1927 he played viola in the Grand Theatre Orchestra in Lviv. In 1928 he debuted as a conductor with a student orchestra of the Faculty of Architecture of the Lviv Polytechnic National University, which he led until 1930. In 1937-39 he played in the first violins of the Polish Radio Orchestra in Lviv and in 1939-44 again in the Grand Theatre Orchestra as the leader of the violas. In 1944 he was entrusted with the position of conductor of the State Philharmonic in Lviv. He also began to work as a teacher at an evening school for adults. From 1945 to 1947 he was the music director of the Stanisław Wyspiański Theatre in Katowice. In 1946 he became the conductor of the Silesian Philharmonic in Katowice, and in 1947-49 he was its director. In addition, he led the conducting class at the State Higher School of Music in Katowice. From 1949 he was the first conductor of the Kraków Philharmonic. In 1950-63 he led the conducting class at the State Higher School of Music in Kraków and in 1952-53 he also served as its Vice-Rector. In 1953-57 he was the artistic director and the first conductor of the Łódź Philharmonic. He performed works by, among others, Grażyna Bacewicz, Tomasz Kiesewetter, Tadeusz Paciorkiewicz, and Kazimierz Sikorski. In 1961 he received an award at the Kalisz Theatre Meetings for the music to ‘The History of the Lord's Glorious Resurrection’ by Mikołaj of Wilkowiecko directed by Kazimierz Dejmek and staged at the New Theatre in Łódź. In the years 1950-65 he collaborated with the Łódź Feature Film Studio as a composer and conductor. In 1963 he moved to Poznań, where he taught conducting at the State Higher School of Music. In 1973 he received the title of professor. From 1963 to 1967 he was the director of the Poznań Philharmonic, and in 1972-74 the artistic director of the Pomeranian Philharmonic in Bydgoszcz. He conducted orchestras in Poland, Germany, Romania, Hungary, Austria and Belgium. He performed world premieres of numerous works by Polish composers, including Grażyna Bacewicz, Tadeusz Baird, Witold Lutosławski, Krzysztof Meyer, Krystyna Moszumańska-Nazar, Tadeusz Paciorkiewicz, Krzysztof Penderecki, Piotr Perkowski, Ludomir Różycki, Kazimierz Serocki, Bolesław Szabelski. Among his students were Adam Natanek, Irena Pfeiffer, Włodzimierz Szymański, Zygmunt Rychert, Agnieszka Duczmal. Witold Krzemieński received many awards and decorations, including Golden Cross of Merit (1955), Knight's Cross of the Order of Polonia Restituta (1965), Award of the Minister of Culture and Art of the Second Degree (1970), Officer's Cross of the Order of Polonia Restituta (1977), three times the Award of the Minister of Culture and Arts of the First Degree (1977, 1979, 1983). updated: ac (2020)",
+  "birth": {
+    "place": "Lviv",
+    "date": "20th April 1909",
+    "raw": "b. 20th April 1909 in Lviv"
+  },
+  "death": {
+    "place": "Poznań",
+    "date": "27th August 2001",
+    "raw": "d. 27th August 2001 in Poznań"
+  },
+  "works": [
+    {
+      "title": "Duet for violin and viola (1929)",
+      "year": "1929"
+    },
+    {
+      "title": "Divertimento for violin and viola (1937)",
+      "year": "1937"
+    },
+    {
+      "title": "Variations on a theme of Silesian traditional song for orchestra (1948)",
+      "year": "1948"
+    },
+    {
+      "title": "Little Overture for orchestra (1950)",
+      "year": "1950"
+    },
+    {
+      "title": "Song about the Oder river for choir and symphony orchestra (1951)",
+      "year": "1951"
+    },
+    {
+      "title": "Chamber Sketches for flute, viola, bass clarinet and harp (1952)",
+      "year": "1952"
+    },
+    {
+      "title": "Serce załogi for choir and symphony orchestra (1953)",
+      "year": "1953"
+    },
+    {
+      "title": "Concerto for String Orchestra (1954)",
+      "year": "1954"
+    },
+    {
+      "title": "Rybałtowska Suite for orchestra (1963)",
+      "year": "1963"
+    },
+    {
+      "title": "Chamber Etudes for reed trio and percussion (1969)",
+      "year": "1969"
+    },
+    {
+      "title": "Cantata on Polish Song for reciting voice, choir and orchestra (1972)",
+      "year": "1972"
+    },
+    {
+      "title": "Academic Intrade for orchestra (1972)",
+      "year": "1972"
+    }
+  ],
+  "publications": null,
+  "bibliography": "Michalski Grzegorz, Krzemieński Witold, PWM, Kraków 1997 Bęben Aleksandra, Krzemieński Witold, Akademia Muzyczna w Łodzi, Łódź 2001",
+  "slug": "krzemienski-witold-en"
+}

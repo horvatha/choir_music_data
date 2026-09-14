@@ -1,0 +1,187 @@
+{
+  "composer_url": "https://polmic.pl/en/encyclopedia/subject-entries/p/paderewski-ignacy-jan-en",
+  "title": "Paderewski Ignacy Jan",
+  "name": "Paderewski Ignacy Jan",
+  "occupation": "composer, performer",
+  "is_composer": true,
+  "description": null,
+  "birth": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "death": {
+    "place": null,
+    "date": null,
+    "raw": null
+  },
+  "works": [
+    {
+      "title": "Valse mignonne na fortepian (1876)",
+      "year": "1876"
+    },
+    {
+      "title": "Walc F-dur na fortepian (1876?)",
+      "year": null
+    },
+    {
+      "title": "Pieśń F-dur na skrzypce i fortepian (1878)",
+      "year": "1878"
+    },
+    {
+      "title": "Impromptu F-dur na fortepian (1878-79)",
+      "year": "1878-79"
+    },
+    {
+      "title": "Suita Es-dur op. 1 na fortepian (1879)",
+      "year": "1879"
+    },
+    {
+      "title": "Zwei Klavierstücke op. 1 (1879, 1885)",
+      "year": null
+    },
+    {
+      "title": "Trois morceaux op. 2 na fortepian (1880)",
+      "year": "1880"
+    },
+    {
+      "title": "Sonata skrzypcowa a-moll (1880)",
+      "year": "1880"
+    },
+    {
+      "title": "Elegia b-moll op. 4 na fortepian (1880)",
+      "year": "1880"
+    },
+    {
+      "title": "Stara suita (na trzy głosy) op. 3 na fortepian (1880-81)",
+      "year": "1880-81"
+    },
+    {
+      "title": "Danses polonaises op. 5 na fortepian (1881)",
+      "year": "1881"
+    },
+    {
+      "title": "Introduction et toccata op. 6 na fortepian (1881-82)",
+      "year": "1881-82"
+    },
+    {
+      "title": "Romans A-dur op. 7 na skrzypce i fortepian (1881-82)",
+      "year": "1881-82"
+    },
+    {
+      "title": "Chants du voyageur op. 8 na fortepian (1881-82)",
+      "year": "1881-82"
+    },
+    {
+      "title": "Wariacje i fuga F-dur na kwartet smyczkowy (1882)",
+      "year": "1882"
+    },
+    {
+      "title": "Dwa kanony “Z uczniowskiej teki” na fortepian (1882)",
+      "year": "1882"
+    },
+    {
+      "title": "Mazurek G-dur op. 9 nr 1 na fortepian (1882)",
+      "year": "1882"
+    },
+    {
+      "title": "Danses polonaises op. 9 na fortepian (1882, 1884)",
+      "year": null
+    },
+    {
+      "title": "Variations et fugue sur un thème original a-moll op. 11 na fortepian (1882-84)",
+      "year": "1882-84"
+    },
+    {
+      "title": "Cztery pieśni op. 7 do słów Adama Asnyka na głos i fortepian (1882-85)",
+      "year": "1882-85"
+    },
+    {
+      "title": "Koncert fortepianowy a-moll op. 17 (1882-89)",
+      "year": "1882-89"
+    },
+    {
+      "title": "Album tatrzańskie op. 12 na fortepian (1883-84)",
+      "year": "1883-84"
+    },
+    {
+      "title": "Uwertura Es-dur (1884)",
+      "year": "1884"
+    },
+    {
+      "title": "Suita G-dur na orkiestrę smyczkową (1884)",
+      "year": "1884"
+    },
+    {
+      "title": "Powódź a-moll na fortepian (1884)",
+      "year": "1884"
+    },
+    {
+      "title": "Intermezzo „W błyskawiczną noc” g-moll na fortepian (1884)",
+      "year": "1884"
+    },
+    {
+      "title": "Sonata a-moll op. 13 na skrzypce i fortepian (1885)",
+      "year": "1885"
+    },
+    {
+      "title": "Humoresques de concert op. 14 na fortepian (1885-87)",
+      "year": "1885-87"
+    },
+    {
+      "title": "Miscellanea. Série de morceaux op. 16 na fortepian (1885-96)",
+      "year": "1885-96"
+    },
+    {
+      "title": "Dans le désert. Tableau musical en forme d’une toccata Es-dur op. 15 na fortepian (1886-87)",
+      "year": "1886-87"
+    },
+    {
+      "title": "Koncert skrzypcowy (1886-88)",
+      "year": "1886-88"
+    },
+    {
+      "title": "Sześć pieśni op. 18 do słów Adama Mickiewicza na głos i fortepian (1887-93)",
+      "year": "1887-93"
+    },
+    {
+      "title": "Canzone. Chant sans paroles na fortepian (1890-1903)",
+      "year": "1890-1903"
+    },
+    {
+      "title": "Fantazja polska na fortepian i orkiestrę op. 19 (1891-93)",
+      "year": "1891-93"
+    },
+    {
+      "title": "Manru opera (1893-1901)",
+      "year": "1893-1901"
+    },
+    {
+      "title": "Mazurka G-dur na fortepian (1896)",
+      "year": "1896"
+    },
+    {
+      "title": "Sonata es-moll op. 21 na fortepian (1903)",
+      "year": "1903"
+    },
+    {
+      "title": "Wariacje es-moll op. 23 na fortepian (1903)",
+      "year": "1903"
+    },
+    {
+      "title": "Douze mélodies sur des poésies de Catulle Mendès op. 22 na głos i fortepian (1903)",
+      "year": "1903"
+    },
+    {
+      "title": "Symfonia h-moll op. 24 (1903-09)",
+      "year": "1903-09"
+    },
+    {
+      "title": "Album de Mai. Scènes romantiques op. 10 na fortepian (przed 1884)",
+      "year": null
+    }
+  ],
+  "publications": "books The Paderewski Memoirs, (spisała Mary Lawton), Collins, Londyn 1939 Pamiętniki, (spisała Mary Lawton), PWM, Kraków 1984",
+  "bibliography": "Landau Rom, Paderewski, Ivor Nicholson and Watson, Londyn 1934 Landau Rom, Paderewski, Wydawnictwo J. Przeworskiego, Warszawa 1935 Opieński Henryk, Paderewski, PWM, Kraków 1960 Piber Andrzej, Droga do sławy. Ignacy Paderewski w latach 1860-1902, Państwowy Instytut Wydawniczy, Warszawa 1982 Drozdowski Marian Marek, Ignacy Jan Paderewski. Zarys biografii politycznej, Interpress, Warszawa 1986 Lisiak Henryk, Od Kuryłówki do Arlington, SAWW, Poznań 1992 Przybylski Henryk, Paderewski. Między muzyką a polityką, Wydawnictwo Unia, Katowice 1992 Weber Bożena, Paderewski, PWM, Kraków 1992 Kozubek Lidia, Opera \"Manru\" Ignacego Jana Paderewskiego , Wydawnictwo Unia, Katowice 2001 Zamoyski Adam, Paderewski, Państwowy Instytut Wydawniczy, Warszawa 2010",
+  "slug": "paderewski-ignacy-jan-en"
+}
